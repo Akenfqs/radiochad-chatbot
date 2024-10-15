@@ -1,0 +1,4563 @@
+1
+00:03:30,000 --> 00:03:43,000
+Salut à tous, salut et bienvenue sur Radio Chad, on est le lundi 20 novembre 2023 et ce soir c'est
+
+2
+00:03:43,000 --> 00:03:50,440
+une soirée spéciale NFT. Alors un petit peu moins NFT art que d'habitude mais style NFT parce que
+
+3
+00:03:50,440 --> 00:03:56,320
+voilà on va parler des marchés de l'art donc c'est pas la première fois qu'on traite du sujet mais
+
+4
+00:03:56,320 --> 00:04:02,280
+cette fois ci ça va être vraiment une analyse du marché de l'art avec notamment l'éclairage du
+
+5
+00:04:02,280 --> 00:04:10,120
+rapport qui a été publié par NFT 18 et donc pour ce faire j'ai avec nous NFT 18.
+
+6
+00:04:10,120 --> 00:04:19,840
+Et bien très bien derrière c'est Gauthier, le fondateur, j'avoue je suis connecté avec le
+
+7
+00:04:19,840 --> 00:04:24,760
+compte officiel. Merci beaucoup pour l'invitation.
+
+8
+00:04:24,760 --> 00:04:33,760
+Et pour m'accompagner ce soir Pierre Pause qui est à la fois chroniqueur et co-animateur
+
+9
+00:04:33,760 --> 00:04:40,480
+j'ai envie de dire du lundi et qui a fait une petite escapade dans un château récemment
+
+10
+00:04:40,480 --> 00:04:49,880
+et donc qui va nous parler de toutes ces choses aussi en introduction même peut-être aussi plus
+
+11
+00:04:49,880 --> 00:04:57,240
+tard dans l'émission. Salut Pierre ça va? Salut ça va et toi? Ça va super. Tu nous as ambiancé
+
+12
+00:04:57,240 --> 00:05:02,560
+avec ta musique d'entrée. Ah ouais t'as vu ça? C'est un truc que j'ai fait.
+
+13
+00:05:02,560 --> 00:05:06,280
+Elle est cool l'intro j'avoue. Merci merci. C'est sympa.
+
+14
+00:05:06,280 --> 00:05:16,080
+C'est ça excusez-moi je suis trop fort, je suis trop un artiste complet. Non mais ouais je la
+
+15
+00:05:16,080 --> 00:05:24,440
+mettrais en outro alors du coup. Et puis ouais et puis donc du coup Pierre tu m'as dit que tu as
+
+16
+00:05:24,440 --> 00:05:27,480
+été faire un tour dans un château. Alors j'ai pas tout à fait compris puisque tu as fait beaucoup
+
+17
+00:05:27,480 --> 00:05:32,560
+de choses ces derniers temps. Ce que je comprends moi de ta vie c'est que tu es tout le temps en
+
+18
+00:05:32,560 --> 00:05:41,160
+train de manger des petits fours et de parler art dans des galeries un petit peu chic. J'ai remarqué.
+
+19
+00:05:41,160 --> 00:05:46,800
+Alors non je suis pas un on appelle ça les rats de vernissage parce qu'ils vont faire plein de
+
+20
+00:05:46,800 --> 00:05:51,720
+vernissage pour networker et tout. Moi je suis pas du tout comme ça mais par contre je vais à ceux
+
+21
+00:05:51,720 --> 00:05:56,040
+où j'expose quand même. J'ai pas encore la notoriété de ne pas aller à mes vernissages et
+
+22
+00:05:56,040 --> 00:06:04,200
+donc donc et là il y avait en effet à Art Basel Paris où j'avais plusieurs expos qui se superposaient
+
+23
+00:06:04,200 --> 00:06:07,520
+donc c'est vrai que c'était un peu la course. Puis après je suis allé à Dubaï pour un truc
+
+24
+00:06:07,640 --> 00:06:13,040
+c'est pas une expo dont je vous parlerai une autre fois puisque je suis très bullish sur un
+
+25
+00:06:13,040 --> 00:06:19,760
+événement en particulier je sais pas si tu te rappelles dans un des dernières émissions qu'on
+
+26
+00:06:19,760 --> 00:06:25,720
+avait fait il y avait Artemort Brian qui était là et il était à ce moment là dans un château. Je sais
+
+27
+00:06:25,720 --> 00:06:31,320
+pas si tu te rappelles il disait qu'il était. Voilà et donc en fait bon pour contextualiser et
+
+28
+00:06:31,320 --> 00:06:37,760
+je vais dire aussi pourquoi je parle de ça et c'est intéressant qu'on ait NFT18 et Kono aussi
+
+29
+00:06:37,760 --> 00:06:44,400
+dans la boucle parce qu'en fait je trouve que c'est deux aspects il y a deux aspects vraiment
+
+30
+00:06:44,400 --> 00:06:50,160
+scindés dans la question du NFT du crypto art tout ça il y a une question d'une part de vision
+
+31
+00:06:50,160 --> 00:06:55,960
+c'est à dire d'une vision esthétique politique est ce que voilà est ce que cet espace comme on
+
+32
+00:06:55,960 --> 00:06:59,560
+dit va changer quelque chose dans la manière de fabriquer de l'art ou pas et puis il y a un
+
+33
+00:06:59,560 --> 00:07:04,880
+autre côté vraiment technique c'est à dire que en général les gens sont pas technique et il faut
+
+34
+00:07:04,880 --> 00:07:09,480
+pas oublier que la blockchain c'est un truc de traçabilité de lisibilité des choses et donc du
+
+35
+00:07:09,480 --> 00:07:16,520
+coup il y a très peu de gens qui sont technique et donc il y a des sortes de débroussailleurs
+
+36
+00:07:16,520 --> 00:07:22,560
+de l'Etherscan et je trouve ça très intéressant que des gens viennent en fait voilà parce que
+
+37
+00:07:22,560 --> 00:07:27,320
+c'est pas toujours facile d'aller soi-même chercher les trucs et donc des gens comme ça
+
+38
+00:07:27,320 --> 00:07:30,760
+qui sortent de la data et c'est vraiment très précieux c'est vraiment quelque chose qui
+
+39
+00:07:30,760 --> 00:07:35,880
+manque au monde de l'art traditionnel mais du coup là j'aimerais parler rapidement de ce qui
+
+40
+00:07:35,880 --> 00:07:43,320
+s'est passé dans ce dans ce château et vous inviter à lire une petite publication que j'ai
+
+41
+00:07:43,320 --> 00:07:50,040
+fait sur Medium à ce sujet qui s'appelle que j'ai posté là dans le chat mais qui s'appelle
+
+42
+00:07:50,520 --> 00:07:57,200
+Autocraft a tribe with open source DNA. Ce titre en gros veut dire comment entre guillemets redessiner
+
+43
+00:07:57,200 --> 00:08:01,960
+une tribu artistique un mouvement artistique j'emploie pas forcément le mot mouvement avec
+
+44
+00:08:01,960 --> 00:08:08,320
+l'ADN de l'open source c'est à dire j'entends par là finalement une impulsion qui serait liée un peu
+
+45
+00:08:08,320 --> 00:08:12,680
+au début d'internet nous tous qui parlons là on a des âges qui sont pas trop éloignés on pourrait
+
+46
+00:08:12,680 --> 00:08:17,240
+dire qu'on est un peu des internet natifs dans nos manières d'interagir et de voir le monde et
+
+47
+00:08:17,240 --> 00:08:23,440
+mais est ce que finalement les promesses d'internet ont été de l'internet initial ont été
+
+48
+00:08:23,440 --> 00:08:30,040
+comment dire respecté pas sûr on n'est pas sur un truc de peer-to-peer open source machin on est
+
+49
+00:08:30,040 --> 00:08:35,840
+sur des apps qui nous prendent des services et contre nos données ou notre temps de cerveau
+
+50
+00:08:35,840 --> 00:08:40,080
+disponible et il est probable la blockchain a réactualisé ce genre de promesses en se disant
+
+51
+00:08:40,080 --> 00:08:45,160
+bon ben voilà décentralisation il y a une sorte d'idéologie derrière aussi la question c'est est
+
+52
+00:08:45,160 --> 00:08:52,480
+ce que cette promesse va être voilà est ce qu'elle va être respecté quoi entre guillemets dans le
+
+53
+00:08:52,480 --> 00:08:58,080
+futur ou est ce qu'au contraire ça va faire comme internet et que seulement utiliser des apps tout
+
+54
+00:08:58,080 --> 00:09:04,040
+ça bref toute petite digression mais du coup moi j'avais un truc en tant qu'artiste et de se dire
+
+55
+00:09:04,040 --> 00:09:08,560
+qu'elle est un truc très important quand tu es artiste c'est de trouver un peu ta famille d'artistes
+
+56
+00:09:08,560 --> 00:09:13,320
+c'est de te dire rassembler des gens autour de toi que ce soit des artistes même des penseurs ou
+
+57
+00:09:13,320 --> 00:09:17,680
+quoi que ce soit qui pensent un peu comme toi comme une même vision pourquoi parce que dans
+
+58
+00:09:17,680 --> 00:09:21,200
+toute l'histoire de l'art en fait tous les mouvements ou tous les artistes qu'on connaît
+
+59
+00:09:21,200 --> 00:09:25,280
+qui sont arrivés jusqu'à nos oreilles aujourd'hui c'est des gens qui sont constitués en mouvements
+
+60
+00:09:25,280 --> 00:09:29,760
+et qui ont pu être ainsi identifiés comme des paternes dans l'histoire de l'art sauf que depuis
+
+61
+00:09:29,760 --> 00:09:37,840
+les années 60 donc entre guillemets puis aussi voilà l'art numérique l'arrivée de l'art génératif
+
+62
+00:09:37,840 --> 00:09:42,840
+l'arrivée de l'arrivée de plein de formes d'art et ben en fait les artistes n'arrivent pas à se
+
+63
+00:09:42,840 --> 00:09:49,000
+constituer en groupe pour dix mille raisons que j'évoque notamment dans cet article c'est à dire
+
+64
+00:09:49,000 --> 00:09:53,640
+que là aujourd'hui par exemple j'étais au freinois qui était une des écoles que j'ai faite pour qui
+
+65
+00:09:53,640 --> 00:09:58,720
+est un lieu assez incroyable d'expérimentation sur l'art la tech et la science et même au sein du
+
+66
+00:09:58,720 --> 00:10:02,240
+freinois qui resserre déjà des gens ont déjà une carrière un petit peu établie et qui sont
+
+67
+00:10:02,240 --> 00:10:07,800
+censés s'intéresser un peu à des questions voilà similaires ben même au sein du freinois tu mettrais
+
+68
+00:10:07,800 --> 00:10:11,240
+des gens autour d'une table en disant on écrit un manifeste artistique il y aurait une bagarre
+
+69
+00:10:11,400 --> 00:10:16,960
+et donc voilà c'est aussi dans une société un peu individuelle dualiste les artistes échappent
+
+70
+00:10:16,960 --> 00:10:22,960
+pas à ça mais sauf que là dans ce château bizarrement j'ai reçu il y avait donc pas mal
+
+71
+00:10:22,960 --> 00:10:28,520
+de gens du monde entier qui étaient plutôt des techs avec un tropisme pour l'IA cette année
+
+72
+00:10:28,520 --> 00:10:32,400
+mais quand même pas mal de gens de développeurs de gens liés à la blockchain des artistes des
+
+73
+00:10:32,400 --> 00:10:36,880
+penseurs des poètes et au début je vais être honnête avec toi je voulais même pas y aller
+
+74
+00:10:36,880 --> 00:10:41,200
+parce que je me suis dit il n'y a pas de guideline c'est un peu c'était le contraire d'une institution
+
+75
+00:10:41,200 --> 00:10:45,360
+c'était une institution et donc je me suis dit en fait non je vais pas y aller je vais pas perdre
+
+76
+00:10:45,360 --> 00:10:49,720
+mon temps là bas enfin comme tu dis je ressortais j'ai sorti d'une brochette temporelle de plein de
+
+77
+00:10:49,720 --> 00:10:53,840
+choses j'étais un peu fatigué je me suis dit ça peut être très sympa d'aller passer du temps dans
+
+78
+00:10:53,840 --> 00:10:58,360
+un château mais ça va pas être forcément fait con et en fait j'ai regretté de ne pas y avoir
+
+79
+00:10:58,360 --> 00:11:04,800
+passé forcément plus de temps parce qu'en fait j'ai gagné ces trois dernières années entre guillemets
+
+80
+00:11:04,800 --> 00:11:08,200
+où j'ai été un peu actif à essayer de rencontrer des gens intéressants j'ai perdu beaucoup de temps
+
+81
+00:11:08,200 --> 00:11:11,680
+à parler aux mauvais interlocuteurs et c'était compliqué avec le bullrun aussi parce qu'il y
+
+82
+00:11:11,680 --> 00:11:15,320
+avait beaucoup de gens qui monopolisait l'attention et qui n'étaient pas forcément des gens très
+
+83
+00:11:15,320 --> 00:11:19,880
+intéressants ou très sharp par rapport à des questions artistiques et là j'ai eu l'intuition
+
+84
+00:11:19,880 --> 00:11:23,400
+d'avoir rencontré que des gens à chaque fois que je parlais à quelqu'un on parlait pendant une heure
+
+85
+00:11:23,400 --> 00:11:30,520
+et j'aurais pu parler toute la journée avec lui et en fait tu vois notre discussion a été coupée
+
+86
+00:11:30,520 --> 00:11:34,280
+juste par l'envie d'aller parler à quelqu'un d'autre en se disant mais merde en fait le faux
+
+87
+00:11:34,360 --> 00:11:39,280
+mot quoi tu vois et il y a des trucs très féconds qui se sont passés donc voilà je vais pas parler
+
+88
+00:11:39,280 --> 00:11:44,080
+trop longtemps je vous encourage à aller voir l'article j'ai fait une sorte d'exposé non
+
+89
+00:11:44,080 --> 00:11:48,480
+exhaustif de ce qui s'est passé là bas et de ce que j'espère pour la suite c'est à dire c'est
+
+90
+00:11:48,480 --> 00:11:51,160
+peut-être un peu présomptueux de parler de mouvements artistiques ou de choses comme ça
+
+91
+00:11:51,160 --> 00:11:55,360
+mais en tout cas un truc qui ressemblerait un peu à de l'open source où des gens pourraient
+
+92
+00:11:55,360 --> 00:11:59,440
+retrouver un peu leur famille esthétique artistique et quelque chose qui m'a donné
+
+93
+00:11:59,440 --> 00:12:02,840
+aussi beaucoup d'énergie c'est à dire que c'est vrai qu'il y avait un truc un peu fatigant comme
+
+94
+00:12:02,840 --> 00:12:08,960
+ça surtout entraînant un peu sur les réseaux sociaux sur twitter ou même enfin voilà c'est
+
+95
+00:12:08,960 --> 00:12:15,320
+peu d'endorphines ces derniers temps et là voilà gros gros shot d'endorphine donc voilà j'ai fait
+
+96
+00:12:15,320 --> 00:12:20,600
+une sorte de cette publication avec des petits mèmes de circonstances à l'intérieur que je
+
+97
+00:12:20,600 --> 00:12:25,360
+suis allé chercher chez des mèmeurs favoris notamment sur instagram lié à l'art et je parle
+
+98
+00:12:25,360 --> 00:12:30,240
+un peu du marché de l'art justement à la fin de l'article qui est il y a des mèmes intéressants
+
+99
+00:12:30,240 --> 00:12:35,600
+qui montrent en fait que le milieu de l'art est très précaire et que c'est un système qui par sa
+
+100
+00:12:35,600 --> 00:12:40,520
+rétention d'informations en fait arrive à cacher les dusts sous le tapis quoi mais entre guillemets
+
+101
+00:12:40,520 --> 00:12:47,880
+à part quelques acteurs monopolistiques qui sont qui sont en bonne santé économique le reste tire
+
+102
+00:12:47,880 --> 00:12:53,560
+un peu la langue et que et que voilà c'est marrant on parle des nft qui vont pas bien mais tout le
+
+103
+00:12:53,560 --> 00:12:59,680
+monde va pas bien ce moment une crise mondiale il ya des guerres mondiales partout on est en
+
+104
+00:12:59,680 --> 00:13:06,400
+post-covid voilà tous les marchés se portent assez mal le milieu de l'art aussi le milieu de
+
+105
+00:13:06,400 --> 00:13:11,480
+l'art traditionnel j'entends et donc voilà c'est vrai que on tire sur le sur les cryptos quoi qui
+
+106
+00:13:11,480 --> 00:13:16,680
+sont plus volatiles mais du coup c'est intéressant un peu de devenir défricher tout ça et donc donc
+
+107
+00:13:16,680 --> 00:13:20,840
+je vais m'arrêter ici parce que je pourrais parler beaucoup plus longtemps sur cet article
+
+108
+00:13:20,840 --> 00:13:24,560
+quoi mais si ça vous intéresse je vous encourage à aller le voir et à mon avis aura matière à
+
+109
+00:13:24,560 --> 00:13:29,640
+reparler dessus ne serait-ce que sur les différents chapitres on pourra même préinviter les gens
+
+110
+00:13:29,640 --> 00:13:34,920
+invités particuliers pour parler de différents chapitres mais je serais curieux maintenant de
+
+111
+00:13:34,920 --> 00:13:44,320
+discuter avec avec nos invités sur des questions sur des tracéabilité ou même d'idéologie un peu
+
+112
+00:13:44,320 --> 00:13:50,120
+importe mais voilà je trouve ça intéressant d'avoir leur vision j'ai mis ton article en
+
+113
+00:13:50,120 --> 00:13:58,360
+pin donc merci beaucoup j'ai une question pour faire un mini pont entre le sujet du jour est ce
+
+114
+00:13:58,360 --> 00:14:05,760
+que tu viens de dire est ce que tu penses que le fait que ce soit le bear market qui est moins
+
+115
+00:14:05,760 --> 00:14:10,240
+tu sais on soit moins dans un truc un peu en ébullition où les gens n'ont pas le temps il
+
+116
+00:14:10,240 --> 00:14:17,320
+faut aller direct vers là où ou vers le truc le plus efficient que ce soit dans les rencontres
+
+117
+00:14:17,320 --> 00:14:21,960
+ou les discussions etc est ce que tu penses que le fait que l'on soit dans un climat un peu plus
+
+118
+00:14:21,960 --> 00:14:28,000
+apaisé un peu plus en mode moins avec moins d'incentives est ce que ça a contribué au fait
+
+119
+00:14:28,000 --> 00:14:32,840
+que tu as une meilleure expérience au château que peut-être dans le passé peut-être mais après
+
+120
+00:14:32,840 --> 00:14:36,440
+tous les gens qui étaient au château c'était vraiment un peu tous des og tu vois qui était
+
+121
+00:14:36,440 --> 00:14:44,520
+en mode 2011 12 que ce soit des artistes ou des gens de l'écosystème même en mode les dev tout
+
+122
+00:14:44,520 --> 00:14:48,520
+ça donc si tu veux c'est des gens qui se connaissent depuis assez longtemps et qui s'offrent un temps
+
+123
+00:14:48,520 --> 00:14:54,760
+pour de réflexion donc ils ont un peu le moi je suis arrivé beaucoup tardivement dans la crypto
+
+124
+00:14:54,760 --> 00:15:01,280
+que donc si tu veux j'ai eu j'avais cette en fait au moment du boule moi j'avais une énergie que
+
+125
+00:15:01,280 --> 00:15:05,120
+eux avaient pas forcément été plus en retrait en regardant le truc en mode oui bon les gars
+
+126
+00:15:05,120 --> 00:15:14,240
+déjà fatigué de 10 ans de travail on va pas on va pas s'exciter donc oui je pense qu'en fait je
+
+127
+00:15:14,240 --> 00:15:18,560
+pense qu'une des choses bien c'est que à ce moment là dans le château il n'y avait pas de gens
+
+128
+00:15:18,560 --> 00:15:22,920
+parasitaires tu vois c'est à dire que là vraiment ça a écrémé entre guillemets tous les gens qui
+
+129
+00:15:22,920 --> 00:15:27,080
+auraient pu être là pour des mauvaises raisons enfin ou pour des raisons ni artistique ni idéologique
+
+130
+00:15:27,080 --> 00:15:35,040
+ou que sais-je tu vois et donc du coup bon bah ça pour ça c'est intéressant quand même et d'ailleurs
+
+131
+00:15:35,040 --> 00:15:42,280
+tu parles on parle de l'art et justement j'ai donc j'ai parcouru rapidement le dossier le dernier
+
+132
+00:15:42,280 --> 00:15:53,000
+rapport de nft 18 et j'ai aussi écouté une petite partie ou une moyenne partie de de votre
+
+133
+00:15:53,000 --> 00:16:01,280
+interaction avec grégory de big wale aujourd'hui ouais et en fait alors bon j'étais un petit peu
+
+134
+00:16:01,280 --> 00:16:04,920
+dans le milieu des trucs que je voulais vous poser comme question mais c'est pas grave et en gros
+
+135
+00:16:04,920 --> 00:16:12,080
+apparemment l'art finalement dans le dans le marché des nft c'est peu de choses c'est pas autant que
+
+136
+00:16:12,600 --> 00:16:18,680
+par exemple ce que vous qualifiez de collectible c'est en dessous de ça est ce que qu'est ce qui
+
+137
+00:16:18,680 --> 00:16:27,600
+explique la place de l'art dans cette place de l'art dans les nft alors c'est un très bon point
+
+138
+00:16:27,600 --> 00:16:33,760
+alors en fait la place de l'art tel que on peut la voir dans un rapport comme celui ci il ya
+
+139
+00:16:33,760 --> 00:16:39,200
+mécaniquement un biais c'est que c'est la place vu des chiffres les chiffres ne sont pas forcément
+
+140
+00:16:39,280 --> 00:16:45,360
+le reflet de la place qu'elle a dans les mentalités ou que l'art représente tout court pour les
+
+141
+00:16:45,360 --> 00:16:49,320
+collectionneurs par exemple c'est juste que concrètement ce que tu vas voir sur le marché
+
+142
+00:16:49,320 --> 00:16:54,280
+nous c'est ça qu'on regarde c'est la réalité du marché ce qui est en circulation ce qui circule
+
+143
+00:16:54,280 --> 00:16:59,080
+c'est mécaniquement aujourd'hui essentiellement du collectible pour plein de raisons évidentes
+
+144
+00:16:59,080 --> 00:17:04,840
+et que c'est ce qui a quand même marqué la dernière grosse vague des nft pour le meilleur
+
+145
+00:17:04,840 --> 00:17:10,960
+et pour le pire c'est aussi des assets qui sont pour la plupart très chers pas tous mais tu regardes
+
+146
+00:17:10,960 --> 00:17:17,640
+les bordel tu regardes les crypto punk qu'on catégorise nous dans les collectibles ce sont
+
+147
+00:17:17,640 --> 00:17:23,080
+des actifs qui sont à aujourd'hui minimum 100 mille dollars donc concrètement ce qui fait que
+
+148
+00:17:23,080 --> 00:17:28,520
+il y a encore de l'attrait des très gros collectionneurs et des traders enfin bref plein
+
+149
+00:17:28,520 --> 00:17:34,360
+d'autres types d'acteurs qui créent de la liquidité sur ces actifs là donc aujourd'hui tu regardes
+
+150
+00:17:34,360 --> 00:17:41,840
+le marché des nft effectivement il est quasiment saturé enfin c'est mon analyse mais il est saturé
+
+151
+00:17:41,840 --> 00:17:49,320
+de collectibles le chiffre exact je crois que c'est on a 80% des dollars échangés c'est sur
+
+152
+00:17:49,320 --> 00:17:55,200
+du collectible et l'art à côté c'est 7% alors tu peux dire bon bah du coup l'art c'est en tout
+
+153
+00:17:55,200 --> 00:18:02,320
+et pour tout 7% de l'industrie nft bah oui et non c'est juste que oui c'est 7% de la du marché en
+
+154
+00:18:02,320 --> 00:18:09,840
+circulation à l'heure actuelle là en octobre 2023 ce que ces chiffres d'octobre mais ça veut juste
+
+155
+00:18:09,840 --> 00:18:16,040
+dire que l'art est une classe d'actifs qui est un peu moins liquide à ce jour et que les actifs en
+
+156
+00:18:16,040 --> 00:18:20,920
+circulation sont des actifs qui sont relativement peu cher est ce que c'est grave est ce que ça
+
+157
+00:18:20,920 --> 00:18:26,960
+veut dire que l'art n'est pas important à mon sens non et d'ailleurs si tu regardes en comparaison
+
+158
+00:18:26,960 --> 00:18:32,200
+c'est très drôle donc j'ai dit 80% des collectibles à 40% du volume de dollars c'est des
+
+159
+00:18:32,200 --> 00:18:39,400
+collectibles et 7% c'est l'art si tu regardes le nombre de wallets actifs c'est 45% les collectibles
+
+160
+00:18:39,400 --> 00:18:46,040
+et l'art c'est 23% donc à voir ce que je lis là à travers ces deux chiffres c'est que au final tu
+
+161
+00:18:46,040 --> 00:18:51,400
+as encore beaucoup de personnes quasiment un quart en fait de tous les doutes la communauté nft qui
+
+162
+00:18:51,400 --> 00:18:58,400
+s'intéresse à l'art et qui échange des oeuvres d'art tous les mois mais ça représente des volumes
+
+163
+00:18:58,440 --> 00:19:03,560
+en dollars qui sont peu importants et soyons honnêtes les copies la catao ce type d'oeuvre
+
+164
+00:19:03,560 --> 00:19:09,200
+et même les chromis que les autres il circule pas trop en ce moment mon diagnostic par rapport
+
+165
+00:19:09,200 --> 00:19:16,480
+à ça c'est que les personnes qui sont vraiment intéressés par les oeuvres d'art nft crypto
+
+166
+00:19:16,480 --> 00:19:23,000
+comme tu veux ces personnes qui n'ont pas le même comportement que les collectionneurs de collectibles
+
+167
+00:19:23,000 --> 00:19:29,240
+donc ce sont des personnes qui ont bien conscience que la liquidité normale d'une oeuvre d'art c'est
+
+168
+00:19:29,240 --> 00:19:33,520
+peut-être pas 20 jours que tu peux garder une oeuvre d'art plusieurs mois voir peut-être plusieurs
+
+169
+00:19:33,520 --> 00:19:40,200
+années ce qui est globalement la norme dans les marchés de la marge d'art traditionnel et pour
+
+170
+00:19:40,200 --> 00:19:46,080
+donner un chiffre très concret la liquidité au moment au pic du boule market elle est absolument
+
+171
+00:19:46,080 --> 00:19:53,320
+déraisonnable à nft était gardé en moyenne 25 jours dans un portefeuille aujourd'hui à nft est
+
+172
+00:19:53,320 --> 00:19:58,160
+gardé en moyenne 100 jours dans un portefeuille avant d'être vendu donc oui dans l'absolu ça
+
+173
+00:19:58,160 --> 00:20:03,920
+fait fois 4 donc on se rapproche d'une liquidité de trois mois mais soyons honnêtes trois mois ça
+
+174
+00:20:03,920 --> 00:20:08,520
+reste très rapide donc en fait il faut pas se dire que oh mon dieu ça fait fois 4 il ya plus
+
+175
+00:20:08,520 --> 00:20:14,320
+de liquidité c'est mort non c'est plutôt 23 jours c'est totalement déraisonnable ça n'a aucun sens
+
+176
+00:20:14,400 --> 00:20:19,600
+un marché où tout est réchangé très d tous les 20 jours donc voilà on est dans une phase de
+
+177
+00:20:19,600 --> 00:20:26,520
+stabilisation globalement ok ouais c'est ça suite à ce que j'avais compris c'était effectivement que
+
+178
+00:20:26,520 --> 00:20:34,320
+on était encore un peu dans un marché de flippers du notamment alors c'est du plus aux collectibles
+
+179
+00:20:34,320 --> 00:20:39,240
+d'ailleurs que aux oeuvres d'art finalement parce que les oeuvres d'art les gens les gardent plus
+
+180
+00:20:39,240 --> 00:20:47,880
+longtemps dans leur voilette que les collectibles. Oui, vas-y, explique moi. En fait je voulais juste
+
+181
+00:20:47,880 --> 00:20:55,040
+revenir sur le début des choses que je voulais aborder en fait en gros pour recontextualiser
+
+182
+00:20:55,040 --> 00:21:00,440
+la conversation qu'on est en train d'avoir c'est je voulais vous demander déjà qui vous êtes
+
+183
+00:21:00,440 --> 00:21:09,960
+c'est un bon point de départ donc toi et Konohime vous êtes vous êtes vous venez d'un
+
+184
+00:21:09,960 --> 00:21:15,320
+projet qui était avant vous aviez vous travaillez sur un autre projet qui s'appelait non fungible.com
+
+185
+00:21:15,320 --> 00:21:23,400
+ou non fungible je sais pas comment on appelle ça. Nous on disait non fungible.com parce que c'était un peu
+
+186
+00:21:23,400 --> 00:21:29,400
+classe d'avoir son nom de domaine quand même mais sinon le projet enfin la boîte c'est non fungible.com
+
+187
+00:21:29,520 --> 00:21:34,920
+tout à fait. Ok et en gros vous aviez déjà des rapports donc à ce moment là et là vous avez
+
+188
+00:21:34,920 --> 00:21:39,000
+switché vous avez donc c'est un nouveau projet qui s'appelle nft 18 donc en fait je voulais vous poser
+
+189
+00:21:39,000 --> 00:21:46,000
+la question en fait pourquoi vous avez changé de nom qu'est ce qui s'est passé et c'est quoi les
+
+190
+00:21:46,000 --> 00:21:49,920
+changements en fait qui a les nouveautés les trucs vous avez abandonné etc c'est quoi le...
+
+191
+00:21:49,920 --> 00:21:57,280
+Très bonne question très légitime alors pour la petite histoire donc en gros non fungible.com
+
+192
+00:21:57,360 --> 00:22:03,280
+en gros c'est donc le ceo donc il s'appelle dan et moi même qui est l'avion fondé donc en 2018
+
+193
+00:22:03,280 --> 00:22:08,560
+en mars 2018 on s'est rencontré en ligne sur la marketplace de decentraland on a fondé ça
+
+194
+00:22:08,560 --> 00:22:14,000
+et c'est devenu la première plateforme au monde à traquer les marchés nft donc moi j'ai trouvé ça
+
+195
+00:22:14,000 --> 00:22:19,120
+assez cool je me suis dit ça c'est génial on peut faire des rapports donc j'ai commencé en gros courant
+
+196
+00:22:19,120 --> 00:22:26,120
+2018 et en janvier 2019 publié le premier rapport tout court sur les nft parce que personne s'intéressait
+
+197
+00:22:26,120 --> 00:22:34,040
+à ça à ce moment là soyons honnêtes et du coup konami nous a rejoint courant 2019 fin 2019 j'ai un
+
+198
+00:22:34,040 --> 00:22:43,480
+doute sur la date exacte mars 2019 et en fait on a du coup monté cette structure qui est passé de
+
+199
+00:22:43,480 --> 00:22:49,600
+concrètement les deux à on est monté à 14 on a on a eu une très très grosse force de frappe avec
+
+200
+00:22:49,600 --> 00:22:54,520
+non fungible c'était assez incroyable cette histoire et bon je vous passe les détails mais en fait
+
+201
+00:22:54,520 --> 00:23:00,360
+pendant le bear market on a eu des divergences stratégiques assez fortes avec le cio et en fait
+
+202
+00:23:00,360 --> 00:23:04,400
+pour le bien de tout le monde et pour que chacun puisse faire sa vie concrètement on a décidé de
+
+203
+00:23:04,400 --> 00:23:10,440
+séparer nos chemins donc non fungible continue son activité avec le cio à la tête donc bon lui
+
+204
+00:23:10,440 --> 00:23:17,080
+tout seul à la tête de ces structures avec donc une activité qui est plus du coup de reporting
+
+205
+00:23:17,080 --> 00:23:21,560
+mais qui est uniquement en fait donc cet outil en ligne où tu peux retrouver en temps réel toutes
+
+206
+00:23:21,560 --> 00:23:29,720
+les ventes de nft voilà ça pour le coup ça continue et à côté donc nous avec avec noem et en fait
+
+207
+00:23:29,720 --> 00:23:36,080
+on était un peu les les les gars à la manœuvre derrière la publication des rapports donc tous
+
+208
+00:23:36,080 --> 00:23:40,600
+les rapports que vous avez pu croiser dans le tableau.com concrètement c'était nous donc on
+
+209
+00:23:40,600 --> 00:23:44,680
+est sorti là on s'est dit pas tant on continue à faire ce qu'on adore faire et ce pourquoi appuyer
+
+210
+00:23:44,680 --> 00:23:51,160
+on est bon du coup nft 18 ne deviendra pas donc la plateforme où tu vas suivre en temps réel
+
+211
+00:23:51,320 --> 00:23:57,720
+c'est pas le respect de nansen ou de cryptoslave voilà mais par contre notre but c'est d'informer
+
+212
+00:23:57,720 --> 00:24:03,680
+avec un regard critique sur les tendances de marché donc on va publier chaque mois un rapport
+
+213
+00:24:03,680 --> 00:24:09,320
+qui va être à plus ou moins calibré donc sur quelles sont les tendances par segments les profits
+
+214
+00:24:09,320 --> 00:24:14,760
+les pertes et durée de rétention les tendances par blockchain enfin voilà des choses comme assez
+
+215
+00:24:14,760 --> 00:24:20,200
+assez exhaustive et on va essayer autant que possible chaque mois de sortir en complément
+
+216
+00:24:20,240 --> 00:24:25,840
+un rapport un peu focus sur typiquement l'état du watch trading la situation dans les royalties
+
+217
+00:24:25,840 --> 00:24:31,600
+un focus sur par exemple la photographie dans le dans les nft pour donner un regard non pas juste
+
+218
+00:24:31,600 --> 00:24:35,680
+chiffré mais aussi de qu'est ce qui se passe qu'est ce que ça veut dire cette tendance on en
+
+219
+00:24:35,680 --> 00:24:40,120
+est où réellement dans les marchés parce que des chiffres il y en a beaucoup des chiffres qui
+
+220
+00:24:40,120 --> 00:24:44,360
+veulent vraiment dire quelque chose et qui sont analysés bah il y en a à mon sens pas assez
+
+221
+00:24:44,400 --> 00:24:54,200
+ok ouais justement c'est ça en fait quand vous avez commencé la l'émission avec avec
+
+222
+00:24:54,200 --> 00:25:00,360
+greg de big wale où vous avez évoqué notamment à une étude qui a été faite qui a fait qui était
+
+223
+00:25:00,360 --> 00:25:07,280
+reprise par tout le monde le figaro numéro 0 1 net radio france ont tous repris une étude
+
+224
+00:25:07,280 --> 00:25:15,840
+qui dit que c'est de dapp gamble qui dit que 95% des nft ne valent plus rien et et donc donc
+
+225
+00:25:15,840 --> 00:25:21,280
+ils vous posent la question est ce que c'est vrai ou pas et et donc vous avez répondu bah oui non
+
+226
+00:25:21,280 --> 00:25:27,200
+le problème c'est que eux la méthodologie en fait c'est qu'ils ont ils ont analysé à peu
+
+227
+00:25:27,200 --> 00:25:32,400
+près 70 000 projets vous vous en analysez plus de 2 millions genre 2.5 millions quelque chose
+
+228
+00:25:33,200 --> 00:25:37,360
+et donc ma question c'est c'est quoi c'est quoi le type d'outils que vous
+
+229
+00:25:37,360 --> 00:25:41,600
+utilisez pour pour analyser autant de autant de projets de manière pertinente
+
+230
+00:25:41,600 --> 00:25:48,960
+alors je vais donner un début d'élément de réponse mais j'ai laissé konami sur la partie
+
+231
+00:25:48,960 --> 00:25:55,440
+plus plus technique c'est c'est lui notre magicien en chef derrière mais juste pour te dire déjà moi
+
+232
+00:25:55,440 --> 00:26:00,160
+j'appelle rémunération une étude je suis désolé je vais être extrêmement violent mais la méthode
+
+233
+00:26:00,160 --> 00:26:04,880
+au delà du data set qui utilise la méthode au elle est même pas discutable elle ne tient pas debout
+
+234
+00:26:04,880 --> 00:26:11,080
+on est arrivé à dire que 95% des nft ne valent rien ça veut dire techniquement que tu as évalué
+
+235
+00:26:11,080 --> 00:26:19,560
+100% des nft selon quelle méthodologie et enfin concrètement comment tu en arrives à faire cet
+
+236
+00:26:19,560 --> 00:26:24,680
+exercice là et je prends l'exemple que je sors habituellement c'est si tu considères que parce
+
+237
+00:26:24,680 --> 00:26:29,080
+qu'il n'y a pas de liquidité ça ne vaut rien s'il n'y a pas eu de ventes dans le picasso
+
+238
+00:26:29,080 --> 00:26:35,800
+depuis deux ans la code de picasso est à zéro ça vaut plus rien exactement ce genre de cas après
+
+239
+00:26:35,800 --> 00:26:40,240
+donc sur comment nous on analyse comment on traite donc nous aujourd'hui on s'appuie donc on a un
+
+240
+00:26:40,240 --> 00:26:45,680
+data provider qui s'appelle simple h qui du coup sur lequel on s'appuie et qui travaille avec pas
+
+241
+00:26:45,680 --> 00:26:52,440
+mal de boîtes data je travaille avec l'un seul d'apradar et d'autres et nous donc on a notre
+
+242
+00:26:52,440 --> 00:26:57,320
+base de données et là du coup je laisse la main à konami mais sur comment on manipule ces gros
+
+243
+00:26:57,320 --> 00:27:09,320
+volumes je vais vraiment présenter toute la partie technique ouais voilà ça juste la métaux
+
+244
+00:27:09,320 --> 00:27:15,760
+genre comment vous faites pour que ce soit pour en faire quelque chose de pertinent quoi le premier
+
+245
+00:27:15,760 --> 00:27:22,840
+le premier point que j'ai attaqué directement c'est le watch trading parce que pour savoir
+
+246
+00:27:22,880 --> 00:27:30,760
+quels sont les volumes légitimes qui sont donc normaux à analyser c'est capital d'extraire
+
+247
+00:27:30,760 --> 00:27:40,360
+d'abord ça des données donc avant toute chose bah voilà on regarde la donnée qu'on a on l'explore
+
+248
+00:27:40,360 --> 00:27:45,560
+et puis bah en fait après grâce à piton notamment que j'ai appris la suite à ma formation de data
+
+249
+00:27:45,560 --> 00:27:57,600
+analyse j'arrive à manipuler en fait du coup de jusqu'à 24 millions de lignes avant qu'on
+
+250
+00:27:57,600 --> 00:28:03,160
+ordi plante mais si mon ordi était plus puissant je pourrais faire plus du coup mais en gros voilà
+
+251
+00:28:03,160 --> 00:28:08,840
+c'est très basiquement je traite toutes les données de cette manière là et puis ensuite
+
+252
+00:28:08,840 --> 00:28:13,480
+on les segmente donc il ya toute une partie de l'abilisation en fait aussi des données pour
+
+253
+00:28:13,480 --> 00:28:18,120
+savoir à quel segment ils correspondent est ce que bon est ce que c'est un collectible est ce que
+
+254
+00:28:18,120 --> 00:28:23,480
+c'est de l'art est ce que c'est un métaverse est ce que c'est un passe pour accéder à différents
+
+255
+00:28:23,480 --> 00:28:27,480
+bénéfices est ce que c'est plus enfin voilà est ce que c'est croisé avec d'autres donc tout ça
+
+256
+00:28:27,480 --> 00:28:33,360
+on est en train de la béliser parce que c'est forcément un travail manuel à faire même si on
+
+257
+00:28:33,360 --> 00:28:37,080
+connaît quand même beaucoup de collections grâce à notre expérience il y en a quand même beaucoup
+
+258
+00:28:37,080 --> 00:28:43,680
+qu'on connaît pas surtout que là en plus on a plus que Ethereum on a maintenant aussi le l'ensemble
+
+259
+00:28:43,680 --> 00:28:52,360
+des sidechains plus Ordinal donc voilà c'est quand même assez conséquent donc faut tout
+
+260
+00:28:52,360 --> 00:28:57,720
+trier et après voilà on aboutit effectivement à bon on sait qu'il y a tant de collections uniques
+
+261
+00:28:57,720 --> 00:29:01,600
+il y a tant d'acheteurs uniques tant de vendeurs uniques et après on peut faire des calculs
+
+262
+00:29:01,600 --> 00:29:09,840
+beaucoup plus amusant comme la liquidité c'est quel est le taux de rétention aussi des utilisateurs
+
+263
+00:29:09,840 --> 00:29:15,440
+combien de temps ils gardent leur actif c'est comme ça que la soupe peut dire que bon bah en
+
+264
+00:29:15,440 --> 00:29:24,800
+ce moment c'est plutôt 100 jours à la moyenne globale de hold. Il y a un élément je veux juste
+
+265
+00:29:24,800 --> 00:29:30,120
+rajouter à ce que tu as dit nous on a aussi un chiffre qui est assez intéressant qui nous est
+
+266
+00:29:30,120 --> 00:29:35,640
+fourni par le Data Provider qui est la notion de spam en fait au delà du Watch Trading on a aussi
+
+267
+00:29:35,640 --> 00:29:41,680
+des volumes astronomiques de NFT qui sont émis et que on récupère forcément dans la base de données
+
+268
+00:29:41,680 --> 00:29:48,200
+qui sont des NFT qui n'ont jamais été sollicités par personne donc tu as des émissions de volume de
+
+269
+00:29:48,200 --> 00:29:54,680
+NFT alors surtout sur les sidechains tout ce qui est arbitrame, optimism et autres ou l'anecdote
+
+270
+00:29:54,680 --> 00:29:59,040
+que je racontais tout à l'heure c'est que sur les sidechains en question nous on avait un véritable
+
+271
+00:29:59,440 --> 00:30:06,520
+problème, petite anecdote technique mais on s'est retrouvé avec plus de 1,5 tera de data juste pour
+
+272
+00:30:06,520 --> 00:30:11,560
+ces trois blockchains là. Au moment on a fait on va calmer le jeu parce qu'on adore Optimism mais
+
+273
+00:30:11,560 --> 00:30:18,520
+là les volumes étaient ridicules vraiment c'était aberrant. D'ailleurs à ce sujet là je trouvais ça
+
+274
+00:30:18,520 --> 00:30:24,840
+fou parce que dans les chiffres que vous avez sorti j'ai vu qu'il y avait genre énormément
+
+275
+00:30:25,000 --> 00:30:30,520
+de collections genre quasiment 2000 collections sur Ordinals ce qui est autant que Ethereum
+
+276
+00:30:30,520 --> 00:30:38,880
+native et Polygon réunis je trouvais ça fou. Ouais alors Ordinals il y a eu une quantité de
+
+277
+00:30:38,880 --> 00:30:47,200
+production pas forcément de haute qualité soyons tout à fait honnêtes qui a été sidérante alors
+
+278
+00:30:47,200 --> 00:30:52,760
+ça montre aussi le succès du réseau et du coup de la possibilité offerte par Bitcoin Ordinals
+
+279
+00:30:53,560 --> 00:30:58,160
+et d'ailleurs ce que je raconte généralement c'est que nous comme on a ce travail manuel donc
+
+280
+00:30:58,160 --> 00:31:03,400
+de passer sur les collections pour les découvrir, les qualifier du moins, en fait ça nous permet
+
+281
+00:31:03,400 --> 00:31:09,240
+aussi d'avoir une notion la plus exhaustive possible de à quoi ressemblent les marchés
+
+282
+00:31:09,240 --> 00:31:13,760
+NFT aujourd'hui. Qu'est ce qui est proposé et quand tu passes sur Ordinals que tu te paluches
+
+283
+00:31:13,760 --> 00:31:20,480
+600 ou 700 projets par jour et que sur ces 700 projets tu vois qu'il y en a 62 qui s'appelle
+
+284
+00:31:20,520 --> 00:31:27,840
+Crypto Bordet Club Doodle Azuki D26 tu te dis qu'on n'a pas appris en fait.
+
+285
+00:31:27,840 --> 00:31:35,560
+Ouais ouais ouais bah du coup parce que c'est ça il y a un petit peu l'idée c'est un peu comme
+
+286
+00:31:35,560 --> 00:31:42,840
+il y a eu un comme si comme si la débilité s'était juste déplacée vers la chaîne Bitcoin.
+
+287
+00:31:43,840 --> 00:31:49,080
+Disons que je pense qu'ils se sont dit c'est une nouvelle audience qui n'a pas forcément vu les
+
+288
+00:31:49,080 --> 00:31:53,800
+loupés qu'il y avait pu y avoir sur Ethereum. Bon, on va peut-être leur servir la même soupe,
+
+289
+00:31:53,800 --> 00:31:58,000
+ça se trouve il y aura un appétit et pour certains, crois moi crois moi pas, il y a eu
+
+290
+00:31:58,000 --> 00:32:03,880
+un appétit. Donc il s'avère que bon on apprend plus vite. En fait moi la grande conclusion que
+
+291
+00:32:03,880 --> 00:32:08,520
+je tiens de tout ça et c'est à mon sens plutôt positif c'est qu'on apprend beaucoup plus vite.
+
+292
+00:32:08,600 --> 00:32:12,880
+La première vague d'apprentissage elle a duré, je te dis crois moi c'était pas beau,
+
+293
+00:32:12,880 --> 00:32:18,920
+de 2018 à 2020 où on a eu des projets anecdotiques. On a eu au milieu de tout ça,
+
+294
+00:32:18,920 --> 00:32:22,960
+on a quand même eu Cyanbox, on a eu Soraire, on a eu Action Infinity, plein de projets artistiques
+
+295
+00:32:22,960 --> 00:32:28,480
+évidemment qui sont sortis. Mais combien de projets qui n'avaient aucun sens. Ça a pris trois ans,
+
+296
+00:32:28,480 --> 00:32:32,880
+après on a eu une énorme explosion en deux ans où on a eu des milliers de projets collectibles
+
+297
+00:32:32,920 --> 00:32:38,960
+qui essayaient de choper les codes et qui sortaient du coup des projets un peu copycat. Là,
+
+298
+00:32:38,960 --> 00:32:43,800
+Ordinales arrive, évidemment ces mêmes créateurs se disent on va tenter, si il y aura un malentendu
+
+299
+00:32:43,800 --> 00:32:48,560
+ça passe. Ça a marché quelques mois, même pas. Donc on apprend, heureusement on apprend.
+
+300
+00:32:48,560 --> 00:32:57,360
+Moi j'ai une petite question sur les Ordinales justement, il me semblait que c'était une
+
+301
+00:32:57,360 --> 00:33:04,480
+technologie. C'est pareil, j'ai écouté votre émission avec Grégory. En effet, l'asset on-chain
+
+302
+00:33:04,480 --> 00:33:09,040
+et tout c'est incroyable, bien que ça coûte très cher quand même le storage. Si tu fais de la vidéo
+
+303
+00:33:09,040 --> 00:33:13,720
+par exemple, c'est pas une solution à long terme pour un vidéaste qui fait des MP4 d'un ou deux
+
+304
+00:33:13,720 --> 00:33:20,760
+gigas en délivrable. Mais bon bref, sur des petits assets ou des petits GIFs ou des choses comme ça,
+
+305
+00:33:20,760 --> 00:33:25,640
+ça peut jouer. En revanche, l'absence de... alors moi je suis pas très technique,
+
+306
+00:33:25,840 --> 00:33:30,600
+mais l'absence de smart contract. Enfin moi je me rappelle au début dans le Discord et tout,
+
+307
+00:33:30,600 --> 00:33:33,800
+on faisait des trades en peer-to-peer. Enfin c'était une technique vraiment archaïque,
+
+308
+00:33:33,800 --> 00:33:37,400
+quoi. C'était envoie-moi le JPEG, je te promets que je t'envoie les bitcoins, quoi. Il y avait un
+
+309
+00:33:37,400 --> 00:33:44,080
+petit peu un truc comme ça. Et comment vous faites vous pour traquer de la data sur Ordinales du coup?
+
+310
+00:33:44,080 --> 00:33:47,360
+C'est uniquement au niveau des trades et des inscriptions ou est-ce que réellement tu peux
+
+311
+00:33:47,360 --> 00:33:52,200
+un peu voir... parce que je vois très bien comment aller me balader dans Etherscan et aller voir si
+
+312
+00:33:52,200 --> 00:33:56,040
+quelque chose est on-chain ou pas. En revanche sur Ordinales, quand je suis sur le Ordinal Wallet
+
+313
+00:33:56,040 --> 00:34:00,280
+là et que j'ai les blocs qui débarquent devant mes yeux, je t'avoue que c'est un petit peu plus
+
+314
+00:34:00,280 --> 00:34:04,440
+compliqué. Est-ce que vous au niveau de vos datas c'est aussi facile ou est-ce que c'est un autre
+
+315
+00:34:04,440 --> 00:34:13,360
+travail? Alors clairement la data est pré-traitée par Syncolash et du coup moi j'ai des colonnes
+
+316
+00:34:13,360 --> 00:34:20,960
+comme toutes les autres datas. Donc j'ai le nom de la collection, l'acheteur, le vendeur, le montant
+
+317
+00:34:21,320 --> 00:34:31,160
+en Satoshi, voilà, plus plein d'autres informations sur l'inscription en question. Donc à mon avis ça
+
+318
+00:34:31,160 --> 00:34:36,680
+doit provenir quand même probablement d'une API, je pense de Magic Eden ou quelqu'un d'autre,
+
+319
+00:34:36,680 --> 00:34:45,680
+qui fournit en fait tout simplement toutes ces informations. Maintenant, comment dire,
+
+320
+00:34:45,680 --> 00:34:50,120
+j'ai pas vérifié en fait derrière Syncolash s'ils avaient un noeud ou autre en fait pour vérifier
+
+321
+00:34:50,120 --> 00:34:53,640
+directement sur Bitcoin, mais cette partie là c'est eux qui s'en occupent. Moi je récupère vraiment
+
+322
+00:34:53,640 --> 00:34:59,360
+les infos vraiment pré-traitées. Donc du coup ça me facilite genre vraiment énormément. J'allais
+
+323
+00:34:59,360 --> 00:35:04,880
+faire un focus là effectivement sur Ordinal bientôt parce qu'avec la dernière vente du
+
+324
+00:35:04,880 --> 00:35:11,720
+Van Gogh par exemple sur OKEx, il commence à y avoir quelques questions qui se posent. Donc
+
+325
+00:35:11,720 --> 00:35:18,200
+justement je suis content de pouvoir avoir accès aussi simplement à cette information pour pouvoir
+
+326
+00:35:18,280 --> 00:35:26,600
+me concentrer dessus parce que c'est vrai que sur... je crois que sur Dune c'est possible quand même
+
+327
+00:35:26,600 --> 00:35:33,120
+de faire des dashboards, donc on peut voir en fait l'ensemble des transactions et de toutes les
+
+328
+00:35:33,120 --> 00:35:39,200
+informations qui y sont associées de manière assez simple. Voilà, je pense que les outils en
+
+329
+00:35:39,200 --> 00:35:43,280
+même temps sur Ordinal, ce que je me dis c'est que c'est tellement... la communauté est tellement
+
+330
+00:35:43,280 --> 00:35:46,800
+vibrante, ils sortent tellement des outils tous les jours, un peu de chose près, j'exagère,
+
+331
+00:35:46,880 --> 00:35:52,280
+mais ils sont quand même extrêmement efficaces. On peut dire tout ce qu'on veut, mais ils inventent
+
+332
+00:35:52,280 --> 00:36:00,480
+50 000 solutions pour justement... là j'ai pas les... c'est le PTSD, le PVST, un truc comme ça que j'ai
+
+333
+00:36:00,480 --> 00:36:04,440
+cru voir passer sur ma timeline qui consiste effectivement... c'est une technique visiblement
+
+334
+00:36:04,440 --> 00:36:10,680
+qui vise à automatiser un petit peu... quelqu'un de plus technique pourrait compléter, mais un petit
+
+335
+00:36:10,680 --> 00:36:15,080
+peu ce processus d'inscription qui le rendrait plus facile quoi. Parce que moi ce qui me semble,
+
+336
+00:36:15,200 --> 00:36:19,560
+dis-moi si je me trompe, mais c'est que tu sais il y a un peu ce truc sur Ether, code is law,
+
+337
+00:36:19,560 --> 00:36:24,960
+tu vois, qui est auto-opérant et tout. Ordinal c'est un consensus, donc code is pas low du tout,
+
+338
+00:36:24,960 --> 00:36:29,560
+quoi. Si les gens s'arrêtent de croire à ça et de l'utiliser, finalement il y a un peu une sorte
+
+339
+00:36:29,560 --> 00:36:33,520
+de disparition du truc. Alors à la fois c'est ce qui fait sa beauté, mais j'ai l'impression qu'il y a
+
+340
+00:36:33,520 --> 00:36:38,360
+quelque chose qui le rend aussi assez fragile si le consensus disparaît. Est-ce que je me trompe
+
+341
+00:36:38,360 --> 00:36:44,040
+là-dessus? Il y a des guerres, il y a des guerres à l'intérieur des Ordinal, il y a déjà des guerres,
+
+342
+00:36:44,160 --> 00:36:49,400
+et elles sont... c'est le meilleur qui triomphe, c'est le meilleur qui triomphe. Maintenant concernant
+
+343
+00:36:49,400 --> 00:36:53,800
+les Van Gogh, c'est du watch trading, ça a été démontré, et concernant les vidéos si tu veux,
+
+344
+00:36:53,800 --> 00:37:00,760
+il y a ce qu'on appelle les BRC 420 qui risquent de bientôt résoudre ce problème. D'accord,
+
+345
+00:37:00,760 --> 00:37:10,320
+par... tu saurais nous dire pourquoi rapidement, tu veux dire que ça réglerait le problème du prix
+
+346
+00:37:10,320 --> 00:37:16,520
+de la data que tu mets on-chain? Oui, parce que le principe du récursif c'est que tu ne
+
+347
+00:37:16,520 --> 00:37:23,080
+fonctionnes pas sur un Satoshi, mais sur plusieurs Satoshi, et tu répartis ton information, et à la
+
+348
+00:37:23,080 --> 00:37:29,240
+fin elle est rassemblée en une seule image. Mais cette image n'est pas on-chain sur un seul Satoshi,
+
+349
+00:37:29,240 --> 00:37:37,320
+elle se répartit sur plusieurs Satoshi. D'accord, et ça c'est live, enfin c'est quelque chose...
+
+350
+00:37:37,560 --> 00:37:41,720
+C'est en cours de développement, parce que c'est très compliqué, surtout les vidéos,
+
+351
+00:37:41,720 --> 00:37:46,840
+quoi. Mais la question du volume sera réglée de cette manière. C'est-à-dire qu'au début,
+
+352
+00:37:46,840 --> 00:37:51,920
+ils étaient limités à un Satoshi et à un nombre de bytes très limité, ce qui fait que leurs
+
+353
+00:37:51,920 --> 00:37:58,080
+inscriptions étaient ridicules, quoi. Bon, ça a évolué, et depuis cette question du volume sera
+
+354
+00:37:58,080 --> 00:38:04,160
+résolue par ce qu'on appelle les recursive inscriptions, qui vont se répartir sur... tu
+
+355
+00:38:04,160 --> 00:38:09,280
+peux les répartir sur des milliers de Satoshi. D'accord. Jusqu'à la limite d'un bloc, quoi.
+
+356
+00:38:09,280 --> 00:38:22,200
+Non, c'est beaucoup quand même. C'est 4Mb du coup. Ah c'est 4Mb? C'est la taille d'un bloc,
+
+357
+00:38:22,200 --> 00:38:29,080
+c'est pour ça. Je pense que pour l'instant... Oui, non, je suis d'accord avec toi Pierre,
+
+358
+00:38:29,080 --> 00:38:35,360
+la vidéo... Avant qu'on arrive à mettre, on va dire, ouais, un petit 4K, tu vois, tranquille,
+
+359
+00:38:35,360 --> 00:38:41,320
+en 5Go. Ouais, c'est ça, ouais. Et ben on fera des mini-séries. Et en plus, c'est,
+
+360
+00:38:41,320 --> 00:38:47,680
+est-ce qu'à l'avenir, on arrivera à décoder le codec qui a été utilisé s'il n'a pas été
+
+361
+00:38:47,680 --> 00:38:50,400
+open source? Enfin, tu vois, il y a plein de questions aussi au niveau de la vidéo où je
+
+362
+00:38:50,400 --> 00:38:56,200
+me suis posé la question sur le très long terme. C'est pour ça que le SVG est très pratique. Je
+
+363
+00:38:56,200 --> 00:39:00,160
+crois que l'autre format c'est BLEAKMAP parce qu'en fait, comme c'est deux là sur open source,
+
+364
+00:39:00,160 --> 00:39:04,600
+tu peux les décoder directement sur quasiment n'importe quoi. Dans 10 ou 15 ans, il y a peu
+
+365
+00:39:04,600 --> 00:39:13,480
+de chances que ça disparaisse. Le H264, j'en suis moins sûr, tu vois, par exemple. Et c'est-à-dire
+
+366
+00:39:13,480 --> 00:39:18,880
+que même si techniquement sur Bitcoin on y arrive, je veux dire, je ne suis pas sûr que
+
+367
+00:39:18,880 --> 00:39:24,920
+derrière, tout simplement, les codecs vidéo suivent. Donc je... Oui, 5Go c'est énorme,
+
+368
+00:39:24,920 --> 00:39:30,760
+mais 5Mbps c'est déjà résolu. Tu peux chercher BLEAKS, le projet BLEAKS, pour tout ce qui est
+
+369
+00:39:30,760 --> 00:39:39,720
+musical, par exemple. C'est en cours et ce sera bientôt résolu. C'est progressif, 5Go ça viendra
+
+370
+00:39:39,720 --> 00:39:43,400
+plus tard. Je ne sais pas ce qu'ils trouveront comme solution, mais ils sont des centaines de
+
+371
+00:39:43,400 --> 00:39:50,760
+devs et c'est des fous. Et comme il a dit, ils sont efficaces. Après, ce n'est pas le but non plus de
+
+372
+00:39:50,760 --> 00:39:57,360
+Bitcoin d'accueillir autant de données. Oui, mais qui décide? Comment arrêter cette communauté
+
+373
+00:39:57,360 --> 00:40:05,160
+de fous qui grandit? Non, ce n'est pas de l'arrêter, c'est juste qu'il y a des limites. Et puis voilà.
+
+374
+00:40:05,160 --> 00:40:11,880
+Enfin moi, comme je l'ai dit dans l'émission de tout à l'heure, Ordinals, je vois vraiment ça comme...
+
+375
+00:40:11,880 --> 00:40:18,280
+Bon, c'est censé être des chefs-d'oeuvre, des trucs que tu vas méditer avant de le faire. Le but,
+
+376
+00:40:18,280 --> 00:40:21,720
+ce n'est pas d'aller le plus vite possible. Et j'ai l'impression qu'il y a cette hâte un peu dans
+
+377
+00:40:21,720 --> 00:40:27,560
+Ordinals de tout faire très très très vite. C'est super cool, mais bon, Bitcoin ne va pas se barrer
+
+378
+00:40:27,560 --> 00:40:37,960
+comme ça demain. On a le temps, quoi. Oui, mais là, il y a un chiffre technologique qui a eu lieu
+
+379
+00:40:37,960 --> 00:40:43,240
+en décembre 2022. C'est-à-dire déjà en décembre 2022, il y a une limite qui a été franchie, inscrire
+
+380
+00:40:43,240 --> 00:40:47,560
+sur Bitcoin. Maintenant que tu peux inscrire sur Bitcoin, tu es en train d'inscrire pour l'éternité,
+
+381
+00:40:47,560 --> 00:40:54,680
+tout l'univers des IFPS est terminé, la grande migration est en cours, tu vois les volumes sur
+
+382
+00:40:54,680 --> 00:41:00,600
+Bitcoin, d'Ordinals et les volumes de NFT sur Ethereum, c'est en train de s'inverser. Tout ça
+
+383
+00:41:00,600 --> 00:41:06,520
+est une grosse tendance. Oui, je sais, je vais provoquer le drame, oui, mais je le cherche.
+
+384
+00:41:06,520 --> 00:41:12,760
+Actuellement, tu as tort, en fait. Mais c'est pas grave. S'il n'y a pas de drame, c'est pas grave.
+
+385
+00:41:12,760 --> 00:41:18,920
+On verra, c'est à débattre, mais il y a quand même un système qui est croissant et un autre qui
+
+386
+00:41:18,920 --> 00:41:27,480
+est hésitant, on dirait. Juste pour revenir, parce qu'on ne va pas arrêter non plus sur Ordinals
+
+387
+00:41:27,480 --> 00:41:33,720
+toute la soirée non plus, mais peut-être juste pour dire par rapport à cet engouement, il y a
+
+388
+00:41:33,720 --> 00:41:38,800
+probablement aussi l'incentive économique qui fait que les gens se jettent dessus et qui essaient
+
+389
+00:41:38,800 --> 00:41:45,080
+de trouver des nouvelles méthodes, etc. pour mettre d'autres trucs encore différents et faire
+
+390
+00:41:45,080 --> 00:41:49,160
+des nouvelles collections. Ce n'est pas si pire. Je ne sais pas si c'est une bonne chose ou une
+
+391
+00:41:49,160 --> 00:41:54,720
+mauvaise chose pour Bitcoin, mais c'est un peu la même chose que ce qu'on a vécu avant avec la hype
+
+392
+00:41:54,720 --> 00:42:01,720
+des NFT, la hype de la DeFi, etc. C'est que la hype fait qu'il y a des gens qui développent des trucs
+
+393
+00:42:01,720 --> 00:42:07,800
+complètement fous. Et puis, il y a les trois quarts, voire les 4 ou 5e qui vont disparaître.
+
+394
+00:42:08,800 --> 00:42:15,520
+Mais je trouve qu'il y a un truc ultra intéressant là-dedans et j'ai une approche qui peut surprendre
+
+395
+00:42:15,520 --> 00:42:19,200
+et qui est ultra Darwiniste. C'est que tout n'est pas destiné à survivre. Dans tout ce qu'on est
+
+396
+00:42:19,200 --> 00:42:23,880
+en train d'expérimenter, au moment où on a eu les sidechains qui sont apparus, moi, honnêtement,
+
+397
+00:42:23,880 --> 00:42:29,120
+aujourd'hui, entre Arbitrum, Optimism, Polygon et toutes les autres, je ne suis pas sûr que toutes
+
+398
+00:42:29,120 --> 00:42:32,880
+forcément vont cacher un survivre. Il y en a qui vont peut-être disparaître, ce n'est pas grave.
+
+399
+00:42:32,880 --> 00:42:37,360
+Et Bitcoin, je pense qu'honnêtement, mon sentiment, c'est qu'Ordinals, oui, il y a clairement une
+
+400
+00:42:37,360 --> 00:42:41,800
+fonction qui est différente. Ça va sûrement répondre à un autre cas d'usage. Très bien. Mais
+
+401
+00:42:41,800 --> 00:42:46,920
+au final, je pense que... On parle de l'écosystème NFT comme si c'était une espèce d'ensemble unique.
+
+402
+00:42:46,920 --> 00:42:50,760
+Voilà. Mais en fait, pas du tout. Déjà, on le voit aujourd'hui, il y a des segments, il y a des
+
+403
+00:42:50,760 --> 00:42:55,120
+sous-communautés. Déjà, entre l'art, les collectibles et les bêtaverses, c'est des mondes
+
+404
+00:42:55,120 --> 00:43:00,280
+qui n'ont rien à voir. Mais je pense même qu'au sein de l'art, tu vas avoir demain potentiellement
+
+405
+00:43:00,280 --> 00:43:04,640
+une chaîne qui va être dédiée à la photographie, admettons, une qui va être dédiée qu'à la musique
+
+406
+00:43:04,640 --> 00:43:11,400
+parce que les volumes, les possibilités techniques vont permettre ça et parce qu'il y aura eu une
+
+407
+00:43:11,400 --> 00:43:16,440
+innovation incroyable sur cette chaîne-là qui permettra ce type d'interaction. Alors, à mon
+
+408
+00:43:16,440 --> 00:43:19,920
+avis, on va avoir des standards techniques par... Ça justement, c'est très intéressant comme
+
+409
+00:43:19,920 --> 00:43:24,520
+remarque. Et à la lumière de ce que tu viens de dire, je suis assez d'accord avec toi, mais je
+
+410
+00:43:24,520 --> 00:43:27,960
+rajouterais même, il va y avoir des chaînes différentes pour des cas d'usage comme ça,
+
+411
+00:43:27,960 --> 00:43:33,520
+de potentiellement... S'il s'avère que ça doit devenir un standard, tu vois, je sais pas, dans
+
+412
+00:43:33,520 --> 00:43:39,320
+l'art ou dans la musique ou que sais-je, il est fort probable quand même, je me dirais 90%, que
+
+413
+00:43:39,320 --> 00:43:43,840
+toutes ces chaînes soient très centralisées parce qu'en fait, tu vois, et qu'on revienne à des trucs
+
+414
+00:43:43,840 --> 00:43:50,720
+de labels, de galeries, de musées en fait. Et donc du coup, ça déjà, j'aimerais bien votre avis là-dessus.
+
+415
+00:43:50,720 --> 00:43:55,320
+Est-ce qu'on peut faire un truc... Je vois pas comment il pourrait y avoir une massive adoption
+
+416
+00:43:55,320 --> 00:44:01,160
+avec les barrières techniques actuelles de blockchain très décentralisées. Et deuxièmement,
+
+417
+00:44:01,160 --> 00:44:10,280
+est-ce que... Déjà répondre à cette question avant de passer à la suite.
+
+418
+00:44:10,280 --> 00:44:18,560
+Alors, je vais avoir un élément de réponse, je sais pas si je vais répondre à toute ta question,
+
+419
+00:44:18,560 --> 00:44:23,240
+mais pour moi, la principale barrière, c'est l'expérience des bridges. En fait, quand tu passes
+
+420
+00:44:23,240 --> 00:44:27,240
+de l'une à l'autre et autres, c'est un enfer. Toute personne qui a expérimenté ça une fois dans sa vie
+
+421
+00:44:27,240 --> 00:44:33,640
+se dit que c'est vraiment pas pour les néophytes. Mais tu vois, je pense qu'aujourd'hui encore,
+
+422
+00:44:33,640 --> 00:44:38,720
+on a un regard qui est beaucoup, beaucoup trop cristallisé sur la tech. On a une espèce de
+
+423
+00:44:38,720 --> 00:44:46,840
+focus sur ce mot, sur cette notion de NFT. On a une sémantique NFT qui a complètement gelé
+
+424
+00:44:46,840 --> 00:44:52,440
+l'écosystème. On se dit parce que c'est NFT, en gros, ça a de la valeur et parce que si une blockchain,
+
+425
+00:44:52,440 --> 00:44:56,760
+il faut que les gens aillent sur cette blockchain ou celle-là. Dans l'absolu, ma vision, c'est que
+
+426
+00:44:56,760 --> 00:45:01,880
+dans les trois ans, cinq ans peut-être, on parlera plus de blockchain, on parlera même plus de NFT
+
+427
+00:45:01,880 --> 00:45:06,720
+et les gens sauront même pas forcément ce qui se passe en ce moment. Enfin, pas ce qui se passe en ce moment,
+
+428
+00:45:06,720 --> 00:45:12,640
+mais que c'est un NFT qu'ils vont acheter ou sur quelle blockchain ils sont. Certains, un peu plus
+
+429
+00:45:12,640 --> 00:45:17,320
+techniques que d'autres, le sauront. Tout comme aujourd'hui, quand tu vas sur tel site, tu sais
+
+430
+00:45:17,320 --> 00:45:20,960
+que c'est tel standard qu'ils utilisent, qu'ils ont des clouds ou que concrètement c'est fiable
+
+431
+00:45:20,960 --> 00:45:24,760
+parce que je ne sais quoi. Mais pour le commun des mortels, quand ils vont sur Facebook ou Instagram,
+
+432
+00:45:24,760 --> 00:45:28,960
+ils ne se posent aucune question. Ils vont dessus, ça marche et c'est très bien. Demain, quand tu
+
+433
+00:45:28,960 --> 00:45:34,680
+achèteras ton ticket pour aller voir ACDC, s'il tourne encore, non, non, bref, quand tu achèteras ton
+
+434
+00:45:34,680 --> 00:45:39,640
+ticket pour aller à un concert et il s'avérera que ce sera un NFT et en plus, tu es sûr que ce n'est pas
+
+435
+00:45:39,640 --> 00:45:43,120
+un faux, il y a une traçabilité, le mec qui te le vend, il le vend au bon prix. Bref, tout ça.
+
+436
+00:45:43,120 --> 00:45:49,040
+La question, le mot NFT, à mon sens, disparaîtra. Mais la réalité et l'usage, non.
+
+437
+00:45:49,120 --> 00:45:52,840
+Alors je suis tout à fait d'accord avec toi là-dessus, ça s'applique à énormément de cas de massive adoption.
+
+438
+00:45:52,840 --> 00:45:57,360
+En revanche, sur un cas très pratique qui est celui de l'art, où on est dans des prix déraisonnables
+
+439
+00:45:57,360 --> 00:46:02,160
+par rapport à l'usage potentiel, même si on peut considérer qu'il n'y a pas forcément d'usage,
+
+440
+00:46:02,160 --> 00:46:07,520
+le simple fait de s'intéresser à la technique, je ne vois pas comment sans s'intéresser à la
+
+441
+00:46:07,520 --> 00:46:15,720
+technique, on peut acheter un JPEG cher. C'est-à-dire qu'il faut avoir intégré la rareté
+
+442
+00:46:15,720 --> 00:46:24,120
+potentielle ou cette puissance de traçabilité pour pouvoir acheter un asset cher. Parce que moi,
+
+443
+00:46:24,120 --> 00:46:29,440
+par exemple, je suis vidéaste et je fais des vidéos que je vais vendre à des particuliers ou
+
+444
+00:46:29,440 --> 00:46:36,080
+des musées sous des éditions comme des photos, comme des tirages photos. Et le moment où tu
+
+445
+00:46:36,080 --> 00:46:40,560
+passes la clé USB avec un petit papier marqué dessus, je vous promets que c'est l'exemplaire
+
+446
+00:46:40,720 --> 00:46:46,920
+225 certifié par Slash Gallery ou Pierpauz. Le moment est awkward. Du coup, le NFT vient répondre
+
+447
+00:46:46,920 --> 00:46:54,160
+à cette question en disant que c'est plus gênant, c'est même plus tangible qu'un dessin ou qu'une
+
+448
+00:46:54,160 --> 00:46:58,360
+peinture. Mais si tu enlèves la technique de ça, c'est-à-dire que tous les gens qui sont
+
+449
+00:46:58,360 --> 00:47:04,800
+des no-coiners ne comprennent rien à ça et ne vont pas passer le pas de la collection. Ce qui est
+
+450
+00:47:04,800 --> 00:47:07,520
+intéressant, c'est que ça crée des nouveaux collectionneurs et potentiellement aussi des
+
+451
+00:47:07,520 --> 00:47:15,400
+Internet natifs. Qu'est-ce que vous pensez de ça? Je vais t'abîmer en centrant le sujet. Pour moi,
+
+452
+00:47:15,400 --> 00:47:20,200
+j'ai deux niveaux de réponse. Le premier, c'est que, d'un certain nombre, je ne suis pas convaincu
+
+453
+00:47:20,200 --> 00:47:24,480
+que la tech soit absolument indispensable, la compréhension de la technologie soit
+
+454
+00:47:24,480 --> 00:47:31,040
+indispensable pour profiter d'une œuvre NFT ou pour l'acheter, pour investir des sommes folles
+
+455
+00:47:31,040 --> 00:47:36,520
+dedans. Je prends un exemple très concret. Je vous laisse me dire si je me trompe, je suis
+
+456
+00:47:36,520 --> 00:47:41,960
+probablement moins dans le monde artistique traditionnel que vous, mais je pense que tu as
+
+457
+00:47:41,960 --> 00:47:45,960
+énormément de personnes qui vont acheter des monnaies, des chagalls, ce que tu veux, sans
+
+458
+00:47:45,960 --> 00:47:50,880
+forcément savoir à quel point cet artiste-là, ce peintre, a révolutionné, à quel point la technique
+
+459
+00:47:50,880 --> 00:47:56,760
+utilisée sur cette œuvre-là était vraiment aussi importante que ça. Mais j'ai un chagall quand même,
+
+460
+00:47:56,760 --> 00:48:03,600
+c'est chouette. Je pense qu'au fond, de plus en plus, tu vas avoir une dimension où tu vas acheter
+
+461
+00:48:03,640 --> 00:48:09,400
+du X-Copy ou du Akatao ou du Pascal Boyard ou autre, parce que tu veux juste une œuvre de cet
+
+462
+00:48:09,400 --> 00:48:12,960
+artiste-là, parce que tu sais qu'il est connu, parce que tous tes amis du dernier vernissage
+
+463
+00:48:12,960 --> 00:48:16,960
+t'en ont parlé et que toi, t'en as pas, c'est la honte. Ça, c'est mon premier niveau de réponse.
+
+464
+00:48:16,960 --> 00:48:21,760
+Et le deuxième, c'est que malgré tout, tu vas quand même avoir une partie de la population
+
+465
+00:48:21,760 --> 00:48:29,520
+qui va s'intéresser aux enjeux techniques globaux et ils vont avoir une notion. On va, en un moment,
+
+466
+00:48:29,520 --> 00:48:36,480
+balbutier des termes techniques, mais la réalité profonde qui aujourd'hui est où est stockée l'asset
+
+467
+00:48:36,480 --> 00:48:43,360
+sur IPFS, qui est la viabilité long terme, ça passe au-dessus de la tête d'énormément de gens.
+
+468
+00:48:43,360 --> 00:48:49,680
+Et je pense que les collectionneurs, je ne vois pas les collectionneurs faire cet effort de se
+
+469
+00:48:49,680 --> 00:48:55,760
+renseigner à ce niveau-là sur la technique. Donc, je pense qu'on va rester sur une vague
+
+470
+00:48:55,800 --> 00:49:01,960
+compréhension. Est-ce que c'est grave? Donc, la vraie question, pardon, ça serait est-ce que le
+
+471
+00:49:01,960 --> 00:49:06,320
+NFT va devenir un standard de trade, d'œuvre d'art, puisque c'est ce qui nous intéresse ici ou pas?
+
+472
+00:49:06,320 --> 00:49:10,320
+Et au final, même si ça devient un standard, finalement, je n'ai pas l'impression que la
+
+473
+00:49:10,320 --> 00:49:17,840
+décentralisation soit un sujet, puisque en fait, il y aura des tiers de confiance, mais qui sont,
+
+474
+00:49:17,840 --> 00:49:22,200
+si c'est les mêmes tiers de confiance traditionnels, je n'ai jamais vu un gros jeu vidéo
+
+475
+00:49:22,280 --> 00:49:29,320
+arnaquer des gens sur des skins qu'ils avaient. Je ne sais pas ce que tu penses de ça.
+
+476
+00:49:29,320 --> 00:49:35,680
+Vas-y, vas-y, allez-y.
+
+477
+00:49:35,680 --> 00:49:42,080
+Tu peux m'appeler Gauthier. Je suis avec le compte officiel, désolé.
+
+478
+00:49:42,080 --> 00:49:48,000
+Non, en fait, ce que je voulais dire, c'est que oui, tu as cette notion. En fait, ce que tu décris
+
+479
+00:49:48,080 --> 00:49:53,640
+est tristement vrai. C'est que oui, effectivement, aujourd'hui, on ne voit pas trop de jeux vidéo en
+
+480
+00:49:53,640 --> 00:49:57,640
+train de scammer, de voler d'un coup tous les skins et de partir avec la caisse. Oui, c'est vrai,
+
+481
+00:49:57,640 --> 00:50:02,920
+sur un triple A, tu ne vois pas ça. Donc, au final, oui, est-ce que concrètement, on arrive,
+
+482
+00:50:02,920 --> 00:50:06,720
+est-ce que du coup, la blockchain est indispensable pour certifier, parce qu'au final, un bon tiers
+
+483
+00:50:06,720 --> 00:50:14,600
+de confiance bien solide, ça fait le taf? Oui, dans la plupart des cas, dans la plupart des cas,
+
+484
+00:50:14,600 --> 00:50:19,400
+pas tous. Et en fait, c'est là où cette éducation, moi, j'ai envie qu'il y ait les lieux. J'ai envie
+
+485
+00:50:19,400 --> 00:50:25,400
+que les gens comprennent réellement ce que ça veut dire d'avoir un asset réellement on-chain
+
+486
+00:50:25,400 --> 00:50:29,640
+et qu'elle partie est off-chain. Et si jamais le serveur tombe, le fait que tu perdes concrètement
+
+487
+00:50:29,640 --> 00:50:34,800
+le vrai tout. Oui, cette éducation, elle doit arriver petit à petit, mais je pense que ça va
+
+488
+00:50:34,800 --> 00:50:41,120
+prendre énormément de temps. Il faut peut-être décaler un peu pour essayer de voir un exemple
+
+489
+00:50:41,120 --> 00:50:46,440
+par rapport au marché de l'art ou au ticketing. Je prends l'exemple du marché du vin. Moi, je ne
+
+490
+00:50:46,440 --> 00:50:51,560
+conçois pas que dans dix ans, le marché du vin soit indépendant des NFT. Il est entièrement
+
+491
+00:50:51,560 --> 00:50:57,680
+NFTisé de A à Z. Les gens ne sauront pas ce qu'ils manipulent, mais ils achèteront leurs
+
+492
+00:50:57,680 --> 00:51:04,680
+bouteilles par ticketing en quelque sorte. Et bon, ça prendra dix ans, mais c'est inéluctable,
+
+493
+00:51:04,720 --> 00:51:12,720
+c'est inévitable. C'est pour des raisons de simplification, de vitesse, d'efficacité, etc.
+
+494
+00:51:12,720 --> 00:51:17,520
+Donc, tout le marché du vin va être NFTisé. Il n'y a pas une bouteille qui n'aura pas son NFT.
+
+495
+00:51:17,520 --> 00:51:22,080
+Ça ne t'empêchera pas d'acheter la bouteille physique, mais la plupart du temps, tu achèteras
+
+496
+00:51:22,080 --> 00:51:28,760
+d'abord le NFT de la bouteille. Oui, comme dans le luxe avec les sacs,
+
+497
+00:51:28,760 --> 00:51:32,880
+Hermès, ce que sais-je. Mais là, du coup, on est sur des assets déjà pas numériques,
+
+498
+00:51:33,480 --> 00:51:42,280
+totalement off-chain. Et donc, il peut y avoir… En effet, ça n'a aucun intérêt de revendre le
+
+499
+00:51:42,280 --> 00:51:50,640
+sac, le NFT sans le sac, si c'est du… Tu peux tricher là-dessus sur le vin. Je vois ce que tu
+
+500
+00:51:50,640 --> 00:51:55,920
+veux dire, mais encore une fois, la question de la blockchain décentralisée, tu préféreras te
+
+501
+00:51:55,920 --> 00:52:00,440
+fier à une maison qui utilise une blockchain ou non pour qu'elle te certifie la traçabilité d'un vin
+
+502
+00:52:00,560 --> 00:52:09,200
+plutôt qu'à Ethereum et qu'à Conoim qui viendra dire « si, si, c'est du château je ne sais quoi ».
+
+503
+00:52:09,200 --> 00:52:19,840
+J'imagine, mais pour les… Oui, mais par exemple, c'est vrai qu'aujourd'hui,
+
+504
+00:52:19,840 --> 00:52:28,240
+c'est dur de s'imaginer ça dans le sens où quand on s'imagine faire du commerce de real world
+
+505
+00:52:28,360 --> 00:52:37,400
+assets, par exemple n'importe quoi, on s'imagine qu'il faut gérer la logistique à la fois du
+
+506
+00:52:37,400 --> 00:52:42,720
+truc virtuel, donc le NFT, et la logistique du truc physique. Et que comme c'est deux choses
+
+507
+00:52:42,720 --> 00:52:46,120
+séparées, qu'il faut trouver des moyens de faire de sorte que ce ne soit pas séparé ou si c'est
+
+508
+00:52:46,120 --> 00:52:53,000
+séparé, il faut… C'est un délire. On a du mal encore à bien manager ce truc-là, alors que j'imagine
+
+509
+00:52:53,040 --> 00:52:58,120
+que ce que veut dire « financez une explication », c'est un système où en fait tout est automatique,
+
+510
+00:52:58,120 --> 00:53:04,440
+où en fait tu n'as pas vraiment d'emprise sur l'objet virtuel, c'est-à-dire qu'en gros,
+
+511
+00:53:04,440 --> 00:53:11,200
+tu reçois, tu payes avec ton wallet pour avoir ta bouteille et en fait, l'équivalent du NFT de la
+
+512
+00:53:11,200 --> 00:53:14,640
+bouteille va aussi dans ton wallet, un truc du genre, pour assurer la traçabilité, j'imagine,
+
+513
+00:53:14,640 --> 00:53:21,200
+de la bouteille, un truc du genre. Mais ça, c'est carrément autre chose que finalement,
+
+514
+00:53:21,200 --> 00:53:26,880
+l'idée de collectionner soi-même une œuvre d'art ou avoir un livre.
+
+515
+00:53:26,880 --> 00:53:34,040
+On est proche de la supply chain, on est proche du Morpheus Project, on est proche de l'immobilier
+
+516
+00:53:34,040 --> 00:53:41,160
+aussi qui va passer par le NFT. Donc, le domaine du NFT qui commence dans l'art va devenir une
+
+517
+00:53:41,160 --> 00:53:47,760
+espèce de chose énorme où on se souviendra avec nostalgie de l'époque où on échangeait des
+
+518
+00:53:47,760 --> 00:53:54,080
+collectibles. Je n'y connais pas grand-chose, mais je crois que le principe technologique est
+
+519
+00:53:54,080 --> 00:54:01,480
+en train de migrer à grand pas. Je me permets de rebondir là-dessus,
+
+520
+00:54:01,480 --> 00:54:10,680
+parce que pour revenir un peu dans le débat initial et puis aussi autour du rapport de NFT18,
+
+521
+00:54:10,680 --> 00:54:16,280
+il y a une catégorie, c'est justement la catégorie des collectibles. Est-ce que vous
+
+522
+00:54:16,280 --> 00:54:23,720
+pouvez dire à quoi ça correspond? J'espère que ce n'est pas une question bête,
+
+523
+00:54:23,720 --> 00:54:31,720
+parce que j'ai vraiment du mal à cerner cette catégorie, puisque je mets éventuellement trop
+
+524
+00:54:31,720 --> 00:54:35,720
+de trucs qui n'ont rien à voir dedans. Par exemple, les jeux vidéo, comme ça peut être aussi des œuvres
+
+525
+00:54:35,720 --> 00:54:39,720
+d'art et tout. Comment on arrive à délimiter une catégorie pareille?
+
+526
+00:54:40,040 --> 00:54:45,120
+C'est énorme, ce n'est pas du tout une question idiote. Ça a toujours été un des énormes défis
+
+527
+00:54:45,120 --> 00:54:50,880
+qu'on a dès qu'on crée un rapport comme ça. Je te prends quelques exemples très simples.
+
+528
+00:54:50,880 --> 00:54:57,040
+Crypto Punk, c'est de l'art ou c'est un collectible? Il y a d'énormes débats. Nous,
+
+529
+00:54:57,040 --> 00:55:01,440
+du coup, on a mis au point une espèce de cahier des charges de « qu'est-ce qu'un collectible? ».
+
+530
+00:55:01,440 --> 00:55:04,760
+Dans ce cahier des charges, il y a pas mal de critères, notamment la volumétrie,
+
+531
+00:55:05,360 --> 00:55:13,280
+la proposition de valeur, ce qui a été réellement délivré, l'esthétique. La frontière, c'est à mon
+
+532
+00:55:13,280 --> 00:55:16,800
+sens plus avec l'art. « Art collectible », il y a plein de choses qui disent « regardez, on est de
+
+533
+00:55:16,800 --> 00:55:23,240
+l'art ». Concrètement, c'est un copycat de Bordape. Mais nous, on se retrouve avec plein de choses
+
+534
+00:55:23,240 --> 00:55:27,760
+qui annoncent être de l'art. D'ailleurs, sur OpenSea, tu catégorises un peu comme tu veux. Si
+
+535
+00:55:27,760 --> 00:55:34,040
+tu veux dire que ton projet est de l'art, tu peux. Nous, on a ce cahier des charges. La volumétrie,
+
+536
+00:55:34,640 --> 00:55:42,440
+si c'est un chiffre un peu rond, type les 10 000, les 5 555 ou autres, déjà, tu as un indicateur
+
+537
+00:55:42,440 --> 00:55:46,560
+qui va plutôt vers le collectible. Ensuite, la proposition de valeur, c'est faire partie d'un
+
+538
+00:55:46,560 --> 00:55:52,360
+club ou d'un Discord ou être membre de la communauté. Collectible, quasiment, complètement.
+
+539
+00:55:52,360 --> 00:55:59,120
+Et des fois, tu as des cas plus particuliers. Et un des cas les plus entre-deux, vraiment zone
+
+540
+00:55:59,160 --> 00:56:05,240
+grise à mon sens, c'est les Kings and Queens de Hakatao. C'est des artistes connus, reconnus. Il y a
+
+541
+00:56:05,240 --> 00:56:08,520
+une vraie valeur artistique dans ce qu'ils ont produit. Par contre, ça a tous les codes du
+
+542
+00:56:08,520 --> 00:56:14,000
+collectible. La volumétrie, le fait que tous les personnages se ressemblent, le fait que tu
+
+543
+00:56:14,000 --> 00:56:19,040
+aies des variantes. Ça, typiquement, c'est le projet qui est pile entre les deux. On pourrait
+
+544
+00:56:19,040 --> 00:56:22,960
+débattre pendant des heures de ce que oui ou non, c'est de l'art. Eux-mêmes reconnaissent qu'ils
+
+545
+00:56:22,960 --> 00:56:29,480
+ont sorti un projet collectible. C'est très délicat. Mais oui, c'est un long débat.
+
+546
+00:56:29,480 --> 00:56:35,560
+Oui, il y a plein d'artistes qui se sont emparés. Il y a plein d'artistes. Il y a Phinillard aussi,
+
+547
+00:56:35,560 --> 00:56:43,720
+Ed Fourniel, qui se sont servis du collectible comme un médium. C'est marrant de voir qu'il y
+
+548
+00:56:43,720 --> 00:56:49,760
+a eu des hacks dans les hacks et que finalement, tu ne peux pas frame la définition de quelque
+
+549
+00:56:49,760 --> 00:56:54,000
+chose d'artistique ou pas, même sur des critères plus ou moins mathématiques.
+
+550
+00:56:54,000 --> 00:56:59,000
+Complètement. Les ligues se sont brouillées pour le meilleur et pour le pire. Mais du coup,
+
+551
+00:56:59,000 --> 00:57:03,840
+tu as des artistes, enfin, désolé, mais avec beaucoup de guillemets, des artistes un peu
+
+552
+00:57:03,840 --> 00:57:07,760
+obscurs 3D qui ont sûrement fait des choses incroyables avant dans leur vie. Mais du coup,
+
+553
+00:57:07,760 --> 00:57:13,120
+ils ont fait un pur produit collectible en disant « Regardez, c'est fait par l'artiste machin ». Oui,
+
+554
+00:57:13,120 --> 00:57:17,440
+mais ce que tu as fait, c'est totalement un collectible. Et désolé, tu n'es pas connu
+
+555
+00:57:17,440 --> 00:57:21,560
+dans ce monde en tant qu'artiste. Et tout est à proposition de valeur derrière, faire partie
+
+556
+00:57:21,560 --> 00:57:27,520
+d'une communauté, et c'est full collectible. Et de la même manière, et ça, c'est aussi un point
+
+557
+00:57:27,520 --> 00:57:30,880
+sur lequel on a eu beaucoup de questions, des projets qui t'annoncent que demain,
+
+558
+00:57:30,880 --> 00:57:37,360
+ils vont sortir un jeu, un BD, un ce que tu veux, une proposition de valeur qui est longue
+
+559
+00:57:37,360 --> 00:57:41,120
+comme le bras, mais rien n'a jamais été délivré, c'est un collectible.
+
+560
+00:57:41,120 --> 00:57:54,640
+Ah oui, ça c'est un problème d'ailleurs. C'est un sujet qu'on a abordé dans le passé,
+
+561
+00:57:54,640 --> 00:58:00,640
+c'est l'histoire des NFT dans les jeux vidéo. Effectivement, jusqu'à présent, ça a toujours
+
+562
+00:58:00,640 --> 00:58:06,360
+été la collection d'abord et le jeu après. Est-ce que ce truc va changer? D'ailleurs,
+
+563
+00:58:06,360 --> 00:58:11,160
+est-ce que vous avez fait une petite analyse de ce domaine-là, de cette catégorie des jeux
+
+564
+00:58:11,160 --> 00:58:19,280
+vidéo? Comment vous voyez ce marché-là évoluer dans le futur? Vas-y, Colin.
+
+565
+00:58:19,280 --> 00:58:28,800
+Ouais, en fait, pour l'instant, il y a de plus en plus de projets collectibles qui deviennent des
+
+566
+00:58:28,800 --> 00:58:35,600
+jeux vidéo. Mais la collection Genesis, en général, reste, à mon avis, restera un collectible,
+
+567
+00:58:35,600 --> 00:58:42,960
+à moins que ça devienne un avatar dans le jeu. Et dans ce cas-là, ça évoluera. Mais pour
+
+568
+00:58:42,960 --> 00:58:49,960
+l'instant, il n'y a pas eu beaucoup d'exemples en tête de projets qui ont réussi pour l'instant à
+
+569
+00:58:49,960 --> 00:58:56,240
+faire ça, avec un jeu vidéo abouti, j'imagine. Donc, tant que ça ne sert à rien d'autre que
+
+570
+00:58:56,240 --> 00:59:01,480
+soit des landes sur lesquelles tu pourras construire des jeux vidéo dessus, soit où
+
+571
+00:59:01,560 --> 00:59:08,520
+tu l'utiliserais parce que ça servira dans un MMORPG. C'est pour ça qu'on a commencé à réfléchir
+
+572
+00:59:08,520 --> 00:59:15,800
+à des sous-catégories, parce qu'en fait, tout classé en des grands segments, je pense que c'est
+
+573
+00:59:15,800 --> 00:59:19,080
+quand même essentiel, qu'ils peuvent englober. Après, par contre, et là, c'est ce qu'on est en
+
+574
+00:59:19,080 --> 00:59:23,600
+train de voir, des mélanges entre plusieurs genres, que ce soit avec les arts collectibles,
+
+575
+00:59:23,600 --> 00:59:32,880
+ou sur de métaverses jeux vidéo, communément pour moi c'est un MMO. Mais on va finir par le
+
+576
+00:59:32,880 --> 00:59:38,560
+voir arriver, je pense que c'est sûr. Après, pour les actifs qui sont dans les jeux vidéo,
+
+577
+00:59:39,320 --> 00:59:44,160
+moi je les classerais comme une arme, un équipement, des trucs comme ça. Pour moi,
+
+578
+00:59:44,160 --> 00:59:48,960
+ça sera dans l'ordre du jeu vidéo, pas vraiment des collectibles, mais ça sera équipement,
+
+579
+00:59:48,960 --> 00:59:55,840
+tu vois, par exemple. Il y a deux exemples sur Ordinal de ça, un exemple qui ne réussit pas,
+
+580
+00:59:55,840 --> 01:00:00,960
+et un exemple qui réussit. Mais même quand ça ne marche pas, la collection fonctionne. Par exemple,
+
+581
+01:00:00,960 --> 01:00:06,280
+Space Pepe, il prépare un jeu, etc. Le jeu ne viendra jamais à mon avis. Pourtant, il y a des
+
+582
+01:00:06,280 --> 01:00:11,160
+swipes réguliers, et la collection fonctionne comme une collection normale. D'un autre côté,
+
+583
+01:00:11,160 --> 01:00:16,680
+il y a Bitmap, c'est le type qui a numéroté les 800 000 blocs de Bitcoin et qui les a vendus comme
+
+584
+01:00:16,680 --> 01:00:23,760
+des territoires, le DOT Bitmap. Donc, tu achètes un numéro, je ne sais pas, le 153 252 DOT Bitmap,
+
+585
+01:00:23,760 --> 01:00:28,320
+et tu possèdes toutes les transactions qu'il y a à l'intérieur, tu peux parcelliser ces transactions,
+
+586
+01:00:28,320 --> 01:00:34,560
+le nombre de wallets de la sandbox est écrasé. Je ne sais pas s'ils atteindront le market cap de
+
+587
+01:00:34,560 --> 01:00:39,080
+la sandbox, parce que s'ils atteignent le market cap de la sandbox, chaque Bitmap correspondra à
+
+588
+01:00:39,200 --> 01:00:47,680
+0.1 Bitcoin. Mais le problème, c'est qu'ils vont construire un metaverse dessus, c'est ce qu'ils
+
+589
+01:00:47,680 --> 01:00:51,440
+comptent faire. Donc, tu es en train d'acheter l'infrastructure exactement comme tu achetais
+
+590
+01:00:51,440 --> 01:00:56,520
+sur la sandbox. Seulement, si on se souvient de Destin, Decentraland, c'était trois tendus par
+
+591
+01:00:56,520 --> 01:01:01,560
+jour qu'ils visitaient. La sandbox, c'est très bien, on a vendu l'espace, mais qu'est-ce qu'on
+
+592
+01:01:01,560 --> 01:01:07,360
+fait dans cet espace? Est-ce qu'on va juste se promener et jouer au poker? Donc, c'est très
+
+593
+01:01:07,360 --> 01:01:17,120
+difficile de réellement mettre en place ou bien du gaming ou bien un metaverse valable. Mais la
+
+594
+01:01:17,120 --> 01:01:23,080
+vente de l'infrastructure fonctionne quand même. Je suis d'accord. Juste pour ajouter un élément
+
+595
+01:01:23,080 --> 01:01:30,360
+là-dessus, j'ai un regard qui est un petit peu différent. Quand tu vois les énormes studios,
+
+596
+01:01:30,360 --> 01:01:37,040
+les Ubisoft et autres qui ont essayé de se lancer dans le gaming NFT, ils se sont pris un gigantesque
+
+597
+01:01:37,120 --> 01:01:41,880
+mur en phase 2 parce que la communauté a rejeté ça en bloc. Leurs joueurs concrètement se sont
+
+598
+01:01:41,880 --> 01:01:46,320
+dit « bon, vous êtes déjà en train de nous arnaquer au quotidien à nous vendre des DLC en boucle,
+
+599
+01:01:46,320 --> 01:01:49,760
+vous avez entendu parler des NFT, vous voulez absolument encore plus nous tirer notre argent,
+
+600
+01:01:49,760 --> 01:01:56,040
+bon désolé, mais non, on ne soutient pas ». Et à côté de ça, quand tu as des projets NFT qui
+
+601
+01:01:56,040 --> 01:02:00,080
+essayent d'aller vers le gaming et beaucoup se sont dit « attends, c'est trop bien, on a une
+
+602
+01:02:00,080 --> 01:02:04,240
+communauté qui est forcément un peu technophile, un peu geek en face de nous, ils vont absolument
+
+603
+01:02:04,520 --> 01:02:11,840
+adorer un jeu vidéo ». Je résume, mais c'est un peu le schéma. Et ils se sont rendu compte pour
+
+604
+01:02:11,840 --> 01:02:18,040
+beaucoup que développer un jeu vidéo de qualité en 2023 qui soit à la hauteur des jeux sympas,
+
+605
+01:02:18,040 --> 01:02:22,600
+c'est un travail colossal. Tu ne t'improvises pas, développeur de jeux vidéo, comme ça. Donc,
+
+606
+01:02:22,600 --> 01:02:26,600
+en fait, on s'est retrouvé avec un monde du jeu vidéo qui a essayé de revenir vers le NFT,
+
+607
+01:02:26,600 --> 01:02:32,440
+qui s'est fait complètement stopper. Et d'un autre côté, des projets NFT, certains avec des gros
+
+608
+01:02:32,440 --> 01:02:35,920
+moyens qui essaient d'aller vers le jeu vidéo, mais ils se rendent compte que ça prend un temps
+
+609
+01:02:35,920 --> 01:02:40,600
+colossal, que ça demande des expertise et plein de choses. Donc, typiquement, je ne connaissais
+
+610
+01:02:40,600 --> 01:02:45,240
+pas les projets qui ont été cités là, mais je pense qu'un Yuga est potentiellement capable de
+
+611
+01:02:45,240 --> 01:02:50,280
+sortir un jeu digne de ce nom. Ils ont la force de frappe, ils ont les sous. Voilà, on verra.
+
+612
+01:02:50,280 --> 01:02:57,080
+Moi aussi, je pensais vraiment que ça pouvait venir éventuellement de là. Surtout, Yuga Labs,
+
+613
+01:02:57,080 --> 01:03:00,960
+ils ont montré beaucoup de force à un moment donné. Ils ont surpris beaucoup de monde avec
+
+614
+01:03:01,040 --> 01:03:08,840
+leurs événements, avec tous les trucs qu'ils ont fait dans le Métaverse, avec la compagnie qui
+
+615
+01:03:08,840 --> 01:03:14,160
+s'est fait spécialiser là-dedans, je ne sais plus le nom. Et en fait, le Bear Market a tout emporté.
+
+616
+01:03:14,160 --> 01:03:23,320
+Tout a été fait out et on n'entend plus du tout parler de tous ces projets. Et d'ailleurs,
+
+617
+01:03:23,320 --> 01:03:30,720
+ça a emporté aussi toute la hype du Métaverse, finalement. Je ne sais pas, dans votre analyse,
+
+618
+01:03:31,480 --> 01:03:36,920
+où ça en est le Métaverse, mais est-ce qu'on a des nouvelles de ce marché-là? Est-ce que vous
+
+619
+01:03:36,920 --> 01:03:44,800
+pensez que ça va reprendre? C'est quoi votre opinion? Alors, dans mon regard, c'est que le
+
+620
+01:03:44,800 --> 01:03:48,280
+segment des Métaverse, alors qu'on renomme Virtual Worlds aujourd'hui parce que c'est un peu plus
+
+621
+01:03:48,280 --> 01:03:52,880
+générique, mais c'est la même chose, c'est probablement celui qui a le plus souffert de
+
+622
+01:03:52,880 --> 01:03:58,320
+cette explosion de la bulle. Parce qu'en fait, il y a eu un double effet. Donc, globalement,
+
+623
+01:03:59,320 --> 01:04:06,680
+le marché NFT a gonflé comme une beaude ruche dans l'espace de quelques mois. Et en plus de ça,
+
+624
+01:04:06,680 --> 01:04:11,640
+tu as Mark Zuckerberg qui se dit « c'est incroyable, moi Mark Zuckerberg, l'icône de la Silicon
+
+625
+01:04:11,640 --> 01:04:16,240
+Valley, je renomme ma boîte Méta parce que ça, c'est l'avenir ». Alors là, double effet. Donc,
+
+626
+01:04:16,240 --> 01:04:21,400
+concrètement, les Métaverse sont du coup doublement gonflés, plus que n'importe quel autre segment.
+
+627
+01:04:21,400 --> 01:04:25,080
+Donc, on se retrouve avec des volumes absolument astronomiques, des valorisations qui n'ont plus
+
+628
+01:04:25,080 --> 01:04:29,600
+aucun sens. Bref. Et d'ailleurs, certaines boîtes en ont profité, grand bien à leur face. Mais
+
+629
+01:04:29,600 --> 01:04:35,640
+aujourd'hui, du coup, on a un marché qui est plus que ralenti. Aujourd'hui, pour un exemple très
+
+630
+01:04:35,640 --> 01:04:43,360
+concret, les Virtual Worlds, ça représente 1% du volume de dollars tradés et 3% des wallets
+
+631
+01:04:43,360 --> 01:04:49,920
+actifs. Ce n'était pas le cas il y a un an, un an, un an et demi, ce n'était pas du tout comme ça.
+
+632
+01:04:49,920 --> 01:04:52,120
+C'était combien il y a un an et demi?
+
+633
+01:04:52,120 --> 01:04:57,040
+On était, alors je ne vais pas dire de bêtise, mais c'était plutôt dans les 15%, quelque chose
+
+634
+01:04:57,040 --> 01:04:58,120
+comme ça. Ah ouais, ok, d'accord.
+
+635
+01:04:58,120 --> 01:05:01,920
+Oh oui, c'était important, c'était vraiment important. Au pic du pic, quand en fait,
+
+636
+01:05:01,920 --> 01:05:08,680
+les Virtual Worlds, Métaverse, ont vraiment explosé vers la fin du bull market. Donc,
+
+637
+01:05:08,680 --> 01:05:13,440
+en fait, ils ont eu un peu leur propre bull market à eux. Mais par contre, au moment où,
+
+638
+01:05:13,440 --> 01:05:17,360
+et d'ailleurs, les médias ont joué un rôle colossal là-dedans, quand tous les médias ont
+
+639
+01:05:17,360 --> 01:05:21,400
+commencé à pointer du doigt que ça ne marchait pas, que personne ne rentrait dans ces Métaverse,
+
+640
+01:05:21,720 --> 01:05:25,160
+les chiffres que vous donnez, c'est vrai que sur Decentraland, il n'y a pas grand monde,
+
+641
+01:05:25,160 --> 01:05:30,000
+c'est vrai que ce n'est pas très beau non plus. Enfin bref, du coup, tout ça, et surtout,
+
+642
+01:05:30,000 --> 01:05:33,560
+qu'ils ont commencé à taper sur Mark Zuckerberg, qui avait renommé sa boîte et qui était allé
+
+643
+01:05:33,560 --> 01:05:39,720
+all-in dans le Métaverse. Et maintenant, on n'est pas prêt. Et l'exemple le plus concret que j'ai,
+
+644
+01:05:39,720 --> 01:05:45,160
+c'est, désolé, ma propre expérience quand j'ai acheté ma première parcelle dans Decentraland
+
+645
+01:05:45,160 --> 01:05:51,360
+en février 2018. En pire tout pire, j'envoie des sous, j'espère que quelqu'un m'envoie la parcelle,
+
+646
+01:05:51,480 --> 01:05:58,400
+il me l'a envoyée, c'était gentil. Et au bout de six mois, un an, deux ans, je me dis,
+
+647
+01:05:58,400 --> 01:06:02,560
+ben en fait, il ne se passe pas grand chose. Puis quand ils ont sorti la bêta, j'ai vu que
+
+648
+01:06:02,560 --> 01:06:08,040
+c'était pas beau en fait, par rapport au standard actuel. C'est quand même pas incroyable. Donc,
+
+649
+01:06:08,040 --> 01:06:13,120
+ben j'ai fini par revendre en 2020. Pour ne dire que je regrettais après, mais tout le monde a
+
+650
+01:06:13,120 --> 01:06:17,040
+réalisé en fait que ce n'était pas aussi ouf qu'il n'y paraît.
+
+651
+01:06:17,160 --> 01:06:22,800
+Et puis, il y a un problème supplémentaire dans le metaverse auquel moi j'ai été confronté avec
+
+652
+01:06:22,800 --> 01:06:29,000
+CryptoVoxel. C'est que, comment dire, j'avais acheté aussi des terrains sur CryptoVoxel et
+
+653
+01:06:29,000 --> 01:06:34,280
+à l'époque, il n'y avait pas encore d'île. Donc, tu avais le territoire principal, c'était un
+
+654
+01:06:34,280 --> 01:06:40,120
+énorme carré qui s'appelle Origines, avec tous les terrains de base. Et en fait, c'était censé être
+
+655
+01:06:40,120 --> 01:06:49,240
+comme ça. Et je crois même qu'à l'époque, le mec qui gère ce projet-là, il avait dit qu'il n'y
+
+656
+01:06:49,240 --> 01:06:56,680
+avait pas à avoir de nouveaux territoires. Et cette prophétie ne s'est jamais réalisée. En fait,
+
+657
+01:06:56,680 --> 01:07:02,240
+il a commencé à avoir, je pense, besoin d'argent et il s'est mis à créer des îles avec plein de
+
+658
+01:07:02,240 --> 01:07:07,920
+parcelles. Et évidemment, les gens en ont eu marre. En plus du fait que les conditions du marché n'étaient
+
+659
+01:07:08,040 --> 01:07:11,920
+pas au top, les gens ont commencé à faire comme « bah ouais, mais alors, attendant, parce que s'il
+
+660
+01:07:11,920 --> 01:07:15,400
+commence à... » Moi, j'ai acheté mon terrain, tant d'Ethereum, maintenant, s'il commence à créer
+
+661
+01:07:15,400 --> 01:07:21,320
+des terrains un peu partout, ça ne vaut plus rien. Donc, ça a commencé à vendre en basse. Et en fait,
+
+662
+01:07:21,320 --> 01:07:27,360
+le prix des terrains s'est écroulé littéralement. Et maintenant, il y a plein d'îles, etc. Donc,
+
+663
+01:07:27,360 --> 01:07:33,440
+c'est décentralisé, mais pas trop. C'est un excellent exemple que tu donnes là. Parce que,
+
+664
+01:07:33,440 --> 01:07:38,480
+tu vois, l'exemple là que tu cites, c'est un projet supposé décentralisé qui n'était pas du tout.
+
+665
+01:07:38,480 --> 01:07:45,960
+Avec ObEN, autorité centrale omnipotente, qui a décidé qu'il fallait plus de parcelles pour rendre
+
+666
+01:07:45,960 --> 01:07:51,280
+l'opération rentable. Bon, mais je prends un autre exemple. Je n'ai absolument rien contre eux, mais
+
+667
+01:07:51,280 --> 01:07:55,960
+quand tu regardes dans The Sandbox, concrètement, c'est une société, donc, bon, ils ne sont pas cotés
+
+668
+01:07:55,960 --> 01:08:01,120
+en bourse, mais ils ont énormément de partenariats avec énormément de marques et de célébrités à
+
+669
+01:08:01,120 --> 01:08:06,160
+travers le monde. Ils ont Binance, ils ont je ne sais pas combien d'autres studios et autres.
+
+670
+01:08:06,160 --> 01:08:11,040
+Concrètement, c'est supposé être décentralisé, tu fais ce que tu veux, tout ça. Tu te doutes bien
+
+671
+01:08:11,040 --> 01:08:15,240
+que si l'amicale des gentils néonazis décide d'arriver à installer son truc, on va leur dire
+
+672
+01:08:15,240 --> 01:08:19,680
+non. Donc, si quelqu'un peut dire non, c'est que ce n'est pas assez décentralisé, parce qu'ils ne
+
+673
+01:08:19,680 --> 01:08:26,080
+peuvent pas se permettre d'avoir des contenus un petit peu discutables. Donc, on va avoir une
+
+674
+01:08:26,080 --> 01:08:29,440
+espèce de police des mœurs, d'une manière ou d'une autre, parce qu'il y a des enjeux financiers
+
+675
+01:08:29,440 --> 01:08:34,080
+trop importants. Alors, le projet Bitmap, justement, est comme la sandbox, mais il est
+
+676
+01:08:34,080 --> 01:08:40,800
+entièrement décentralisé. Il n'y a pas de boss, il n'y a pas de... Enfin, voilà, c'est juste une
+
+677
+01:08:40,800 --> 01:08:45,920
+mint, c'était un freemint complet, mais se poseront les mêmes problèmes. Et j'aime bien que
+
+678
+01:08:45,920 --> 01:08:50,320
+Chad a employé l'expression prophétie, parce que je pense que le métaverse, c'est comme la métaphysique.
+
+679
+01:08:50,320 --> 01:08:54,960
+On n'est pas sûr que ça existe. Donc, tu achètes un terrain ou tu achètes une maison et tu dis,
+
+680
+01:08:54,960 --> 01:08:58,960
+voilà, Dieu va venir me rendre visite, mais il ne vient pas Dieu, parce que bon, peut-être qu'il
+
+681
+01:08:58,960 --> 01:09:05,520
+n'existe pas. Donc, le métaverse ne va démarrer que lorsque ça correspondra à une solution pour
+
+682
+01:09:05,520 --> 01:09:10,160
+un problème pratique. Quel sera ce problème pratique? Je n'ai aucune idée. Mais tant que
+
+683
+01:09:10,160 --> 01:09:16,160
+ce n'est pas une solution, ça ne démarrera pas, parce que c'est de la fumée. C'est du rêve, c'est-à-dire
+
+684
+01:09:16,160 --> 01:09:20,760
+que tu achètes un terrain et puis tu te dis, il va se passer ceci et cela. Oui, mais quoi?
+
+685
+01:09:20,760 --> 01:09:26,680
+Quoi exactement? Tu vas jouer au poker sur Vécentral-Inde? C'est ça? Non, c'est très limité.
+
+686
+01:09:26,680 --> 01:09:31,760
+Donc, le jour où ce sera une solution, ce jour-là, ça va exploser. Mais une solution,
+
+687
+01:09:31,760 --> 01:09:37,480
+à quel problème? C'est la vraie question. Un peu, je te rigole, mais jouer au poker dans le métaverse,
+
+688
+01:09:37,480 --> 01:09:44,480
+c'était un truc. Je connais plein de gens qui faisaient ça et qui le font peut-être même encore.
+
+689
+01:09:44,480 --> 01:09:52,520
+Mais à un moment, il y a des cas d'usage ultra-concrets. J'avais bossé au tout début sur un des districts
+
+690
+01:09:52,640 --> 01:09:57,760
+de Vécentral-Inde qui s'appelait Festival-Inde. On avait travaillé pendant des mois sur à quoi ça
+
+691
+01:09:57,760 --> 01:10:05,160
+peut ressembler une expérience de festival dans un métaverse. On a posé sur la table des choses
+
+692
+01:10:05,160 --> 01:10:10,080
+qu'on ne pourra pas faire. Typiquement, tu ne vas pas pouvoir boire d'alcool, tu ne vas pas pouvoir
+
+693
+01:10:10,080 --> 01:10:15,240
+faire des trucs comme ça. Mais à côté de ça, tu vas avoir le truc de ce festival qui est H24,
+
+694
+01:10:15,240 --> 01:10:20,360
+où tu vas fréquenter des gens du monde entier. En plus, tu n'as aucune barrière à l'entrée parce
+
+695
+01:10:20,360 --> 01:10:24,760
+que tu te connectes avec ton casque et tu y es. Bref, il y a pour moi réellement des cas d'usage
+
+696
+01:10:24,760 --> 01:10:29,120
+ultra-profonds qui font sens. Par contre, technologiquement, on a encore un sacré chemin
+
+697
+01:10:29,120 --> 01:10:33,240
+à faire. Oui, mais il y a un détail, Gautier, c'est que ça ne résout aucun problème, ton festival.
+
+698
+01:10:33,240 --> 01:10:38,440
+C'est juste une tentative d'établir quelque chose dans un monde parallèle, mais ça ne correspond à
+
+699
+01:10:38,440 --> 01:10:43,400
+la solution d'aucun problème. On n'avait pas de problème à ne pas avoir de festival sur le métaverse.
+
+700
+01:10:43,400 --> 01:10:47,680
+Je me permets de te contredire parce qu'en fait, ça résolvait le problème des confinements,
+
+701
+01:10:47,680 --> 01:10:52,960
+puisque c'était en 2021, donc il ne pouvait pas se produire en salle. Là, en l'occurrence,
+
+702
+01:10:52,960 --> 01:10:56,080
+il y avait bien eu une centaine d'artistes qui ont pu participer.
+
+703
+01:10:56,080 --> 01:11:02,240
+Je suis d'accord, mais ils ont fait l'erreur de vendre des masques et tout le monde n'était pas
+
+704
+01:11:02,240 --> 01:11:05,360
+d'accord avec les masques. Politiquement, ce n'était pas le bon choix.
+
+705
+01:11:05,360 --> 01:11:09,240
+Oui, et puis même fondamentalement, le fait de chercher absolument à résoudre un problème,
+
+706
+01:11:09,240 --> 01:11:14,240
+je ne pense pas que ce soit vraiment la question. Je vais prendre l'exemple de l'art. Est-ce que
+
+707
+01:11:14,240 --> 01:11:20,160
+l'art résout réellement un problème? Je ne sais pas. Est-ce qu'un jeu vidéo est là aussi pour
+
+708
+01:11:20,160 --> 01:11:23,920
+résoudre un problème? Peut-être pas non plus, mais est-ce qu'il apporte quelque chose au quotidien?
+
+709
+01:11:23,920 --> 01:11:30,600
+Oui. La formule de Kant, le beau est inutile. L'art, par définition, n'a pas d'utilité,
+
+710
+01:11:30,600 --> 01:11:37,280
+mais le métaverse peut être très beau. S'il n'est pas utile, il ne sera pas utilisé. Ça doit être un
+
+711
+01:11:37,280 --> 01:11:40,800
+outil pour quelque chose. Oui, après l'art n'est pas forcément beau.
+
+712
+01:11:41,800 --> 01:11:51,520
+Pour mettre un peu de bordel dans tout ça. J'en ai vu les collections où l'art n'était pas beau.
+
+713
+01:11:51,520 --> 01:11:59,960
+Excusez-moi. Pour revenir sur l'histoire des événements pendant le confinement,
+
+714
+01:11:59,960 --> 01:12:08,920
+l'idée c'est qu'on aurait pu faire tous ces événements en ligne sans forcément l'aide de la
+
+715
+01:12:08,920 --> 01:12:17,640
+blockchain. Quand les mecs de Fortnite ont fait le concert de Travis Scott, quand j'ai vu ça,
+
+716
+01:12:17,640 --> 01:12:24,400
+je suis tombé de ma chaise. J'ai trouvé ça tellement fou. Je me suis dit que c'était eux
+
+717
+01:12:24,400 --> 01:12:28,400
+qui allaient lancer le truc. Je me suis dit maintenant il va y avoir des concerts de ouf
+
+718
+01:12:28,400 --> 01:12:34,120
+dans des mondes virtuels et ça va être les mecs de Fortnite qui vont lancer ça.
+
+719
+01:12:34,720 --> 01:12:38,440
+En fait, ça n'est jamais arrivé. Je n'ai pas compris. Ça fait pouf.
+
+720
+01:12:38,440 --> 01:12:43,360
+Oui, alors moi je suis surpris aussi que les gars de Fortnite ne soient pas allés plus loin dans le
+
+721
+01:12:43,360 --> 01:12:48,120
+concept. Après, je pense que ça a quand même participé globalement à toute la grosse hype
+
+722
+01:12:48,120 --> 01:12:55,680
+autour des métaverses. Mais... Attends, j'ai complètement perdu mon idée. Je suis désolé.
+
+723
+01:12:55,680 --> 01:13:02,520
+L'utilisation de la blockchain, l'utilité de la blockchain dans les événements.
+
+724
+01:13:02,520 --> 01:13:03,400
+Non, c'est pas ça.
+
+725
+01:13:03,400 --> 01:13:14,320
+Pour prendre l'exemple du ticketing en ligne, qui a quand même pas mal performé aussi pendant les
+
+726
+01:13:14,320 --> 01:13:20,960
+confinements. Parce qu'il y a plein d'artistes qui n'ont pas du tout utilisé un monde virtuel
+
+727
+01:13:21,200 --> 01:13:26,120
+pour faire leur créa, mais plutôt invité des gens à des concerts privés qu'ils donnaient.
+
+728
+01:13:26,120 --> 01:13:32,560
+Et du coup, pour ça, c'est Quai de Protocol qui a réalisé ça. J'avais écrit un article pour eux
+
+729
+01:13:32,560 --> 01:13:36,920
+justement, qui parle un peu de tout ça parce que c'était super intéressant. Ils avaient vraiment
+
+730
+01:13:36,920 --> 01:13:41,960
+vendu beaucoup de billets et ils se vantaient d'avoir fait des centaines de concerts en ligne
+
+731
+01:13:41,960 --> 01:13:48,160
+où des gens ont utilisé cette application. Donc, techniquement, ils ont malgré tout utilisé la
+
+732
+01:13:48,160 --> 01:13:54,480
+blockchain. Une blockchain plus des NFT, puisque chaque ticket était des NFT. Et en fait, pour
+
+733
+01:13:54,480 --> 01:14:00,520
+eux, l'expérience était, certes, c'est centralisé, mais derrière, on en parlait tout à l'heure,
+
+734
+01:14:00,520 --> 01:14:06,560
+en fait, je fais un peu le lien aussi comme ça. Là, typiquement, il y a vraiment eu un vrai cas
+
+735
+01:14:06,560 --> 01:14:13,000
+d'utilisation sécurisé où les gens, à toute distance, pouvaient se payer un ticket de concert
+
+736
+01:14:13,160 --> 01:14:19,080
+et regarder virtuellement leurs artistes en ligne. Après, dans le métaverse, je vois ça comme du
+
+737
+01:14:19,080 --> 01:14:23,360
+divertissement. On parlait de Decentraland, pour CryptoVoxel, c'est un peu différent. C'était
+
+738
+01:14:23,360 --> 01:14:29,000
+vraiment pour les artistes à la base, pour laisser une très grande liberté de création. On a vu des
+
+739
+01:14:29,000 --> 01:14:34,440
+trucs super. Mais c'est pour ça, je vois plus ça comme des laboratoires d'expérience en ce moment,
+
+740
+01:14:34,440 --> 01:14:39,240
+ce qui se passe. Après, c'est sûr qu'il y a des mastodontes qui s'y mettent. Oui, tout de suite,
+
+741
+01:14:39,240 --> 01:14:47,600
+ça va. Ce n'est pas la même expérience, ce ne sont pas les mêmes moyens, c'est sûr. C'est pour ça
+
+742
+01:14:47,600 --> 01:14:54,720
+là, ce qu'on construit. Decentraland, j'ai toujours vu comme ça en tout cas, vraiment un
+
+743
+01:14:54,720 --> 01:14:59,600
+laboratoire d'expérience où on essaye des trucs dedans et on pousse autant qu'on peut l'aspect
+
+744
+01:14:59,600 --> 01:15:05,400
+décentralisé. L'aspect décentralisé de Decentraland, c'est qu'il y a 13 serveurs qui
+
+745
+01:15:05,400 --> 01:15:10,920
+gardent en ligne toute cette unité-là. Il y a une DAO qui vote aussi pour les décisions importantes.
+
+746
+01:15:10,920 --> 01:15:15,600
+J'ai retrouvé mon idée au passage, ce que je voulais raconter tout à l'heure. Ce qui est, à mon sens,
+
+747
+01:15:15,600 --> 01:15:19,760
+vraiment intéressant dans ce fameux concept de métaverse et qui a été totalement perdu de vue
+
+748
+01:15:19,760 --> 01:15:25,680
+avec toute cette hype, c'est une notion fondamentale qui est la notion de sérendipité. C'est donc en
+
+749
+01:15:25,680 --> 01:15:33,280
+gros la notion de découverte accidentelle, mais souvent heureuse. Concrètement, tu vas être
+
+750
+01:15:33,280 --> 01:15:38,680
+capable, et cette notion de géographie où tu vas avoir des coordonnées, tu vas te déplacer et à côté de
+
+751
+01:15:38,680 --> 01:15:44,160
+ta boutique, tu vas trouver une autre boutique, on ne t'a jamais entendu parler, mais il s'avère
+
+752
+01:15:44,160 --> 01:15:49,000
+qu'elle est à côté, elle a un emplacement qui a une valeur parce qu'ils ne sont pas loin d'eux. Donc, tu as
+
+753
+01:15:49,000 --> 01:15:54,320
+une notion de géographie qui fait sens et du coup, le fait de te déplacer d'un point A à un point B,
+
+754
+01:15:54,320 --> 01:15:59,520
+en passant devant des choses auxquelles tu n'avais pas forcément pensé, ça brise
+
+755
+01:15:59,520 --> 01:16:04,800
+complètement cette notion du lien hypertexte où tu cliques, tu ajoutes tes favoris et tu vas directement.
+
+756
+01:16:04,800 --> 01:16:08,680
+Évidemment, tu as la notion de pub que tu vas avoir aujourd'hui sur les sites, mais cette notion de
+
+757
+01:16:08,680 --> 01:16:14,480
+naviguer, de te permettre de te perdre, de te balader, de découvrir des choses, c'est un mode de
+
+758
+01:16:14,480 --> 01:16:21,280
+navigation qui, à mon sens, brise un petit peu le code de l'Internet comme on le connaît aujourd'hui et
+
+759
+01:16:21,280 --> 01:16:27,440
+qui offre une expérience qui est plus immersive, où tu as une notion d'identité digitale qui est nouvelle
+
+760
+01:16:27,440 --> 01:16:32,160
+aussi, parce que ce que tu portes peut refléter qui tu es, tes convictions, plein de choses de
+
+761
+01:16:32,160 --> 01:16:39,760
+valeur que tu défends. Tu n'as pas ça en ligne, tu as moins ça partout. Quand tu navigues en ligne, tu as tes cookies,
+
+762
+01:16:39,760 --> 01:16:44,880
+évidemment, certaines boîtes vont savoir qui tu es, mais là, l'idée, c'est de porter fièrement,
+
+763
+01:16:44,880 --> 01:16:50,960
+d'afficher qui tu es, ce que tu veux être, ce que tu veux dire de toi et ça, c'est nouveau et ça, je trouve ça vraiment chouette.
+
+764
+01:16:50,960 --> 01:17:05,640
+Intéressant. Alors du coup, ma question, ce serait plutôt pas mal une question de fin de débat, ce serait genre, par rapport à tout ce qu'on a dit,
+
+765
+01:17:05,640 --> 01:17:15,320
+donc les catégories de NFT, jeux vidéo, art, collectibles, métaverse, les tendances qu'on a observées,
+
+766
+01:17:15,320 --> 01:17:27,240
+le bear market qui a plongé tout ça dans le gros point d'interrogation, qu'est-ce qui sert à quoi?
+
+767
+01:17:27,240 --> 01:17:37,880
+Et puis aussi les technologies qui se battent les unes avec les autres pour savoir, les gens se demandent en fait, sur quel réseau vont être les NFT,
+
+768
+01:17:38,600 --> 01:17:43,720
+quels sont les nouveaux protocoles, les nouveaux standards qui vont être adoptés, etc.
+
+769
+01:17:43,720 --> 01:17:53,800
+Comment voyez-vous le futur des NFT? Et deuxième question, est-ce que le bear est terminé ou est-ce qu'il va continuer?
+
+770
+01:17:53,800 --> 01:17:57,720
+Donc c'est deux vastes questions pour cette grande émission.
+
+771
+01:17:57,720 --> 01:18:01,080
+Effectivement, t'as encore une heure pour tracer les deux questions?
+
+772
+01:18:01,080 --> 01:18:04,600
+Autant de temps que vous pouvez en fait.
+
+773
+01:18:05,320 --> 01:18:06,600
+Non, t'inquiète pas.
+
+774
+01:18:06,600 --> 01:18:14,280
+Alors moi, mon regard là-dessus, c'est que le marché va continuer à évoluer drastiquement.
+
+775
+01:18:14,280 --> 01:18:19,640
+Aujourd'hui, comme on disait, les collectibles, ça représente encore 80% du volume de dollars échangés.
+
+776
+01:18:19,640 --> 01:18:24,920
+Mais les collectibles représentent également trois quarts des dollars perdus en trading.
+
+777
+01:18:24,920 --> 01:18:33,400
+Autrement dit, on continue à trader beaucoup de collectibles et on continue à perdre énormément d'argent à trader du collectible.
+
+778
+01:18:33,640 --> 01:18:38,760
+Et je pense sincèrement qu'il y a une place pour les collectibles dans l'industrie NFT,
+
+779
+01:18:38,760 --> 01:18:42,040
+mais une place qui doit revenir à son bon niveau.
+
+780
+01:18:42,040 --> 01:18:47,240
+Et je pense que c'est plus ou moins la place qu'ont les collectibles dans notre société et dans les marchés aujourd'hui.
+
+781
+01:18:47,240 --> 01:18:49,720
+Il y en a, il y a plein de collections de plein de choses.
+
+782
+01:18:49,720 --> 01:18:54,920
+Et il y a des vrais collectionneurs, il y a des gens qui vont collectionner des trucs divers et variés.
+
+783
+01:18:54,920 --> 01:18:56,600
+Aucun problème, ça a toujours existé.
+
+784
+01:18:56,600 --> 01:18:58,920
+Ça ne représente pas 80% du marché.
+
+785
+01:18:59,000 --> 01:19:05,720
+Donc, je pense que petit à petit, les collectibles vont continuer à, à mon sens, pas forcément perdre de la vitesse,
+
+786
+01:19:05,720 --> 01:19:09,880
+mais les autres segments vont grossir progressivement.
+
+787
+01:19:09,880 --> 01:19:12,360
+J'ai beaucoup de foi dans le segment des utilities.
+
+788
+01:19:12,360 --> 01:19:16,600
+Donc derrière, on a tout ce qui est domain name, tout ce qui est identité en ligne,
+
+789
+01:19:16,600 --> 01:19:20,360
+ticketing, membership et plein d'autres choses diverses et variées.
+
+790
+01:19:20,360 --> 01:19:25,960
+Mais du coup, ce segment qui est totalement sous-estimé, sous-évalué parce qu'il est complexe,
+
+791
+01:19:25,960 --> 01:19:27,960
+parce qu'il y a plein de cas d'usage, parce qu'il faut se renseigner,
+
+792
+01:19:27,960 --> 01:19:30,760
+parce que c'est moins bling bling aussi que les collectibles.
+
+793
+01:19:30,760 --> 01:19:34,840
+Je pense que ce type de segment, et l'art, et le jeu vidéo, évidemment,
+
+794
+01:19:34,840 --> 01:19:39,720
+sont amenés à se développer considérablement dans les prochaines années.
+
+795
+01:19:39,720 --> 01:19:45,800
+Donc, la deuxième question, est-ce qu'on a oui ou non fini ce bear market?
+
+796
+01:19:45,800 --> 01:19:49,320
+On a des indicateurs qui nous laissent penser que oui.
+
+797
+01:19:49,320 --> 01:19:54,200
+On a des indicateurs qui nous font dire que potentiellement, on a touché le fond,
+
+798
+01:19:54,200 --> 01:19:57,640
+on s'est stabilisé au fond, un long moment quand même,
+
+799
+01:19:57,640 --> 01:20:01,880
+et que maintenant, on a possibilité de repartir à la hausse.
+
+800
+01:20:01,880 --> 01:20:04,120
+Là, c'est des indicateurs sur des périodes relativement courtes,
+
+801
+01:20:04,120 --> 01:20:05,880
+là on parle de seulement deux mois,
+
+802
+01:20:05,880 --> 01:20:11,160
+mais on a un nombre de wallets qui a augmenté de 15%, un nombre de ventes de 17%,
+
+803
+01:20:11,160 --> 01:20:16,200
+un volume de dollars qui lui se stabilise globalement à 350 millions par mois.
+
+804
+01:20:16,200 --> 01:20:20,280
+Donc, tout ça ensemble nous fait dire que peut-être,
+
+805
+01:20:20,280 --> 01:20:23,400
+et ce serait historiquement, ça veut dire quand même quelque chose de très fort,
+
+806
+01:20:23,400 --> 01:20:30,440
+peut-être que les NFT ont atteint leur vrai, s'ils en ont un, prix de marché.
+
+807
+01:20:30,440 --> 01:20:36,760
+Donc, peut-être qu'un CryptoPunk ou qu'un Bordape vaut réellement plus ou moins sa cote du jour,
+
+808
+01:20:36,760 --> 01:20:40,840
+et qu'aujourd'hui, on n'est plus au but spéculatif,
+
+809
+01:20:40,840 --> 01:20:47,720
+que tout ça est retombé, mais que ce qu'il reste, peut-être que c'est fondamental, que c'est solide,
+
+810
+01:20:47,720 --> 01:20:50,680
+et que oui, pour une raison ou une autre, je ne vais pas l'expliquer,
+
+811
+01:20:50,680 --> 01:20:53,560
+il y a des JPEGs de singes qui valent ce prix-là,
+
+812
+01:20:53,560 --> 01:20:56,920
+parce qu'ils représentent quelque chose dans nos sociétés aujourd'hui.
+
+813
+01:20:56,920 --> 01:20:58,120
+Voilà.
+
+814
+01:20:58,120 --> 01:21:00,200
+Donc oui, la tendance est plutôt bonne.
+
+815
+01:21:00,200 --> 01:21:01,800
+Je pense qu'on n'a plus...
+
+816
+01:21:01,800 --> 01:21:05,800
+Le marché semble avoir appris de ses erreurs, de manière générale.
+
+817
+01:21:05,800 --> 01:21:09,160
+La prochaine vague, je ne sais pas quand elle arrivera,
+
+818
+01:21:09,160 --> 01:21:13,160
+mais je pense qu'elle sera beaucoup plus saine que ce qu'on a connu.
+
+819
+01:21:13,160 --> 01:21:15,480
+Elle sera probablement beaucoup moins bling-bling.
+
+820
+01:21:15,480 --> 01:21:19,560
+On n'aura probablement pas la même couverture médiatique qu'il y a un an et demi, deux ans.
+
+821
+01:21:19,640 --> 01:21:22,840
+Mais par contre, on va construire non pas pour les douze prochains mois,
+
+822
+01:21:22,840 --> 01:21:24,840
+mais pour les douze prochaines années.
+
+823
+01:21:25,960 --> 01:21:27,960
+Ok.
+
+824
+01:21:28,520 --> 01:21:33,000
+Il y a Antoine qui a demandé, juste quand tu as commencé à parler, il a demandé la parole.
+
+825
+01:21:33,000 --> 01:21:34,040
+Salut Antoine.
+
+826
+01:21:34,040 --> 01:21:34,840
+Salut.
+
+827
+01:21:34,840 --> 01:21:35,640
+Salut.
+
+828
+01:21:37,080 --> 01:21:39,960
+Moi, je pense qu'en effet, on a peut-être fait un point bas,
+
+829
+01:21:39,960 --> 01:21:46,520
+mais qu'il n'y aura pas forcément de reprise haussière,
+
+830
+01:21:46,520 --> 01:21:48,680
+tant qu'il n'y a pas de nouveaux usages qui apparaissent.
+
+831
+01:21:48,760 --> 01:21:51,560
+Parce que là, pour l'instant, ça tourne un petit peu en haut.
+
+832
+01:21:51,560 --> 01:21:56,040
+On a les PFP, les choses comme ça, qui étaient, certes, marrant au début.
+
+833
+01:21:56,040 --> 01:21:58,520
+Les punks étaient les premiers, c'était intéressant.
+
+834
+01:21:58,520 --> 01:22:04,840
+Mais après, il y a tout l'aspect art qui peut continuer.
+
+835
+01:22:04,840 --> 01:22:07,720
+Mais tant qu'on n'a pas de nouveaux cas d'usage,
+
+836
+01:22:07,720 --> 01:22:12,360
+ça va avoir du mal à attirer des nouvelles personnes.
+
+837
+01:22:13,320 --> 01:22:18,120
+Et un truc que je verrais bien, c'est notamment,
+
+838
+01:22:18,120 --> 01:22:21,320
+avec le gaming, ça a été repoussé au début.
+
+839
+01:22:21,320 --> 01:22:24,840
+Et je pense que les gens ne viendront pas tant que ça s'appelle toujours NFT.
+
+840
+01:22:24,840 --> 01:22:32,120
+Mais on voit bien que les skins dans les jeux vidéo, ça marche relativement bien.
+
+841
+01:22:32,120 --> 01:22:36,120
+Et on parlait du luxe, justement.
+
+842
+01:22:36,120 --> 01:22:38,680
+Le luxe, c'est un marché où les gens aiment beaucoup flex.
+
+843
+01:22:38,760 --> 01:22:43,640
+Même dans l'art, il y a des gens qui achètent des œuvres juste pour dire « j'ai ça ».
+
+844
+01:22:43,640 --> 01:22:50,680
+Et s'il y a des collabs qui se font entre des marques de luxe et des jeux vidéo,
+
+845
+01:22:50,680 --> 01:22:57,160
+et que les gens peuvent flex dans le jeu ce qu'ils achètent en vrai aussi,
+
+846
+01:22:57,160 --> 01:22:59,240
+et que c'est authentifié justement en NFT,
+
+847
+01:22:59,240 --> 01:23:02,360
+ça pourrait être un cas d'usage qui va relancer l'application.
+
+848
+01:23:02,360 --> 01:23:05,960
+Les bouteilles de vin en NFT associées, on essaie de le faire.
+
+849
+01:23:05,960 --> 01:23:08,120
+Personnellement, je ne pense pas que ça apporte grand-chose.
+
+850
+01:23:08,120 --> 01:23:11,960
+Et je ne suis pas sûr que c'est vraiment un futur.
+
+851
+01:23:11,960 --> 01:23:17,160
+Mais les crossovers jeux vidéo mode, il y a déjà eu des petites tentatives.
+
+852
+01:23:17,160 --> 01:23:21,480
+Et je pense que l'être humain, il cherchera toujours à flex.
+
+853
+01:23:21,480 --> 01:23:27,960
+Et que pour l'instant, les solutions sont encore trop complexes pour que les gens les utilisent.
+
+854
+01:23:27,960 --> 01:23:30,840
+Les gens, ils ont besoin de ne pas savoir en effet que c'est un NFT.
+
+855
+01:23:30,840 --> 01:23:37,640
+Par contre, revendre leur skin officielle Balenciaga parce qu'ils ont acheté un suit Balenciaga,
+
+856
+01:23:38,600 --> 01:23:44,760
+ou autre, ou équivalent, ça, ça peut justement trouver un marché.
+
+857
+01:23:47,400 --> 01:23:50,440
+Je pense personnellement que l'infrastructure commande tout,
+
+858
+01:23:50,440 --> 01:23:51,800
+que la technologie commande tout,
+
+859
+01:23:51,800 --> 01:23:56,040
+qu'il y a eu un shift technologique en décembre 2022 avec l'invention des Lordylands,
+
+860
+01:23:56,040 --> 01:24:02,440
+et qu'actuellement, on est en train de witness un marché NFT florissant et bondissant,
+
+861
+01:24:02,440 --> 01:24:05,400
+comme je n'ai jamais vu ça sur Bitcoin,
+
+862
+01:24:06,040 --> 01:24:08,120
+que c'est incroyable.
+
+863
+01:24:08,120 --> 01:24:09,960
+Les chiffres sont incroyables.
+
+864
+01:24:09,960 --> 01:24:11,320
+Ça prend de partout.
+
+865
+01:24:11,320 --> 01:24:14,200
+Je pense que les PANQ sont éternels, les APE un peu moins.
+
+866
+01:24:14,200 --> 01:24:18,360
+On parle beaucoup de gens qui vendent leur APE pour acheter des frogs sur Bitcoin.
+
+867
+01:24:18,360 --> 01:24:20,360
+Je pense qu'il y a réellement une migration,
+
+868
+01:24:20,360 --> 01:24:23,720
+que le volume que j'ai proposé tout à l'heure est discutable,
+
+869
+01:24:23,720 --> 01:24:26,760
+mais qu'il y a un saignement des NFT vers les Ordinals,
+
+870
+01:24:26,760 --> 01:24:31,240
+parce que les Ordinals sont une amélioration que tu mines pour dans 100 ans ou 200 ans,
+
+871
+01:24:31,240 --> 01:24:32,280
+ça sera toujours là.
+
+872
+01:24:32,280 --> 01:24:33,400
+C'est sur la blockchain.
+
+873
+01:24:33,480 --> 01:24:36,520
+On a fini avec le high FPS,
+
+874
+01:24:36,520 --> 01:24:39,160
+et qu'il faut tenir compte de cette migration.
+
+875
+01:24:39,160 --> 01:24:41,080
+Maintenant, je sais que c'est un point discutable,
+
+876
+01:24:41,080 --> 01:24:43,560
+et que je sais que quand on est dans les NFT,
+
+877
+01:24:43,560 --> 01:24:47,320
+on n'a pas envie d'en entendre parler parce que c'est compliqué de migrer,
+
+878
+01:24:47,320 --> 01:24:48,920
+mais cette migration est en cours.
+
+879
+01:24:48,920 --> 01:24:49,420
+Voilà.
+
+880
+01:24:51,000 --> 01:24:52,360
+Oui, mais ça, c'est un marché niche.
+
+881
+01:24:52,360 --> 01:24:55,880
+Ce n'est pas du tout adressable au grand public, en fait.
+
+882
+01:24:57,720 --> 01:24:58,840
+Ça, c'est complètement faux.
+
+883
+01:24:58,840 --> 01:25:00,760
+Le grand public est en train de débarquer complètement.
+
+884
+01:25:00,760 --> 01:25:02,600
+C'était un marché niche il y a six mois.
+
+885
+01:25:02,600 --> 01:25:05,240
+Quand on était 20 000 et qu'on était à 100 000 inscriptions,
+
+886
+01:25:05,240 --> 01:25:09,880
+là, on est à 40 millions et on gagne 10 millions d'inscriptions par mois.
+
+887
+01:25:09,880 --> 01:25:11,400
+C'est explosant.
+
+888
+01:25:12,680 --> 01:25:13,480
+Ce n'est plus une niche.
+
+889
+01:25:14,440 --> 01:25:15,720
+Ça devient beaucoup plus que ça.
+
+890
+01:25:17,160 --> 01:25:20,440
+Fanny Nspika, j'ai comme l'impression que tu aimes bien Ordinals.
+
+891
+01:25:20,440 --> 01:25:21,640
+Oui, j'ai l'impression aussi.
+
+892
+01:25:21,640 --> 01:25:22,760
+J'ai eu ce sentiment, maman.
+
+893
+01:25:24,520 --> 01:25:26,360
+Oui, non, je ne suis pas objectif.
+
+894
+01:25:26,360 --> 01:25:28,040
+Je vous le dis, je ne suis pas objectif.
+
+895
+01:25:28,040 --> 01:25:28,760
+On est bien d'accord.
+
+896
+01:25:29,800 --> 01:25:31,400
+Je me suis douté au point de face.
+
+897
+01:25:31,400 --> 01:25:33,640
+Même les NFT eux-mêmes sont un marché niche.
+
+898
+01:25:34,200 --> 01:25:38,600
+On va dire l'art digital, ça reste un marché niche.
+
+899
+01:25:38,600 --> 01:25:41,240
+Tu prends n'importe qui dans la rue, tu lui demandes ce que c'est un NFT,
+
+900
+01:25:41,240 --> 01:25:43,160
+il n'en sait rien, il ne l'utilise pas, en fait.
+
+901
+01:25:43,800 --> 01:25:45,720
+Oui, encore moins Ordinals.
+
+902
+01:25:48,840 --> 01:25:53,320
+Est-ce que NFT18, vous avez une réponse à ça?
+
+903
+01:25:54,040 --> 01:25:57,160
+À ce qui vient de être dit par les participants.
+
+904
+01:25:58,920 --> 01:25:59,720
+Oui, tout à fait.
+
+905
+01:25:59,800 --> 01:26:04,280
+Alors, je ne suis pas du tout d'accord, désolé.
+
+906
+01:26:04,280 --> 01:26:05,800
+Je pense que la technologie commande tout.
+
+907
+01:26:05,800 --> 01:26:08,200
+Pour moi, c'est l'usage et la technologie.
+
+908
+01:26:08,200 --> 01:26:09,640
+Parfois, la technologie est en avance.
+
+909
+01:26:09,640 --> 01:26:12,920
+C'était le cas des métaverses et on s'est aperçu que l'usage,
+
+910
+01:26:14,440 --> 01:26:15,720
+au final, n'était pas vraiment là.
+
+911
+01:26:15,720 --> 01:26:18,920
+On avait une technologie qui était prête, mais pas l'usage.
+
+912
+01:26:18,920 --> 01:26:20,520
+Donc tant pis, ce sera après pour plus tard.
+
+913
+01:26:21,720 --> 01:26:25,240
+Là, pour le coup, malgré tout le bien que je pense de Bitcoin Ordinal,
+
+914
+01:26:25,240 --> 01:26:27,720
+je ne pense pas que ce soit en train de révolutionner la phase des NFT.
+
+915
+01:26:27,720 --> 01:26:33,240
+Aucune blockchain, fondamentalement, ne peut changer la phase des NFT.
+
+916
+01:26:33,240 --> 01:26:36,040
+Ce qui va changer, et là, je suis totalement d'accord avec ce qu'il disait Antoine,
+
+917
+01:26:36,040 --> 01:26:37,400
+c'est un usage nouveau.
+
+918
+01:26:37,400 --> 01:26:41,640
+Et pour apporter quand même un tout petit bémol à ce que tu disais Antoine,
+
+919
+01:26:42,200 --> 01:26:47,880
+moi, je pense que les cas d'usage qui ont été exploités, utilisés dans les NFT jusque là,
+
+920
+01:26:47,880 --> 01:26:48,360
+ils sont...
+
+921
+01:26:49,640 --> 01:26:51,400
+Je suis d'accord avec toi que ça tourne un petit peu en rond,
+
+922
+01:26:51,400 --> 01:26:54,200
+mais il y en a tellement, on a juste à peine gratté la surface.
+
+923
+01:26:54,680 --> 01:27:00,840
+Ou si demain, tu as 5, 10 grosses boîtes qui se mettent à faire un système de loyalty
+
+924
+01:27:00,840 --> 01:27:04,440
+avec leurs clients, où tu es capable d'avoir un vrai engagement sur la durée,
+
+925
+01:27:04,440 --> 01:27:06,520
+où tu as des vrais avantages.
+
+926
+01:27:06,520 --> 01:27:08,920
+Par exemple, de Michelin qui a fait un truc que je trouve assez sympa,
+
+927
+01:27:08,920 --> 01:27:10,600
+pas révolutionnaire, mais juste sympa.
+
+928
+01:27:11,400 --> 01:27:14,840
+Au final, si tu as 10, 15 grosses boîtes qui font ça,
+
+929
+01:27:14,840 --> 01:27:17,560
+tu as Starbucks, Nike, Apple qui font ça,
+
+930
+01:27:18,280 --> 01:27:20,680
+le cas d'usage, en vrai, même s'il est assez basique,
+
+931
+01:27:20,680 --> 01:27:23,720
+mais que ça permet de mettre des NFT dans les mains d'à peu près tout le monde,
+
+932
+01:27:23,800 --> 01:27:25,800
+ce sera un gigantesque pas en avant.
+
+933
+01:27:27,560 --> 01:27:32,200
+Oui, je suis d'accord, mais on a quand même un gros problème d'UX
+
+934
+01:27:34,440 --> 01:27:36,920
+sur les NFT pour avoir des cas d'usage sympas,
+
+935
+01:27:37,480 --> 01:27:43,640
+parce que pour l'instant, c'est trop compliqué encore pour la personne lambda.
+
+936
+01:27:45,480 --> 01:27:46,840
+Après, il y a peut-être aussi...
+
+937
+01:27:47,560 --> 01:27:52,120
+Enfin, si les grosses entreprises, les grandes marques,
+
+938
+01:27:52,200 --> 01:27:55,800
+je pense notamment à PlayStation qui a déposé un brevet il y a un an ou deux
+
+939
+01:27:56,840 --> 01:27:59,880
+pour tout un système blockchain, mais interne.
+
+940
+01:28:00,680 --> 01:28:02,440
+Ça leur permettrait, eux, par exemple,
+
+941
+01:28:02,440 --> 01:28:08,520
+effectivement, de faire des armes interopérables dans leur propre système.
+
+942
+01:28:10,520 --> 01:28:14,040
+Ils ont déposé un brevet pour ça, donc je ne sais pas si c'est en cours ou quoi.
+
+943
+01:28:16,920 --> 01:28:18,680
+Là où j'étais complètement d'accord avec toi,
+
+944
+01:28:18,680 --> 01:28:24,360
+c'est que je pense que pour conquérir plus de marchés,
+
+945
+01:28:24,360 --> 01:28:25,560
+donc plus d'utilisateurs,
+
+946
+01:28:25,560 --> 01:28:30,600
+il faut en effet que les gens ne se rendent pas compte qu'ils sont en train d'utiliser des NFT.
+
+947
+01:28:31,720 --> 01:28:35,880
+En fait, c'est là où il y a les fameux triptychs de la blockchain qui interviennent.
+
+948
+01:28:36,680 --> 01:28:39,720
+Je ne suis pas sûr qu'on pourra trader depuis une de nos blockchains.
+
+949
+01:28:41,640 --> 01:28:44,280
+C'est là aussi où tu vois, c'est ça aussi le truc.
+
+950
+01:28:44,280 --> 01:28:45,720
+Si c'est un écosystème fermé,
+
+951
+01:28:46,280 --> 01:28:48,280
+peut-être qu'au bout d'un moment,
+
+952
+01:28:48,280 --> 01:28:50,440
+la décentralisation impose cette fameuse limite,
+
+953
+01:28:50,440 --> 01:28:52,840
+tu vois, si c'est trop centralisé,
+
+954
+01:28:53,800 --> 01:28:56,920
+du coup, tu perds peut-être un peu en liberté de transaction.
+
+955
+01:28:57,960 --> 01:28:59,640
+Est-ce que tous les NFT doivent être tradés?
+
+956
+01:29:00,520 --> 01:29:01,480
+C'est aussi la question.
+
+957
+01:29:02,440 --> 01:29:04,440
+Est-ce qu'il y a besoin d'un marché NFT pour tout?
+
+958
+01:29:05,000 --> 01:29:09,080
+Sachant que ça peut juste être des jetons qui sont juste échangés comme ça sur la blockchain.
+
+959
+01:29:09,080 --> 01:29:09,800
+Une façon que tu puisses…
+
+960
+01:29:13,000 --> 01:29:17,640
+Ils servent comme Ones, par exemple, qui fait du transfert de responsabilité.
+
+961
+01:29:18,680 --> 01:29:21,560
+Ça sert à ce que le livreur éprouve bien que bon, ça fait bip.
+
+962
+01:29:21,560 --> 01:29:26,040
+Et puis, il a prouvé avec la blockchain que oui, le paquet, il a bien filé à l'autre.
+
+963
+01:29:26,040 --> 01:29:26,920
+Absolument.
+
+964
+01:29:26,920 --> 01:29:31,000
+Et dans ce que tu dis, Kono, c'est important parce que si on resserre un peu sur l'art,
+
+965
+01:29:31,960 --> 01:29:33,480
+dans cette problématique, en gros,
+
+966
+01:29:33,480 --> 01:29:36,040
+les NFT, ça a amené des nouveaux collectionneurs d'art
+
+967
+01:29:36,040 --> 01:29:39,160
+qui étaient, entre guillemets, des early éthers.
+
+968
+01:29:40,280 --> 01:29:42,920
+Et en gros, ces gens-là, ils ne sont pas infinis.
+
+969
+01:29:42,920 --> 01:29:44,280
+Leur bague n'est pas infinie non plus.
+
+970
+01:29:44,840 --> 01:29:49,160
+Je pense que le premier cycle, le dernier cycle en tout cas, les a bien poncés.
+
+971
+01:29:49,160 --> 01:29:52,600
+Et une chose intéressante à considérer, c'est que ces gens-là, à mon avis,
+
+972
+01:29:52,600 --> 01:29:55,800
+ils ont acheté des choses, un pattern d'achat et d'œuvre,
+
+973
+01:29:55,800 --> 01:29:57,400
+et ils ne vont pas changer de test d'investissement
+
+974
+01:29:57,400 --> 01:29:58,680
+parce qu'ils ont mis trop d'argent dedans.
+
+975
+01:29:58,680 --> 01:30:00,840
+Et donc, du coup, ça va rester les mêmes,
+
+976
+01:30:00,840 --> 01:30:05,560
+le chip un peu fatigué dans certains trucs, que ce soit régénératif ou que sais-je.
+
+977
+01:30:05,640 --> 01:30:10,600
+Et les nouveaux acheteurs ne viendront que si le contexte macro leur offre des liquidités.
+
+978
+01:30:10,600 --> 01:30:14,040
+C'est-à-dire que là, je parlais d'une crise plus globale économique dans plein de secteurs.
+
+979
+01:30:14,600 --> 01:30:18,760
+Le luxe est un peu à part parce que lui, il ne connaît plus ou moins jamais la crise.
+
+980
+01:30:18,760 --> 01:30:21,320
+Mais dans l'art, c'est un bon thermomètre.
+
+981
+01:30:22,200 --> 01:30:27,480
+Là, dans l'art contemporain, les ventes sont plus calmes
+
+982
+01:30:27,480 --> 01:30:31,080
+parce que ça correspond aussi à un manque de liquidités un peu partout,
+
+983
+01:30:31,080 --> 01:30:33,080
+il y a un contexte global.
+
+984
+01:30:33,160 --> 01:30:36,520
+Et en gros, est-ce qu'il va y avoir des nouveaux arrivants dans la crypto
+
+985
+01:30:36,520 --> 01:30:40,120
+avec des bagues conséquents sans être early?
+
+986
+01:30:40,120 --> 01:30:44,440
+Ça, ça n'arrivera pas si le contexte macro n'est pas meilleur.
+
+987
+01:30:44,440 --> 01:30:48,600
+Et donc, du coup, par rapport au relancer d'un boule sur ta question, Anthony,
+
+988
+01:30:48,600 --> 01:30:49,560
+au niveau de l'art,
+
+989
+01:30:49,560 --> 01:30:56,280
+je ne vois pas de relancé spectaculaire hormis des petits moves spéculatifs
+
+990
+01:30:56,280 --> 01:30:59,720
+avec quelques-uns sur des micro-niches de communauté.
+
+991
+01:30:59,960 --> 01:31:04,360
+Mais soit c'est adopté comme un standard général d'achat d'oeuvres d'art,
+
+992
+01:31:04,360 --> 01:31:05,320
+parce que là, c'est un raz-de-marée,
+
+993
+01:31:05,320 --> 01:31:06,440
+mais on ne parlera même plus de ça.
+
+994
+01:31:06,440 --> 01:31:09,480
+Comme tu disais, j'ai piqué Antoine,
+
+995
+01:31:09,480 --> 01:31:14,440
+le terme ne sera même plus employé, on achètera de l'art ou pas.
+
+996
+01:31:14,440 --> 01:31:17,560
+Mais voilà, il y a quand même le contexte macro à prendre en compte.
+
+997
+01:31:19,320 --> 01:31:22,840
+Moi, je vois une résurrection des NFT à la fin de 2024.
+
+998
+01:31:22,840 --> 01:31:25,480
+Je ne sais pas si Gauthier confirmera parce qu'il connaît les chiffres,
+
+999
+01:31:25,480 --> 01:31:29,320
+mais on a bien vu que quand le bitcoin est vraiment redescendu à 40 000,
+
+1000
+01:31:29,320 --> 01:31:33,560
+c'est là que les choses ont bondi et puis elles sont redescendues violemment.
+
+1001
+01:31:33,560 --> 01:31:37,640
+Mais il y aura ce bondissement post chute bitcoin,
+
+1002
+01:31:37,640 --> 01:31:39,720
+parce que c'est un déplacement de liquidité.
+
+1003
+01:31:39,720 --> 01:31:42,440
+Maintenant, je ne sais pas si ce que je dis est une connerie.
+
+1004
+01:31:42,440 --> 01:31:43,320
+Je vous laisse juger.
+
+1005
+01:31:45,240 --> 01:31:47,800
+Alors, si seulement je savais, je serais déjà très riche, moi.
+
+1006
+01:31:50,200 --> 01:31:54,840
+Non, ce qu'on a observé, et ça, pour le coup, ça fait quelques années maintenant,
+
+1007
+01:31:54,840 --> 01:32:00,520
+c'est qu'on a une progressive décorrélation entre les marchés crypto et les marchés NFT.
+
+1008
+01:32:00,520 --> 01:32:01,880
+Ce n'est pas totalement le cas.
+
+1009
+01:32:01,880 --> 01:32:04,760
+Évidemment, si demain, on a un bitcoin qui divise de 50%,
+
+1010
+01:32:04,760 --> 01:32:07,560
+évidemment que les marchés NFT vont être largement impactés.
+
+1011
+01:32:07,560 --> 01:32:13,560
+Mais par contre, on peut avoir des mouvements NFT qui n'impactent pas la crypto et inversement.
+
+1012
+01:32:14,360 --> 01:32:19,480
+Donc, moi, personnellement, j'ai un petit doute sur ce qui se passera réellement
+
+1013
+01:32:19,480 --> 01:32:23,720
+comme impact sur les marchés NFT au halving, prochain halving bitcoin.
+
+1014
+01:32:23,720 --> 01:32:25,560
+Je ne sais pas, je suis curieux, je n'y vais pas encore.
+
+1015
+01:32:27,960 --> 01:32:31,880
+Bon, en tout cas, moi, je sais que je voulais rebondir sur un petit truc,
+
+1016
+01:32:31,880 --> 01:32:33,480
+mais ça ferait une autre...
+
+1017
+01:32:33,480 --> 01:32:37,640
+Je ne sais pas si c'est nécessaire de rallonger ça,
+
+1018
+01:32:37,640 --> 01:32:40,360
+mais je vais quand même en parler parce que j'ai une travaille fille.
+
+1019
+01:32:40,360 --> 01:32:42,600
+Non, mais en fait, c'est juste que je voulais rebondir rapidement sur le truc d'Antoine
+
+1020
+01:32:43,560 --> 01:32:46,840
+qui parlait de l'UI et de l'UX.
+
+1021
+01:32:46,840 --> 01:32:51,400
+Je trouvais ça vraiment pertinent parce que ça m'a fait penser à l'expérience que j'avais eu.
+
+1022
+01:32:52,360 --> 01:32:56,920
+C'était au NFT Paris, je crois, et il y avait un concert,
+
+1023
+01:32:58,120 --> 01:33:01,480
+il y avait une soirée à un moment donné et en fait,
+
+1024
+01:33:01,480 --> 01:33:07,160
+il fallait se servir d'une application dans laquelle on avait un ticket en NFT
+
+1025
+01:33:07,160 --> 01:33:09,320
+qui était, je crois, le NFT de la conférence, un truc du genre.
+
+1026
+01:33:09,320 --> 01:33:11,320
+Je ne me souviens même plus tellement c'était le bordel.
+
+1027
+01:33:11,320 --> 01:33:15,960
+Et c'était excessivement compliqué pour avoir, pour retriever le ticket.
+
+1028
+01:33:17,000 --> 01:33:20,200
+Et c'était pourtant, ils avaient fait des efforts parce que ce n'était pas une application
+
+1029
+01:33:20,200 --> 01:33:23,960
+qui était dédiée à l'événement, c'était une application un peu plus généraliste
+
+1030
+01:33:23,960 --> 01:33:26,200
+qui avait intégré le truc du NFT.
+
+1031
+01:33:26,200 --> 01:33:28,120
+Ça, si mes souvenirs sont bons.
+
+1032
+01:33:28,120 --> 01:33:32,920
+Donc, il y avait quand même un effort de mainstream, de mainstreamisation du truc.
+
+1033
+01:33:32,920 --> 01:33:38,360
+Mais malgré tout, c'est jamais une application à laquelle je suis revenu.
+
+1034
+01:33:38,360 --> 01:33:43,560
+Ça m'a vraiment fait penser à l'expérience que tu as quand on t'envoie un NFT
+
+1035
+01:33:45,000 --> 01:33:47,880
+sur un Layer 2 que tu n'utilises jamais,
+
+1036
+01:33:47,960 --> 01:33:50,520
+que tu vas dans ton metamask, tu fais un switch, tu reçois le NFT,
+
+1037
+01:33:50,520 --> 01:33:54,120
+puis tu ne le retrouves jamais de toute façon, parce que tu ne sais plus genre quelle adresse.
+
+1038
+01:33:54,120 --> 01:33:57,080
+Tu vois, c'était vraiment la même expérience.
+
+1039
+01:33:57,080 --> 01:33:58,520
+On est encore loin des trucs.
+
+1040
+01:33:58,520 --> 01:34:00,360
+C'est un calvaire en fait.
+
+1041
+01:34:00,360 --> 01:34:04,360
+Mais tu le vois très bien, dès que tu dois utiliser un nouveau service,
+
+1042
+01:34:04,360 --> 01:34:07,800
+si on te demande de t'enregistrer et que tu ne peux pas le faire avec Google ou Vite,
+
+1043
+01:34:08,680 --> 01:34:09,240
+ça saoule.
+
+1044
+01:34:09,240 --> 01:34:11,640
+Enfin, tu perds d'utilisateur.
+
+1045
+01:34:12,200 --> 01:34:16,200
+Après, il y a des projets qui sont liés à la chaîne, à l'identité numérique,
+
+1046
+01:34:16,280 --> 01:34:19,320
+notamment en ligne au niveau européen.
+
+1047
+01:34:19,320 --> 01:34:20,680
+Ça fait un moment que c'est dans les tuyaux, ça.
+
+1048
+01:34:21,640 --> 01:34:23,640
+Et c'est très probablement lié au NFT,
+
+1049
+01:34:24,280 --> 01:34:27,000
+et notamment parce qu'ils veulent que tout soit KYC.
+
+1050
+01:34:29,880 --> 01:34:30,680
+Il y a peut-être ça.
+
+1051
+01:34:30,680 --> 01:34:38,600
+Il y a peut-être aussi, tu sais, ça va venir le vrai avènement des NFT.
+
+1052
+01:34:38,600 --> 01:34:40,040
+Ça va peut-être venir aussi des réseaux sociaux.
+
+1053
+01:34:40,040 --> 01:34:46,120
+Ça se trouve, il y a un réseau social au pif Twitter qui va intégrer des NFT.
+
+1054
+01:34:46,600 --> 01:34:51,560
+Dans l'application, et ça va commencer comme ça.
+
+1055
+01:34:51,560 --> 01:34:54,040
+Tout le monde va commencer à utiliser des NFT pour toutes sortes de raisons.
+
+1056
+01:34:54,040 --> 01:34:55,160
+Et boum, je ne sais pas.
+
+1057
+01:34:55,160 --> 01:35:00,680
+Oui, mais ça ne va pas forcément s'accompagner d'une hausse des prix des collections
+
+1058
+01:35:00,680 --> 01:35:02,200
+que les gens mettent dans leur wallet.
+
+1059
+01:35:02,200 --> 01:35:02,680
+Ah non, c'est sûr.
+
+1060
+01:35:03,640 --> 01:35:06,280
+Mais par contre, le projet Blockchain Identité Numérique,
+
+1061
+01:35:06,280 --> 01:35:08,360
+enfin, c'est le rapport du...
+
+1062
+01:35:08,360 --> 01:35:13,480
+Il y a un rapport, il me semble, c'est du Parlement européen là-dessus,
+
+1063
+01:35:13,960 --> 01:35:17,640
+sur... avec la feuille du route.
+
+1064
+01:35:18,440 --> 01:35:23,160
+Et on le voit, les assos de Thierry Breton ou d'autres sur l'identification en ligne,
+
+1065
+01:35:23,880 --> 01:35:26,360
+où on veut que tout soit KYC, que personne soit anonyme.
+
+1066
+01:35:27,080 --> 01:35:30,840
+Ça veut lier en fait l'identité réelle à l'identité numérique.
+
+1067
+01:35:31,400 --> 01:35:37,560
+Et via probablement un certificat NFT, une signature éventuellement,
+
+1068
+01:35:38,440 --> 01:35:41,240
+comme on signe avec MetaMask, etc.
+
+1069
+01:35:41,560 --> 01:35:43,320
+Ils sont encore en train de bosser dessus.
+
+1070
+01:35:43,320 --> 01:35:45,000
+De temps en temps, ils publient un rapport.
+
+1071
+01:35:45,000 --> 01:35:50,120
+Mais le premier rapport était extrêmement riche et porté par Thales, notamment,
+
+1072
+01:35:50,840 --> 01:35:53,560
+qui ont des Neutezos et des Neutherums aussi.
+
+1073
+01:35:54,520 --> 01:35:58,040
+Donc ça, c'est une des applications mainstream qui risque d'arriver.
+
+1074
+01:35:58,040 --> 01:35:59,320
+Les gens ne sauront pas que c'est un NFT.
+
+1075
+01:36:00,520 --> 01:36:01,000
+OK.
+
+1076
+01:36:02,040 --> 01:36:04,840
+En tout cas, je pense qu'on peut arrêter le débat ici.
+
+1077
+01:36:04,840 --> 01:36:06,840
+On a quand même discuté de beaucoup de choses.
+
+1078
+01:36:06,840 --> 01:36:09,480
+C'était vraiment super intéressant.
+
+1079
+01:36:09,480 --> 01:36:10,520
+Vraiment, vraiment.
+
+1080
+01:36:10,600 --> 01:36:14,760
+Merci énormément, Gauthier et Konohime, d'être venus ce soir.
+
+1081
+01:36:14,760 --> 01:36:15,800
+C'était super cool.
+
+1082
+01:36:16,840 --> 01:36:18,840
+Merci pour l'invitation, surtout.
+
+1083
+01:36:18,840 --> 01:36:19,480
+De rien.
+
+1084
+01:36:20,040 --> 01:36:21,080
+C'était un plaisir.
+
+1085
+01:36:21,080 --> 01:36:24,440
+Vous revenez quand vous voulez, peut-être pour le prochain rapport, si vous voulez.
+
+1086
+01:36:24,440 --> 01:36:25,240
+Je ne sais pas.
+
+1087
+01:36:25,240 --> 01:36:27,000
+Vous en faites un tous les mois, maintenant, c'est ça?
+
+1088
+01:36:27,000 --> 01:36:27,960
+C'est ça, tous les mois.
+
+1089
+01:36:27,960 --> 01:36:30,200
+Donc, du coup, on est un peu tard.
+
+1090
+01:36:30,200 --> 01:36:31,960
+Nos chiffres sont presque un peu vieux maintenant.
+
+1091
+01:36:31,960 --> 01:36:36,600
+Le prochain rapport, du coup, on va le sortir là, tout début décembre.
+
+1092
+01:36:36,680 --> 01:36:41,400
+Avec grand plaisir pour vous donner un petit aperçu de où en seront les marchés, du coup,
+
+1093
+01:36:41,400 --> 01:36:42,040
+le mois prochain.
+
+1094
+01:36:42,040 --> 01:36:45,160
+Vu la tendance de novembre, je pense que ça fera plaisir.
+
+1095
+01:36:46,360 --> 01:36:46,860
+OK.
+
+1096
+01:36:48,040 --> 01:36:49,240
+Merci encore d'être venus.
+
+1097
+01:36:49,240 --> 01:36:53,000
+Merci aussi à Pierre Pauze, évidemment, pour avoir connu l'émission avec moi.
+
+1098
+01:36:53,720 --> 01:36:58,200
+Toujours un éclairage artistique hyper riche et hyper intéressant.
+
+1099
+01:36:58,200 --> 01:37:01,640
+Et puis, merci à tout le monde d'être venus ce soir.
+
+1100
+01:37:01,640 --> 01:37:02,360
+C'était vraiment cool.
+
+1101
+01:37:02,360 --> 01:37:05,320
+Demain, on fait une émission sur l'intelligence artificielle, comme on l'a dit,
+
+1102
+01:37:05,320 --> 01:37:07,880
+une émission sur l'intelligence artificielle, comme tous les mardis.
+
+1103
+01:37:07,880 --> 01:37:09,560
+On va parler de plein de choses.
+
+1104
+01:37:09,560 --> 01:37:12,680
+Et cette semaine, alors, je ne sais pas trop comment je vais articuler ça,
+
+1105
+01:37:12,680 --> 01:37:15,160
+mais cette semaine, on va parler de l'Argentine.
+
+1106
+01:37:15,160 --> 01:37:18,120
+Donc, c'est sûr qu'il va y avoir une émission dimanche là-dessus,
+
+1107
+01:37:18,120 --> 01:37:19,160
+où on va se...
+
+1108
+01:37:19,160 --> 01:37:24,280
+On va focus un peu sur le libertarianisme et essayer aussi de voir,
+
+1109
+01:37:24,280 --> 01:37:30,600
+justement, quelle sorte de libertarianisme va s'instaurer ou va peut-être s'instaurer
+
+1110
+01:37:30,600 --> 01:37:31,880
+en Argentine.
+
+1111
+01:37:32,280 --> 01:37:35,640
+Mais peut-être qu'on va aussi aborder le sujet d'une manière un peu plus
+
+1112
+01:37:37,080 --> 01:37:38,600
+liée au pays qu'est l'Argentine.
+
+1113
+01:37:40,120 --> 01:37:43,880
+Jeudi, avec Vincent, puisque normalement, le jeudi, on fait géopolitique,
+
+1114
+01:37:43,880 --> 01:37:45,560
+géoéconomie, donc on va voir.
+
+1115
+01:37:45,560 --> 01:37:47,560
+On va voir si on va traiter du sujet de l'Argentine.
+
+1116
+01:37:48,600 --> 01:37:50,520
+Donc voilà, il y aura ça cette semaine.
+
+1117
+01:37:50,520 --> 01:37:53,480
+Il y a aussi plein d'autres trucs qui arrivent, notamment...
+
+1118
+01:37:54,120 --> 01:37:55,960
+Ah ouais, cette semaine, c'est un truc de fou.
+
+1119
+01:37:55,960 --> 01:37:59,160
+Mercredi, il y a la Business Blockchain...
+
+1120
+01:37:59,160 --> 01:38:00,760
+Est-ce que je le dis dans le bon ordre?
+
+1121
+01:38:01,720 --> 01:38:05,880
+La Business Blockchain School qui sera là.
+
+1122
+01:38:05,880 --> 01:38:13,160
+Donc plusieurs personnes qui sont là dans l'émission, on va parler de ce qu'ils font.
+
+1123
+01:38:13,160 --> 01:38:15,960
+Et puis, on va faire une annonce conjointe.
+
+1124
+01:38:16,600 --> 01:38:20,280
+Et aussi, il y a le retour du Chat Battle,
+
+1125
+01:38:20,280 --> 01:38:24,520
+donc un événement qui a eu lieu au NFT Biarritz en début d'année
+
+1126
+01:38:24,520 --> 01:38:27,800
+et qui sera de retour l'année prochaine, enfin dans deux mois genre,
+
+1127
+01:38:27,800 --> 01:38:28,840
+dans un autre événement.
+
+1128
+01:38:28,840 --> 01:38:30,200
+Et donc, je vais faire l'annonce demain.
+
+1129
+01:38:30,360 --> 01:38:34,760
+Il va se passer plein de trucs, donc restez à l'écoute.
+
+1130
+01:38:34,760 --> 01:38:36,840
+Voilà, merci encore à tous d'être venus.
+
+1131
+01:38:36,840 --> 01:38:39,400
+Et puis, on se dit rendez-vous demain à 22h.
+
+1132
+01:38:41,160 --> 01:38:41,960
+Merci beaucoup.
+
+1133
+01:38:42,840 --> 01:38:43,400
+De rien.
+
+1134
+01:38:43,400 --> 01:38:45,400
+Et on se quitte en musique.
+
+1135
+01:39:00,200 --> 01:39:12,200
+Ça, c'est de la musique méga expérimentale, c'est-à-dire il n'y a rien.
+
+1136
+01:39:12,200 --> 01:39:12,680
+Ah ouais?
+
+1137
+01:39:12,680 --> 01:39:14,680
+Ah ok, d'accord, on va essayer.
+
+1138
+01:39:14,680 --> 01:39:16,680
+Je me disais.
+
+1139
+01:39:16,680 --> 01:39:20,680
+Est-ce que là, on entend?
+
+1140
+01:39:20,680 --> 01:39:23,000
+Toujours pas.
+
+1141
+01:39:23,000 --> 01:39:25,800
+Putain, mais c'est une galère.

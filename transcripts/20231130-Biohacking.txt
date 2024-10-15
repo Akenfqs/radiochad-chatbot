@@ -1,0 +1,5015 @@
+1
+00:01:30,000 --> 00:01:59,600
+Salut, bienvenue sur Radio Shad.
+
+2
+00:01:59,600 --> 00:02:05,520
+On est le jeudi 30 novembre 2023 et ce soir, c'est une soirée spéciale
+
+3
+00:02:05,880 --> 00:02:06,640
+biohacking.
+
+4
+00:02:07,080 --> 00:02:10,880
+On fait un truc complètement différent de ce qu'on a fait hier soir.
+
+5
+00:02:11,280 --> 00:02:14,480
+En même temps, c'est un peu légitime parce que c'était censé être le
+
+6
+00:02:14,480 --> 00:02:15,240
+thème d'hier soir.
+
+7
+00:02:16,280 --> 00:02:19,040
+Tout a changé, mais c'est très bien parce que c'est une émission
+
+8
+00:02:19,120 --> 00:02:20,560
+dynamique et expérimentale.
+
+9
+00:02:21,200 --> 00:02:23,280
+Donc, ce soir, on va parler biohacking.
+
+10
+00:02:23,320 --> 00:02:24,640
+On va essayer de savoir déjà ce que c'est.
+
+11
+00:02:24,680 --> 00:02:29,440
+Et puis, ça va être super intéressant parce qu'on a déjà abordé toutes
+
+12
+00:02:29,440 --> 00:02:35,880
+sortes de sujets connexes durant les mois et mois et mois d'émission.
+
+13
+00:02:35,960 --> 00:02:39,880
+Et on a fait un petit peu de coaching de vie.
+
+14
+00:02:39,920 --> 00:02:44,440
+On a fait un petit peu de sport, de toutes sortes de choses sur le
+
+15
+00:02:44,440 --> 00:02:45,080
+mental, etc.
+
+16
+00:02:45,120 --> 00:02:46,560
+On n'a pas que parlé crypto tout le temps.
+
+17
+00:02:46,920 --> 00:02:49,440
+Et du coup, le sujet du biohacking, c'est super cool.
+
+18
+00:02:49,520 --> 00:02:52,400
+Et pour ça, j'ai invité quelqu'un qui est déjà venu dans l'émission,
+
+19
+00:02:53,000 --> 00:02:54,000
+qui s'appelle Major.
+
+20
+00:02:54,600 --> 00:02:57,280
+Et qui, alors que je ne vois pas en speaker, je ne sais pas si tu es
+
+21
+00:02:57,280 --> 00:02:59,400
+speaker, Major, mais moi, je te vois en listener.
+
+22
+00:03:00,440 --> 00:03:05,560
+En attendant qu'on règle ce problème, bonjour à ceux qui sont là.
+
+23
+00:03:05,600 --> 00:03:08,120
+Salut Agathe, salut Rémi du Salto Boat.
+
+24
+00:03:09,080 --> 00:03:11,000
+Salut Polidot, Olam, Nagini.
+
+25
+00:03:13,000 --> 00:03:15,080
+Et puis, l'homme souja.
+
+26
+00:03:15,760 --> 00:03:17,040
+Ah, salut, je te vois, Major.
+
+27
+00:03:20,000 --> 00:03:20,440
+Comment ça va?
+
+28
+00:03:20,480 --> 00:03:24,800
+J'essaye de paramétrer mon casque pour pouvoir discuter correctement.
+
+29
+00:03:24,840 --> 00:03:26,440
+Mais j'ai l'impression que ça va être plus compliqué que prévu.
+
+30
+00:03:30,040 --> 00:03:31,520
+En tout cas, ton son est parfait.
+
+31
+00:03:31,560 --> 00:03:32,200
+Le son est nickel.
+
+32
+00:03:32,360 --> 00:03:32,800
+Alors attends.
+
+33
+00:03:35,920 --> 00:03:39,480
+Alors, hier, on a explosé le compteur.
+
+34
+00:03:39,520 --> 00:03:42,000
+C'était totalement un record du nombre d'écoutes.
+
+35
+00:03:42,200 --> 00:03:42,800
+Un truc de fou.
+
+36
+00:03:44,120 --> 00:03:46,840
+Sur la soirée, on a eu environ près de 2000 écoutes.
+
+37
+00:03:48,240 --> 00:03:48,480
+Ah ouais?
+
+38
+00:03:48,520 --> 00:03:51,520
+Il y avait 700 personnes en live, genre 600 personnes en live.
+
+39
+00:03:51,560 --> 00:03:53,920
+Donc, c'est énorme 600 personnes en live parce qu'il y a un turnover.
+
+40
+00:03:54,240 --> 00:03:57,320
+Ce n'est pas 600 personnes qui restent là dans l'émission pendant un bloc.
+
+41
+00:03:58,000 --> 00:03:58,680
+En bloc, je veux dire.
+
+42
+00:03:58,920 --> 00:04:01,920
+Donc, en fait, il y a eu 2000 personnes qui se sont connectées.
+
+43
+00:04:03,320 --> 00:04:08,320
+Et puis après, avec les écoutes post-émission, on est à 10 000 à peu près.
+
+44
+00:04:09,080 --> 00:04:13,160
+Et sur les space, tu as les statistiques à la fin, quand tu as fini d'en faire?
+
+45
+00:04:15,000 --> 00:04:15,600
+Oui, c'est ça.
+
+46
+00:04:15,840 --> 00:04:18,320
+En fait, ça te met le nombre de gens qui ont écouté pendant l'émission
+
+47
+00:04:18,360 --> 00:04:21,520
+et le nombre de gens qui ont écouté après.
+
+48
+00:04:22,320 --> 00:04:22,720
+OK.
+
+49
+00:04:23,080 --> 00:04:24,240
+Félicitations à toi.
+
+50
+00:04:24,320 --> 00:04:26,200
+Je pense que tout le monde est très heureux pour toi ici.
+
+51
+00:04:26,240 --> 00:04:26,960
+C'est mérité.
+
+52
+00:04:27,000 --> 00:04:29,720
+Mais ah oui, mais il y avait aussi Amy hier soir de ce que j'ai vu.
+
+53
+00:04:30,720 --> 00:04:32,400
+C'est ça, en fait. C'est ça qui a fait exploser le compteur.
+
+54
+00:04:33,360 --> 00:04:35,840
+OK, effectivement, c'était le sujet.
+
+55
+00:04:36,960 --> 00:04:37,840
+Je retire mon bravo.
+
+56
+00:04:40,240 --> 00:04:42,560
+Le sujet tendance du moment.
+
+57
+00:04:43,640 --> 00:04:45,680
+Voilà, ce sera plus doux ce soir, davantage.
+
+58
+00:04:47,320 --> 00:04:48,160
+Oui, c'est ça.
+
+59
+00:04:48,360 --> 00:04:49,040
+Mais c'est pas grave.
+
+60
+00:04:49,200 --> 00:04:52,280
+Par contre, le sujet reste super intéressant et en fait,
+
+61
+00:04:52,320 --> 00:04:56,160
+tu en sandwiches un peu parce que demain, il va y avoir...
+
+62
+00:04:56,520 --> 00:04:59,960
+J'ai un petit son de téléphone mobile, c'est un peu chiant.
+
+63
+00:05:00,480 --> 00:05:01,960
+Attends, je vais faire...
+
+64
+00:05:03,160 --> 00:05:03,360
+Non.
+
+65
+00:05:03,680 --> 00:05:04,200
+OK, laissez-moi.
+
+66
+00:05:05,360 --> 00:05:07,720
+Oui, demain, en fait, il y a Crypto Matrix qui va venir.
+
+67
+00:05:08,160 --> 00:05:09,560
+Ah ouais? OK.
+
+68
+00:05:09,840 --> 00:05:14,520
+Et en fait, il a réagi un peu à ce qu'a dit Amy dans un long post.
+
+69
+00:05:15,160 --> 00:05:17,200
+Et donc, il a raconté sa vie, etc.
+
+70
+00:05:17,240 --> 00:05:20,040
+Puis, il a notamment mentionné le truc dont je parlais hier, d'ailleurs.
+
+71
+00:05:20,560 --> 00:05:24,840
+L'idée qu'il y a un groupe de gens du CTFR.
+
+72
+00:05:25,520 --> 00:05:27,040
+On ne sait pas qui, comment, etc.
+
+73
+00:05:27,080 --> 00:05:28,160
+Mais qui se réunissent et qui...
+
+74
+00:05:30,000 --> 00:05:30,520
+Je ne sais pas.
+
+75
+00:05:31,000 --> 00:05:36,240
+Lui, il propose un conseil des sages pour, comme dire, pour juger les projets, etc.
+
+76
+00:05:37,480 --> 00:05:40,120
+Tu sais que demain, tu vas faire ton plus haut pic d'audience, je pense.
+
+77
+00:05:40,120 --> 00:05:44,600
+Parce que certainement qu'il va y avoir un Mark Zeller, un Julien Boutelou
+
+78
+00:05:44,600 --> 00:05:48,200
+et un Amy qui vont atterrir indirectement et tu vas servir de médiateur.
+
+79
+00:05:49,840 --> 00:05:53,280
+Ouais, alors je ne pense pas que Boutelou va venir.
+
+80
+00:05:54,280 --> 00:05:55,160
+Amy, je ne sais pas.
+
+81
+00:05:55,200 --> 00:05:57,280
+Mais probablement qu'il va y avoir un débat.
+
+82
+00:05:57,600 --> 00:05:58,120
+OK.
+
+83
+00:05:58,360 --> 00:06:00,920
+Et effectivement, s'il y a un débat, il va falloir que je fasse le médiateur.
+
+84
+00:06:01,040 --> 00:06:04,520
+Bon, je te souhaite une belle émission pour demain et tout comme aujourd'hui.
+
+85
+00:06:05,720 --> 00:06:07,120
+Ouais, merci.
+
+86
+00:06:07,120 --> 00:06:10,160
+Mais en tout cas, bienvenue à ceux qui sont arrivés entre temps pendant l'introduction.
+
+87
+00:06:10,480 --> 00:06:12,760
+Et puis, salut à quoi?
+
+88
+00:06:13,080 --> 00:06:15,760
+Et donc, ce soir, c'est Bureking.
+
+89
+00:06:16,200 --> 00:06:19,440
+Alors déjà, c'est marrant parce que la dernière fois que tu étais venu...
+
+90
+00:06:19,640 --> 00:06:22,600
+C'était crypto et nouvelles technologies, il me semble.
+
+91
+00:06:22,600 --> 00:06:23,280
+Ouais, c'est ça.
+
+92
+00:06:23,280 --> 00:06:25,560
+Et on avait parlé plus...
+
+93
+00:06:26,160 --> 00:06:27,160
+C'était plus de...
+
+94
+00:06:27,160 --> 00:06:28,560
+Est-ce qu'on appelait ça au SYNTH?
+
+95
+00:06:28,880 --> 00:06:29,360
+Non.
+
+96
+00:06:29,360 --> 00:06:34,200
+En fait, la dernière fois, j'ai récupéré parce que j'ai un petit fichier sur le FUJI
+
+97
+00:06:34,200 --> 00:06:35,800
+par rapport à ce qu'on avait vu la dernière fois.
+
+98
+00:06:36,280 --> 00:06:41,680
+On a parlé des crypto tendances, des cryptos qui allaient dumper.
+
+99
+00:06:41,720 --> 00:06:44,760
+On a parlé des outils qu'on utilisait aussi avec lesquels on travaille
+
+100
+00:06:44,760 --> 00:06:49,440
+pour faire de l'open source intelligence et pour récupérer des infos sur les gens.
+
+101
+00:06:49,680 --> 00:06:50,680
+C'est notamment...
+
+102
+00:06:51,160 --> 00:06:52,240
+On est bien dans la période.
+
+103
+00:06:54,160 --> 00:06:56,520
+Récupérer des infos sur les gens et donner un scoring.
+
+104
+00:06:57,240 --> 00:06:59,640
+Et on a parlé de ça.
+
+105
+00:07:00,040 --> 00:07:03,200
+Et après, bon, on a divagué apparemment.
+
+106
+00:07:04,600 --> 00:07:09,640
+Et en fait, et entre temps, tu t'es dit fuck tout ça.
+
+107
+00:07:10,160 --> 00:07:12,640
+J'en ai marre. Je veux m'intéresser maintenant au Bureking.
+
+108
+00:07:12,800 --> 00:07:14,360
+En fait, le Bureking, je le fais depuis...
+
+109
+00:07:15,040 --> 00:07:18,000
+En vrai, je le fais à peu près, je pense, depuis six à cinq ans.
+
+110
+00:07:18,520 --> 00:07:23,200
+Mais le mot n'était pas encore vraiment collé à ça, si tu veux.
+
+111
+00:07:23,560 --> 00:07:26,080
+Et pour ceux qui ne savent pas ou qui le découvrent,
+
+112
+00:07:26,080 --> 00:07:27,680
+en fait, c'est vraiment tout simple.
+
+113
+00:07:27,680 --> 00:07:30,320
+Le Bureking, ça se trouve, vous en faites aussi sans savoir ce que c'est.
+
+114
+00:07:30,840 --> 00:07:37,840
+C'est le principe d'utiliser la science d'un côté et la biotechnologie de l'autre
+
+115
+00:07:37,920 --> 00:07:40,080
+pour améliorer à la fois ton corps et à la fois l'esprit.
+
+116
+00:07:40,920 --> 00:07:46,160
+Et l'idée derrière ça, c'est qu'en fait, tu vas aller chercher à améliorer toi-même
+
+117
+00:07:46,760 --> 00:07:50,680
+à travers des techniques de respiration.
+
+118
+00:07:50,720 --> 00:07:54,040
+Tu vas essayer d'améliorer ta santé, tu vas améliorer ta nutrition,
+
+119
+00:07:54,040 --> 00:07:57,240
+tu vas améliorer tes capacités de focus et d'état de flow
+
+120
+00:07:57,760 --> 00:08:02,600
+et tes capacités globales de ton corps, de ce que tu peux faire,
+
+121
+00:08:03,240 --> 00:08:05,800
+de tes différentes tâches que tu peux traiter en même temps.
+
+122
+00:08:06,200 --> 00:08:10,280
+Et tu vas tout tracer à travers les datas qui sont émises de ton corps.
+
+123
+00:08:10,320 --> 00:08:11,880
+Donc, ça peut passer par des Apple Watch,
+
+124
+00:08:12,320 --> 00:08:17,640
+par des, comment ça s'appelle, les bagues connectées, par exemple, là, au Wraith Ring,
+
+125
+00:08:18,600 --> 00:08:22,280
+le téléphone et tout ça, et les balances connectées comme les balances We Things.
+
+126
+00:08:22,520 --> 00:08:23,680
+Je ne sais pas si certains le connaissent.
+
+127
+00:08:24,560 --> 00:08:25,640
+Donc, donc...
+
+128
+00:08:26,080 --> 00:08:27,280
+Ça me dit quelque chose.
+
+129
+00:08:27,280 --> 00:08:30,040
+Est-ce que c'est des balances où ils te donnent toutes les...
+
+130
+00:08:30,120 --> 00:08:32,760
+Genre, par exemple, ils te donnent toutes sortes de data sur toi,
+
+131
+00:08:32,760 --> 00:08:38,720
+y compris le gras normal et le gras que tu as autour de tes organes vitaux, ce genre de trucs.
+
+132
+00:08:38,800 --> 00:08:40,960
+Et en fait, l'intérêt de savoir ça,
+
+133
+00:08:40,960 --> 00:08:42,640
+et il y a beaucoup de gens qui vont se dire
+
+134
+00:08:42,640 --> 00:08:46,120
+que c'est un peu fou de récupérer autant de data tout le temps sur son corps.
+
+135
+00:08:46,480 --> 00:08:49,760
+Mais si, par exemple, on commençait très tôt à le faire,
+
+136
+00:08:51,080 --> 00:08:53,440
+ça permettrait à la médecine qui arrive,
+
+137
+00:08:54,160 --> 00:08:57,800
+donc qui commence progressivement à s'implanter à partir des données,
+
+138
+00:08:58,200 --> 00:09:01,160
+de rendre les médecins plus efficaces, plus efficients,
+
+139
+00:09:01,720 --> 00:09:04,400
+tout en ayant une sorte de...
+
+140
+00:09:05,120 --> 00:09:06,800
+Comment on pourrait expliquer ça?
+
+141
+00:09:06,960 --> 00:09:09,400
+Tout en ayant une sorte d'énorme livre
+
+142
+00:09:09,440 --> 00:09:13,120
+qui contiendrait toutes les données sur toi, sur l'évolution de ton corps, et voilà.
+
+143
+00:09:13,400 --> 00:09:14,640
+Et quand il y aurait un problème,
+
+144
+00:09:15,080 --> 00:09:18,800
+on serait en mesure de le traiter avant que ça arrive.
+
+145
+00:09:19,120 --> 00:09:21,840
+Donc on ferait de la prévention plutôt que de faire du traitement
+
+146
+00:09:22,360 --> 00:09:23,440
+quand le problème est déjà là.
+
+147
+00:09:23,960 --> 00:09:26,520
+Tu vois, par exemple, sur les dernières Apple Watch,
+
+148
+00:09:26,880 --> 00:09:28,360
+ça te prend la température corporelle,
+
+149
+00:09:28,800 --> 00:09:31,680
+et puis ça peut t'indiquer deux, trois jours avant
+
+150
+00:09:32,000 --> 00:09:33,760
+que ta température est en train d'augmenter
+
+151
+00:09:34,440 --> 00:09:35,680
+et que progressivement,
+
+152
+00:09:36,800 --> 00:09:39,040
+tu risques potentiellement d'avoir contracté une infection.
+
+153
+00:09:39,320 --> 00:09:41,960
+Et donc tu sais que tu vas être malade dans les jours qui suivent.
+
+154
+00:09:43,040 --> 00:09:46,720
+Parce que toutes les données que tu as eues pendant 4, 5,
+
+155
+00:09:47,200 --> 00:09:48,240
+plusieurs années derrière toi,
+
+156
+00:09:49,120 --> 00:09:51,680
+eh bien, ils commencent à connaître ton corps,
+
+157
+00:09:51,760 --> 00:09:52,720
+et ensuite, ils t'envoient une alerte,
+
+158
+00:09:52,800 --> 00:09:54,840
+qui te dit « alerte température en hausse »
+
+159
+00:09:55,320 --> 00:09:57,400
+ou « alerte trouble de la température »,
+
+160
+00:09:57,480 --> 00:09:59,560
+et puis toi, tu sais que dans les deux, trois jours qui suivent,
+
+161
+00:10:00,000 --> 00:10:01,520
+tu vas être ballonné, tu vas avoir mal au ventre,
+
+162
+00:10:01,600 --> 00:10:03,080
+et puis tu vas te choper une gastro, par exemple.
+
+163
+00:10:05,960 --> 00:10:06,800
+Ouais, alors du coup,
+
+164
+00:10:07,320 --> 00:10:10,040
+à un moment donné, j'étais…
+
+165
+00:10:10,880 --> 00:10:12,520
+Alors avant que je dise ça,
+
+166
+00:10:12,600 --> 00:10:16,120
+j'ai trouvé, quand j'ai fait des petites recherches sur le sujet,
+
+167
+00:10:16,480 --> 00:10:19,600
+j'ai trouvé plein de termes qui sont reliés à ce sujet-là,
+
+168
+00:10:19,680 --> 00:10:22,040
+et j'aimerais qu'on les passe en revue,
+
+169
+00:10:22,120 --> 00:10:25,000
+parce que du moins hardcore au plus hardcore.
+
+170
+00:10:25,320 --> 00:10:27,800
+Mais juste avant ça, j'aurais fait une petite remarque,
+
+171
+00:10:27,880 --> 00:10:29,640
+c'est parce qu'à un moment donné, j'étais à fond sur ce truc-là,
+
+172
+00:10:29,720 --> 00:10:31,760
+en fait pendant le Covid,
+
+173
+00:10:31,840 --> 00:10:33,440
+parce que j'étais évidemment, comme tout le monde,
+
+174
+00:10:33,520 --> 00:10:35,960
+un peu plus préoccupé par ma santé,
+
+175
+00:10:36,440 --> 00:10:39,880
+et donc j'avais justement acheté une montre
+
+176
+00:10:39,960 --> 00:10:42,440
+qui mesure les signes vitaux, etc.
+
+177
+00:10:42,920 --> 00:10:45,040
+Et je m'en servais de ouf, en fait.
+
+178
+00:10:45,320 --> 00:10:47,920
+Mais je me suis rendu compte au fil du temps
+
+179
+00:10:48,560 --> 00:10:51,760
+que ce n'était pas si nécessaire que ça,
+
+180
+00:10:51,840 --> 00:10:55,000
+parce qu'en fait, il fallait juste que je fasse des efforts,
+
+181
+00:10:55,080 --> 00:10:56,840
+c'est-à-dire qu'en fait, si ma montre me dit
+
+182
+00:10:56,920 --> 00:10:58,000
+« Ah, ton cœur, il bat trop vite,
+
+183
+00:10:58,320 --> 00:11:01,480
+donc il faut que tu dormes mieux, que tu fasses plus de sport, etc. »
+
+184
+00:11:01,680 --> 00:11:03,920
+Donc en fait, il suffit juste de dormir mieux, de faire du sport,
+
+185
+00:11:04,000 --> 00:11:04,520
+et qu'on se vienne.
+
+186
+00:11:05,480 --> 00:11:06,880
+C'est hyper intéressant ce que tu dis,
+
+187
+00:11:06,960 --> 00:11:09,760
+parce que ça, c'est ce que tout le monde peut faire.
+
+188
+00:11:10,280 --> 00:11:13,080
+Et c'est ce que tout le monde, en tout cas, devrait normalement faire.
+
+189
+00:11:13,160 --> 00:11:14,960
+Mais on force personne, c'est juste histoire d'expliquer.
+
+190
+00:11:15,040 --> 00:11:18,840
+C'est pour être en bonne santé et vivre sainement,
+
+191
+00:11:19,040 --> 00:11:23,240
+et vivre longtemps tout en vieillissant naturellement,
+
+192
+00:11:23,320 --> 00:11:28,040
+tu vois, sans choper des maladies ou des dégénérescences ou plein de choses,
+
+193
+00:11:28,880 --> 00:11:30,120
+il faut dormir suffisamment,
+
+194
+00:11:30,200 --> 00:11:33,360
+il faut plutôt s'orienter vers des régimes méditerranéens,
+
+195
+00:11:33,400 --> 00:11:35,120
+tu vois, où tu as moins de viande,
+
+196
+00:11:35,200 --> 00:11:37,000
+ce qui ne veut pas dire forcément zéro non plus.
+
+197
+00:11:38,000 --> 00:11:42,160
+Puis tu dois aussi avoir 10 000 pas par jour et une activité physique.
+
+198
+00:11:42,240 --> 00:11:43,200
+Ça, c'est les trucs de base.
+
+199
+00:11:43,520 --> 00:11:44,520
+Si tu fais ça déjà,
+
+200
+00:11:44,920 --> 00:11:49,360
+tu es dans la tranche haute de probabilité, de chance
+
+201
+00:11:49,440 --> 00:11:51,440
+de choper le moins de problèmes possibles dans le temps.
+
+202
+00:11:51,800 --> 00:11:56,800
+Des cancers, des diabètes, des problèmes cérébraux, enfin voilà.
+
+203
+00:11:57,200 --> 00:11:59,280
+Et ensuite, il y a la tranche au-dessus.
+
+204
+00:11:59,560 --> 00:12:02,640
+Donc là, c'est plutôt celle dans laquelle je suis,
+
+205
+00:12:02,640 --> 00:12:04,640
+et je pense qu'après, il y en a encore deux autres,
+
+206
+00:12:04,720 --> 00:12:06,960
+où il y a encore Brian Johnson qui est tout en haut.
+
+207
+00:12:07,160 --> 00:12:08,760
+Je ne sais pas si tu vois qui c'est, Brian Johnson.
+
+208
+00:12:10,160 --> 00:12:12,760
+Brian Johnson, vous pouvez aller le voir sur Twitter.
+
+209
+00:12:13,640 --> 00:12:15,520
+Il a fait un bouquin, enfin il a fait un bouquin,
+
+210
+00:12:15,600 --> 00:12:18,560
+il a fait un site Internet qui s'appelle Blueprint.
+
+211
+00:12:19,120 --> 00:12:21,800
+Donc Brian, si vous voulez, je vais vous le mettre dans la conversation en dessous.
+
+212
+00:12:22,680 --> 00:12:23,840
+Je vais même l'identifier.
+
+213
+00:12:24,640 --> 00:12:25,640
+On ne sait jamais.
+
+214
+00:12:26,040 --> 00:12:27,320
+Comme ça, Brian.
+
+215
+00:12:28,320 --> 00:12:29,320
+Ok.
+
+216
+00:12:29,400 --> 00:12:32,520
+Je ne vais peut-être pas l'identifier parce que s'il se pointe sur un lion français,
+
+217
+00:12:32,600 --> 00:12:33,600
+j'aurais l'air malin.
+
+218
+00:12:33,680 --> 00:12:34,680
+Voilà.
+
+219
+00:12:34,760 --> 00:12:35,760
+Il y a juste le N.
+
+220
+00:12:36,520 --> 00:12:39,360
+Donc vous pouvez aller voir son compte, il est dans les commentaires.
+
+221
+00:12:39,840 --> 00:12:44,800
+Et lui, il a créé en fait un site Internet dans lequel il relève
+
+222
+00:12:44,880 --> 00:12:46,880
+toutes les données qu'il a sur son corps.
+
+223
+00:12:46,960 --> 00:12:49,080
+La taille de ses yeux, la taille de ses vertèbres,
+
+224
+00:12:49,160 --> 00:12:50,880
+la taille de son tube digestif et tout ça.
+
+225
+00:12:51,160 --> 00:12:56,160
+Pourquoi? Parce que c'est potentiellement l'homme qui a le plus de cancer.
+
+226
+00:12:56,760 --> 00:12:59,120
+C'est potentiellement l'homme, en tout cas le premier homme
+
+227
+00:12:59,200 --> 00:13:03,920
+qui pourrait faire partie de ceux qui ont des chances de vivre 1000 ans.
+
+228
+00:13:04,200 --> 00:13:05,680
+Évidemment, c'est spéculatif.
+
+229
+00:13:06,160 --> 00:13:10,640
+C'est spéculatif, mais c'est ce qu'a ressorti l'équipe scientifique
+
+230
+00:13:10,720 --> 00:13:11,720
+qui travaille avec lui.
+
+231
+00:13:11,800 --> 00:13:15,040
+Ça fait plus de deux ans qu'il s'est lancé ce défi.
+
+232
+00:13:15,960 --> 00:13:20,440
+Il dépense à peu près 2 millions d'euros, enfin de dollars par an dans sa santé.
+
+233
+00:13:20,840 --> 00:13:23,920
+Et tous les jours, il prend à peu près une centaine de compléments alimentaires.
+
+234
+00:13:24,280 --> 00:13:29,040
+Il a une routine quotidienne du lever jusqu'au coucher.
+
+235
+00:13:29,720 --> 00:13:33,640
+Par exemple, il ne va pas trop souvent à l'extérieur
+
+236
+00:13:33,720 --> 00:13:35,520
+parce que le soleil peut te vieillir.
+
+237
+00:13:35,760 --> 00:13:38,360
+Mais ce qu'il faut savoir, c'est que ça paraît complètement fou
+
+238
+00:13:39,080 --> 00:13:42,240
+qu'un gars s'afflige tout ça parce qu'il n'a plus de vie.
+
+239
+00:13:42,640 --> 00:13:46,440
+Mais foncièrement, lui, il veut être une sorte d'expérience
+
+240
+00:13:46,600 --> 00:13:48,640
+à l'échelle mondiale par rapport à ça.
+
+241
+00:13:49,040 --> 00:13:51,280
+Donc après, on n'est pas là pour juger ce qu'il fait,
+
+242
+00:13:51,640 --> 00:13:55,320
+mais il veut servir un peu d'exemple et de cas d'études
+
+243
+00:13:56,320 --> 00:13:58,800
+en étant le tout premier à tester ça, si tu veux.
+
+244
+00:13:59,440 --> 00:14:03,240
+Et les premiers résultats, ils sont fous parce que là, il a 45 ans,
+
+245
+00:14:04,320 --> 00:14:06,280
+mais il a le corps de...
+
+246
+00:14:06,600 --> 00:14:07,600
+Je...
+
+247
+00:14:07,680 --> 00:14:08,680
+Attends, je plonge dans ma mémoire.
+
+248
+00:14:08,760 --> 00:14:12,960
+Je crois que c'est de l'âge de son fils, donc 21, 22 ou quelque chose comme ça.
+
+249
+00:14:13,800 --> 00:14:14,800
+Et...
+
+250
+00:14:14,880 --> 00:14:17,120
+C'est le gars dont tout le monde parlait à un moment donné.
+
+251
+00:14:17,200 --> 00:14:18,920
+S'il était dans tous les médias,
+
+252
+00:14:18,960 --> 00:14:21,280
+tout le monde disait qu'il avait inversé
+
+253
+00:14:21,360 --> 00:14:24,120
+ou qu'il essayait d'inverser son horloge biologique.
+
+254
+00:14:25,040 --> 00:14:28,000
+Alors justement, en fait, lui, il est passé de partout
+
+255
+00:14:28,080 --> 00:14:31,600
+parce que le mec est, comme le disent les premiers commentaires,
+
+256
+00:14:31,880 --> 00:14:35,000
+effectivement, tout le monde a des doutes sur le fait qu'il peut vivre 1000 ans.
+
+257
+00:14:35,400 --> 00:14:37,680
+C'est complètement ahurissant, ça paraît complètement fou.
+
+258
+00:14:38,080 --> 00:14:41,640
+Mais c'est pas une sortie d'un chapeau.
+
+259
+00:14:41,720 --> 00:14:46,120
+C'est une étude qui a été faite par Stanford en 2018 ou 2019.
+
+260
+00:14:46,600 --> 00:14:51,840
+Et cette étude, elle disait que dans les années 2020, 2021, 2022,
+
+261
+00:14:51,920 --> 00:14:54,160
+et avec l'accélération des technos,
+
+262
+00:14:54,640 --> 00:14:59,040
+les... une personne dans le monde pourrait être l'une des premières à vivre 1000 ans.
+
+263
+00:15:00,280 --> 00:15:02,280
+Après, on sait pas comment, on sait pas pourquoi, mais voilà.
+
+264
+00:15:02,360 --> 00:15:05,240
+Grâce au tech, il suffit de voir rien qu'avec l'IA,
+
+265
+00:15:05,320 --> 00:15:08,200
+on est capable aujourd'hui de créer des cellules en laboratoire
+
+266
+00:15:08,840 --> 00:15:10,800
+qui n'ont jamais été créées auparavant
+
+267
+00:15:10,880 --> 00:15:14,760
+parce que l'IA vient t'assister dans la réalisation de ses tâches.
+
+268
+00:15:15,400 --> 00:15:19,560
+Et depuis, chat GPT, plus tous les autres outils que tu es en train de voir,
+
+269
+00:15:20,000 --> 00:15:22,440
+ça te fait un mix qui est extrêmement passionnant,
+
+270
+00:15:22,800 --> 00:15:26,120
+qui te permet de penser à l'avenir complètement différemment
+
+271
+00:15:26,520 --> 00:15:29,960
+et de te dire que des maladies qui, autrefois, étaient incurables
+
+272
+00:15:30,200 --> 00:15:33,960
+vont avoir certainement, dans les prochaines années ou la prochaine décennie,
+
+273
+00:15:34,040 --> 00:15:36,800
+une alternative pour commencer d'être traitable.
+
+274
+00:15:37,160 --> 00:15:39,960
+Et ça, c'est fascinant parce que ça signifie que toutes les personnes
+
+275
+00:15:40,040 --> 00:15:42,120
+qui ont toujours eu des proches dans leur famille,
+
+276
+00:15:42,920 --> 00:15:46,520
+qui ont eu des maladies héréditaires, vont enfin avoir une sorte de traitement
+
+277
+00:15:46,880 --> 00:15:50,640
+qui va être possible grâce à ce genre de personnes comme Brian Johnson,
+
+278
+00:15:50,720 --> 00:15:54,440
+qui sert d'exemple parce que lui, en tout cas, ça lui plaît,
+
+279
+00:15:54,720 --> 00:15:57,680
+ça lui fait plaisir de repousser ses limites pour vivre plus longtemps
+
+280
+00:15:57,920 --> 00:15:59,840
+ou en tout cas, tenter de le faire,
+
+281
+00:15:59,920 --> 00:16:01,880
+puisqu'on n'est pas à l'abri qu'il se prenne une bagnole,
+
+282
+00:16:01,960 --> 00:16:05,440
+ou tu vois, les choses naturelles de la vie, quoi, tu vois.
+
+283
+00:16:06,920 --> 00:16:08,480
+Mais voilà.
+
+284
+00:16:08,480 --> 00:16:14,160
+C'est marrant parce que j'ai vu, je crois que c'était une vidéo Instagram
+
+285
+00:16:14,240 --> 00:16:20,160
+il y a pas longtemps, où ça disait qu'ils avaient trouvé un espèce de,
+
+286
+00:16:20,240 --> 00:16:23,640
+je crois que c'est un vaccin pour les chats, pour leur empêcher
+
+287
+00:16:23,720 --> 00:16:28,240
+d'avoir la maladie des reins, qui fait que les trois quarts des chats
+
+288
+00:16:28,320 --> 00:16:32,200
+meurent à cause de ce truc, d'un dysfonctionnement des reins.
+
+289
+00:16:32,680 --> 00:16:34,400
+Et qu'apparemment, s'ils avaient ce traitement-là,
+
+290
+00:16:34,760 --> 00:16:37,400
+ça pourrait faire vivre les chats, quelque chose comme deux fois plus longtemps.
+
+291
+00:16:37,760 --> 00:16:39,360
+Je trouve ça un petit peu fou, deux fois plus longtemps,
+
+292
+00:16:39,440 --> 00:16:40,720
+même si, bon, un peu plus.
+
+293
+00:16:42,360 --> 00:16:49,120
+En fait, ils ont même identifié dans les cellules qui te vieillissent,
+
+294
+00:16:49,200 --> 00:16:53,200
+enfin qui servent à ton vieillissement, le facteur responsable de ton vieillissement.
+
+295
+00:16:53,800 --> 00:16:57,480
+Et ils ont été en mesure, je sais pas si vous connaissez CRISPR,
+
+296
+00:16:57,640 --> 00:17:01,440
+vous pouvez taper sur Internet, ça s'écrit C-R-I-S-P-R,
+
+297
+00:17:02,680 --> 00:17:04,920
+c'est de la recombinaison génétique.
+
+298
+00:17:05,680 --> 00:17:08,680
+Et ils sont désormais en mesure de modifier la génétique
+
+299
+00:17:10,800 --> 00:17:15,080
+depuis la toute première cellule pour pouvoir la reprogrammer
+
+300
+00:17:15,160 --> 00:17:17,600
+et la désactiver, la stopper ou la mettre en pause.
+
+301
+00:17:17,760 --> 00:17:24,920
+Après, on parle de cas de laboratoire et pas de cas réels encore appliqués à l'homme.
+
+302
+00:17:26,560 --> 00:17:29,800
+Mais c'est vraiment un domaine qui est tout simplement fou.
+
+303
+00:17:29,920 --> 00:17:34,480
+Et dans le biohacking, ça t'inclut déjà, un, le fait de prendre soin de ta santé,
+
+304
+00:17:34,920 --> 00:17:38,720
+mais ça inclut aussi le fait de tenir une sorte de calendrier
+
+305
+00:17:38,800 --> 00:17:42,800
+de ce qui fonctionne pour toi, de ce qui ne fonctionne pas, par exemple.
+
+306
+00:17:43,600 --> 00:17:45,960
+Donc après, il y a aussi des noeuds tropiques et plein d'autres choses
+
+307
+00:17:46,040 --> 00:17:47,320
+mais qu'on va avoir le temps de voir.
+
+308
+00:17:48,520 --> 00:17:53,720
+Exemple, quand tu te réveilles le matin, la pire des choses à faire,
+
+309
+00:17:54,000 --> 00:17:56,880
+c'est de te lever et de tout de suite courir à ton café.
+
+310
+00:17:57,600 --> 00:18:00,640
+Si tu veux flinguer ton organisme sur le long terme, c'est la pire des choses à faire.
+
+311
+00:18:00,720 --> 00:18:02,960
+Je dis pas qu'il ne faut pas te prendre de café, mais...
+
+312
+00:18:03,280 --> 00:18:03,840
+Merde.
+
+313
+00:18:03,920 --> 00:18:08,440
+En fait, ton corps, quand il se réveille, il fabrique naturellement
+
+314
+00:18:08,520 --> 00:18:12,040
+les bonnes hormones qu'il lui faut pour pouvoir...
+
+315
+00:18:12,360 --> 00:18:14,000
+Enfin, hormones, c'est lui, je n'ai pas les termes exacts,
+
+316
+00:18:14,080 --> 00:18:15,600
+mais c'est juste pour donner le contexte.
+
+317
+00:18:15,680 --> 00:18:18,520
+Il te fabrique tout ce qu'il faut pour te réveiller naturellement.
+
+318
+00:18:19,280 --> 00:18:22,920
+Et tu peux le faire avec des applications ou tu peux le faire aussi avec la lumière du jour.
+
+319
+00:18:23,000 --> 00:18:23,920
+Ça marche très très bien.
+
+320
+00:18:24,600 --> 00:18:26,400
+Ça coûte zéro euro et puis c'est parfait.
+
+321
+00:18:26,840 --> 00:18:30,680
+Par contre, quand il commence de créer tout ce qu'il faut pour te mettre en ordre
+
+322
+00:18:30,720 --> 00:18:33,040
+et te réveiller sereinement, tu as à peu près une heure,
+
+323
+00:18:33,920 --> 00:18:37,360
+voire même deux dans certains cas, de ce qu'on appelle somnolence matinale.
+
+324
+00:18:37,760 --> 00:18:40,640
+C'est les cellules de mélatonine qui se baladent encore dans ton corps
+
+325
+00:18:40,720 --> 00:18:43,960
+pendant que tu viens de te réveiller et qui vont être naturellement expulsées.
+
+326
+00:18:45,160 --> 00:18:51,040
+Et si tu viens avec ton café sortir et virer le processus naturel,
+
+327
+00:18:51,400 --> 00:18:53,680
+en fait, tu vas dérégler tout ton horloge biologique.
+
+328
+00:18:54,200 --> 00:18:56,440
+Ton horloge biologique qui va te permettre de te coucher tôt,
+
+329
+00:18:56,520 --> 00:19:00,320
+de dormir convenablement, de dormir à la même heure
+
+330
+00:19:00,600 --> 00:19:05,040
+et dans le temps, ce que tu vas créer, c'est une dépendance, un, au café
+
+331
+00:19:05,360 --> 00:19:07,120
+et ensuite, c'est une dette sommeil.
+
+332
+00:19:07,840 --> 00:19:11,120
+Et la dette sommeil, elle est très difficilement rattrapable
+
+333
+00:19:11,480 --> 00:19:16,600
+parce que ça veut dire que pour éviter ça, il faut sur une semaine, donc sept jours,
+
+334
+00:19:17,040 --> 00:19:22,000
+avoir réinstallé des habitudes de t'endormir à peu près dans les mêmes types d'heures
+
+335
+00:19:22,120 --> 00:19:23,120
+et te réveiller aux mêmes types d'heures.
+
+336
+00:19:23,200 --> 00:19:27,720
+Donc 23 heures, par exemple, tu te couches et tu te réveilles le matin à 7h30, 8h00,
+
+337
+00:19:27,800 --> 00:19:30,040
+tu vois, pour ceux qui partent travailler tôt.
+
+338
+00:19:30,720 --> 00:19:32,320
+Et tu dois faire ça, par exemple, sur une semaine.
+
+339
+00:19:34,640 --> 00:19:37,400
+Ouais, mais alors, du coup, tu vois, c'est un peu comme...
+
+340
+00:19:37,480 --> 00:19:39,680
+Donc bonjour à ceux qui arrivent petit à petit.
+
+341
+00:19:40,120 --> 00:19:42,600
+Pour répondre en même temps aux commentaires qui ont été écrits,
+
+342
+00:19:43,440 --> 00:19:45,120
+par exemple, Nagini qui dit très bon exemple,
+
+343
+00:19:45,200 --> 00:19:48,280
+mais mentalement, il ne va pas exploser en vol ou bien l'homme soja qui dit
+
+344
+00:19:48,800 --> 00:19:51,760
+régime vegan équilibré, activité physique et bonne santé mentale.
+
+345
+00:19:51,840 --> 00:19:52,920
+Je dis, il n'y a pas de secret.
+
+346
+00:19:53,360 --> 00:19:55,760
+Pour bien durer, mais 1000 ans, jamais de la vie, même 150...
+
+347
+00:19:56,000 --> 00:19:57,320
+Je suis un petit peu sur la même ligne.
+
+348
+00:19:57,640 --> 00:19:58,640
+Est-ce que...
+
+349
+00:19:58,720 --> 00:20:02,440
+OK, d'accord, genre si tu fais plein d'efforts, tu vas probablement vivre...
+
+350
+00:20:02,800 --> 00:20:05,600
+Tu vas être dans le panier haut des gens qui vivent longtemps.
+
+351
+00:20:06,400 --> 00:20:07,400
+Mais 1000 ans?
+
+352
+00:20:07,600 --> 00:20:08,600
+En fait, l'étude...
+
+353
+00:20:08,800 --> 00:20:10,160
+C'est ce que j'ai précisé au début.
+
+354
+00:20:10,800 --> 00:20:15,920
+Moi, je pense que ça peut arriver, quelqu'un qui vive 1000 ans,
+
+355
+00:20:16,240 --> 00:20:20,000
+mais on n'arrive pas à le conceptualiser parce que ça paraît beaucoup trop fou.
+
+356
+00:20:20,480 --> 00:20:23,160
+Mais en fait, ça nous paraissait aussi beaucoup trop fou que,
+
+357
+00:20:24,160 --> 00:20:25,160
+tu vois, en six mois,
+
+358
+00:20:26,240 --> 00:20:29,360
+le nombre d'évolutions techno qu'on a eues, que ce soit dans l'IA,
+
+359
+00:20:29,840 --> 00:20:32,800
+chez Apple ou tout ce qui arrive dans le trimestre 2024,
+
+360
+00:20:35,400 --> 00:20:36,400
+pourtant, c'est là,
+
+361
+00:20:37,600 --> 00:20:39,160
+ça arrive et ça va se mettre en place.
+
+362
+00:20:39,240 --> 00:20:42,640
+Donc après, c'est difficile de se projeter et d'imaginer que c'est faisable.
+
+363
+00:20:43,040 --> 00:20:45,040
+Mais c'est très intéressant de se laisser...
+
+364
+00:20:46,400 --> 00:20:49,920
+Enfin, guider, mais de se laisser dire, bon, voilà, dans les prochaines années,
+
+365
+00:20:50,000 --> 00:20:52,520
+peut-être qu'il y a quelqu'un qui va dépasser le pic.
+
+366
+00:20:52,520 --> 00:20:56,560
+Déjà de 100 ans et qui va arriver à 100 ans en bonne santé
+
+367
+00:20:56,840 --> 00:21:00,040
+en ayant vieilli beaucoup plus doucement que la plupart des personnes.
+
+368
+00:21:00,480 --> 00:21:01,960
+Là, tu vois, par exemple, sur les applis.
+
+369
+00:21:02,600 --> 00:21:03,600
+Donc là, j'ai 30.
+
+370
+00:21:04,280 --> 00:21:06,000
+J'ai 30 ans, mais en âge,
+
+371
+00:21:08,320 --> 00:21:11,400
+par rapport à mon corps, il est à 21 ans.
+
+372
+00:21:13,200 --> 00:21:15,360
+Donc, en fait, tout ça,
+
+373
+00:21:15,880 --> 00:21:18,880
+ça passe aussi par tout ce qu'on expliquait au début.
+
+374
+00:21:18,960 --> 00:21:20,800
+Donc, c'est le sport, plus plein de choses.
+
+375
+00:21:21,640 --> 00:21:22,800
+Mais il y a des compléments alimentaires.
+
+376
+00:21:23,240 --> 00:21:26,400
+Et par exemple, tu as aussi, à travers les compléments alimentaires,
+
+377
+00:21:26,480 --> 00:21:27,720
+tu peux trouver des noeuds tropiques.
+
+378
+00:21:28,200 --> 00:21:32,560
+Donc, c'est des substances qui te permettent d'améliorer tes capacités cognitives.
+
+379
+00:21:33,280 --> 00:21:35,720
+Tu as aussi du TRT.
+
+380
+00:21:36,200 --> 00:21:40,080
+Le TRT, c'est une thérapie de remplacement de la testostérone.
+
+381
+00:21:41,520 --> 00:21:43,920
+Alors, je n'ai pas les mots exacts,
+
+382
+00:21:44,320 --> 00:21:48,720
+mais en fait, des fois, tu peux tomber sur des personnes qui ont de l'hypogonadisme.
+
+383
+00:21:48,760 --> 00:21:50,360
+Attends, hypogonadisme.
+
+384
+00:21:50,440 --> 00:21:51,440
+Il me semble que le terme est...
+
+385
+00:21:51,760 --> 00:21:53,080
+Je n'ai pas oublié le mot.
+
+386
+00:21:53,360 --> 00:21:57,040
+Et l'hypogonadisme, c'est que tu as un niveau de testostérone qui est bas.
+
+387
+00:21:57,480 --> 00:22:00,000
+Sauf que pour un homme, quand il a un niveau de testostérone qui est bas,
+
+388
+00:22:00,480 --> 00:22:02,440
+ce n'est pas forcément bien parce que dans le temps,
+
+389
+00:22:02,840 --> 00:22:06,200
+ça peut amener de la fatigue, une diminution de la libido.
+
+390
+00:22:07,200 --> 00:22:09,600
+Ça peut aussi réduire sa concentration.
+
+391
+00:22:10,720 --> 00:22:12,120
+Et il peut perdre de la masse musculaire.
+
+392
+00:22:12,760 --> 00:22:14,200
+Donc, si tu ne fais pas attention à tout ça,
+
+393
+00:22:15,200 --> 00:22:19,600
+dans le long terme, ton corps va en subir les effets.
+
+394
+00:22:20,120 --> 00:22:24,760
+Et vu que personne ne fait attention à sa santé tous les jours,
+
+395
+00:22:24,920 --> 00:22:27,120
+enfin tous les jours, allez, tous les trimestres, se dit
+
+396
+00:22:27,400 --> 00:22:29,480
+« je vais aller faire une petite prise de sang pour faire un check-up »,
+
+397
+00:22:30,520 --> 00:22:33,960
+des fois, tu peux te retrouver à devoir traiter un problème
+
+398
+00:22:34,040 --> 00:22:35,320
+et pas être dans la prévention.
+
+399
+00:22:35,840 --> 00:22:37,800
+Et l'avantage de faire de la prévention, c'est que
+
+400
+00:22:38,240 --> 00:22:39,920
+toutes les données que j'emmagasine
+
+401
+00:22:40,280 --> 00:22:43,520
+et que d'autres personnes aussi emmagasinent sur eux,
+
+402
+00:22:43,680 --> 00:22:45,400
+à travers leur outil connecté par exemple,
+
+403
+00:22:46,320 --> 00:22:48,520
+quand tu vas chez ton médecin, que tu lui fournis le drapeau,
+
+404
+00:22:49,000 --> 00:22:50,840
+parce que maintenant, c'est très simple en plus pour lui fournir,
+
+405
+00:22:51,520 --> 00:22:54,160
+non seulement ces données, elles sont utilisables et exploitables,
+
+406
+00:22:54,440 --> 00:22:56,800
+et lui, il peut se dire « très bien, bon,
+
+407
+00:22:57,440 --> 00:22:59,640
+il y avait une prise de sang où on avait fait ça il y a deux mois,
+
+408
+00:23:01,800 --> 00:23:04,760
+et apparemment, votre cœur, depuis, je ne sais pas,
+
+409
+00:23:04,760 --> 00:23:08,080
+la nuit, il est à 40 battements minutes alors que d'habitude, il est à 60.
+
+410
+00:23:08,440 --> 00:23:09,160
+Il y a peut-être quelque chose.
+
+411
+00:23:09,160 --> 00:23:11,160
+Et en fait, il va refaire une prise de sang,
+
+412
+00:23:11,200 --> 00:23:12,960
+et puis là, il va s'apercevoir avec ça que
+
+413
+00:23:13,920 --> 00:23:16,680
+tu as un déficit de magnésium de 20%.
+
+414
+00:23:17,280 --> 00:23:20,000
+Et puis après, il va te mettre le traitement qu'il va falloir et tout ça.
+
+415
+00:23:20,320 --> 00:23:22,800
+Là, j'ai pris un truc simple parce que c'est ce qui m'est arrivé l'année dernière.
+
+416
+00:23:23,440 --> 00:23:27,920
+Mais tu as plein d'exemples d'utilisation avec des choses beaucoup plus
+
+417
+00:23:30,440 --> 00:23:31,320
+beaucoup plus poussées.
+
+418
+00:23:31,320 --> 00:23:35,320
+Par exemple, tu pourrais imaginer trouver des cancers
+
+419
+00:23:36,320 --> 00:23:38,320
+simplement parce qu'il y a des enzymes, des fois,
+
+420
+00:23:38,320 --> 00:23:42,720
+qui peuvent se balader dans ton corps et que si elles sont détectées suffisamment tôt,
+
+421
+00:23:42,920 --> 00:23:47,320
+tu peux potentiellement arriver à détecter qu'il y a des choses qui ne vont pas.
+
+422
+00:23:47,320 --> 00:23:49,920
+Et ensuite, il ne te reste plus qu'à trouver quel type de cancer ça peut être.
+
+423
+00:23:52,200 --> 00:23:56,720
+C'est marrant parce que je n'ai pas envie de faire le rabat-joie ou quoi,
+
+424
+00:23:56,720 --> 00:24:00,000
+mais en fait, je suis tout à fait d'accord avec le fait, par exemple,
+
+425
+00:24:00,000 --> 00:24:04,480
+qu'il faut bien s'alimenter et prendre des compléments et tout.
+
+426
+00:24:04,480 --> 00:24:07,520
+C'est vachement utile et faire du sport et tout.
+
+427
+00:24:07,680 --> 00:24:09,680
+Tous ces trucs là.
+
+428
+00:24:09,840 --> 00:24:13,240
+Mais il y a un truc qui me dérange, dont je me suis rendu compte en le faisant,
+
+429
+00:24:13,240 --> 00:24:17,400
+justement en ayant cette montre connectée et tout ça, mais aussi en cotoyant
+
+430
+00:24:18,800 --> 00:24:21,120
+des gens qui sont dans cette mentalité
+
+431
+00:24:23,320 --> 00:24:25,760
+de faire attention à tout en permanence.
+
+432
+00:24:25,760 --> 00:24:28,680
+Et je me suis rendu compte justement que ces gens là, quasiment à chaque fois,
+
+433
+00:24:29,440 --> 00:24:31,880
+c'est des gens hyper vegan,
+
+434
+00:24:32,320 --> 00:24:34,120
+qui font du yoga,
+
+435
+00:24:34,120 --> 00:24:39,920
+qui font hyper attention à tout, tout, tout, tout, tout ça.
+
+436
+00:24:39,920 --> 00:24:41,800
+Et en fait, c'est les gens les plus stressés de la planète.
+
+437
+00:24:41,800 --> 00:24:45,120
+C'est des gens qui ont une peur de la mort qui est insupportable quasiment.
+
+438
+00:24:45,800 --> 00:24:47,920
+Et je sais ce que tu veux dire.
+
+439
+00:24:48,640 --> 00:24:52,400
+Ouais. Et en fait, je ne sais pas si c'est...
+
+440
+00:24:53,400 --> 00:24:54,440
+Peut-être que c'est une bonne chose.
+
+441
+00:24:54,440 --> 00:24:56,600
+Ça se trouve, je suis un vieux con et
+
+442
+00:24:58,480 --> 00:24:59,600
+je ne vais pas dans le sens du progrès,
+
+443
+00:24:59,600 --> 00:25:04,480
+mais je ne sais pas trop si c'est un truc gagnant.
+
+444
+00:25:05,000 --> 00:25:09,440
+Le fait d'être en permanence informé de chaque moindre truc
+
+445
+00:25:09,440 --> 00:25:12,120
+qui se passe dans ton corps et de vouloir tout rééquilibrer
+
+446
+00:25:12,840 --> 00:25:14,840
+selon certains modèles qu'en plus on maîtrise mal.
+
+447
+00:25:15,960 --> 00:25:18,120
+Moi, je te dis ce que j'en fais, parce que encore une fois,
+
+448
+00:25:18,240 --> 00:25:21,080
+je viens parler en tant qu'expert du blogging, je viens juste ici en tant que...
+
+449
+00:25:22,080 --> 00:25:25,200
+Je te partage l'expérimentation que je fais sur mon corps,
+
+450
+00:25:25,200 --> 00:25:27,200
+de tout ce que je teste depuis cinq ou six ans,
+
+451
+00:25:27,640 --> 00:25:32,280
+en suivant ce qui se fait dans le biohacking.
+
+452
+00:25:32,280 --> 00:25:38,400
+Et par exemple, un truc tout bête, c'est que c'est une sorte de routine que tu mets,
+
+453
+00:25:38,400 --> 00:25:39,520
+où tu ne te...
+
+454
+00:25:39,520 --> 00:25:41,720
+Tu as différentes personnes qui sont vraiment impliquées par leur santé,
+
+455
+00:25:41,720 --> 00:25:45,480
+mais sur le premier stade, tu fais simplement une routine.
+
+456
+00:25:46,000 --> 00:25:47,120
+Un truc tout bête.
+
+457
+00:25:47,120 --> 00:25:49,720
+Le matin, moi, je me lève, je vais aux toilettes
+
+458
+00:25:50,920 --> 00:25:53,920
+et après avoir fini ce que j'ai à faire, je reviens,
+
+459
+00:25:54,920 --> 00:25:59,240
+je me prends deux minutes et je me mets sur cette balance.
+
+460
+00:25:59,240 --> 00:26:03,720
+Ensuite, cette balance, c'est une balance d'encyclopédométrique,
+
+461
+00:26:03,720 --> 00:26:05,720
+donc c'est la balance Withings,
+
+462
+00:26:05,720 --> 00:26:08,720
+et tu as l'application qui te permet de suivre tout ton corps,
+
+463
+00:26:08,720 --> 00:26:12,720
+tu as l'ECG, tu as la masse corporelle, la masse graisseuse, la masse musculaire,
+
+464
+00:26:12,720 --> 00:26:15,720
+tu peux retrouver tous les nombres de pas aussi que tu fais dans la journée
+
+465
+00:26:15,720 --> 00:26:18,720
+et plus toutes les autres informations, comme la pression artérielle
+
+466
+00:26:18,720 --> 00:26:20,720
+et plein de choses intéressantes.
+
+467
+00:26:20,720 --> 00:26:21,720
+Les gens vont nous prendre pour des fous,
+
+468
+00:26:21,720 --> 00:26:25,720
+mais c'est juste histoire de vous partager une sorte de passion
+
+469
+00:26:25,720 --> 00:26:29,720
+qui peut montrer que des fois, il n'y a pas que les cryptos à côté.
+
+470
+00:26:30,720 --> 00:26:34,720
+Derrière ça, une fois que j'ai fait ma prise de balance,
+
+471
+00:26:34,720 --> 00:26:37,720
+ma journée, elle démarre tranquille et j'ai juste l'Apple Watch au poignet.
+
+472
+00:26:38,720 --> 00:26:40,720
+S'il se passe quoi que ce soit,
+
+473
+00:26:40,720 --> 00:26:43,720
+de toute façon, j'ai une notification à un moment qui me dit
+
+474
+00:26:43,720 --> 00:26:46,720
+« À ce moment, votre cœur, il y a un petit problème,
+
+475
+00:26:46,720 --> 00:26:49,720
+et puis il faut quand même aller consulter. »
+
+476
+00:26:49,720 --> 00:26:52,720
+C'était ce qui s'était passé au mois de novembre que je t'ai dit juste avant.
+
+477
+00:26:52,720 --> 00:26:55,720
+Elle m'indiquait plusieurs fois par mois
+
+478
+00:26:55,720 --> 00:27:00,720
+que mon cœur, la nuit, est tombé à 35 battements minutes,
+
+479
+00:27:00,720 --> 00:27:03,720
+ce qui est très bas, parce que la moyenne française,
+
+480
+00:27:03,720 --> 00:27:05,720
+il me semble qu'il est à 65.
+
+481
+00:27:08,720 --> 00:27:11,720
+Normalement, en dessous de 60, la nuit, c'est un peu chelou.
+
+482
+00:27:11,720 --> 00:27:13,720
+Du coup, j'ai été consulter mon médecin,
+
+483
+00:27:13,720 --> 00:27:15,720
+mais après, je fais beaucoup de sport.
+
+484
+00:27:15,720 --> 00:27:18,720
+La semaine, 6 jours sur 7, je fais du sport,
+
+485
+00:27:18,720 --> 00:27:21,720
+je marche, je cours, je fais de la salle de sport,
+
+486
+00:27:21,720 --> 00:27:23,720
+enfin, plein de choses.
+
+487
+00:27:23,720 --> 00:27:26,720
+Donc, j'ai été voir le médecin, on a fait les prises de sang,
+
+488
+00:27:26,720 --> 00:27:29,720
+et puis, en fait, grosse carence en magnésium,
+
+489
+00:27:29,720 --> 00:27:33,720
+plus, mince pour le cerveau, c'est la vitamine B6, il me semble.
+
+490
+00:27:33,720 --> 00:27:37,720
+Non, c'est la B6 et plus d'autres choses.
+
+491
+00:27:37,720 --> 00:27:40,720
+Et en fait, le traitement, il est arrivé suffisamment tôt,
+
+492
+00:27:40,720 --> 00:27:43,720
+parce que le magnésium, si tu ne fais pas gaffe,
+
+493
+00:27:43,720 --> 00:27:45,720
+quand tu as une énorme carence en magnésium,
+
+494
+00:27:45,720 --> 00:27:49,720
+et puis ensuite, c'est ce qui te permet de bien alimenter le fonctionnement du cœur,
+
+495
+00:27:49,720 --> 00:27:53,720
+derrière ça, tu peux te choper des merdes, de la fatigue,
+
+496
+00:27:53,720 --> 00:27:57,720
+et puis progressivement, si tu continues de laisser vraiment traîner ça sur le long terme,
+
+497
+00:27:57,720 --> 00:27:59,720
+ça peut aller jusqu'à la crise cardiaque,
+
+498
+00:27:59,720 --> 00:28:02,720
+mais bon, c'est toujours très très lointain.
+
+499
+00:28:02,720 --> 00:28:05,720
+Mais ça peut vraiment être des choses où, si on ne fait pas attention à sa santé,
+
+500
+00:28:05,720 --> 00:28:09,720
+le cumul de tout ça peut être assez négatif.
+
+501
+00:28:15,720 --> 00:28:17,720
+On ne t'entend plus?
+
+502
+00:28:17,720 --> 00:28:20,720
+Ah, pardon, j'étais en train de parler en plus.
+
+503
+00:28:20,720 --> 00:28:23,720
+J'ai demandé, c'est quoi les aliments où il y a du magnésium dedans?
+
+504
+00:28:23,720 --> 00:28:27,720
+Les magnésium, tu en trouves dans les brocolis,
+
+505
+00:28:27,720 --> 00:28:31,720
+tu en as aussi en faible quantité dans la plupart des légumes, en fait.
+
+506
+00:28:31,720 --> 00:28:33,720
+Dans la plupart des légumes, viande.
+
+507
+00:28:33,720 --> 00:28:34,720
+Ok.
+
+508
+00:28:36,720 --> 00:28:38,720
+Genre dans les burgers, il y en a?
+
+509
+00:28:38,720 --> 00:28:40,720
+Dans les burgers?
+
+510
+00:28:41,720 --> 00:28:43,720
+Je veux savoir si je suis safe ou pas.
+
+511
+00:28:43,720 --> 00:28:45,720
+Parce que tu manges beaucoup de burgers?
+
+512
+00:28:47,720 --> 00:28:50,720
+Ouais, c'est mon aliment principal.
+
+513
+00:28:50,720 --> 00:28:51,720
+Non mais tu me fais une blague.
+
+514
+00:28:51,720 --> 00:28:53,720
+Pour moi, c'est une molécule, le burger, si tu veux.
+
+515
+00:28:54,720 --> 00:28:55,720
+Non mais c'est vrai ou c'est pas vrai?
+
+516
+00:28:55,720 --> 00:28:56,720
+Non mais parce que par exemple...
+
+517
+00:28:56,720 --> 00:28:58,720
+Ah mais c'est vrai? Non mais c'est pas une blague.
+
+518
+00:28:58,720 --> 00:29:03,720
+Ok, ben tu en as dans les graines, tu en as dans les noix,
+
+519
+00:29:03,720 --> 00:29:06,720
+tu peux en avoir dans les céréales, genre...
+
+520
+00:29:06,720 --> 00:29:09,720
+Qu'est-ce que je prends le matin? De l'avoine.
+
+521
+00:29:10,720 --> 00:29:14,720
+Après tu peux aussi en choper dans les bananes, du chocolat.
+
+522
+00:29:14,720 --> 00:29:16,720
+Pour ceux qui aiment bien manger le chocolat noir.
+
+523
+00:29:17,720 --> 00:29:19,720
+Ah ok, ça j'en mange beaucoup aussi.
+
+524
+00:29:19,720 --> 00:29:22,720
+Mais du vrai chocolat à 70%, genre. Pas du sucre.
+
+525
+00:29:22,720 --> 00:29:28,720
+Non, alors là c'est chocolat noir, donc il faut qu'il soit le plus riche en cacao possible.
+
+526
+00:29:30,720 --> 00:29:33,720
+Donc voilà, et puis après tu peux avoir des eaux minérales,
+
+527
+00:29:33,720 --> 00:29:36,720
+qui sont, tu vois, genre éparts.
+
+528
+00:29:36,720 --> 00:29:39,720
+Bon, par contre, il faut aussi te dire que,
+
+529
+00:29:39,720 --> 00:29:42,720
+qui dit beaucoup de magnésium, dit qu'à un certain moment,
+
+530
+00:29:42,720 --> 00:29:44,720
+il faut que tu comprennes que ton organisme, il doit l'encaisser.
+
+531
+00:29:44,720 --> 00:29:46,720
+Et ça veut dire que les premiers temps, si t'es pas habitué,
+
+532
+00:29:46,720 --> 00:29:50,720
+autant te dire que tu vas passer plus de temps à la selle qu'ailleurs.
+
+533
+00:29:52,720 --> 00:29:55,720
+Il y a Rémi qui a demandé la parole tout à l'heure.
+
+534
+00:29:55,720 --> 00:29:56,720
+Salut Rémi, ça va?
+
+535
+00:29:57,720 --> 00:30:03,720
+Salut! Ouais, je rigole beaucoup évidemment quand tu dis que tu manges que des burgers.
+
+536
+00:30:03,720 --> 00:30:05,720
+Et puis tout le reste que je connais de toi.
+
+537
+00:30:05,720 --> 00:30:11,720
+Non mais plus sérieusement, j'ai oublié le nom de l'intervenant,
+
+538
+00:30:11,720 --> 00:30:13,720
+mais Major, c'est ça?
+
+539
+00:30:13,720 --> 00:30:14,720
+Ouais.
+
+540
+00:30:15,720 --> 00:30:23,720
+Je me pose un peu, bon visiblement t'as l'air d'avoir une hygiène de vie qui est hors norme,
+
+541
+00:30:23,720 --> 00:30:26,720
+dans le sens où par rapport à l'ensemble de la population,
+
+542
+00:30:26,720 --> 00:30:31,720
+j'ai l'impression que t'es déjà, je dis extrême, c'est pas le bon terme,
+
+543
+00:30:31,720 --> 00:30:32,720
+mais t'es déjà à la marge.
+
+544
+00:30:32,720 --> 00:30:36,720
+J'ai pas d'enfant aussi, donc c'est vrai que ça facilite pas mal de choses.
+
+545
+00:30:37,720 --> 00:30:39,720
+Oui, ou je prends même des exemples un peu extrêmes,
+
+546
+00:30:39,720 --> 00:30:42,720
+mais on prend, il y a un tiers d'obèses aux États-Unis,
+
+547
+00:30:42,720 --> 00:30:48,720
+est-ce qu'on n'a pas plein d'autres choses de base que tu as déjà précitées,
+
+548
+00:30:48,720 --> 00:30:55,720
+comme une activité physique, être à l'air libre, en nature, dormir correctement,
+
+549
+00:30:55,720 --> 00:30:58,720
+pas d'écran, blablabla, et donc en fin de compte,
+
+550
+00:30:58,720 --> 00:31:03,720
+est-ce que, sans pour autant dire que ton propos n'est pas du tout pertinent,
+
+551
+00:31:03,720 --> 00:31:10,720
+mais est-ce qu'il n'est pas adressé qu'à déjà une minorité un peu d'experts sur l'état de santé?
+
+552
+00:31:10,720 --> 00:31:15,720
+Et puis, ma deuxième réflexion, c'est, je me dis,
+
+553
+00:31:15,720 --> 00:31:21,720
+même si j'améliorerais un petit peu mes conditions générales de vie,
+
+554
+00:31:21,720 --> 00:31:25,720
+je me pose la question de quantité versus qualité, quoi.
+
+555
+00:31:25,720 --> 00:31:30,720
+En fait, moi, je me dis, vivre 100 ans pour vivre 100 ans,
+
+556
+00:31:30,720 --> 00:31:33,720
+en fait, je me demande quel est l'intérêt de ça.
+
+557
+00:31:33,720 --> 00:31:37,720
+Je préfère vivre 50 ans pleinement que 100 ans,
+
+558
+00:31:37,720 --> 00:31:41,720
+comme l'exemple du gars là que tu as déjà un peu vu, les vidéos du gars là,
+
+559
+00:31:41,720 --> 00:31:46,720
+qui fait un exercice de style, qui peut se le payer,
+
+560
+00:31:46,720 --> 00:31:49,720
+parce que, je sais pas si tu avais dit, c'est plusieurs millions par an qu'il dépensait là-dedans,
+
+561
+00:31:49,720 --> 00:31:52,720
+bon, c'est une recherche, il se fait sponsoriser, on en sait rien,
+
+562
+00:31:52,720 --> 00:31:57,720
+mais je me demande un peu, pour le commun des mortels,
+
+563
+00:31:57,720 --> 00:32:01,720
+enfin, pour les petits gens que nous sommes,
+
+564
+00:32:01,720 --> 00:32:07,720
+que signifie la qualité de vie plutôt que la quantité de jours à vivre?
+
+565
+00:32:07,720 --> 00:32:08,720
+Tu vois ce que je veux dire?
+
+566
+00:32:08,720 --> 00:32:20,720
+Ah, ouais, ok. C'est en gros, c'est de cerner la limite entre se faire chier à faire tout ça versus vivre, c'est ça?
+
+567
+00:32:20,720 --> 00:32:23,720
+Ben, il y a un peu de ça, après, on peut y prendre son kiff à fond,
+
+568
+00:32:23,720 --> 00:32:27,720
+et je dis pas que ça peut être très pertinent, ça peut être très enrichissant,
+
+569
+00:32:27,720 --> 00:32:29,720
+et on peut développer plein de choses dessus, mais...
+
+570
+00:32:29,720 --> 00:32:33,720
+Moi, je me rends compte, par exemple, d'un truc, tu aurais remarqué le petit logo,
+
+571
+00:32:33,720 --> 00:32:35,720
+moi, je fais, par exemple, beaucoup de voile,
+
+572
+00:32:35,720 --> 00:32:40,720
+même si je voulais m'astreindre à une hygiène de sommeil régulière,
+
+573
+00:32:40,720 --> 00:32:42,720
+dormir à les mêmes heures, et ainsi de suite...
+
+574
+00:32:42,720 --> 00:32:45,720
+Ah, mais c'est toi qui t'occupes du chat de botte? Ah, excellent!
+
+575
+00:32:45,720 --> 00:32:48,720
+Ouais, ouais, c'est moi.
+
+576
+00:32:48,720 --> 00:32:55,720
+Donc, par exemple, ça, ça m'est très difficile, parce que je suis rythmé par d'autres choses, tu vois,
+
+577
+00:32:55,720 --> 00:32:59,720
+et je sais, par exemple, je m'expose, et je sais que c'est une maladie de marins,
+
+578
+00:32:59,720 --> 00:33:03,720
+des marins qui sont très souvent en mer, ils bouffent du soleil,
+
+579
+00:33:03,720 --> 00:33:07,720
+en plus par réverbération, un peu comme les gens de la montagne,
+
+580
+00:33:07,720 --> 00:33:12,720
+et donc, fatalement, ils peuvent avoir développé des problèmes de peau à long terme, et ainsi de suite,
+
+581
+00:33:12,720 --> 00:33:15,720
+et tu te dis, bon, ben, ouais, mais bon,
+
+582
+00:33:15,720 --> 00:33:18,720
+parce que j'ai quand même pas envie de profiter d'un beau lever de soleil,
+
+583
+00:33:18,720 --> 00:33:22,720
+me cramer un peu, peut-être perdre de la vue, peut-être un peu plus vite,
+
+584
+00:33:22,720 --> 00:33:25,720
+mais je la perds pas plus vite,
+
+585
+00:33:25,720 --> 00:33:28,720
+mais je la perds peut-être à la même vitesse que quelqu'un qui regarde un écran,
+
+586
+00:33:28,720 --> 00:33:32,720
+mais ma qualité est peut-être plus intéressante, tu vois, ma qualité de vie.
+
+587
+00:33:32,720 --> 00:33:34,720
+Après, c'est moi qui l'ai définie, la qualité, bien entendu,
+
+588
+00:33:34,720 --> 00:33:38,720
+mais voilà, c'est un peu pour faire une sorte d'avocat du diable aussi, dans la...
+
+589
+00:33:38,720 --> 00:33:43,720
+Ouais, moi, j'adore. Non, mais t'as raison, si tu permets, je peux répondre là-dessus.
+
+590
+00:33:43,720 --> 00:33:44,720
+Oui, vas-y, vas-y.
+
+591
+00:33:44,720 --> 00:33:47,720
+Non, en fait, encore une fois, c'est...
+
+592
+00:33:47,720 --> 00:33:52,720
+Pour chaque personne, c'est là où lui, ça l'enchante.
+
+593
+00:33:52,720 --> 00:33:55,720
+Moi, ce que je veux dire, c'est que le matin, dans toute ma routine,
+
+594
+00:33:55,720 --> 00:33:58,720
+j'aime bien faire tout ça parce qu'on vient à la deuxième partie
+
+595
+00:33:58,720 --> 00:34:01,720
+que j'ai pas encore eu le temps de parler,
+
+596
+00:34:01,720 --> 00:34:05,720
+il y a aussi les tests génétiques et les aspects sur le travail,
+
+597
+00:34:05,720 --> 00:34:08,720
+c'est qu'à force de mieux connaître ton corps,
+
+598
+00:34:08,720 --> 00:34:11,720
+et à la fois de suivre tes données,
+
+599
+00:34:11,720 --> 00:34:15,720
+tu arrives à connaître ce qui te met dans un état de flot.
+
+600
+00:34:15,720 --> 00:34:20,720
+Et l'état de flot, je sais que c'est pas des trucs qui vont être parlants pour beaucoup de monde,
+
+601
+00:34:20,720 --> 00:34:27,720
+mais moi, j'en ai besoin parce que j'ai une hyperactivité cérébrale qui est un peu chiante,
+
+602
+00:34:27,720 --> 00:34:31,720
+dans le sens où dès que j'ai un nouveau sujet, tac, je me mets dessus
+
+603
+00:34:31,720 --> 00:34:34,720
+et je ne travaille pas sur le sujet dans lequel je devais me lancer.
+
+604
+00:34:34,720 --> 00:34:37,720
+Et en fait, toutes ces petites choses, mises bout à bout,
+
+605
+00:34:38,720 --> 00:34:42,720
+m'ont fait prendre conscience de comment arriver à maîtriser mon corps,
+
+606
+00:34:42,720 --> 00:34:44,720
+même si dit comme ça, ça peut paraitre bizarre,
+
+607
+00:34:44,720 --> 00:34:47,720
+mais comment maîtriser mon corps pour avoir un aspect de focus
+
+608
+00:34:47,720 --> 00:34:51,720
+qui est plus important que ce que j'aurais traditionnellement, sans le faire.
+
+609
+00:34:51,720 --> 00:34:55,720
+Le matin, par exemple, si je mettais le café dès que je me réveille,
+
+610
+00:34:55,720 --> 00:34:58,720
+sans laisser faire mon corps,
+
+611
+00:34:58,720 --> 00:35:01,720
+et que je démarre ma journée sans, par exemple,
+
+612
+00:35:01,720 --> 00:35:06,720
+attaquer par une session de sport ou une petite marche de 2 km ou 3 km,
+
+613
+00:35:06,720 --> 00:35:10,720
+je m'aperçois qu'en fait, tout au long de la journée, mon énergie ne va pas être la même du tout.
+
+614
+00:35:10,720 --> 00:35:15,720
+Et ça, je m'en aperçois parce que je l'ai juste documenté et je l'ai testé sur moi.
+
+615
+00:35:15,720 --> 00:35:18,720
+Parce que tu sais, sur Internet, il y a souvent tous les mecs qui te disent
+
+616
+00:35:18,720 --> 00:35:20,720
+« Ouais, prenez une douche froide, faites ci, faites ça ».
+
+617
+00:35:20,720 --> 00:35:23,720
+Ça, c'est du bullshit qu'on te livre à chaque fois sur YouTube,
+
+618
+00:35:23,720 --> 00:35:25,720
+qui appartient vraiment à chaque personne,
+
+619
+00:35:25,720 --> 00:35:29,720
+parce que il n'y a que quand tu testes les choses toi-même que tu sais vraiment ce qu'il te faut.
+
+620
+00:35:29,720 --> 00:35:33,720
+Et moi, c'est à force de tester ce genre d'éléments que je me suis dit
+
+621
+00:35:33,720 --> 00:35:35,720
+« Bon, ben voilà, la meilleure chose pour moi, c'est ça ».
+
+622
+00:35:35,720 --> 00:35:43,720
+Et ensuite, pour la qualité de vie, en fait, moi derrière, je n'ai jamais consommé d'alcool de ma vie.
+
+623
+00:35:43,720 --> 00:35:47,720
+De un, parce que je n'aime pas ça, et de deux, j'ai eu un accident il y a quelques années en arrière.
+
+624
+00:35:47,720 --> 00:35:49,720
+Peut-être qu'on en avait parlé avec Radio Chat d'ici.
+
+625
+00:35:49,720 --> 00:35:51,720
+Je ne sais plus, je crois.
+
+626
+00:35:51,720 --> 00:35:53,720
+Je ne me souviens pas de ça.
+
+627
+00:35:53,720 --> 00:35:55,720
+Ok, bon, ce n'est pas très très grave.
+
+628
+00:35:55,720 --> 00:35:58,720
+Mais du coup, je n'ai jamais consommé d'alcool de ma vie.
+
+629
+00:35:58,720 --> 00:36:02,720
+Donc là, il y en a une chie qui va se dire « Sa vie doit être chiante quand même ».
+
+630
+00:36:02,720 --> 00:36:07,720
+Parce que les bons verres de vin rouge avec une bonne viande, ça vaut quand même le coup.
+
+631
+00:36:07,720 --> 00:36:09,720
+Ou une bonne bière, tu vois.
+
+632
+00:36:09,720 --> 00:36:11,720
+Mais non, j'en ai jamais consommé.
+
+633
+00:36:11,720 --> 00:36:15,720
+Mais pour autant, ça ne m'empêche pas d'avoir une bonne qualité de vie.
+
+634
+00:36:15,720 --> 00:36:22,720
+Dans le sens où, ici, moi je me suis expatrié en Suisse pour justement trouver ça.
+
+635
+00:36:22,720 --> 00:36:27,720
+Être au milieu des montagnes, être au milieu de la nature, me lever le matin et avoir le lac.
+
+636
+00:36:28,720 --> 00:36:33,720
+Et en fait, c'est un ensemble dans l'environnement que j'ai voulu.
+
+637
+00:36:33,720 --> 00:36:40,720
+Ce qui fait que ma qualité de vie à moi, elle se trouve dans l'environnement où je suis avec des potes.
+
+638
+00:36:40,720 --> 00:36:42,720
+Je suis dans un endroit qui me plaît.
+
+639
+00:36:42,720 --> 00:36:45,720
+Et je fais un petit peu ce que je veux quand je veux.
+
+640
+00:36:45,720 --> 00:36:50,720
+Et c'est aussi d'éviter les... comment ça s'appelle?
+
+641
+00:36:50,720 --> 00:36:54,720
+Pas les grosses transgressions, mais genre si tu t'es fait un McDo la veille,
+
+642
+00:36:54,720 --> 00:36:56,720
+tu ne vas pas l'être de faire un deuxième McDo le lendemain, tu vois.
+
+643
+00:36:56,720 --> 00:36:58,720
+Et ça, c'est en fait du bon sens.
+
+644
+00:36:58,720 --> 00:37:02,720
+Mais ensuite, dans la deuxième partie du biohacking, c'est là où peut-être ça va plus t'intéresser,
+
+645
+00:37:02,720 --> 00:37:04,720
+parce que là, c'était juste l'introduction.
+
+646
+00:37:04,720 --> 00:37:09,720
+Mais il faut que je fasse vite sur les 20 minutes, puisque je viens de voir que ça file vite.
+
+647
+00:37:09,720 --> 00:37:14,720
+La deuxième partie, c'est qu'ensuite tu peux faire des tests épigénétiques.
+
+648
+00:37:14,720 --> 00:37:18,720
+Et là où c'est très intéressant, c'est un test par exemple que tu peux faire, réalisé en Suisse,
+
+649
+00:37:18,720 --> 00:37:20,720
+ou que tu peux commander sur Internet.
+
+650
+00:37:20,720 --> 00:37:24,720
+Ce ne sont pas les tests où tu te mets et que tu te grattes la langue,
+
+651
+00:37:24,720 --> 00:37:27,720
+et que tu renvoies et ensuite ça sort de ton arbre généalogique.
+
+652
+00:37:27,720 --> 00:37:34,720
+Là, c'est un test où tu vas venir faire une prise de sang, tu vas aussi faire un dépôt de sel,
+
+653
+00:37:34,720 --> 00:37:40,720
+donc on parle bien des sels d'embarque, et tu vas envoyer tout ça au laboratoire.
+
+654
+00:37:40,720 --> 00:37:44,720
+Et eux, ce qu'ils vont faire, c'est analyser la composition génétique de ton propre sang
+
+655
+00:37:44,720 --> 00:37:50,720
+pour te dire précisément ton taux de pourcentage de problèmes dans le temps
+
+656
+00:37:50,720 --> 00:37:53,720
+face à telle maladie ou tel élément.
+
+657
+00:37:53,720 --> 00:37:57,720
+Et il y a un acteur américain qui incarne Thor, qui a fait ça très récemment,
+
+658
+00:37:57,720 --> 00:38:02,720
+qui a détecté dans sa génétique que par exemple était présent le génome
+
+659
+00:38:02,720 --> 00:38:04,720
+qui est responsable d'Alzheimer ou Parkinson.
+
+660
+00:38:04,720 --> 00:38:09,720
+Je ne sais pas si vous en avez entendu parler, c'était il n'y a pas si longtemps.
+
+661
+00:38:11,720 --> 00:38:16,720
+J'ai entendu toutes sortes de choses, tellement de choses,
+
+662
+00:38:16,720 --> 00:38:18,720
+je ne sais même plus si c'est Parkinson ou autre chose,
+
+663
+00:38:18,720 --> 00:38:23,720
+mais il me semblait par exemple que Parkinson ou un autre,
+
+664
+00:38:23,720 --> 00:38:30,720
+on avait découvert que la maladie était liée au biotope dans l'estomac,
+
+665
+00:38:30,720 --> 00:38:31,720
+un truc du genre.
+
+666
+00:38:31,720 --> 00:38:35,720
+Ah, un verre qui était présent dans le corps, tu dis?
+
+667
+00:38:35,720 --> 00:38:36,720
+Peut-être.
+
+668
+00:38:36,720 --> 00:38:39,720
+Moi, je n'ai pas l'info là-dessus, par contre ce que je sais,
+
+669
+00:38:39,720 --> 00:38:45,720
+c'est que ça peut être détecté aujourd'hui avec la fameuse prise de sang plus la prise de sel aussi.
+
+670
+00:38:45,720 --> 00:38:49,720
+En gros, quand tu reçois ça, on te dit dans votre génétique,
+
+671
+00:38:49,720 --> 00:38:52,720
+si vous mangez par exemple deux à trois fois des pâtes par semaine,
+
+672
+00:38:52,720 --> 00:38:55,720
+sur le long terme, ça peut vous donner des chances,
+
+673
+00:38:55,720 --> 00:38:58,720
+dans 30% des cas, de développer des cancers,
+
+674
+00:38:58,720 --> 00:39:01,720
+si vous avez trop de farine blanche dans votre alimentation.
+
+675
+00:39:01,720 --> 00:39:05,720
+Et ça peut aller encore plus loin, où on peut vous dire par exemple,
+
+676
+00:39:05,720 --> 00:39:11,720
+dans votre composition génétique, d'après le vieillissement de tel et tel gène,
+
+677
+00:39:11,720 --> 00:39:15,720
+si vous faites trop de sport, si vous ne faites pas assez de sport,
+
+678
+00:39:15,720 --> 00:39:18,720
+étant donné que vous avez quand même une génétique qui est assez faible
+
+679
+00:39:18,720 --> 00:39:20,720
+et qu'elle vieillit prématurément,
+
+680
+00:39:20,720 --> 00:39:24,720
+si vous ne l'entretenez pas correctement, vous avez 40% de chances de développer tel et tel maladie.
+
+681
+00:39:24,720 --> 00:39:27,720
+Et ça, c'est encore quelque chose qui est très très peu connu,
+
+682
+00:39:27,720 --> 00:39:30,720
+parce que ça coûte cher, ça coûte 3500 balles,
+
+683
+00:39:30,720 --> 00:39:33,720
+mais c'est un truc à faire une fois dans une vie,
+
+684
+00:39:33,720 --> 00:39:37,720
+quand tu as de l'argent à dépenser que tu n'as pas besoin, évidemment,
+
+685
+00:39:37,720 --> 00:39:42,720
+parce qu'on est encore dans une méthode où on fait de la prévention sur le corps,
+
+686
+00:39:42,720 --> 00:39:47,720
+dans son vieillissement, et que si tu connais ton corps suffisamment tôt,
+
+687
+00:39:47,720 --> 00:39:50,720
+tu peux des fois soigner des problèmes avant qu'ils apparaissent.
+
+688
+00:39:50,720 --> 00:39:53,720
+Et donc, tu peux payer beaucoup moins cher d'assurance,
+
+689
+00:39:53,720 --> 00:39:57,720
+tu peux ensuite négocier des choses plus facilement auprès des banques,
+
+690
+00:39:57,720 --> 00:39:59,720
+parce que tu as aussi un dossier médical qui est béton,
+
+691
+00:39:59,720 --> 00:40:01,720
+ou alors ce n'est pas le cas, mais tu vois,
+
+692
+00:40:01,720 --> 00:40:04,720
+et ça t'ouvre tout un tas d'aspects qu'on n'avait pas forcément conscientisés
+
+693
+00:40:04,720 --> 00:40:06,720
+dès le début, tu vois.
+
+694
+00:40:07,720 --> 00:40:10,720
+Oui, mais ça, c'est pas mal.
+
+695
+00:40:10,720 --> 00:40:12,720
+Je connais des gens qui l'ont fait d'ailleurs.
+
+696
+00:40:12,720 --> 00:40:15,720
+Il y a certaines de ces personnes qui sont dans le chat,
+
+697
+00:40:15,720 --> 00:40:18,720
+mais en gros, oui, c'est pas mal,
+
+698
+00:40:18,720 --> 00:40:21,720
+mais par contre, c'est sûr que ça ne te fait pas vivre 1000 ans.
+
+699
+00:40:21,720 --> 00:40:23,720
+C'est ce qui permet éventuellement de corriger
+
+700
+00:40:23,720 --> 00:40:27,720
+ou de tenter de corriger pour avoir une vie normale, quoi.
+
+701
+00:40:27,720 --> 00:40:32,720
+Au final, mais je ne pense pas que tu as vraiment un truc,
+
+702
+00:40:32,720 --> 00:40:35,720
+tu gagnes de ouf en faisant ça.
+
+703
+00:40:35,720 --> 00:40:37,720
+Par contre, je trouve que le...
+
+704
+00:40:37,720 --> 00:40:38,720
+Comment dire?
+
+705
+00:40:38,720 --> 00:40:40,720
+J'allais juste te dire, tu vois, par exemple, au Portugal,
+
+706
+00:40:40,720 --> 00:40:42,720
+ils ont mis quelque chose en place.
+
+707
+00:40:42,720 --> 00:40:45,720
+C'est que maintenant, quand il y a un nouveau-né...
+
+708
+00:40:45,720 --> 00:40:49,720
+Attends, je reprends ce que j'avais noté sur mon papier
+
+709
+00:40:49,720 --> 00:40:50,720
+que je devais vous dire.
+
+710
+00:40:50,720 --> 00:40:51,720
+Oui, voilà.
+
+711
+00:40:51,720 --> 00:40:54,720
+S'il est trop faible, il ne jette plus au-dessus de la falaise.
+
+712
+00:40:54,720 --> 00:40:56,720
+Non, il le découpe, il le mange,
+
+713
+00:40:56,720 --> 00:40:58,720
+et ils le font cuire à 180 degrés dans un foie
+
+714
+00:40:58,720 --> 00:41:00,720
+avec des petites patates.
+
+715
+00:41:01,720 --> 00:41:03,720
+Si, par exemple, il y a un nouveau-né,
+
+716
+00:41:03,720 --> 00:41:07,720
+ce qu'ils font en général, c'est qu'ils font un prélèvement
+
+717
+00:41:07,720 --> 00:41:09,720
+et ils font un prélèvement qui va leur permettre
+
+718
+00:41:09,720 --> 00:41:13,720
+d'identifier précisément sa génétique, sa composition,
+
+719
+00:41:13,720 --> 00:41:16,720
+et tout ça, pour lui donner un taux de chance de survie
+
+720
+00:41:16,720 --> 00:41:17,720
+un peu plus élevé.
+
+721
+00:41:17,720 --> 00:41:21,720
+Parce que je crois qu'ils avaient eu beaucoup de problèmes
+
+722
+00:41:21,720 --> 00:41:23,720
+de natalité pendant un temps,
+
+723
+00:41:23,720 --> 00:41:26,720
+et la mise en place de ces tests a permis d'identifier
+
+724
+00:41:26,720 --> 00:41:28,720
+ce qui posait problème, et puis après,
+
+725
+00:41:28,720 --> 00:41:30,720
+ils ont réglé le problème, mais je n'ai pas tous les éléments,
+
+726
+00:41:30,720 --> 00:41:32,720
+donc je ne vais pas rentrer dans ces explications.
+
+727
+00:41:32,720 --> 00:41:35,720
+Mais ce que j'ai retenu ici, c'est qu'ils identifient
+
+728
+00:41:35,720 --> 00:41:39,720
+avec ces tests la génétique des enfants au plus bas âge,
+
+729
+00:41:39,720 --> 00:41:41,720
+et dans certains cas, quand ils voient qu'il y a vraiment
+
+730
+00:41:41,720 --> 00:41:43,720
+des problèmes, ils peuvent garder aussi le cordon ombilical
+
+731
+00:41:43,720 --> 00:41:46,720
+pour pouvoir travailler plus tard sur des cellules souches.
+
+732
+00:41:46,720 --> 00:41:49,720
+Parce que si, par exemple, toi tu développais un cancer,
+
+733
+00:41:49,720 --> 00:41:55,720
+ta meilleure source de chance de pouvoir te sortir
+
+734
+00:41:55,720 --> 00:41:58,720
+de ce problème, ça serait de pouvoir récupérer,
+
+735
+00:41:58,720 --> 00:42:00,720
+par exemple, tes cellules souches, de les reprogrammer,
+
+736
+00:42:00,720 --> 00:42:02,720
+et d'aller leur dire d'aller buter les cellules cancéreuses.
+
+737
+00:42:02,720 --> 00:42:04,720
+Évidemment, c'est vulgarisé, on n'est pas des médecins,
+
+738
+00:42:04,720 --> 00:42:06,720
+mais voilà.
+
+739
+00:42:07,720 --> 00:42:10,720
+Ok, je vois. Ça, c'est pas con.
+
+740
+00:42:12,720 --> 00:42:16,720
+Mais ces trucs-là, c'est indéniable que c'est pas con.
+
+741
+00:42:16,720 --> 00:42:19,720
+Par contre, c'est vrai que je rejoins Amy sur la remarque
+
+742
+00:42:19,720 --> 00:42:21,720
+qu'il a faite tout à l'heure, quand il a réagi sur l'exemple
+
+743
+00:42:21,720 --> 00:42:24,720
+que tu as donné du mec qui regarde ses signes vitaux
+
+744
+00:42:24,720 --> 00:42:28,720
+tous les jours, et qui a un régime hyper strict,
+
+745
+00:42:29,720 --> 00:42:33,720
+et en fait, finalement, est-ce que ça vaut le coup
+
+746
+00:42:33,720 --> 00:42:39,720
+de vivre 100 ans comme ça, alors que si tu fais un petit peu
+
+747
+00:42:39,720 --> 00:42:42,720
+attention et que tu as du plaisir, je pense que c'est pas mal.
+
+748
+00:42:42,720 --> 00:42:46,720
+En fait, le bonheur est aussi responsable d'un bon vieillissement.
+
+749
+00:42:46,720 --> 00:42:49,720
+Tu vois, par exemple, les populations japonaises,
+
+750
+00:42:49,720 --> 00:42:52,720
+qui ont leur alimentation à base de poissons,
+
+751
+00:42:52,720 --> 00:42:55,720
+et puis plein de choses, qui est déjà dans la balance,
+
+752
+00:42:55,720 --> 00:42:58,720
+mais qui aussi fait partie des populations, avec la Suisse,
+
+753
+00:42:58,720 --> 00:43:03,720
+qui sont heureuses. Et il y a un gars, j'ai mangé son prénom,
+
+754
+00:43:03,720 --> 00:43:08,720
+qui a fait un TEDx là-dessus, qui a théorisé ça de ses 20 ans
+
+755
+00:43:08,720 --> 00:43:12,720
+jusqu'à ses 60 ou 70 ans, je crois, et en fait, dans son TEDx,
+
+756
+00:43:12,720 --> 00:43:16,720
+il expliquait que la source du vieillissement en bonne santé
+
+757
+00:43:16,720 --> 00:43:19,720
+serait aussi le bonheur, et que ça passerait à la fois
+
+758
+00:43:19,720 --> 00:43:22,720
+par des actes sociaux, donc d'être avec tes amis,
+
+759
+00:43:22,720 --> 00:43:25,720
+de travailler en collaboration avec des gens,
+
+760
+00:43:25,720 --> 00:43:30,720
+et d'être tout le temps entouré, et également de trouver la plénitude,
+
+761
+00:43:30,720 --> 00:43:34,720
+mais pas à travers l'argent, à travers les choses de la vie,
+
+762
+00:43:34,720 --> 00:43:38,720
+comme l'a dit, j'ai perdu le nom de ton collègue, Rémi.
+
+763
+00:43:38,720 --> 00:43:40,720
+Oh, tu peux m'appeler Rémi.
+
+764
+00:43:40,720 --> 00:43:43,720
+Donc comme l'a dit Rémi, à travers les choses de la vie.
+
+765
+00:43:43,720 --> 00:43:47,720
+Mais en fait, encore une fois, il n'y a pas de science exacte là-dessus,
+
+766
+00:43:47,720 --> 00:43:50,720
+parce qu'elle est en train d'être définie surtout par Brian Johnson,
+
+767
+00:43:50,720 --> 00:43:55,720
+qui a fait un peu une sorte de don de son corps à la science, par exemple.
+
+768
+00:43:55,720 --> 00:43:59,720
+Par contre, il y a des premiers schémas qui commencent à se mettre en place,
+
+769
+00:43:59,720 --> 00:44:03,720
+et je pense que sur l'étude de Stanford, ou Harvard,
+
+770
+00:44:03,720 --> 00:44:07,720
+je ne sais pas exactement ce qu'il s'était, mais c'était dans ces années-là,
+
+771
+00:44:07,720 --> 00:44:12,720
+quand ça va finir par se développer, c'est là où on va pouvoir vraiment
+
+772
+00:44:12,720 --> 00:44:15,720
+considérer le fait d'avoir un homme qui vit 1000 ans,
+
+773
+00:44:15,720 --> 00:44:18,720
+et peut-être qu'à travers ces études, on ne parle pas d'homme,
+
+774
+00:44:18,720 --> 00:44:20,720
+mais on parle peut-être d'une sorte de relique,
+
+775
+00:44:20,720 --> 00:44:25,720
+où on aurait récupéré l'intégralité de toutes les datas d'une personne,
+
+776
+00:44:25,720 --> 00:44:30,720
+on les aurait transférées dans une relique, comme ils ont fait Ter Noah,
+
+777
+00:44:30,720 --> 00:44:33,720
+et puis cette relique, elle sert ta descendance.
+
+778
+00:44:33,720 --> 00:44:37,720
+C'est intéressant ce que tu dis,
+
+779
+00:44:37,720 --> 00:44:41,720
+mais je vais essayer de jumeler ma critique à ce que tu disais,
+
+780
+00:44:41,720 --> 00:44:43,720
+par rapport à mon ancien travail.
+
+781
+00:44:43,720 --> 00:44:45,720
+Juste pour contextualiser, je travaillais dans tout ce qui était
+
+782
+00:44:45,720 --> 00:44:49,720
+optimisation énergétique des bâtiments, et donc, pendant 4 ans,
+
+783
+00:44:49,720 --> 00:44:52,720
+j'ai beaucoup monitoré des installations qui produisaient de la chaleur,
+
+784
+00:44:52,720 --> 00:44:54,720
+si tu veux, pour des logements.
+
+785
+00:44:54,720 --> 00:44:59,720
+Et donc, là je vais un peu dans ton sens, c'est de dire, c'est vrai qu'à force
+
+786
+00:44:59,720 --> 00:45:03,720
+de monitorer pas mal de comportements de température des installations,
+
+787
+00:45:03,720 --> 00:45:06,720
+des enclenchements, déclenchements de chaudières, des trucs comme ça,
+
+788
+00:45:06,720 --> 00:45:10,720
+on pouvait voir qu'il y avait un peu comme un cœur qui battait trop vite,
+
+789
+00:45:10,720 --> 00:45:13,720
+alors qu'il pourrait être plus bas pendant le sommeil, et ainsi de suite.
+
+790
+00:45:13,720 --> 00:45:16,720
+Ça permettait de voir pas mal de dysfonctionnements.
+
+791
+00:45:16,720 --> 00:45:19,720
+Et effectivement, je pense que c'est un appui qui permet de détecter
+
+792
+00:45:19,720 --> 00:45:22,720
+ou de voir des choses qui ne sont pas facilement visibles.
+
+793
+00:45:22,720 --> 00:45:27,720
+Mais de l'autre côté aussi, j'ai commencé à avoir une limite dans ce travail,
+
+794
+00:45:27,720 --> 00:45:31,720
+c'est qu'à ne faire que monitorer, en fait, c'est pas suffisant.
+
+795
+00:45:31,720 --> 00:45:34,720
+C'est qu'en fait, pour moi, ça c'est vraiment le quantitatif,
+
+796
+00:45:34,720 --> 00:45:39,720
+il est précieux, mais il doit absolument être accompagné du qualitatif,
+
+797
+00:45:39,720 --> 00:45:44,720
+qui sont des choses qui sont difficilement mesurables sur une échelle graduée,
+
+798
+00:45:44,720 --> 00:45:45,720
+si tu veux.
+
+799
+00:45:45,720 --> 00:45:51,720
+Et ça passait par comment mesurer la compréhension du fonctionnement
+
+800
+00:45:51,720 --> 00:45:54,720
+d'une installation par le technicien qui devait l'entretenir.
+
+801
+00:45:54,720 --> 00:45:56,720
+En gros, il y a un technicien qui percerait trois vis,
+
+802
+00:45:56,720 --> 00:45:58,720
+changeait une pompe, et ainsi de suite.
+
+803
+00:45:58,720 --> 00:46:00,720
+Et je me rendais compte petit à petit qu'au fait,
+
+804
+00:46:00,720 --> 00:46:03,720
+il comprenait pas très bien comment l'installation fonctionnait,
+
+805
+00:46:03,720 --> 00:46:06,720
+et c'était difficilement quantifiable, cette partie-là.
+
+806
+00:46:06,720 --> 00:46:12,720
+Et en travaillant sur cette partie, j'ai vu que j'avais des répercussions aussi
+
+807
+00:46:12,720 --> 00:46:15,720
+sur le quantitatif, en travaillant purement sur le qualitatif.
+
+808
+00:46:15,720 --> 00:46:19,720
+Je sais pas si je me fais comprendre, mais c'est vraiment...
+
+809
+00:46:19,720 --> 00:46:23,720
+Je pense qu'il est important de ne jamais perdre l'articulation des deux, quoi.
+
+810
+00:46:23,720 --> 00:46:29,720
+Surtout dans un monde où on a tendance à tout compter dans tous les sens,
+
+811
+00:46:29,720 --> 00:46:31,720
+et ça peut être aussi...
+
+812
+00:46:31,720 --> 00:46:35,720
+Ça peut être pour moi des fois un peu dangereux, excessif, quoi.
+
+813
+00:46:36,720 --> 00:46:39,720
+Ah ouais, mais c'est comme toute chose.
+
+814
+00:46:39,720 --> 00:46:44,720
+Manger du chocolat, si tu en manges trop, après tu finis énorme et tu roules.
+
+815
+00:46:44,720 --> 00:46:47,720
+Mais je suis 100% d'accord avec toi, Rémi.
+
+816
+00:46:47,720 --> 00:46:49,720
+Moi je le suis, encore une fois, parce que le matin,
+
+817
+00:46:49,720 --> 00:46:51,720
+je l'ai mis naturellement dans la routine.
+
+818
+00:46:51,720 --> 00:46:54,720
+J'arrive, je me lève, je prends ma constante,
+
+819
+00:46:54,720 --> 00:46:56,720
+et tout le reste de la journée, c'est fini.
+
+820
+00:46:56,720 --> 00:46:58,720
+Je pars marcher, j'ai mon téléphone dans la poche,
+
+821
+00:46:58,720 --> 00:47:00,720
+puis ça enregistre tranquille.
+
+822
+00:47:00,720 --> 00:47:02,720
+Mais je suis pas encore au stade.
+
+823
+00:47:02,720 --> 00:47:04,720
+Je te disais, il reste deux stades au-dessus,
+
+824
+00:47:04,720 --> 00:47:06,720
+et Bryan Johnson, c'est le stade tout en haut,
+
+825
+00:47:06,720 --> 00:47:10,720
+où tous les matins, j'arrive, je me fais une piquouse,
+
+826
+00:47:10,720 --> 00:47:12,720
+je vérifie, je traite, je vérifie, je traite,
+
+827
+00:47:12,720 --> 00:47:15,720
+je prends des centaines de compléments alimentaires par jour.
+
+828
+00:47:15,720 --> 00:47:20,720
+Non, c'est 5-10 à complément, mais ça s'arrête là.
+
+829
+00:47:20,720 --> 00:47:24,720
+Et derrière, il y a encore d'autres choses qui peuvent être aussi présentées,
+
+830
+00:47:24,720 --> 00:47:29,720
+si tu voulais qu'on avance un petit peu, mon cher Rémi.
+
+831
+00:47:30,720 --> 00:47:33,720
+Alors, je me permets de t'interrompre,
+
+832
+00:47:33,720 --> 00:47:35,720
+parce qu'il y a un truc que je veux dire,
+
+833
+00:47:35,720 --> 00:47:37,720
+et aussi, je voudrais donner la parole à Fahim Nidizpika.
+
+834
+00:47:37,720 --> 00:47:40,720
+Mais juste avant, je voulais juste rebondir sur le truc que tu as dit tout à l'heure.
+
+835
+00:47:40,720 --> 00:47:46,720
+Tu parlais de l'importance du cerveau,
+
+836
+00:47:46,720 --> 00:47:51,720
+le rôle psychologique d'être heureux, etc.
+
+837
+00:47:51,720 --> 00:47:55,720
+Ça joue aussi sur l'espérance de vie.
+
+838
+00:47:55,720 --> 00:47:58,720
+Et j'ai envie d'aller plus loin que ça encore.
+
+839
+00:47:58,720 --> 00:48:01,720
+Je pense que le fonctionnement du cerveau,
+
+840
+00:48:01,720 --> 00:48:06,720
+c'est ce qui me permet de penser qu'en fait,
+
+841
+00:48:06,720 --> 00:48:08,720
+on ne vivra jamais, jamais, jamais 1000 ans,
+
+842
+00:48:08,720 --> 00:48:13,720
+même si on a la tech qui nous permet d'éditer les gènes,
+
+843
+00:48:13,720 --> 00:48:17,720
+de faire tout pour que le corps tienne 1000 ans.
+
+844
+00:48:17,720 --> 00:48:19,720
+Je pense que même si on a la tech pour faire ça,
+
+845
+00:48:19,720 --> 00:48:25,720
+ça n'arrivera jamais, juste parce que c'est impossible.
+
+846
+00:48:25,720 --> 00:48:31,720
+Je pense qu'on ne pourra jamais supporter le poids d'autres existences.
+
+847
+00:48:31,720 --> 00:48:36,720
+Je ne sais pas pour toi,
+
+848
+00:48:36,720 --> 00:48:40,720
+mais rien que le fait de faire des journées normales,
+
+849
+00:48:40,720 --> 00:48:42,720
+déjà juste connecté à Internet,
+
+850
+00:48:42,720 --> 00:48:45,720
+où tu reçois au moins une fois par jour,
+
+851
+00:48:45,720 --> 00:48:49,720
+tu vois une vidéo d'un mec qui a un accident mortel,
+
+852
+00:48:49,720 --> 00:48:52,720
+même quand tu es dans un cadre à peu près tranquille,
+
+853
+00:48:52,720 --> 00:48:54,720
+en Occident, pas de gare, etc.
+
+854
+00:48:54,720 --> 00:48:56,720
+Tous les trucs que tu vis,
+
+855
+00:48:56,720 --> 00:48:59,720
+tu fais vachement attention,
+
+856
+00:48:59,720 --> 00:49:01,720
+mais pour des gens comme moi qui sortent,
+
+857
+00:49:01,720 --> 00:49:03,720
+quand tu sors une fois par semaine,
+
+858
+00:49:03,720 --> 00:49:04,720
+le lendemain, où tu as limite un PTSD,
+
+859
+00:49:04,720 --> 00:49:07,720
+parce que tu penses à toutes les conneries que tu as dites et faites,
+
+860
+00:49:07,720 --> 00:49:09,720
+tu ne peux pas vivre 1000 ans comme ça.
+
+861
+00:49:09,720 --> 00:49:10,720
+Ce n'est juste pas possible.
+
+862
+00:49:10,720 --> 00:49:12,720
+Je ne sais pas.
+
+863
+00:49:12,720 --> 00:49:15,720
+De toute façon, le cerveau, organiquement,
+
+864
+00:49:15,720 --> 00:49:20,720
+il est prévu pour vivre entre 120 et 150 ans, je crois.
+
+865
+00:49:21,720 --> 00:49:23,720
+Informations vérifiées.
+
+866
+00:49:23,720 --> 00:49:26,720
+Je ne sais plus où j'avais lu celles-ci.
+
+867
+00:49:26,720 --> 00:49:28,720
+Par contre, ce qui est sûr avec ça,
+
+868
+00:49:28,720 --> 00:49:31,720
+c'est que, tout comme tes organes,
+
+869
+00:49:31,720 --> 00:49:36,720
+eux et le reste du corps, de toute façon,
+
+870
+00:49:36,720 --> 00:49:38,720
+ils ont une obsolescence.
+
+871
+00:49:38,720 --> 00:49:40,720
+Avant d'arriver à vivre 1000 ans,
+
+872
+00:49:40,720 --> 00:49:43,720
+il faut arriver à trouver le gène
+
+873
+00:49:43,720 --> 00:49:49,720
+qui est en mesure de te faire vieillir.
+
+874
+00:49:49,720 --> 00:49:51,720
+Une fois que ça s'est identifié, il faut le retravailler.
+
+875
+00:49:51,720 --> 00:49:55,720
+Pour ceux qui connaissent anciennement Science&Vie Junior,
+
+876
+00:49:55,720 --> 00:49:57,720
+qui a été renommée récemment Epsilon,
+
+877
+00:49:57,720 --> 00:50:01,720
+ils ont sorti un dossier qui traite du sujet de la mort,
+
+878
+00:50:01,720 --> 00:50:04,720
+aux confins de la mort,
+
+879
+00:50:04,720 --> 00:50:08,720
+où ils ont enregistré l'intégralité des données
+
+880
+00:50:08,720 --> 00:50:11,720
+qui répertorient pourquoi les gens meurent
+
+881
+00:50:11,720 --> 00:50:13,720
+et pourquoi les gens vivent et comment ça se fait.
+
+882
+00:50:13,720 --> 00:50:15,720
+Ils ont identifié une cellule.
+
+883
+00:50:15,720 --> 00:50:18,720
+Cette cellule, ils sont en train de travailler dessus.
+
+884
+00:50:18,720 --> 00:50:22,720
+Ils ont pu la ralentir, mais pas la stopper.
+
+885
+00:50:22,720 --> 00:50:25,720
+Rien que ça, c'est déjà fascinant,
+
+886
+00:50:25,720 --> 00:50:29,720
+parce que ça signifie que dans les prochains mois, années,
+
+887
+00:50:29,720 --> 00:50:33,720
+on va être capable d'avoir une sorte de kill switch
+
+888
+00:50:33,720 --> 00:50:36,720
+où tu appuies sur ce bouton et tu vas dire à ton corps
+
+889
+00:50:36,720 --> 00:50:38,720
+« Stop, je m'arrête de vieillir à 30 ans ».
+
+890
+00:50:38,720 --> 00:50:42,720
+Effectivement, c'est difficilement...
+
+891
+00:50:42,720 --> 00:50:46,720
+On a du mal à se le représenter
+
+892
+00:50:46,720 --> 00:50:49,720
+parce qu'on est dans une condition humaine
+
+893
+00:50:49,720 --> 00:50:51,720
+qui nous empêche de le faire.
+
+894
+00:50:51,720 --> 00:50:53,720
+Mais imagine simplement une réalité
+
+895
+00:50:53,720 --> 00:50:56,720
+où tu es en mesure de cliquer sur un bouton,
+
+896
+00:50:56,720 --> 00:50:59,720
+quand tu arrives à 20 ans, tu te dis « Stop, je ne vais plus vieillir ».
+
+897
+00:50:59,720 --> 00:51:01,720
+Ça pourrait être fou tout simplement,
+
+898
+00:51:01,720 --> 00:51:04,720
+mais on sait tous qu'il y aurait d'ici d'autres problèmes.
+
+899
+00:51:04,720 --> 00:51:07,720
+Tu veux que je parle des nootropiques?
+
+900
+00:51:07,720 --> 00:51:11,720
+Juste après l'intervention de Fanny Spica
+
+901
+00:51:11,720 --> 00:51:14,720
+qui a demandé le rapport il y a mille ans.
+
+902
+00:51:15,720 --> 00:51:18,720
+Salut, moi c'est Jean-Marc.
+
+903
+00:51:18,720 --> 00:51:22,720
+Au début, je ne voulais pas intervenir parce que je me disais qu'il n'y a pas moyen,
+
+904
+00:51:22,720 --> 00:51:25,720
+mais en écoutant Rémi, je crois qu'il y a une possibilité
+
+905
+00:51:25,720 --> 00:51:29,720
+de développer une antithèse parce que je suis vieux,
+
+906
+00:51:29,720 --> 00:51:31,720
+je suis psy, je suis prof de philo.
+
+907
+00:51:31,720 --> 00:51:32,720
+J'adore.
+
+908
+00:51:32,720 --> 00:51:35,720
+Et donc, je vais développer cette antithèse
+
+909
+00:51:35,720 --> 00:51:38,720
+sur la connaissance du corps, si tu veux,
+
+910
+00:51:38,720 --> 00:51:41,720
+parce que je considère que nous vivons dans une période
+
+911
+00:51:41,720 --> 00:51:45,720
+où le corps est très idéalisé,
+
+912
+00:51:45,720 --> 00:51:48,720
+mais dans un sens qui n'est peut-être pas le bon
+
+913
+00:51:48,720 --> 00:51:51,720
+parce qu'ils idéalisent le corps-machine.
+
+914
+00:51:51,720 --> 00:51:54,720
+Et je considère par exemple l'épisode du Covid
+
+915
+00:51:54,720 --> 00:51:56,720
+ou l'épisode de la guerre de Gaza
+
+916
+00:51:56,720 --> 00:51:59,720
+comme des épisodes qui consistent à te dire « tu n'es qu'un corps »
+
+917
+00:51:59,720 --> 00:52:02,720
+et à la limite Gaza, tu n'es que de la viande.
+
+918
+00:52:02,720 --> 00:52:07,720
+Mais par contre, si on regarde par exemple l'histoire de la psychanalyse,
+
+919
+00:52:07,720 --> 00:52:10,720
+à un moment donné, Jacques Lacan, le psychanalyste français,
+
+920
+00:52:10,720 --> 00:52:13,720
+il met des chimpanzés devant des miroirs
+
+921
+00:52:13,720 --> 00:52:15,720
+et il met des enfants de un an et demi devant des miroirs
+
+922
+00:52:15,720 --> 00:52:18,720
+et il constate qu'à partir de l'âge de un an et demi,
+
+923
+00:52:18,720 --> 00:52:22,720
+l'enfant à un moment donné se met à rire quand il voit sa propre image.
+
+924
+00:52:22,720 --> 00:52:26,720
+Et là, il se pose la question « mais pourquoi il jubile ce gosse? »
+
+925
+00:52:26,720 --> 00:52:29,720
+Et il se rend compte que c'est parce que le gosse,
+
+926
+00:52:29,720 --> 00:52:32,720
+le corps est imaginaire, c'est-à-dire qu'il jubile
+
+927
+00:52:32,720 --> 00:52:36,720
+parce que pour la première fois, il a réussi à totaliser
+
+928
+00:52:36,720 --> 00:52:39,720
+son image de corps propre dans le miroir
+
+929
+00:52:39,720 --> 00:52:42,720
+et qu'avant, il était dans le corps morcelé.
+
+930
+00:52:42,720 --> 00:52:44,720
+C'est-à-dire qu'il avait une main, il avait un pied,
+
+931
+00:52:44,720 --> 00:52:47,720
+mais il n'était pas une totalité.
+
+932
+00:52:47,720 --> 00:52:49,720
+Et on retrouve ça dans la schizophrénie par exemple.
+
+933
+00:52:49,720 --> 00:52:51,720
+La schizophrénie, c'est le corps morcelé.
+
+934
+00:52:51,720 --> 00:52:53,720
+Tu demandes à un schizophrène de se dessiner,
+
+935
+00:52:53,720 --> 00:52:56,720
+il te dessinera un bras d'un côté, une jambe d'un côté,
+
+936
+00:52:56,720 --> 00:52:58,720
+sans le lien entre tout ça.
+
+937
+00:52:58,720 --> 00:53:01,720
+Donc la totalisation du corps est imaginaire.
+
+938
+00:53:01,720 --> 00:53:08,720
+Mais cette idéologie du corps, moi je la soupçonne d'être liée au marché.
+
+939
+00:53:08,720 --> 00:53:12,720
+C'est-à-dire si tu remontes au 15e, si vous remontez au 15e, 16e siècle,
+
+940
+00:53:12,720 --> 00:53:15,720
+l'université était conçue pour être un espace critique de la société.
+
+941
+00:53:15,720 --> 00:53:18,720
+Au centre de l'université, il y avait la théologie, la philosophie,
+
+942
+00:53:18,720 --> 00:53:23,720
+puis la science, puis la technique, puis le marché.
+
+943
+00:53:23,720 --> 00:53:24,720
+Aujourd'hui, c'est exactement l'inverse.
+
+944
+00:53:24,720 --> 00:53:28,720
+La théologie, c'est complètement fichu, la philosophie est foutue à la porte.
+
+945
+00:53:28,720 --> 00:53:30,720
+Au centre, il y a le marché.
+
+946
+00:53:30,720 --> 00:53:33,720
+Le marché commande la technologie qui commande la science.
+
+947
+00:53:33,720 --> 00:53:36,720
+Il y a eu une inversion entre la technologie et la science.
+
+948
+00:53:36,720 --> 00:53:38,720
+Avant, c'est la science qui commandait la technologie.
+
+949
+00:53:38,720 --> 00:53:40,720
+Maintenant, c'est l'inverse.
+
+950
+00:53:40,720 --> 00:53:43,720
+Platon, dans son plus beau dialogue qui est le Fais-don,
+
+951
+00:53:43,720 --> 00:53:46,720
+il met en scène le moment où Socrate a été condamné à mort.
+
+952
+00:53:46,720 --> 00:53:51,720
+Et donc, Socrate est emprisonné et tous ses amis vont défiler pour le convaincre.
+
+953
+00:53:51,720 --> 00:53:55,720
+On a un plan pour te sortir de prison, viens avec nous, sortons d'Athènes,
+
+954
+00:53:55,720 --> 00:53:57,720
+qu'est-ce que c'est que cette foutaise, etc.
+
+955
+00:53:57,720 --> 00:54:00,720
+Et tout le dialogue va développer l'argumentaire de Socrate qui dit,
+
+956
+00:54:00,720 --> 00:54:02,720
+mais non, foutez-moi la paix, moi je veux crever, moi.
+
+957
+00:54:02,720 --> 00:54:04,720
+Moi, je veux mourir.
+
+958
+00:54:05,720 --> 00:54:09,720
+Il développe l'idée que si personne n'est jamais revenu de la mort,
+
+959
+00:54:09,720 --> 00:54:12,720
+c'est qu'il y a là-bas un maître qui va t'améliorer,
+
+960
+00:54:12,720 --> 00:54:14,720
+alors que ici, personne ne t'améliore.
+
+961
+00:54:14,720 --> 00:54:16,720
+C'est un peu saugrenu.
+
+962
+00:54:16,720 --> 00:54:19,720
+Mais parallèlement à cette idée,
+
+963
+00:54:19,720 --> 00:54:24,720
+il y a l'idée que ce qui compte, c'est d'avoir une existence qui a du sens.
+
+964
+00:54:24,720 --> 00:54:27,720
+C'est ça que Rémy a appelé la qualité.
+
+965
+00:54:27,720 --> 00:54:30,720
+C'est-à-dire, Brian Johnson, par exemple, pour moi, c'est un vampire.
+
+966
+00:54:30,720 --> 00:54:34,720
+C'est un vampire qui pompe son gosse tous les jours de sang et de…
+
+967
+00:54:37,720 --> 00:54:42,720
+Quant au corps réel, il va réellement dépendre de la santé mentale.
+
+968
+00:54:42,720 --> 00:54:47,720
+Et la santé mentale, Freud dit, c'est aimer et travailler, en deux mots.
+
+969
+00:54:47,720 --> 00:54:52,720
+Donc, faire un travail qui a du sens et avoir des relations affectives.
+
+970
+00:54:52,720 --> 00:54:57,720
+Si tu as ces deux choses-là, tu as vraiment réussi à beaucoup améliorer ta santé.
+
+971
+00:54:58,720 --> 00:55:00,720
+Maintenant, sur le plan personnel,
+
+972
+00:55:00,720 --> 00:55:03,720
+je sais que le vieillissement, qu'est-ce que c'est?
+
+973
+00:55:03,720 --> 00:55:06,720
+Le vieillissement, tu n'arrives plus à courir comme avant,
+
+974
+00:55:06,720 --> 00:55:10,720
+ta peau a perdu son élasticité, tu as toutes sortes de douleurs,
+
+975
+00:55:10,720 --> 00:55:13,720
+tu ne baisses pas comme avant.
+
+976
+00:55:13,720 --> 00:55:16,720
+Donc, tu as des pertes, c'est une série de pertes, mais on finit par s'habituer.
+
+977
+00:55:16,720 --> 00:55:20,720
+Et si tu me dis, je sais que je vais crever d'ici deux ou trois ans,
+
+978
+00:55:20,720 --> 00:55:22,720
+parce que j'ai eu une existence absolument épuisante
+
+979
+00:55:22,720 --> 00:55:24,720
+et que j'ai réellement maltraité mon corps,
+
+980
+00:55:24,720 --> 00:55:27,720
+mais en sachant ce que je faisais, en obtenant ce que je voulais,
+
+981
+00:55:27,720 --> 00:55:33,720
+avec grande satisfaction, avec un focus sur le plaisir et sur le sens,
+
+982
+00:55:33,720 --> 00:55:35,720
+de faire des choses qui ont du sens.
+
+983
+00:55:35,720 --> 00:55:38,720
+Si tu me dis, on prolonge, je ne te dis pas question.
+
+984
+00:55:38,720 --> 00:55:41,720
+Ah non, non, non, s'il te plaît, je n'ai pas envie du tout.
+
+985
+00:55:41,720 --> 00:55:42,720
+Je ne vois pas pourquoi.
+
+986
+00:55:42,720 --> 00:55:47,720
+Parce que je ne vois pas quelles nouvelles expériences
+
+987
+00:55:47,720 --> 00:55:50,720
+je pourrais encore faire qui ne soient pas de répétition,
+
+988
+00:55:50,720 --> 00:55:52,720
+dans quelques domaines que ce soit.
+
+989
+00:55:52,720 --> 00:55:54,720
+Donc, je me suis privé de rien.
+
+990
+00:55:54,720 --> 00:55:59,720
+Donc, quels sont les nouveaux plaisirs que tu pourrais m'apporter?
+
+991
+00:55:59,720 --> 00:56:03,720
+Il y a comme un moment où le cercle est bouclé, si tu veux,
+
+992
+00:56:03,720 --> 00:56:06,720
+et tu es content que ce cercle soit bouclé,
+
+993
+00:56:06,720 --> 00:56:12,720
+parce que, comme dit Heidegger, l'homme est un être pour la mort.
+
+994
+00:56:12,720 --> 00:56:15,720
+Ta vie, elle prend son sens quand tu passes par des épisodes
+
+995
+00:56:15,720 --> 00:56:19,720
+où tu conçois et tu penses réellement à ta mort.
+
+996
+00:56:19,720 --> 00:56:21,720
+Et tu la vois venir.
+
+997
+00:56:21,720 --> 00:56:26,720
+Là, vraiment, on voit sa vie défiler, comme on dit.
+
+998
+00:56:26,720 --> 00:56:28,720
+Autrement, tu es en surface.
+
+999
+00:56:28,720 --> 00:56:32,720
+Et quand tu es en surface, ta vie a moins de sens.
+
+1000
+00:56:32,720 --> 00:56:38,720
+Tu peux la prolonger, mais c'est vraiment, comme disait Rémi,
+
+1001
+00:56:38,720 --> 00:56:40,720
+la question qualité-quantité.
+
+1002
+00:56:40,720 --> 00:56:41,720
+Et la qualité compte beaucoup.
+
+1003
+00:56:41,720 --> 00:56:44,720
+Je m'arrêterai là parce que je suis complètement à contresens
+
+1004
+00:56:44,720 --> 00:56:46,720
+de ce qui est développé.
+
+1005
+00:56:46,720 --> 00:56:49,720
+Pour moi, je ne sais pas si ce que développe ma genre
+
+1006
+00:56:49,720 --> 00:56:52,720
+est une idéologie ou une philosophie.
+
+1007
+00:56:52,720 --> 00:56:54,720
+Je ne me permettrai pas de juger.
+
+1008
+00:56:54,720 --> 00:56:56,720
+Il y a des côtés parfois qui sont idéologiques,
+
+1009
+00:56:56,720 --> 00:56:59,720
+des gens qui deviennent complètement fous, il les a lui-même décrits.
+
+1010
+00:56:59,720 --> 00:57:02,720
+Je pense que c'est une philosophie, mais simplement, je veux dire
+
+1011
+00:57:02,720 --> 00:57:06,720
+qu'il y en a d'autres, voilà, sans plus.
+
+1012
+00:57:06,720 --> 00:57:08,720
+– Moi, j'ai trouvé ça super passionnant.
+
+1013
+00:57:08,720 --> 00:57:10,720
+Il y a plusieurs personnes qui ont dit,
+
+1014
+00:57:10,720 --> 00:57:15,720
+s'ils avaient pu t'avoir en prof, moi j'aurais signé.
+
+1015
+00:57:15,720 --> 00:57:19,720
+– Pour te répondre, en fait, ce que je veux surtout exposer,
+
+1016
+00:57:19,720 --> 00:57:30,720
+c'est le fait de ne pas vivre longtemps pour pouvoir vieillir
+
+1017
+00:57:30,720 --> 00:57:33,720
+et voir un petit peu les gens partir autour de soi.
+
+1018
+00:57:33,720 --> 00:57:36,720
+Dans le principe, ce serait d'arriver à bloquer son âge
+
+1019
+00:57:36,720 --> 00:57:38,720
+si on en avait la possibilité.
+
+1020
+00:57:38,720 --> 00:57:42,720
+Donc, c'est en mode idéologie de bloquer l'âge
+
+1021
+00:57:42,720 --> 00:57:45,720
+à un stade où on en a envie.
+
+1022
+00:57:45,720 --> 00:57:50,720
+Pouvoir ensuite jouir de différents types de plaisir
+
+1023
+00:57:50,720 --> 00:57:57,720
+et en s'affranchissant de se dire, je vais peut-être avoir un cancer,
+
+1024
+00:57:57,720 --> 00:57:59,720
+un problème cardiaque, voilà.
+
+1025
+00:57:59,720 --> 00:58:03,720
+Mais après, évidemment, et là où je te rejoins à 100% avec ta raison,
+
+1026
+00:58:03,720 --> 00:58:06,720
+c'est que ça ne nous affranchit pas aussi de tout ce qui peut arriver
+
+1027
+00:58:06,720 --> 00:58:10,720
+comme accident de la vie, comme un accident de voiture,
+
+1028
+00:58:10,720 --> 00:58:13,720
+un moment où tu passais au mauvais endroit au mauvais moment.
+
+1029
+00:58:13,720 --> 00:58:16,720
+Mais ça, forcément, c'est les choses de la vie qui…
+
+1030
+00:58:16,720 --> 00:58:21,720
+Même si je fais le plus attention au monde, à n'importe quel effet et geste,
+
+1031
+00:58:21,720 --> 00:58:25,720
+si je suis chez moi, je peux, avec une écharpe,
+
+1032
+00:58:25,720 --> 00:58:28,720
+en faisant la cuisine, peut-être m'égorger avec un robot.
+
+1033
+00:58:28,720 --> 00:58:31,720
+Je n'en sais rien, c'est un exemple pourri, mais c'est…
+
+1034
+00:58:33,720 --> 00:58:38,720
+– Major, si ce n'est pas indiscret, tu as quel âge?
+
+1035
+00:58:38,720 --> 00:58:40,720
+– Là, j'ai 30.
+
+1036
+00:58:40,720 --> 00:58:44,720
+– Je fais un petit partage personnel parce que, merci,
+
+1037
+00:58:44,720 --> 00:58:47,720
+j'ai oublié le nom du dernier intervenant.
+
+1038
+00:58:47,720 --> 00:58:48,720
+– Jean-Marc.
+
+1039
+00:58:48,720 --> 00:58:53,720
+– Jean-Marc. Alors, je ne suis pas si vieux que Jean-Marc.
+
+1040
+00:58:53,720 --> 00:58:55,720
+Moi, j'ai… J'ai quel âge maintenant?
+
+1041
+00:58:55,720 --> 00:58:58,720
+J'ai 36-37 ans. Par là, on va dire.
+
+1042
+00:58:58,720 --> 00:59:01,720
+Pourquoi je mets ça dans la balance?
+
+1043
+00:59:01,720 --> 00:59:04,720
+C'est parce que c'est vrai qu'il y a deux choses.
+
+1044
+00:59:04,720 --> 00:59:07,720
+C'est qu'effectivement, j'ai une hygiène de vie qui n'était plus celle
+
+1045
+00:59:07,720 --> 00:59:10,720
+que j'avais quand j'étais jeune. J'étais très sportif.
+
+1046
+00:59:10,720 --> 00:59:14,720
+Disons qu'en arrivant à l'UNIF, j'ai commencé un petit peu à festoyer,
+
+1047
+00:59:14,720 --> 00:59:20,720
+un peu trop, et donc mon hygiène de vie est très certainement critiquable.
+
+1048
+00:59:20,720 --> 00:59:25,720
+Où je veux en venir, c'est que je ne dis pas que je me sens vieux,
+
+1049
+00:59:25,720 --> 00:59:28,720
+mais en tout cas, je sens que je ne suis plus jeune.
+
+1050
+00:59:28,720 --> 00:59:31,720
+Et pourquoi je dis ça? C'est qu'effectivement, je pense
+
+1051
+00:59:31,720 --> 00:59:36,720
+qu'il serait très intéressant de recorriger énormément de choses
+
+1052
+00:59:36,720 --> 00:59:39,720
+en termes de consommation d'alcool, ce genre de choses.
+
+1053
+00:59:39,720 --> 00:59:44,720
+Mais je rejoins assez fort Jean-Marc sur le…
+
+1054
+00:59:44,720 --> 00:59:47,720
+En fait, maintenant, je me dis…
+
+1055
+00:59:47,720 --> 00:59:51,720
+Je veux dire, récemment, je me suis posé la question du…
+
+1056
+00:59:51,720 --> 00:59:54,720
+Je me suis rendu compte que les choses étaient comptées
+
+1057
+00:59:54,720 --> 00:59:58,720
+et qu'avant, on ne l'était pas. Un peu l'insouciance de la jeunesse, je pense.
+
+1058
+00:59:58,720 --> 01:00:01,720
+On crame tout par les deux bouts.
+
+1059
+01:00:01,720 --> 01:00:04,720
+On se rend compte qu'on ne peut pas continuer comme ça.
+
+1060
+01:00:04,720 --> 01:00:10,720
+Mais surtout, c'est quel sens je veux donner au jour qu'il m'en reste un
+
+1061
+01:00:10,720 --> 01:00:13,720
+ou des milliers.
+
+1062
+01:00:13,720 --> 01:00:16,720
+Des milliers, ça peut se faire encore.
+
+1063
+01:00:16,720 --> 01:00:19,720
+C'était pour faire un peu le point entre les deux.
+
+1064
+01:00:19,720 --> 01:00:25,720
+Et peut-être qu'effectivement, nos âges peuvent nous donner un point de vue.
+
+1065
+01:00:25,720 --> 01:00:30,720
+Il y a trois générations, c'est ça? Jean-Marc, Rémi et…
+
+1066
+01:00:30,720 --> 01:00:32,720
+La louche.
+
+1067
+01:00:32,720 --> 01:00:35,720
+Enfin voilà, c'était un petit partage.
+
+1068
+01:00:36,720 --> 01:00:38,720
+Jean-Marc allait répondre du coup.
+
+1069
+01:00:38,720 --> 01:00:40,720
+Il y a les gens qui ont 20 ans, il y a les gens qui ont 35 ans,
+
+1070
+01:00:40,720 --> 01:00:42,720
+il y a les gens qui ont 55 ans.
+
+1071
+01:00:42,720 --> 01:00:45,720
+C'est parfait pour couvrir les trois perspectives.
+
+1072
+01:00:45,720 --> 01:00:47,720
+C'est ça qui est beau.
+
+1073
+01:00:47,720 --> 01:00:51,720
+Mais c'est vrai que ce que vous mentionnez très justement, tous les deux,
+
+1074
+01:00:51,720 --> 01:00:54,720
+c'est que peut-être que…
+
+1075
+01:00:54,720 --> 01:00:56,720
+Et je parle uniquement selon moi.
+
+1076
+01:00:56,720 --> 01:01:00,720
+Peut-être que je me suis rendu compte du fait de vivre, entre guillemets,
+
+1077
+01:01:00,720 --> 01:01:04,720
+qui peut être un peu…
+
+1078
+01:01:04,720 --> 01:01:07,720
+Comment on appelle ça?
+
+1079
+01:01:07,720 --> 01:01:10,720
+Abstrait, de vivre trop bien
+
+1080
+01:01:10,720 --> 01:01:13,720
+et de finalement brûler un peu les deux bouts trop vite.
+
+1081
+01:01:13,720 --> 01:01:17,720
+Peut-être que je m'en suis rendu compte assez récemment
+
+1082
+01:01:17,720 --> 01:01:20,720
+parce que comme je l'avais mentionné à Radio Chad,
+
+1083
+01:01:20,720 --> 01:01:22,720
+il s'en rappelle peut-être plus non plus,
+
+1084
+01:01:22,720 --> 01:01:24,720
+mais j'avais eu un gros accident il y a quelques années
+
+1085
+01:01:24,720 --> 01:01:27,720
+qui m'a confronté à la mort en direct,
+
+1086
+01:01:27,720 --> 01:01:30,720
+où j'ai eu une expérience avec ça.
+
+1087
+01:01:30,720 --> 01:01:34,720
+Et c'est là où j'ai pris vraiment tous les sens de la fragilité de la vie.
+
+1088
+01:01:34,720 --> 01:01:37,720
+Et c'est peut-être qui m'a amené à penser aussi ça,
+
+1089
+01:01:37,720 --> 01:01:41,720
+dans la construction psychologique que tu te posais la question, Jean-Marc.
+
+1090
+01:01:41,720 --> 01:01:45,720
+Oui, c'est ça. Vas-y.
+
+1091
+01:01:45,720 --> 01:01:48,720
+Non, mais en fait,
+
+1092
+01:01:48,720 --> 01:01:53,720
+les questions que tu t'es posées suite à cet événement-là,
+
+1093
+01:01:53,720 --> 01:01:55,720
+c'est quoi en substance?
+
+1094
+01:01:55,720 --> 01:02:02,720
+Est-ce que c'était genre comment je peux faire pour vivre plus longtemps?
+
+1095
+01:02:02,720 --> 01:02:05,720
+Ou comment je peux faire pour donner du sens à ma vie,
+
+1096
+01:02:05,720 --> 01:02:07,720
+ou les deux en même temps?
+
+1097
+01:02:07,720 --> 01:02:11,720
+C'était quoi le cheminement que tu as eu justement
+
+1098
+01:02:11,720 --> 01:02:15,720
+quand tu as vu qu'en fait la vie peut s'arrêter à chaque instant?
+
+1099
+01:02:15,720 --> 01:02:18,720
+Sincèrement, sauf si Jean-Marc, tu voulais répondre avant.
+
+1100
+01:02:18,720 --> 01:02:21,720
+Non, je voulais faire une remarque. Vas-y.
+
+1101
+01:02:21,720 --> 01:02:24,720
+En fait, moi, quand ça s'est produit,
+
+1102
+01:02:24,720 --> 01:02:26,720
+je me suis dit tout de suite que j'étais...
+
+1103
+01:02:26,720 --> 01:02:27,720
+Moi, ça arrivait au fond d'une piscine.
+
+1104
+01:02:27,720 --> 01:02:29,720
+Donc, j'ai pris un gars sur la tête.
+
+1105
+01:02:29,720 --> 01:02:30,720
+J'ai pris ses deux genoux dans le crâne,
+
+1106
+01:02:30,720 --> 01:02:33,720
+moi en montant à la surface, en appuyant sur le fond de la piscine,
+
+1107
+01:02:33,720 --> 01:02:35,720
+et lui en faisant une bombe.
+
+1108
+01:02:35,720 --> 01:02:39,720
+Et donc, j'ai pris ses deux genoux dans le crâne.
+
+1109
+01:02:39,720 --> 01:02:41,720
+Je suis redescendu au fond de la piscine.
+
+1110
+01:02:41,720 --> 01:02:43,720
+Et puis là, tout s'est arrêté.
+
+1111
+01:02:43,720 --> 01:02:45,720
+Et j'ai cru que c'était fini.
+
+1112
+01:02:45,720 --> 01:02:47,720
+Et puis après, j'ai eu une perte de connaissance.
+
+1113
+01:02:47,720 --> 01:02:49,720
+Et pendant les...
+
+1114
+01:02:49,720 --> 01:02:53,720
+Ça a duré un mois à l'hôpital, plus un an de rééducation et tout ça.
+
+1115
+01:02:53,720 --> 01:02:55,720
+C'est là où je me suis dit...
+
+1116
+01:02:55,720 --> 01:02:57,720
+Parce qu'après, ils ont qualifié ça de miracle.
+
+1117
+01:02:57,720 --> 01:02:58,720
+Ils ne comprenaient pas. Il y a plein de choses.
+
+1118
+01:02:58,720 --> 01:02:59,720
+Je vous fais vraiment le raccourci.
+
+1119
+01:02:59,720 --> 01:03:00,720
+Je me suis dit...
+
+1120
+01:03:00,720 --> 01:03:04,720
+Ah ouais, effectivement, je suis passé vraiment très proche.
+
+1121
+01:03:04,720 --> 01:03:06,720
+Et ça arrivait très vite.
+
+1122
+01:03:06,720 --> 01:03:07,720
+Et c'est là où je me suis dit,
+
+1123
+01:03:07,720 --> 01:03:11,720
+il faut que je donne du sens à ma vie,
+
+1124
+01:03:11,720 --> 01:03:13,720
+que j'essaye d'être un exemple peut-être pour des personnes
+
+1125
+01:03:13,720 --> 01:03:16,720
+qui ont besoin d'inspiration sur certains sujets.
+
+1126
+01:03:16,720 --> 01:03:22,720
+Et que je teste des choses pour essayer de repousser ces limites organiques
+
+1127
+01:03:22,720 --> 01:03:26,720
+qui sont de toute façon les mêmes pour tout le monde,
+
+1128
+01:03:26,720 --> 01:03:31,720
+mais qui ont peut-être plus ou moins de chance pour certaines personnes sur le long terme.
+
+1129
+01:03:31,720 --> 01:03:33,720
+Et de comment on peut les repousser.
+
+1130
+01:03:33,720 --> 01:03:35,720
+Et c'est en fait une sorte de...
+
+1131
+01:03:35,720 --> 01:03:38,720
+J'en marque peut-être une mission de vie ou une philosophie
+
+1132
+01:03:38,720 --> 01:03:40,720
+que je poursuis inconsciemment
+
+1133
+01:03:41,720 --> 01:03:45,720
+pour essayer de s'astraire de ce système,
+
+1134
+01:03:45,720 --> 01:03:47,720
+même si je sais que la finalité sera la même.
+
+1135
+01:03:47,720 --> 01:03:51,720
+Mais en tout cas, l'idée, c'est surtout de ralentir le plus possible le vieillissement.
+
+1136
+01:03:51,720 --> 01:03:55,720
+Et aujourd'hui, c'est le cas sur les statistiques que j'ai posées dans la conversation,
+
+1137
+01:03:55,720 --> 01:03:57,720
+si vous voulez les voir,
+
+1138
+01:03:57,720 --> 01:04:03,720
+où vous avez l'âge du corps vis-à-vis des résultats qui ont été exposés.
+
+1139
+01:04:05,720 --> 01:04:08,720
+Ça fait que tu as fait l'algorithme pour donner le chiffre.
+
+1140
+01:04:09,720 --> 01:04:12,720
+Ah bah après, ça, moi je ne peux pas te répondre là-dessus.
+
+1141
+01:04:12,720 --> 01:04:14,720
+Il faut se méfier, quoi.
+
+1142
+01:04:14,720 --> 01:04:16,720
+En fait, il faut regarder tout ça avec...
+
+1143
+01:04:16,720 --> 01:04:18,720
+Les informations qui sont là-dessus,
+
+1144
+01:04:18,720 --> 01:04:22,720
+elles peuvent être extrêmement réelles
+
+1145
+01:04:22,720 --> 01:04:25,720
+si c'est fait par les mecs de Brian Johnson.
+
+1146
+01:04:25,720 --> 01:04:29,720
+Donc d'ici que je passe 2 millions encore par an dans la santé, je ne pense pas.
+
+1147
+01:04:29,720 --> 01:04:32,720
+Déjà, 1 500 par mois, c'est déjà pas mal.
+
+1148
+01:04:32,720 --> 01:04:34,720
+Mais 2 millions par an, non.
+
+1149
+01:04:34,720 --> 01:04:37,720
+Je n'ai pas encore ça, Rémi.
+
+1150
+01:04:38,720 --> 01:04:41,720
+Non, après, je taquine un peu, mais après, je suis d'accord avec toi.
+
+1151
+01:04:41,720 --> 01:04:46,720
+Dans tes choix, par exemple, de la Suisse, être au vert, beaucoup de sports.
+
+1152
+01:04:46,720 --> 01:04:51,720
+Si 50% de la population pouvait tendre un peu plus vers ça,
+
+1153
+01:04:51,720 --> 01:04:53,720
+je pense qu'on réduirait,
+
+1154
+01:04:53,720 --> 01:04:56,720
+parce que j'ai qu'en France, la consommation de médicaments tout genre,
+
+1155
+01:04:56,720 --> 01:04:58,720
+des records.
+
+1156
+01:04:58,720 --> 01:05:01,720
+On réduirait l'obésité, on réduirait à mon avis le stress, et ainsi de suite.
+
+1157
+01:05:01,720 --> 01:05:05,720
+Donc dans ce sens-là, je ne peux qu'abonder.
+
+1158
+01:05:06,720 --> 01:05:10,720
+Mais oui, j'ai une formation d'ingénieur,
+
+1159
+01:05:10,720 --> 01:05:13,720
+donc j'ai l'habitude des chiffres, j'ai l'habitude des stats.
+
+1160
+01:05:13,720 --> 01:05:17,720
+Mais au plus que je vieillis, au plus que je me méfie des chiffres et des stats.
+
+1161
+01:05:17,720 --> 01:05:20,720
+Parce qu'on leur fait, je ne sais plus qui disait,
+
+1162
+01:05:20,720 --> 01:05:24,720
+il y a quoi, il y a les mensonges, les grands mensonges, et puis il y a les statistiques.
+
+1163
+01:05:24,720 --> 01:05:26,720
+Non, les sondages.
+
+1164
+01:05:26,720 --> 01:05:28,720
+Les sondages, bon, soit.
+
+1165
+01:05:28,720 --> 01:05:34,720
+Après, tout à ton honneur, je pense de la rigueur,
+
+1166
+01:05:34,720 --> 01:05:37,720
+de la routine que tu peux te mettre.
+
+1167
+01:05:37,720 --> 01:05:40,720
+Et je pense que ce serait salvateur pour beaucoup de gens
+
+1168
+01:05:40,720 --> 01:05:44,720
+que d'être capable de créer des routines beaucoup plus saines,
+
+1169
+01:05:44,720 --> 01:05:49,720
+c'est-à-dire pas d'écran, heures de sommeil régulière, alimentation beaucoup plus saine.
+
+1170
+01:05:49,720 --> 01:05:52,720
+Mais pour moi, tu fais déjà un peu partie du…
+
+1171
+01:05:52,720 --> 01:05:55,720
+Tu es clairement à une minorité.
+
+1172
+01:05:55,720 --> 01:06:00,720
+Après, il y a un autre truc sur lequel vraiment je classe juste ça,
+
+1173
+01:06:00,720 --> 01:06:03,720
+parce qu'il faut que je vieille dans 5-7 minutes.
+
+1174
+01:06:03,720 --> 01:06:06,720
+Mais il y a un autre truc aussi qui est intéressant,
+
+1175
+01:06:06,720 --> 01:06:08,720
+sans dire que je consomme ce type de choses,
+
+1176
+01:06:08,720 --> 01:06:11,720
+mais c'est tout ce qui est neurotropique, par exemple,
+
+1177
+01:06:11,720 --> 01:06:14,720
+pour augmenter le focus dans le travail.
+
+1178
+01:06:14,720 --> 01:06:18,720
+Alors, moi, à Genève, j'ai vu des soirées, des fois,
+
+1179
+01:06:18,720 --> 01:06:24,720
+où, comment on pourrait dire, c'est des descentes de pistes de ski,
+
+1180
+01:06:24,720 --> 01:06:26,720
+et moi, je ne touche absolument pas à ça.
+
+1181
+01:06:26,720 --> 01:06:30,720
+Mais je me dis, chacun fait ce qu'il veut avec son corps,
+
+1182
+01:06:30,720 --> 01:06:34,720
+mais à mon avis, sur le long terme, ça risque de faire mal.
+
+1183
+01:06:34,720 --> 01:06:37,720
+Et je pense que de toute façon, ça peut arriver.
+
+1184
+01:06:37,720 --> 01:06:40,720
+Par contre, à Genève, je ne sais pas si Jean-Marc et d'autres personnes
+
+1185
+01:06:40,720 --> 01:06:43,720
+qui sont peut-être dans le milieu médical, ils en ont entendu parler,
+
+1186
+01:06:43,720 --> 01:06:49,720
+mais ils ont mis en place un système qui te permet de faire du micro-dosing,
+
+1187
+01:06:49,720 --> 01:06:52,720
+notamment de LSD, à faible quantité,
+
+1188
+01:06:52,720 --> 01:06:55,720
+pour pouvoir l'essayer dans un but purement médical,
+
+1189
+01:06:56,720 --> 01:07:01,720
+et de manière à atteindre un état de flot.
+
+1190
+01:07:01,720 --> 01:07:05,720
+Et l'avantage de ce type de neurotropique aussi,
+
+1191
+01:07:05,720 --> 01:07:10,720
+c'est que ça te permet de plonger dans un état de travail et de concentration
+
+1192
+01:07:10,720 --> 01:07:14,720
+qui n'a jamais été atteint,
+
+1193
+01:07:14,720 --> 01:07:19,720
+et qui te permet aussi de démultiplier tes capacités de travail
+
+1194
+01:07:19,720 --> 01:07:24,720
+sur les tâches longues, pénibles,
+
+1195
+01:07:24,720 --> 01:07:29,720
+sans devoir avoir ton esprit qui se défocuse quotidiennement.
+
+1196
+01:07:29,720 --> 01:07:35,720
+Oui, mais ça va être vrai que si tu as comme prémisse tout ce qu'on est d'avant,
+
+1197
+01:07:35,720 --> 01:07:38,720
+une hygiène de vie qui te le permet.
+
+1198
+01:07:38,720 --> 01:07:42,720
+C'est-à-dire que, imaginons que tu sois un peu fatigué ou que tu es un peu dévié
+
+1199
+01:07:42,720 --> 01:07:48,720
+parce que tu as mangé, comme Radio Tchad, un triple cheese, double burger,
+
+1200
+01:07:48,720 --> 01:07:56,720
+ou qu'une autre soirée t'a fait une piste noire un peu trop blanche prononcée,
+
+1201
+01:07:56,720 --> 01:08:00,720
+ton micro-dosing derrière, ça ne va jamais fonctionner.
+
+1202
+01:08:00,720 --> 01:08:02,720
+Tu vois ce que je veux dire?
+
+1203
+01:08:02,720 --> 01:08:05,720
+Après, le micro-dosing, je peux en parler,
+
+1204
+01:08:05,720 --> 01:08:09,720
+peut-être pas maintenant parce que du coup, si tu dois partir, Major,
+
+1205
+01:08:09,720 --> 01:08:12,720
+ça va être compliqué, mais je peux en parler.
+
+1206
+01:08:12,720 --> 01:08:15,720
+J'ai fait le maximum, désolé, mais j'ai fait vraiment le maximum.
+
+1207
+01:08:15,720 --> 01:08:17,720
+Mais est-ce que ça te dirait de revenir?
+
+1208
+01:08:17,720 --> 01:08:21,720
+Parce que du coup, on a fait que la moitié, je trouve.
+
+1209
+01:08:21,720 --> 01:08:25,720
+Je viens avec plaisir, c'est juste que c'est vrai que je sais vraiment,
+
+1210
+01:08:25,720 --> 01:08:27,720
+je te jure, à chaque fois, quand tu me proposes des dates,
+
+1211
+01:08:27,720 --> 01:08:29,720
+ça a pris un mois avant qu'on se la trouve.
+
+1212
+01:08:29,720 --> 01:08:31,720
+Je vais essayer de te les retrouver plus vite,
+
+1213
+01:08:31,720 --> 01:08:33,720
+c'est juste que c'est des périodes assez compliquées en ce moment
+
+1214
+01:08:33,720 --> 01:08:36,720
+sur des migrations d'entreprises et tout ça en Suisse.
+
+1215
+01:08:36,720 --> 01:08:39,720
+Parce que là, on a fait beaucoup de contradictions et tout,
+
+1216
+01:08:39,720 --> 01:08:42,720
+et finalement, on n'a pas eu le temps de diguer vraiment
+
+1217
+01:08:42,720 --> 01:08:45,720
+dans les solutions intéressantes et tout.
+
+1218
+01:08:45,720 --> 01:08:48,720
+Et en plus de ça, effectivement, le micro-dosing, je l'ai fait
+
+1219
+01:08:48,720 --> 01:08:52,720
+pendant une période et je vais probablement recommencer bientôt.
+
+1220
+01:08:52,720 --> 01:08:56,720
+On peut regarder pour se refaire une session comme ça
+
+1221
+01:08:56,720 --> 01:08:59,720
+où on rentre un peu plus dans le détail,
+
+1222
+01:08:59,720 --> 01:09:02,720
+on pourra retrouver Jean-Marc, Rémi, et puis d'autres choses
+
+1223
+01:09:02,720 --> 01:09:06,720
+avec des sujets un petit peu plus poussés.
+
+1224
+01:09:06,720 --> 01:09:07,720
+Parce que c'est vrai que là, on est resté en surface
+
+1225
+01:09:07,720 --> 01:09:09,720
+histoire de faire une sorte d'introduction,
+
+1226
+01:09:09,720 --> 01:09:11,720
+mais c'est vrai qu'on peut aller beaucoup plus loin.
+
+1227
+01:09:11,720 --> 01:09:14,720
+Tu le sais parce qu'on a eu l'occasion d'échanger là-dessus, je crois,
+
+1228
+01:09:14,720 --> 01:09:17,720
+ou à moins qu'ils ne soient pas avec toi, mais je ne me rappelle plus.
+
+1229
+01:09:17,720 --> 01:09:19,720
+Mais ça peut être très intéressant.
+
+1230
+01:09:19,720 --> 01:09:24,720
+Oui, écoute, on se reparle en off et puis on se fait ça.
+
+1231
+01:09:24,720 --> 01:09:26,720
+Oui, on va faire comme ça alors.
+
+1232
+01:09:26,720 --> 01:09:28,720
+En tout cas, merci beaucoup d'être venu.
+
+1233
+01:09:28,720 --> 01:09:31,720
+C'était super cool, c'était comme une super discussion.
+
+1234
+01:09:31,720 --> 01:09:33,720
+Et puis on se dit à la prochaine.
+
+1235
+01:09:33,720 --> 01:09:37,720
+Merci aussi à Rémi et Jean-Marc pour vos interventions.
+
+1236
+01:09:37,720 --> 01:09:39,720
+C'était super enrichissant.
+
+1237
+01:09:39,720 --> 01:09:41,720
+Et merci à tous ceux qui sont venus ce soir pour écouter.
+
+1238
+01:09:41,720 --> 01:09:44,720
+Et on se dit, on va se laisser là-dessus.
+
+1239
+01:09:44,720 --> 01:09:47,720
+On se dit rendez-vous demain, demain 22h.
+
+1240
+01:09:47,720 --> 01:09:52,720
+Demain 22h, c'est une émission qui a été décidée aujourd'hui.
+
+1241
+01:09:52,720 --> 01:09:54,720
+Ça va être avec CryptoMatrix.
+
+1242
+01:09:54,720 --> 01:09:57,720
+Donc on va revenir un peu sur la thématique de hier.
+
+1243
+01:09:57,720 --> 01:10:02,720
+On va parler du CTFR, de la communauté crypto française
+
+1244
+01:10:02,720 --> 01:10:05,720
+et puis qu'est-ce qu'on peut faire pour qu'il y ait moins de scams
+
+1245
+01:10:05,720 --> 01:10:09,720
+et puis plus de choses positives qui se passent, etc.
+
+1246
+01:10:09,720 --> 01:10:10,720
+Tout ça, tout ça.
+
+1247
+01:10:10,720 --> 01:10:12,720
+Donc voilà, ça va être une grosse émission demain.
+
+1248
+01:10:12,720 --> 01:10:13,720
+Donc bonne soirée à tous.
+
+1249
+01:10:13,720 --> 01:10:17,720
+Merci encore pour l'accueil, Rémi, Jean-Marc.
+
+1250
+01:10:17,720 --> 01:10:18,720
+Très cool.
+
+1251
+01:10:18,720 --> 01:10:20,720
+Et puis à tout le monde aussi.
+
+1252
+01:10:20,720 --> 01:10:22,720
+Et hâte de vous revoir.
+
+1253
+01:10:22,720 --> 01:10:23,720
+Allez, ciao.
+
+1254
+01:10:23,720 --> 01:10:24,720
+Bye.

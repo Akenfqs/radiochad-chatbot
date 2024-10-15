@@ -1,0 +1,7171 @@
+1
+00:04:00,000 --> 00:04:08,760
+Salut à tous, bienvenue sur Réduchat, on est le mardi 21 novembre 2023 et ce soir c'est une soirée
+
+2
+00:04:08,760 --> 00:04:17,040
+spéciale intelligence artificielle comme absolument tous les mardis depuis 1675. Donc pour ce faire,
+
+3
+00:04:17,040 --> 00:04:23,680
+ce soir j'ai accompagné de Geek qui est en retard sur la technologie. Comment ça va Geek?
+
+4
+00:04:23,680 --> 00:04:34,480
+Est-ce que tu m'entends? Hello, salut ça va? Ça va, il s'est déplacé, il y a eu beaucoup
+
+5
+00:04:34,480 --> 00:04:39,880
+beaucoup de dramas à la fin du jour mais avant qu'on aborde tout ça, je voudrais faire juste
+
+6
+00:04:39,880 --> 00:04:47,400
+un rapide inventaire des trucs qui vont arriver. Demain il y a une grosse émission avec la BBS et
+
+7
+00:04:47,400 --> 00:04:54,640
+on va faire une annonce par rapport à l'émission. Et puis il va y avoir deux émissions consacrées à
+
+8
+00:04:54,640 --> 00:05:00,600
+l'Argentine. Il y en a une qui sera le jeudi soir, donc après-demain, où on va parler de l'Argentine
+
+9
+00:05:00,600 --> 00:05:07,240
+avec Vincent, donc prisme géopolitique, géoéconomique, donc hyper neutre. On va juste parler du pays,
+
+10
+00:05:07,240 --> 00:05:14,720
+de c'est quoi son histoire, c'est quoi son rapport avec le monde sur le point économique,
+
+11
+00:05:14,720 --> 00:05:22,600
+politique, etc. On va essayer de parler de l'Argentine de manière la plus informative
+
+12
+00:05:22,600 --> 00:05:28,280
+possible pour donner des clés de compréhension de ce qui se passe aujourd'hui. Et puis ensuite,
+
+13
+00:05:28,280 --> 00:05:32,680
+dimanche, on va faire une émission beaucoup moins neutre, on va parler de libertarianisme et on va
+
+14
+00:05:32,680 --> 00:05:37,600
+parler de Millet, Javier Millet, qui est le nouveau président de l'Argentine. On va discuter, on va
+
+15
+00:05:37,600 --> 00:05:45,960
+essayer de savoir si c'est un bon gars ou pas. Donc voilà, ça va être le truc en deux temps. J'ai
+
+16
+00:05:45,960 --> 00:05:51,600
+des ondes de téléphone dans l'oreille, je sais pas, c'est pas super ouf. Voilà, donc c'est le
+
+17
+00:05:51,600 --> 00:05:55,800
+programme de la semaine. Vendredi, c'est open. Alors du coup, je sais pas si... Moi, j'aimerais
+
+18
+00:05:55,800 --> 00:05:58,920
+bien parler de Binance parce que c'est quand même le sujet chaud, mais vendredi, ça sera peut-être
+
+19
+00:05:58,920 --> 00:06:04,840
+même un petit peu tard. Alors je sais pas si... Je vais sonder autour de moi pour savoir si ça
+
+20
+00:06:04,840 --> 00:06:10,000
+intéresse des gens de faire une émission sur Binance vendredi. Sinon, on verra. Je sais pas trop,
+
+21
+00:06:10,000 --> 00:06:14,160
+j'ai pas trop prévu de trucs. Et puis, il y a encore plein de trucs qui vont arriver la semaine
+
+22
+00:06:14,160 --> 00:06:19,200
+prochaine et puis dans les semaines à venir. Et il y a quelque chose, je sais pas si vous avez vu,
+
+23
+00:06:19,200 --> 00:06:27,400
+parce que j'ai eu très peu d'engagement sur ce poste. Alors je me permets d'en parler. Il y a
+
+24
+00:06:27,400 --> 00:06:34,600
+le Chat Battle numéro 2, donc la deuxième édition du Chat Battle qui aura lieu le 27 janvier.
+
+25
+00:06:35,360 --> 00:06:43,720
+Pendant le Crypto Auxerre, donc c'est Auxerre en France. Et puis, on m'a proposé d'y aller. On m'a
+
+26
+00:06:43,720 --> 00:06:50,240
+même alloué un studio télé pendant trois heures. Donc j'y vais. J'y vais et je vais vous proposer
+
+27
+00:06:50,240 --> 00:06:55,240
+un jeu IRL. Donc si vous êtes dans les parages pendant cette date-là, venez parce que ça va être
+
+28
+00:06:55,240 --> 00:07:00,400
+super cool. On va faire... On est en train de préparer ça. Il va y avoir des news dans les
+
+29
+00:07:00,400 --> 00:07:06,960
+jours qui arrivent sur le programme de ce truc-là et tout. Ça va être un super cool moment. Voilà,
+
+30
+00:07:06,960 --> 00:07:13,440
+donc restez connectés. Essayez de... Vous pouvez suivre aussi le compte Chat Battle que j'ai,
+
+31
+00:07:13,440 --> 00:07:20,640
+comment dire, quote aujourd'hui, que j'ai cité. Voilà, voilà. C'est à peu près tout ce que j'avais
+
+32
+00:07:20,640 --> 00:07:28,400
+à dire pour les news par rapport à l'émission. Et ouais, donc l'IA, on retourne sur l'IA. Alors
+
+33
+00:07:28,400 --> 00:07:32,200
+c'est marrant parce qu'il n'y a pas... Jusqu'à maintenant, on avait parlé tech, tech, tech,
+
+34
+00:07:32,200 --> 00:07:36,280
+outil, outil, outil. Mais il n'y avait jamais eu vraiment de drama. Et là, c'est le premier...
+
+35
+00:07:36,280 --> 00:07:42,640
+De ce que je me souviens, c'est vraiment le premier drama dans le domaine, quoi. Il n'y avait pas trop...
+
+36
+00:07:42,640 --> 00:07:50,640
+Il y a eu le drama quand même sur la pétition où ils s'étaient tous mis... On s'est dit,
+
+37
+00:07:50,640 --> 00:07:57,320
+on arrête l'IA pour six mois. Oui, c'est vrai. Bon, c'était super marrant. Là aussi,
+
+38
+00:07:57,320 --> 00:08:05,040
+c'est super marrant parce qu'au final... Alors toi, tu as peut-être un réseau qui sait ce qui
+
+39
+00:08:05,040 --> 00:08:13,600
+s'est réellement passé. Alors non. Mais non, mais il y a des rumeurs. Il y a juste de la spéculation.
+
+40
+00:08:13,600 --> 00:08:20,160
+Personne ne sait vraiment. Mais justement, c'est le point... Alors si tu veux, je peux faire un petit
+
+41
+00:08:20,160 --> 00:08:25,680
+résumé parce que j'ai vu toutes sortes de résumés de la situation, mais celui qui était le plus
+
+42
+00:08:25,680 --> 00:08:32,680
+complet, d'après moi, c'est Barcy qui l'a fait. Alors je vais vous faire le... Je vais vous faire le...
+
+43
+00:08:32,680 --> 00:08:43,200
+Attendez, je reviens au début. Alors voilà, je vais vous faire l'historique. Ça a commencé vendredi
+
+44
+00:08:43,200 --> 00:08:50,360
+dernier. Vendredi dernier, il y a Sam Altman qui se fait virer du... Alors comment on dit le board,
+
+45
+00:08:50,520 --> 00:08:55,720
+d'ailleurs? Le board en anglais, c'est quoi en français? C'est pas le tableau, évidemment.
+
+46
+00:08:55,720 --> 00:09:08,360
+C'est le comité exécutif. Non, c'est même pas le comité exécutif. C'est le comité. Non, je ne saurais pas dire en français.
+
+47
+00:09:08,360 --> 00:09:16,240
+On va dire qu'il se fait virer des gens qui décident. Voilà. Il se fait virer. Et niveau...
+
+48
+00:09:16,240 --> 00:09:24,440
+C'est censé être le main caractère de cette histoire. Donc il se fait virer. Ce qu'il faut savoir, alors ce qui est marrant,
+
+49
+00:09:24,440 --> 00:09:31,440
+c'est que le mec qui a fait le résumé de la situation que je suis en train de vous traduire, il a posté une image
+
+50
+00:09:31,440 --> 00:09:39,440
+que je trouve super intéressante. C'est combien de temps ça prend pour une application pour atteindre 100 millions
+
+51
+00:09:39,440 --> 00:09:49,440
+d'utilisateurs mensuels? Alors je vais vous le faire en interlude de début de démonstration.
+
+52
+00:09:49,440 --> 00:09:57,440
+Google Translate, ça a pris 78 mois pour avoir 100 millions d'utilisateurs mensuels. Uber...
+
+53
+00:09:57,440 --> 00:10:02,440
+On l'a déjà vu un milliard de fois, ce truc-là. Ah bon? Bah oui. Bah toi, tu l'as vu.
+
+54
+00:10:02,440 --> 00:10:10,440
+C'est parce que je l'utilise tous les jours. Et là, ça a mis une semaine. Ah moi j'ai deux mois.
+
+55
+00:10:10,440 --> 00:10:20,440
+Ah pour combien? Pour 100 millions? Ouais. Non, ça a mis une semaine. Justement.
+
+56
+00:10:20,440 --> 00:10:26,440
+Bon bah tu m'as cassé mon truc. Pardon. J'avais un build-up.
+
+57
+00:10:26,440 --> 00:10:33,440
+Vas-y sur les stories, c'était bien parti. Ok d'accord, ça marche.
+
+58
+00:10:33,440 --> 00:10:49,440
+Donc étape numéro 2. Sam se fait virer. Ensuite, ce qui se passe, c'est que qui a pris la décision de virer Sam?
+
+59
+00:10:49,440 --> 00:10:55,440
+Alors apparemment, selon Forbes, c'était Adam D'Angelo, le mec qui est actuellement le CEO de Cora,
+
+60
+00:10:55,440 --> 00:11:05,440
+Ellen Tonnerre, Tasha McCauley et Ilia Sutskever, le mec qui a co-found OpenAI avec Sam.
+
+61
+00:11:05,440 --> 00:11:20,440
+Donc ensuite, ils ont approché les types d'entropiques et ils leur ont proposé un merge. Et Entropique a refusé.
+
+62
+00:11:20,440 --> 00:11:25,440
+Tu m'étonnes. Tu me diras après pourquoi.
+
+63
+00:11:25,440 --> 00:11:36,440
+Entrepique qui sont déjà avec Amazon. Ce serait bizarre que Amazon ait mis 400 millions. Ils ont pas mis beaucoup au début.
+
+64
+00:11:36,440 --> 00:11:47,440
+Mais ils sont déjà un peu maqués avec Amazon. C'est pas pour aller dans une boîte qui est déjà maquée avec Microsoft.
+
+65
+00:11:48,440 --> 00:11:58,440
+C'est bizarre que ça intervienne là, en plein milieu du truc. Sam se fait virer tout de suite derrière la proposition. C'est un peu chelou.
+
+66
+00:11:58,440 --> 00:12:05,440
+Je pense que les mecs de Gingface ne sont pas dispo parce qu'ils ont levé beaucoup plus.
+
+67
+00:12:05,440 --> 00:12:12,440
+Les mecs d'Entropique, les mecs de Meta, c'est mort. Les mecs de Google, c'est mort. Les mecs de Microsoft, c'est mort.
+
+68
+00:12:12,440 --> 00:12:17,440
+Donc ils vont être obligés de trouver des personnes qui ne sont pas forcément...
+
+69
+00:12:17,440 --> 00:12:28,440
+Mais t'imagines, ils virent leur CEO. Ils ont toujours pas un CEO de remplacement et ils font une proposition de merge avec Entropique. C'est délirant.
+
+70
+00:12:28,440 --> 00:12:30,440
+C'est trop bizarre.
+
+71
+00:12:30,440 --> 00:12:32,440
+J'ai une question. Bonsoir messieurs.
+
+72
+00:12:32,440 --> 00:12:33,440
+Salut Superman.
+
+73
+00:12:33,440 --> 00:12:38,440
+Est-ce que vous connaissez la raison du renvoi? Parce qu'on ne peut pas virer un co-founder aussi facilement, non?
+
+74
+00:12:38,440 --> 00:12:50,440
+Non. Sur mensonge. Et mensonge pour moi, c'est peut-être lié justement aux sets de data qui ont permis d'entraîner GPT-4.
+
+75
+00:12:50,440 --> 00:13:04,440
+C'est ce qui paraît le plus probable. Parce que du coup, ça met vraiment... Même si ça met finalement en péril OpenAI, ça peut les mettre en difficulté.
+
+76
+00:13:04,440 --> 00:13:15,440
+En plus, il vient d'annoncer il y a deux semaines que s'il y avait des poursuites par rapport à toutes les personnes qui utilisent OpenAI, ce sera pris en compte par OpenAI.
+
+77
+00:13:15,440 --> 00:13:28,440
+Donc s'ils arrivent à contre-attaquer en disant, vous avez utilisé des sets de données qui n'étaient pas conformes, ou en tout cas que vous avez scrapé, que vous avez volé finalement,
+
+78
+00:13:28,440 --> 00:13:35,440
+ou en tout cas qui n'étaient pas autorisés, ça peut mettre le bronx.
+
+79
+00:13:35,440 --> 00:13:39,440
+Alors, je finis ma timeline.
+
+80
+00:13:39,440 --> 00:13:47,440
+Donc, Sam se fait virer. OpenAI fait une approche anthropique pour proposer un merge.
+
+81
+00:13:47,440 --> 00:13:56,440
+Après ça, c'est Emmet Sheer, qui était le CEO de Twitch, qui est déclaré comme nouveau CEO d'OpenAI.
+
+82
+00:13:57,440 --> 00:14:08,440
+A savoir que lui, ce type-là, il a plein de shares, plein de parts d'entropique.
+
+83
+00:14:08,440 --> 00:14:10,440
+Ah, d'entropique?
+
+84
+00:14:10,440 --> 00:14:11,440
+Ouais.
+
+85
+00:14:16,440 --> 00:14:18,440
+Ah, intéressant!
+
+86
+00:14:18,440 --> 00:14:22,440
+Et donc lui, il dit, je vais essayer de vous avoir un merger.
+
+87
+00:14:23,440 --> 00:14:33,440
+Ensuite, les employés, il y avait un all-end, une réunion de toutes les équipes, etc.
+
+88
+00:14:33,440 --> 00:14:40,440
+Et les employés de OpenAI, ils ont dit, non, on ne veut pas. On ne veut pas être dirigé par ce nouveau CEO.
+
+89
+00:14:40,440 --> 00:14:46,440
+Donc après ça, après cet événement-là, il y a Microsoft qui ont engagé Sam Altman.
+
+90
+00:14:47,440 --> 00:14:54,440
+Donc, Sam et Greg Brockman, ils rejoignent Microsoft.
+
+91
+00:14:56,440 --> 00:15:02,440
+Et ensuite, après ça, alors attendez, parce que je lis en même temps.
+
+92
+00:15:05,440 --> 00:15:11,440
+Moi, j'ai carrément vu les employés d'OpenAI poser un ultimatum.
+
+93
+00:15:11,440 --> 00:15:14,440
+Ils ont dit, on quitte la boîte si vous ne réintégrez pas Sam Altman, non?
+
+94
+00:15:14,440 --> 00:15:16,440
+Ouais, ça c'est après.
+
+95
+00:15:16,440 --> 00:15:18,440
+Ah, il est en train de vous faire l'histoire là.
+
+96
+00:15:18,440 --> 00:15:20,440
+Ouais, c'est ça.
+
+97
+00:15:23,440 --> 00:15:25,440
+Alors apparemment, voilà, c'est ça.
+
+98
+00:15:25,440 --> 00:15:31,440
+Juste après cette histoire-là, donc il refuse d'aller au call, etc.
+
+99
+00:15:31,440 --> 00:15:37,440
+Apparemment, il y a des employés qui ont dit, qui ont laissé fuiter, mais on ne sait pas si c'est vrai ou pas.
+
+100
+00:15:37,440 --> 00:15:40,440
+On ne sait pas ce qu'ils pensent ou ce qu'ils savent.
+
+101
+00:15:40,440 --> 00:15:47,440
+Mais ils disent que l'explication, c'était que Sam Altman avait donné le même projet à deux personnes différentes.
+
+102
+00:15:47,440 --> 00:15:50,440
+On ne sait pas qui sont ces personnes, on ne sait pas c'est quoi le projet.
+
+103
+00:15:50,440 --> 00:15:52,440
+Donc voilà.
+
+104
+00:15:52,440 --> 00:16:00,440
+Aussi, il y a une autre information qui dit que Sam Altman aurait donné à deux membres du conseil d'administration.
+
+105
+00:16:00,440 --> 00:16:04,440
+Alors merci, Rikou, pour la précision, parce que c'était conseil d'administration pour le board.
+
+106
+00:16:05,440 --> 00:16:10,440
+Des opinions différentes à propos d'autres personnes.
+
+107
+00:16:10,440 --> 00:16:16,440
+Enfin, en gros, cette histoire de se faire virer de ça, c'était des querelles internes.
+
+108
+00:16:16,440 --> 00:16:23,440
+Rien à voir avec le produit, rien à voir avec toutes les spéculations qu'on a tous, genre par rapport à des trucs.
+
+109
+00:16:23,440 --> 00:16:26,440
+Genre à l'évolution des produits de OpenAI.
+
+110
+00:16:26,440 --> 00:16:32,440
+Toutes les fuites, c'est genre, ah oui, c'est un tel qui a dit un tel sur quelque chose, sur un tel, etc.
+
+111
+00:16:32,440 --> 00:16:34,440
+Ouais, bien sûr, ouais.
+
+112
+00:16:34,440 --> 00:16:36,440
+Non, mais on va les croire.
+
+113
+00:16:36,440 --> 00:16:39,440
+Une histoire d'attouchement sur sa sœur, c'est une fake news?
+
+114
+00:16:39,440 --> 00:16:41,440
+What?
+
+115
+00:16:41,440 --> 00:16:43,440
+C'est vrai, il y a vraiment eu ça?
+
+116
+00:16:43,440 --> 00:16:50,440
+Oui, j'ai entendu ça avec des tweets, soit disant qu'il aurait fait des attouchements sexuels sur sa sœur et que ça pouvait entacher l'image de la boîte.
+
+117
+00:16:50,440 --> 00:16:53,440
+Ah ouais, non, ça je n'ai même pas vu.
+
+118
+00:16:53,440 --> 00:16:55,440
+Ah d'accord.
+
+119
+00:16:55,440 --> 00:16:56,440
+Bon, bah c'est bon.
+
+120
+00:16:56,440 --> 00:17:05,440
+Alors du coup, juste après ça, il y a eu plein de rumeurs, ça partait dans tous les sens, genre tout ça, pourquoi, etc.
+
+121
+00:17:05,440 --> 00:17:10,440
+Il y a 95% des employés de la compagnie qui ont menacé de partir.
+
+122
+00:17:10,440 --> 00:17:17,440
+Et ils ont fait, ah oui, ils ont proposé de rejoindre Microsoft.
+
+123
+00:17:17,440 --> 00:17:19,440
+C'est trop drôle.
+
+124
+00:17:20,440 --> 00:17:31,440
+Ensuite, après ça, il y a eu la perte de valuation parce que c'est sûr qu'en bourse, c'est même pas en boursier,
+
+125
+00:17:31,440 --> 00:17:36,440
+Secondary share sales, je n'ai même pas suivi cette histoire.
+
+126
+00:17:36,440 --> 00:17:39,440
+Je crois que Microsoft, ils ont pris 3 ou 4% en plus.
+
+127
+00:17:39,440 --> 00:17:42,440
+Ah ouais, du coup, ouais.
+
+128
+00:17:43,440 --> 00:17:44,440
+Alors c'est ça.
+
+129
+00:17:44,440 --> 00:17:51,440
+Après, il y a, donc un des membres du conseil d'administration, qui est en plus un mec qui a été défendu par Elon Musk,
+
+130
+00:17:51,440 --> 00:17:57,440
+qui disait que c'était quelqu'un sur qui on pouvait compter, etc.
+
+131
+00:17:57,440 --> 00:18:02,440
+Il a regretté sa participation au fait de virer Sam Altman.
+
+132
+00:18:02,440 --> 00:18:09,440
+Et il est revenu sur ses paroles, il a dit, genre en fait, j'aimerais bien qu'il reste quand même à OpenAI.
+
+133
+00:18:10,440 --> 00:18:18,440
+Et donc là, justement, Elon Musk, après ça, demande à OpenAI de révéler pourquoi Sam Altman a été viré.
+
+134
+00:18:18,440 --> 00:18:26,440
+Donc là, Sam Altman, il propose de rejoindre, revenir dans OpenAI.
+
+135
+00:18:26,440 --> 00:18:30,440
+On ne sait pas trop d'ailleurs où s'en venait cette histoire-là.
+
+136
+00:18:32,440 --> 00:18:37,440
+Et ensuite, après ça, c'est tout.
+
+137
+00:18:37,440 --> 00:18:39,440
+Après ça, c'est tout. C'est tout ce que j'ai.
+
+138
+00:18:39,440 --> 00:18:41,440
+Je crois qu'on en a un en fait dans l'histoire.
+
+139
+00:18:41,440 --> 00:18:43,440
+C'est que lui, il propose de revenir dans...
+
+140
+00:18:43,440 --> 00:18:45,440
+Attends, il n'y avait pas encore un autre truc là?
+
+141
+00:18:45,440 --> 00:18:47,440
+Genre, un truc qui arrivait aujourd'hui?
+
+142
+00:18:49,440 --> 00:18:51,440
+Bonsoir Chad, bonsoir tout le monde.
+
+143
+00:18:51,440 --> 00:18:58,440
+Je crois qu'aux dernières nouvelles de ce que j'ai lu, il ne va pas retourner chez OpenAI.
+
+144
+00:18:58,440 --> 00:19:00,440
+Moi aussi, il reste chez Microsoft.
+
+145
+00:19:00,440 --> 00:19:04,440
+Ah ouais, il y a le patron de Microsoft qui lui a ouvert les bras.
+
+146
+00:19:04,440 --> 00:19:06,440
+Ah non, c'est ça.
+
+147
+00:19:07,440 --> 00:19:14,440
+Non, c'était écrit, j'ai vu partout que c'était écrit qu'il était intéressé de revenir dans OpenAI.
+
+148
+00:19:14,440 --> 00:19:21,440
+Mais là, le truc qui est arrivé à 3 heures, c'est que le nouveau CEO, donc Ahmed Shih,
+
+149
+00:19:21,440 --> 00:19:29,440
+il a dit qu'il allait quitter OpenAI si le conseil d'administration ne donnait pas la raison exacte de pourquoi ils ont viré Sam.
+
+150
+00:19:31,440 --> 00:19:34,440
+Voilà, c'est ça l'histoire. C'est ça le dernier truc d'aujourd'hui.
+
+151
+00:19:34,440 --> 00:19:36,440
+C'est Dallas quoi le bordel.
+
+152
+00:19:36,440 --> 00:19:41,440
+Ouais, c'est ça. Ça ne nous manquait pas franchement, avec tout ce qui se passe à gauche à droite.
+
+153
+00:19:43,440 --> 00:19:46,440
+Est-ce que Bill Gates ne serait pas le G.I.R. Wing de cette série?
+
+154
+00:19:48,440 --> 00:19:55,440
+Moi je pense que les G.I. sont déjà là et c'est l'IA qui l'a viré.
+
+155
+00:19:57,440 --> 00:19:59,440
+Mais tu sais quoi? Ça a été ma première idée.
+
+156
+00:20:00,440 --> 00:20:03,440
+Moi je pensais que c'était un genre de happening.
+
+157
+00:20:04,440 --> 00:20:07,440
+C'est la blague d'internet en ce moment.
+
+158
+00:20:08,440 --> 00:20:13,440
+Ça tourne, c'est la blague de dire qu'en fait il s'est fait dépasser par l'IA et qu'il s'est fait virer par l'IA.
+
+159
+00:20:17,440 --> 00:20:23,440
+Moi je pensais que c'était une méthode pour lui de prouver un point du genre,
+
+160
+00:20:23,440 --> 00:20:25,440
+et c'est pour ça que j'ai mis son titre en vrai,
+
+161
+00:20:25,440 --> 00:20:30,440
+je me suis dit que ça se trouve ils ont atteint la G.I. et lui voulait prouver qu'il l'avait.
+
+162
+00:20:30,440 --> 00:20:35,440
+Donc il s'est dit je vais le foutre en CEO de OpenAI et on va voir ce qu'il va se passer.
+
+163
+00:20:35,440 --> 00:20:38,440
+Et donc le seul moyen de faire ça c'était qu'il parte.
+
+164
+00:20:38,440 --> 00:20:43,440
+Et je me suis dit ils ont créé un truc un peu chelou pour organiser ce truc là,
+
+165
+00:20:43,440 --> 00:20:46,440
+pour mettre quelqu'un qui serait en fait une I.A.
+
+166
+00:20:47,440 --> 00:20:48,440
+Il faut que tu te reposes.
+
+167
+00:20:48,440 --> 00:20:49,440
+Je suis parti un peu loin.
+
+168
+00:20:51,440 --> 00:20:53,440
+Moi je suis déjà dépassé, c'est quoi la G.I.?
+
+169
+00:20:54,440 --> 00:20:57,440
+La G.I. c'est l'intelligence artificielle générale.
+
+170
+00:20:59,440 --> 00:21:01,440
+C'est celle qu'on attend en fait.
+
+171
+00:21:01,440 --> 00:21:03,440
+C'est Skynet.
+
+172
+00:21:05,440 --> 00:21:10,440
+Qui sera capable d'avoir des sentiments, qui sera capable d'être complètement autonome,
+
+173
+00:21:10,440 --> 00:21:13,440
+et d'avoir des objectifs.
+
+174
+00:21:16,440 --> 00:21:19,440
+On sera arrivé à la singularité.
+
+175
+00:21:20,440 --> 00:21:26,440
+Ça va être extrêmement préjudiciable pour OpenAI et pour Chatsjipiti.
+
+176
+00:21:27,440 --> 00:21:29,440
+Ça va être très très préjudiciable.
+
+177
+00:21:29,440 --> 00:21:31,440
+De quoi toutes ces histoires?
+
+178
+00:21:31,440 --> 00:21:33,440
+Oui, tout ce drama là.
+
+179
+00:21:34,440 --> 00:21:39,440
+Surtout si les ingénieurs, s'il y a beaucoup d'ingé qui apparemment j'ai entendu 90%
+
+180
+00:21:39,440 --> 00:21:42,440
+qui sont prêts à rejoindre Sam Altman.
+
+181
+00:21:44,440 --> 00:21:46,440
+Alors attendez, je ne vous ai pas tout dit.
+
+182
+00:21:46,440 --> 00:21:49,440
+Alors j'en profite pour dire bonjour à tous ceux qui sont là.
+
+183
+00:21:52,440 --> 00:21:58,440
+Pendant tout ce drama, il y a Meta qui ont, dans le plus grand des silences,
+
+184
+00:21:58,440 --> 00:22:04,440
+qui ont viré toute leur team du pôle responsable AI team.
+
+185
+00:22:05,440 --> 00:22:12,440
+Toute la team qui était en charge de veiller au côté éthique de l'IA,
+
+186
+00:22:13,440 --> 00:22:16,440
+développée par Meta, ils se sont fait tous virer.
+
+187
+00:22:18,440 --> 00:22:20,440
+Voilà, je voulais le dire.
+
+188
+00:22:21,440 --> 00:22:25,440
+Il n'y a plus d'éthique chez Meta. C'est bon, c'est réglé.
+
+189
+00:22:26,440 --> 00:22:31,440
+Alors ils ont fait un communiqué apparemment pour dire qu'ils allaient quand même continuer
+
+190
+00:22:31,440 --> 00:22:36,440
+à veiller à ce que leur IA soit responsable et en sécurité,
+
+191
+00:22:36,440 --> 00:22:39,440
+mais que la team qui s'occupe de ça n'existe plus.
+
+192
+00:22:40,440 --> 00:22:42,440
+Ils l'ont remplacé aussi par une IA.
+
+193
+00:22:43,440 --> 00:22:51,440
+En plus, ce ne serait pas étonnant que ce soit plutôt une IA qui vérifie l'éthique des autres IA.
+
+194
+00:22:52,440 --> 00:22:57,440
+Les audits d'IA etc. ce sera fait forcément par d'autres IA.
+
+195
+00:22:57,440 --> 00:22:59,440
+C'est impossible que ce soit fait par un humain.
+
+196
+00:23:00,440 --> 00:23:01,440
+Ça ira beaucoup trop vite.
+
+197
+00:23:03,440 --> 00:23:04,440
+C'est chaud quand même.
+
+198
+00:23:04,440 --> 00:23:06,440
+C'est chaud et pas chaud.
+
+199
+00:23:10,440 --> 00:23:18,440
+Aujourd'hui, je pense qu'il y a vraiment beaucoup plus à apporter que l'humain
+
+200
+00:23:20,440 --> 00:23:22,440
+et nous aider vraiment à redevenir...
+
+201
+00:23:23,440 --> 00:23:30,440
+Je n'arrive pas à trouver aujourd'hui un endroit ou une histoire qui se passe dans le monde
+
+202
+00:23:30,440 --> 00:23:33,440
+où on peut se dire franchement l'humain est formidable.
+
+203
+00:23:35,440 --> 00:23:47,440
+C'est plutôt le contraire parce qu'on a perdu notre valeur, l'humanité complètement.
+
+204
+00:23:48,440 --> 00:23:51,440
+Quand on voit tout ce qui se passe et encore plus sur les événements actuels.
+
+205
+00:23:52,440 --> 00:23:55,440
+Mais bon, ça fait à peu près quatre ans, toutes les semaines, qu'on est en train de se dire ça.
+
+206
+00:23:56,440 --> 00:23:57,440
+Il faudrait qu'on réécoute un peu tout ça.
+
+207
+00:23:57,440 --> 00:24:02,440
+Et peut-être qu'elle va nous aider à retrouver un sens en tout cas.
+
+208
+00:24:03,440 --> 00:24:11,440
+Puisqu'on a pris les personnes et on a essayé d'en faire des robots depuis 200 ans sur l'art industriel.
+
+209
+00:24:12,440 --> 00:24:14,440
+Maintenant, il va falloir remettre les hommes à leur place.
+
+210
+00:24:15,440 --> 00:24:21,440
+Puisque les IA vont reprendre ce côté un peu automatisation etc.
+
+211
+00:24:21,440 --> 00:24:26,440
+À faire des choses qui n'ont aucune valeur ajoutée finalement, en tout cas pour l'homme.
+
+212
+00:24:27,440 --> 00:24:31,440
+Et que les hommes se reconcentrent un peu sur pourquoi ils sont sur terre.
+
+213
+00:24:33,440 --> 00:24:35,440
+Il y a Bonda qui voulait prendre la parole.
+
+214
+00:24:36,440 --> 00:24:37,440
+Salut Bonda, ça va?
+
+215
+00:24:38,440 --> 00:24:41,440
+Salut Malou, ça va.
+
+216
+00:24:42,440 --> 00:24:46,440
+Je voulais juste en tirer un petit peu sur ce que vous avez dit.
+
+217
+00:24:46,440 --> 00:24:48,440
+Ça va, ça va.
+
+218
+00:24:49,440 --> 00:24:54,440
+Je voulais juste intervenir par rapport à la question que l'on se posait.
+
+219
+00:24:55,440 --> 00:24:57,440
+Qu'est-ce que la G.I.?
+
+220
+00:24:58,440 --> 00:25:01,440
+Effectivement, l'intelligence artificielle dit générale.
+
+221
+00:25:02,440 --> 00:25:07,440
+C'est-à-dire qu'un petit peu c'est comme un cerveau automatisé.
+
+222
+00:25:08,440 --> 00:25:10,440
+C'est un peu sur le modèle d'un cerveau humain.
+
+223
+00:25:11,440 --> 00:25:16,440
+Mais qui serait bien sûr électronique en force de computing.
+
+224
+00:25:17,440 --> 00:25:24,440
+Et ça équivaut à être aussi intelligent qu'un cerveau humain.
+
+225
+00:25:25,440 --> 00:25:27,440
+Et voir bien sûr à le surpasser.
+
+226
+00:25:28,440 --> 00:25:38,440
+Et voilà, tu rappelais à fort propos que la science de l'intelligence artificielle
+
+227
+00:25:39,440 --> 00:25:46,440
+dont on entend parler, quasiment en 24-24, je suis à vous, est ancienne.
+
+228
+00:25:47,440 --> 00:25:52,440
+Ça fait des décennies que les chercheurs y travaillent.
+
+229
+00:25:53,440 --> 00:25:56,440
+Mais là, on a eu un game changer un peu.
+
+230
+00:25:57,440 --> 00:25:58,440
+On a eu un changement de niveau.
+
+231
+00:25:59,440 --> 00:26:01,440
+Et je vous rejoins sur le drama.
+
+232
+00:26:02,440 --> 00:26:03,440
+Le drama qui est complètement exceptionnel.
+
+233
+00:26:04,440 --> 00:26:06,440
+C'est du jamais vu, je pense.
+
+234
+00:26:07,440 --> 00:26:11,440
+Surtout qu'en plus, tout se passe par les Twitter et tout.
+
+235
+00:26:12,440 --> 00:26:17,440
+Et on voit bien qu'il y a des gens qui se posent des questions.
+
+236
+00:26:18,440 --> 00:26:19,440
+C'est pas du tout transparent.
+
+237
+00:26:20,440 --> 00:26:22,440
+Mais on voit aussi le lead, la force du lead et la force du cascade humain.
+
+238
+00:26:23,440 --> 00:26:24,440
+C'est surtout ça.
+
+239
+00:26:25,440 --> 00:26:26,440
+C'est celui qui suit ça.
+
+240
+00:26:27,440 --> 00:26:30,440
+Et les gars, ils ont quand même fait une lettre ouverte en disant je bouge.
+
+241
+00:26:31,440 --> 00:26:32,440
+Si il bouge, je bouge.
+
+242
+00:26:33,440 --> 00:26:40,440
+C'est surtout la fragilité de la structure de la chaîne humaine qui est censée gérer ce truc-là.
+
+243
+00:26:41,440 --> 00:26:46,440
+Et en fait, leur bureau, c'est le conseil d'administration.
+
+244
+00:26:47,440 --> 00:26:52,440
+Au début, ils ont essayé de nous faire croire que c'est parce qu'il y avait un côté recherche
+
+245
+00:26:53,440 --> 00:26:55,440
+en mode assaut à loin de 1901.
+
+246
+00:26:55,440 --> 00:26:57,440
+C'est-à-dire que t'as pas de profit.
+
+247
+00:26:58,440 --> 00:27:01,440
+Versus Sam Altman, le gros méchant qui fait du profit.
+
+248
+00:27:02,440 --> 00:27:09,440
+Mais attendez les mecs, tu crois que tu fais tourner les cerveaux computing comme ça?
+
+249
+00:27:10,440 --> 00:27:11,440
+Il faut une masse de calculs.
+
+250
+00:27:12,440 --> 00:27:16,440
+Il faut une masse de travail d'ordinateur qui n'a jamais été, ne serait-ce que conçu.
+
+251
+00:27:17,440 --> 00:27:22,440
+Justement, tout à l'heure, on parlait de la G.I.
+
+252
+00:27:22,440 --> 00:27:36,440
+Et toi, tu disais, Geek, que le plus logique, ce serait une IA qui fasse l'audit des autres IA.
+
+253
+00:27:37,440 --> 00:27:41,440
+Admettons, je sais pas si c'est toi qui avais mentionné ça à un moment donné,
+
+254
+00:27:42,440 --> 00:27:48,440
+où ils avaient fait discuter deux IA entre elles et qu'elles avaient commencé à converser
+
+255
+00:27:48,440 --> 00:27:52,440
+dans un langage qui n'était pas préconisable par l'humain.
+
+256
+00:27:53,440 --> 00:27:55,440
+C'est pas un risque, ça?
+
+257
+00:27:56,440 --> 00:27:58,440
+Ça va forcément arriver.
+
+258
+00:27:59,440 --> 00:28:00,440
+C'est déjà le cas, d'ailleurs.
+
+259
+00:28:01,440 --> 00:28:04,440
+La force des LLM, c'est que ça parle notre langue.
+
+260
+00:28:05,440 --> 00:28:12,440
+Mais au final, je sais pas, quand tu travailles sur les voitures,
+
+261
+00:28:13,440 --> 00:28:17,440
+tu peux faire transformer un réseau CAN avec un autre langage.
+
+262
+00:28:18,440 --> 00:28:20,440
+Mais les réseaux électroniques, enfin digitaux,
+
+263
+00:28:21,440 --> 00:28:24,440
+il y a certains humains qui sont capables de les comprendre,
+
+264
+00:28:25,440 --> 00:28:28,440
+et qui les transforment en autre chose,
+
+265
+00:28:29,440 --> 00:28:36,440
+de toute façon, je pense que sa façon la plus optimisée de collaborer entre deux IA,
+
+266
+00:28:37,440 --> 00:28:39,440
+c'est certainement pas le français ou l'anglais,
+
+267
+00:28:40,440 --> 00:28:44,440
+mais ce sera plutôt un langage compressé, déjà,
+
+268
+00:28:44,440 --> 00:28:52,440
+et qui, en termes de sécurité et en termes juste de latence,
+
+269
+00:28:53,440 --> 00:28:57,440
+pourquoi ils perdraient du temps avec des mots, en fait?
+
+270
+00:28:58,440 --> 00:29:00,440
+Avec des espaces, en plus, entre les mots, t'imagines?
+
+271
+00:29:01,440 --> 00:29:03,440
+Ça en fait des octets, ça en fait des tokens.
+
+272
+00:29:06,440 --> 00:29:10,440
+Et quand l'IA devra payer ses propres tokens comme un grand?
+
+273
+00:29:15,440 --> 00:29:18,440
+Je me permets d'intervenir juste deux secondes,
+
+274
+00:29:19,440 --> 00:29:21,440
+pendant que vous parliez, je regardais un petit peu l'actu,
+
+275
+00:29:22,440 --> 00:29:25,440
+je regardais un article de Numérama qui date de 6 minutes,
+
+276
+00:29:26,440 --> 00:29:29,440
+le nouveau patron d'OpenAI pourrait déjà quitter OpenAI.
+
+277
+00:29:31,440 --> 00:29:38,440
+Ouais, c'est ça, il a dit qu'il quitte si le board ne donne pas la raison de pourquoi ils ont viré ça.
+
+278
+00:29:39,440 --> 00:29:45,440
+D'accord. Vous croyez qu'ils utilisent ChatGPT pour leur marketing ou pas?
+
+279
+00:29:46,440 --> 00:29:50,440
+Parce que franchement, moi je ferais le directeur marketing,
+
+280
+00:29:51,440 --> 00:29:53,440
+je dirais, allez, on va se trouver une histoire,
+
+281
+00:29:54,440 --> 00:29:57,440
+il met un truc vraiment délire, tu nous fais une bonne histoire,
+
+282
+00:29:58,440 --> 00:30:01,440
+ok, d'accord, alors ça commence par on vire le CEO.
+
+283
+00:30:02,440 --> 00:30:03,440
+What?
+
+284
+00:30:04,440 --> 00:30:05,440
+On a l'impression.
+
+285
+00:30:05,440 --> 00:30:09,440
+Après on fait arriver, parce qu'il faut que tu mettes Microsoft quand même dedans,
+
+286
+00:30:10,440 --> 00:30:14,440
+tu positionnes les acteurs et tu dis, vas-y, sors-moi une histoire qui soit complètement délirante.
+
+287
+00:30:15,440 --> 00:30:18,440
+Et si ça se trouve, ils sont en train de suivre ça.
+
+288
+00:30:19,440 --> 00:30:20,440
+C'est très étrange.
+
+289
+00:30:21,440 --> 00:30:23,440
+En tout cas, les dernières news, c'est vraiment ça,
+
+290
+00:30:24,440 --> 00:30:31,440
+c'est le nouveau CEO qui menace de partir s'il n'y a pas la vraie raison qui est publiée.
+
+291
+00:30:31,440 --> 00:30:37,440
+Le deal entre Sam et Microsoft, il n'est toujours pas signé, apparemment.
+
+292
+00:30:38,440 --> 00:30:39,440
+En tout cas, il y a 16 heures, il n'était pas signé.
+
+293
+00:30:40,440 --> 00:30:43,440
+Apparemment, Sam, il a essayé vraiment de retourner à OpenAI.
+
+294
+00:30:44,440 --> 00:30:52,440
+Et puis, 745 employés sur 770 ont signé une lettre pour dire qu'ils allaient rejoindre Microsoft
+
+295
+00:30:53,440 --> 00:30:59,440
+si les membres du board ne démissionnent pas.
+
+296
+00:30:59,440 --> 00:31:00,440
+Donc, on en est là.
+
+297
+00:31:01,440 --> 00:31:09,440
+Il y a une vraie news que je trouve intéressante par rapport à Microsoft, c'est sur ses puces.
+
+298
+00:31:11,440 --> 00:31:20,440
+Ils se mettent à faire des puces IA en collaboration d'ailleurs avec Nvidia.
+
+299
+00:31:21,440 --> 00:31:27,440
+Nvidia voudrait comme ça pouvoir avoir des collaborations un peu partout dans le monde
+
+300
+00:31:27,440 --> 00:31:33,440
+où chaque pays, chaque gouvernement ait la possibilité de développer ses propres puces
+
+301
+00:31:34,440 --> 00:31:39,440
+et qu'ils soient indépendants sur la capacité à créer du GPU,
+
+302
+00:31:40,440 --> 00:31:43,440
+puisque ça va être l'essence de nos IA dans le futur,
+
+303
+00:31:44,440 --> 00:31:47,440
+et qu'il n'y ait pas de déblocage un peu comme l'électricité.
+
+304
+00:31:48,440 --> 00:31:58,440
+Donc, si chacun est capable de gérer un peu, ce sera la future bombe nucléaire.
+
+305
+00:31:59,440 --> 00:32:02,440
+Chaque pays aura la sienne pour éviter de se faire attaquer.
+
+306
+00:32:03,440 --> 00:32:05,440
+Tu crois que c'est ça?
+
+307
+00:32:06,440 --> 00:32:10,440
+Tu crois que c'est un peu la continuité de ce qu'ils ont fait avec Yamaha finalement?
+
+308
+00:32:11,440 --> 00:32:14,440
+C'est de laisser le plus possible de trucs en open source,
+
+309
+00:32:14,440 --> 00:32:17,440
+parce que les mecs ils flippent en fait, ils se disent…
+
+310
+00:32:18,440 --> 00:32:21,440
+Ouais, s'il y en a un qui prend trop de pouvoir…
+
+311
+00:32:22,440 --> 00:32:28,440
+Ah, c'est sûr! Là c'est sûr, il suffit de poser la question à ChatGPT.
+
+312
+00:32:30,440 --> 00:32:35,440
+Évidemment que si tu prends le contrôle, là on voit déjà, moi je sens la pression déjà,
+
+313
+00:32:36,440 --> 00:32:42,440
+juste le fait que, et c'est un truc tout con, qu'un ChatGPT ne répond pas assez vite.
+
+314
+00:32:43,440 --> 00:32:49,440
+Sur quelques cas d'usage où tu as de la latence, parce qu'il commence à y avoir un peu trop de monde,
+
+315
+00:32:50,440 --> 00:32:52,440
+mais sur des ChatGPT vraiment privés déjà.
+
+316
+00:32:53,440 --> 00:32:57,440
+Et les gars sont en train de se dire, mais attends, si on commence à mettre trop de monde,
+
+317
+00:32:58,440 --> 00:33:02,440
+comment on fait? Comment on fait s'il n'y a plus ce truc-là en fait?
+
+318
+00:33:03,440 --> 00:33:05,440
+Maintenant qu'on est en train de le mettre un peu partout,
+
+319
+00:33:06,440 --> 00:33:10,440
+si du jour au lendemain il y a quelqu'un qui l'éteint, qu'est-ce qui se passe?
+
+320
+00:33:10,440 --> 00:33:11,440
+Qu'il l'éteint, c'est-à-dire?
+
+321
+00:33:12,440 --> 00:33:17,440
+Qu'il soit, un peu comme un Microsoft par exemple, qui te dit,
+
+322
+00:33:18,440 --> 00:33:21,440
+bon ben voilà, vous avez le vôtre, vous pouvez travailler dessus.
+
+323
+00:33:22,440 --> 00:33:25,440
+Et puis on lui dit, ouais mais des fois il met 30 secondes pour répondre,
+
+324
+00:33:26,440 --> 00:33:28,440
+alors que normalement il doit mettre 2 secondes.
+
+325
+00:33:29,440 --> 00:33:32,440
+Qu'est-ce que fait Microsoft? Il dit, il n'y a pas de problème,
+
+326
+00:33:33,440 --> 00:33:38,440
+vous allez acheter vraiment, enfin, on vous loue des serveurs et on mettra du GPT dessus,
+
+327
+00:33:38,440 --> 00:33:47,440
+et vous aurez une puissance, c'est comme un essai, tu garantis un temps de réponse
+
+328
+00:33:48,440 --> 00:33:50,440
+sur un certain nombre de requêtes.
+
+329
+00:33:52,440 --> 00:33:57,440
+C'est pas ça qui est, c'est pas ça un peu le but des modèles commerciaux,
+
+330
+00:33:58,440 --> 00:34:02,440
+c'est justement d'avoir une partie libre, enfin gratuite, qui est lente et tout,
+
+331
+00:34:03,440 --> 00:34:07,440
+et puis justement une partie payante qui est rapide, avec plus de temps,
+
+332
+00:34:08,440 --> 00:34:10,440
+plus de fonctionnalités, c'est pas juste un...
+
+333
+00:34:12,440 --> 00:34:13,440
+C'est quoi le danger?
+
+334
+00:34:14,440 --> 00:34:18,440
+Le danger c'est qu'en fait, tu deviens vite accro,
+
+335
+00:34:19,440 --> 00:34:25,440
+c'est que le jour on te met du GPT qui répond en une seconde,
+
+336
+00:34:26,440 --> 00:34:30,440
+donc ça, ça veut dire que tes clients, quand ils vont poser des questions à ton chatbot,
+
+337
+00:34:31,440 --> 00:34:32,440
+le truc va répondre super rapidement.
+
+338
+00:34:33,440 --> 00:34:37,440
+Le jour où la personne, elle devra attendre 5 secondes pour avoir une réponse,
+
+339
+00:34:38,440 --> 00:34:40,440
+elle pose une question, elle se casse direct,
+
+340
+00:34:41,440 --> 00:34:43,440
+donc au niveau du business, c'est juste pas possible.
+
+341
+00:34:46,440 --> 00:34:51,440
+Et du coup, avant, tu faisais la même chose avec ton cloud,
+
+342
+00:34:52,440 --> 00:34:55,440
+mais là sur l'IA, vu que ça s'imprègne partout, dans toute la société,
+
+343
+00:34:56,440 --> 00:35:01,440
+dans les entreprises, et ensuite ça va donner le reflet de la société
+
+344
+00:35:02,440 --> 00:35:06,440
+pour tes clients, on sera capable de payer ça des fortunes,
+
+345
+00:35:06,440 --> 00:35:09,440
+mais des fortunes, et ça coûte déjà super cher.
+
+346
+00:35:11,440 --> 00:35:13,440
+Et on n'a même pas commencé à en mettre partout,
+
+347
+00:35:14,440 --> 00:35:17,440
+donc tu imagines, tu vas pouvoir prendre en otage toutes les entreprises.
+
+348
+00:35:18,440 --> 00:35:24,440
+Mais du coup, tu ne penses pas qu'il va y avoir des modèles qui vont être plus rapides,
+
+349
+00:35:25,440 --> 00:35:27,440
+comme il y a eu un peu avec le truc dont on a parlé la semaine dernière,
+
+350
+00:35:28,440 --> 00:35:33,440
+entre les nouveaux modèles pour faire du image to image,
+
+351
+00:35:33,440 --> 00:35:37,440
+du texte to image, les LCM à la place des LDM.
+
+352
+00:35:38,440 --> 00:35:40,440
+Oui, ça ira plus vite, mais c'est comme les puces,
+
+353
+00:35:41,440 --> 00:35:46,440
+ça va suivre la même courbe que les puces, les CPUs,
+
+354
+00:35:47,440 --> 00:35:49,440
+ou les puces qu'on a mises dans nos téléphones.
+
+355
+00:35:50,440 --> 00:35:54,440
+C'est que plus elles deviennent performantes, plus on fait de choses,
+
+356
+00:35:55,440 --> 00:35:58,440
+plus on a besoin de performance, et tu vois, la loi de Moore,
+
+357
+00:35:59,440 --> 00:36:01,440
+elle ne changera pas, en tout cas, pour l'IA.
+
+358
+00:36:01,440 --> 00:36:05,440
+D'ailleurs, ce sera plutôt exponentiel qu'en fois deux,
+
+359
+00:36:06,440 --> 00:36:09,440
+mais ça va devenir un vrai problème.
+
+360
+00:36:10,440 --> 00:36:13,440
+Et quand on se dit, Nvidia, ils sont quand même bien placés
+
+361
+00:36:14,440 --> 00:36:17,440
+avec toutes leurs fermes de GPU qu'ils sont capables de créer
+
+362
+00:36:18,440 --> 00:36:21,440
+justement pour faire tourner les LDM.
+
+363
+00:36:22,440 --> 00:36:28,440
+En fait, ils sont en train de créer l'or de demain, c'est clair.
+
+364
+00:36:28,440 --> 00:36:29,440
+Enfin, le pétrole.
+
+365
+00:36:30,440 --> 00:36:31,440
+Alors, il y a CryptoChain qui dit,
+
+366
+00:36:32,440 --> 00:36:34,440
+l'infra de fonctionnement de chaque GPT coûte extrêmement cher
+
+367
+00:36:35,440 --> 00:36:38,440
+à tel point que la rentabilité apparaît impossible pour certains experts,
+
+368
+00:36:39,440 --> 00:36:40,440
+surtout avec les cours de l'énergie qui augmentent
+
+369
+00:36:41,440 --> 00:36:43,440
+et la paupérisation des potentiels usagers.
+
+370
+00:36:44,440 --> 00:36:45,440
+Oui, c'est vrai.
+
+371
+00:36:46,440 --> 00:36:53,440
+Après, ça coûte super cher, mais pour quelle réponse au final?
+
+372
+00:36:54,440 --> 00:36:58,440
+Est-ce que tes 10 requêtes que tu fais sur Google,
+
+373
+00:36:59,440 --> 00:37:01,440
+qui a déjà 20 ans, qui a déjà optimisé, etc.,
+
+374
+00:37:02,440 --> 00:37:04,440
+donc ça coûte quand même vachement moins cher qu'avant,
+
+375
+00:37:05,440 --> 00:37:06,440
+mais est-ce que ces 10 requêtes-là,
+
+376
+00:37:07,440 --> 00:37:09,440
+elles ne coûtent pas aussi cher que ta seule requête
+
+377
+00:37:10,440 --> 00:37:12,440
+que tu auras fait sur chaque GPT avec ta réponse?
+
+378
+00:37:13,440 --> 00:37:15,440
+Mais de toute façon, oui, ça coûte super cher,
+
+379
+00:37:16,440 --> 00:37:21,440
+mais le turbo déjà, en tout cas, est plus rapide
+
+380
+00:37:21,440 --> 00:37:23,440
+et paraît moins gourmand.
+
+381
+00:37:25,440 --> 00:37:28,440
+Oui, mais pour cette histoire de coût,
+
+382
+00:37:29,440 --> 00:37:30,440
+je suis assez confiant, personnellement,
+
+383
+00:37:31,440 --> 00:37:32,440
+je ne suis pas un expert, mais je suis assez confiant
+
+384
+00:37:33,440 --> 00:37:36,440
+sur le fait que tu trouves toujours un moyen d'abaisser les coûts
+
+385
+00:37:37,440 --> 00:37:42,440
+et si ce n'est pas matériel, ça sera software,
+
+386
+00:37:43,440 --> 00:37:44,440
+et ça va passer par tous les endroits.
+
+387
+00:37:45,440 --> 00:37:48,440
+Exactement comme, par exemple, dans la réalité virtuelle,
+
+388
+00:37:48,440 --> 00:37:52,440
+à un moment donné, c'était un peu la guerre du matériel,
+
+389
+00:37:53,440 --> 00:37:56,440
+il fallait que ce soit des puces de plus en plus puissantes,
+
+390
+00:37:57,440 --> 00:37:59,440
+mais en même temps, ils travaillent sur le software
+
+391
+00:38:00,440 --> 00:38:02,440
+pour alléger les calculs.
+
+392
+00:38:03,440 --> 00:38:05,440
+Par exemple, c'est là où ils ont intégré, à un moment donné,
+
+393
+00:38:06,440 --> 00:38:07,440
+quand même assez tôt, je ne sais plus comment ça s'appelle,
+
+394
+00:38:08,440 --> 00:38:10,440
+le foveal tracking, je crois que ça s'appelle,
+
+395
+00:38:11,440 --> 00:38:14,440
+c'est le truc qui suit les mouvements de ta pupille,
+
+396
+00:38:14,440 --> 00:38:20,440
+et en gros, ça fait le render uniquement où tu regardes,
+
+397
+00:38:21,440 --> 00:38:22,440
+et donc, tu économises énormément de ressources,
+
+398
+00:38:23,440 --> 00:38:25,440
+parce que ça ne rend pas partout toute l'image,
+
+399
+00:38:26,440 --> 00:38:29,440
+et ça fait une petite stratégie comme ça qui fait que…
+
+400
+00:38:30,440 --> 00:38:32,440
+En fait, j'imagine que pour l'IA, ça va être exactement pareil,
+
+401
+00:38:33,440 --> 00:38:35,440
+on s'en va sur des modèles de plus en plus efficients
+
+402
+00:38:36,440 --> 00:38:39,440
+et que finalement, on va s'en sortir au niveau des coûts.
+
+403
+00:38:40,440 --> 00:38:43,440
+Oui, le côté pervasif, il n'a rien à voir avec toutes les autres technologies,
+
+404
+00:38:44,440 --> 00:38:50,440
+c'est que ton IA, là, tu vas le retrouver comme pour l'heure
+
+405
+00:38:51,440 --> 00:38:54,440
+ou comme tout ce qui a été pervasif directement dans ta poupée Barbie.
+
+406
+00:38:55,440 --> 00:38:59,440
+On va mettre de l'IA dedans, tu prends n'importe quel petit truc,
+
+407
+00:39:00,440 --> 00:39:03,440
+on va mettre de l'IA dedans, et après, par rapport à ta vie,
+
+408
+00:39:04,440 --> 00:39:05,440
+il va y en avoir partout.
+
+409
+00:39:06,440 --> 00:39:08,440
+On ne parle pas de trois ustensiles à gauche, à droite,
+
+410
+00:39:09,440 --> 00:39:10,440
+où tu auras un casque, etc.
+
+411
+00:39:10,440 --> 00:39:13,440
+Là, on parle d'une maison où on peut imaginer
+
+412
+00:39:14,440 --> 00:39:18,440
+que tu auras au moins 1 000 IAs qui sont en train de tourner autour de toi.
+
+413
+00:39:19,440 --> 00:39:22,440
+Et effectivement, en termes d'énergie, ça va tout péter.
+
+414
+00:39:23,440 --> 00:39:25,440
+Je suis d'accord avec Chad, c'est ce qu'il explique.
+
+415
+00:39:26,440 --> 00:39:29,440
+C'est que l'analogie qu'il fait avec le casque de réalité virtuelle,
+
+416
+00:39:30,440 --> 00:39:32,440
+effectivement, il y a une déportation du calcul,
+
+417
+00:39:33,440 --> 00:39:36,440
+en fait, il y a une concentration du calcul pour le rendu visuel,
+
+418
+00:39:36,440 --> 00:39:41,440
+pour que ce qui est sur le champ extérieur, ce soit un peu flou.
+
+419
+00:39:42,440 --> 00:39:43,440
+Et pour l'IA, ça sera pareil.
+
+420
+00:39:44,440 --> 00:39:46,440
+C'est-à-dire que, par exemple, sur un téléphone portable,
+
+421
+00:39:47,440 --> 00:39:50,440
+il y aura une puce dédiée à l'intelligence artificielle
+
+422
+00:39:51,440 --> 00:39:55,440
+qui fera des réponses de base, et qui, si besoin était,
+
+423
+00:39:56,440 --> 00:39:59,440
+irait sur un serveur déporté pour aller chercher l'information
+
+424
+00:40:00,440 --> 00:40:02,440
+et pour aller répondre plus précisément.
+
+425
+00:40:03,440 --> 00:40:05,440
+Mais je pense qu'effectivement, je suis d'accord avec vous deux,
+
+426
+00:40:06,440 --> 00:40:10,440
+l'IA va se retrouver partout, mais pour optimiser,
+
+427
+00:40:11,440 --> 00:40:13,440
+et là, on parlait initialement des coûts,
+
+428
+00:40:14,440 --> 00:40:18,440
+savoir la rentabilité, je pense que ce sera le meilleur moyen,
+
+429
+00:40:19,440 --> 00:40:22,440
+c'est d'avoir de l'IA dans le PC avec des puces
+
+430
+00:40:23,440 --> 00:40:26,440
+qui sont pensées à l'avance par Nvidia ou par d'autres constructeurs,
+
+431
+00:40:27,440 --> 00:40:32,440
+par d'autres fondeurs, et qui, après, si besoin était,
+
+432
+00:40:33,440 --> 00:40:35,440
+vraiment, il y aurait une déportation sur des serveurs distants.
+
+433
+00:40:36,440 --> 00:40:37,440
+C'est comme ça que je l'entends, moi, en tout cas,
+
+434
+00:40:38,440 --> 00:40:39,440
+c'est comme ça que je pense que ça pourrait être possible.
+
+435
+00:40:40,440 --> 00:40:43,440
+Il faut aller voir la puce Microsoft, là, elles sont vraiment…
+
+436
+00:40:44,440 --> 00:40:47,440
+alors, je n'ai pas le nom, mais c'est exactement ce qu'ils sont en train de…
+
+437
+00:40:48,440 --> 00:40:53,440
+comme pour Apple, le prochain iPhone,
+
+438
+00:40:54,440 --> 00:40:57,440
+il sera vraiment dédié à l'IA, il y en aura.
+
+439
+00:40:58,440 --> 00:41:00,440
+On va clairement appeler ce qu'on a dedans.
+
+440
+00:41:01,440 --> 00:41:02,440
+Oui.
+
+441
+00:41:03,440 --> 00:41:06,440
+Par contre, l'idée de la Barbie avec de l'intelligence artificielle,
+
+442
+00:41:07,440 --> 00:41:08,440
+je ne suis pas sûr.
+
+443
+00:41:09,440 --> 00:41:11,440
+Tu sais, regarde tout ce qu'il y a dans une Barbie, maintenant.
+
+444
+00:41:12,440 --> 00:41:14,440
+Moi, je faisais des conférences sur l'IoT il y a quelques années,
+
+445
+00:41:15,440 --> 00:41:19,440
+où je parlais justement de cette puissance qu'on retrouve un peu partout,
+
+446
+00:41:20,440 --> 00:41:22,440
+dans n'importe quoi.
+
+447
+00:41:23,440 --> 00:41:26,440
+Et dans la Barbie, aujourd'hui, dans une Barbie, derrière,
+
+448
+00:41:27,440 --> 00:41:29,440
+tu as un petit écran, tu as l'heure, tu as un GPS,
+
+449
+00:41:29,440 --> 00:41:31,440
+tu as un milliard de trucs.
+
+450
+00:41:32,440 --> 00:41:34,440
+Parce que l'heure est devenue pervasive,
+
+451
+00:41:35,440 --> 00:41:37,440
+que la partie GPS est devenue pervasive,
+
+452
+00:41:38,440 --> 00:41:42,440
+chaque élément électronique, aujourd'hui, est capable de se géolocaliser facilement.
+
+453
+00:41:43,440 --> 00:41:48,440
+Et demain, on aura de l'IA là-dedans.
+
+454
+00:41:49,440 --> 00:41:51,440
+Et d'ailleurs, ce qui arrive, c'est la RAM.
+
+455
+00:41:52,440 --> 00:41:53,440
+Donc, tout ce qui va être…
+
+456
+00:41:54,440 --> 00:41:56,440
+les puces sont déjà en train de se transformer, au final.
+
+457
+00:41:56,440 --> 00:41:59,440
+Puisque les puces vont plus n'avoir que de la puce,
+
+458
+00:42:00,440 --> 00:42:04,440
+il va y avoir aussi directement la mémoire et le stockage,
+
+459
+00:42:05,440 --> 00:42:06,440
+directement accolé à la puce.
+
+460
+00:42:07,440 --> 00:42:09,440
+Donc, ça fait qu'on va pouvoir avoir la même chose,
+
+461
+00:42:10,440 --> 00:42:14,440
+mais sur des choses encore plus petites que des Raspberry Pi.
+
+462
+00:42:15,440 --> 00:42:16,440
+Avec une puce dans le bras.
+
+463
+00:42:17,440 --> 00:42:19,440
+Le nom de la mémoire, c'est…
+
+464
+00:42:20,440 --> 00:42:21,440
+Comment il s'appelle?
+
+465
+00:42:22,440 --> 00:42:24,440
+Le gars, le français, qui en avait parlé…
+
+466
+00:42:24,440 --> 00:42:27,440
+Ah, il faut qu'il fait des vidéos techniques.
+
+467
+00:42:28,440 --> 00:42:30,440
+Il avait parlé de ce nouveau type de mémoire.
+
+468
+00:42:31,440 --> 00:42:32,440
+Amicom?
+
+469
+00:42:33,440 --> 00:42:34,440
+Ou sur Underscore.
+
+470
+00:42:35,440 --> 00:42:36,440
+Ouais, c'est ça.
+
+471
+00:42:37,440 --> 00:42:38,440
+J'ai plus le nom.
+
+472
+00:42:39,440 --> 00:42:41,440
+Mais effectivement, il y a des progrès qui sont faits là-dedans aussi.
+
+473
+00:42:42,440 --> 00:42:44,440
+Donc, c'est clair que ça va juste pas s'arrêter.
+
+474
+00:42:45,440 --> 00:42:50,440
+Mais les progrès logiciels sont quand même hyper rapides.
+
+475
+00:42:51,440 --> 00:42:52,440
+C'est un truc de fou.
+
+476
+00:42:52,440 --> 00:42:55,440
+La semaine dernière, je parlais du temps réel
+
+477
+00:42:56,440 --> 00:42:59,440
+qui est en train d'arriver dans le traitement d'images et le traitement vidéo.
+
+478
+00:43:00,440 --> 00:43:02,440
+Là, je viens d'avoir un nouvel outil qui vient de sortir
+
+479
+00:43:03,440 --> 00:43:05,440
+et que je n'ai pas encore pu tester.
+
+480
+00:43:06,440 --> 00:43:07,440
+En fait, je l'ai mis…
+
+481
+00:43:08,440 --> 00:43:09,440
+De quoi?
+
+482
+00:43:13,440 --> 00:43:16,440
+C'est que disponible sur iOS.
+
+483
+00:43:17,440 --> 00:43:18,440
+Je l'ai mis sur mon iPad.
+
+484
+00:43:19,440 --> 00:43:21,440
+Il fallait la dernière version de l'iOS.
+
+485
+00:43:22,440 --> 00:43:24,440
+J'ai juste lancé tout à l'heure l'upgrade pour pouvoir faire le test.
+
+486
+00:43:25,440 --> 00:43:26,440
+Donc, je n'ai pas encore testé malheureusement.
+
+487
+00:43:27,440 --> 00:43:28,440
+Mais en gros, c'est une application…
+
+488
+00:43:29,440 --> 00:43:30,440
+Ça s'appelle comment?
+
+489
+00:43:31,440 --> 00:43:32,440
+Ça s'appelle…
+
+490
+00:43:33,440 --> 00:43:34,440
+Ça s'appelle…
+
+491
+00:43:35,440 --> 00:43:36,440
+Attends, je vais le dire.
+
+492
+00:43:37,440 --> 00:43:38,440
+Ça s'appelle…
+
+493
+00:43:41,440 --> 00:43:42,440
+Ça s'appelle…
+
+494
+00:43:43,440 --> 00:43:44,440
+Move AI.
+
+495
+00:43:45,440 --> 00:43:47,440
+Et en gros, vous connaissiez les trucs,
+
+496
+00:43:47,440 --> 00:43:52,440
+toutes les applications pour faire de la 3D à partir de la vidéo, des images.
+
+497
+00:43:53,440 --> 00:43:56,440
+Donc, tu prends ton téléphone, tu bouges autour d'un objet
+
+498
+00:43:57,440 --> 00:43:59,440
+et tu fais un rendu 3D.
+
+499
+00:44:01,440 --> 00:44:03,440
+Et maintenant, ce truc-là…
+
+500
+00:44:04,440 --> 00:44:05,440
+Donc, ça, c'était déjà…
+
+501
+00:44:06,440 --> 00:44:07,440
+On était déjà au top de la tech.
+
+502
+00:44:08,440 --> 00:44:09,440
+Ce truc-là, tu n'as même pas besoin de bouger.
+
+503
+00:44:10,440 --> 00:44:11,440
+Tu restes avec ton téléphone comme ça.
+
+504
+00:44:12,440 --> 00:44:14,440
+Tu prends une vidéo et ça te fait le rendu 3D.
+
+505
+00:44:15,440 --> 00:44:16,440
+Et ils ont une option pour faire en temps réel.
+
+506
+00:44:17,440 --> 00:44:21,440
+Donc, en fait, ça va juste excessivement rapidement.
+
+507
+00:44:22,440 --> 00:44:23,440
+C'est juste n'importe quoi.
+
+508
+00:44:24,440 --> 00:44:25,440
+J'ai envie de tester ça.
+
+509
+00:44:26,440 --> 00:44:28,440
+Du coup, je ferai peut-être une démo la semaine prochaine.
+
+510
+00:44:29,440 --> 00:44:32,440
+En plus de ça, j'ai failli avoir accès aujourd'hui au truc de créa,
+
+511
+00:44:33,440 --> 00:44:36,440
+le truc où justement, tu peux faire du dessin en temps réel.
+
+512
+00:44:37,440 --> 00:44:38,440
+Tu ne peux pas avoir failli.
+
+513
+00:44:39,440 --> 00:44:40,440
+Soit tu l'as, soit tu l'as pas.
+
+514
+00:44:41,440 --> 00:44:43,440
+Tu te prends pour OpenAI ou quoi?
+
+515
+00:44:44,440 --> 00:44:45,440
+Tu n'as pas vu l'histoire?
+
+516
+00:44:46,440 --> 00:44:48,440
+En gros, j'envoyais un mail pour avoir accès.
+
+517
+00:44:49,440 --> 00:44:50,440
+Et je n'ai jamais eu de réponse.
+
+518
+00:44:51,440 --> 00:44:53,440
+Et je suis allé sur mon compte Twitter.
+
+519
+00:44:54,440 --> 00:44:55,440
+À un moment donné, j'ai répondu à une de leurs publications.
+
+520
+00:44:56,440 --> 00:44:58,440
+Et le committee manager, il m'a envoyé un message.
+
+521
+00:44:59,440 --> 00:45:00,440
+Il a dit « Check tes DM ».
+
+522
+00:45:01,440 --> 00:45:03,440
+Donc, dans les DM, il fait genre « C'est quoi ton image? »
+
+523
+00:45:04,440 --> 00:45:05,440
+Je te donne un accès.
+
+524
+00:45:06,440 --> 00:45:08,440
+Et je lui donne un mail, mais c'était le mail officiel de RadioChat.
+
+525
+00:45:09,440 --> 00:45:10,440
+Donc, RadioChat, tu vas te prendre ton mail.com.
+
+526
+00:45:10,440 --> 00:45:13,440
+Mais en fait, j'avais oublié que je n'avais pas souscrit au truc avec ce mail-là.
+
+527
+00:45:14,440 --> 00:45:15,440
+C'était avec mon bel Gmail.
+
+528
+00:45:16,440 --> 00:45:17,440
+Donc, il a cherché, il a cherché.
+
+529
+00:45:18,440 --> 00:45:19,440
+Moi, je suis parti entre-temps, tu vois.
+
+530
+00:45:20,440 --> 00:45:24,440
+Et quand je suis revenu, j'ai eu un vieux message d'il y a une heure qui me dit genre
+
+531
+00:45:25,440 --> 00:45:26,440
+« Non, ce n'est pas ce mail-là.
+
+532
+00:45:27,440 --> 00:45:28,440
+Tu es sûr que c'est le bon truc? »
+
+533
+00:45:29,440 --> 00:45:30,440
+Donc, je lui fais « Ah non, non, c'est vrai.
+
+534
+00:45:31,440 --> 00:45:32,440
+D'accord, c'est ce mail-là. »
+
+535
+00:45:33,440 --> 00:45:34,440
+Mais il n'était plus en ligne.
+
+536
+00:45:35,440 --> 00:45:36,440
+Donc, c'est « Day ».
+
+537
+00:45:37,440 --> 00:45:38,440
+Je dis « Ah non! »
+
+538
+00:45:38,440 --> 00:45:41,440
+Peut-être demain, quand il fera son shift de demain,
+
+539
+00:45:42,440 --> 00:45:45,440
+il va m'offrir la possibilité d'essayer ce truc-là.
+
+540
+00:45:46,440 --> 00:45:47,440
+C'est une prochaine.
+
+541
+00:45:48,440 --> 00:45:49,440
+C'est une prochaine freine des mots.
+
+542
+00:45:52,440 --> 00:45:54,440
+Et pour l'introduction en bourse de OpenAI,
+
+543
+00:45:55,440 --> 00:45:57,440
+vous savez quand est-ce que ça a été fait ou pas?
+
+544
+00:46:00,440 --> 00:46:01,440
+Pas du tout.
+
+545
+00:46:02,440 --> 00:46:05,440
+Oui, parce que pour reparler du drama,
+
+546
+00:46:06,440 --> 00:46:07,440
+c'est un peu lié à tout ça en fait.
+
+547
+00:46:08,440 --> 00:46:09,440
+Tu penses?
+
+548
+00:46:10,440 --> 00:46:11,440
+Oui, parce que de toute manière,
+
+549
+00:46:12,440 --> 00:46:13,440
+le fait qu'il soit fait virer par le conseil d'administration,
+
+550
+00:46:14,440 --> 00:46:17,440
+ça n'existerait pas si c'était une entreprise lambda et une start-up.
+
+551
+00:46:18,440 --> 00:46:19,440
+Là, c'est le fait.
+
+552
+00:46:20,440 --> 00:46:21,440
+En fait, ils lui ont fait une Steve Jobs.
+
+553
+00:46:22,440 --> 00:46:23,440
+C'est exactement pareil.
+
+554
+00:46:24,440 --> 00:46:26,440
+C'est l'introduction en bourse qui a fait que ça a brillé.
+
+555
+00:46:27,440 --> 00:46:28,440
+C'est parti en vrille.
+
+556
+00:46:29,440 --> 00:46:32,440
+Et oui, Steve Jobs, c'est ce qui lui est arrivé.
+
+557
+00:46:33,440 --> 00:46:34,440
+Et il s'est passé quoi avec Steve Jobs?
+
+558
+00:46:35,440 --> 00:46:36,440
+Je ne connais même pas l'histoire.
+
+559
+00:46:36,440 --> 00:46:37,440
+C'est pareil, le conseil d'administration,
+
+560
+00:46:38,440 --> 00:46:39,440
+ils lui ont mis un coup de pied aux fesses.
+
+561
+00:46:40,440 --> 00:46:41,440
+Et en fait, il a fait une erreur.
+
+562
+00:46:42,440 --> 00:46:46,440
+C'est qu'anciennement, il avait fait venir au conseil d'administration
+
+563
+00:46:47,440 --> 00:46:48,440
+l'ancien patron de PepsiCola.
+
+564
+00:46:49,440 --> 00:46:50,440
+Si je ne dis pas que…
+
+565
+00:46:51,440 --> 00:46:56,440
+Et en fait, ils ont estimé que les décisions stratégiques de Steve Jobs,
+
+566
+00:46:57,440 --> 00:46:59,440
+elles n'étaient pas en accord avec…
+
+567
+00:47:00,440 --> 00:47:04,440
+Voilà, puisqu'après, il se tâchait sur le budget, tout ça.
+
+568
+00:47:04,440 --> 00:47:08,440
+Et ils ont décidé d'un commun d'accord de se réunir
+
+569
+00:47:09,440 --> 00:47:11,440
+et ils ont voté à l'indemnité de virer Steve Jobs.
+
+570
+00:47:12,440 --> 00:47:15,440
+Et pour ça, ça a panne, c'est ce qui a dû se passer.
+
+571
+00:47:16,440 --> 00:47:17,440
+De toute façon, c'est le conseil d'administration.
+
+572
+00:47:18,440 --> 00:47:19,440
+Il y a un conseil d'administration,
+
+573
+00:47:20,440 --> 00:47:21,440
+à partir du moment où il y a une introduction en bourse.
+
+574
+00:47:22,440 --> 00:47:25,440
+Donc, si je dis après, je peux dire des bêtises,
+
+575
+00:47:26,440 --> 00:47:28,440
+puisque je ne suis pas financier, mais bon, c'est comme ça que ça fonctionne.
+
+576
+00:47:29,440 --> 00:47:33,440
+Et oui, il a beau être président, il s'est fait éjecter.
+
+577
+00:47:34,440 --> 00:47:35,440
+Voilà, mais…
+
+578
+00:47:36,440 --> 00:47:38,440
+Non, mais c'est une catastrophe, là.
+
+579
+00:47:39,440 --> 00:47:40,440
+Ce qui se passe…
+
+580
+00:47:41,440 --> 00:47:43,440
+Je ne comprends pas, parce qu'apparemment,
+
+581
+00:47:44,440 --> 00:47:45,440
+effectivement, il y a des shares,
+
+582
+00:47:46,440 --> 00:47:48,440
+mais je n'ai pas l'impression que ce soit genre public.
+
+583
+00:47:49,440 --> 00:47:50,440
+C'est ça que je ne comprends pas, en fait.
+
+584
+00:47:51,440 --> 00:47:52,440
+Que ce soit public?
+
+585
+00:47:53,440 --> 00:47:54,440
+De quoi?
+
+586
+00:47:55,440 --> 00:47:56,440
+Que ce soit public, tu dis?
+
+587
+00:47:57,440 --> 00:47:59,440
+Je n'ai pas l'impression que tu puisses acheter, par exemple,
+
+588
+00:48:00,440 --> 00:48:03,440
+sur le marché des parts.
+
+589
+00:48:04,440 --> 00:48:08,440
+Donc, il ne faut pas hésiter à me rectifier si je dis des bêtises.
+
+590
+00:48:09,440 --> 00:48:11,440
+Écoute, je suis en train de regarder.
+
+591
+00:48:12,440 --> 00:48:13,440
+Je ne sais pas du tout.
+
+592
+00:48:14,440 --> 00:48:15,440
+Je ne m'étais jamais posé la question,
+
+593
+00:48:16,440 --> 00:48:17,440
+mais c'est un sujet à creuser, clairement.
+
+594
+00:48:18,440 --> 00:48:19,440
+De toute façon, c'est…
+
+595
+00:48:20,440 --> 00:48:21,440
+Comment dire?
+
+596
+00:48:22,440 --> 00:48:24,440
+C'est un terrain à défricher, l'intelligence artificielle.
+
+597
+00:48:25,440 --> 00:48:26,440
+C'est la société la plus cotée
+
+598
+00:48:27,440 --> 00:48:31,440
+qui a bouleversé le monde depuis un peu plus d'un an, là.
+
+599
+00:48:31,440 --> 00:48:34,440
+Et forcément, les directions stratégiques…
+
+600
+00:48:35,440 --> 00:48:38,440
+Enfin, je veux dire, il y a forcément des tensions internes.
+
+601
+00:48:40,440 --> 00:48:43,440
+Après, c'est facile de dire, une fois que c'est arrivé,
+
+602
+00:48:44,440 --> 00:48:45,440
+que c'était évident, mais…
+
+603
+00:48:46,440 --> 00:48:50,440
+Je ne suis pas surpris que ce n'ait plus pété, quoi.
+
+604
+00:48:51,440 --> 00:48:55,440
+Parce que voilà, tout reste à faire, en fait,
+
+605
+00:48:56,440 --> 00:48:57,440
+dans l'intelligence artificielle,
+
+606
+00:48:58,440 --> 00:48:59,440
+et ça bouge à une vitesse…
+
+607
+00:48:59,440 --> 00:49:00,440
+Ouais.
+
+608
+00:49:05,440 --> 00:49:06,440
+Et juste pour faire une petite parenthèse,
+
+609
+00:49:07,440 --> 00:49:09,440
+je me permets, comme je prends la parole,
+
+610
+00:49:10,440 --> 00:49:11,440
+juste avant d'arriver,
+
+611
+00:49:12,440 --> 00:49:13,440
+parce que de toute façon, je ne voulais pas louper ce live,
+
+612
+00:49:14,440 --> 00:49:15,440
+comme je ne savais pas que je ne loupais pas.
+
+613
+00:49:16,440 --> 00:49:17,440
+Non, mais c'est vrai.
+
+614
+00:49:18,440 --> 00:49:19,440
+J'étais sur le live,
+
+615
+00:49:20,440 --> 00:49:21,440
+il y avait le département de justice aux États-Unis
+
+616
+00:49:22,440 --> 00:49:23,440
+qui était en train de statuer,
+
+617
+00:49:24,440 --> 00:49:26,440
+qui était en train de faire un compte-rendu sur Binance.
+
+618
+00:49:26,440 --> 00:49:27,440
+Ah oui.
+
+619
+00:49:28,440 --> 00:49:29,440
+Il y avait tous les ténors de la justice,
+
+620
+00:49:30,440 --> 00:49:33,440
+on connaît un peu les têtes aussi, avec la crypto.
+
+621
+00:49:35,440 --> 00:49:39,440
+Et ils étaient en train de faire le procès.
+
+622
+00:49:40,440 --> 00:49:41,440
+Bon, là, ils ont eu les 4 milliards.
+
+623
+00:49:42,440 --> 00:49:46,440
+Et à mon avis, demain, je peux vous parier que demain…
+
+624
+00:49:47,440 --> 00:49:48,440
+Je parle juste deux secondes de ça,
+
+625
+00:49:49,440 --> 00:49:50,440
+parce que là, le sujet, c'est l'intelligence artificielle,
+
+626
+00:49:51,440 --> 00:49:52,440
+mais demain, tous les médias mainstream,
+
+627
+00:49:53,440 --> 00:49:54,440
+tous les médias grand public,
+
+628
+00:49:54,440 --> 00:49:55,440
+ils vont parler de ça.
+
+629
+00:49:56,440 --> 00:49:59,440
+Binance, on va en avoir à toutes les sauces.
+
+630
+00:50:00,440 --> 00:50:02,440
+Même au JT de France 2, je suis sûr qu'ils vont en parler.
+
+631
+00:50:03,440 --> 00:50:04,440
+Ça, c'est clair et net.
+
+632
+00:50:05,440 --> 00:50:07,440
+Parce que 4 milliards, ça fait les choux gras quand même.
+
+633
+00:50:08,440 --> 00:50:09,440
+Ce n'est pas anodin,
+
+634
+00:50:10,440 --> 00:50:11,440
+les médias, ils aiment bien se gausser de ça,
+
+635
+00:50:12,440 --> 00:50:13,440
+ils aiment bien en parler.
+
+636
+00:50:14,440 --> 00:50:15,440
+Et puis la crypto, en plus, c'est un sujet.
+
+637
+00:50:16,440 --> 00:50:19,440
+Oui, mais c'est plus difficile à traiter comme sujet que FTX,
+
+638
+00:50:20,440 --> 00:50:21,440
+parce que ce n'est pas spectaculaire,
+
+639
+00:50:22,440 --> 00:50:23,440
+on ne sait même pas trop où on va.
+
+640
+00:50:24,440 --> 00:50:26,440
+On ne sait pas trop pourquoi il paye,
+
+641
+00:50:27,440 --> 00:50:28,440
+on ne sait pas ce qui a fait de mal vraiment.
+
+642
+00:50:29,440 --> 00:50:32,440
+C'est plus vraiment…
+
+643
+00:50:36,440 --> 00:50:39,440
+les États-Unis qui essaient de mettre des bâtons dans les roues à Sisyphe.
+
+644
+00:50:40,440 --> 00:50:41,440
+C'est plus ça que vraiment un vrai drame.
+
+645
+00:50:42,440 --> 00:50:43,440
+Il n'y a personne qui a perdu ses fonds,
+
+646
+00:50:44,440 --> 00:50:45,440
+ou quoi que ce soit, tu vois ce que je veux dire.
+
+647
+00:50:46,440 --> 00:50:47,440
+C'est un peu…
+
+648
+00:50:48,440 --> 00:50:49,440
+Non, mais contrairement à vous,
+
+649
+00:50:50,440 --> 00:50:51,440
+j'ai un niveau d'anglais qui est vraiment très…
+
+650
+00:50:52,440 --> 00:50:53,440
+qui est mauvais.
+
+651
+00:50:54,440 --> 00:50:55,440
+Je ne sais pas si vous avez compris,
+
+652
+00:50:56,440 --> 00:50:57,440
+mais à moitié ce qu'ils se disaient,
+
+653
+00:50:58,440 --> 00:50:59,440
+et le département de justice,
+
+654
+00:51:00,440 --> 00:51:01,440
+c'était très solennel, institutionnel,
+
+655
+00:51:02,440 --> 00:51:03,440
+devant les caméras avec le pupitre,
+
+656
+00:51:04,440 --> 00:51:05,440
+tout ce que tu veux, le drapeau américain.
+
+657
+00:51:06,440 --> 00:51:07,440
+Et donc ils expliquaient de ce que j'ai compris.
+
+658
+00:51:08,440 --> 00:51:09,440
+Il y avait des allégations comme quoi
+
+659
+00:51:10,440 --> 00:51:15,440
+il y avait des fonds sur le terrorisme,
+
+660
+00:51:16,440 --> 00:51:17,440
+sur la Corée du Nord,
+
+661
+00:51:18,440 --> 00:51:19,440
+des choses comme ça, effectivement.
+
+662
+00:51:20,440 --> 00:51:21,440
+Si j'ai bien compris,
+
+663
+00:51:21,440 --> 00:51:22,440
+vu qu'ils ont…
+
+664
+00:51:23,440 --> 00:51:24,440
+Sidi, il a payé.
+
+665
+00:51:25,440 --> 00:51:28,440
+Apparemment, c'est en disant,
+
+666
+00:51:29,440 --> 00:51:30,440
+on est d'accord, on avoue.
+
+667
+00:51:31,440 --> 00:51:32,440
+Voilà, on avoue.
+
+668
+00:51:33,440 --> 00:51:34,440
+Donc c'est un aveu forcé,
+
+669
+00:51:35,440 --> 00:51:36,440
+ou tout du moins, enfin voilà.
+
+670
+00:51:37,440 --> 00:51:38,440
+Et en même temps que tu payes,
+
+671
+00:51:39,440 --> 00:51:40,440
+tu t'avoues que voilà,
+
+672
+00:51:41,440 --> 00:51:42,440
+tu as caché des choses
+
+673
+00:51:43,440 --> 00:51:44,440
+et que tu as permis des choses délectueuses.
+
+674
+00:51:45,440 --> 00:51:46,440
+Après les États-Unis,
+
+675
+00:51:47,440 --> 00:51:48,440
+ça reste quand même le racketteur du monde
+
+676
+00:51:49,440 --> 00:51:50,440
+le plus gros.
+
+677
+00:51:51,440 --> 00:51:54,440
+D'abord, ils rackettent ses potes.
+
+678
+00:51:55,440 --> 00:51:56,440
+Donc les premiers, c'est l'Europe.
+
+679
+00:51:57,440 --> 00:51:58,440
+Toutes les grosses boîtes françaises,
+
+680
+00:51:59,440 --> 00:52:00,440
+elles se sont faites allumer à un moment donné
+
+681
+00:52:01,440 --> 00:52:03,440
+et ont dû payer des amendes.
+
+682
+00:52:04,440 --> 00:52:06,440
+Alors les lois, elles arrivent…
+
+683
+00:52:07,440 --> 00:52:08,440
+Ils les font un peu…
+
+684
+00:52:09,440 --> 00:52:10,440
+Sur mesure.
+
+685
+00:52:11,440 --> 00:52:12,440
+Oui, sur mesure, pile poil sur le soir.
+
+686
+00:52:13,440 --> 00:52:14,440
+Et toi, on va te défoncer.
+
+687
+00:52:15,440 --> 00:52:16,440
+Et là, c'est pas une première,
+
+688
+00:52:17,440 --> 00:52:19,440
+mais qu'ils attaquent des sociétés
+
+689
+00:52:19,440 --> 00:52:22,440
+or, plutôt en Orient,
+
+690
+00:52:23,440 --> 00:52:24,440
+c'est…
+
+691
+00:52:25,440 --> 00:52:26,440
+Vous venez chez nous,
+
+692
+00:52:27,440 --> 00:52:28,440
+ok, on vous laisse rentrer chez nous,
+
+693
+00:52:29,440 --> 00:52:30,440
+mais vous allez racker, c'est normal.
+
+694
+00:52:31,440 --> 00:52:32,440
+Certainement.
+
+695
+00:52:33,440 --> 00:52:34,440
+Non, non, je ne dis pas le contraire.
+
+696
+00:52:35,440 --> 00:52:36,440
+Non, mais c'est des cow-boys quand même.
+
+697
+00:52:37,440 --> 00:52:38,440
+Ça, il faudrait peut-être qu'un jour ça s'arrête,
+
+698
+00:52:39,440 --> 00:52:41,440
+mais leur business fait partie du…
+
+699
+00:52:42,440 --> 00:52:45,440
+Comment je vais aller retirer de l'argent
+
+700
+00:52:46,440 --> 00:52:47,440
+aux grosses boîtes qui en gagnent en tout cas?
+
+701
+00:52:47,440 --> 00:52:49,440
+Ce que je n'aime pas, c'est que justement,
+
+702
+00:52:50,440 --> 00:52:52,440
+pour la crypto, ça s'avère être vrai,
+
+703
+00:52:53,440 --> 00:52:55,440
+c'est qu'il n'y a pas de règle vraiment très établie,
+
+704
+00:52:56,440 --> 00:52:57,440
+et rétrospectivement,
+
+705
+00:52:58,440 --> 00:52:59,440
+ils sous-entendent qu'en fait,
+
+706
+00:53:00,440 --> 00:53:01,440
+il y a eu des…
+
+707
+00:53:02,440 --> 00:53:03,440
+Il y a du bruit là, je ne sais pas,
+
+708
+00:53:04,440 --> 00:53:05,440
+c'est Wanda qui a des casse-boues là?
+
+709
+00:53:06,440 --> 00:53:07,440
+Non, désolé.
+
+710
+00:53:08,440 --> 00:53:09,440
+Pas de souci, c'est pas grave, t'inquiète.
+
+711
+00:53:10,440 --> 00:53:11,440
+Et du coup,
+
+712
+00:53:12,440 --> 00:53:13,440
+rétrospectivement,
+
+713
+00:53:14,440 --> 00:53:15,440
+ils vont dire,
+
+714
+00:53:15,440 --> 00:53:17,440
+en fait, vous avez agi contre la loi, etc.
+
+715
+00:53:18,440 --> 00:53:19,440
+alors qu'ils n'ont rien dit pendant des années,
+
+716
+00:53:20,440 --> 00:53:21,440
+et après, ils te tapent dessus,
+
+717
+00:53:22,440 --> 00:53:23,440
+ça, je n'aime pas du tout.
+
+718
+00:53:26,440 --> 00:53:29,440
+Ça ressemble un petit peu à un tacle contre la Chine,
+
+719
+00:53:30,440 --> 00:53:31,440
+peut-être pour pousser Coinbase,
+
+720
+00:53:32,440 --> 00:53:33,440
+et en fait,
+
+721
+00:53:34,440 --> 00:53:35,440
+ils surfent sur la vague
+
+722
+00:53:36,440 --> 00:53:38,440
+des dramas internationaux
+
+723
+00:53:39,440 --> 00:53:42,440
+en sous-entendant qu'il y aurait eu des faits
+
+724
+00:53:42,440 --> 00:53:45,440
+qui auraient, en fait, transité jusqu'en Iran,
+
+725
+00:53:46,440 --> 00:53:49,440
+et voire auraient pu financer des actions liées au Hamas.
+
+726
+00:53:50,440 --> 00:53:51,440
+Alors,
+
+727
+00:53:52,440 --> 00:53:53,440
+ce que je suis totalement d'accord avec toi,
+
+728
+00:53:54,440 --> 00:53:55,440
+c'est que malheureusement,
+
+729
+00:53:56,440 --> 00:53:57,440
+ça lui porte préjudice,
+
+730
+00:53:58,440 --> 00:53:59,440
+Sisy, ses origines.
+
+731
+00:54:00,440 --> 00:54:01,440
+Alors qu'il s'est toujours défendu
+
+732
+00:54:02,440 --> 00:54:03,440
+d'être sino-canadien,
+
+733
+00:54:04,440 --> 00:54:05,440
+et d'être, d'ailleurs,
+
+734
+00:54:06,440 --> 00:54:07,440
+il a plus grandi au Canada, je crois,
+
+735
+00:54:08,440 --> 00:54:09,440
+qu'en Chine.
+
+736
+00:54:09,440 --> 00:54:10,440
+Et qu'il s'est toujours défendu
+
+737
+00:54:11,440 --> 00:54:12,440
+d'avoir le moindre lien avec la Chine.
+
+738
+00:54:13,440 --> 00:54:14,440
+Mais forcément, en ce moment,
+
+739
+00:54:15,440 --> 00:54:16,440
+comme c'est très irruptif,
+
+740
+00:54:17,440 --> 00:54:18,440
+et que les États-Unis, par rapport à la Chine,
+
+741
+00:54:19,440 --> 00:54:20,440
+la Taïwan et compagnie,
+
+742
+00:54:21,440 --> 00:54:22,440
+et tous les embargos
+
+743
+00:54:23,440 --> 00:54:24,440
+qui font,
+
+744
+00:54:25,440 --> 00:54:26,440
+sur la 5G,
+
+745
+00:54:27,440 --> 00:54:28,440
+les chucus Huawei,
+
+746
+00:54:29,440 --> 00:54:30,440
+tout ça,
+
+747
+00:54:31,440 --> 00:54:32,440
+en fait, effectivement,
+
+748
+00:54:33,440 --> 00:54:34,440
+lui, il subit,
+
+749
+00:54:35,440 --> 00:54:36,440
+il paye les pots cassés
+
+750
+00:54:37,440 --> 00:54:38,440
+de ses origines ethniques, en fait.
+
+751
+00:54:39,440 --> 00:54:40,440
+Je suis d'accord.
+
+752
+00:54:41,440 --> 00:54:42,440
+Vous voyez pourquoi on a besoin d'IA?
+
+753
+00:54:43,440 --> 00:54:44,440
+Parce que franchement, les humains,
+
+754
+00:54:45,440 --> 00:54:46,440
+plus ils ont de pouvoir,
+
+755
+00:54:47,440 --> 00:54:48,440
+plus ils ont de fric,
+
+756
+00:54:49,440 --> 00:54:50,440
+moins ils sont contrôlables.
+
+757
+00:54:53,440 --> 00:54:54,440
+Il faut vraiment remplacer
+
+758
+00:54:55,440 --> 00:54:56,440
+tout ce haut-là,
+
+759
+00:54:57,440 --> 00:54:58,440
+et leur dire,
+
+760
+00:54:59,440 --> 00:55:00,440
+c'est pas parce que vous avez réussi
+
+761
+00:55:01,440 --> 00:55:02,440
+un coup dans votre vie,
+
+762
+00:55:03,440 --> 00:55:04,440
+ou que vous êtes héritier
+
+763
+00:55:05,440 --> 00:55:06,440
+de je ne sais pas quelle famille,
+
+764
+00:55:07,440 --> 00:55:08,440
+que vous êtes obligé
+
+765
+00:55:09,440 --> 00:55:10,440
+de vous dénoncer.
+
+766
+00:55:11,440 --> 00:55:12,440
+Donc, peut-être qu'une IA
+
+767
+00:55:13,440 --> 00:55:14,440
+qui n'a pas d'envie,
+
+768
+00:55:15,440 --> 00:55:16,440
+elle arrivera peut-être à juguler
+
+769
+00:55:17,440 --> 00:55:19,440
+toutes ces affaires internationales
+
+770
+00:55:20,440 --> 00:55:21,440
+qui sont juste super compliquées.
+
+771
+00:55:23,440 --> 00:55:24,440
+Entre ce qu'ils nous disent
+
+772
+00:55:25,440 --> 00:55:26,440
+et ce qu'ils font, en plus,
+
+773
+00:55:27,440 --> 00:55:28,440
+c'est devenu…
+
+774
+00:55:29,440 --> 00:55:30,440
+Et demain, je pense que oui,
+
+775
+00:55:31,440 --> 00:55:32,440
+effectivement,
+
+776
+00:55:33,440 --> 00:55:34,440
+sur le président argentin,
+
+777
+00:55:35,440 --> 00:55:36,440
+ça va être intéressant
+
+778
+00:55:37,440 --> 00:55:38,440
+de voir à quel point
+
+779
+00:55:39,440 --> 00:55:40,440
+on ne va pas très bien.
+
+780
+00:55:41,440 --> 00:55:42,440
+Je pense qu'on ne va pas très bien.
+
+781
+00:55:43,440 --> 00:55:44,440
+On devrait tous se mettre
+
+782
+00:55:45,440 --> 00:55:46,440
+à méditer tous ensemble
+
+783
+00:55:47,440 --> 00:55:48,440
+quelques jours
+
+784
+00:55:51,440 --> 00:55:52,440
+et se recentrer.
+
+785
+00:55:53,440 --> 00:55:54,440
+Je suis bien d'accord.
+
+786
+00:55:56,440 --> 00:55:57,440
+Alors, dans quelle mesure
+
+787
+00:55:58,440 --> 00:55:59,440
+les batailles d'IA,
+
+788
+00:56:00,440 --> 00:56:01,440
+entre guillemets,
+
+789
+00:56:02,440 --> 00:56:03,440
+parce qu'on sait qu'on n'est vraiment
+
+790
+00:56:04,440 --> 00:56:05,440
+pas loin de la G.I.,
+
+791
+00:56:06,440 --> 00:56:07,440
+contrairement à tout ce que
+
+792
+00:56:07,440 --> 00:56:08,440
+les chercheurs pouvaient penser
+
+793
+00:56:09,440 --> 00:56:10,440
+il y a encore une dizaine d'années.
+
+794
+00:56:11,440 --> 00:56:12,440
+Il y a des laboratoires de recherche
+
+795
+00:56:13,440 --> 00:56:14,440
+un peu partout,
+
+796
+00:56:15,440 --> 00:56:16,440
+et même dans les pays hostiles
+
+797
+00:56:17,440 --> 00:56:18,440
+aux démocraties,
+
+798
+00:56:19,440 --> 00:56:20,440
+de notre point de vue.
+
+799
+00:56:21,440 --> 00:56:22,440
+Mais je pense que notre point de vue
+
+800
+00:56:23,440 --> 00:56:24,440
+est…
+
+801
+00:56:25,440 --> 00:56:26,440
+Non, non, notre point de vue,
+
+802
+00:56:27,440 --> 00:56:28,440
+il est à valoriser.
+
+803
+00:56:30,440 --> 00:56:31,440
+Ceci dit,
+
+804
+00:56:32,440 --> 00:56:33,440
+comment empêcher une IA
+
+805
+00:56:34,440 --> 00:56:35,440
+de prendre trop de pouvoir
+
+806
+00:56:35,440 --> 00:56:36,440
+puisqu'elle sera capable
+
+807
+00:56:37,440 --> 00:56:38,440
+d'en fabriquer d'autres?
+
+808
+00:56:40,440 --> 00:56:41,440
+Oui.
+
+809
+00:56:42,440 --> 00:56:43,440
+Moi, j'ai été impressionné
+
+810
+00:56:44,440 --> 00:56:45,440
+par l'avancée, par exemple,
+
+811
+00:56:46,440 --> 00:56:47,440
+d'OpenAI en quelques mois,
+
+812
+00:56:48,440 --> 00:56:49,440
+depuis la sortie de GPT-4
+
+813
+00:56:50,440 --> 00:56:51,440
+et ce qu'ils ont sorti là.
+
+814
+00:56:53,440 --> 00:56:54,440
+Ils vont…
+
+815
+00:56:55,440 --> 00:56:56,440
+En fait, ça crée…
+
+816
+00:56:57,440 --> 00:56:58,440
+On avait des différences
+
+817
+00:56:59,440 --> 00:57:00,440
+entre les gens qui n'ont pas d'argent
+
+818
+00:57:01,440 --> 00:57:02,440
+et les gens qui en ont de l'argent.
+
+819
+00:57:03,440 --> 00:57:04,440
+Là, on est en train de voir
+
+820
+00:57:05,440 --> 00:57:06,440
+les gens qui sont dans l'IA
+
+821
+00:57:07,440 --> 00:57:08,440
+et ceux qui ne sont pas dans l'IA.
+
+822
+00:57:09,440 --> 00:57:10,440
+On n'a pas du tout
+
+823
+00:57:11,440 --> 00:57:12,440
+la même progression,
+
+824
+00:57:13,440 --> 00:57:14,440
+la même innovation.
+
+825
+00:57:15,440 --> 00:57:16,440
+Tout va à 200 à l'heure.
+
+826
+00:57:17,440 --> 00:57:18,440
+Moi, qui ne sais pas développer,
+
+827
+00:57:19,440 --> 00:57:20,440
+aujourd'hui, j'arrive à faire
+
+828
+00:57:21,440 --> 00:57:22,440
+des programmes.
+
+829
+00:57:23,440 --> 00:57:24,440
+J'ai besoin de programmes
+
+830
+00:57:25,440 --> 00:57:26,440
+qui paraissaient compliqués avant.
+
+831
+00:57:27,440 --> 00:57:28,440
+En 10 minutes, je les demande,
+
+832
+00:57:29,440 --> 00:57:30,440
+j'ai mon truc et je suis capable
+
+833
+00:57:31,440 --> 00:57:32,440
+de faire des choses.
+
+834
+00:57:33,440 --> 00:57:34,440
+Donc, imagine des mecs
+
+835
+00:57:35,440 --> 00:57:36,440
+qui ont la possibilité
+
+836
+00:57:37,440 --> 00:57:38,440
+d'avoir des machines
+
+837
+00:57:39,440 --> 00:57:40,440
+qui les aident encore plus.
+
+838
+00:57:41,440 --> 00:57:42,440
+À quelle vitesse ils doivent aller?
+
+839
+00:57:43,440 --> 00:57:44,440
+C'est fascinant.
+
+840
+00:57:45,440 --> 00:57:46,440
+C'est complètement fascinant.
+
+841
+00:57:47,440 --> 00:57:48,440
+Là, effectivement,
+
+842
+00:57:49,440 --> 00:57:50,440
+je pense que ça donne
+
+843
+00:57:51,440 --> 00:57:52,440
+à l'humain moyen,
+
+844
+00:57:53,440 --> 00:57:54,440
+et c'est bien la vision
+
+845
+00:57:55,440 --> 00:57:56,440
+de Sam Altman,
+
+846
+00:57:57,440 --> 00:57:58,440
+des capacités extraordinaires
+
+847
+00:57:59,440 --> 00:58:00,440
+qu'il n'aurait pas pu avoir
+
+848
+00:58:01,440 --> 00:58:02,440
+de par ses conditions sociales,
+
+849
+00:58:03,440 --> 00:58:04,440
+notamment, sans.
+
+850
+00:58:05,440 --> 00:58:06,440
+C'est un peu du peuple.
+
+851
+00:58:07,440 --> 00:58:08,440
+Ceci dit,
+
+852
+00:58:09,440 --> 00:58:10,440
+ce qu'il disait la semaine dernière
+
+853
+00:58:11,440 --> 00:58:12,440
+dans son interview,
+
+854
+00:58:13,440 --> 00:58:14,440
+c'est aussi,
+
+855
+00:58:15,440 --> 00:58:16,440
+pourquoi partager ça?
+
+856
+00:58:17,440 --> 00:58:18,440
+C'est vrai qu'il ne s'attendait peut-être pas
+
+857
+00:58:19,440 --> 00:58:20,440
+à cette espèce d'engouement,
+
+858
+00:58:21,440 --> 00:58:22,440
+finalement, d'en bas.
+
+859
+00:58:23,440 --> 00:58:24,440
+Pourquoi partager ça?
+
+860
+00:58:25,440 --> 00:58:26,440
+C'est aussi pour que, justement,
+
+861
+00:58:27,440 --> 00:58:28,440
+tout un chacun se rende compte
+
+862
+00:58:29,440 --> 00:58:30,440
+de la puissance
+
+863
+00:58:31,440 --> 00:58:32,440
+et aussi des risques inhérents
+
+864
+00:58:33,440 --> 00:58:34,440
+à cette puissance associée
+
+865
+00:58:35,440 --> 00:58:36,440
+et que chacun puisse prendre
+
+866
+00:58:37,440 --> 00:58:38,440
+ses responsabilités par rapport à ça.
+
+867
+00:58:39,440 --> 00:58:40,440
+Mais quelles miettes ils nous ont laissées, en fait?
+
+868
+00:58:41,440 --> 00:58:42,440
+Parce que là, on joue certainement
+
+869
+00:58:43,440 --> 00:58:44,440
+déjà avec des miettes.
+
+870
+00:58:45,440 --> 00:58:46,440
+J'imagine que...
+
+871
+00:58:47,440 --> 00:58:48,440
+Je suis pas sûre de ça,
+
+872
+00:58:49,440 --> 00:58:50,440
+parce qu'elles s'entraînent sur nous aussi.
+
+873
+00:58:51,440 --> 00:58:52,440
+Tu ne peux pas créer quelque chose
+
+874
+00:58:53,440 --> 00:58:55,440
+qui répond à autant de multiplicité
+
+875
+00:58:56,440 --> 00:58:57,440
+de cas d'usage
+
+876
+00:58:58,440 --> 00:58:59,440
+enfermé dans un laboratoire,
+
+877
+00:59:00,440 --> 00:59:01,440
+dans un entre-soi
+
+878
+00:59:02,440 --> 00:59:03,440
+de quelques laboratains.
+
+879
+00:59:03,440 --> 00:59:04,440
+C'est un petit texte horrible,
+
+880
+00:59:05,440 --> 00:59:06,440
+mais de tronches,
+
+881
+00:59:07,440 --> 00:59:08,440
+de super cerveaux très tech.
+
+882
+00:59:09,440 --> 00:59:10,440
+Parce qu'eux,
+
+883
+00:59:11,440 --> 00:59:12,440
+ils ont leur vision tech
+
+884
+00:59:13,440 --> 00:59:14,440
+avec effectivement ces aptitudes-là.
+
+885
+00:59:15,440 --> 00:59:16,440
+Alors, ils n'ont peut-être pas
+
+886
+00:59:17,440 --> 00:59:18,440
+des années d'avance,
+
+887
+00:59:19,440 --> 00:59:20,440
+mais tu vois, quand ils parlaient déjà
+
+888
+00:59:21,440 --> 00:59:22,440
+de GPT-4 sur la version multimodale,
+
+889
+00:59:23,440 --> 00:59:24,440
+etc.,
+
+890
+00:59:25,440 --> 00:59:26,440
+ils nous en ont parlé
+
+891
+00:59:27,440 --> 00:59:28,440
+dès que GPT-4 est sorti.
+
+892
+00:59:29,440 --> 00:59:30,440
+Mais ils ne l'ont pas sorti.
+
+893
+00:59:31,440 --> 00:59:32,440
+Là, ils sont en train de le sortir.
+
+894
+00:59:33,440 --> 00:59:34,440
+Je pense que ça a.
+
+895
+00:59:35,440 --> 00:59:36,440
+Mais eux,
+
+896
+00:59:37,440 --> 00:59:38,440
+je pense qu'ils s'amusent avec
+
+897
+00:59:39,440 --> 00:59:40,440
+depuis le mois de juillet.
+
+898
+00:59:41,440 --> 00:59:42,440
+Donc, ils ont
+
+899
+00:59:43,440 --> 00:59:44,440
+quatre mois sur un truc exponentiel.
+
+900
+00:59:45,440 --> 00:59:46,440
+Ça fait beaucoup,
+
+901
+00:59:47,440 --> 00:59:48,440
+beaucoup d'avance, en fait.
+
+902
+00:59:49,440 --> 00:59:50,440
+Bien sûr qu'on ne sait pas tout.
+
+903
+00:59:51,440 --> 00:59:52,440
+Bien sûr que c'est des recherches.
+
+904
+00:59:53,440 --> 00:59:54,440
+Mais entre ce qu'on sait
+
+905
+00:59:55,440 --> 00:59:56,440
+de ce qu'on nous donne
+
+906
+00:59:57,440 --> 00:59:58,440
+et ce qu'on sait de ce qu'on recherche
+
+907
+00:59:59,440 --> 01:00:00,440
+sur Hugging Face
+
+908
+01:00:01,440 --> 01:00:02,440
+et tout ce qu'on ne sait pas
+
+909
+01:00:03,440 --> 01:00:04,440
+et bien sûr,
+
+910
+01:00:05,440 --> 01:00:06,440
+on peut se dire qu'il y a du souci
+
+911
+01:00:07,440 --> 01:00:08,440
+à se faire.
+
+912
+01:00:09,440 --> 01:00:10,440
+Mais je pense que la vision
+
+913
+01:00:11,440 --> 01:00:12,440
+de responsabiliser chacun
+
+914
+01:00:13,440 --> 01:00:14,440
+et peut-être de faire confiance
+
+915
+01:00:15,440 --> 01:00:16,440
+justement à ce qu'il nous reste d'humanité
+
+916
+01:00:17,440 --> 01:00:18,440
+peut
+
+917
+01:00:19,440 --> 01:00:20,440
+sembler être une voie.
+
+918
+01:00:22,440 --> 01:00:23,440
+Alors, du coup,
+
+919
+01:00:24,440 --> 01:00:25,440
+est-ce que vous avez créé vos GPT
+
+920
+01:00:26,440 --> 01:00:27,440
+maintenant que tout le monde peut créer
+
+921
+01:00:28,440 --> 01:00:29,440
+son propre GPT?
+
+922
+01:00:30,440 --> 01:00:31,440
+C'est quoi?
+
+923
+01:00:31,440 --> 01:00:32,440
+Je suis,
+
+924
+01:00:33,440 --> 01:00:34,440
+je suis hyper enthousiaste la semaine dernière.
+
+925
+01:00:35,440 --> 01:00:36,440
+J'ai perdu tout mon enthousiasme
+
+926
+01:00:37,440 --> 01:00:38,440
+dans la semaine.
+
+927
+01:00:39,440 --> 01:00:40,440
+C'était trop compliqué.
+
+928
+01:00:41,440 --> 01:00:42,440
+Je l'ai recommencé plein de fois.
+
+929
+01:00:43,440 --> 01:00:44,440
+Il ne comprend pas ce que je lui ai dit.
+
+930
+01:00:45,440 --> 01:00:46,440
+Ça m'a saoulé.
+
+931
+01:00:47,440 --> 01:00:48,440
+J'ai fait comme laisse tomber.
+
+932
+01:00:49,440 --> 01:00:50,440
+Ah, ça me fait plaisir, ça.
+
+933
+01:00:51,440 --> 01:00:52,440
+Bon, maintenant, tu comprends le rôle
+
+934
+01:00:53,440 --> 01:00:54,440
+d'un prompt engineer,
+
+935
+01:00:55,440 --> 01:00:56,440
+à quoi il sert déjà
+
+936
+01:00:56,440 --> 01:00:57,440
+et tu comprends
+
+937
+01:00:58,440 --> 01:00:59,440
+ce que fait un data scientist
+
+938
+01:00:59,440 --> 01:01:00,440
+pour comprendre ces fichiers-là.
+
+939
+01:01:01,440 --> 01:01:02,440
+Voilà, là, c'est la première version
+
+940
+01:01:03,440 --> 01:01:04,440
+qu'ils ont sortie.
+
+941
+01:01:05,440 --> 01:01:06,440
+Elle marche quand même pas mal.
+
+942
+01:01:07,440 --> 01:01:08,440
+On peut faire des choses quand même intéressantes.
+
+943
+01:01:09,440 --> 01:01:10,440
+Mais,
+
+944
+01:01:12,440 --> 01:01:13,440
+mais ouais, mais nous ce qu'on fait en interne...
+
+945
+01:01:14,440 --> 01:01:15,440
+Non, mais là, ce n'est pas une question
+
+946
+01:01:16,440 --> 01:01:17,440
+de prompt engineering.
+
+947
+01:01:18,440 --> 01:01:19,440
+C'est vraiment une question de débilité,
+
+948
+01:01:20,440 --> 01:01:21,440
+de...
+
+949
+01:01:22,440 --> 01:01:23,440
+de...
+
+950
+01:01:24,440 --> 01:01:25,440
+de...
+
+951
+01:01:26,440 --> 01:01:27,440
+de...
+
+952
+01:01:27,440 --> 01:01:28,440
+Je lui donne une structure à respecter.
+
+953
+01:01:29,440 --> 01:01:30,440
+Et elle respecte la structure
+
+954
+01:01:31,440 --> 01:01:32,440
+jusqu'au dernier point.
+
+955
+01:01:33,440 --> 01:01:34,440
+Le dernier point, ça ne va pas.
+
+956
+01:01:35,440 --> 01:01:36,440
+Alors, je lui dis, pour le dernier point,
+
+957
+01:01:37,440 --> 01:01:38,440
+mais typique, genre exactement comme toujours,
+
+958
+01:01:39,440 --> 01:01:40,440
+depuis toujours, depuis que j'utilise
+
+959
+01:01:41,440 --> 01:01:42,440
+le slap de débilité, c'est toujours la même merde.
+
+960
+01:01:43,440 --> 01:01:44,440
+Je lui dis, je me concentre sur le dernier point
+
+961
+01:01:45,440 --> 01:01:46,440
+et je lui dis en plus, on va se concentrer
+
+962
+01:01:47,440 --> 01:01:48,440
+juste sur le dernier point.
+
+963
+01:01:49,440 --> 01:01:50,440
+Tout le reste, ça va.
+
+964
+01:01:51,440 --> 01:01:52,440
+Touche pas, c'est parfait.
+
+965
+01:01:53,440 --> 01:01:54,440
+Je veux juste le dernier point,
+
+966
+01:01:55,440 --> 01:01:56,440
+on va bosser ce truc-là.
+
+967
+01:01:57,440 --> 01:02:02,440
+amour
+
+968
+01:02:27,440 --> 01:02:30,440
+Bah c'est tout ton historique d'abord.
+
+969
+01:02:30,440 --> 01:02:37,440
+Donc au bout d'un moment, et tu vois bien sur les 128 000 tokens là, sur le GPT Turbo,
+
+970
+01:02:37,440 --> 01:02:41,440
+il y a plein d'études qui montrent qu'à partir de 70 000, 80 000,
+
+971
+01:02:41,440 --> 01:02:45,440
+il commence à être faible.
+
+972
+01:02:45,440 --> 01:02:49,440
+Mais c'est pas étonnant, t'as des milliards de paramètres à traverser
+
+973
+01:02:49,440 --> 01:02:54,440
+et tu veux les traverser avec 80 000 tokens, tu vois.
+
+974
+01:02:55,440 --> 01:03:00,440
+Déjà c'est super long, et puis à l'intérieur, ça peut être des stats,
+
+975
+01:03:00,440 --> 01:03:04,440
+au bout d'un moment les stats, ça reste des stats.
+
+976
+01:03:06,440 --> 01:03:09,440
+Oui ça patine, ça patine en fait.
+
+977
+01:03:09,440 --> 01:03:15,440
+Depuis une semaine et demie, enfin depuis qu'il y a eu l'OpenAI Dev,
+
+978
+01:03:15,440 --> 01:03:20,440
+effectivement tout le monde s'est précipité et qu'il y a eu une surcharge de la demande,
+
+979
+01:03:20,440 --> 01:03:23,440
+ce qui fait que c'était plus opérationnel en fait.
+
+980
+01:03:23,440 --> 01:03:26,440
+Ça tout à fait, c'est juste.
+
+981
+01:03:26,440 --> 01:03:29,440
+T'inquiète pas, ça va s'arranger.
+
+982
+01:03:31,440 --> 01:03:35,440
+Oublie pas que c'est un enfant et qu'il faut bien lui parler gentiment,
+
+983
+01:03:35,440 --> 01:03:37,440
+et il faut être patient avec.
+
+984
+01:03:37,440 --> 01:03:41,440
+J'ai carrément, ça m'a tellement saoulé que je lui ai retiré son argent de poche,
+
+985
+01:03:41,440 --> 01:03:44,440
+j'ai cancel l'abonnement et tout.
+
+986
+01:03:47,440 --> 01:03:49,440
+Ça ne donne pas de poids.
+
+987
+01:03:49,440 --> 01:03:53,440
+Du coup parce que c'est ça, comme ça marche super bien avec Claude,
+
+988
+01:03:53,440 --> 01:03:59,440
+je vais continuer juste avec Claude et puis voilà quoi, tant pis.
+
+989
+01:03:59,440 --> 01:04:03,440
+Oui mais ça marche bien parce que ton compte, tu le fais en une fois.
+
+990
+01:04:03,440 --> 01:04:05,440
+Oui c'est ça, je le fais en une fois.
+
+991
+01:04:05,440 --> 01:04:09,440
+Je balance le même texte à chaque fois, et puis c'est toujours le même format,
+
+992
+01:04:09,440 --> 01:04:12,440
+je suis bien dans mes chaussons, c'est parfait.
+
+993
+01:04:13,440 --> 01:04:18,440
+Et justement, vous aviez vu qu'Entropiq voulait racheter OpenAI,
+
+994
+01:04:18,440 --> 01:04:25,440
+j'ai vu passer ça aussi dans la cohorte d'infos qui se sont succédées.
+
+995
+01:04:27,440 --> 01:04:28,440
+Non, je ne pense pas.
+
+996
+01:04:28,440 --> 01:04:33,440
+Non, il y a eu un merge, il y a eu une proposition de merge de la part d'OpenAI,
+
+997
+01:04:33,440 --> 01:04:36,440
+mais je ne pense pas qu'Entropiq, mais le truc c'est que,
+
+998
+01:04:36,440 --> 01:04:38,440
+comme je disais au tout début de l'émission,
+
+999
+01:04:40,440 --> 01:04:45,440
+le mec qui, je crois que c'est le CEO qui a joined,
+
+1000
+01:04:45,440 --> 01:04:48,440
+c'est ça s'il a des parts dans Entropiq.
+
+1001
+01:04:50,440 --> 01:04:54,440
+Excusez-moi pour le terme merge, parce que ça me fait penser à Ethereum,
+
+1002
+01:04:54,440 --> 01:04:56,440
+mais là c'est vrai que c'est un truc que je ne maîtrise pas,
+
+1003
+01:04:56,440 --> 01:05:00,440
+c'est comme un fork de bifurquer l'intelligence, c'est ça?
+
+1004
+01:05:00,440 --> 01:05:04,440
+Non, je pense que c'est un genre de rachat,
+
+1005
+01:05:04,440 --> 01:05:08,440
+mais ils se mettent ensemble, je ne connais même pas.
+
+1006
+01:05:09,440 --> 01:05:11,440
+Comment on dit?
+
+1007
+01:05:11,440 --> 01:05:12,440
+Comme une fusion?
+
+1008
+01:05:12,440 --> 01:05:14,440
+Ouais, c'est probablement ça.
+
+1009
+01:05:16,440 --> 01:05:18,440
+Ok, merci.
+
+1010
+01:05:19,440 --> 01:05:26,440
+Je ne connais pas trop les tenants, les aboutissants exacts de ce genre de choses,
+
+1011
+01:05:26,440 --> 01:05:30,440
+mais j'imagine que l'idée c'est qu'ils fassent une fusion,
+
+1012
+01:05:30,440 --> 01:05:34,440
+plus qu'ils soient rachetés ou un truc du genre.
+
+1013
+01:05:38,440 --> 01:05:43,440
+Est-ce que vous avez vu le commentateur de foot hier?
+
+1014
+01:05:45,440 --> 01:05:46,440
+Non.
+
+1015
+01:05:46,440 --> 01:05:49,440
+J'ai vu commentateur de foot et commentateur de basket aussi.
+
+1016
+01:05:49,440 --> 01:05:55,440
+Maintenant que j'ai piqué la vision,
+
+1017
+01:05:55,440 --> 01:05:58,440
+et avec du TTS, avec de la voix,
+
+1018
+01:05:58,440 --> 01:06:01,440
+tu lui passes un,
+
+1019
+01:06:01,440 --> 01:06:04,440
+je l'en ai vu un où c'est Messi qui drigue le Némé,
+
+1020
+01:06:04,440 --> 01:06:06,440
+et qui va marquer,
+
+1021
+01:06:06,440 --> 01:06:08,440
+et t'as Lya qui commente.
+
+1022
+01:06:09,440 --> 01:06:12,440
+Ça serait bien pour le jeu vidéo, tu vois.
+
+1023
+01:06:12,440 --> 01:06:16,440
+Il y en a un sur Dota, je crois.
+
+1024
+01:06:16,440 --> 01:06:18,440
+Ah oui?
+
+1025
+01:06:18,440 --> 01:06:20,440
+Tu en avais parlé.
+
+1026
+01:06:20,440 --> 01:06:27,440
+Par contre, franchement, là, il ne faut pas pousser.
+
+1027
+01:06:27,440 --> 01:06:31,440
+C'est vrai, la intelligence artificielle sera inépuisable,
+
+1028
+01:06:31,440 --> 01:06:36,440
+et elle pourra effectivement commenter les actions, etc.
+
+1029
+01:06:36,440 --> 01:06:41,440
+Mais là, on parle de choses qui sont humaines.
+
+1030
+01:06:41,440 --> 01:06:44,440
+On ne touche pas au foot, quoi.
+
+1031
+01:06:44,440 --> 01:06:48,440
+Il faut des commentateurs qui racontent des conneries, des fois aussi.
+
+1032
+01:06:50,440 --> 01:06:53,440
+Il faut trouver des Yai qui racontent des conneries, c'est sûr.
+
+1033
+01:06:53,440 --> 01:06:55,440
+C'est ça.
+
+1034
+01:06:55,440 --> 01:06:57,440
+Tu imagines, c'est génial,
+
+1035
+01:06:57,440 --> 01:06:59,440
+parce que tu peux choisir ton délire,
+
+1036
+01:06:59,440 --> 01:07:01,440
+tu peux choisir les conneries que tu veux entendre.
+
+1037
+01:07:01,440 --> 01:07:03,440
+C'est ça qui est génial.
+
+1038
+01:07:03,440 --> 01:07:06,440
+Après, tu peux lui demander qu'il ait un accent.
+
+1039
+01:07:06,440 --> 01:07:10,440
+Ah oui, tu peux même lui demander à ce qu'il soit dit.
+
+1040
+01:07:11,440 --> 01:07:15,440
+Par exemple, je ne sais pas si vous avez connu ça,
+
+1041
+01:07:15,440 --> 01:07:19,440
+mais si vous avez le souvenir de ça, peu importe.
+
+1042
+01:07:19,440 --> 01:07:24,440
+Il y a eu une édition d'Eurovision qui avait été commentée par Dave.
+
+1043
+01:07:24,440 --> 01:07:27,440
+C'était l'Eurovision le plus drôle qui a jamais existé.
+
+1044
+01:07:27,440 --> 01:07:31,440
+Les commentaires étaient merveilleux, parfaits, super drôles.
+
+1045
+01:07:31,440 --> 01:07:33,440
+Évidemment, il n'a pas été réinvité,
+
+1046
+01:07:33,440 --> 01:07:37,440
+parce que tu n'es pas censé te foutre de la gueule de chaque parti.
+
+1047
+01:07:38,440 --> 01:07:41,440
+Il joue la carte de « on est un peu sérieux quand même ».
+
+1048
+01:07:41,440 --> 01:07:45,440
+Franchement, s'il y avait une IA qui pouvait reprendre ce principe-là,
+
+1049
+01:07:45,440 --> 01:07:47,440
+ce serait parfait.
+
+1050
+01:07:47,440 --> 01:07:49,440
+Moi, je veux des doublages,
+
+1051
+01:07:49,440 --> 01:07:51,440
+qu'ils puissent faire des doublages directement
+
+1052
+01:07:51,440 --> 01:07:54,440
+quand il y a des hommes politiques qui sont en train de nous parler,
+
+1053
+01:07:54,440 --> 01:07:57,440
+pour rendre le truc un peu plus vivant.
+
+1054
+01:07:57,440 --> 01:07:59,440
+Le mec est en train de dire un truc,
+
+1055
+01:07:59,440 --> 01:08:02,440
+et ton IA commente,
+
+1056
+01:08:02,440 --> 01:08:05,440
+un peu comme on fait tous quand on est devant la télé,
+
+1057
+01:08:05,440 --> 01:08:07,440
+mais elle commente avec des arguments.
+
+1058
+01:08:07,440 --> 01:08:09,440
+« Ah tiens, il est en train de dire ça,
+
+1059
+01:08:09,440 --> 01:08:12,440
+mais alors qu'il y a ça, ça, ça qui s'est passé. »
+
+1060
+01:08:12,440 --> 01:08:15,440
+« Ah ouais, il est en train de dire ça, mais en fait, c'est complètement faux,
+
+1061
+01:08:15,440 --> 01:08:17,440
+parce qu'il y a telle annonce qui est sortie. »
+
+1062
+01:08:17,440 --> 01:08:19,440
+Tu vois?
+
+1063
+01:08:19,440 --> 01:08:21,440
+Un genre de « community note ».
+
+1064
+01:08:21,440 --> 01:08:24,440
+Un « fake shaker » live.
+
+1065
+01:08:24,440 --> 01:08:28,440
+La meuf est en train de te dire ça, alors que pas du tout.
+
+1066
+01:08:30,440 --> 01:08:34,440
+Tu as les news, et puis tu as un énorme « faux »
+
+1067
+01:08:34,440 --> 01:08:36,440
+qui apparaît sur l'écran.
+
+1068
+01:08:36,440 --> 01:08:38,440
+« C'est complètement faux! »
+
+1069
+01:08:38,440 --> 01:08:43,440
+« Ça va faire perdre la spontanéité des gens par contre. »
+
+1070
+01:08:43,440 --> 01:08:45,440
+« Ah oui! »
+
+1071
+01:08:45,440 --> 01:08:50,440
+Tu m'étonnes qu'il réfléchisse à deux fois avant de dire un truc.
+
+1072
+01:08:50,440 --> 01:08:53,440
+Il viendrait un petit peu plus tôt,
+
+1073
+01:08:53,440 --> 01:08:56,440
+le mec qui représente le moteur,
+
+1074
+01:08:56,440 --> 01:08:59,440
+pour vérifier que ce qui va arriver sur le compteur,
+
+1075
+01:08:59,440 --> 01:09:02,440
+ce n'est pas délirant,
+
+1076
+01:09:02,440 --> 01:09:04,440
+que ce soit vraiment exact.
+
+1077
+01:09:04,440 --> 01:09:09,440
+Ça remet de la vérité dans l'info.
+
+1078
+01:09:09,440 --> 01:09:11,440
+C'est pas mal, je trouve.
+
+1079
+01:09:11,440 --> 01:09:15,440
+Mais c'est vrai que du coup, ça rend le truc un petit peu plus froid.
+
+1080
+01:09:15,440 --> 01:09:19,440
+Je pense qu'on aura des zones dédigitalisées.
+
+1081
+01:09:19,440 --> 01:09:22,440
+Il y en a déjà qui s'amusent à faire ça,
+
+1082
+01:09:22,440 --> 01:09:27,440
+mais des endroits où on ira, où il n'y aura pas du tout de numérique.
+
+1083
+01:09:27,440 --> 01:09:30,440
+Et tu paieras en plus.
+
+1084
+01:09:30,440 --> 01:09:32,440
+Tu paieras pour aller dans des endroits,
+
+1085
+01:09:32,440 --> 01:09:34,440
+dans des grosses cages de faraday,
+
+1086
+01:09:34,440 --> 01:09:38,440
+où il n'y a pas de téléphone, il n'y a rien, il n'y a pas d'onde.
+
+1087
+01:09:38,440 --> 01:09:45,440
+Juste pour te retrouver sans électronique.
+
+1088
+01:09:45,440 --> 01:09:48,440
+Pour interagir avec des gens,
+
+1089
+01:09:48,440 --> 01:09:51,440
+pour retrouver le côté goofy de l'humain,
+
+1090
+01:09:51,440 --> 01:09:54,440
+pour dire des conneries, se tromper.
+
+1091
+01:09:54,440 --> 01:09:58,440
+On mangera des trucs par terre, on cueillera des fruits.
+
+1092
+01:10:01,440 --> 01:10:07,440
+En tout cas, pour le thème d'aujourd'hui, c'est pas mal.
+
+1093
+01:10:07,440 --> 01:10:09,440
+Est-ce qu'on va atteindre la GIE?
+
+1094
+01:10:09,440 --> 01:10:12,440
+Je pense que la GIE, c'est pour très bientôt.
+
+1095
+01:10:12,440 --> 01:10:15,440
+Honnêtement, à vue de la vitesse à laquelle tout va,
+
+1096
+01:10:15,440 --> 01:10:19,440
+tous les outils temps réels qui sont en train de sortir,
+
+1097
+01:10:19,440 --> 01:10:21,440
+tous les trucs qu'on ne sait pas,
+
+1098
+01:10:21,440 --> 01:10:26,440
+surtout ce qui se passe dans les coulisses d'OpenAI et autres.
+
+1099
+01:10:27,440 --> 01:10:30,440
+Probablement pour 2024.
+
+1100
+01:10:30,440 --> 01:10:32,440
+C'est mon pronostic.
+
+1101
+01:10:32,440 --> 01:10:36,440
+Profitez-en pour vous amuser encore avec les outils qui sortent.
+
+1102
+01:10:36,440 --> 01:10:39,440
+Les outils sont quand même super marrants.
+
+1103
+01:10:39,440 --> 01:10:42,440
+Les outils autour du son.
+
+1104
+01:10:42,440 --> 01:10:47,440
+J'étais en train de jouer avec MusicFee de OpenAI.
+
+1105
+01:10:47,440 --> 01:10:51,440
+En gros, c'est ce que je faisais avant.
+
+1106
+01:10:51,440 --> 01:10:53,440
+Quand tu n'es pas musicien, tu as devoir faire ça.
+
+1107
+01:10:53,440 --> 01:10:55,440
+Tu chantonnes ou tu fais un truc.
+
+1108
+01:10:55,440 --> 01:10:59,440
+Et dans ta tête, c'est une grosse guitare ou quelqu'un qui chante.
+
+1109
+01:10:59,440 --> 01:11:01,440
+Là, tu fais...
+
+1110
+01:11:04,440 --> 01:11:06,440
+Et tu te dis que c'est une grosse...
+
+1111
+01:11:06,440 --> 01:11:10,440
+Et il te ressort une grosse guitare électrique qui fait ça.
+
+1112
+01:11:11,440 --> 01:11:14,440
+Ou tu joues de la flûte et tu dis que c'est une trompette.
+
+1113
+01:11:16,440 --> 01:11:21,440
+Tu peux mélanger tout ce que tu sors avec ta bouche ou tes doigts
+
+1114
+01:11:21,440 --> 01:11:23,440
+quand tu tapes sur quelque chose
+
+1115
+01:11:23,440 --> 01:11:28,440
+et en faire un réel instrument que tu peux remixer avec d'autres instruments derrière.
+
+1116
+01:11:29,440 --> 01:11:30,440
+C'est marrant.
+
+1117
+01:11:30,440 --> 01:11:33,440
+C'est MusicFee.ly, c'est ça?
+
+1118
+01:11:33,440 --> 01:11:35,440
+Oui, c'est ça.
+
+1119
+01:11:38,440 --> 01:11:43,440
+Vous avez le Google qui a sorti des outils pour créer de la musique
+
+1120
+01:11:43,440 --> 01:11:47,440
+avec des voix d'artistes sous accords commerciaux
+
+1121
+01:11:48,440 --> 01:11:55,440
+et de pouvoir créer sa musique avec le style Alicia Keys, Justin Bieber, etc.
+
+1122
+01:11:56,440 --> 01:11:59,440
+Oui, c'était la suite logique.
+
+1123
+01:12:01,440 --> 01:12:06,440
+En ce moment, je vois beaucoup de James Hetfield, le chanteur de Metallica,
+
+1124
+01:12:06,440 --> 01:12:09,440
+mais qui reprend du Britney Spears, qui reprend des trucs.
+
+1125
+01:12:09,440 --> 01:12:11,440
+Et tu écoutes, tu fais...
+
+1126
+01:12:12,440 --> 01:12:14,440
+Et c'est juste excellent.
+
+1127
+01:12:17,440 --> 01:12:20,440
+Finalement, c'est le remix qu'on fait avec tous les samples,
+
+1128
+01:12:20,440 --> 01:12:23,440
+mais on fait un remix vraiment direct.
+
+1129
+01:12:23,440 --> 01:12:29,440
+On change la voix, on est plus précis sur ce qu'on peut faire.
+
+1130
+01:12:30,440 --> 01:12:33,440
+Il y a beaucoup de trucs avec Macron aussi.
+
+1131
+01:12:33,440 --> 01:12:36,440
+Toutes les parodies avec Macron font super rire.
+
+1132
+01:12:36,440 --> 01:12:39,440
+Je suis sûr que c'est lui qui les balance.
+
+1133
+01:12:39,440 --> 01:12:42,440
+J'ai demandé à mes gamins d'arrêter de me les envoyer.
+
+1134
+01:12:42,440 --> 01:12:45,440
+J'ai dit, c'est bon, c'est pour voir sa tronche.
+
+1135
+01:12:46,440 --> 01:12:49,440
+C'est un super moyen pour être visible de partout.
+
+1136
+01:12:49,440 --> 01:12:51,440
+Tu fais une vidéo comme ça.
+
+1137
+01:12:51,440 --> 01:12:54,440
+Tout le monde rigole en disant, c'est rigolo.
+
+1138
+01:12:54,440 --> 01:12:59,440
+Mais en attendant, on voit sa tronche tous les jours sur TikTok.
+
+1139
+01:13:00,440 --> 01:13:03,440
+Après, tu sais, ça a été le lot.
+
+1140
+01:13:03,440 --> 01:13:05,440
+Après, avec d'autres technologies à l'époque,
+
+1141
+01:13:05,440 --> 01:13:07,440
+quand c'était la retouche d'image, etc.
+
+1142
+01:13:07,440 --> 01:13:10,440
+Mais tous les présidents de la République, on a bouffé du Waw.
+
+1143
+01:13:10,440 --> 01:13:12,440
+On n'arrêtait pas.
+
+1144
+01:13:12,440 --> 01:13:13,440
+On oublie ça.
+
+1145
+01:13:13,440 --> 01:13:16,440
+Du Sarko, quand c'était son quinquennat,
+
+1146
+01:13:16,440 --> 01:13:19,440
+on n'arrêtait pas de bouffer du Sarko à toutes les sauces.
+
+1147
+01:13:19,440 --> 01:13:23,440
+Mais j'ai entendu Macron qui chantait du Céline Dion.
+
+1148
+01:13:23,440 --> 01:13:24,440
+C'était marrant.
+
+1149
+01:13:27,440 --> 01:13:33,440
+Il faut vraiment essayer d'en faire sur le clonage de voix.
+
+1150
+01:13:33,440 --> 01:13:38,440
+Et puis après, sur les outils soit d'image.
+
+1151
+01:13:39,440 --> 01:13:42,440
+Parce que là, qu'est-ce que j'ai vu tout à l'heure?
+
+1152
+01:13:42,440 --> 01:13:46,440
+Directement avec des outils de modelage 3D.
+
+1153
+01:13:48,440 --> 01:13:50,440
+Et c'est aussi en temps réel.
+
+1154
+01:13:50,440 --> 01:13:52,440
+Donc tu rajoutes un peu tes parties.
+
+1155
+01:13:52,440 --> 01:13:55,440
+Et ils te reconstruisent le modèle,
+
+1156
+01:13:55,440 --> 01:13:58,440
+mais avec une finition qui n'a rien à voir.
+
+1157
+01:13:58,440 --> 01:14:00,440
+Si tu lui dis que c'est un sphinx,
+
+1158
+01:14:00,440 --> 01:14:04,440
+ta grosse boule où tu as mis deux oreilles toutes dégueulasses
+
+1159
+01:14:04,440 --> 01:14:06,440
+avec un truc toute dégueulasse,
+
+1160
+01:14:06,440 --> 01:14:10,440
+tu arrives à voir des choses qui sont juste magnifiques.
+
+1161
+01:14:10,440 --> 01:14:12,440
+C'est même plus de l'image.
+
+1162
+01:14:14,440 --> 01:14:16,440
+Donc on va pouvoir créer des jeux,
+
+1163
+01:14:16,440 --> 01:14:18,440
+créer des choses.
+
+1164
+01:14:18,440 --> 01:14:20,440
+C'est quoi le PC?
+
+1165
+01:14:20,440 --> 01:14:22,440
+Ça, c'est...
+
+1166
+01:14:22,440 --> 01:14:24,440
+Je ne vais pas pouvoir regarder
+
+1167
+01:14:24,440 --> 01:14:26,440
+parce qu'à chaque fois que je vais sur TikTok,
+
+1168
+01:14:26,440 --> 01:14:28,440
+ils me déconnectent de Twitch.
+
+1169
+01:14:28,440 --> 01:14:30,440
+Ah ouais.
+
+1170
+01:14:32,440 --> 01:14:34,440
+Je leur mettrai dans le...
+
+1171
+01:14:34,440 --> 01:14:36,440
+Je te l'enverrai.
+
+1172
+01:14:37,440 --> 01:14:39,440
+OK, parce que...
+
+1173
+01:14:39,440 --> 01:14:41,440
+Moi, la référence que j'ai en ce moment,
+
+1174
+01:14:41,440 --> 01:14:43,440
+c'est vraiment Créa,
+
+1175
+01:14:43,440 --> 01:14:45,440
+où tu peux faire des dessins,
+
+1176
+01:14:45,440 --> 01:14:47,440
+et tu peux faire des trucs en 3D aussi.
+
+1177
+01:14:47,440 --> 01:14:49,440
+Mais il faut avoir un code
+
+1178
+01:14:49,440 --> 01:14:52,440
+que éventuellement le community manager te donne.
+
+1179
+01:14:52,440 --> 01:14:54,440
+Mais c'est compliqué.
+
+1180
+01:14:54,440 --> 01:14:56,440
+Mais ça va venir bientôt.
+
+1181
+01:14:56,440 --> 01:14:58,440
+Le gros problème de tous,
+
+1182
+01:14:58,440 --> 01:15:00,440
+après quand tu le charges et tu le mets en local,
+
+1183
+01:15:00,440 --> 01:15:02,440
+c'est la puissance de ta machine.
+
+1184
+01:15:02,440 --> 01:15:04,440
+Et par contre,
+
+1185
+01:15:04,440 --> 01:15:06,440
+il y a toujours la possibilité d'aller louer du GPU
+
+1186
+01:15:06,440 --> 01:15:08,440
+sur du GCP,
+
+1187
+01:15:08,440 --> 01:15:10,440
+sur du Google ou sur de l'Amazon.
+
+1188
+01:15:10,440 --> 01:15:12,440
+Donc tu peux aller louer ton GPU
+
+1189
+01:15:12,440 --> 01:15:14,440
+pour faire tourner tes trucs
+
+1190
+01:15:14,440 --> 01:15:16,440
+sur ta machine ensuite.
+
+1191
+01:15:18,440 --> 01:15:20,440
+Ah, ça me fait penser.
+
+1192
+01:15:20,440 --> 01:15:22,440
+Le truc de Renwell,
+
+1193
+01:15:22,440 --> 01:15:24,440
+qui anime les images.
+
+1194
+01:15:24,440 --> 01:15:26,440
+Ça y est, il est dispo.
+
+1195
+01:15:26,440 --> 01:15:28,440
+J'y arrivais pas, il n'était pas dispo pour moi.
+
+1196
+01:15:28,440 --> 01:15:30,440
+En tout cas, il est dispo depuis quelques heures pour moi.
+
+1197
+01:15:30,440 --> 01:15:32,440
+Je ne sais pas si...
+
+1198
+01:15:32,440 --> 01:15:34,440
+Sur le Gen 2?
+
+1199
+01:15:34,440 --> 01:15:36,440
+Le truc où...
+
+1200
+01:15:36,440 --> 01:15:38,440
+Le brush pour les images,
+
+1201
+01:15:38,440 --> 01:15:40,440
+qui anime les images.
+
+1202
+01:15:40,440 --> 01:15:42,440
+D'accord.
+
+1203
+01:15:42,440 --> 01:15:44,440
+Il y a une annonce aussi,
+
+1204
+01:15:44,440 --> 01:15:46,440
+et ça, vous pouvez aller le tester tout de suite.
+
+1205
+01:15:46,440 --> 01:15:48,440
+C'est le playground d'Amazon.
+
+1206
+01:15:48,440 --> 01:15:50,440
+Côté Bedrock.
+
+1207
+01:15:50,440 --> 01:15:52,440
+Ils ont sorti un playground
+
+1208
+01:15:52,440 --> 01:15:54,440
+où vous tapez
+
+1209
+01:15:54,440 --> 01:15:56,440
+ce que vous voulez avoir comme application
+
+1210
+01:15:56,440 --> 01:15:58,440
+et ils vous créent l'application.
+
+1211
+01:16:02,440 --> 01:16:04,440
+Alors, évidemment, c'est un playground.
+
+1212
+01:16:04,440 --> 01:16:06,440
+Mais si vous avez besoin,
+
+1213
+01:16:06,440 --> 01:16:08,440
+je ne sais pas moi, d'avoir...
+
+1214
+01:16:08,440 --> 01:16:10,440
+Je voudrais avoir une application
+
+1215
+01:16:10,440 --> 01:16:12,440
+qui transforme mes vidéos
+
+1216
+01:16:12,440 --> 01:16:14,440
+en texte et qui me fasse un résumé
+
+1217
+01:16:14,440 --> 01:16:16,440
+à la fin.
+
+1218
+01:16:16,440 --> 01:16:18,440
+Oh non, pardon.
+
+1219
+01:16:18,440 --> 01:16:20,440
+Je veux passer mon podcast
+
+1220
+01:16:20,440 --> 01:16:22,440
+et je voudrais
+
+1221
+01:16:22,440 --> 01:16:24,440
+avoir un résumé
+
+1222
+01:16:24,440 --> 01:16:26,440
+qui me fasse
+
+1223
+01:16:26,440 --> 01:16:28,440
+un post LinkedIn juste derrière.
+
+1224
+01:16:28,440 --> 01:16:30,440
+Ah non, mais trop délire.
+
+1225
+01:16:30,440 --> 01:16:32,440
+C'est quoi ce truc là?
+
+1226
+01:16:32,440 --> 01:16:34,440
+C'est quoi le lien?
+
+1227
+01:16:34,440 --> 01:16:36,440
+C'est Playground,
+
+1228
+01:16:36,440 --> 01:16:38,440
+ça c'est sûr.
+
+1229
+01:16:38,440 --> 01:16:40,440
+Et après...
+
+1230
+01:16:40,440 --> 01:16:42,440
+Moi j'ai tapé Playground Amazon
+
+1231
+01:16:42,440 --> 01:16:44,440
+mais ça m'a envoyé dans la section
+
+1232
+01:16:44,440 --> 01:16:46,440
+des jouets pour enfants Amazon.
+
+1233
+01:16:46,440 --> 01:16:48,440
+Non, je cherche...
+
+1234
+01:16:48,440 --> 01:16:50,440
+C'est Party Rock.
+
+1235
+01:16:50,440 --> 01:16:52,440
+Ils l'ont appelé comme ça.
+
+1236
+01:16:52,440 --> 01:16:54,440
+Et c'est le Bedrock Playground.
+
+1237
+01:16:54,440 --> 01:16:56,440
+Et on l'adresse.
+
+1238
+01:16:56,440 --> 01:16:58,440
+Où est-ce qu'ils ont mis ça?
+
+1239
+01:16:58,440 --> 01:17:00,440
+C'est Party Rock.aws
+
+1240
+01:17:00,440 --> 01:17:02,440
+C'est Party Rock.aws
+
+1241
+01:17:02,440 --> 01:17:04,440
+Bon ben voilà.
+
+1242
+01:17:08,440 --> 01:17:10,440
+Et là je crois que
+
+1243
+01:17:10,440 --> 01:17:12,440
+vous pouvez générer...
+
+1244
+01:17:14,440 --> 01:17:16,440
+Ça reste des applications
+
+1245
+01:17:18,440 --> 01:17:20,440
+assez basiques.
+
+1246
+01:17:20,440 --> 01:17:22,440
+Après il y a du LLM dedans
+
+1247
+01:17:22,440 --> 01:17:24,440
+donc forcément déjà ça peut vous donner
+
+1248
+01:17:24,440 --> 01:17:26,440
+des trucs assez puissants.
+
+1249
+01:17:26,440 --> 01:17:28,440
+Mais pour jouer avec c'est...
+
+1250
+01:17:32,440 --> 01:17:34,440
+Ah non mais délire, franchement merci.
+
+1251
+01:17:36,440 --> 01:17:38,440
+De toute façon
+
+1252
+01:17:38,440 --> 01:17:40,440
+on va aller vraiment là-dedans.
+
+1253
+01:17:40,440 --> 01:17:42,440
+Moi je vois beaucoup d'exemples
+
+1254
+01:17:42,440 --> 01:17:44,440
+de création d'applis
+
+1255
+01:17:44,440 --> 01:17:46,440
+où directement dans
+
+1256
+01:17:46,440 --> 01:17:48,440
+les outils no code ou low code
+
+1257
+01:17:48,440 --> 01:17:50,440
+ils remettent de l'IA à l'intérieur
+
+1258
+01:17:50,440 --> 01:17:52,440
+et de moins en moins
+
+1259
+01:17:52,440 --> 01:17:54,440
+on a besoin de coder, de moins en moins
+
+1260
+01:17:54,440 --> 01:17:56,440
+je trouve que c'est pas encore
+
+1261
+01:17:56,440 --> 01:17:58,440
+très pratique. Moi j'aimerais vraiment
+
+1262
+01:17:58,440 --> 01:18:00,440
+ne rien avoir à faire et lui dire
+
+1263
+01:18:00,440 --> 01:18:02,440
+bon ben alors je vais avoir une base de données
+
+1264
+01:18:02,440 --> 01:18:04,440
+où il y aura ça là-dessus
+
+1265
+01:18:04,440 --> 01:18:06,440
+et puis tu me...
+
+1266
+01:18:06,440 --> 01:18:08,440
+Juste avec de la voix, même pas besoin de taper
+
+1267
+01:18:08,440 --> 01:18:10,440
+ou même pas besoin d'installer.
+
+1268
+01:18:10,440 --> 01:18:12,440
+Ça c'est un peu chiant toujours.
+
+1269
+01:18:12,440 --> 01:18:14,440
+J'ai peur qu'on passe
+
+1270
+01:18:14,440 --> 01:18:16,440
+à un moment, un stade tel
+
+1271
+01:18:16,440 --> 01:18:18,440
+que l'intelligence
+
+1272
+01:18:18,440 --> 01:18:20,440
+artificielle
+
+1273
+01:18:20,440 --> 01:18:22,440
+on se dise mais en fait
+
+1274
+01:18:22,440 --> 01:18:24,440
+ça détruit
+
+1275
+01:18:24,440 --> 01:18:26,440
+ma créativité parce qu'elle peut
+
+1276
+01:18:26,440 --> 01:18:28,440
+tellement tout faire
+
+1277
+01:18:28,440 --> 01:18:30,440
+voire même semi-autonome
+
+1278
+01:18:30,440 --> 01:18:32,440
+qu'à un moment on se dira
+
+1279
+01:18:32,440 --> 01:18:34,440
+mais en fait j'ai même plus
+
+1280
+01:18:34,440 --> 01:18:36,440
+d'envie de créer parce que tout est
+
+1281
+01:18:36,440 --> 01:18:38,440
+possé... on est dans le domaine du tout possible.
+
+1282
+01:18:38,440 --> 01:18:40,440
+Ouais, ça ça peut l'enlever.
+
+1283
+01:18:40,440 --> 01:18:42,440
+Mais
+
+1284
+01:18:42,440 --> 01:18:44,440
+disons qu'on a perdu
+
+1285
+01:18:44,440 --> 01:18:46,440
+aussi de la créativité. Aujourd'hui
+
+1286
+01:18:46,440 --> 01:18:48,440
+combien de personnes sont capables d'être créatives dans le monde?
+
+1287
+01:18:48,440 --> 01:18:50,440
+Finalement il y a
+
+1288
+01:18:50,440 --> 01:18:52,440
+il y a ceux qui en font leur métier
+
+1289
+01:18:52,440 --> 01:18:54,440
+mais à part ça dès que
+
+1290
+01:18:54,440 --> 01:18:56,440
+tu commences à bosser dans une boîte
+
+1291
+01:18:56,440 --> 01:18:58,440
+à quel moment t'es créatif? Si c'est pas ton hobby
+
+1292
+01:18:58,440 --> 01:19:00,440
+à quel moment t'es créatif? T'es soit sportif
+
+1293
+01:19:00,440 --> 01:19:02,440
+soit
+
+1294
+01:19:02,440 --> 01:19:04,440
+t'aimes bien aller voir
+
+1295
+01:19:04,440 --> 01:19:06,440
+si tu regardes des films ou des trucs comme ça
+
+1296
+01:19:06,440 --> 01:19:08,440
+mais la créativité
+
+1297
+01:19:08,440 --> 01:19:10,440
+elle est... tu vois c'est vraiment
+
+1298
+01:19:10,440 --> 01:19:12,440
+Mais tu sais
+
+1299
+01:19:12,440 --> 01:19:14,440
+on tue la créativité dès l'enfance
+
+1300
+01:19:14,440 --> 01:19:16,440
+parce que avant on se
+
+1301
+01:19:16,440 --> 01:19:18,440
+contentait d'un bâton et on inventait
+
+1302
+01:19:18,440 --> 01:19:20,440
+des histoires avec une flaque d'eau et des
+
+1303
+01:19:20,440 --> 01:19:22,440
+cailloux. Et aujourd'hui
+
+1304
+01:19:22,440 --> 01:19:24,440
+tous les parents ils mettent des bombes
+
+1305
+01:19:24,440 --> 01:19:26,440
+qui détruisent le cerveau des gamins
+
+1306
+01:19:26,440 --> 01:19:28,440
+ils leur mettent... C'est bien le téléphone portable
+
+1307
+01:19:28,440 --> 01:19:30,440
+les tablettes, les téléphones
+
+1308
+01:19:30,440 --> 01:19:32,440
+alors que c'est... bon t'as tous les pédopsychiates
+
+1309
+01:19:32,440 --> 01:19:34,440
+qui disent bien qu'il faut surtout pas
+
+1310
+01:19:34,440 --> 01:19:36,440
+donner ça avant je sais pas si c'est
+
+1311
+01:19:36,440 --> 01:19:38,440
+l'âge de 6 ans ou de 9 ans
+
+1312
+01:19:38,440 --> 01:19:40,440
+et le développement cognitif et
+
+1313
+01:19:40,440 --> 01:19:42,440
+le fait... la créativité
+
+1314
+01:19:42,440 --> 01:19:44,440
+le fait de pouvoir s'inventer
+
+1315
+01:19:44,440 --> 01:19:46,440
+tout un imaginaire et d'être créatif après
+
+1316
+01:19:46,440 --> 01:19:48,440
+l'âge adulte ça détruit
+
+1317
+01:19:48,440 --> 01:19:50,440
+ça en fait. Et les gamins
+
+1318
+01:19:50,440 --> 01:19:52,440
+ils ont pas à voir
+
+1319
+01:19:52,440 --> 01:19:54,440
+des écrans tactiles dans les mains
+
+1320
+01:19:54,440 --> 01:19:56,440
+et ça commence par ça en fait
+
+1321
+01:19:56,440 --> 01:19:58,440
+C'est bizarre parce que moi je vois les deux
+
+1322
+01:19:58,440 --> 01:20:00,440
+parce que moi j'ai l'impression
+
+1323
+01:20:00,440 --> 01:20:02,440
+que nos gamins d'aujourd'hui
+
+1324
+01:20:02,440 --> 01:20:04,440
+qui ont
+
+1325
+01:20:04,440 --> 01:20:06,440
+18-20 ans
+
+1326
+01:20:06,440 --> 01:20:08,440
+sont déjà...
+
+1327
+01:20:08,440 --> 01:20:10,440
+ils font un milliard de trucs
+
+1328
+01:20:10,440 --> 01:20:12,440
+ils s'arrêtent pas à une seule chose
+
+1329
+01:20:12,440 --> 01:20:14,440
+alors nous les vieux
+
+1330
+01:20:14,440 --> 01:20:16,440
+on va pouvoir dire ouais
+
+1331
+01:20:16,440 --> 01:20:18,440
+quand t'es sur un domaine
+
+1332
+01:20:18,440 --> 01:20:20,440
+tu vas jusqu'au fond et puis
+
+1333
+01:20:20,440 --> 01:20:22,440
+tu le lâches pas tout de suite
+
+1334
+01:20:22,440 --> 01:20:24,440
+quand t'en auras fait 10 ans
+
+1335
+01:20:24,440 --> 01:20:26,440
+peut-être que tu pourras faire autre chose
+
+1336
+01:20:26,440 --> 01:20:28,440
+eux ils changent mais à vitesse
+
+1337
+01:20:28,440 --> 01:20:30,440
+grand V, ils passent de l'un à l'autre
+
+1338
+01:20:30,440 --> 01:20:32,440
+mais finalement
+
+1339
+01:20:32,440 --> 01:20:34,440
+ils vont peut-être moins vite
+
+1340
+01:20:34,440 --> 01:20:36,440
+dans un domaine particulier
+
+1341
+01:20:36,440 --> 01:20:38,440
+mais par contre ils en ont 10
+
+1342
+01:20:38,440 --> 01:20:40,440
+des domaines particuliers
+
+1343
+01:20:40,440 --> 01:20:42,440
+donc d'ici 10 ans
+
+1344
+01:20:42,440 --> 01:20:44,440
+ils vont faire 10 fois plus de choses que nous
+
+1345
+01:20:44,440 --> 01:20:46,440
+ce qu'on aurait appris en 10 ans en final
+
+1346
+01:20:46,440 --> 01:20:48,440
+J'en doute un peu parce que
+
+1347
+01:20:48,440 --> 01:20:50,440
+la facilité des écrans tactiles
+
+1348
+01:20:50,440 --> 01:20:52,440
+elle
+
+1349
+01:20:52,440 --> 01:20:54,440
+elle te retire quelque chose
+
+1350
+01:20:54,440 --> 01:20:56,440
+que nous autres
+
+1351
+01:20:56,440 --> 01:20:58,440
+enfin je veux dire moi j'ai quand même un âge
+
+1352
+01:20:58,440 --> 01:21:00,440
+bon je suis pas tout jeune
+
+1353
+01:21:00,440 --> 01:21:02,440
+j'ai quand même une bonne maîtrise
+
+1354
+01:21:02,440 --> 01:21:04,440
+des ordinateurs
+
+1355
+01:21:04,440 --> 01:21:06,440
+des choses comme ça et je vois des jeunes qui arrivent
+
+1356
+01:21:06,440 --> 01:21:08,440
+ils savent rien faire avec des PC
+
+1357
+01:21:08,440 --> 01:21:10,440
+par exemple tu vois donc en fait tout est relatif
+
+1358
+01:21:10,440 --> 01:21:12,440
+parce que
+
+1359
+01:21:12,440 --> 01:21:14,440
+moi je sais beaucoup mieux maîtriser
+
+1360
+01:21:14,440 --> 01:21:16,440
+et je suis beaucoup plus des merdards dans une interface
+
+1361
+01:21:16,440 --> 01:21:18,440
+logicielle que des jeunes
+
+1362
+01:21:18,440 --> 01:21:20,440
+qui sont habitués
+
+1363
+01:21:20,440 --> 01:21:22,440
+à des interfaces
+
+1364
+01:21:22,440 --> 01:21:24,440
+créées par des
+
+1365
+01:21:24,440 --> 01:21:26,440
+des interfaces designers
+
+1366
+01:21:26,440 --> 01:21:28,440
+des web designers des choses comme ça
+
+1367
+01:21:28,440 --> 01:21:30,440
+où effectivement tout est intuitif etc
+
+1368
+01:21:30,440 --> 01:21:32,440
+moi je suis beaucoup plus
+
+1369
+01:21:32,440 --> 01:21:34,440
+entre guillemets aguerri
+
+1370
+01:21:34,440 --> 01:21:36,440
+à
+
+1371
+01:21:36,440 --> 01:21:38,440
+même à m'adapter sur des trucs
+
+1372
+01:21:38,440 --> 01:21:40,440
+et je suis pas certain en fait de ça
+
+1373
+01:21:40,440 --> 01:21:42,440
+bon après je peux me tromper
+
+1374
+01:21:42,440 --> 01:21:44,440
+c'est sûr que si tu viens d'une époque
+
+1375
+01:21:44,440 --> 01:21:46,440
+où il fallait setup un réseau
+
+1376
+01:21:46,440 --> 01:21:48,440
+UDP avec des câbles où il fallait
+
+1377
+01:21:48,440 --> 01:21:50,440
+mettre des bouchons et tout
+
+1378
+01:21:50,440 --> 01:21:52,440
+...
+
+1379
+01:21:52,440 --> 01:21:54,440
+t'es prêt pour
+
+1380
+01:21:54,440 --> 01:21:56,440
+toutes les opportunités
+
+1381
+01:21:56,440 --> 01:21:58,440
+ah putain
+
+1382
+01:21:58,440 --> 01:22:00,440
+tu vois bien il y a des super programmeurs
+
+1383
+01:22:00,440 --> 01:22:02,440
+tout ça pour jouer à Doom en plus pardon
+
+1384
+01:22:02,440 --> 01:22:04,440
+des gens qui ont 40 ans
+
+1385
+01:22:04,440 --> 01:22:06,440
+ou 50 ans qui sont super bons
+
+1386
+01:22:06,440 --> 01:22:08,440
+en programmation parce que
+
+1387
+01:22:08,440 --> 01:22:10,440
+ils ont commencé mais sur
+
+1388
+01:22:10,440 --> 01:22:12,440
+des TO7 après ils ont
+
+1389
+01:22:12,440 --> 01:22:14,440
+eu leur Atari ST après ils ont eu
+
+1390
+01:22:14,440 --> 01:22:16,440
+le PC ils sont
+
+1391
+01:22:16,440 --> 01:22:18,440
+ils ont tout connu quoi
+
+1392
+01:22:20,440 --> 01:22:22,440
+enfin bref ça va se débattre ça
+
+1393
+01:22:24,440 --> 01:22:26,440
+ouais
+
+1394
+01:22:26,440 --> 01:22:28,440
+ouais bah c'est ça moi comme je disais
+
+1395
+01:22:28,440 --> 01:22:30,440
+comme j'allais dire tout à l'heure ce qu'il faut c'est une application
+
+1396
+01:22:30,440 --> 01:22:32,440
+avec
+
+1397
+01:22:32,440 --> 01:22:34,440
+des cailloux et des bâtons
+
+1398
+01:22:34,440 --> 01:22:36,440
+on s'était un peu les deux
+
+1399
+01:22:36,440 --> 01:22:38,440
+non
+
+1400
+01:22:38,440 --> 01:22:40,440
+ouais
+
+1401
+01:22:40,440 --> 01:22:42,440
+en tout cas ouais
+
+1402
+01:22:42,440 --> 01:22:44,440
+elle rend pas si heureux que ça de toute façon parce que là tu parles
+
+1403
+01:22:44,440 --> 01:22:46,440
+de cailloux mais tu vois t'as des jeux avec des
+
+1404
+01:22:46,440 --> 01:22:48,440
+cailloux, des osselets, des jeux africains
+
+1405
+01:22:48,440 --> 01:22:50,440
+avec des petites pierres et tout ça
+
+1406
+01:22:50,440 --> 01:22:52,440
+des fois t'es plus heureux
+
+1407
+01:22:52,440 --> 01:22:54,440
+à avoir des choses plus simples
+
+1408
+01:22:54,440 --> 01:22:56,440
+que nous on se fait des no...
+
+1409
+01:22:56,440 --> 01:22:58,440
+moi j'adore la technologie on se fait des no-servo
+
+1410
+01:22:58,440 --> 01:23:00,440
+avec tout ce qu'on a
+
+1411
+01:23:00,440 --> 01:23:02,440
+ouais c'est pour ça que la méditation
+
+1412
+01:23:02,440 --> 01:23:04,440
+c'est notre salut
+
+1413
+01:23:04,440 --> 01:23:06,440
+ça fait 20 ans que je le dis
+
+1414
+01:23:06,440 --> 01:23:08,440
+on est là sur terre pour
+
+1415
+01:23:08,440 --> 01:23:10,440
+méditer tous ensemble
+
+1416
+01:23:10,440 --> 01:23:12,440
+Wanda je crois qu'elle en fait
+
+1417
+01:23:12,440 --> 01:23:14,440
+parce que des fois j'entends
+
+1418
+01:23:14,440 --> 01:23:16,440
+si je peux me permettre
+
+1419
+01:23:16,440 --> 01:23:18,440
+il y a de la musique
+
+1420
+01:23:18,440 --> 01:23:20,440
+transcendantale
+
+1421
+01:23:20,440 --> 01:23:22,440
+j'adore
+
+1422
+01:23:22,440 --> 01:23:24,440
+ah non c'est Ravi Shankar
+
+1423
+01:23:24,440 --> 01:23:26,440
+j'entends ça dès que je suis petite
+
+1424
+01:23:26,440 --> 01:23:28,440
+c'est hindou
+
+1425
+01:23:28,440 --> 01:23:30,440
+c'est de la sitar
+
+1426
+01:23:30,440 --> 01:23:32,440
+ça va être utilisé
+
+1427
+01:23:32,440 --> 01:23:34,440
+par des personnes qui méditent je pense
+
+1428
+01:23:34,440 --> 01:23:36,440
+ça peut l'être bien sûr
+
+1429
+01:23:36,440 --> 01:23:38,440
+on peut se faire une émission
+
+1430
+01:23:38,440 --> 01:23:40,440
+méditation tu nous mets une petite musique
+
+1431
+01:23:40,440 --> 01:23:42,440
+et pendant 2h
+
+1432
+01:23:42,440 --> 01:23:44,440
+on dit rien, on laisse juste le live
+
+1433
+01:23:44,440 --> 01:23:46,440
+on est juste là
+
+1434
+01:23:46,440 --> 01:23:48,440
+mais
+
+1435
+01:23:48,440 --> 01:23:50,440
+ou de la méditation
+
+1436
+01:23:50,440 --> 01:23:52,440
+mais le pire c'est que j'ai vu ça
+
+1437
+01:23:52,440 --> 01:23:54,440
+juste
+
+1438
+01:23:54,440 --> 01:23:56,440
+il y a vraiment pas longtemps, il y a genre 3 ou 4 jours
+
+1439
+01:23:56,440 --> 01:23:58,440
+max, j'ai vu un mec qui a lancé un live
+
+1440
+01:23:58,440 --> 01:24:00,440
+et le titre c'était
+
+1441
+01:24:00,440 --> 01:24:02,440
+Silent
+
+1442
+01:24:02,440 --> 01:24:04,440
+je sais plus quoi
+
+1443
+01:24:04,440 --> 01:24:06,440
+et tu connectes et il y a juste rien
+
+1444
+01:24:06,440 --> 01:24:08,440
+il y a pas de
+
+1445
+01:24:08,440 --> 01:24:10,440
+j'ai trouvé ça très bon
+
+1446
+01:24:10,440 --> 01:24:12,440
+très bon concept
+
+1447
+01:24:12,440 --> 01:24:14,440
+je crois que c'est sur
+
+1448
+01:24:14,440 --> 01:24:16,440
+Apple Music
+
+1449
+01:24:16,440 --> 01:24:18,440
+et Spotify
+
+1450
+01:24:18,440 --> 01:24:20,440
+d'ailleurs ils ont mis le holà
+
+1451
+01:24:20,440 --> 01:24:22,440
+parce que t'avais plein de gens
+
+1452
+01:24:22,440 --> 01:24:24,440
+qui faisaient des albums avec des
+
+1453
+01:24:24,440 --> 01:24:26,440
+musiques de bruit blanc
+
+1454
+01:24:26,440 --> 01:24:28,440
+des sons
+
+1455
+01:24:28,440 --> 01:24:30,440
+vraiment des sons bizarres
+
+1456
+01:24:30,440 --> 01:24:32,440
+les bruits blancs pour les gens qui ont des
+
+1457
+01:24:32,440 --> 01:24:34,440
+acouphènes, on leur met des bruits blancs avec un
+
+1458
+01:24:34,440 --> 01:24:36,440
+un chimpement comme ça
+
+1459
+01:24:36,440 --> 01:24:38,440
+et ces gens là en fait
+
+1460
+01:24:38,440 --> 01:24:40,440
+ils se sont rendu compte qu'en fait
+
+1461
+01:24:40,440 --> 01:24:42,440
+ils gagnaient de la thune
+
+1462
+01:24:42,440 --> 01:24:44,440
+c'était impressionnant
+
+1463
+01:24:44,440 --> 01:24:46,440
+moi j'ai retrouvé la
+
+1464
+01:24:46,440 --> 01:24:48,440
+musique la plus relaxante au monde
+
+1465
+01:24:48,440 --> 01:24:50,440
+j'ai vu un article
+
+1466
+01:24:50,440 --> 01:24:52,440
+là dessus, carrément
+
+1467
+01:24:52,440 --> 01:24:54,440
+et elle est tellement relaxante
+
+1468
+01:24:54,440 --> 01:24:56,440
+qu'il déconseille de l'utiliser
+
+1469
+01:24:56,440 --> 01:24:58,440
+pendant que tu conduis
+
+1470
+01:24:58,440 --> 01:25:00,440
+alors là c'est le
+
+1471
+01:25:00,440 --> 01:25:02,440
+c'est le
+
+1472
+01:25:02,440 --> 01:25:04,440
+c'est exactement ce qu'il me fallait
+
+1473
+01:25:04,440 --> 01:25:06,440
+pour que j'aille voir ce que c'était
+
+1474
+01:25:06,440 --> 01:25:08,440
+pareil, j'ai entendu parler
+
+1475
+01:25:08,440 --> 01:25:10,440
+je l'ai récupéré, je crois qu'il y a un album
+
+1476
+01:25:10,440 --> 01:25:12,440
+sur Apple Music
+
+1477
+01:25:12,440 --> 01:25:14,440
+je me suis laissé
+
+1478
+01:25:14,440 --> 01:25:16,440
+je me suis fait prendre au piège, je l'ai pas écouté
+
+1479
+01:25:16,440 --> 01:25:18,440
+mais je l'ai récupéré en tout cas dans la bibliothèque
+
+1480
+01:25:18,440 --> 01:25:20,440
+tu l'as pas écouté?
+
+1481
+01:25:20,440 --> 01:25:22,440
+ah non tu l'as pas écouté
+
+1482
+01:25:22,440 --> 01:25:24,440
+ah ah
+
+1483
+01:25:26,440 --> 01:25:28,440
+c'est une bonne idée ça de faire un live
+
+1484
+01:25:28,440 --> 01:25:30,440
+vous m'avez mis des
+
+1485
+01:25:30,440 --> 01:25:32,440
+vous avez mis des graines dans mon sang
+
+1486
+01:25:32,440 --> 01:25:34,440
+ce serait vraiment marrant de faire un live
+
+1487
+01:25:34,440 --> 01:25:36,440
+un truc, je sais pas quoi, mais un truc
+
+1488
+01:25:36,440 --> 01:25:38,440
+parce que j'avais déjà pensé à faire ça
+
+1489
+01:25:38,440 --> 01:25:40,440
+un live où
+
+1490
+01:25:40,440 --> 01:25:42,440
+j'enseigne la méthode Wim Hof
+
+1491
+01:25:42,440 --> 01:25:44,440
+mais
+
+1492
+01:25:44,440 --> 01:25:46,440
+ça serait un petit peu trop intense
+
+1493
+01:25:46,440 --> 01:25:48,440
+un live
+
+1494
+01:25:48,440 --> 01:25:50,440
+méditation ça pourrait être pas mal aussi
+
+1495
+01:25:50,440 --> 01:25:52,440
+ouais
+
+1496
+01:25:52,440 --> 01:25:54,440
+parce que les spaces sur X
+
+1497
+01:25:54,440 --> 01:25:56,440
+moi j'ai pas une vue
+
+1498
+01:25:56,440 --> 01:25:58,440
+d'ensemble de tout ce qui se fait
+
+1499
+01:25:58,440 --> 01:26:00,440
+ça se trouve
+
+1500
+01:26:00,440 --> 01:26:02,440
+ton format à toi peut-être
+
+1501
+01:26:02,440 --> 01:26:04,440
+qu'il est pas si répandu que ça
+
+1502
+01:26:04,440 --> 01:26:06,440
+et tu vois, moi je suis pas du tout
+
+1503
+01:26:06,440 --> 01:26:08,440
+philo et etc, mais les cafés philo
+
+1504
+01:26:08,440 --> 01:26:10,440
+ils peuvent être transposables sur
+
+1505
+01:26:10,440 --> 01:26:12,440
+les spaces de X
+
+1506
+01:26:12,440 --> 01:26:14,440
+tu vois des gens
+
+1507
+01:26:14,440 --> 01:26:16,440
+c'est quoi un café philo? c'est juste des gens qui parlent philo?
+
+1508
+01:26:16,440 --> 01:26:18,440
+ouais, tu connais pas
+
+1509
+01:26:18,440 --> 01:26:20,440
+un café philo?
+
+1510
+01:26:20,440 --> 01:26:22,440
+ouais c'est ça
+
+1511
+01:26:22,440 --> 01:26:24,440
+c'est comme ça que je le voyais aussi, c'est des gens qui se réunissent
+
+1512
+01:26:24,440 --> 01:26:26,440
+pour parler philo j'imagine
+
+1513
+01:26:26,440 --> 01:26:28,440
+peut-être par les livres qu'ils ont lu
+
+1514
+01:26:28,440 --> 01:26:30,440
+moi je le voyais comme ça en fait
+
+1515
+01:26:30,440 --> 01:26:32,440
+j'ai jamais participé à un café philo
+
+1516
+01:26:32,440 --> 01:26:34,440
+mais pour moi
+
+1517
+01:26:34,440 --> 01:26:36,440
+ça renvoyait toujours
+
+1518
+01:26:36,440 --> 01:26:38,440
+à de la philosophie en fait
+
+1519
+01:26:38,440 --> 01:26:40,440
+et voilà
+
+1520
+01:26:40,440 --> 01:26:42,440
+je pense qu'on peut le hacker
+
+1521
+01:26:42,440 --> 01:26:44,440
+le X
+
+1522
+01:26:44,440 --> 01:26:46,440
+tu vois, quand il y a des minutes
+
+1523
+01:26:46,440 --> 01:26:48,440
+de silence, pourquoi tu ferais pas une émission
+
+1524
+01:26:48,440 --> 01:26:50,440
+une heure de silence, les gens viennent
+
+1525
+01:26:50,440 --> 01:26:52,440
+tu leur donnes la parole à tous
+
+1526
+01:26:52,440 --> 01:26:54,440
+ils peuvent tous parler
+
+1527
+01:26:54,440 --> 01:26:56,440
+mais personne ne parle, c'est que du silence
+
+1528
+01:26:56,440 --> 01:26:58,440
+mais on est tous
+
+1529
+01:26:58,440 --> 01:27:00,440
+ensemble quand même
+
+1530
+01:27:00,440 --> 01:27:02,440
+ça c'est concept
+
+1531
+01:27:02,440 --> 01:27:04,440
+venir
+
+1532
+01:27:04,440 --> 01:27:06,440
+sur twitter dans une émission
+
+1533
+01:27:06,440 --> 01:27:08,440
+ou dans un podcast
+
+1534
+01:27:08,440 --> 01:27:10,440
+pour ne pas parler
+
+1535
+01:27:10,440 --> 01:27:12,440
+mais ça c'est marrant, comment ça se fait qu'il y a pas du tout
+
+1536
+01:27:12,440 --> 01:27:14,440
+ça par exemple, il y a pas un live
+
+1537
+01:27:14,440 --> 01:27:16,440
+qui est tout le temps open
+
+1538
+01:27:16,440 --> 01:27:18,440
+genre juste tout le temps, puis les gens viennent
+
+1539
+01:27:18,440 --> 01:27:20,440
+éventuellement
+
+1540
+01:27:20,440 --> 01:27:22,440
+je sais pas
+
+1541
+01:27:22,440 --> 01:27:24,440
+mais c'est vrai que c'est bizarre
+
+1542
+01:27:24,440 --> 01:27:26,440
+parce qu'on a pas une vie d'ensemble
+
+1543
+01:27:26,440 --> 01:27:28,440
+on peut pas rechercher uniquement les spaces
+
+1544
+01:27:28,440 --> 01:27:30,440
+je trouvais ça bizarre
+
+1545
+01:27:30,440 --> 01:27:32,440
+ouais
+
+1546
+01:27:32,440 --> 01:27:34,440
+cela dit à la base, moi ça fait très peu de temps
+
+1547
+01:27:34,440 --> 01:27:36,440
+déjà je supporte pas les réseaux sociaux
+
+1548
+01:27:36,440 --> 01:27:38,440
+X
+
+1549
+01:27:38,440 --> 01:27:40,440
+je m'en accommode parce que j'y trouve mon intérêt
+
+1550
+01:27:40,440 --> 01:27:42,440
+mais
+
+1551
+01:27:42,440 --> 01:27:44,440
+je trouve que twitter
+
+1552
+01:27:44,440 --> 01:27:46,440
+X, pour moi ça a toujours été
+
+1553
+01:27:46,440 --> 01:27:48,440
+un bordel indomnable
+
+1554
+01:27:48,440 --> 01:27:50,440
+j'ai du mal à m'y faire en fait
+
+1555
+01:27:50,440 --> 01:27:52,440
+j'ai le format
+
+1556
+01:27:52,440 --> 01:27:54,440
+le flux comme ça
+
+1557
+01:27:54,440 --> 01:27:56,440
+où tout part dans tous les sens, les retweets
+
+1558
+01:27:56,440 --> 01:27:58,440
+les reposts, les machins
+
+1559
+01:27:58,440 --> 01:28:00,440
+moi c'est un truc
+
+1560
+01:28:00,440 --> 01:28:02,440
+il y en a qui adorent, mais moi j'ai du mal
+
+1561
+01:28:02,440 --> 01:28:04,440
+c'est un peu
+
+1562
+01:28:04,440 --> 01:28:06,440
+compliqué moi aussi je trouve
+
+1563
+01:28:08,440 --> 01:28:10,440
+c'est trop d'infos en fait
+
+1564
+01:28:10,440 --> 01:28:12,440
+c'est ça
+
+1565
+01:28:12,440 --> 01:28:14,440
+ouais ouais
+
+1566
+01:28:14,440 --> 01:28:16,440
+c'est marrant comme on est passé
+
+1567
+01:28:16,440 --> 01:28:18,440
+de genre ouais mais nous on est
+
+1568
+01:28:18,440 --> 01:28:20,440
+plus balèze, on peut faire plein de trucs en même temps
+
+1569
+01:28:20,440 --> 01:28:22,440
+et genre
+
+1570
+01:28:22,440 --> 01:28:24,440
+à la fin on est comme genre, oh non mais ça va trop vite
+
+1571
+01:28:24,440 --> 01:28:26,440
+c'est trop d'informations
+
+1572
+01:28:26,440 --> 01:28:28,440
+non mais c'est surtout que
+
+1573
+01:28:28,440 --> 01:28:30,440
+cette obésité
+
+1574
+01:28:30,440 --> 01:28:32,440
+c'est le
+
+1575
+01:28:32,440 --> 01:28:34,440
+c'est que c'est pas adapté
+
+1576
+01:28:34,440 --> 01:28:36,440
+c'est pas adapté à nous
+
+1577
+01:28:36,440 --> 01:28:38,440
+et en fait, alors twitter
+
+1578
+01:28:38,440 --> 01:28:40,440
+ça marche et tout, mais c'est pas du tout
+
+1579
+01:28:40,440 --> 01:28:42,440
+adapté à notre
+
+1580
+01:28:42,440 --> 01:28:44,440
+cerveau
+
+1581
+01:28:44,440 --> 01:28:46,440
+de recevoir
+
+1582
+01:28:46,440 --> 01:28:48,440
+comme ça autant de
+
+1583
+01:28:48,440 --> 01:28:50,440
+informations qui viennent
+
+1584
+01:28:52,440 --> 01:28:54,440
+d'informations de merde
+
+1585
+01:28:54,440 --> 01:28:56,440
+pour quasiment
+
+1586
+01:28:56,440 --> 01:28:58,440
+80% de ce qui passe
+
+1587
+01:28:58,440 --> 01:29:00,440
+quand même. Il y a beaucoup de gens qui quittent
+
+1588
+01:29:00,440 --> 01:29:02,440
+des personnalités qui disent
+
+1589
+01:29:02,440 --> 01:29:04,440
+j'en ai marre de me faire insulter déjà d'une part
+
+1590
+01:29:04,440 --> 01:29:06,440
+tu m'étonnes
+
+1591
+01:29:06,440 --> 01:29:08,440
+voilà qui quittent
+
+1592
+01:29:08,440 --> 01:29:10,440
+mais c'est vrai que
+
+1593
+01:29:10,440 --> 01:29:12,440
+twitter comme youtube
+
+1594
+01:29:12,440 --> 01:29:14,440
+c'est une toile d'araignée
+
+1595
+01:29:14,440 --> 01:29:16,440
+labyrinthique, on te met au milieu, ça part dans tous les sens
+
+1596
+01:29:16,440 --> 01:29:18,440
+et ton cerveau il part en ébullition en fait
+
+1597
+01:29:18,440 --> 01:29:20,440
+tu sais pas où il faut regarder, où il faut écouter
+
+1598
+01:29:20,440 --> 01:29:22,440
+t'es sûr qu'il va
+
+1599
+01:29:22,440 --> 01:29:24,440
+t'occuper de toute façon
+
+1600
+01:29:24,440 --> 01:29:26,440
+est-ce que ça nous renvoie pas
+
+1601
+01:29:26,440 --> 01:29:28,440
+finalement à notre
+
+1602
+01:29:28,440 --> 01:29:30,440
+limitation
+
+1603
+01:29:30,440 --> 01:29:32,440
+le fait qu'on ne puisse pas tout absorber
+
+1604
+01:29:32,440 --> 01:29:34,440
+alors ça permet aussi
+
+1605
+01:29:34,440 --> 01:29:36,440
+la sérenité
+
+1606
+01:29:36,440 --> 01:29:38,440
+on peut se balader d'une idée à l'autre
+
+1607
+01:29:38,440 --> 01:29:40,440
+mais effectivement on s'aperçoit
+
+1608
+01:29:40,440 --> 01:29:42,440
+qu'on sature assez vite
+
+1609
+01:29:42,440 --> 01:29:44,440
+et c'est peut-être ce qui
+
+1610
+01:29:44,440 --> 01:29:46,440
+finalement nous définit
+
+1611
+01:29:46,440 --> 01:29:48,440
+alors ça, ça nous donne une grosse claque
+
+1612
+01:29:48,440 --> 01:29:50,440
+parce que c'est là qu'on voit
+
+1613
+01:29:50,440 --> 01:29:52,440
+que les lèmes sont plus puissantes
+
+1614
+01:29:52,440 --> 01:29:54,440
+bien plus puissants que nous
+
+1615
+01:29:54,440 --> 01:29:56,440
+mais
+
+1616
+01:29:56,440 --> 01:29:58,440
+je pense souvent à ça
+
+1617
+01:29:58,440 --> 01:30:00,440
+moi je pense que ça fait
+
+1618
+01:30:00,440 --> 01:30:02,440
+bien après la COVID
+
+1619
+01:30:02,440 --> 01:30:04,440
+que je suis arrivé
+
+1620
+01:30:04,440 --> 01:30:06,440
+à un niveau de saturation
+
+1621
+01:30:06,440 --> 01:30:08,440
+sur l'information
+
+1622
+01:30:08,440 --> 01:30:10,440
+effectivement déjà je suis
+
+1623
+01:30:10,440 --> 01:30:12,440
+l'ancienne méthode, pour m'informer
+
+1624
+01:30:12,440 --> 01:30:14,440
+j'utilise des flux RSS, donc j'ai un agrégateur
+
+1625
+01:30:14,440 --> 01:30:16,440
+de flux RSS
+
+1626
+01:30:16,440 --> 01:30:18,440
+et à force de vouloir tout
+
+1627
+01:30:18,440 --> 01:30:20,440
+être informé sur tout et n'importe quoi
+
+1628
+01:30:20,440 --> 01:30:22,440
+il y a tellement
+
+1629
+01:30:22,440 --> 01:30:24,440
+de choses qui s'agrègent
+
+1630
+01:30:24,440 --> 01:30:26,440
+dans mon agrégateur
+
+1631
+01:30:26,440 --> 01:30:28,440
+et il y a tellement
+
+1632
+01:30:28,440 --> 01:30:30,440
+de... l'application YouTube
+
+1633
+01:30:30,440 --> 01:30:32,440
+et après je me suis abonné à plein de trucs et tout ça
+
+1634
+01:30:32,440 --> 01:30:34,440
+à un moment tu
+
+1635
+01:30:34,440 --> 01:30:36,440
+pètes un câble parce que tu n'arrives pas à tout suivre
+
+1636
+01:30:36,440 --> 01:30:38,440
+et tu arrives le soir
+
+1637
+01:30:38,440 --> 01:30:40,440
+et heureusement je n'ai pas de gamins
+
+1638
+01:30:40,440 --> 01:30:42,440
+tu arrives le soir, tu regardes tes machins
+
+1639
+01:30:42,440 --> 01:30:44,440
+mais en fait tu y passes des heures
+
+1640
+01:30:44,440 --> 01:30:46,440
+et en fait on se complique
+
+1641
+01:30:46,440 --> 01:30:48,440
+la vie mais bon voilà
+
+1642
+01:30:48,440 --> 01:30:50,440
+on pourrait faire un sujet, tu pourrais faire un sujet là-dessus Chad
+
+1643
+01:30:50,440 --> 01:30:52,440
+et le lendemain ça recommence
+
+1644
+01:30:52,440 --> 01:30:54,440
+ça s'arrête jamais en fait
+
+1645
+01:30:54,440 --> 01:30:56,440
+c'est ça, c'est un flux continu
+
+1646
+01:30:56,440 --> 01:30:58,440
+et des fois c'est infernal
+
+1647
+01:30:58,440 --> 01:31:00,440
+et des fois effectivement il faut s'arrêter
+
+1648
+01:31:00,440 --> 01:31:02,440
+et tu as du boulot, ensuite tu as du boulot
+
+1649
+01:31:02,440 --> 01:31:04,440
+et tu as d'autres boulots
+
+1650
+01:31:04,440 --> 01:31:06,440
+est-ce que c'est nous qui nous le donnons
+
+1651
+01:31:06,440 --> 01:31:08,440
+mais est-ce qu'on n'a pas le droit aussi de s'intéresser à plein de choses
+
+1652
+01:31:10,440 --> 01:31:12,440
+et après est-ce qu'on peut se retenir
+
+1653
+01:31:12,440 --> 01:31:14,440
+d'aller voir en fait
+
+1654
+01:31:14,440 --> 01:31:16,440
+les nouveautés, c'est compliqué
+
+1655
+01:31:16,440 --> 01:31:18,440
+Tu m'imagines que dans les boîtes maintenant
+
+1656
+01:31:18,440 --> 01:31:20,440
+alors de plus en plus
+
+1657
+01:31:20,440 --> 01:31:22,440
+ils font attention quand même
+
+1658
+01:31:22,440 --> 01:31:24,440
+ils ont compris qu'il fallait faire attention
+
+1659
+01:31:24,440 --> 01:31:26,440
+un peu aux employés
+
+1660
+01:31:26,440 --> 01:31:30,440
+mais ils te proposent des temps
+
+1661
+01:31:30,440 --> 01:31:32,440
+alors ils parlent de temps
+
+1662
+01:31:32,440 --> 01:31:34,440
+de formation
+
+1663
+01:31:34,440 --> 01:31:36,440
+etc mais ils te proposent
+
+1664
+01:31:36,440 --> 01:31:38,440
+surtout un temps où tu peux vraiment
+
+1665
+01:31:38,440 --> 01:31:40,440
+faire ce que tu veux
+
+1666
+01:31:40,440 --> 01:31:42,440
+moi ça fait des années
+
+1667
+01:31:42,440 --> 01:31:44,440
+que je leur dis moi j'ai besoin
+
+1668
+01:31:44,440 --> 01:31:46,440
+d'avoir des temps d'oisiveté
+
+1669
+01:31:46,440 --> 01:31:48,440
+mon métier
+
+1670
+01:31:48,440 --> 01:31:50,440
+d'innovation c'est pas de créer tout le temps
+
+1671
+01:31:50,440 --> 01:31:52,440
+c'est d'un moment de rien faire
+
+1672
+01:31:52,440 --> 01:31:54,440
+qu'est-ce que tu fais cette semaine?
+
+1673
+01:31:54,440 --> 01:31:56,440
+je ne fais rien
+
+1674
+01:31:56,440 --> 01:31:58,440
+mais ça retourne le cerveau
+
+1675
+01:31:58,440 --> 01:32:00,440
+de tout le monde en fait
+
+1676
+01:32:00,440 --> 01:32:02,440
+comment ça?
+
+1677
+01:32:02,440 --> 01:32:04,440
+t'es embauché pour faire un boulot
+
+1678
+01:32:04,440 --> 01:32:06,440
+et tu es en train de nous dire que
+
+1679
+01:32:06,440 --> 01:32:08,440
+ce boulot là c'est de ne rien faire
+
+1680
+01:32:08,440 --> 01:32:10,440
+ben ouais
+
+1681
+01:32:10,440 --> 01:32:12,440
+j'ai des moments où je fais rien
+
+1682
+01:32:12,440 --> 01:32:14,440
+il y a des moments où j'accélère, où je vais voir plein de trucs
+
+1683
+01:32:14,440 --> 01:32:16,440
+et puis il faut
+
+1684
+01:32:16,440 --> 01:32:18,440
+des temps différents
+
+1685
+01:32:18,440 --> 01:32:20,440
+tu peux pas être tout le temps à fond
+
+1686
+01:32:20,440 --> 01:32:22,440
+tu peux pas être tout le temps à rien faire
+
+1687
+01:32:22,440 --> 01:32:24,440
+c'est essentiel
+
+1688
+01:32:24,440 --> 01:32:26,440
+c'est justement quand tu ne fais rien
+
+1689
+01:32:26,440 --> 01:32:28,440
+que l'esprit créatif
+
+1690
+01:32:28,440 --> 01:32:30,440
+se met en mouvement
+
+1691
+01:32:30,440 --> 01:32:32,440
+et pareil
+
+1692
+01:32:32,440 --> 01:32:34,440
+les vacances en général
+
+1693
+01:32:34,440 --> 01:32:36,440
+ou même les balades sur la plage
+
+1694
+01:32:36,440 --> 01:32:38,440
+au début
+
+1695
+01:32:38,440 --> 01:32:40,440
+tu parles pas
+
+1696
+01:32:40,440 --> 01:32:42,440
+et puis arrivé à la fin, si t'as fait 2-3 kilomètres
+
+1697
+01:32:42,440 --> 01:32:44,440
+tu commences à avoir des idées
+
+1698
+01:32:44,440 --> 01:32:46,440
+et t'es là
+
+1699
+01:32:46,440 --> 01:32:48,440
+ah ouais purée on pourrait faire ça
+
+1700
+01:32:48,440 --> 01:32:50,440
+c'est ça que je veux dire
+
+1701
+01:32:50,440 --> 01:32:52,440
+une marche en forêt ou marcher dehors
+
+1702
+01:32:52,440 --> 01:32:54,440
+ça permet vraiment
+
+1703
+01:32:54,440 --> 01:32:56,440
+comme le sommeil, la nuit qui répare
+
+1704
+01:32:56,440 --> 01:32:58,440
+et qui permet de réorganiser
+
+1705
+01:32:58,440 --> 01:33:00,440
+les idées, le simple fait de marcher
+
+1706
+01:33:00,440 --> 01:33:02,440
+effectivement ça
+
+1707
+01:33:02,440 --> 01:33:04,440
+ça te relance
+
+1708
+01:33:04,440 --> 01:33:06,440
+moi c'était
+
+1709
+01:33:06,440 --> 01:33:08,440
+moins loin que la forêt, c'était la douche
+
+1710
+01:33:08,440 --> 01:33:10,440
+quand j'étais à l'université
+
+1711
+01:33:10,440 --> 01:33:12,440
+à chaque fois que je faisais un devoir ou quoi
+
+1712
+01:33:12,440 --> 01:33:14,440
+que j'étais à un cours d'idées
+
+1713
+01:33:14,440 --> 01:33:16,440
+j'allais prendre une douche
+
+1714
+01:33:16,440 --> 01:33:18,440
+de la journée, c'est pas grave
+
+1715
+01:33:18,440 --> 01:33:20,440
+juste avoir l'eau qui coule sur moi
+
+1716
+01:33:20,440 --> 01:33:22,440
+ça me faisait un truc
+
+1717
+01:33:22,440 --> 01:33:24,440
+j'avais
+
+1718
+01:33:24,440 --> 01:33:26,440
+je pense aussi
+
+1719
+01:33:26,440 --> 01:33:28,440
+peut-être aussi le fait que j'étais pas devant mon ordi
+
+1720
+01:33:28,440 --> 01:33:30,440
+j'étais dans un contexte complètement différent
+
+1721
+01:33:30,440 --> 01:33:32,440
+et d'un coup j'avais
+
+1722
+01:33:32,440 --> 01:33:34,440
+les trucs la suite qui arrivaient
+
+1723
+01:33:34,440 --> 01:33:36,440
+j'étais né à la douche, je revenais sur mon pc et je continuais
+
+1724
+01:33:36,440 --> 01:33:38,440
+c'est surtout que tu payais pas l'eau je crois
+
+1725
+01:33:38,440 --> 01:33:40,440
+ouais tu payais pas l'eau
+
+1726
+01:33:40,440 --> 01:33:42,440
+ahahah
+
+1727
+01:33:42,440 --> 01:33:44,440
+et puis en plus c'était de l'eau chaude je parie
+
+1728
+01:33:44,440 --> 01:33:46,440
+en fait, c'est pas en Wim Hof
+
+1729
+01:33:46,440 --> 01:33:48,440
+absolument pas Wim Hof
+
+1730
+01:33:48,440 --> 01:33:50,440
+non
+
+1731
+01:33:50,440 --> 01:33:52,440
+non c'est vrai, j'avoue l'eau froide
+
+1732
+01:33:52,440 --> 01:33:54,440
+t'es obligé de te concentrer sur
+
+1733
+01:33:54,440 --> 01:33:56,440
+toi et l'univers et tout, c'est un peu différent
+
+1734
+01:33:56,440 --> 01:33:58,440
+comme Moudonk
+
+1735
+01:33:58,440 --> 01:34:00,440
+que l'eau chaude où t'es
+
+1736
+01:34:00,440 --> 01:34:02,440
+un peu plus relax
+
+1737
+01:34:02,440 --> 01:34:04,440
+en tout cas
+
+1738
+01:34:04,440 --> 01:34:06,440
+moi je propose qu'on
+
+1739
+01:34:06,440 --> 01:34:08,440
+se laisse là pour ce soir
+
+1740
+01:34:08,440 --> 01:34:10,440
+parce qu'on est parti
+
+1741
+01:34:10,440 --> 01:34:12,440
+sur la méditation en général
+
+1742
+01:34:12,440 --> 01:34:14,440
+c'est un signe que
+
+1743
+01:34:14,440 --> 01:34:16,440
+on a fait le tour, non mais ouais
+
+1744
+01:34:16,440 --> 01:34:18,440
+sinon par contre la semaine prochaine si vous voulez
+
+1745
+01:34:18,440 --> 01:34:20,440
+on peut faire du pratique
+
+1746
+01:34:20,440 --> 01:34:22,440
+je suis super chaud pour ça
+
+1747
+01:34:22,440 --> 01:34:24,440
+parce que j'ai vraiment envie de, j'espère que je vais avoir
+
+1748
+01:34:24,440 --> 01:34:26,440
+le pass pour CREA
+
+1749
+01:34:26,440 --> 01:34:28,440
+donc j'aurais vraiment envie de
+
+1750
+01:34:28,440 --> 01:34:30,440
+montrer et puis
+
+1751
+01:34:30,440 --> 01:34:32,440
+l'application que je voulais essayer tout à l'heure
+
+1752
+01:34:32,440 --> 01:34:34,440
+le truc avec la vidéo qui fait de la 3D
+
+1753
+01:34:34,440 --> 01:34:36,440
+en temps réel et tout, ça j'ai envie
+
+1754
+01:34:36,440 --> 01:34:38,440
+de l'essayer aussi donc
+
+1755
+01:34:38,440 --> 01:34:40,440
+peut-être si vous voulez montrer des trucs la semaine prochaine
+
+1756
+01:34:40,440 --> 01:34:42,440
+on peut se faire un truc, surtout
+
+1757
+01:34:42,440 --> 01:34:44,440
+que j'ai eu un call avec
+
+1758
+01:34:44,440 --> 01:34:46,440
+Fredgy
+
+1759
+01:34:46,440 --> 01:34:48,440
+de Pro4French
+
+1760
+01:34:48,440 --> 01:34:50,440
+on va faire un truc ensemble
+
+1761
+01:34:50,440 --> 01:34:52,440
+c'est un truc qu'il faut
+
+1762
+01:34:52,440 --> 01:34:54,440
+que j'annonce à un moment donné mais c'est ça, on va faire un truc ensemble
+
+1763
+01:34:54,440 --> 01:34:56,440
+et
+
+1764
+01:34:56,440 --> 01:34:58,440
+il m'a dit
+
+1765
+01:34:58,440 --> 01:35:00,440
+qu'apparemment c'est possible
+
+1766
+01:35:00,440 --> 01:35:02,440
+de combiner
+
+1767
+01:35:02,440 --> 01:35:04,440
+les space avec la fonction
+
+1768
+01:35:04,440 --> 01:35:06,440
+live vidéo de Twitter
+
+1769
+01:35:06,440 --> 01:35:08,440
+donc à explorer
+
+1770
+01:35:08,440 --> 01:35:10,440
+ok
+
+1771
+01:35:12,440 --> 01:35:14,440
+ça ce serait vraiment cool
+
+1772
+01:35:14,440 --> 01:35:16,440
+si c'est possible, donc je vais voir si c'est possible
+
+1773
+01:35:16,440 --> 01:35:18,440
+si c'est possible honnêtement
+
+1774
+01:35:18,440 --> 01:35:20,440
+ouais ce serait quand même
+
+1775
+01:35:20,440 --> 01:35:22,440
+cool de faire ça
+
+1776
+01:35:22,440 --> 01:35:24,440
+donc
+
+1777
+01:35:24,440 --> 01:35:26,440
+et quoi d'autre
+
+1778
+01:35:26,440 --> 01:35:28,440
+sinon, voilà si vous voulez
+
+1779
+01:35:28,440 --> 01:35:30,440
+parler de l'Argentine c'est après-demain
+
+1780
+01:35:30,440 --> 01:35:32,440
+et dimanche soir
+
+1781
+01:35:32,440 --> 01:35:34,440
+et si vous voulez en savoir plus sur
+
+1782
+01:35:34,440 --> 01:35:36,440
+l'éducation dans le domaine de
+
+1783
+01:35:36,440 --> 01:35:38,440
+l'intelligence artificielle et de la blockchain
+
+1784
+01:35:38,440 --> 01:35:40,440
+c'est demain soir avec la
+
+1785
+01:35:40,440 --> 01:35:42,440
+BBS
+
+1786
+01:35:42,440 --> 01:35:44,440
+cool
+
+1787
+01:35:44,440 --> 01:35:46,440
+bonne soirée à vous
+
+1788
+01:35:46,440 --> 01:35:48,440
+merci d'être venu c'était cool
+
+1789
+01:35:48,440 --> 01:35:50,440
+c'était une super discussion et on se dit rendez-vous
+
+1790
+01:35:50,440 --> 01:35:52,440
+quand vous voulez, en tout cas je serai là demain soir
+
+1791
+01:35:52,440 --> 01:35:54,440
+voilà
+
+1792
+01:35:54,440 --> 01:35:56,440
+salut
+
+1793
+01:36:06,440 --> 01:36:08,440
+salut

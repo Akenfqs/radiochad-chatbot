@@ -1,0 +1,5239 @@
+1
+00:02:00,000 --> 00:02:17,840
+Salut, bienvenue sur Radio Shad, on est le dimanche 21 janvier 2024 et ce soir c'est
+
+2
+00:02:17,840 --> 00:02:21,560
+une soirée spéciale à Bitcoin comme un petit peu tous les dimanches.
+
+3
+00:02:21,560 --> 00:02:27,320
+Mais c'est un petit peu plus spécial que d'habitude parce que j'ai un nouveau partenaire
+
+4
+00:02:27,320 --> 00:02:34,240
+et ce soir il est invité pour parler avec nous, pour parler un petit peu sécurité
+
+5
+00:02:34,240 --> 00:02:39,760
+en fait, sécurité des Bitcoins, comment bien les conserver, etc.
+
+6
+00:02:39,760 --> 00:02:53,080
+Et puis pour commencer, comme tous les dimanches, je souhaite la bienvenue au chroniqueur que
+
+7
+00:02:53,080 --> 00:02:57,760
+j'adore et qui est là avec moi tous les dimanches, qui fait des chroniques excellentes,
+
+8
+00:02:57,760 --> 00:03:03,520
+c'est Gab, comment ça va Gab? Salut Shad, écoute je vais plutôt bien.
+
+9
+00:03:03,520 --> 00:03:10,800
+Bon bah c'est super, j'espère que tu as profité aussi bien que moi des vacances
+
+10
+00:03:10,800 --> 00:03:14,960
+de Noël parce que moi je me suis beaucoup reposé, je me suis beaucoup misé.
+
+11
+00:03:14,960 --> 00:03:19,120
+T'as fait un bon break? Ouais, ouais, c'était essentiel et ça m'a
+
+12
+00:03:19,120 --> 00:03:22,560
+remis une pêche de fou.
+
+13
+00:03:22,560 --> 00:03:32,480
+Alors Satoship, qui est derrière le compte Satoship ce soir?
+
+14
+00:03:32,480 --> 00:03:35,040
+Ce soir c'est moi, Bastien.
+
+15
+00:03:35,040 --> 00:03:36,520
+Enchanté les gars.
+
+16
+00:03:36,520 --> 00:03:41,040
+Salut Bastien, comment ça va? Ça va très bien, c'est un grand plaisir
+
+17
+00:03:41,040 --> 00:03:45,360
+de participer à cette première émission avec vous ce soir.
+
+18
+00:03:45,680 --> 00:03:47,760
+J'espère qu'on aura beaucoup de monde.
+
+19
+00:03:47,760 --> 00:03:56,240
+Donc voilà, grand plaisir de participer, grand plaisir d'épauler Radio Tchad que
+
+20
+00:03:56,240 --> 00:03:58,640
+j'écoute régulièrement à titre privé.
+
+21
+00:03:58,640 --> 00:04:01,520
+Donc voilà, heureux d'être là ce soir.
+
+22
+00:04:01,520 --> 00:04:05,760
+Super, super content de te recevoir aussi.
+
+23
+00:04:05,760 --> 00:04:10,560
+On va parler de tout ça, de toutes sortes de choses dans les minutes qui viennent, mais
+
+24
+00:04:10,560 --> 00:04:16,000
+je propose de commencer avec éventuellement la chronique de Gab.
+
+25
+00:04:16,000 --> 00:04:22,560
+Eh ben on y va.
+
+26
+00:04:22,560 --> 00:04:26,160
+Un nouveau système monétaire.
+
+27
+00:04:26,160 --> 00:04:34,960
+Et si les ETF n'étaient qu'un leurre pour attirer les liquidités des no-coiners?
+
+28
+00:04:35,760 --> 00:04:43,760
+La SEC n'aurait-elle pas préféré soutenir les CBDC plutôt que Bitcoin?
+
+29
+00:04:45,760 --> 00:04:51,760
+Nous devons nous demander pourquoi BlackRock a poussé.
+
+30
+00:04:51,760 --> 00:04:55,760
+L'arrivée de la Smart Fiat Money est imminente.
+
+31
+00:04:55,760 --> 00:05:02,560
+Les géants de ce monde vont s'emparer de notre petit jouet et vont le transformer en
+
+32
+00:05:02,560 --> 00:05:06,560
+monstre planétaire qui finira par tout engloutir.
+
+33
+00:05:06,560 --> 00:05:16,560
+Et si la SEC avait décidé de jouer avec nos nerfs? Et si la SEC avait un autre but?
+
+34
+00:05:16,560 --> 00:05:27,160
+Et si la SEC profitait du passage à BTC pour effacer sa dette? Car elle doit effacer cette
+
+35
+00:05:27,160 --> 00:05:28,560
+dette, non?
+
+36
+00:05:29,560 --> 00:05:35,560
+Dans combien de temps les choses qui nous entourent vont-elles se voir attribuer un
+
+37
+00:05:35,560 --> 00:05:42,560
+prix en CBDC et un prix en Bitcoin? Dans combien de temps les étiquettes de nos magasins
+
+38
+00:05:42,560 --> 00:05:49,560
+comporteront une ligne en Satoshi? Dans combien de temps votre conseiller va-t-il
+
+39
+00:05:49,560 --> 00:05:55,560
+vous appeler pour vous supplier de rapatrier vos SAT sur votre compte en vous promettant
+
+40
+00:05:55,560 --> 00:05:57,560
+mondes et merveilles?
+
+41
+00:05:59,560 --> 00:06:04,560
+Quand les Saoudiens vont adopter Bitcoin, que va-t-il se passer?
+
+42
+00:06:04,560 --> 00:06:08,560
+Quand le baril sera coté en BTC?
+
+43
+00:06:10,560 --> 00:06:17,560
+Les tensions géopolitiques se termineront-elles par l'émergence d'un nouveau système monétaire?
+
+44
+00:06:17,560 --> 00:06:21,560
+Bitcoin sera-t-il choisi comme le nouvel étalon?
+
+45
+00:06:22,560 --> 00:06:28,560
+Etienne Chouard nous dit « Le Forum économique mondial représente une menace bien plus grande
+
+46
+00:06:28,560 --> 00:06:33,560
+pour notre existence que n'importe quelle crise imaginaire que le Forum évoque comme
+
+47
+00:06:33,560 --> 00:06:40,560
+prétexte pour supplanter la souveraineté, la démocratie, la liberté, pour la remplacer
+
+48
+00:06:40,560 --> 00:06:45,560
+par un régime totalitaire de technocrates mondialistes non élus.
+
+49
+00:06:46,560 --> 00:06:54,560
+Pourtant, ne sommes-nous pas le pays de la liberté? Allons-nous laisser les CBDC et
+
+50
+00:06:54,560 --> 00:07:02,560
+BlackRock nous la confisquer? Un petit conseil, gardez vos SAT bien chez vous, dans votre poche.
+
+51
+00:07:02,560 --> 00:07:05,560
+Il nous faut une alternative.
+
+52
+00:07:05,560 --> 00:07:09,560
+Qui suis-je? Qui est l'alternative?
+
+53
+00:07:15,560 --> 00:07:19,560
+On se demande, peut-être que la réponse va être ce soir.
+
+54
+00:07:19,560 --> 00:07:24,560
+En tout cas, merci énormément pour cette chronique, comme d'habitude, excellente.
+
+55
+00:07:24,560 --> 00:07:33,560
+Est-ce que ce dont tu viens de parler dans ta chronique, on va probablement en parler
+
+56
+00:07:33,560 --> 00:07:35,560
+un petit peu dans l'actu.
+
+57
+00:07:35,560 --> 00:07:39,560
+Je vais garder ça pour l'actu pour un peu après.
+
+58
+00:07:40,560 --> 00:07:49,560
+J'ai une question, tu as quoi toi? Parce qu'on va parler de ça, on va parler du hardware
+
+59
+00:07:49,560 --> 00:07:50,560
+wallet ce soir.
+
+60
+00:07:50,560 --> 00:07:54,560
+Gab, tu as quoi toi pour protéger tes affaires?
+
+61
+00:07:54,560 --> 00:08:01,560
+J'ai un peu tout parce que je crée des setups de sécurité, donc j'essaye un peu tout.
+
+62
+00:08:01,560 --> 00:08:11,560
+Le site signer aussi, Ledger, Safepal, Trésor, j'ai un peu tous les wallets aussi soft.
+
+63
+00:08:11,560 --> 00:08:15,560
+J'aime bien un peu tout.
+
+64
+00:08:17,560 --> 00:08:23,560
+Tu fais un peu le même système que ce qui est conseillé, j'ai envie de dire.
+
+65
+00:08:23,560 --> 00:08:29,560
+C'est-à-dire plutôt en soft pour ce qui est pour les dépenses, chose comme ça, plutôt
+
+66
+00:08:29,560 --> 00:08:30,560
+en hard?
+
+67
+00:08:30,560 --> 00:08:37,560
+J'aime bien les setups multi-sig avec du hardware wallet.
+
+68
+00:08:39,560 --> 00:08:44,560
+C'est vrai, tu es quand même un petit peu évolué, tu gères quand même un peu.
+
+69
+00:08:44,560 --> 00:08:49,560
+Je pense que tu es au-dessus de la moyenne des utilisateurs en termes de complexité.
+
+70
+00:08:51,560 --> 00:08:55,560
+Je me demande s'il y a des stats là-dessus d'ailleurs, quelles sont les habitudes des
+
+71
+00:08:55,560 --> 00:08:57,560
+utilisateurs de Bitcoin?
+
+72
+00:08:58,560 --> 00:09:04,560
+Je crois que c'est très difficile d'avoir des statistiques sur l'utilisation d'un software
+
+73
+00:09:04,560 --> 00:09:11,560
+ou d'un hardware, justement parce que les utilisateurs de ce type d'équipement se préfèrent
+
+74
+00:09:11,560 --> 00:09:15,560
+être prudents et se faire petit.
+
+75
+00:09:15,560 --> 00:09:21,560
+Donc à mon avis, une partie de la sécurité qui entoure un setup, c'est aussi de garder
+
+76
+00:09:21,560 --> 00:09:24,560
+ce setup, on va dire, secret.
+
+77
+00:09:25,560 --> 00:09:29,560
+Les stats sont assez compliquées à obtenir.
+
+78
+00:09:29,560 --> 00:09:35,560
+Bravo pour la chronique, super intéressant d'actualité.
+
+79
+00:09:35,560 --> 00:09:41,560
+C'est vrai qu'on pourrait faire toute une soirée à discuter des ETF, de BlackRock
+
+80
+00:09:41,560 --> 00:09:43,560
+et des CBDC.
+
+81
+00:09:44,560 --> 00:09:53,560
+D'ailleurs, pour ceux qui sont intéressés, j'ai publié pendant les vacances, en fait
+
+82
+00:09:53,560 --> 00:09:58,560
+quasiment pas l'intégrale, mais quelque chose comme 6-7 dernières chroniques que
+
+83
+00:09:58,560 --> 00:10:01,560
+je n'avais pas encore publiées sous format vidéo.
+
+84
+00:10:01,560 --> 00:10:08,560
+Elles sont toutes dans le fil, surtout le fil qui date de ces deux derniers mois.
+
+85
+00:10:08,560 --> 00:10:12,560
+Et à un moment donné, ce sera affiché quelque part, je ne sais pas où, je ne sais pas comment
+
+86
+00:10:12,560 --> 00:10:16,560
+on va s'organiser, mais il faudrait les réunir dans un même endroit pour qu'elles soient
+
+87
+00:10:16,560 --> 00:10:18,560
+accessibles plus facilement.
+
+88
+00:10:18,560 --> 00:10:25,560
+Et donc celle qui vient d'être publiée, celle que Gab vient de faire ce soir, elle
+
+89
+00:10:25,560 --> 00:10:29,560
+sera publiée dans les jours qui viennent sous format vidéo aussi.
+
+90
+00:10:29,560 --> 00:10:30,560
+Voilà.
+
+91
+00:10:30,560 --> 00:10:35,560
+CryptoMonsieur, tu voulais dire un truc? Je te donne la parole, mais après je vais
+
+92
+00:10:35,560 --> 00:10:37,560
+enchaîner parce que j'ai mille trucs à dire.
+
+93
+00:10:37,560 --> 00:10:39,560
+Salut, bonsoir à tous.
+
+94
+00:10:39,560 --> 00:10:44,560
+Je voulais savoir au niveau du multisig, vous utilisez quoi comme logiciel? Vous utilisez
+
+95
+00:10:44,560 --> 00:10:49,560
+Sparrow ou autre chose? Ce sujet des multisig m'intéresse parce que je suis encore resté
+
+96
+00:10:49,560 --> 00:10:55,560
+sur le stade monosig, donc je serais curieux d'avoir votre avis.
+
+97
+00:10:57,560 --> 00:11:02,560
+Genosys font des trucs bien, Sparrow...
+
+98
+00:11:03,560 --> 00:11:10,560
+Après, tu as plein de trucs qui existent, mais les plus connus restent quand même Genosys
+
+99
+00:11:10,560 --> 00:11:13,560
+Safe, c'est devenu un truc super évolué.
+
+100
+00:11:13,560 --> 00:11:15,560
+Moi, c'est ce que je conseille.
+
+101
+00:11:15,560 --> 00:11:18,560
+Et oui, Sparrow pour BTC, c'est bien aussi.
+
+102
+00:11:18,560 --> 00:11:20,560
+Tu conseilles, mais est-ce que tu l'utilises?
+
+103
+00:11:20,560 --> 00:11:22,560
+Oui, depuis longtemps.
+
+104
+00:11:23,560 --> 00:11:32,560
+Et à titre personnel, j'apprécie le multisig sous Electrum.
+
+105
+00:11:32,560 --> 00:11:43,560
+Maintenant, c'est vrai qu'Electrum n'a plus une popularité telle qu'elle pouvait l'avoir
+
+106
+00:11:43,560 --> 00:11:50,560
+auparavant, mais le setup multisig est très facile à mettre en place via Electrum, et
+
+107
+00:11:50,560 --> 00:11:53,560
+c'est celui que j'utilise le plus souvent.
+
+108
+00:11:54,560 --> 00:11:56,560
+Electrum, c'est old school.
+
+109
+00:11:56,560 --> 00:12:05,560
+C'est old school, c'est probablement le premier wallet SVP Bitcoin, et qui d'ailleurs est
+
+110
+00:12:05,560 --> 00:12:08,560
+toujours aujourd'hui d'actualité.
+
+111
+00:12:08,560 --> 00:12:14,560
+Les interfaces ont peut-être mal vieilli, mais quand on le compare à Sparrow Wallet,
+
+112
+00:12:14,560 --> 00:12:18,560
+il n'a pas à rougir et il propose des fonctionnalités tout à fait intéressantes.
+
+113
+00:12:18,560 --> 00:12:26,560
+C'est peut-être effectivement plutôt un historique pour ma part, mais j'apprécie ce client.
+
+114
+00:12:27,560 --> 00:12:32,560
+Il y a Prof et du stream qui dit Sparrow plus Electrum en multisig.
+
+115
+00:12:32,560 --> 00:12:40,560
+Oui, on peut avoir des setups sur plusieurs clients avec plusieurs hardware wallets ou
+
+116
+00:12:40,560 --> 00:12:44,560
+plusieurs combinaisons software-hardware, c'est à l'appréciation de chacun.
+
+117
+00:12:45,560 --> 00:12:52,560
+Maintenant, il faut aussi être vigilant à ne pas créer des setups trop complexes non plus,
+
+118
+00:12:53,560 --> 00:13:02,560
+justement pour éviter de se tromper ou de se bloquer soi-même lors d'un setup multisig
+
+119
+00:13:02,560 --> 00:13:05,560
+qui serait trop particulier ou trop exotique.
+
+120
+00:13:05,560 --> 00:13:10,560
+Encore une fois, la sécurité c'est une échelle et il faut savoir la jauger de la
+
+121
+00:13:10,560 --> 00:13:12,560
+manière la plus adéquate possible.
+
+122
+00:13:12,560 --> 00:13:17,560
+Jimmy aussi de Crypto.io qui nous a fait une démo sympa sur, comment ça s'appelait au Bionly,
+
+123
+00:13:17,560 --> 00:13:26,560
+Liana. Liana qui est bien, tu peux faire des setups d'hérédité pour les choses qui marchent bien.
+
+124
+00:13:26,560 --> 00:13:30,560
+C'est en train d'évoluer, c'est pas mal ce qu'ils sont en train de mettre en place.
+
+125
+00:13:31,560 --> 00:13:39,560
+Oui, c'est vrai qu'ils amènent une intelligence derrière un setup multisig traditionnel
+
+126
+00:13:39,560 --> 00:13:42,560
+avec des fonctionnalités particulièrement intéressantes.
+
+127
+00:13:42,560 --> 00:13:43,560
+Il y a le time-lapse.
+
+128
+00:13:43,560 --> 00:13:47,560
+Voilà, exactement. Peut-être pas pour le grand public, en tout cas pas pour le moment,
+
+129
+00:13:47,560 --> 00:13:54,560
+mais des setups un peu plus business, business to business, très très très intéressant.
+
+130
+00:13:57,560 --> 00:14:01,560
+Ok, c'est sûr qu'on va parler de tout ça dans quelques instants.
+
+131
+00:14:01,560 --> 00:14:04,560
+Mais d'abord, je voudrais juste introduire l'émission parce que,
+
+132
+00:14:05,560 --> 00:14:09,560
+donc c'est ça, tous les dimanches, vous savez, c'est dimanche, le dimanche,
+
+133
+00:14:09,560 --> 00:14:16,560
+c'est spécial Bitcoin, décentralisation, un petit peu maxi, souveraineté, etc.
+
+134
+00:14:16,560 --> 00:14:23,560
+Donc, comme je cherche des sponsors en ce moment, j'ai approché Satoship pour leur proposer de sponsoriser le dimanche.
+
+135
+00:14:23,560 --> 00:14:34,560
+Ils m'ont proposé un deal qui est que, voilà, ils vont nous offrir, vous offrir en fait, chaque semaine une carte.
+
+136
+00:14:34,560 --> 00:14:38,560
+Donc au choix, ce sera un bon achat pour une carte chez eux.
+
+137
+00:14:38,560 --> 00:14:41,560
+Donc Satoship, Satodim ou SeedKeeper.
+
+138
+00:14:42,560 --> 00:14:45,560
+Et ça va être comme ça pendant trois mois.
+
+139
+00:14:45,560 --> 00:14:49,560
+Et je suis super content d'avoir ce partenariat avec eux parce que c'est en fait,
+
+140
+00:14:49,560 --> 00:14:52,560
+Satoship, c'est quand même une boîte assez sérieuse, je trouve.
+
+141
+00:14:52,560 --> 00:14:57,560
+Et puis, donc voilà, c'est pour ça qu'on fait l'émission ce soir pour présenter un petit peu le projet.
+
+142
+00:14:57,560 --> 00:15:01,560
+Aussi pour parler plus généralement, évidemment, de la sécurité des cryptos.
+
+143
+00:15:01,560 --> 00:15:06,560
+Et je suis un petit peu déçu que, alors attends, ça, c'est vraiment marrant parce que, tu vois,
+
+144
+00:15:06,560 --> 00:15:10,560
+j'ai commencé à discuter avec vous par l'intermédiaire de Carla.
+
+145
+00:15:10,560 --> 00:15:15,560
+Et en fait, je n'ai pas tilté et j'ai parlé à Agathe, justement, de vous.
+
+146
+00:15:15,560 --> 00:15:18,560
+Elle me dit, ah ouais, c'est Carlita, etc.
+
+147
+00:15:18,560 --> 00:15:22,560
+Et là, j'ai compris, en fait, c'est Carlita qui travaille avec toi.
+
+148
+00:15:22,560 --> 00:15:23,560
+Oui, tout à fait.
+
+149
+00:15:23,560 --> 00:15:29,560
+Donc, elle a rejoint l'équipe Satoship en septembre et donc,
+
+150
+00:15:29,560 --> 00:15:32,560
+elle travaille avec nous sur la partie marketing.
+
+151
+00:15:32,560 --> 00:15:40,560
+Donc, c'est tout naturellement que tu es en contact avec elle directement parce qu'elle gère tout ce qui est opération
+
+152
+00:15:40,560 --> 00:15:44,560
+marketing, communication et gestion de nos ventes.
+
+153
+00:15:44,560 --> 00:15:45,560
+Voilà.
+
+154
+00:15:45,560 --> 00:15:47,560
+Donc, je...
+
+155
+00:15:47,560 --> 00:15:51,560
+C'est vraiment drôle, en fait, parce que quand je...
+
+156
+00:15:51,560 --> 00:15:57,560
+Il y a à peu près un an, quand j'étais en discussion avec la BBS, c'est pareil.
+
+157
+00:15:57,560 --> 00:16:01,560
+En fait, mon interlocuteur, interlocutrice, en fait, c'était Carla.
+
+158
+00:16:01,560 --> 00:16:02,560
+Ah oui, oui.
+
+159
+00:16:02,560 --> 00:16:08,560
+Et du coup, j'ai l'impression qu'à chaque fois que je parle avec un projet français,
+
+160
+00:16:08,560 --> 00:16:10,560
+genre j'ai affaire avec Carlita, elle est partout.
+
+161
+00:16:10,560 --> 00:16:12,560
+Ah donc, oui, mais alors j'espère.
+
+162
+00:16:12,560 --> 00:16:17,560
+J'espère alors que tu ne traiteras plus personne d'autre et qu'elle restera chez nous.
+
+163
+00:16:17,560 --> 00:16:25,560
+Parce qu'on est très content de la collaboration qu'on a aujourd'hui avec elle et j'espère qu'on pourra continuer sur le long terme avec elle.
+
+164
+00:16:25,560 --> 00:16:32,560
+Oui, elle est pro et donc, je suis très content de faire ce partenariat avec vous.
+
+165
+00:16:32,560 --> 00:16:33,560
+Et donc, c'est ça, en fait.
+
+166
+00:16:33,560 --> 00:16:35,560
+Donc, aujourd'hui, on va offrir...
+
+167
+00:16:35,560 --> 00:16:38,560
+Vous allez offrir une carte à quelqu'un.
+
+168
+00:16:38,560 --> 00:16:40,560
+Donc, j'ai mis en place un lien sur Gleam.
+
+169
+00:16:40,560 --> 00:16:42,560
+Alors, ça devrait marcher.
+
+170
+00:16:42,560 --> 00:16:45,560
+Ce n'est pas du rocket science.
+
+171
+00:16:45,560 --> 00:16:47,560
+Donc, normalement, Gleam, tout le monde...
+
+172
+00:16:47,560 --> 00:16:48,560
+Mais moi, je me connais.
+
+173
+00:16:48,560 --> 00:16:50,560
+Je sais que je suis un petit peu...
+
+174
+00:16:50,560 --> 00:16:52,560
+Des fois, je fais des trucs, ça ne marche pas très bien.
+
+175
+00:16:52,560 --> 00:16:55,560
+Donc, je vais vous balancer le lien.
+
+176
+00:16:55,560 --> 00:16:56,560
+Normalement, ça devrait fonctionner.
+
+177
+00:16:56,560 --> 00:16:58,560
+Donc, le lien est valide pendant une heure.
+
+178
+00:16:58,560 --> 00:17:00,560
+En fait, ça a commencé à 10 heures.
+
+179
+00:17:00,560 --> 00:17:03,560
+Donc, le tirage au sort va se faire à 11 heures.
+
+180
+00:17:03,560 --> 00:17:07,560
+Donc, maintenant, dans 41 minutes.
+
+181
+00:17:07,560 --> 00:17:09,560
+Donc, je vais vous balancer ça.
+
+182
+00:17:09,560 --> 00:17:11,560
+Et puis, je vous invite tous, si vous voulez participer.
+
+183
+00:17:11,560 --> 00:17:12,560
+C'est très simple.
+
+184
+00:17:12,560 --> 00:17:14,560
+Vous vous connectez juste avec Twitter.
+
+185
+00:17:14,560 --> 00:17:18,560
+Et en fait, c'est pour que ça puisse faire un tirage au sort transparent à la fin.
+
+186
+00:17:18,560 --> 00:17:21,560
+Je vais essayer de trouver un truc un petit peu plus sexy pour les prochaines fois.
+
+187
+00:17:21,560 --> 00:17:23,560
+Mais pour l'instant, on va faire comme ça.
+
+188
+00:17:23,560 --> 00:17:26,560
+Donc, je vous balance le lien.
+
+189
+00:17:29,560 --> 00:17:35,560
+Et puis, évidemment, on va parler de ce que sont ces choses-là dans les minutes qui arrivent.
+
+190
+00:17:36,560 --> 00:17:40,560
+Je me permets juste une petite parenthèse.
+
+191
+00:17:40,560 --> 00:17:44,560
+Je voudrais, parce que je vois qu'il y a plusieurs personnes qui nous écoutent.
+
+192
+00:17:44,560 --> 00:17:52,560
+Alors, je voudrais saluer Agathe et lui dire bonsoir et à très bientôt.
+
+193
+00:17:52,560 --> 00:17:54,560
+Parce que je pense qu'on se voit dans les prochains jours.
+
+194
+00:17:54,560 --> 00:17:57,560
+Pareil pour Jacques qui nous écoute.
+
+195
+00:17:57,560 --> 00:18:00,560
+Et alors, je voudrais aussi saluer Dani qui se reconnaîtra.
+
+196
+00:18:00,560 --> 00:18:04,560
+Et j'espère qu'on se reverra aussi également bientôt.
+
+197
+00:18:04,560 --> 00:18:09,560
+Voilà, petite parenthèse pour les potes autour de la table.
+
+198
+00:18:10,560 --> 00:18:11,560
+C'est parfait.
+
+199
+00:18:11,560 --> 00:18:13,560
+Tu as meublé pendant que j'étais en train de faire les manips.
+
+200
+00:18:13,560 --> 00:18:18,560
+Donc, j'ai mis le lien du concours en pin.
+
+201
+00:18:18,560 --> 00:18:19,560
+Donc, voilà.
+
+202
+00:18:19,560 --> 00:18:22,560
+Normalement, vous le voyez tous si vous êtes sur le téléphone.
+
+203
+00:18:22,560 --> 00:18:25,560
+Là, sinon, c'est aussi dans les commentaires du Space.
+
+204
+00:18:25,560 --> 00:18:28,560
+Donc, c'est très facile à voir.
+
+205
+00:18:28,560 --> 00:18:29,560
+Bonjour tout le monde.
+
+206
+00:18:29,560 --> 00:18:30,560
+C'est vrai qu'il y a du monde.
+
+207
+00:18:30,560 --> 00:18:31,560
+Salut, Agathe.
+
+208
+00:18:31,560 --> 00:18:33,560
+Et puis, salut tous les autres.
+
+209
+00:18:34,560 --> 00:18:35,560
+Quoi d'autre?
+
+210
+00:18:35,560 --> 00:18:36,560
+Qu'est-ce que je voulais dire?
+
+211
+00:18:36,560 --> 00:18:39,560
+Je voulais dire plein de trucs et je suis un petit peu en mêlée.
+
+212
+00:18:41,560 --> 00:18:42,560
+Quoi d'autre?
+
+213
+00:18:42,560 --> 00:18:45,560
+C'est tout en fait pour commencer.
+
+214
+00:18:45,560 --> 00:18:46,560
+Oui, c'est ça.
+
+215
+00:18:46,560 --> 00:18:50,560
+Je voulais faire un petit peu d'actu.
+
+216
+00:18:50,560 --> 00:18:53,560
+Mais je voulais aussi préciser que je ne viendrai pas à Cryptoxère.
+
+217
+00:18:53,560 --> 00:18:56,560
+Je voulais dire en plus, on va se voir et tout.
+
+218
+00:18:56,560 --> 00:18:59,560
+Et en fait, non, on ne va pas se voir parce que je n'y vais pas.
+
+219
+00:18:59,560 --> 00:19:01,560
+C'est beaucoup trop compliqué pour moi.
+
+220
+00:19:01,560 --> 00:19:02,560
+C'est beaucoup trop loin.
+
+221
+00:19:03,560 --> 00:19:04,560
+Toutes sortes de choses.
+
+222
+00:19:04,560 --> 00:19:07,560
+Donc, j'ai pris la décision de ne pas y aller.
+
+223
+00:19:07,560 --> 00:19:10,560
+Je suis désolé pour ceux qui voulaient me voir.
+
+224
+00:19:10,560 --> 00:19:12,560
+Moi aussi, je voulais voir plein de monde.
+
+225
+00:19:12,560 --> 00:19:14,560
+Il y a plein de gens avec qui je n'ai pas vu,
+
+226
+00:19:14,560 --> 00:19:18,560
+avec qui j'interagis quasiment quotidiennement,
+
+227
+00:19:18,560 --> 00:19:19,560
+qui seront là-bas.
+
+228
+00:19:19,560 --> 00:19:22,560
+Donc, j'aurais été vraiment très content de les voir, notamment Gab.
+
+229
+00:19:23,560 --> 00:19:26,560
+Donc, du coup, ça ne se fera pas cette fois-là.
+
+230
+00:19:26,560 --> 00:19:28,560
+Je suis un petit peu loin, mais la prochaine fois,
+
+231
+00:19:28,560 --> 00:19:29,560
+il y a un autre événement.
+
+232
+00:19:29,560 --> 00:19:31,560
+Il y en aura d'autres.
+
+233
+00:19:31,560 --> 00:19:35,560
+Ok, tu as eu la bonté d'accueillir ma chronique sur son plateau.
+
+234
+00:19:35,560 --> 00:19:38,560
+Donc, finalement, je vais pouvoir quand même m'exprimer.
+
+235
+00:19:39,560 --> 00:19:41,560
+Ah, c'est cool.
+
+236
+00:19:41,560 --> 00:19:43,560
+Bon, c'est parfait.
+
+237
+00:19:45,560 --> 00:19:47,560
+Quoi d'autre?
+
+238
+00:19:48,560 --> 00:19:51,560
+Il y a Prof du stream qui dit
+
+239
+00:19:53,560 --> 00:19:58,560
+qu'il ne peut pas, que Glim a empêché son utilisation
+
+240
+00:19:58,560 --> 00:20:00,560
+à cause de son IP.
+
+241
+00:20:00,560 --> 00:20:01,560
+À cause de son IP?
+
+242
+00:20:01,560 --> 00:20:02,560
+Oui, bon, je ne sais pas.
+
+243
+00:20:02,560 --> 00:20:03,560
+Excuse-moi.
+
+244
+00:20:03,560 --> 00:20:07,560
+Je ne savais pas que Glim faisait un filtre en fonction des IP
+
+245
+00:20:07,560 --> 00:20:08,560
+pour la participation.
+
+246
+00:20:08,560 --> 00:20:09,560
+Essayez d'utiliser un VPN.
+
+247
+00:20:09,560 --> 00:20:11,560
+Il faudrait que je m'associe avec une marque de VPN
+
+248
+00:20:11,560 --> 00:20:12,560
+pour faire des concours.
+
+249
+00:20:12,560 --> 00:20:14,560
+Ce serait encore marrant.
+
+250
+00:20:15,560 --> 00:20:17,560
+Et puis, il y a Jacques Favier qui dit
+
+251
+00:20:17,560 --> 00:20:18,560
+qu'on va te regretter, Auxerre.
+
+252
+00:20:18,560 --> 00:20:19,560
+Bah, ouais, vraiment désolé.
+
+253
+00:20:19,560 --> 00:20:21,560
+En plus, c'est ça.
+
+254
+00:20:21,560 --> 00:20:23,560
+Il y avait le repas du coin et tout.
+
+255
+00:20:23,560 --> 00:20:24,560
+Donc, ouais.
+
+256
+00:20:24,560 --> 00:20:26,560
+Bon, bah, une prochaine fois, les amis.
+
+257
+00:20:26,560 --> 00:20:28,560
+Mais Berlin, c'est fucking loin.
+
+258
+00:20:28,560 --> 00:20:29,560
+Vous ne vous rendez pas compte?
+
+259
+00:20:29,560 --> 00:20:32,560
+Au début, mais en fait, c'est très loin.
+
+260
+00:20:32,560 --> 00:20:33,560
+C'est à côté de la Pologne.
+
+261
+00:20:33,560 --> 00:20:37,560
+C'est vraiment à l'extrême est de l'Allemagne,
+
+262
+00:20:37,560 --> 00:20:38,560
+qui est un grand pays.
+
+263
+00:20:38,560 --> 00:20:39,560
+Donc, bref.
+
+264
+00:20:39,560 --> 00:20:41,560
+Et puis, en plus, c'est ça, le 29,
+
+265
+00:20:41,560 --> 00:20:43,560
+je commence l'école 42 à la piscine.
+
+266
+00:20:43,560 --> 00:20:45,560
+Donc, il faut que je me prépare.
+
+267
+00:20:45,560 --> 00:20:47,560
+En fait, je ne me prépare pas tant que ça,
+
+268
+00:20:47,560 --> 00:20:49,560
+mais il faut que je sois à frais et dispo.
+
+269
+00:20:49,560 --> 00:20:50,560
+Et d'autres choses.
+
+270
+00:20:50,560 --> 00:20:51,560
+Donc, voilà.
+
+271
+00:20:51,560 --> 00:20:52,560
+Bon, on va commencer l'émission.
+
+272
+00:20:52,560 --> 00:20:53,560
+Donc, bonjour à tous.
+
+273
+00:20:53,560 --> 00:20:57,560
+Et puis, n'oubliez pas que si vous voulez participer au concours,
+
+274
+00:20:57,560 --> 00:21:00,560
+il est encore disponible pour 38 minutes.
+
+275
+00:21:00,560 --> 00:21:02,560
+Protéger ses cryptos.
+
+276
+00:21:02,560 --> 00:21:05,560
+Alors, on a fait déjà des émissions là-dessus plusieurs fois.
+
+277
+00:21:05,560 --> 00:21:08,560
+On avait fait une fois, il y a quelques mois,
+
+278
+00:21:08,560 --> 00:21:13,560
+un tour d'horizon des différents outils qui sont accessibles à tous.
+
+279
+00:21:13,560 --> 00:21:17,560
+Donc, tu as les software wallet, tu as les hardware wallet.
+
+280
+00:21:17,560 --> 00:21:20,560
+J'ai envie.
+
+281
+00:21:20,560 --> 00:21:26,560
+Alors, je sais que ça peut paraître une question un peu étrange, Bastien.
+
+282
+00:21:26,560 --> 00:21:33,560
+Mais genre, je sais que parce que je sais que tu es la personne qui a créé Satoship.
+
+283
+00:21:33,560 --> 00:21:39,560
+Mais genre, est-ce que tu utilises d'autres solutions que les produits de Satoship éventuellement?
+
+284
+00:21:39,560 --> 00:21:42,560
+Et est-ce que tu peux dire, c'est quoi d'après toi,
+
+285
+00:21:42,560 --> 00:21:49,560
+une bonne hygiène pour sécuriser ses cryptos et en particulier ses Bitcoins?
+
+286
+00:21:50,560 --> 00:21:56,560
+Oui, alors, oui, j'utilise d'autres produits que nos propres produits.
+
+287
+00:21:56,560 --> 00:22:00,560
+J'ai d'abord commencé avec Ledger.
+
+288
+00:22:00,560 --> 00:22:05,560
+J'ai ensuite testé Trezor.
+
+289
+00:22:05,560 --> 00:22:10,560
+Et puis, du fait que je travaille pour Satoship,
+
+290
+00:22:10,560 --> 00:22:15,560
+j'ai testé pas loin de tous les hardware wallet du marché.
+
+291
+00:22:15,560 --> 00:22:18,560
+Mais j'utilise aussi nos produits.
+
+292
+00:22:18,560 --> 00:22:22,560
+Parce qu'on crée avant tout des solutions pour nous,
+
+293
+00:22:22,560 --> 00:22:27,560
+des solutions qui nous font plaisir, des solutions qui correspondent à nos besoins,
+
+294
+00:22:27,560 --> 00:22:29,560
+avant de les commercialiser.
+
+295
+00:22:29,560 --> 00:22:32,560
+Et donc, j'utilise également mes produits.
+
+296
+00:22:32,560 --> 00:22:35,560
+Et alors, pour répondre à ta deuxième question,
+
+297
+00:22:35,560 --> 00:22:42,560
+je pense qu'il n'y a pas vraiment de bonne ou mauvaise solution pour la sécurité.
+
+298
+00:22:42,560 --> 00:22:46,560
+La sécurité des cryptos, ce n'est pas tout blanc, ce n'est pas tout noir.
+
+299
+00:22:46,560 --> 00:22:53,560
+Et je pense que c'est avant tout au bon vouloir de chacun de sécuriser ses actifs.
+
+300
+00:22:53,560 --> 00:22:56,560
+Alors, je vais vous donner un exemple très parlant.
+
+301
+00:22:56,560 --> 00:23:01,560
+J'ai une connaissance qui est rentrée dans Bitcoin en 2010.
+
+302
+00:23:01,560 --> 00:23:04,560
+Donc, on pourrait le considérer comme un OG.
+
+303
+00:23:04,560 --> 00:23:10,560
+Et aujourd'hui, il n'utilise toujours pas de hardware wallet pour sécuriser ses cryptos.
+
+304
+00:23:10,560 --> 00:23:18,560
+Alors, ça peut paraître dingue, mais cette personne qui a quand même pas mal d'assets sous gestion,
+
+305
+00:23:18,560 --> 00:23:21,560
+utilise principalement des paper wallet.
+
+306
+00:23:21,560 --> 00:23:28,560
+Alors, ça pourrait faire rire, mais son hygiène numérique est irréprochable.
+
+307
+00:23:28,560 --> 00:23:32,560
+Il génère ses propres paper wallet offline.
+
+308
+00:23:32,560 --> 00:23:36,560
+Et il gère comme ça des solutions de cold storage,
+
+309
+00:23:36,560 --> 00:23:39,560
+plutôt sur le long terme, complètement offline,
+
+310
+00:23:39,560 --> 00:23:47,560
+avec des solutions qui lui sont propres et qui sont, ma foi, plutôt intéressantes.
+
+311
+00:23:47,560 --> 00:23:54,560
+Et donc, ça montre bien que la sécurité est en fait le propre de chacun.
+
+312
+00:23:54,560 --> 00:23:58,560
+Donc, je ne dirais pas qu'il faut absolument avoir un hardware wallet.
+
+313
+00:23:58,560 --> 00:24:05,560
+Je ne dirais pas qu'il faut absolument tout conserver sur un hot wallet ou sur son mobile wallet.
+
+314
+00:24:05,560 --> 00:24:12,560
+Je pense que c'est à chacun de trouver la sécurité qui lui correspond pour garder ses assets.
+
+315
+00:24:12,560 --> 00:24:13,560
+Voilà.
+
+316
+00:24:14,560 --> 00:24:17,560
+Ok, alors il y a eu beaucoup de commentaires.
+
+317
+00:24:17,560 --> 00:24:27,560
+Il y a Frédéric qui dit que Blue Wallet fait aussi du multisig pour les débutants,
+
+318
+00:24:27,560 --> 00:24:33,560
+mais Mano avec Electrum, c'est très bien rien que pour comprendre le fonctionnement.
+
+319
+00:24:33,560 --> 00:24:34,560
+Effectivement.
+
+320
+00:24:34,560 --> 00:24:38,560
+D'ailleurs, c'est marrant parce que quand j'avais expliqué Bitcoin à ma mère,
+
+321
+00:24:38,560 --> 00:24:42,560
+je lui ai fait sa formation avec Electrum aussi,
+
+322
+00:24:42,560 --> 00:24:47,560
+parce que j'ai appris aussi avec Electrum et en fait, c'est le plus, je ne sais pas,
+
+323
+00:24:47,560 --> 00:24:50,560
+ça me paraît être le plus simple pour commencer en tout cas.
+
+324
+00:24:50,560 --> 00:24:53,560
+Et il a écrit un autre message, je ne sais pas encore, test celui-là,
+
+325
+00:24:53,560 --> 00:24:57,560
+mais c'est dans ma todo, ça s'appelle Nunchuk.
+
+326
+00:24:58,560 --> 00:25:02,560
+Et il y a CypherTux qui dit avec le paper wallet,
+
+327
+00:25:02,560 --> 00:25:05,560
+donc pour rebondir à ce que tu disais, Bastien,
+
+328
+00:25:05,560 --> 00:25:08,560
+très bien, mais quand tu voudras signer, tu prends un risque.
+
+329
+00:25:09,560 --> 00:25:11,560
+Est-ce que tu peux commenter là-dessus?
+
+330
+00:25:11,560 --> 00:25:17,560
+Oui, effectivement, un paper wallet n'a pas pour vocation de signer.
+
+331
+00:25:18,560 --> 00:25:25,560
+Donc à partir du moment où on va vouloir dépenser ou déplacer ses Bitcoins,
+
+332
+00:25:25,560 --> 00:25:28,560
+on va devoir importer la clé privée de son paper wallet
+
+333
+00:25:28,560 --> 00:25:35,560
+dans un software wallet par exemple, pour pouvoir spend.
+
+334
+00:25:36,560 --> 00:25:39,560
+Le cas de la personne que je connais ici, c'est une personne
+
+335
+00:25:39,560 --> 00:25:42,560
+qui est plutôt sur du holding très long terme,
+
+336
+00:25:43,560 --> 00:25:46,560
+qui a également un hot wallet, mais pour ses avoirs principaux,
+
+337
+00:25:46,560 --> 00:25:48,560
+il a des paper wallets.
+
+338
+00:25:48,560 --> 00:25:50,560
+Mais je suis entièrement d'accord avec toi,
+
+339
+00:25:50,560 --> 00:25:52,560
+donc je ne sais pas qui a fait le commentaire,
+
+340
+00:25:52,560 --> 00:25:55,560
+mais effectivement, à partir du moment où il va falloir signer une transaction,
+
+341
+00:25:55,560 --> 00:25:58,560
+il va falloir importer l'intégralité du paper wallet,
+
+342
+00:25:58,560 --> 00:26:04,560
+donc l'intégralité du contenu, sur un autre device,
+
+343
+00:26:04,560 --> 00:26:06,560
+ça peut être aussi un software wallet,
+
+344
+00:26:06,560 --> 00:26:12,560
+et là il faut être très prudent lorsqu'on va faire cet import.
+
+345
+00:26:14,560 --> 00:26:18,560
+Alors j'en profite pour dire que les gens, si vous voulez vous exprimer,
+
+346
+00:26:18,560 --> 00:26:20,560
+vous pouvez prendre la parole, ça n'a pas changé.
+
+347
+00:26:20,560 --> 00:26:22,560
+Je fais de la lecture, c'est trop bizarre.
+
+348
+00:26:23,560 --> 00:26:25,560
+Si vous voulez dire des trucs, par exemple,
+
+349
+00:26:25,560 --> 00:26:28,560
+tu dis que tu n'as pas la même opinion que toi sur Satoship,
+
+350
+00:26:28,560 --> 00:26:32,560
+n'hésite pas si tu veux dire quelque chose,
+
+351
+00:26:32,560 --> 00:26:36,560
+que ce soit positif ou négatif sur Satoship, c'est fait pour ça.
+
+352
+00:26:36,560 --> 00:26:39,560
+Si vous voulez dire quoi que ce soit, réagir à ce qu'on dit,
+
+353
+00:26:39,560 --> 00:26:43,560
+poser des questions, peu importe, vous me demandez le rôle de speaker,
+
+354
+00:26:43,560 --> 00:26:46,560
+et puis je vous le donne, l'émission est carrément faite pour ça.
+
+355
+00:26:46,560 --> 00:26:48,560
+Il y a Carlita qui est arrivé, salut Carlita.
+
+356
+00:26:50,560 --> 00:26:53,560
+Le truc qu'on n'a pas fait, c'est l'actu en fait.
+
+357
+00:26:53,560 --> 00:26:56,560
+Il n'y avait pas trop d'actu que je voulais aborder,
+
+358
+00:26:56,560 --> 00:27:00,560
+mais il y a un truc que je pense qui est un peu relié au sujet du jour,
+
+359
+00:27:00,560 --> 00:27:03,560
+c'est le Conseil de l'Europe et le Parlement qui ont...
+
+360
+00:27:03,560 --> 00:27:06,560
+Je lis le tweet de Grégory Raymond de BigWayne.
+
+361
+00:27:06,560 --> 00:27:09,560
+Le Conseil de l'Europe et le Parlement ont trouvé hier soir,
+
+362
+00:27:09,560 --> 00:27:12,560
+donc c'était le 18, donc il y a quelques jours,
+
+363
+00:27:12,560 --> 00:27:15,560
+ont trouvé hier soir un accord sur de nouvelles règles anti-blanchiment.
+
+364
+00:27:15,560 --> 00:27:18,560
+Et en gros, ce que j'ai compris, c'est qu'ils veulent...
+
+365
+00:27:18,560 --> 00:27:21,560
+Parce qu'on a parlé souvent de ça,
+
+366
+00:27:21,560 --> 00:27:24,560
+des régulateurs, des gouvernements qui veulent,
+
+367
+00:27:24,560 --> 00:27:29,560
+disons, mettre la main sur les cryptos,
+
+368
+00:27:29,560 --> 00:27:32,560
+sur l'écosystème crypto, donc sur la DeFi, etc.
+
+369
+00:27:32,560 --> 00:27:35,560
+Ils veulent faire de sorte à ce que les wallets
+
+370
+00:27:35,560 --> 00:27:38,560
+ne soient plus des choses comme ça,
+
+371
+00:27:38,560 --> 00:27:42,560
+quelque part sur Internet, sur lesquelles on ne peut jamais toucher.
+
+372
+00:27:42,560 --> 00:27:47,560
+Ils veulent vraiment trouver un moyen de faire de sorte à ce que les...
+
+373
+00:27:47,560 --> 00:27:51,560
+Les wallets des gens puissent être à leur portée éventuellement.
+
+374
+00:27:51,560 --> 00:27:54,560
+Et donc, il y a toutes sortes de...
+
+375
+00:27:54,560 --> 00:27:57,560
+Ils essaient des choses et apparemment...
+
+376
+00:27:57,560 --> 00:28:00,560
+Il y avait un document, on parle souvent de ce truc-là,
+
+377
+00:28:00,560 --> 00:28:02,560
+la Banque de France avait émis il n'y a pas longtemps,
+
+378
+00:28:02,560 --> 00:28:05,560
+où ils disaient qu'ils allaient peut-être faire, pour la DeFi par exemple,
+
+379
+00:28:05,560 --> 00:28:09,560
+ils allaient peut-être faire un système avec des protocoles qui sont régulés,
+
+380
+00:28:09,560 --> 00:28:12,560
+d'autres qui ne le sont pas, il faudrait qu'ils soient enregistrés.
+
+381
+00:28:12,560 --> 00:28:15,560
+Donc ceux qui ne seront pas enregistrés pourraient avoir des amendes, etc.
+
+382
+00:28:15,560 --> 00:28:17,560
+Ils essaient d'imaginer les choses.
+
+383
+00:28:17,560 --> 00:28:19,560
+Et là, l'idée apparemment avec ce truc-là,
+
+384
+00:28:19,560 --> 00:28:23,560
+les nouvelles règles anti-blanchiment au niveau de l'Europe,
+
+385
+00:28:23,560 --> 00:28:28,560
+ce serait de demander aux entreprises qui s'enregistrent,
+
+386
+00:28:28,560 --> 00:28:34,560
+donc les entreprises qui ont le truc Psan et assimilé,
+
+387
+00:28:34,560 --> 00:28:37,560
+de faire des proxys finalement pour eux,
+
+388
+00:28:37,560 --> 00:28:44,560
+plutôt que ce soit l'État qui fasse une guerre contre les wallets des utilisateurs.
+
+389
+00:28:44,560 --> 00:28:50,560
+Ils veulent demander aux entreprises qui sont régulées de faire ces contrôles-là,
+
+390
+00:28:50,560 --> 00:28:52,560
+de faire de sorte à ce que, par exemple,
+
+391
+00:28:52,560 --> 00:28:54,560
+je ne sais pas ce que sont les règles exactement,
+
+392
+00:28:54,560 --> 00:28:57,560
+mais de faire de sorte à ce que, par exemple,
+
+393
+00:28:57,560 --> 00:28:59,560
+pour des montants supérieurs à 1 000,
+
+394
+00:28:59,560 --> 00:29:02,560
+tu ne puisses pas mettre ça sur un wallet qui n'est pas enregistré,
+
+395
+00:29:02,560 --> 00:29:03,560
+un truc dans le genre.
+
+396
+00:29:03,560 --> 00:29:05,560
+Je ne sais pas comment ça va fonctionner,
+
+397
+00:29:05,560 --> 00:29:09,560
+mais toujours est-il que ça devient de plus en plus important,
+
+398
+00:29:10,560 --> 00:29:14,560
+surtout quand on parle de nous qui sommes un petit peu initiés,
+
+399
+00:29:14,560 --> 00:29:21,560
+d'avoir ça en tête, d'avoir une bonne hygiène numérique,
+
+400
+00:29:21,560 --> 00:29:26,560
+d'essayer de faire de sorte à ce que ces cryptos soient bien protégés,
+
+401
+00:29:26,560 --> 00:29:32,560
+bien au chaud, et surtout de s'entraîner à la décentralisation.
+
+402
+00:29:33,560 --> 00:29:36,560
+C'est quoi d'ailleurs ton avis, Bastien, sur cet aspect-là,
+
+403
+00:29:36,560 --> 00:29:38,560
+centralisation versus décentralisation?
+
+404
+00:29:38,560 --> 00:29:43,560
+Est-ce que tu as quand même, peut-être pas toi personnellement,
+
+405
+00:29:43,560 --> 00:29:48,560
+mais c'est quoi ton avis sur avoir ces assets,
+
+406
+00:29:48,560 --> 00:29:52,560
+notamment ces bitcoins, sur, par exemple, des échanges décentralisés?
+
+407
+00:29:52,560 --> 00:29:55,560
+Ce n'est pas conseillé, mais ce n'est pas non plus le diable.
+
+408
+00:29:55,560 --> 00:29:58,560
+J'imagine qu'il y a quand même peut-être un espèce d'entre-deux,
+
+409
+00:29:58,560 --> 00:30:02,560
+il y a des cas de figure où c'est acceptable.
+
+410
+00:30:03,560 --> 00:30:07,560
+Je vois parfois sur Twitter beaucoup de personnes
+
+411
+00:30:07,560 --> 00:30:13,560
+qui crachent sur les exchanges, que ce soit centralisés ou décentralisés,
+
+412
+00:30:13,560 --> 00:30:19,560
+en proposant des alternatives un peu plus cypherpunk, on va dire.
+
+413
+00:30:19,560 --> 00:30:26,560
+Mais paradoxalement, ces services ouvrent la porte à bitcoin
+
+414
+00:30:26,560 --> 00:30:28,560
+à énormément de personnes.
+
+415
+00:30:28,560 --> 00:30:34,560
+Tu parlais tantôt de ta mère et que tu lui avais expliqué bitcoin via Electrum.
+
+416
+00:30:34,560 --> 00:30:39,560
+Le moyen le plus simple pour monsieur et madame Tout-le-Monde
+
+417
+00:30:39,560 --> 00:30:44,560
+d'acquérir du bitcoin, c'est peut-être encore de passer par un exchange centralisé.
+
+418
+00:30:44,560 --> 00:30:47,560
+Parce que c'est très simple de se créer un compte,
+
+419
+00:30:47,560 --> 00:30:50,560
+c'est très simple de faire un virement bancaire
+
+420
+00:30:50,560 --> 00:30:53,560
+et c'est très simple de faire un ordre pour acheter du bitcoin.
+
+421
+00:30:53,560 --> 00:30:56,560
+Il existe plein d'autres alternatives,
+
+422
+00:30:56,560 --> 00:30:58,560
+que je pourrais recommander fatalement,
+
+423
+00:30:58,560 --> 00:31:02,560
+mais il faut aussi comprendre que ces exchanges
+
+424
+00:31:02,560 --> 00:31:06,560
+permettent un onboarding des gens de manière
+
+425
+00:31:06,560 --> 00:31:09,560
+beaucoup plus efficace que d'autres solutions.
+
+426
+00:31:09,560 --> 00:31:15,560
+Alors, bien sûr, c'est toujours mieux d'acquérir ces bitcoins autrement
+
+427
+00:31:15,560 --> 00:31:18,560
+et c'est toujours mieux d'avoir la pleine possession de ces bitcoins.
+
+428
+00:31:18,560 --> 00:31:22,560
+Je voudrais revenir sur ce que tu as dit
+
+429
+00:31:22,560 --> 00:31:24,560
+concernant des possibles régulations.
+
+430
+00:31:24,560 --> 00:31:29,560
+On pourrait très bien imaginer que l'Europe impose à un exchange
+
+431
+00:31:29,560 --> 00:31:34,560
+de ne plus autoriser le rapatriement de bitcoin
+
+432
+00:31:34,560 --> 00:31:37,560
+ailleurs que sur un autre service régulé.
+
+433
+00:31:37,560 --> 00:31:43,560
+Et donc toutes les personnes qui auraient par exemple sur Kraken du bitcoin
+
+434
+00:31:43,560 --> 00:31:50,560
+ne pourraient plus jamais l'envoyer ailleurs que chez d'autres acteurs régulés.
+
+435
+00:31:50,560 --> 00:31:54,560
+Donc ça pourrait être un wallet custodial chez un opérateur X,
+
+436
+00:31:54,560 --> 00:31:57,560
+ça pourrait être une société enregistrée PESAN
+
+437
+00:31:57,560 --> 00:32:00,560
+qui est compliant avec les nouvelles règles européennes.
+
+438
+00:32:00,560 --> 00:32:02,560
+Et donc c'est là qu'il faut être très vigilant
+
+439
+00:32:02,560 --> 00:32:07,560
+et être assez vif d'esprit pour bien comprendre rapidement
+
+440
+00:32:07,560 --> 00:32:12,560
+les menaces qui peuvent planer autour de ces nouvelles règles européennes
+
+441
+00:32:12,560 --> 00:32:14,560
+qui vont arriver dans les prochaines années
+
+442
+00:32:14,560 --> 00:32:18,560
+pour rapatrier assez rapidement ces bitcoins,
+
+443
+00:32:18,560 --> 00:32:20,560
+pour ceux qui ne l'auraient pas déjà fait,
+
+444
+00:32:20,560 --> 00:32:23,560
+sur des solutions non custodiales.
+
+445
+00:32:23,560 --> 00:32:28,560
+Donc des solutions pour lesquelles vous disposez des clés privées de vos bitcoins
+
+446
+00:32:28,560 --> 00:32:31,560
+et pas un tir de confiance.
+
+447
+00:32:31,560 --> 00:32:36,560
+D'ailleurs c'est fou ça parce que quand tu essaies de penser à ça,
+
+448
+00:32:36,560 --> 00:32:40,560
+je me dis que ce qui va se passer c'est que tous les acteurs,
+
+449
+00:32:40,560 --> 00:32:44,560
+toutes les exchanges comme justement tu parlais de Kraken,
+
+450
+00:32:44,560 --> 00:32:46,560
+ils vont juste arrêter leur service en Europe
+
+451
+00:32:46,560 --> 00:32:52,560
+ou alors ils vont continuer mais ça va être des services que personne ne va utiliser.
+
+452
+00:32:52,560 --> 00:32:58,560
+Parce que tu ne veux pas, l'idée ça reste quand même d'être toujours au maximum en possession de tes assets.
+
+453
+00:32:58,560 --> 00:33:01,560
+Donc tu envoies sur des exchanges pour faire du trade
+
+454
+00:33:01,560 --> 00:33:06,560
+et puis l'idée c'est de rapatrier à un moment donné tes cryptos.
+
+455
+00:33:06,560 --> 00:33:11,560
+Donc peut-être que les wallets qui permettent de faire du swap
+
+456
+00:33:11,560 --> 00:33:14,560
+vont se développer de plus en plus.
+
+457
+00:33:14,560 --> 00:33:17,560
+Je ne sais pas comment ça va être la régulation par rapport à ça d'ailleurs.
+
+458
+00:33:17,560 --> 00:33:24,560
+Et puis ce qui va se passer c'est que ça va être très compliqué d'utiliser ces cryptos,
+
+459
+00:33:24,560 --> 00:33:27,560
+de faire des échanges en crypto à part du pair à pair.
+
+460
+00:33:27,560 --> 00:33:30,560
+Et du coup ça va être en Europe,
+
+461
+00:33:30,560 --> 00:33:36,560
+tout va tenir sur éventuellement les gens qui vont accepter directement les cryptos, etc.
+
+462
+00:33:36,560 --> 00:33:39,560
+Il n'y aura plus le truc d'utiliser sa carte crypto.com,
+
+463
+00:33:39,560 --> 00:33:42,560
+tous ces trucs-là je ne sais pas trop.
+
+464
+00:33:42,560 --> 00:33:44,560
+J'essaie d'imaginer comment va être l'Europe,
+
+465
+00:33:44,560 --> 00:33:50,560
+comment ça va se passer quand il va y avoir ce genre de régulation qui va arriver.
+
+466
+00:33:50,560 --> 00:33:53,560
+Et ça me paraît être un retour en arrière.
+
+467
+00:33:53,560 --> 00:34:00,560
+L'Europe joue un jeu très dangereux et très délicat
+
+468
+00:34:00,560 --> 00:34:06,560
+dans le sens où au plus elle va mettre en place des règles strictes,
+
+469
+00:34:06,560 --> 00:34:11,560
+au plus l'ingéniosité des cypherpunks va se développer
+
+470
+00:34:11,560 --> 00:34:17,560
+et les gens vont trouver des alternatives pour esquiver les règles qui sont mises en place.
+
+471
+00:34:17,560 --> 00:34:21,560
+Donc il va y avoir une balance à faire de la part de l'Europe
+
+472
+00:34:21,560 --> 00:34:24,560
+pour ne pas aller trop vite dans les restrictions
+
+473
+00:34:24,560 --> 00:34:30,560
+et avoir une avance par rapport aux idées cypherpunks.
+
+474
+00:34:30,560 --> 00:34:34,560
+Mais encore une fois, on aura toujours,
+
+475
+00:34:34,560 --> 00:34:38,560
+si je parle comme un cypherpunk,
+
+476
+00:34:38,560 --> 00:34:42,560
+on aura toujours des idées novatrices pour contourner les règles
+
+477
+00:34:42,560 --> 00:34:46,560
+ou en tout cas pour s'affranchir de ces règles-là
+
+478
+00:34:46,560 --> 00:34:51,560
+et avoir des échanges bitcoin le plus libre possible,
+
+479
+00:34:51,560 --> 00:34:55,560
+en tout cas tel que ça a été défini dans le white paper de Satoshi Nakamoto.
+
+480
+00:34:58,560 --> 00:35:02,560
+Il y a Frédéric qui dit « Relay app et bridge de Mont Pèlerin.
+
+481
+00:35:02,560 --> 00:35:05,560
+C'est aussi très facilement accessible pour la maman de Radiochat. »
+
+482
+00:35:05,560 --> 00:35:09,560
+Il faut que j'arrête de parler de ma mère, la radio.
+
+483
+00:35:09,560 --> 00:35:13,560
+« Et même peut-être plus rapide qu'un Sexe. »
+
+484
+00:35:13,560 --> 00:35:16,560
+Pour Relay app et Mont Pèlerin,
+
+485
+00:35:16,560 --> 00:35:18,560
+c'est vrai que l'expérience que j'en ai eue,
+
+486
+00:35:18,560 --> 00:35:22,560
+c'était très user-friendly et très simple
+
+487
+00:35:22,560 --> 00:35:29,560
+avec le gros avantage d'être complètement non custodial et pair-à-pair.
+
+488
+00:35:29,560 --> 00:35:31,560
+Donc c'est très intéressant comme solution.
+
+489
+00:35:31,560 --> 00:35:33,560
+Mais encore une fois,
+
+490
+00:35:33,560 --> 00:35:37,560
+ces produits ne sont pas marqués comme une plateforme d'échange traditionnelle,
+
+491
+00:35:37,560 --> 00:35:41,560
+en tout cas ils n'ont pas la puissance marketing d'une plateforme traditionnelle
+
+492
+00:35:41,560 --> 00:35:44,560
+et donc sont probablement moins connus du grand public
+
+493
+00:35:44,560 --> 00:35:49,560
+qui continuera à utiliser des services tels que Kraken, Binance ou autres.
+
+494
+00:35:49,560 --> 00:35:52,560
+On l'a encore vu avec les ETF.
+
+495
+00:35:52,560 --> 00:35:57,560
+Les ETF, c'est la belle représentation de l'accessibilité.
+
+496
+00:35:57,560 --> 00:36:02,560
+C'est rendre un produit geek difficilement accessible,
+
+497
+00:36:02,560 --> 00:36:07,560
+ou en tout cas avec des valeurs peut-être complexes à comprendre,
+
+498
+00:36:07,560 --> 00:36:10,560
+accessible à monsieur et madame tout le monde
+
+499
+00:36:10,560 --> 00:36:15,560
+dans le fin fond des États-Unis via un service financier traditionnel
+
+500
+00:36:15,560 --> 00:36:20,560
+qu'ils peuvent activer n'importe où auprès de leurs banquiers.
+
+501
+00:36:20,560 --> 00:36:23,560
+Ça reflète bien ce besoin,
+
+502
+00:36:23,560 --> 00:36:28,560
+ou en tout cas cette envie d'avoir accès à ce type d'assets financiers
+
+503
+00:36:28,560 --> 00:36:30,560
+de la manière la plus simple possible,
+
+504
+00:36:30,560 --> 00:36:35,560
+quitte à faire abstraction finalement de toute la beauté de Bitcoin,
+
+505
+00:36:35,560 --> 00:36:41,560
+de la décentralisation, du self-custody, de la liberté d'échange,
+
+506
+00:36:41,560 --> 00:36:48,560
+puisque les ETF ne proposent pas toute cette belle partie de Bitcoin.
+
+507
+00:36:49,560 --> 00:36:52,560
+Merci beaucoup pour cette réponse.
+
+508
+00:36:52,560 --> 00:36:55,560
+J'en profite pour dire, avant de te poser une question,
+
+509
+00:36:55,560 --> 00:36:58,560
+j'ai envie de mettre les pieds dans le plat.
+
+510
+00:36:58,560 --> 00:37:02,560
+J'en profite pour dire qu'il y a le lien pour le concours de ce soir
+
+511
+00:37:02,560 --> 00:37:04,560
+qui est toujours en pin.
+
+512
+00:37:04,560 --> 00:37:07,560
+Vous avez encore 21 minutes pour participer.
+
+513
+00:37:07,560 --> 00:37:12,560
+J'ai envie de te poser une question pour vraiment rentrer dans le sujet
+
+514
+00:37:12,560 --> 00:37:15,560
+de plein fouet, j'ai envie de dire.
+
+515
+00:37:15,560 --> 00:37:21,560
+Les hardware wallets, à quoi ça sert?
+
+516
+00:37:21,560 --> 00:37:25,560
+C'est quoi l'offre actuelle?
+
+517
+00:37:25,560 --> 00:37:32,560
+Où se situe Satoship par rapport à cette offre,
+
+518
+00:37:32,560 --> 00:37:37,560
+au marché des hardware wallets qui existe?
+
+519
+00:37:37,560 --> 00:37:40,560
+Et pourquoi tu as créé ça?
+
+520
+00:37:40,560 --> 00:37:43,560
+Bonne question.
+
+521
+00:37:43,560 --> 00:37:53,560
+Donc, un hardware wallet, ça va vous permettre de stocker
+
+522
+00:37:53,560 --> 00:37:58,560
+les clés privées de vos Bitcoins dans un équipement dédié.
+
+523
+00:37:58,560 --> 00:38:03,560
+Un Bitcoin, ça se matérialise par une paire de clés.
+
+524
+00:38:03,560 --> 00:38:07,560
+Merci à la cryptographie, une clé publique, une clé privée.
+
+525
+00:38:07,560 --> 00:38:11,560
+La clé publique, c'est votre adresse qui va vous permettre
+
+526
+00:38:11,560 --> 00:38:13,560
+de recevoir des Bitcoins.
+
+527
+00:38:13,560 --> 00:38:16,560
+Votre clé privée, c'est ce qui va vous permettre d'échanger vos Bitcoins.
+
+528
+00:38:16,560 --> 00:38:21,560
+Donc, vous n'êtes possesseur de vos Sats que lorsque vous êtes
+
+529
+00:38:21,560 --> 00:38:24,560
+le détenteur des clés privées associées.
+
+530
+00:38:24,560 --> 00:38:28,560
+Un peu comme un coffre en banque dans lequel vous pouvez stocker
+
+531
+00:38:28,560 --> 00:38:34,560
+un lingot d'or, un hardware wallet, c'est un équipement qui a été conçu,
+
+532
+00:38:34,560 --> 00:38:38,560
+créé, que ce soit au niveau hardware ou au niveau software,
+
+533
+00:38:38,560 --> 00:38:43,560
+pour stocker de manière sûre et efficace les clés privées.
+
+534
+00:38:43,560 --> 00:38:46,560
+Donc, il y a beaucoup d'équipementiers aujourd'hui sur le marché.
+
+535
+00:38:46,560 --> 00:38:51,560
+On peut citer Ledger, l'icône française, qu'on l'aime ou qu'on ne l'aime pas,
+
+536
+00:38:51,560 --> 00:38:55,560
+ça reste le leader incontesté.
+
+537
+00:38:55,560 --> 00:39:02,560
+Trezor, qui est le premier hardware wallet du marché,
+
+538
+00:39:02,560 --> 00:39:06,560
+le manufactureur historique de hardware wallet,
+
+539
+00:39:06,560 --> 00:39:12,560
+qui avait été créé suite à un hack de la poule Slush Pool,
+
+540
+00:39:12,560 --> 00:39:15,560
+qui s'était fait vider de ses Bitcoins.
+
+541
+00:39:15,560 --> 00:39:19,560
+Et donc, Slush et Stick, les deux cofondateurs de Trezor,
+
+542
+00:39:19,560 --> 00:39:23,560
+avaient décidé de créer un hardware wallet pour sécuriser leurs clés privées
+
+543
+00:39:23,560 --> 00:39:25,560
+et ne plus les avoir en ligne.
+
+544
+00:39:25,560 --> 00:39:30,560
+Et puis, il y a énormément d'autres acteurs comme SafePal, Coldcart,
+
+545
+00:39:30,560 --> 00:39:33,560
+et d'autres plus petits acteurs qui gravitent autour de ça.
+
+546
+00:39:34,560 --> 00:39:37,560
+Alors, où se situe Satoship dans cet écosystème?
+
+547
+00:39:37,560 --> 00:39:44,560
+On ne se situe pas en concurrence directe avec les hardware wallet traditionnels
+
+548
+00:39:44,560 --> 00:39:46,560
+comme Ledger et Trezor.
+
+549
+00:39:46,560 --> 00:39:51,560
+On essaie de se positionner comme solution de stockage abordable
+
+550
+00:39:51,560 --> 00:39:53,560
+pour monsieur et madame tout le monde.
+
+551
+00:39:53,560 --> 00:39:58,560
+On a estimé aujourd'hui qu'il n'y avait pas de solution entrée de gamme
+
+552
+00:39:58,560 --> 00:40:00,560
+avec une sécurité acceptable.
+
+553
+00:40:00,560 --> 00:40:03,560
+Et donc, on a voulu proposer quelque chose de fiable
+
+554
+00:40:03,560 --> 00:40:10,560
+qui pouvait être utilisé par tout le monde de manière assez simple.
+
+555
+00:40:10,560 --> 00:40:14,560
+Voilà, c'est là où on se positionne aujourd'hui avec Satoship.
+
+556
+00:40:17,560 --> 00:40:22,560
+Oui, du coup, mais de quelle manière c'est plus simple que le reste?
+
+557
+00:40:22,560 --> 00:40:24,560
+Est-ce que tu peux expliquer comment ça fonctionne?
+
+558
+00:40:26,560 --> 00:40:28,560
+Plus simple qu'un autre, je ne sais pas.
+
+559
+00:40:28,560 --> 00:40:32,560
+Je crois que le hardware wallet en soi, c'est quand même quelque chose de compliqué.
+
+560
+00:40:32,560 --> 00:40:36,560
+C'est compliqué parce qu'on évolue dans un domaine qui est compliqué.
+
+561
+00:40:36,560 --> 00:40:39,560
+On parle de cryptographie, de clés publiques, de clés privées.
+
+562
+00:40:39,560 --> 00:40:44,560
+Pour monsieur et madame tout le monde, c'est assez complexe de s'imaginer
+
+563
+00:40:44,560 --> 00:40:48,560
+qu'un bitcoin est représenté par des chaînes de caractères abstraites.
+
+564
+00:40:48,560 --> 00:40:50,560
+Donc, ce n'est pas simple.
+
+565
+00:40:50,560 --> 00:40:57,560
+Mais on propose des solutions qui s'intègrent avec des logiciels connus
+
+566
+00:40:57,560 --> 00:41:00,560
+comme Sparrow, comme Electrum.
+
+567
+00:41:00,560 --> 00:41:07,560
+Et alors, c'est simple parce qu'on essaie d'avoir des setups utilisateurs basiques.
+
+568
+00:41:07,560 --> 00:41:11,560
+Donc, le wallet est initialisé via une site frais,
+
+569
+00:41:11,560 --> 00:41:15,560
+ce que vous pouvez importer ou que vous pouvez générer au travers du client.
+
+570
+00:41:15,560 --> 00:41:20,560
+Et en quelques clics, sur Sparrow Wallet, c'est 5 clics à peine,
+
+571
+00:41:20,560 --> 00:41:26,560
+vous avez les clés privées qui sont stockées dans la puce sécurisée de la carte
+
+572
+00:41:26,560 --> 00:41:31,560
+et non plus sur votre ordinateur.
+
+573
+00:41:31,560 --> 00:41:38,560
+Donc, c'est là qu'on apporte un avantage supplémentaire par rapport au software wallet
+
+574
+00:41:38,560 --> 00:41:41,560
+puisque nos cartes sont équipées d'un secure element
+
+575
+00:41:41,560 --> 00:41:46,560
+et les clés privées sont stockées au sein de ce secure element.
+
+576
+00:41:46,560 --> 00:41:49,560
+Et pourquoi avoir choisi le format de la carte?
+
+577
+00:41:49,560 --> 00:41:54,560
+Parce que, comme tu disais, un peu historiquement, on utilisait Trésor et Ledger.
+
+578
+00:41:54,560 --> 00:41:57,560
+Donc, c'est sous format, un peu comme une clé USB,
+
+579
+00:41:57,560 --> 00:42:00,560
+tu connectes ça à ton ordinateur avec USB
+
+580
+00:42:00,560 --> 00:42:05,560
+et puis tu as une petite interface sur l'appareil.
+
+581
+00:42:05,560 --> 00:42:07,560
+Là, c'est un peu différent.
+
+582
+00:42:08,560 --> 00:42:13,560
+C'est une carte à puce, exactement comme une carte téléphonique.
+
+583
+00:42:13,560 --> 00:42:16,560
+Pourquoi avoir choisi ce format-là?
+
+584
+00:42:16,560 --> 00:42:21,560
+Quels sont les avantages et les inconvénients éventuellement de ce format-là?
+
+585
+00:42:21,560 --> 00:42:28,560
+Il faut savoir que le CTO de Satoship a travaillé pour Atos Worldline,
+
+586
+00:42:28,560 --> 00:42:33,560
+qui est une grosse boîte qui produit des terminaux de paiement
+
+587
+00:42:33,560 --> 00:42:38,560
+et qui est active dans le domaine de la carte bancaire et de la carte à puce.
+
+588
+00:42:38,560 --> 00:42:44,560
+De son expérience, il a constaté que la carte à puce était parfaitement designée
+
+589
+00:42:44,560 --> 00:42:47,560
+pour traiter des opérations cryptographiques
+
+590
+00:42:47,560 --> 00:42:53,560
+et pour être le gardien de clés cryptographiques.
+
+591
+00:42:53,560 --> 00:43:01,560
+Si vous couplez cette possibilité de gérer de la cryptographie
+
+592
+00:43:01,560 --> 00:43:04,560
+avec un très faible coût de production,
+
+593
+00:43:04,560 --> 00:43:08,560
+vous vous rendez assez vite compte qu'une carte à puce
+
+594
+00:43:08,560 --> 00:43:12,560
+est le meilleur candidat pour un hardware wallet.
+
+595
+00:43:12,560 --> 00:43:15,560
+Ce n'est pas cher, c'est simple à utiliser,
+
+596
+00:43:15,560 --> 00:43:18,560
+c'est équipé de la technologie NFC,
+
+597
+00:43:18,560 --> 00:43:21,560
+donc vous pouvez également l'utiliser via votre mobile.
+
+598
+00:43:21,560 --> 00:43:27,560
+Vous cochez toutes les cases pour offrir un hardware wallet
+
+599
+00:43:27,560 --> 00:43:29,560
+au plus grand nombre de personnes.
+
+600
+00:43:29,560 --> 00:43:36,560
+Il y a beaucoup d'utilisateurs qui ont des investissements en bitcoin
+
+601
+00:43:36,560 --> 00:43:42,560
+de l'ordre de 100 ou de 500 euros.
+
+602
+00:43:42,560 --> 00:43:46,560
+C'est compliqué d'aller sécuriser ces assets avec un hardware wallet
+
+603
+00:43:46,560 --> 00:43:50,560
+qui va vous coûter le même prix que votre balance.
+
+604
+00:43:50,560 --> 00:43:56,560
+On souhaitait chez Satoship essayer d'offrir une sécurité hardware
+
+605
+00:43:56,560 --> 00:44:00,560
+au plus grand nombre, de la manière la plus abordable possible,
+
+606
+00:44:00,560 --> 00:44:04,560
+et la carte à puce répondait à tous ces critères.
+
+607
+00:44:04,560 --> 00:44:07,560
+En plus, c'est beaucoup moins cher.
+
+608
+00:44:07,560 --> 00:44:09,560
+Une question sur Satoship.
+
+609
+00:44:09,560 --> 00:44:13,560
+Le logiciel génère les 12 mots ou les 24 mots.
+
+610
+00:44:13,560 --> 00:44:16,560
+Est-ce qu'on peut récupérer aussi la clé de dérivation?
+
+611
+00:44:16,560 --> 00:44:20,560
+C'est un truc super important et qui peut changer d'un logiciel à l'autre.
+
+612
+00:44:20,560 --> 00:44:24,560
+Est-ce qu'il y a moyen de récupérer la clé de dérivation aussi?
+
+613
+00:44:25,560 --> 00:44:30,560
+Au niveau de la clé de dérivation, c'est en fonction du logiciel qui va être utilisé.
+
+614
+00:44:30,560 --> 00:44:36,560
+L'utilisateur va pouvoir spécifier le chemin de dérivation qui va être appliqué.
+
+615
+00:44:36,560 --> 00:44:42,560
+Pour pouvoir récupérer son wallet sur un autre hardware,
+
+616
+00:44:42,560 --> 00:44:46,560
+avec un même setup de seed sur un autre hardware,
+
+617
+00:44:46,560 --> 00:44:48,560
+il faudra spécifier la même clé de dérivation.
+
+618
+00:44:48,560 --> 00:44:52,560
+Mais l'utilisateur a accès à cette clé de dérivation, bien entendu.
+
+619
+00:44:53,560 --> 00:44:57,560
+Ça a l'air cool. J'espère que je vais gagner.
+
+620
+00:44:59,560 --> 00:45:04,560
+Il y a un point très important qui nous tient particulièrement à cœur.
+
+621
+00:45:06,560 --> 00:45:10,560
+On essaie de sticker un maximum à la philosophie Cypherpunk,
+
+622
+00:45:10,560 --> 00:45:14,560
+aux valeurs de Bitcoin, aux valeurs du white paper de Satoshi Nakamoto.
+
+623
+00:45:14,560 --> 00:45:20,560
+Les solutions qu'on propose sont exclusivement non custodiales
+
+624
+00:45:20,560 --> 00:45:23,560
+et systématiquement compatibles avec tout l'écosystème Bitcoin.
+
+625
+00:45:23,560 --> 00:45:26,560
+C'est-à-dire qu'aujourd'hui, un utilisateur qui voudrait tester
+
+626
+00:45:26,560 --> 00:45:30,560
+la fonctionnalité hardware wallet au sens large
+
+627
+00:45:30,560 --> 00:45:33,560
+pourrait très bien commencer avec une carte Satoship
+
+628
+00:45:33,560 --> 00:45:38,560
+et se dire « Ok, je vois où sont les limites de Satoship, on pourra y revenir.
+
+629
+00:45:38,560 --> 00:45:43,560
+Je vais passer sur un autre équipement et avoir quelque chose de 100% compatible. »
+
+630
+00:45:43,560 --> 00:45:46,560
+On évite le vendor locking.
+
+631
+00:45:47,560 --> 00:45:50,560
+C'est aussi pour ça qu'on est 100% open source.
+
+632
+00:45:50,560 --> 00:45:53,560
+On ne souhaite pas que les utilisateurs soient bloqués chez nous.
+
+633
+00:45:53,560 --> 00:45:59,560
+On veut qu'ils soient complètement autonomes, comme le veut Bitcoin.
+
+634
+00:46:01,560 --> 00:46:05,560
+Il y a un truc que j'aime bien avec Satoship,
+
+635
+00:46:05,560 --> 00:46:11,560
+c'est l'espèce de contraste avec l'esprit
+
+636
+00:46:11,560 --> 00:46:16,560
+qu'a essayé de mettre en avant Ledger, sans succès,
+
+637
+00:46:16,560 --> 00:46:20,560
+par rapport à… comment dire?
+
+638
+00:46:20,560 --> 00:46:23,560
+Je ne sais pas comment donner un nom à ça,
+
+639
+00:46:23,560 --> 00:46:25,560
+mais je vais expliquer ce que je veux dire.
+
+640
+00:46:25,560 --> 00:46:30,560
+Déjà Ledger, il y a 5 ans, 6 ans, il n'y a personne qui connaissait ça,
+
+641
+00:46:30,560 --> 00:46:33,560
+à part les gens qui étaient vraiment deep dans les cryptos.
+
+642
+00:46:33,560 --> 00:46:36,560
+Si tu veux sortir dans la rue avec ce truc-là,
+
+643
+00:46:37,560 --> 00:46:44,560
+à la limite, ça n'a aucune incidence sur tes fonds ou sur ta vie.
+
+644
+00:46:46,560 --> 00:46:48,560
+Maintenant, ce n'est plus pareil.
+
+645
+00:46:48,560 --> 00:46:52,560
+Déjà, un hardware wallet, tu n'es pas censé vraiment trop sortir avec,
+
+646
+00:46:52,560 --> 00:46:55,560
+mais admettons que tu as envie de sortir avec ton hardware wallet,
+
+647
+00:46:55,560 --> 00:46:59,560
+tu es en voyage, tu es obligé de l'amener avec toi, peu importe.
+
+648
+00:46:59,560 --> 00:47:03,560
+Ce n'est pas un truc que tu montres aux gens.
+
+649
+00:47:04,560 --> 00:47:06,560
+Ce n'est pas un truc que tu dises, regardez, j'ai des cryptos.
+
+650
+00:47:06,560 --> 00:47:08,560
+C'est contraire à l'esprit.
+
+651
+00:47:08,560 --> 00:47:11,560
+Ledger, ils sont partis dans une direction
+
+652
+00:47:11,560 --> 00:47:14,560
+qui était totalement opposée à ce truc-là.
+
+653
+00:47:14,560 --> 00:47:18,560
+Ils ont voulu en faire un espèce d'objet design,
+
+654
+00:47:18,560 --> 00:47:24,560
+un objet de mode que tu montres de manière ostentatoire aux gens.
+
+655
+00:47:24,560 --> 00:47:27,560
+Tout le monde a dit, mais ils sont fous, ces types-là.
+
+656
+00:47:27,560 --> 00:47:30,560
+Pourquoi ils partent dans cette direction?
+
+657
+00:47:30,560 --> 00:47:32,560
+Ils ont été gravement critiqués là-dessus.
+
+658
+00:47:32,560 --> 00:47:36,560
+Je trouve que ce qui est bien avec les cartes Satoship,
+
+659
+00:47:36,560 --> 00:47:41,560
+c'est que tu ramènes un peu le hardware wallet là où il devrait être,
+
+660
+00:47:41,560 --> 00:47:43,560
+c'est-à-dire invisible en fait.
+
+661
+00:47:43,560 --> 00:47:49,560
+Invisible comme une carte téléphonique que tu glisses dans ton portefeuille
+
+662
+00:47:49,560 --> 00:47:51,560
+si jamais tu as besoin de l'emmener avec toi.
+
+663
+00:47:51,560 --> 00:47:53,560
+Oui, tout à fait d'accord.
+
+664
+00:47:53,560 --> 00:47:55,560
+On en parlait tantôt.
+
+665
+00:47:55,560 --> 00:48:00,560
+Je crois que le premier conseil qu'on pourrait donner pour la sécurité,
+
+666
+00:48:00,560 --> 00:48:02,560
+c'est d'être discret.
+
+667
+00:48:02,560 --> 00:48:08,560
+C'est simple, on ne sort pas en rue avec un lingot d'or pendu à son cou sur une chaîne.
+
+668
+00:48:08,560 --> 00:48:10,560
+Il n'y a personne qui fait ça.
+
+669
+00:48:10,560 --> 00:48:15,560
+Ou le gars qui fait ça, probablement qu'il va se faire braquer au coin de la rue avec un couteau.
+
+670
+00:48:15,560 --> 00:48:18,560
+Ça doit être pareil pour les cryptos.
+
+671
+00:48:18,560 --> 00:48:21,560
+On n'en parle pas, on ne le montre pas.
+
+672
+00:48:21,560 --> 00:48:25,560
+Et c'est vrai que Ledger, paradoxalement, a choisi,
+
+673
+00:48:25,560 --> 00:48:28,560
+en tout cas dans certaines de ses campagnes marketing,
+
+674
+00:48:28,560 --> 00:48:30,560
+a choisi de faire tout le contraire.
+
+675
+00:48:30,560 --> 00:48:36,560
+Avec son collier, avec la casquette pour y stocker sa Ledger.
+
+676
+00:48:36,560 --> 00:48:40,560
+Ce sont des choix qui, moi aussi, m'interpellent.
+
+677
+00:48:40,560 --> 00:48:46,560
+Je ne sais pas encore pourquoi ils ont choisi d'aller dans cette direction-là.
+
+678
+00:48:46,560 --> 00:48:50,560
+Mais oui, c'est un peu type on essaye de rester discret.
+
+679
+00:48:51,560 --> 00:48:58,560
+On a d'ailleurs tout un temps proposé à nos utilisateurs de produire eux-mêmes le design de carte.
+
+680
+00:48:58,560 --> 00:49:02,560
+Ça c'est un avantage de notre produit, c'est qu'on peut customiser et imprimer ce qu'on veut.
+
+681
+00:49:02,560 --> 00:49:05,560
+Ça reste une carte à puce comme une carte de banque.
+
+682
+00:49:05,560 --> 00:49:14,560
+Vous pourriez très bien imprimer votre carte de membre à la salle de sport ou à la bibliothèque communale.
+
+683
+00:49:14,560 --> 00:49:19,560
+Et vous avez quelque chose de vraiment très discret qui se glisse dans le portefeuille.
+
+684
+00:49:19,560 --> 00:49:24,560
+Parce que oui, on est convaincu que pour avoir une bonne sécurité,
+
+685
+00:49:24,560 --> 00:49:30,560
+il ne faut pas montrer ou en tout cas tenter de montrer ce qu'on détient.
+
+686
+00:49:32,560 --> 00:49:38,560
+Il y a Danny qui a posté une photo de son équipement.
+
+687
+00:49:38,560 --> 00:49:46,560
+Vous faites quelques efforts, ça a l'air aussi, pour avoir des cartes qui sont custom.
+
+688
+00:49:46,560 --> 00:49:50,560
+Vous en avez fait une pour la surfie de Bitcoin, elle est pas mal.
+
+689
+00:49:50,560 --> 00:49:52,560
+Est-ce que vous faites ça éventuellement?
+
+690
+00:49:52,560 --> 00:49:58,560
+On peut vous donner une image précise que vous mettez sur la carte?
+
+691
+00:49:58,560 --> 00:50:01,560
+Ou c'est juste des éditions limitées que vous faites pour les événements?
+
+692
+00:50:02,560 --> 00:50:05,560
+On fait un peu tout en fonction des demandes.
+
+693
+00:50:06,560 --> 00:50:14,560
+Précédemment, on offrait la possibilité aux utilisateurs, un peu comme un t-shirt,
+
+694
+00:50:14,560 --> 00:50:17,560
+d'imprimer la carte qu'ils voulaient.
+
+695
+00:50:17,560 --> 00:50:21,560
+Mais on s'est rendu compte que c'était beaucoup de travail pour nous,
+
+696
+00:50:21,560 --> 00:50:23,560
+parce que c'était des lignes de production différentes.
+
+697
+00:50:23,560 --> 00:50:28,560
+Et donc à la pièce, c'était assez compliqué de rentrer dans nos frais.
+
+698
+00:50:28,560 --> 00:50:31,560
+Donc on a arrêté pour le moment de faire ça.
+
+699
+00:50:31,560 --> 00:50:37,560
+Mais pour des éditions avec des quantités un peu plus importantes,
+
+700
+00:50:37,560 --> 00:50:41,560
+on le fait toujours, on propose des designs.
+
+701
+00:50:41,560 --> 00:50:46,560
+En fonction du souhait du client, on peut proposer des designs à la carte.
+
+702
+00:50:50,560 --> 00:50:52,560
+Il y a toutes sortes de messages.
+
+703
+00:50:52,560 --> 00:50:54,560
+J'en profite pour dire que deux choses.
+
+704
+00:50:54,560 --> 00:50:59,560
+Le concours se termine dans 8 minutes pour gagner une carte.
+
+705
+00:50:59,560 --> 00:51:01,560
+C'est un bon d'achat pour acheter une carte.
+
+706
+00:51:01,560 --> 00:51:03,560
+Elles sont toutes au même prix.
+
+707
+00:51:03,560 --> 00:51:06,560
+D'ailleurs, je vais te poser après la question, c'est quoi la différence entre les 3 cartes.
+
+708
+00:51:06,560 --> 00:51:07,560
+Il y a 3 cartes.
+
+709
+00:51:07,560 --> 00:51:10,560
+Il y a Satoship, Seedkeeper et Satodim.
+
+710
+00:51:10,560 --> 00:51:13,560
+Donc ça reste maintenant 7 minutes.
+
+711
+00:51:13,560 --> 00:51:16,560
+Et puis si vous voulez poser des questions, dire des choses,
+
+712
+00:51:16,560 --> 00:51:20,560
+peu importe, si vous voulez prendre la parole, demandez-moi le rôle de speaker
+
+713
+00:51:20,560 --> 00:51:22,560
+et je vous le donne, aucun problème.
+
+714
+00:51:22,560 --> 00:51:24,560
+Et puis je vois CryptoMonsieur qui lève la main.
+
+715
+00:51:24,560 --> 00:51:27,560
+Juste avant ça, je vais lire les trucs parce qu'il y a plein de commentaires.
+
+716
+00:51:28,560 --> 00:51:32,560
+Il y a Allégorik qui dit, ils ont surtout suivi la traîne des influx américains
+
+717
+00:51:32,560 --> 00:51:33,560
+qui montraient leur ledger.
+
+718
+00:51:33,560 --> 00:51:39,560
+En faisant référence à Ledger qui fait des campagnes où tu montres ta ledger.
+
+719
+00:51:43,560 --> 00:51:46,560
+Les influx, ils ne sont pas tous intelligents.
+
+720
+00:51:48,560 --> 00:51:51,560
+Il y a Frédéric Ocana qui dit, historiquement, les jacquavars,
+
+721
+00:51:51,560 --> 00:51:54,560
+qui est l'OS majoritaire de ces cartes à puces,
+
+722
+00:51:54,560 --> 00:52:01,560
+fournit un environnement d'exécution pour des opérations, entre parenthèses, enclaves.
+
+723
+00:52:01,560 --> 00:52:04,560
+D'ailleurs, les premières ledgers étaient aussi des jacquavars
+
+724
+00:52:04,560 --> 00:52:09,560
+et c'est encore utilisé sur des systèmes historiques en milieu bancaire.
+
+725
+00:52:09,560 --> 00:52:11,560
+Je ne sais pas ce que c'est un jacquavar.
+
+726
+00:52:11,560 --> 00:52:12,560
+Javacard, pardon.
+
+727
+00:52:12,560 --> 00:52:19,560
+Javacard, c'est le langage de programmation des cartes à puces qu'on utilise.
+
+728
+00:52:20,560 --> 00:52:25,560
+Effectivement, le tout premier ledger qui était BT-CHIP
+
+729
+00:52:25,560 --> 00:52:29,560
+était à base d'une carte à puces qui tournait sous Javacard.
+
+730
+00:52:30,560 --> 00:52:35,560
+Si tu veux, dans une carte à puces, je vais schématiser,
+
+731
+00:52:35,560 --> 00:52:39,560
+tu as la puce qui est vraiment le secure element
+
+732
+00:52:39,560 --> 00:52:43,560
+dans lequel tourne un système d'exploitation.
+
+733
+00:52:43,560 --> 00:52:46,560
+C'est comme un micro-ordinateur avec une mémoire.
+
+734
+00:52:47,560 --> 00:52:51,560
+Il y a un système d'exploitation qui va tourner au-dessus de cette mémoire
+
+735
+00:52:51,560 --> 00:52:56,560
+et qui va permettre d'injecter dans la mémoire de l'information
+
+736
+00:52:56,560 --> 00:53:00,560
+ou de demander au processeur de réaliser des opérations cryptographiques.
+
+737
+00:53:02,560 --> 00:53:08,560
+Cette technologie est utilisée depuis plus de 40 ans dans le système bancaire
+
+738
+00:53:08,560 --> 00:53:12,560
+pour vos cartes de banque, mais également dans d'autres systèmes
+
+739
+00:53:12,560 --> 00:53:16,560
+comme les passeports, les titres de transport.
+
+740
+00:53:16,560 --> 00:53:23,560
+A chaque fois où l'on doit avoir un aspect sécurité avec une partie cryptographie,
+
+741
+00:53:23,560 --> 00:53:31,560
+on utilise la carte à puces parce que c'est l'équipement qui est le plus efficient.
+
+742
+00:53:32,560 --> 00:53:35,560
+Le fait que ce soit une tech qui existe déjà depuis longtemps,
+
+743
+00:53:35,560 --> 00:53:42,560
+qui est utilisée un peu partout, ça ne fait pas une plus grande surface d'attaque?
+
+744
+00:53:43,560 --> 00:53:45,560
+Ou un truc propriétaire?
+
+745
+00:53:46,560 --> 00:53:48,560
+Oui et non.
+
+746
+00:53:51,560 --> 00:53:53,560
+Il y a plusieurs avantages et quelques inconvénients.
+
+747
+00:53:53,560 --> 00:54:00,560
+Le gros avantage de la JavaCarte, c'est qu'il y a des standards JavaCartes
+
+748
+00:54:01,560 --> 00:54:06,560
+et c'est partagé par tous les opérateurs et tous les producteurs de cartes à puces.
+
+749
+00:54:06,560 --> 00:54:11,560
+C'est un gros avantage parce qu'avec un applet de cette chip,
+
+750
+00:54:11,560 --> 00:54:16,560
+l'applet c'est le firmware, c'est ce qui va créer le produit,
+
+751
+00:54:17,560 --> 00:54:22,560
+vous pouvez utiliser n'importe quelle carte de n'importe quel producteur.
+
+752
+00:54:22,560 --> 00:54:25,560
+C'est un avantage dans le sens où si à un moment donné
+
+753
+00:54:25,560 --> 00:54:30,560
+on constate une attaque supply chain chez NXP qui est le leader mondial,
+
+754
+00:54:30,560 --> 00:54:33,560
+on pourrait très bien dire qu'on arrête de travailler avec NXP,
+
+755
+00:54:33,560 --> 00:54:39,560
+on va travailler avec Infineon qui propose également ce type de produit,
+
+756
+00:54:39,560 --> 00:54:41,560
+ou on pourrait aller avec un autre opérateur.
+
+757
+00:54:41,560 --> 00:54:46,560
+Il y a comme ça une dizaine d'opérateurs actifs sur le marché
+
+758
+00:54:46,560 --> 00:54:50,560
+qui proposent des cartes à puces basées sur le même standard.
+
+759
+00:54:50,560 --> 00:54:52,560
+Donc ça c'est un gros avantage.
+
+760
+00:54:52,560 --> 00:54:58,560
+L'inconvénient peut-être c'est que l'OS, en tout cas le hardware en lui-même,
+
+761
+00:54:58,560 --> 00:55:03,560
+n'est pas open source et donc on peut considérer qu'il est un peu propriétaire
+
+762
+00:55:03,560 --> 00:55:06,560
+et c'est ça qui fait en fait sa robustesse.
+
+763
+00:55:06,560 --> 00:55:11,560
+C'est que les leaders sur le marché ne divulguent pas l'information
+
+764
+00:55:11,560 --> 00:55:15,560
+sur comment la puce travaille, mais on peut leur faire confiance
+
+765
+00:55:15,560 --> 00:55:19,560
+parce que, on va dire don't trust verify,
+
+766
+00:55:19,560 --> 00:55:21,560
+il y en a beaucoup qui vont me tuer pour ce que je viens de dire,
+
+767
+00:55:21,560 --> 00:55:24,560
+mais on peut leur faire confiance dans le sens où
+
+768
+00:55:24,560 --> 00:55:27,560
+toutes les cartes bancaires au monde tournent là-dessus,
+
+769
+00:55:27,560 --> 00:55:29,560
+tous les passeports au monde tournent là-dessus,
+
+770
+00:55:29,560 --> 00:55:33,560
+tous les titres de transport au monde, les cartes d'accès tournent là-dessus.
+
+771
+00:55:33,560 --> 00:55:37,560
+Et donc le business est tellement grand
+
+772
+00:55:37,560 --> 00:55:42,560
+qu'il n'aurait pas d'intérêt à venir mettre des bacs dehors.
+
+773
+00:55:42,560 --> 00:55:50,560
+Et encore une fois, même si un opérateur venait à être considéré comme un mauvais acteur,
+
+774
+00:55:50,560 --> 00:55:53,560
+on pourrait changer parce que c'est un standard
+
+775
+00:55:53,560 --> 00:55:57,560
+et donc il y a énormément d'acteurs sur le marché qui proposent ce type de matériel.
+
+776
+00:55:57,560 --> 00:56:01,560
+Ok, make sense comme on dit.
+
+777
+00:56:01,560 --> 00:56:04,560
+Ok, merci beaucoup pour cette réponse.
+
+778
+00:56:04,560 --> 00:56:07,560
+Il y a Frédéric qui dit, Radio Shad, il est deck,
+
+779
+00:56:07,560 --> 00:56:09,560
+il n'a pas reçu sa casquette ni sa chaîne.
+
+780
+00:56:09,560 --> 00:56:13,560
+J'avoue, la photo que tu as postée, la casquette est cool.
+
+781
+00:56:13,560 --> 00:56:17,560
+Cool, j'hésite en fait, j'hésite entre cool et trop bizarre.
+
+782
+00:56:17,560 --> 00:56:20,560
+Il y a un petit côté retour vers le futur que j'aime bien,
+
+783
+00:56:20,560 --> 00:56:22,560
+mais en même temps, elle est un peu étrange.
+
+784
+00:56:22,560 --> 00:56:24,560
+Avec la poche sur le côté, c'est un petit peu trop.
+
+785
+00:56:24,560 --> 00:56:26,560
+Le reste est cool.
+
+786
+00:56:26,560 --> 00:56:30,560
+Mais non, je ne suis pas dégoûté.
+
+787
+00:56:30,560 --> 00:56:33,560
+Peut-être pour le plug, un petit peu déçu.
+
+788
+00:56:36,560 --> 00:56:38,560
+Il y a Saj, le gret qui veut dire quelque chose.
+
+789
+00:56:38,560 --> 00:56:39,560
+Salut Saj, ça va?
+
+790
+00:56:39,560 --> 00:56:42,560
+Salut, salut, non désolé, c'est une petite erreur.
+
+791
+00:56:42,560 --> 00:56:44,560
+Ah, ok, d'accord.
+
+792
+00:56:45,560 --> 00:56:47,560
+Si jamais tu veux dire quelque chose.
+
+793
+00:56:47,560 --> 00:56:49,560
+Pas de souci.
+
+794
+00:56:49,560 --> 00:56:51,560
+Cryptomancier, tu voulais dire un truc, non?
+
+795
+00:56:51,560 --> 00:56:55,560
+On avait évoqué très brièvement le sujet de la régulation dans l'UE.
+
+796
+00:56:55,560 --> 00:56:59,560
+C'est un sujet que je connais très bien parce que j'ai moi-même été en première ligne.
+
+797
+00:56:59,560 --> 00:57:02,560
+Il faut savoir que je suis l'un des premiers,
+
+798
+00:57:02,560 --> 00:57:06,560
+l'une des premières start-up Bitcoin.
+
+799
+00:57:06,560 --> 00:57:09,560
+C'était vers 2018-2019.
+
+800
+00:57:09,560 --> 00:57:15,560
+On a eu à peu près toutes les administrations OQ,
+
+801
+00:57:15,560 --> 00:57:19,560
+les machines de régulation AMF,
+
+802
+00:57:19,560 --> 00:57:22,560
+qui pensaient qu'on blanchissait de l'argent,
+
+803
+00:57:22,560 --> 00:57:24,560
+qu'on faisait des trucs de ouf.
+
+804
+00:57:24,560 --> 00:57:26,560
+On proposait juste un service.
+
+805
+00:57:26,560 --> 00:57:28,560
+On m'entend?
+
+806
+00:57:28,560 --> 00:57:30,560
+Oui, on t'entend, excusez-moi.
+
+807
+00:57:30,560 --> 00:57:33,560
+Je voulais dire, je suis l'un des premiers justement,
+
+808
+00:57:33,560 --> 00:57:38,560
+l'un des premiers d'une des premières start-up.
+
+809
+00:57:38,560 --> 00:57:42,560
+Pour moi, la régulation, j'ai été face à eux.
+
+810
+00:57:42,560 --> 00:57:48,560
+C'est-à-dire qu'on a eu toute une pléthore de fonctionnaires
+
+811
+00:57:48,560 --> 00:57:49,560
+qui nous ont emmerdés.
+
+812
+00:57:49,560 --> 00:57:53,560
+On a eu l'AMF, on a eu Ursa, FRSI,
+
+813
+00:57:53,560 --> 00:57:56,560
+des gens qui pensaient qu'on faisait du blanchiment de je ne sais pas quoi.
+
+814
+00:57:56,560 --> 00:58:01,560
+Alors que chose qui était faux, on proposait juste l'achat aux retails de Bitcoin.
+
+815
+00:58:01,560 --> 00:58:06,560
+La régulation, il faut savoir comment ça se passe.
+
+816
+00:58:06,560 --> 00:58:11,560
+C'est juste les états qui vont aller faire pression sur les entreprises.
+
+817
+00:58:11,560 --> 00:58:14,560
+J'insiste bien sur un point, sur les entreprises.
+
+818
+00:58:14,560 --> 00:58:16,560
+C'est-à-dire que si vous avez un petit exchange,
+
+819
+00:58:16,560 --> 00:58:19,560
+un petit CEX, une petite plateforme de NFT,
+
+820
+00:58:19,560 --> 00:58:21,560
+et que vous n'êtes pas enregistré,
+
+821
+00:58:21,560 --> 00:58:28,560
+ça va être très compliqué pour eux d'aller mobiliser des agents pour vous trouver.
+
+822
+00:58:28,560 --> 00:58:31,560
+Ça concerne surtout et exclusivement les grosses plateformes.
+
+823
+00:58:31,560 --> 00:58:33,560
+Il faut savoir par exemple sur CoinMarketCape,
+
+824
+00:58:33,560 --> 00:58:36,560
+une plateforme que tout le monde connaît ici,
+
+825
+00:58:36,560 --> 00:58:38,560
+vous avez une liste d'exchanges.
+
+826
+00:58:38,560 --> 00:58:41,560
+Il faut savoir que c'est juste la pointe émergée de l'iceberg.
+
+827
+00:58:41,560 --> 00:58:49,560
+Je crois qu'il y a plus ou moins 800 exchanges qui ne sont pas enregistrés sur CoinMarketCape.
+
+828
+00:58:49,560 --> 00:58:55,560
+Pour vous dire, si on veut échapper à la régulation, il y a toujours moyen.
+
+829
+00:58:55,560 --> 00:58:57,560
+Ça, c'était le premier truc.
+
+830
+00:58:57,560 --> 00:59:04,560
+Le deuxième truc, c'est-à-dire que là, je bosse aussi sur un framework d'exchanges open source.
+
+831
+00:59:04,560 --> 00:59:07,560
+J'ai un million de trucs à faire cette année,
+
+832
+00:59:07,560 --> 00:59:11,560
+mais j'espère le sortir à la fin de l'année 2024.
+
+833
+00:59:11,560 --> 00:59:18,560
+Le concept, ce serait que n'importe qui pourra faire tourner son petit exchange aussi facilement
+
+834
+00:59:18,560 --> 00:59:23,560
+qu'aujourd'hui on peut faire tourner un site en Wordpress sans trop de compétences techniques.
+
+835
+00:59:23,560 --> 00:59:29,560
+Mon idée, c'est qu'à long terme, il y aura des milliers et des milliers de petits exchanges partout
+
+836
+00:59:29,560 --> 00:59:31,560
+qui se feront circuler des bitcoins à droite à gauche.
+
+837
+00:59:31,560 --> 00:59:34,560
+Ça sera impossible de tout tracer, de tout enregistrer.
+
+838
+00:59:34,560 --> 00:59:44,560
+C'est la façon aussi de lutter contre cette bureaucratie communiste, socialiste.
+
+839
+00:59:44,560 --> 00:59:48,560
+C'est un petit peu le message Cypherpunk du soir.
+
+840
+00:59:49,560 --> 00:59:53,560
+Écoute, c'est bien entendu.
+
+841
+00:59:53,560 --> 01:00:00,560
+Je t'avouerais qu'à la fin, je t'ai écouté d'une oreille parce que le concours était en train de se terminer.
+
+842
+01:00:00,560 --> 01:00:04,560
+J'étais dans le glimpse, en train d'essayer de comprendre comment on pique le winner.
+
+843
+01:00:04,560 --> 01:00:09,560
+Tes derniers mots, je les ai un petit peu semi-entendus.
+
+844
+01:00:09,560 --> 01:00:12,560
+J'en profite pour dire que le concours est terminé.
+
+845
+01:00:12,560 --> 01:00:15,560
+Vous avez été combien?
+
+846
+01:00:15,560 --> 01:00:17,560
+Ah, 10 à participer.
+
+847
+01:00:17,560 --> 01:00:20,560
+Je vais cliquer sur « Draw winner ».
+
+848
+01:00:20,560 --> 01:00:22,560
+Je vais piquer le gagnant.
+
+849
+01:00:22,560 --> 01:00:24,560
+Ça devrait…
+
+850
+01:00:24,560 --> 01:00:26,560
+« Winner to draw »?
+
+851
+01:00:26,560 --> 01:00:27,560
+C'est bon, oui.
+
+852
+01:00:27,560 --> 01:00:30,560
+C'est en train de tourner.
+
+853
+01:00:30,560 --> 01:00:33,560
+Le gagnant est Dani Boutelier.
+
+854
+01:00:33,560 --> 01:00:35,560
+Bravo, Dani.
+
+855
+01:00:35,560 --> 01:00:42,560
+Tu as gagné un bon d'achat au choix de choisir une carte Satoshi pour le concours.
+
+856
+01:00:43,560 --> 01:00:47,560
+Choisir une carte Satoship, Satodim ou Seedkeeper.
+
+857
+01:00:47,560 --> 01:00:48,560
+Bravo.
+
+858
+01:00:48,560 --> 01:00:50,560
+Très content d'avoir fait ce premier concours.
+
+859
+01:00:50,560 --> 01:00:54,560
+Il y en aura d'autres toutes les semaines, tous les dimanches, pendant trois mois.
+
+860
+01:00:54,560 --> 01:00:56,560
+Donc revenez.
+
+861
+01:00:56,560 --> 01:01:02,560
+J'en profite, je pense que c'est le pont parfait pour demander à Bastien.
+
+862
+01:01:02,560 --> 01:01:05,560
+Ah, il y a Dani qui veut dire quelque chose.
+
+863
+01:01:07,560 --> 01:01:08,560
+Attends.
+
+864
+01:01:09,560 --> 01:01:12,560
+Salut Dani, félicitations.
+
+865
+01:01:15,560 --> 01:01:17,560
+Tu es en mute.
+
+866
+01:01:17,560 --> 01:01:19,560
+On ne t'entend pas.
+
+867
+01:01:19,560 --> 01:01:20,560
+Merci beaucoup.
+
+868
+01:01:20,560 --> 01:01:21,560
+C'est bon, ça y est.
+
+869
+01:01:21,560 --> 01:01:22,560
+Nickel, merci.
+
+870
+01:01:22,560 --> 01:01:23,560
+Merci beaucoup.
+
+871
+01:01:23,560 --> 01:01:24,560
+Je suis super content.
+
+872
+01:01:24,560 --> 01:01:27,560
+Je vais en rajouter une à ma petite collection.
+
+873
+01:01:27,560 --> 01:01:30,560
+C'est nickel, parfait.
+
+874
+01:01:30,560 --> 01:01:34,560
+C'est toi qui avais posté la photo avec la carte?
+
+875
+01:01:34,560 --> 01:01:35,560
+Exactement.
+
+876
+01:01:35,560 --> 01:01:40,560
+Justement, j'avais rencontré Bastien au Surfing Bitcoin 2021.
+
+877
+01:01:40,560 --> 01:01:43,560
+On avait beaucoup parlé, c'était vraiment super.
+
+878
+01:01:43,560 --> 01:01:45,560
+Je suis super content.
+
+879
+01:01:47,560 --> 01:01:51,560
+Pour la petite histoire, et ça va peut-être faire rire les gens.
+
+880
+01:01:51,560 --> 01:01:55,560
+C'est vrai qu'on s'était rencontrés à Surfing Bitcoin, on avait bien échangé.
+
+881
+01:01:55,560 --> 01:02:02,560
+Dani m'avait très gentiment offert une bouteille de vin d'un cru de sa région.
+
+882
+01:02:02,560 --> 01:02:07,560
+Dani, je m'en excuse, mais quand je suis reparti à l'aéroport,
+
+883
+01:02:07,560 --> 01:02:10,560
+on m'a confisqué la bouteille de vin à la sortie de l'aéroport.
+
+884
+01:02:10,560 --> 01:02:16,560
+Mais le lendemain, je l'ai recommandé sur Internet pour pouvoir la goûter.
+
+885
+01:02:16,560 --> 01:02:20,560
+On l'a dégusté ici entre amis et il était délicieux.
+
+886
+01:02:20,560 --> 01:02:26,560
+Je tiens à rassurer tout le monde, le tirage au sort n'a pas été payé pour que Dani gagne.
+
+887
+01:02:26,560 --> 01:02:31,560
+Mais je suis quand même content que tu aies gagné ce concours.
+
+888
+01:02:31,560 --> 01:02:36,560
+Comme le disait Chad, on sponsorise l'émission toutes les semaines.
+
+889
+01:02:36,560 --> 01:02:42,560
+On sera très ravis de faire découvrir nos produits à tous les participants
+
+890
+01:02:42,560 --> 01:02:45,560
+chaque semaine pendant trois mois.
+
+891
+01:02:45,560 --> 01:02:49,560
+J'espère qu'on pourra renouveler ce partenariat encore à l'avenir.
+
+892
+01:02:51,560 --> 01:02:52,560
+Super.
+
+893
+01:02:52,560 --> 01:02:55,560
+C'est purement aléatoire.
+
+894
+01:02:56,560 --> 01:02:58,560
+C'est Glim qui a choisi.
+
+895
+01:02:58,560 --> 01:03:01,560
+Je suis très content que ce soit toi, Dani, qui a gagné.
+
+896
+01:03:01,560 --> 01:03:04,560
+Merci encore, Bastien.
+
+897
+01:03:04,560 --> 01:03:06,560
+Merci, Franck, d'être venu.
+
+898
+01:03:06,560 --> 01:03:08,560
+De rien.
+
+899
+01:03:08,560 --> 01:03:10,560
+C'est un plaisir.
+
+900
+01:03:10,560 --> 01:03:14,560
+Il y a un truc que je voulais dire, mais j'ai complètement oublié.
+
+901
+01:03:14,560 --> 01:03:16,560
+Voilà, super.
+
+902
+01:03:16,560 --> 01:03:17,560
+Bravo, moi.
+
+903
+01:03:17,560 --> 01:03:19,560
+Il y avait un commentaire, peut-être?
+
+904
+01:03:19,560 --> 01:03:24,560
+Il y a Polydotte qui a posté un mime.
+
+905
+01:03:24,560 --> 01:03:25,560
+Ah oui, c'est ça.
+
+906
+01:03:25,560 --> 01:03:28,560
+Il y a Frédéric qui a posté le trade-off des JavaCards propriétaires
+
+907
+01:03:28,560 --> 01:03:33,560
+et quasi identiques à celui des Secure Element dans les hardware wallets.
+
+908
+01:03:33,560 --> 01:03:36,560
+C'était aucun Open Source, mais bon, c'est un choix des fournisseurs
+
+909
+01:03:36,560 --> 01:03:40,560
+et c'est une sorte de quête du Graal Open Hardware.
+
+910
+01:03:40,560 --> 01:03:41,560
+Oui, tout à fait.
+
+911
+01:03:41,560 --> 01:03:43,560
+Il a tout à fait raison.
+
+912
+01:03:43,560 --> 01:03:48,560
+Il y a beaucoup de hardware wallets qui se vantent d'être Open Source,
+
+913
+01:03:48,560 --> 01:03:51,560
+mais malheureusement, aujourd'hui, sur le marché,
+
+914
+01:03:51,560 --> 01:03:55,560
+il n'y a pas de Secure Element Open Source.
+
+915
+01:03:55,560 --> 01:04:00,560
+Par Open Source, on entend un équipement hardware
+
+916
+01:04:00,560 --> 01:04:07,560
+dont l'intégralité des specs serait divulguée au grand public.
+
+917
+01:04:07,560 --> 01:04:12,560
+Et si vous voulez, en fait, actuellement, c'est un peu logique.
+
+918
+01:04:12,560 --> 01:04:17,560
+C'est comme si quelqu'un fabriquait un coffre, un coffre-fort,
+
+919
+01:04:17,560 --> 01:04:20,560
+et révélait à tout le monde la manière dont il est fabriqué.
+
+920
+01:04:20,560 --> 01:04:24,560
+Et donc, en fait, un voleur pourrait savoir exactement où il doit percer,
+
+921
+01:04:24,560 --> 01:04:28,560
+où il doit forer pour pouvoir ouvrir facilement le coffre-fort.
+
+922
+01:04:28,560 --> 01:04:32,560
+Et donc, aujourd'hui, il n'y a pas de Secure Element Open Source.
+
+923
+01:04:32,560 --> 01:04:37,560
+Alors, il faut savoir que chez Trezor, chez Satoshi Lab,
+
+924
+01:04:37,560 --> 01:04:39,560
+parce qu'ils ont été rebrandés,
+
+925
+01:04:39,560 --> 01:04:43,560
+ils ont une succursale qui s'appelle Tropic Square
+
+926
+01:04:43,560 --> 01:04:49,560
+et qui travaille actuellement sur la production d'un Secure Element
+
+927
+01:04:49,560 --> 01:04:51,560
+complètement Open Source.
+
+928
+01:04:51,560 --> 01:04:54,560
+Il va s'appeler Tropic Square, comme le nom de la boîte,
+
+929
+01:04:54,560 --> 01:04:59,560
+et il devrait sortir dans les prochains mois.
+
+930
+01:04:59,560 --> 01:05:02,560
+Et on pourrait voir, alors, sur le marché, des hardware wallets
+
+931
+01:05:02,560 --> 01:05:04,560
+qui seraient complètement Open Source.
+
+932
+01:05:04,560 --> 01:05:07,560
+Donc, autant la partie software,
+
+933
+01:05:07,560 --> 01:05:10,560
+le logiciel qui tourne sur le système d'exploitation,
+
+934
+01:05:10,560 --> 01:05:13,560
+sur la puce, que la partie hardware.
+
+935
+01:05:14,560 --> 01:05:16,560
+C'est pas mal, ça.
+
+936
+01:05:17,560 --> 01:05:20,560
+J'avais regardé rapidement, il y a quelques mois,
+
+937
+01:05:20,560 --> 01:05:23,560
+quand j'étais à Lisbonne, pardon.
+
+938
+01:05:23,560 --> 01:05:26,560
+Il y avait un truc qui m'intéressait, c'était un truc...
+
+939
+01:05:26,560 --> 01:05:29,560
+C'est pas Open Source, ça, non plus?
+
+940
+01:05:29,560 --> 01:05:31,560
+Putain, j'ai oublié le nom.
+
+941
+01:05:31,560 --> 01:05:33,560
+C'est le truc, c'est sur un Raspberry,
+
+942
+01:05:33,560 --> 01:05:37,560
+et puis tu peux acheter les différentes pièces, l'enclosure et tout,
+
+943
+01:05:37,560 --> 01:05:39,560
+sur différents sites.
+
+944
+01:05:39,560 --> 01:05:41,560
+Et il me semblait que le software, c'était un truc,
+
+945
+01:05:41,560 --> 01:05:44,560
+tu flashais le Raspberry Pi avec.
+
+946
+01:05:44,560 --> 01:05:47,560
+Mais je sais plus si c'est Open Source ou pas.
+
+947
+01:05:47,560 --> 01:05:50,560
+Probablement que tout l'écosystème qui gravite
+
+948
+01:05:50,560 --> 01:05:53,560
+autour de l'équipement physique est Open Source,
+
+949
+01:05:53,560 --> 01:05:59,560
+mais les puces qui sont utilisées sur un Raspberry
+
+950
+01:05:59,560 --> 01:06:01,560
+ne sont pas Open Source.
+
+951
+01:06:01,560 --> 01:06:04,560
+Donc, tu peux très bien tomber sur une mémoire
+
+952
+01:06:04,560 --> 01:06:06,560
+qui n'est pas Open Source.
+
+953
+01:06:06,560 --> 01:06:09,560
+C'est-à-dire que quand tu flashes cette mémoire-là,
+
+954
+01:06:09,560 --> 01:06:12,560
+tu ne sais pas ce qui tourne dedans,
+
+955
+01:06:12,560 --> 01:06:14,560
+ce qui se passe dedans.
+
+956
+01:06:14,560 --> 01:06:17,560
+Et donc, tu ne sais pas s'il n'est pas possible
+
+957
+01:06:17,560 --> 01:06:21,560
+d'extraire de l'information ou autre chose.
+
+958
+01:06:21,560 --> 01:06:24,560
+On l'a encore vu tout récemment avec Ledger
+
+959
+01:06:24,560 --> 01:06:26,560
+et leur service Recover.
+
+960
+01:06:26,560 --> 01:06:29,560
+Ils ont vendu un produit en disant
+
+961
+01:06:29,560 --> 01:06:32,560
+« Jamais une seed ne peut être exportée du Secure Element. »
+
+962
+01:06:32,560 --> 01:06:35,560
+Et puis, du jour au lendemain, ils ont dit
+
+963
+01:06:35,560 --> 01:06:37,560
+« On exportera les seeds du Secure Element
+
+964
+01:06:37,560 --> 01:06:39,560
+pour les utilisateurs qui le souhaitent. »
+
+965
+01:06:39,560 --> 01:06:43,560
+Et donc, il y a quand même un certain paradoxe
+
+966
+01:06:43,560 --> 01:06:45,560
+dans le message,
+
+967
+01:06:45,560 --> 01:06:52,560
+puisque à partir du moment où le producteur de la puce
+
+968
+01:06:52,560 --> 01:06:55,560
+te dit « Oui, on va pouvoir extraire tout ce qu'il faut
+
+969
+01:06:55,560 --> 01:06:57,560
+à la demande de Ledger »,
+
+970
+01:06:57,560 --> 01:07:00,560
+on peut se poser des questions.
+
+971
+01:07:01,560 --> 01:07:04,560
+D'ailleurs, ça me fait penser à une histoire.
+
+972
+01:07:04,560 --> 01:07:08,560
+J'utilise un « Key Scrambler »
+
+973
+01:07:08,560 --> 01:07:16,560
+pour sécuriser un petit peu mon utilisation de mon laptop.
+
+974
+01:07:16,560 --> 01:07:18,560
+Je recommence à tout le monde d'ailleurs
+
+975
+01:07:18,560 --> 01:07:20,560
+d'utiliser ce genre d'outils.
+
+976
+01:07:20,560 --> 01:07:22,560
+Et en fait, à une époque, c'était en 2017,
+
+977
+01:07:22,560 --> 01:07:24,560
+un truc comme ça,
+
+978
+01:07:24,560 --> 01:07:26,560
+un « Key Scrambler », pour ceux qui ne savent pas,
+
+979
+01:07:26,560 --> 01:07:29,560
+c'est un truc qui fait l'intermédiaire
+
+980
+01:07:29,560 --> 01:07:31,560
+entre les touches de ton clavier
+
+981
+01:07:31,560 --> 01:07:33,560
+et ce que tu écris à l'écran.
+
+982
+01:07:33,560 --> 01:07:35,560
+Donc en fait, ça encrypte les données
+
+983
+01:07:35,560 --> 01:07:37,560
+du fait que ça empêche, par exemple,
+
+984
+01:07:37,560 --> 01:07:39,560
+si quelqu'un met un « Key Logger » sur ton ordi,
+
+985
+01:07:39,560 --> 01:07:41,560
+ça te protège contre ça.
+
+986
+01:07:41,560 --> 01:07:47,560
+Et en gros, j'en avais un,
+
+987
+01:07:47,560 --> 01:07:49,560
+et ça ne marchait pas justement sur mon « Wallet ».
+
+988
+01:07:49,560 --> 01:07:51,560
+Ça s'activait sur les applications.
+
+989
+01:07:51,560 --> 01:07:53,560
+C'était par défaut sur le web, etc.
+
+990
+01:07:53,560 --> 01:07:56,560
+Mais ça devait s'activer sur des applications.
+
+991
+01:07:56,560 --> 01:07:59,560
+Ça devait faire des « Updates » pour inclure des applications.
+
+992
+01:07:59,560 --> 01:08:01,560
+Et en gros, sur mon « Wallet », ça ne marchait pas.
+
+993
+01:08:01,560 --> 01:08:03,560
+Donc je leur avais envoyé un mail pour leur dire.
+
+994
+01:08:03,560 --> 01:08:05,560
+Et ils ont dit « Dans la prochaine « Update »,
+
+995
+01:08:05,560 --> 01:08:07,560
+ça sera bon. »
+
+996
+01:08:07,560 --> 01:08:09,560
+Et je me souviens avoir psychoté à ce moment-là.
+
+997
+01:08:09,560 --> 01:08:11,560
+Je me suis dit « Si ça se trouve,
+
+998
+01:08:11,560 --> 01:08:13,560
+ils pourraient mettre un « Key Logger » dedans. »
+
+999
+01:08:13,560 --> 01:08:15,560
+Et je ne pourrais jamais le savoir, en fait.
+
+1000
+01:08:15,560 --> 01:08:17,560
+Donc oui, c'est toujours...
+
+1001
+01:08:17,560 --> 01:08:20,560
+Oui, c'est tout le risque des « Hardware »
+
+1002
+01:08:20,560 --> 01:08:23,560
+qui sont « closed source », comme on dit.
+
+1003
+01:08:23,560 --> 01:08:25,560
+C'est qu'on ne sait pas ce qui tourne à l'intérieur,
+
+1004
+01:08:25,560 --> 01:08:27,560
+en réalité.
+
+1005
+01:08:27,560 --> 01:08:30,560
+Mais on est une génération d'utilisateurs
+
+1006
+01:08:31,560 --> 01:08:34,560
+qui faisons confiance.
+
+1007
+01:08:34,560 --> 01:08:36,560
+Que ce soit pour nos téléphones, nos smartphones,
+
+1008
+01:08:36,560 --> 01:08:38,560
+si vous avez un Samsung, un iPhone.
+
+1009
+01:08:38,560 --> 01:08:40,560
+Vous ne savez pas très bien ce qui tourne dedans.
+
+1010
+01:08:40,560 --> 01:08:42,560
+Mais vous l'utilisez au quotidien.
+
+1011
+01:08:42,560 --> 01:08:44,560
+Vous vous envoyez des messages privés,
+
+1012
+01:08:44,560 --> 01:08:46,560
+des photos de cul.
+
+1013
+01:08:46,560 --> 01:08:48,560
+Vous avez votre « Software Wallet »
+
+1014
+01:08:48,560 --> 01:08:50,560
+avec vos « Bitcoins » dessus.
+
+1015
+01:08:50,560 --> 01:08:53,560
+Et vous vous dites « C'est bon, je suis « safe ».
+
+1016
+01:08:53,560 --> 01:08:56,560
+Jamais rien ne va sortir de mon téléphone.
+
+1017
+01:08:56,560 --> 01:08:59,560
+Mais en réalité, on ne sait pas ce qui tourne dedans.
+
+1018
+01:09:00,560 --> 01:09:03,560
+Il y a « X-User » qui dit
+
+1019
+01:09:03,560 --> 01:09:06,560
+« Umbrell OS est sous licence libre ».
+
+1020
+01:09:06,560 --> 01:09:08,560
+Je ne sais pas ce que c'est.
+
+1021
+01:09:08,560 --> 01:09:10,560
+Est-ce que tu connais Umbrell OS?
+
+1022
+01:09:10,560 --> 01:09:13,560
+Umbrell, c'est un « Bitcoin »
+
+1023
+01:09:13,560 --> 01:09:15,560
+qui est effectivement « open source ».
+
+1024
+01:09:15,560 --> 01:09:18,560
+Donc oui.
+
+1025
+01:09:18,560 --> 01:09:21,560
+Mais je ne sais pas si le « Hardware »
+
+1026
+01:09:21,560 --> 01:09:23,560
+proposé par Umbrell,
+
+1027
+01:09:23,560 --> 01:09:26,560
+et quant à lui, « open source », je ne pense pas.
+
+1028
+01:09:26,560 --> 01:09:29,560
+Et donc on en revient à cette question de dire
+
+1029
+01:09:29,560 --> 01:09:32,560
+« Ok, on peut fournir des logiciels qui sont « open source »,
+
+1030
+01:09:32,560 --> 01:09:35,560
+c'est-à-dire qu'on peut vérifier
+
+1031
+01:09:35,560 --> 01:09:38,560
+comment nos opérations vont fonctionner,
+
+1032
+01:09:38,560 --> 01:09:41,560
+mais on ne peut pas être à 100% sûr
+
+1033
+01:09:41,560 --> 01:09:44,560
+que derrière, il n'y ait pas une faille,
+
+1034
+01:09:44,560 --> 01:09:47,560
+une brèche, ou que le producteur du « Hardware »
+
+1035
+01:09:47,560 --> 01:09:50,560
+n'ait pas laissé une « backdoor »
+
+1036
+01:09:50,560 --> 01:09:53,560
+qui permette d'extraire une clé privée
+
+1037
+01:09:53,560 --> 01:09:56,560
+ou d'envoyer de la data à un moment donné
+
+1038
+01:09:56,560 --> 01:09:59,560
+lorsqu'on utilise l'équipement.
+
+1039
+01:09:59,560 --> 01:10:02,560
+Donc ça, c'est un risque.
+
+1040
+01:10:02,560 --> 01:10:05,560
+Ok.
+
+1041
+01:10:05,560 --> 01:10:08,560
+Ah oui, c'est ça la question que je voulais te poser.
+
+1042
+01:10:08,560 --> 01:10:11,560
+Parce que vu qu'on a fait gagner
+
+1043
+01:10:11,560 --> 01:10:14,560
+un bon d'achat pour une des trois cartes
+
+1044
+01:10:14,560 --> 01:10:17,560
+que vous proposez,
+
+1045
+01:10:17,560 --> 01:10:20,560
+c'est quoi la différence entre les trois cartes?
+
+1046
+01:10:20,560 --> 01:10:23,560
+La « Satochip », la « SatoDim »
+
+1047
+01:10:23,560 --> 01:10:26,560
+et la « Sitekeeper ».
+
+1048
+01:10:26,560 --> 01:10:29,560
+Alors, les trois cartes sont basées
+
+1049
+01:10:29,560 --> 01:10:32,560
+sur la même carte à puce,
+
+1050
+01:10:32,560 --> 01:10:35,560
+avec le même Secure Element,
+
+1051
+01:10:35,560 --> 01:10:38,560
+mais on y charge un « firmware » qui est différent.
+
+1052
+01:10:38,560 --> 01:10:41,560
+Donc « Satochip », c'est un « hardware wallet »
+
+1053
+01:10:41,560 --> 01:10:44,560
+comme « ledger », comme « trésor ».
+
+1054
+01:10:44,560 --> 01:10:47,560
+L'idée, c'est de stocker vos clés privées au sein du « Secure Element ».
+
+1055
+01:10:47,560 --> 01:10:50,560
+Avec une « seed phrase » générée par le client
+
+1056
+01:10:50,560 --> 01:10:53,560
+ou avec votre propre « seed phrase »,
+
+1057
+01:10:53,560 --> 01:10:56,560
+il y a un « code pin » qui protège l'accès à la carte.
+
+1058
+01:10:56,560 --> 01:10:59,560
+Et à chaque fois que vous voulez dépenser vos « bitcoins »,
+
+1059
+01:10:59,560 --> 01:11:02,560
+vous devez brancher votre carte sur le lecteur de carte à puce
+
+1060
+01:11:02,560 --> 01:11:05,560
+et signer la transaction via cette carte.
+
+1061
+01:11:05,560 --> 01:11:08,560
+Alors, « Seedkeeper », c'est une solution
+
+1062
+01:11:08,560 --> 01:11:11,560
+qui permet de stocker ses « seed phrases »
+
+1063
+01:11:11,560 --> 01:11:14,560
+dans un « Secure Element ».
+
+1064
+01:11:14,560 --> 01:11:17,560
+On a vu qu'il n'y avait pas sur le marché
+
+1065
+01:11:17,560 --> 01:11:20,560
+de solutions « hardware » pour stocker la « seed phrase ».
+
+1066
+01:11:20,560 --> 01:11:23,560
+Et on s'est rendu compte que « ledger »
+
+1067
+01:11:23,560 --> 01:11:26,560
+demandait toujours à ses utilisateurs d'écrire les 12 ou les 24 mots
+
+1068
+01:11:26,560 --> 01:11:29,560
+sur un bout de papier.
+
+1069
+01:11:29,560 --> 01:11:32,560
+On s'est dit « Ok, il y a un problème,
+
+1070
+01:11:32,560 --> 01:11:35,560
+il y a peut-être un marché à prendre. »
+
+1071
+01:11:35,560 --> 01:11:38,560
+Nous, ça ne nous plaisait pas de devoir écrire nos mots sur un bout de papier.
+
+1072
+01:11:38,560 --> 01:11:41,560
+On s'est dit « Est-ce qu'il n'y a pas une solution matérielle,
+
+1073
+01:11:41,560 --> 01:11:44,560
+une solution robuste qui va nous permettre
+
+1074
+01:11:44,560 --> 01:11:47,560
+d'oublier un petit peu cette « seed phrase »? »
+
+1075
+01:11:47,560 --> 01:11:50,560
+On l'insère dans notre carte à puce,
+
+1076
+01:11:50,560 --> 01:11:53,560
+c'est également protégé par un code PIN.
+
+1077
+01:11:53,560 --> 01:11:56,560
+Et puis on se dit « Ok, on peut la mettre au coffre, dans un tiroir, on l'oublie,
+
+1078
+01:11:56,560 --> 01:11:59,560
+mais au moins on est sûr que ce n'est pas accessible en clair,
+
+1079
+01:11:59,560 --> 01:12:02,560
+que ce n'est pas accessible par votre femme de ménage,
+
+1080
+01:12:02,560 --> 01:12:05,560
+par vos potes qui viennent à la maison. »
+
+1081
+01:12:05,560 --> 01:12:08,560
+Donc ça, c'est « Seedkeeper ».
+
+1082
+01:12:08,560 --> 01:12:11,560
+C'est un peu comme un paper wallet électronique.
+
+1083
+01:12:11,560 --> 01:12:14,560
+En fait, ça va vous permettre de créer
+
+1084
+01:12:14,560 --> 01:12:17,560
+un wallet Bitcoin à la volée.
+
+1085
+01:12:17,560 --> 01:12:20,560
+Alors quand je dis à la volée, c'est qu'on a créé une application mobile
+
+1086
+01:12:20,560 --> 01:12:23,560
+qui va vous permettre d'interagir avec votre carte.
+
+1087
+01:12:23,560 --> 01:12:26,560
+Et en deux clics, vous pouvez créer un portefeuille Bitcoin.
+
+1088
+01:12:26,560 --> 01:12:29,560
+Et donc c'est la puce elle-même de la carte
+
+1089
+01:12:29,560 --> 01:12:32,560
+qui va générer la paire de clés publiques, privées pour vous.
+
+1090
+01:12:32,560 --> 01:12:35,560
+Et elle va stocker la clé privée
+
+1091
+01:12:35,560 --> 01:12:38,560
+au sein de sa mémoire.
+
+1092
+01:12:38,560 --> 01:12:41,560
+Et donc vous avez en fait un « call storage » Bitcoin
+
+1093
+01:12:41,560 --> 01:12:44,560
+dans lequel vous allez pouvoir mettre quelques sats,
+
+1094
+01:12:44,560 --> 01:12:47,560
+soit pour du stockage long terme
+
+1095
+01:12:47,560 --> 01:12:50,560
+ou alors pour offrir du Bitcoin à vos proches.
+
+1096
+01:12:50,560 --> 01:12:53,560
+Donc c'est un très bon moyen d'« orange peel » les potes.
+
+1097
+01:12:53,560 --> 01:12:56,560
+Vous achetez une carte « Satodime »,
+
+1098
+01:12:56,560 --> 01:12:59,560
+vous chargez quelques sats dessus
+
+1099
+01:12:59,560 --> 01:13:02,560
+et puis vous l'offrez.
+
+1100
+01:13:02,560 --> 01:13:05,560
+Et la clé privée se trouve scellée dans la puce de la carte.
+
+1101
+01:13:05,560 --> 01:13:08,560
+Au moment où vous donnez la carte,
+
+1102
+01:13:08,560 --> 01:13:11,560
+le nouveau propriétaire devient de facto
+
+1103
+01:13:11,560 --> 01:13:14,560
+le propriétaire des Bitcoins puisqu'en fait,
+
+1104
+01:13:14,560 --> 01:13:17,560
+il a en main la clé privée des Bitcoins
+
+1105
+01:13:17,560 --> 01:13:20,560
+qui sont chargés sur cette carte.
+
+1106
+01:13:20,560 --> 01:13:23,560
+Pas mal, pas mal.
+
+1107
+01:13:23,560 --> 01:13:26,560
+J'ai envie de revenir sur la « seed keeper »
+
+1108
+01:13:26,560 --> 01:13:29,560
+parce que c'est vraiment un sujet,
+
+1109
+01:13:29,560 --> 01:13:32,560
+la « seed », qu'est-ce qu'on en fait?
+
+1110
+01:13:32,560 --> 01:13:35,560
+Je suppose que je ne suis pas le seul
+
+1111
+01:13:35,560 --> 01:13:38,560
+à avoir testé toutes sortes de manières.
+
+1112
+01:13:38,560 --> 01:13:41,560
+Il y a vraiment plein d'écoles.
+
+1113
+01:13:41,560 --> 01:13:44,560
+Il y a ceux qui mettent leur « seed »
+
+1114
+01:13:44,560 --> 01:13:47,560
+dans un coffre en banque,
+
+1115
+01:13:47,560 --> 01:13:50,560
+il y a ceux qui la donnent à leur famille,
+
+1116
+01:13:50,560 --> 01:13:53,560
+il y a ceux qui la découpent en morceaux,
+
+1117
+01:13:53,560 --> 01:13:56,560
+ceux qui la découpent pas en morceaux,
+
+1118
+01:13:56,560 --> 01:13:59,560
+et il y a ceux qui la découpent en morceaux.
+
+1119
+01:13:59,560 --> 01:14:02,560
+Donc, le truc de mettre ça sur une carte,
+
+1120
+01:14:02,560 --> 01:14:05,560
+c'est pas mal.
+
+1121
+01:14:05,560 --> 01:14:08,560
+C'est quoi la durée de vie d'une carte à puce?
+
+1122
+01:14:08,560 --> 01:14:11,560
+Est-ce que tu peux laisser ça genre 20 ans?
+
+1123
+01:14:11,560 --> 01:14:14,560
+Et c'est quoi la durabilité si par exemple
+
+1124
+01:14:14,560 --> 01:14:17,560
+il y a de l'eau qui tombe dessus ou quoi?
+
+1125
+01:14:17,560 --> 01:14:20,560
+Est-ce que tu peux quand même encore y accéder?
+
+1126
+01:14:20,560 --> 01:14:23,560
+La durée de vie d'une carte à puce,
+
+1127
+01:14:23,560 --> 01:14:26,560
+c'est de l'ordre de minimum 10 ans.
+
+1128
+01:14:26,560 --> 01:14:29,560
+Ça c'est un gros avantage de la carte à puce,
+
+1129
+01:14:29,560 --> 01:14:32,560
+c'est que ça dure très longtemps.
+
+1130
+01:14:32,560 --> 01:14:35,560
+Pourquoi? Parce qu'en fait,
+
+1131
+01:14:35,560 --> 01:14:38,560
+la carte à puce n'embarque que le strict minimum.
+
+1132
+01:14:38,560 --> 01:14:41,560
+Il n'y a pas de batterie, il n'y a pas d'écran,
+
+1133
+01:14:41,560 --> 01:14:44,560
+il n'y a pas de bouton, il n'y a pas de connectique particulière.
+
+1134
+01:14:44,560 --> 01:14:47,560
+C'est une carte en plastique
+
+1135
+01:14:47,560 --> 01:14:50,560
+avec une puce avec des composants métalliques
+
+1136
+01:14:50,560 --> 01:14:53,560
+et donc si vous la mettez au coffre,
+
+1137
+01:14:53,560 --> 01:14:56,560
+votre Seed Keeper, dans 10 ans au moins,
+
+1138
+01:14:56,560 --> 01:14:59,560
+si pas 20 ans, vous la retrouverez de la même manière.
+
+1139
+01:14:59,560 --> 01:15:02,560
+Un autre avantage, c'est qu'elle utilise une technologie
+
+1140
+01:15:02,560 --> 01:15:05,560
+comme on le disait avec Frédéric tout à l'heure,
+
+1141
+01:15:05,560 --> 01:15:08,560
+une technologie qui n'évolue pas beaucoup.
+
+1142
+01:15:08,560 --> 01:15:11,560
+Et donc, j'avocarde, il y a 40 ans,
+
+1143
+01:15:11,560 --> 01:15:14,560
+c'était presque la même chose qu'aujourd'hui.
+
+1144
+01:15:14,560 --> 01:15:17,560
+Et on a bon espoir que dans 40 ans,
+
+1145
+01:15:17,560 --> 01:15:20,560
+j'avocarde soit toujours la même chose.
+
+1146
+01:15:20,560 --> 01:15:23,560
+Et donc, vous pourrez toujours lire votre carte à puce
+
+1147
+01:15:23,560 --> 01:15:26,560
+dans 10, 15, 20 ans.
+
+1148
+01:15:26,560 --> 01:15:29,560
+C'est un des gros avantages de la carte à puce.
+
+1149
+01:15:29,560 --> 01:15:32,560
+C'était quoi ta deuxième question Thierry?
+
+1150
+01:15:32,560 --> 01:15:35,560
+C'est comment ça résiste face aux intempéries?
+
+1151
+01:15:35,560 --> 01:15:38,560
+Ah oui, les cartes sont waterproof,
+
+1152
+01:15:38,560 --> 01:15:41,560
+donc vous pouvez très bien faire une bouteille
+
+1153
+01:15:41,560 --> 01:15:44,560
+de liquide à l'intérieur de la carte à puce.
+
+1154
+01:15:44,560 --> 01:15:47,560
+Le seul élément qui pourrait détruire une carte,
+
+1155
+01:15:47,560 --> 01:15:50,560
+je crois que c'est le feu.
+
+1156
+01:15:50,560 --> 01:15:53,560
+Et là, ça va à l'encontre de toutes les plaques de métal
+
+1157
+01:15:53,560 --> 01:15:56,560
+qui sont vendues aujourd'hui sur le marché
+
+1158
+01:15:56,560 --> 01:15:59,560
+et qui sont vendues comme résistantes
+
+1159
+01:15:59,560 --> 01:16:02,560
+à des températures extrêmes.
+
+1160
+01:16:02,560 --> 01:16:05,560
+Maintenant, je dis toujours que le feu,
+
+1161
+01:16:05,560 --> 01:16:08,560
+ce n'est pas le laminat,
+
+1162
+01:16:08,560 --> 01:16:11,560
+c'est le liquide qui va se débrouiller.
+
+1163
+01:16:11,560 --> 01:16:14,560
+Le feu, ce n'est pas la première menace
+
+1164
+01:16:14,560 --> 01:16:17,560
+pour une site fraise.
+
+1165
+01:16:17,560 --> 01:16:20,560
+Pour moi, la première menace pour une site fraise,
+
+1166
+01:16:20,560 --> 01:16:23,560
+c'est le temps et l'œil humain.
+
+1167
+01:16:23,560 --> 01:16:26,560
+Donc les personnes qui écrivent leur site fraise sur un bout de papier,
+
+1168
+01:16:26,560 --> 01:16:29,560
+arrêtez tout de suite.
+
+1169
+01:16:29,560 --> 01:16:32,560
+Je ne dis pas ça pour vendre Sitekeeper,
+
+1170
+01:16:32,560 --> 01:16:35,560
+je dis ça pour votre propre sécurité.
+
+1171
+01:16:35,560 --> 01:16:38,560
+Écrire sa site fraise en plein texte sur un bout de papier,
+
+1172
+01:16:38,560 --> 01:16:41,560
+c'est le cas de pire, parce que les gens ne comprennent pas
+
+1173
+01:16:41,560 --> 01:16:44,560
+que si on tombe sur une site fraise et que vous n'avez pas mis de passe fraise
+
+1174
+01:16:44,560 --> 01:16:47,560
+et que vous n'avez pas utilisé un setup avec un chemin de dérivation particulier,
+
+1175
+01:16:47,560 --> 01:16:50,560
+je tombe sur votre site fraise,
+
+1176
+01:16:50,560 --> 01:16:53,560
+en 5 minutes, je vole tous vos fonds
+
+1177
+01:16:53,560 --> 01:16:56,560
+en utilisant un software wallet, en utilisant Electrum, Sparrow,
+
+1178
+01:16:56,560 --> 01:16:59,560
+une Ledger, un Trésor, une Satoship.
+
+1179
+01:16:59,560 --> 01:17:02,560
+Il faut bien se rendre compte que la site fraise est très très importante
+
+1180
+01:17:02,560 --> 01:17:05,560
+et qu'il faut la sécuriser de la manière la plus optimale possible.
+
+1181
+01:17:06,560 --> 01:17:09,560
+Ça peut être sur un bout de papier découpé en plusieurs morceaux,
+
+1182
+01:17:09,560 --> 01:17:12,560
+ça peut être sur un fichier encrypté sur votre ordinateur,
+
+1183
+01:17:12,560 --> 01:17:15,560
+ça peut être sur une plaque de métal.
+
+1184
+01:17:15,560 --> 01:17:18,560
+Faites des backups,
+
+1185
+01:17:18,560 --> 01:17:21,560
+utilisez plusieurs solutions,
+
+1186
+01:17:21,560 --> 01:17:24,560
+donc pas que Sitekeeper, pas qu'une plaque de métal, pas qu'un bout de papier.
+
+1187
+01:17:24,560 --> 01:17:27,560
+Privilégiez la passe fraise
+
+1188
+01:17:27,560 --> 01:17:30,560
+et soyez prudent.
+
+1189
+01:17:30,560 --> 01:17:33,560
+Je propose que ce soit carrément
+
+1190
+01:17:34,560 --> 01:17:37,560
+les mots de la fin, parce que je n'ai pas vraiment d'autres questions.
+
+1191
+01:17:37,560 --> 01:17:40,560
+En plus, je trouve que c'est un très très bon conseil que tu viens de donner.
+
+1192
+01:17:40,560 --> 01:17:43,560
+Et en plus, il n'y a personne qui a de...
+
+1193
+01:17:43,560 --> 01:17:46,560
+Je n'ai pas vu de questions.
+
+1194
+01:17:46,560 --> 01:17:49,560
+Si jamais vous avez une question à poser ou un truc à dire,
+
+1195
+01:17:49,560 --> 01:17:52,560
+c'est un peu le last call. C'est genre maintenant ou jamais.
+
+1196
+01:17:52,560 --> 01:17:55,560
+Demandez-moi le rôle de speaker ou mettez un petit commentaire ou quoi.
+
+1197
+01:17:55,560 --> 01:17:58,560
+De toute façon, c'est possible, j'imagine,
+
+1198
+01:17:58,560 --> 01:18:01,560
+si les gens veulent te poser des questions sur tes solutions ou sur d'autres trucs,
+
+1199
+01:18:01,560 --> 01:18:04,560
+j'imagine que c'est possible de t'envoyer un message.
+
+1200
+01:18:04,560 --> 01:18:07,560
+Comment d'ailleurs on envoie un message sur le compte
+
+1201
+01:18:07,560 --> 01:18:10,560
+directement de Satoship?
+
+1202
+01:18:10,560 --> 01:18:13,560
+Oui, on est dispo sur Twitter, on est dispo sur
+
+1203
+01:18:13,560 --> 01:18:16,560
+notre télégramme Satoship Wallet.
+
+1204
+01:18:16,560 --> 01:18:19,560
+Par mail également, via notre site web.
+
+1205
+01:18:19,560 --> 01:18:22,560
+Si vous passez par le support du site web,
+
+1206
+01:18:22,560 --> 01:18:25,560
+on essaye d'être assez réactif.
+
+1207
+01:18:25,560 --> 01:18:28,560
+On est encore une petite structure, donc on a
+
+1208
+01:18:28,560 --> 01:18:31,560
+cette possibilité d'être plutôt réactif et proche des utilisateurs.
+
+1209
+01:18:31,560 --> 01:18:34,560
+Donc surtout n'hésitez pas.
+
+1210
+01:18:34,560 --> 01:18:37,560
+Et puis on participera aux autres
+
+1211
+01:18:37,560 --> 01:18:40,560
+Bitcoin Sunday de Radio Chad.
+
+1212
+01:18:40,560 --> 01:18:43,560
+On sera également là si vous avez des questions.
+
+1213
+01:18:43,560 --> 01:18:46,560
+Une dernière question. Est-ce que vous avez une chaîne Youtube
+
+1214
+01:18:46,560 --> 01:18:49,560
+où vous faites un tutoriel pour vous montrer bien
+
+1215
+01:18:49,560 --> 01:18:52,560
+comment ça s'utilise?
+
+1216
+01:18:52,560 --> 01:18:55,560
+On a quelques
+
+1217
+01:18:55,560 --> 01:18:58,560
+vieilles vidéos qui traînent et on est en train
+
+1218
+01:18:58,560 --> 01:19:01,560
+de produire les nouvelles vidéos pour nos
+
+1219
+01:19:01,560 --> 01:19:04,560
+logiciels et nos solutions.
+
+1220
+01:19:04,560 --> 01:19:07,560
+Je vais dire que dans le courant du mois,
+
+1221
+01:19:07,560 --> 01:19:10,560
+il va y avoir beaucoup de nouvelles vidéos sur notre
+
+1222
+01:19:10,560 --> 01:19:13,560
+chaîne Youtube.
+
+1223
+01:19:13,560 --> 01:19:16,560
+Et puis si certaines personnes veulent des tutos
+
+1224
+01:19:16,560 --> 01:19:19,560
+particuliers, des explications spécifiques,
+
+1225
+01:19:19,560 --> 01:19:22,560
+il ne faut surtout pas hésiter.
+
+1226
+01:19:22,560 --> 01:19:25,560
+Je verrais bien une vidéo où tu
+
+1227
+01:19:25,560 --> 01:19:28,560
+testes la carte en mettant, comme tu dis, comme tu as dit tout à l'heure, de la bière dessus.
+
+1228
+01:19:28,560 --> 01:19:31,560
+Ça faisait vraiment une réponse de Belge, avec l'accent.
+
+1229
+01:19:31,560 --> 01:19:34,560
+La bière. Tu mets des frites dessus, tu frottes de la mayonnaise.
+
+1230
+01:19:34,560 --> 01:19:37,560
+C'est marrant parce que c'est une démo
+
+1231
+01:19:37,560 --> 01:19:40,560
+qu'on fait souvent. Les gens nous disent
+
+1232
+01:19:40,560 --> 01:19:43,560
+« oui, mais est-ce que la carte à puces, c'est résistant? »
+
+1233
+01:19:43,560 --> 01:19:46,560
+Et souvent, on est autour d'un verre
+
+1234
+01:19:46,560 --> 01:19:49,560
+dans un bar et on prend ma carte,
+
+1235
+01:19:49,560 --> 01:19:52,560
+que j'utilise au quotidien, et je la mets dans ma bière.
+
+1236
+01:19:52,560 --> 01:19:55,560
+Je continue la discussion et je montre aux gens. Je dis « regardez,
+
+1237
+01:19:55,560 --> 01:19:58,560
+je la sors, je peux toujours l'utiliser. »
+
+1238
+01:19:58,560 --> 01:20:01,560
+C'est la meilleure des démos. Effectivement, la bière,
+
+1239
+01:20:01,560 --> 01:20:04,560
+c'est bien belge.
+
+1240
+01:20:04,560 --> 01:20:07,560
+Ça marche avec le coca aussi?
+
+1241
+01:20:07,560 --> 01:20:10,560
+Ça marche avec à peu près tous les liquides, sauf les acides, fatalement.
+
+1242
+01:20:10,560 --> 01:20:13,560
+Il n'y a pas de raison.
+
+1243
+01:20:13,560 --> 01:20:16,560
+On a même testé avec une carte.
+
+1244
+01:20:16,560 --> 01:20:19,560
+Pour le gag, lors du 1er avril,
+
+1245
+01:20:19,560 --> 01:20:22,560
+on avait imprimé une carte Poisson Rouge
+
+1246
+01:20:22,560 --> 01:20:25,560
+et on l'avait laissée pendant une semaine ici au bureau
+
+1247
+01:20:25,560 --> 01:20:28,560
+dans un bocal. On l'avait appelée Bubule.
+
+1248
+01:20:28,560 --> 01:20:31,560
+Après une semaine, on savait toujours utiliser
+
+1249
+01:20:31,560 --> 01:20:34,560
+notre arbre de roulette sans aucun problème.
+
+1250
+01:20:34,560 --> 01:20:37,560
+C'est cool.
+
+1251
+01:20:37,560 --> 01:20:40,560
+Pour ceux qui sont intéressés
+
+1252
+01:20:40,560 --> 01:20:43,560
+d'avoir une carte, vous pouvez
+
+1253
+01:20:43,560 --> 01:20:46,560
+en acheter sur le site de Château Ship.
+
+1254
+01:20:46,560 --> 01:20:49,560
+D'ailleurs, j'ai un code.
+
+1255
+01:20:49,560 --> 01:20:52,560
+Si vous utilisez le code RadioChad
+
+1256
+01:20:52,560 --> 01:20:55,560
+R-A-D-I-O-C-H-A-D
+
+1257
+01:20:55,560 --> 01:20:58,560
+vous allez avoir 5% de réduction
+
+1258
+01:20:58,560 --> 01:21:01,560
+sur les produits.
+
+1259
+01:21:01,560 --> 01:21:04,560
+C'est toujours ça de gagné.
+
+1260
+01:21:04,560 --> 01:21:07,560
+Sinon, si vous n'avez pas du tout d'argent et que vous souhaitez avoir une carte,
+
+1261
+01:21:07,560 --> 01:21:10,560
+vous venez tous les dimanches et vous participez au concours.
+
+1262
+01:21:10,560 --> 01:21:13,560
+Même si vous avez de l'argent, vous pouvez venir participer au concours.
+
+1263
+01:21:13,560 --> 01:21:16,560
+Vous pouvez aussi venir et ne pas participer au concours.
+
+1264
+01:21:16,560 --> 01:21:19,560
+Il y a tellement de possibilités.
+
+1265
+01:21:19,560 --> 01:21:22,560
+Je vous souhaite à tous une très bonne...
+
+1266
+01:21:22,560 --> 01:21:25,560
+Avant qu'on se quitte, il y a un planning la semaine prochaine.
+
+1267
+01:21:25,560 --> 01:21:28,560
+Ça va être une semaine assez folle.
+
+1268
+01:21:28,560 --> 01:21:31,560
+Lundi, je reçois une artiste
+
+1269
+01:21:31,560 --> 01:21:34,560
+qui fait de la photo.
+
+1270
+01:21:34,560 --> 01:21:37,560
+Ça va être super cool.
+
+1271
+01:21:37,560 --> 01:21:40,560
+Mercredi, j'ai invité David, le CEO de Ultra.
+
+1272
+01:21:40,560 --> 01:21:43,560
+Ça fait longtemps qu'il n'est pas venu.
+
+1273
+01:21:43,560 --> 01:21:46,560
+Il est venu l'année dernière. Il y a quasiment un an pile.
+
+1274
+01:21:46,560 --> 01:21:49,560
+On va parler sérieux sur Ultra.
+
+1275
+01:21:49,560 --> 01:21:52,560
+Qu'est-ce que ça devient? Qu'est-ce qu'ils font?
+
+1276
+01:21:52,560 --> 01:21:55,560
+Ne manquez pas cette émission si vous aimez les jeux vidéo
+
+1277
+01:21:55,560 --> 01:21:58,560
+et la blockchain.
+
+1278
+01:21:58,560 --> 01:22:01,560
+Mercredi, on va faire un truc.
+
+1279
+01:22:01,560 --> 01:22:04,560
+On va faire une émission plutôt axée divertissement.
+
+1280
+01:22:04,560 --> 01:22:07,560
+Je ne vous en dis pas plus.
+
+1281
+01:22:07,560 --> 01:22:10,560
+Ça va être vraiment cool.
+
+1282
+01:22:10,560 --> 01:22:13,560
+Jeudi, ça va être le retour de la géoéconomie géopolitique
+
+1283
+01:22:13,560 --> 01:22:16,560
+avec Vincent, normalement.
+
+1284
+01:22:16,560 --> 01:22:19,560
+C'est pas mal, ça.
+
+1285
+01:22:19,560 --> 01:22:22,560
+Merci à tous d'être venus ce soir.
+
+1286
+01:22:22,560 --> 01:22:25,560
+Merci Bastien énormément d'être venu
+
+1287
+01:22:25,560 --> 01:22:28,560
+et d'avoir présenté tout ça
+
+1288
+01:22:28,560 --> 01:22:31,560
+pour le partenariat naissant.
+
+1289
+01:22:31,560 --> 01:22:34,560
+Je trouve ça super cool.
+
+1290
+01:22:34,560 --> 01:22:37,560
+J'aime votre produit.
+
+1291
+01:22:37,560 --> 01:22:40,560
+Je trouve ça vraiment cool
+
+1292
+01:22:40,560 --> 01:22:43,560
+qu'on fasse un partenariat ensemble.
+
+1293
+01:22:43,560 --> 01:22:46,560
+J'ai la bouche un peu sèche. Je n'arrive plus à parler.
+
+1294
+01:22:46,560 --> 01:22:49,560
+C'est horrible.
+
+1295
+01:22:49,560 --> 01:22:52,560
+C'est plaisir partagé.
+
+1296
+01:22:52,560 --> 01:22:55,560
+Continuez à faire des émissions Bitcoin.
+
+1297
+01:22:55,560 --> 01:22:58,560
+Continuez à faire des émissions libres, libertariennes,
+
+1298
+01:22:58,560 --> 01:23:01,560
+il faut éveiller l'essence de tout le monde.
+
+1299
+01:23:01,560 --> 01:23:04,560
+C'est grâce à ce genre de space
+
+1300
+01:23:04,560 --> 01:23:07,560
+qu'on peut s'ouvrir avec une petite fenêtre
+
+1301
+01:23:07,560 --> 01:23:10,560
+sur d'autres idées
+
+1302
+01:23:10,560 --> 01:23:13,560
+qui sont vraiment très intéressantes et qu'on partage.
+
+1303
+01:23:13,560 --> 01:23:16,560
+Continuez ça le dimanche.
+
+1304
+01:23:16,560 --> 01:23:19,560
+C'est une bonne bouffée d'oxygène pour tout le monde.
+
+1305
+01:23:19,560 --> 01:23:22,560
+Merci beaucoup.
+
+1306
+01:23:22,560 --> 01:23:25,560
+Merci à tous.
+
+1307
+01:23:25,560 --> 01:23:28,560
+A demain.
+
+1308
+01:23:28,560 --> 01:23:31,560
+Bonne soirée, bonne fin de week-end.
+
+1309
+01:23:31,560 --> 01:23:34,560
+On se quitte en musique.
+
+1310
+01:23:34,560 --> 01:23:37,560
+Salut.

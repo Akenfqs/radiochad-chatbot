@@ -1,0 +1,3887 @@
+1
+00:01:30,000 --> 00:01:59,520
+bienvenue sur audiochad on est le
+
+2
+00:01:59,520 --> 00:02:05,680
+mardi 14 novembre 2023 et ce soir c'est une soirée spéciale
+
+3
+00:02:05,680 --> 00:02:10,960
+intelligence artificielle comme tous les mardis et ce soir c'est une émission où
+
+4
+00:02:10,960 --> 00:02:14,720
+je vais vous raconter plein de choses en fait parce qu'il s'est passé beaucoup de
+
+5
+00:02:14,720 --> 00:02:19,440
+choses ces derniers jours et il y a plein de mouvements qui se font dans ce
+
+6
+00:02:19,440 --> 00:02:23,960
+domaine là donc il n'y a pas que des news il n'y a pas que des news il y a aussi
+
+7
+00:02:23,960 --> 00:02:28,520
+des trucs conceptuels qui se passent dans l'intelligence artificielle et je suis
+
+8
+00:02:28,520 --> 00:02:32,880
+vraiment très excité parce qu'en fait je suis un petit peu je me suis un petit
+
+9
+00:02:32,880 --> 00:02:36,600
+peu remis dedans donc en ce moment j'utilise des outils j'essaye des choses
+
+10
+00:02:36,600 --> 00:02:40,280
+etc c'est extrêmement compliqué c'est très long aussi c'est beaucoup de temps
+
+11
+00:02:40,280 --> 00:02:44,480
+passé à découvrir et à essayer puis à faire de la merde aussi mais en tout cas
+
+12
+00:02:44,480 --> 00:02:49,840
+voilà donc au moins je peux un petit peu parler de ce qui se
+
+13
+00:02:49,840 --> 00:02:54,800
+passe et puis en même temps vous donner des choses, des noms d'outils à
+
+14
+00:02:54,800 --> 00:03:00,640
+essayer puis éventuellement voilà peut-être d'autres informations
+
+15
+00:03:00,640 --> 00:03:06,640
+intéressantes je sais pas si Geek ou Cfoo vont venir ce soir aucune idée
+
+16
+00:03:06,640 --> 00:03:12,680
+par contre voilà vous êtes libre de participer si vous voulez
+
+17
+00:03:12,680 --> 00:03:17,320
+si vous voulez poser des questions ou si vous voulez interagir avec moi n'hésitez
+
+18
+00:03:17,320 --> 00:03:22,200
+pas demandez moi le rôle de speaker c'est quasiment un open mic mais je vous
+
+19
+00:03:22,200 --> 00:03:26,480
+avouerai qu'il y a tellement de choses à dire que je pourrais faire entièrement
+
+20
+00:03:26,480 --> 00:03:30,680
+l'émission je pense que je pourrais parler pendant une heure par rapport à
+
+21
+00:03:30,680 --> 00:03:36,960
+ce qui s'est passé récemment. Moi je propose de commencer par les news parce
+
+22
+00:03:36,960 --> 00:03:40,360
+que bon alors ce qui s'est passé alors je sais pas si on en a vraiment parlé
+
+23
+00:03:40,360 --> 00:03:45,320
+ces derniers je sais que j'en ai parlé la semaine dernière je sais plus dans
+
+24
+00:03:45,320 --> 00:03:52,160
+quelles conditions c'était mais en tout cas il y a eu le fameux chat gpt 4.5 turbo
+
+25
+00:03:52,160 --> 00:03:58,320
+qui est sorti et avec ça toutes sortes de nouvelles choses qui sont sorties
+
+26
+00:03:58,320 --> 00:04:04,760
+du côté de OpenAI. Le truc le plus important qu'il faut noter pour
+
+27
+00:04:04,760 --> 00:04:09,920
+chat gpt 4.5 turbo et en fait toutes les nouveautés qui ont eu lieu chez OpenAI
+
+28
+00:04:09,920 --> 00:04:14,720
+c'est notamment la possibilité pour chat gpt de prendre des textes qui sont très longs
+
+29
+00:04:14,720 --> 00:04:20,640
+donc ça c'était pas possible avant. Moi je le faisais par exemple pour les temps je
+
+30
+00:04:20,640 --> 00:04:25,360
+fais des transcriptions d'épisodes tous les jours je prends l'enregistrement de l'épisode
+
+31
+00:04:25,360 --> 00:04:28,160
+et je le balance dans une intelligence artificielle pour faire une transcription
+
+32
+00:04:28,160 --> 00:04:33,200
+donc pour avoir une version texte de ce qui a été dit pendant l'émission.
+
+33
+00:04:33,200 --> 00:04:39,440
+Salut chat, il y a Malik qui dit salut chat, ben salut Malik, bienvenue à ceux qui sont là
+
+34
+00:04:39,440 --> 00:04:48,000
+évidemment. Oui donc je continue, j'avais besoin de ça pour la newsletter que je viens d'arrêter
+
+35
+00:04:48,000 --> 00:04:52,120
+d'ailleurs aujourd'hui mais j'en ai besoin de toute façon c'est un truc qu'il faut avoir
+
+36
+00:04:52,120 --> 00:04:58,400
+parce que ça peut servir plus tard. Par exemple j'ai comme projet d'éventuellement prendre toutes
+
+37
+00:04:58,400 --> 00:05:03,560
+ces transcriptions de les foutre justement de les faire bouffer à une intelligence artificielle
+
+38
+00:05:03,560 --> 00:05:08,640
+et de créer un genre de chat bot, vous pouvez demander tout et n'importe quoi de tout ce qui
+
+39
+00:05:08,640 --> 00:05:13,040
+a été dit depuis le début de l'émission et vous pouvez avoir une réponse. C'est pas mal j'aimerais bien faire ça un jour
+
+40
+00:05:13,040 --> 00:05:18,120
+mais en tout cas c'est utile. C'est aussi utile parce qu'à partir de ce texte là je peux avoir
+
+41
+00:05:18,120 --> 00:05:22,600
+des informations, je peux avoir des résumés, par exemple je peux demander à une intelligence, je peux
+
+42
+00:05:22,600 --> 00:05:27,040
+donner ce texte là à une intelligence artificielle et lui demander par exemple quels
+
+43
+00:05:27,040 --> 00:05:31,240
+ont été les outils ou les références qui ont été donnés dans cet épisode là et puis ça me
+
+44
+00:05:31,240 --> 00:05:37,360
+donne avec plus ou moins de succès ça me donne la réponse. Et donc ça je pouvais pas le faire
+
+45
+00:05:37,360 --> 00:05:47,000
+avec chatgpt à moins d'utiliser un script par exemple en Python j'interroge l'API de OpenAI
+
+46
+00:05:47,000 --> 00:05:51,240
+et puis je lui demande alors je lui envoie des petits morceaux et je lui dis attention je vais t'envoyer
+
+47
+00:05:51,240 --> 00:05:54,960
+des petits morceaux et puis tu me reconstitue tout ça donc il faut lui demander de faire un résumé de
+
+48
+00:05:54,960 --> 00:06:02,200
+chaque et tout c'est un petit peu le bordel. Et donc finalement j'ai fini par utiliser
+
+49
+00:06:02,280 --> 00:06:11,520
+Cloud en tropique. Cloud c'était sa particularité c'était pour apprendre des textes de grande
+
+50
+00:06:11,520 --> 00:06:15,320
+ampleur donc éventuellement des bouquins etc. J'utilise Cloud depuis un petit moment dès que
+
+51
+00:06:15,320 --> 00:06:20,480
+c'est sorti c'est ça que j'ai commencé à utiliser et maintenant que OpenAI fait la même chose que
+
+52
+00:06:20,480 --> 00:06:27,560
+Cloud c'est à dire prendre des textes longs je commence à utiliser OpenAI. Ceci dit pour avoir
+
+53
+00:06:27,560 --> 00:06:33,760
+testé les deux je peux dire que pour l'instant Cloud est quand même meilleur. J'ai encore beaucoup
+
+54
+00:06:33,760 --> 00:06:37,960
+de mal avec OpenAI je sais pas pourquoi j'ai l'impression qu'il me dit n'importe quoi en
+
+55
+00:06:37,960 --> 00:06:43,160
+permanence j'ai l'impression qu'il y a tellement de filtres en fait tellement de... il a tellement
+
+56
+00:06:43,160 --> 00:06:48,800
+été travaillé pour rester le plus politiquement correct possible je sais pas si je dis n'importe
+
+57
+00:06:48,800 --> 00:06:56,760
+quoi mais ça se voit ça se voit. Je sais pas les réponses que j'ai avec Cloud sont beaucoup
+
+58
+00:06:56,760 --> 00:07:01,960
+plus pertinentes et beaucoup plus franches beaucoup plus intelligentes je trouve qu'avec
+
+59
+00:07:01,960 --> 00:07:08,120
+OpenAI j'ai l'impression que avec ChatGPT j'ai toujours un feeling de... il essaye d'être le
+
+60
+00:07:08,120 --> 00:07:13,480
+plus poli possible machin et donc du coup j'ai des trucs un peu généraux une façon de parler qui
+
+61
+00:07:13,480 --> 00:07:18,080
+est bizarre une analyse qui n'est pas parfaitement pertinente il faut que je m'y reprenne à plusieurs
+
+62
+00:07:18,080 --> 00:07:22,880
+fois pour avoir... donc je suis pas encore à l'aise avec ChatGPT pour tout ce qui est transcription
+
+63
+00:07:22,880 --> 00:07:29,520
+d'épisode par contre donc ils ont sorti aussi un autre truc pendant au même moment qui s'appelle
+
+64
+00:07:29,520 --> 00:07:37,160
+les GPT donc en fait des GPT au pluriel et c'est la possibilité pour chacun de créer son propre
+
+65
+00:07:37,160 --> 00:07:44,360
+en gros son propre ChatGPT donc en fait c'est faire un ChatGPT avec un tuning je sais pas
+
+66
+00:07:44,360 --> 00:07:49,400
+comment on dit genre des spécifications qui font qu'il va accomplir des tâches plus spécifiques
+
+67
+00:07:49,560 --> 00:07:55,320
+que le modèle général qui est proposé par OpenAI donc là je suis en train de travailler dessus si
+
+68
+00:07:55,320 --> 00:07:58,560
+vous avez accès à ce truc là parce que je sais pas si tout le monde a accès je vous recommande
+
+69
+00:07:58,560 --> 00:08:03,840
+vraiment de vous y mettre parce que non seulement ça vous permet d'avoir un assistant personnel
+
+70
+00:08:03,840 --> 00:08:09,280
+personnalisé mais aussi ça vous fait bosser vos prompts moi là c'est ça que ça me fait faire en
+
+71
+00:08:09,280 --> 00:08:12,680
+fait en ce moment je bosse à fond là dessus et du coup je me suis aperçu qu'il fallait que je
+
+72
+00:08:12,680 --> 00:08:18,880
+fasse du travail d'ingénieur de prompt littéralement ça m'a fait revoir toute ma façon d'aborder les
+
+73
+00:08:18,880 --> 00:08:25,760
+prompts tu peux pas créer un GPT en disant ouais alors fais moi ça ça fait de la merde et donc en
+
+74
+00:08:25,760 --> 00:08:30,000
+fait t'es obligé de faire un document où tu expliques exactement ce que tu veux avoir avec
+
+75
+00:08:30,000 --> 00:08:37,200
+comme un document professionnel en fait où tu définis le fond et la forme de la réponse que
+
+76
+00:08:37,200 --> 00:08:45,840
+tu souhaites obtenir etc donc c'est il faut être super rigoureux et donc c'est sa forme à j'imagine
+
+77
+00:08:45,840 --> 00:08:50,000
+au métier de prompteur en fait parce que c'est vraiment ça c'est de ça qu'il s'agit dont il
+
+78
+00:08:50,000 --> 00:08:59,280
+s'agit et les gpt peuvent être mis en vente sur sur le store que lancé les mecs de open
+
+79
+00:08:59,280 --> 00:09:03,760
+ai donc il va y avoir un store de l'intelligence artificielle comme il y a un store pour les
+
+80
+00:09:03,760 --> 00:09:10,160
+applications standard sur sur mac os android etc bah là il ya un site il ya un store maintenant
+
+81
+00:09:10,160 --> 00:09:15,520
+de open ai pour les applications d'intelligence artificielle et donc si vous vous entraînez si
+
+82
+00:09:15,680 --> 00:09:20,400
+si le sujet vous intéresse que vous voulez peut-être un jour je sais pas percer dans le
+
+83
+00:09:20,400 --> 00:09:24,560
+domaine que vous voulez avoir votre application d'intelligence artificielle bah je pense que c'est
+
+84
+00:09:24,560 --> 00:09:32,240
+un bon truc auquel s'attaquer donc je vous recommande largement ce truc là là j'ai
+
+85
+00:09:32,240 --> 00:09:37,840
+travaillé donc j'ai commencé ma propre app et c'est une galère c'est pour ça que je dis il faut
+
+86
+00:09:37,840 --> 00:09:41,600
+que je suis en train de travailler à un truc vraiment structuré pour pouvoir justement faire
+
+87
+00:09:41,920 --> 00:09:48,480
+une application de qui qui va en fait faire des résumés d'épisodes voilà avec pas juste des
+
+88
+00:09:48,480 --> 00:09:53,680
+résumés résumés mais un résumé avec une table des matières avec des timestamps etc il ya tout un
+
+89
+00:09:54,800 --> 00:10:04,880
+tout un délire et d'ailleurs pour les timestamps donc j'utilise en fait pour ma transcription
+
+90
+00:10:04,880 --> 00:10:09,280
+j'utilise whisper donc tout le monde utilise whisper enfin tout le monde c'est vraiment le
+
+91
+00:10:09,280 --> 00:10:16,560
+truc le main le main modèle pour pour faire pour passer de l'audio vers vers du texte et
+
+92
+00:10:16,560 --> 00:10:22,480
+j'utilise whisper bien standard le modèle large v2 qui permet en fait d'avoir une transcription
+
+93
+00:10:23,680 --> 00:10:30,560
+sur le modèle sous-titre donc en SRT et donc il met les timestamps par section et en gros voilà
+
+94
+00:10:30,560 --> 00:10:35,600
+il est très très efficace en termes de la transcription elle est quasiment parfaite et
+
+95
+00:10:35,600 --> 00:10:39,200
+maintenant il ya plein de modèles qui sont sortis ça s'affuse devant dans tous les sens
+
+96
+00:10:39,920 --> 00:10:44,560
+alors j'ai oublié j'ai oublié les noms là mais il y a toutes sortes de modèles qui sont meilleurs
+
+97
+00:10:44,560 --> 00:10:49,520
+que le que celui que j'utilise mais qui m'offre pas la possibilité d'avoir les timestamps comme
+
+98
+00:10:49,520 --> 00:10:57,680
+je veux ou en français comme je veux etc et là il ya des insanely fast il y en a un modèle qui
+
+99
+00:10:57,680 --> 00:11:02,720
+vient de sortir ça s'appelle insanely fast whisper la qualité est quasiment pareil que whisper
+
+100
+00:11:02,800 --> 00:11:07,360
+normal sauf que ça vous fait au lieu d'avoir une transcription en 30 secondes ça fait une
+
+101
+00:11:07,360 --> 00:11:14,800
+transcription en 30 minutes ça vous fait une transcription en genre je sais plus là une
+
+102
+00:11:14,800 --> 00:11:20,800
+minute c'est super rapide c'est un truc de fou donc voilà il ya de plus en plus de modèles
+
+103
+00:11:20,800 --> 00:11:26,560
+qui sortent et en fait ça se joue beaucoup sur la rapidité maintenant plus que sur la qualité
+
+104
+00:11:26,560 --> 00:11:32,400
+en fait ce que je vous dis là c'est ces deux trois dernières semaines c'est vraiment ça le trend
+
+105
+00:11:33,520 --> 00:11:39,120
+et ça me permet de faire un verre le sujet quasiment principal de cette émission en fait
+
+106
+00:11:40,320 --> 00:11:48,560
+c'est les lcm parce que c'est pareil pour les images en fait pour les images on a on a eu bon
+
+107
+00:11:48,560 --> 00:11:55,360
+vous connaissez midi journée puis ensuite aussi vous connaissez aussi le stable diffusion et puis
+
+108
+00:11:55,360 --> 00:11:59,360
+bon il y a on a beaucoup de parlé de dali 3 qui est maintenant intégré dans chaque gpt
+
+109
+00:11:59,360 --> 00:12:05,840
+et puis dans d'autres trucs vous avez ça sur bing et tout enfin chaque gp3 avec dali 3 vous pouvez
+
+110
+00:12:05,840 --> 00:12:10,880
+avec le nouveau chat gpt vous pouvez interagir avec dali 3 donc ça c'est super cool aussi
+
+111
+00:12:10,880 --> 00:12:17,280
+la dernière version de chat gpt il ya tout intégré dedans il ya plus les trucs comme avant genre
+
+112
+00:12:17,280 --> 00:12:21,800
+quand l'interprèteur à choisir ou bien vous choisissez d'aller sur le web ou bien vous choisissez
+
+113
+00:12:21,800 --> 00:12:27,080
+d'utiliser dali 3 tout est tout intégré dedans donc vous pouvez demander un truc à chat gpt et
+
+114
+00:12:27,080 --> 00:12:31,360
+puis il va chercher sur le web la réponse il le met en images etc donc c'est vraiment cool bref
+
+115
+00:12:31,360 --> 00:12:40,160
+maintenant il ya des nouveaux donc pour générer des images il ya des nouveaux modèles qui existent
+
+116
+00:12:40,160 --> 00:12:45,320
+et il ya un modèle qui s'appelle alors je sais pas si on dit modèle je suis pas un expert méga
+
+117
+00:12:45,320 --> 00:12:50,760
+expert dans le domaine je vous avouerai mais qui s'appelle lcm qui fait qui en fait qui fait qui
+
+118
+00:12:50,760 --> 00:13:02,480
+est la suite de ce qu'on appelait le je dis pas de connerie ldm alors j'essaye je vais essayer de
+
+119
+00:13:02,480 --> 00:13:09,800
+pas dire n'importe quoi alors les diffusions modèles c'est le truc qu'on connaissait avant
+
+120
+00:13:09,800 --> 00:13:15,920
+ça veut dire alors ldm c'est je pensais que ça voulait dire large diffusion modèle mais ça faisait
+
+121
+00:13:16,240 --> 00:13:24,840
+pas dire ça en fait ldm ça veut dire ça veut dire latente diffusion modèle mais le problème des
+
+122
+00:13:24,840 --> 00:13:28,960
+latentes diffusion modèle c'était que c'est long quand vous demandez une image un de ces modèles
+
+123
+00:13:28,960 --> 00:13:36,280
+là bas ça prend ça prend un petit peu de temps voire éventuellement quelques minutes et donc ce
+
+124
+00:13:36,280 --> 00:13:40,640
+que ce qu'essaye de faire principalement tout tout le monde un peu dans l'industrie depuis quelques
+
+125
+00:13:40,640 --> 00:13:46,840
+temps depuis quelques semaines en tout cas au moins c'est c'est de d'arriver à atteindre le temps
+
+126
+00:13:46,840 --> 00:13:52,080
+réel en fait donc on avait parlé de ça avec l'audio ou par exemple tout ce qui est traduction
+
+127
+00:13:52,080 --> 00:13:57,480
+il ya le temps réel est pas encore atteint il ya toujours même les trucs de traduction en direct
+
+128
+00:13:57,480 --> 00:14:02,000
+c'est pas vraiment direct il reste il ya un petit quelques secondes de décalage etc dans tout ce
+
+129
+00:14:02,000 --> 00:14:09,040
+qui est texte ou images c'est la même chose on essaye vraiment d'atteindre le temps réel et ce
+
+130
+00:14:09,040 --> 00:14:15,560
+temps réel il est atteint avec donc les nouveaux modèles les lcm qui ça veut dire l'atteinte
+
+131
+00:14:15,560 --> 00:14:20,680
+consistancy modèle et en fait ça reprend un peu les mêmes techniques sauf que alors je sais pas
+
+132
+00:14:20,680 --> 00:14:27,160
+exactement quel genre d'étape dont il s'agit mais au lieu de faire 100 étapes pour arriver
+
+133
+00:14:27,160 --> 00:14:33,640
+du pour aller du texte à l'image il faut il en faut entre une et quatre et donc du coup ça va
+
+134
+00:14:33,640 --> 00:14:38,800
+beaucoup plus rapidement à quasiment la même qualité qu'avec les modèles d'avant mais en temps
+
+135
+00:14:38,800 --> 00:14:44,040
+réel et donc maintenant il ya des outils qui sont en train de se développer qui sont en train de
+
+136
+00:14:44,040 --> 00:14:49,800
+faire fureur j'en ai notamment trouvé deux il y en a un vous pouvez accéder gratuitement et l'autre
+
+137
+00:14:49,800 --> 00:14:54,840
+c'est sur liste d'attente mais si vous payez vous pouvez accéder tout de suite aussi c'est alors
+
+138
+00:14:54,840 --> 00:15:01,480
+attendez que je vous dis ça que je retrouve un peu les noms parce que parce que je me suis perdu
+
+139
+00:15:01,480 --> 00:15:07,960
+en route c'est vrai que moi je suis rien que j'ai payé je vous en ferai une démo la semaine prochaine
+
+140
+00:15:07,960 --> 00:15:16,280
+parce que là je viens juste de m'inscrire donc voilà c'est créa.ai donc krea.ai
+
+141
+00:15:16,280 --> 00:15:22,520
+si vous cherchez ce truc là sur twitter ou sur youtube et tout vous allez voir des démos d'un
+
+142
+00:15:22,520 --> 00:15:26,880
+truc qui est en train d'être fait en fait vous faites un dessin et ça vous fait en temps réel
+
+143
+00:15:26,880 --> 00:15:31,080
+une interprétation par l'IA puis vous pouvez déplacer les formes et puis ça réinterprète
+
+144
+00:15:31,080 --> 00:15:37,720
+en temps réel en fonction du prompt que vous avez écrit ça vous fait ça interprète votre prompt
+
+145
+00:15:37,720 --> 00:15:42,520
+en fonction du prompt et du dessin que vous êtes en train de faire
+
+146
+00:15:42,520 --> 00:15:47,960
+et comme vous pouvez déplacer les formes de votre dessin les shapes en fait vous faites un rond
+
+147
+00:15:47,960 --> 00:15:53,680
+vous faites un trait etc ça associe ce que vous êtes en train de dessiner avec le prompt
+
+148
+00:15:53,680 --> 00:15:58,800
+et ça vous produit une image et si vous déplacez par exemple le trait ou le rond que vous venez de faire
+
+149
+00:15:59,440 --> 00:16:04,080
+au fur et à mesure que vous déplacez avec votre souris ça réinterprète l'image en temps réel
+
+150
+00:16:04,080 --> 00:16:10,440
+et ça c'est un truc de fou en fait c'est complètement fou parce que déjà non seulement
+
+151
+00:16:10,440 --> 00:16:13,880
+c'est incroyable d'avoir un truc qui se fait en temps réel mais en plus de ça ça laisse des
+
+152
+00:16:13,880 --> 00:16:19,440
+possibilités pour toutes sortes de... tout et n'importe quoi en termes de projets artistiques
+
+153
+00:16:19,440 --> 00:16:27,280
+de projets non artistiques aussi voilà donc je vous recommande si ça vous intéresse de vous
+
+154
+00:16:27,280 --> 00:16:31,920
+pencher là dessus parce que c'est vraiment nouveau c'est en train d'envahir littéralement
+
+155
+00:16:31,920 --> 00:16:39,480
+l'écosystème de création avec intelligence artificielle et c'est ça en fait qui se joue
+
+156
+00:16:39,480 --> 00:16:50,120
+en temps réel. Bonjour d'ailleurs à tous ceux qui sont arrivés si vous voulez participer n'hésitez
+
+157
+00:16:50,120 --> 00:16:55,000
+pas à me dire vous me demandez le rôle de speaker je vous le donne je vais sûrement être fatigué au
+
+158
+00:16:55,000 --> 00:17:00,080
+bout d'un moment en fait parce que c'est rare que je parle entièrement tout seul pendant toute
+
+159
+00:17:00,080 --> 00:17:07,840
+une émission. Alors donc IKREA c'est le premier truc que c'est le truc que je viens de vous
+
+160
+00:17:07,840 --> 00:17:12,160
+donner mais il y en a un autre qui est accessible gratuitement donc ça peut être pas mal pour
+
+161
+00:17:12,160 --> 00:17:17,480
+pour regarder un petit peu comment il s'appelait putain je vais trouver ça je vais trouver ça
+
+162
+00:17:17,600 --> 00:17:27,920
+alors je vais vous donner en attendant que je trouve je vais je vais vous mettre en commentaire
+
+163
+00:17:27,920 --> 00:17:36,640
+je vais vous mettre en commentaire un exemple voilà
+
+164
+00:17:36,640 --> 00:17:51,000
+voilà je vous ai mis un exemple en commentaire et je vais le mettre aussi en pin
+
+165
+00:17:51,000 --> 00:17:53,120
+ça va être plus simple
+
+166
+00:17:53,120 --> 00:18:04,760
+voilà donc je vous ai mis en pin un exemple
+
+167
+00:18:06,640 --> 00:18:17,520
+et ça vous donne une idée en fait de ce qu'on peut faire avec les nouveaux modèles de texte ou images AI
+
+168
+00:18:17,520 --> 00:18:18,720
+Salut Riku comment ça va?
+
+169
+00:18:18,720 --> 00:18:20,720
+Salut Chad salut tout le monde
+
+170
+00:18:20,720 --> 00:18:26,320
+t'avais bien expliqué parce que tu vois de ce que tu viens de montrer là que tu as mis en poste là
+
+171
+00:18:26,320 --> 00:18:31,680
+tu l'as suffisamment bien expliqué pour qu'on comprenne et effectivement c'est plutôt pas mal
+
+172
+00:18:31,680 --> 00:18:36,800
+c'est vrai que c'est impressionnant le fait que ça s'adapte pratiquement en temps réel
+
+173
+00:18:36,800 --> 00:18:45,880
+voilà mais de toute manière on en revient toujours à la même chose c'est que petit à petit avec
+
+174
+00:18:45,880 --> 00:18:54,360
+Qualcomm avec les fabricants de puces ils vont tous en venir à créer des puces qui intègrent
+
+175
+00:18:54,360 --> 00:18:58,800
+enfin c'est déjà le cas de l'intelligence artificielle avec du neural engine et compagnie
+
+176
+00:18:58,800 --> 00:19:05,680
+et on va avoir ça en temps réel sur les téléphones portables et effectivement le défi
+
+177
+00:19:05,680 --> 00:19:10,720
+le défi qui se présente à nous et qui se présente aux industriels c'est effectivement de nous proposer
+
+178
+00:19:10,720 --> 00:19:16,760
+des assistants virtuels qui puissent répondre sans temps de latence parce que même le problème
+
+179
+00:19:16,760 --> 00:19:23,440
+avec joie siry avec alexa etc qui sont en plus du bas de gamme de chez bas de gamme c'est vrai qu'il
+
+180
+00:19:23,440 --> 00:19:28,920
+y a un temps entre le moment où on parle et le moment où on a la réponse mais si une bonne
+
+181
+00:19:28,920 --> 00:19:33,040
+partie se fait en local ça serait pas mal et tu vois par rapport à ce que tu disais j'ai fait
+
+182
+00:19:33,040 --> 00:19:39,720
+une petite recherche là wikipédia sur un article de numérama je viens de chercher le téléchargement
+
+183
+00:19:39,720 --> 00:19:48,560
+de wikipédia pesait alors je sais pas de combien date l'article 31,8 giga octet et 12,6 giga octet
+
+184
+00:19:48,560 --> 00:19:54,680
+ce qui sous-entend qu'il est tout à fait possible de mettre déjà d'intégrer une encyclopédie avec
+
+185
+00:19:54,680 --> 00:19:59,680
+une base de connaissances très très large dans un téléphone portable ou un ordinateur ce qui permet
+
+186
+00:19:59,680 --> 00:20:05,280
+à une intelligence artificielle qui sait s'exprimer d'aller chercher de puiser déjà de l'information
+
+187
+00:20:05,280 --> 00:20:11,800
+et de nous répondre donc c'est dans le domaine du plausible déjà donc on verra ce que ça donnera
+
+188
+00:20:11,800 --> 00:20:19,920
+complètement ça c'est tout ce qui est l'arrivée du temps réel en fait surtout dans le traitement
+
+189
+00:20:19,920 --> 00:20:25,440
+d'images c'est ça va tout révolutionner c'est pour ça que c'est c'est pour ça que c'est important
+
+190
+00:20:25,440 --> 00:20:33,440
+de marquer le le marquer le moment parce qu'en fait le nombre d'applications est incroyable
+
+191
+00:20:33,440 --> 00:20:37,480
+là j'ai un autre truc c'est ça j'avais un peu perdu de vue les différents exemples que je voulais
+
+192
+00:20:37,480 --> 00:20:42,800
+donner mais là où c'est bon d'avoir du temps réel c'est par exemple pour les applications
+
+193
+00:20:42,800 --> 00:20:47,360
+d'édition d'images comme par exemple photoshop si vous faites si vous utilisez photoshop ça
+
+194
+00:20:47,360 --> 00:20:59,640
+utilise de l'AI et que ok c'est cool d'avoir de l'IA dans photoshop donc tu prends ton cercle un
+
+195
+00:20:59,640 --> 00:21:04,800
+truc tu écris je veux une maison puis t'attends quoi donc au début c'est marrant parce que tu
+
+196
+00:21:04,800 --> 00:21:08,000
+t'en fous parce que c'est nouveau tu dis oh putain c'est quand même incroyable mais comme il ya
+
+197
+00:21:08,000 --> 00:21:11,440
+tous les trucs qui se développent autour qui vont qui vont super vite et tout à toutes sortes
+
+198
+00:21:11,440 --> 00:21:16,520
+d'outils qui sont plus performants et tout ça va une vitesse incroyable déjà t'en as marre en fait
+
+199
+00:21:16,520 --> 00:21:20,520
+d'attendre tu t'entends ton truc t'écris ton prompt en photoshop t'attends et puis tu dis c'est
+
+200
+00:21:20,520 --> 00:21:27,040
+pas normal que j'attends donc en fait si tu veux les mecs les concurrents attendent pas ici une
+
+201
+00:21:27,040 --> 00:21:32,720
+course effrénée vers des meilleurs résultats vers des résultats plus rapide donc il ya des
+
+202
+00:21:32,720 --> 00:21:37,040
+mecs qui sortent des outils de plus en plus performants qui permettent de faire de l'édition
+
+203
+00:21:37,040 --> 00:21:44,360
+d'image avec incorporation de l'IA voire même en entièrement basé sur l'IA donc évidemment en temps
+
+204
+00:21:44,360 --> 00:21:50,640
+réel et donc je m'attends tu connais runway donc eux ils ont sorti des petits outils des mini
+
+205
+00:21:50,640 --> 00:21:56,400
+applications tu vois des trucs dédiés tu peux faire du texte ou images du image sous images
+
+206
+00:21:56,520 --> 00:22:03,400
+du image tout vidéo du texte ou vidéo etc et ils ont sorti un outil juste là récemment où tu peux
+
+207
+00:22:03,400 --> 00:22:12,480
+pareil tu prends une tu prends une image tu mets avec un brush tu sélectes tu brushes la portion
+
+208
+00:22:12,480 --> 00:22:20,400
+de l'image que tu veux que tu veux comment dire animer et ça te fait ça t'anime l'image cette
+
+209
+00:22:20,400 --> 00:22:26,880
+portion d'image avec par l'intelligence artificielle immédiatement et maintenant il
+
+210
+00:22:26,880 --> 00:22:31,800
+ya de plus en plus de projets qui sortent justement c'est des éditeurs d'images et en
+
+211
+00:22:31,800 --> 00:22:36,480
+fait ces gens là vont concurrencer à un moment donné photoshop directement c'est il ya des
+
+212
+00:22:36,480 --> 00:22:41,920
+nouveaux éditeurs et on s'en va vers une nouvelle génération d'éditeurs d'images de de très très
+
+213
+00:22:41,920 --> 00:22:50,760
+haute qualité et avec des fonctionnalités genre juste incroyable et donc créa c'est un d'entre
+
+214
+00:22:50,760 --> 00:22:57,880
+eux il y en a un autre qui est sorti avant je crois qui est aussi un éditeur d'images justement en
+
+215
+00:22:57,880 --> 00:23:03,240
+accès libre donc vous allez pouvoir tester qui s'appelle je vais vous le donner il s'appelle
+
+216
+00:23:03,240 --> 00:23:15,960
+qui s'appelle je me perds voilà qui s'appelle la c'est non facette par bon face et donc fa c'est
+
+217
+00:23:15,960 --> 00:23:25,120
+point a i donc vous allez sur voilà face et point et aïe et puis alors on sait ça les deux que soit
+
+218
+00:23:25,120 --> 00:23:30,360
+facet ou facette j'imagine qu'on dit ou créa il fonctionne vraiment de la même manière on
+
+219
+00:23:30,360 --> 00:23:34,560
+dirait qu'ils ont été faits de la même manière c'est à dire que c'est vous avez un menu vous
+
+220
+00:23:34,560 --> 00:23:43,480
+avez une sorte vous avez un espèce de un peu comme les nouveaux logiciels genre quand on va et tout
+
+221
+00:23:43,480 --> 00:23:50,840
+ça là genre vous avez une espèce de bureau avec quadrille avec des points une espèce de grille
+
+222
+00:23:50,840 --> 00:23:56,600
+et puis donc à gauche vous vous tapez votre prompt vous créez des images et puis vous déplacez vous
+
+223
+00:23:56,600 --> 00:24:03,240
+glissez déposer les images sur votre espace de travail et ensuite vous pouvez faire des choses
+
+224
+00:24:03,240 --> 00:24:08,360
+vous pouvez retransformer ces images vous pouvez enlever des choses rajouter des choses les mettre
+
+225
+00:24:08,360 --> 00:24:14,800
+ensemble vous pouvez faire faire des montages et tout et c'est là c'est juste le tout début c'est
+
+226
+00:24:14,800 --> 00:24:22,440
+à dire que les outils que comme facette ou créa bon bah ils vont ils posent les jalons en fait du
+
+227
+00:24:22,440 --> 00:24:27,480
+truc mais ils vont se développer et puis ça va devenir des vrais des vrais photoshop quoi pour
+
+228
+00:24:27,480 --> 00:24:31,880
+l'instant c'est dans le c'est dans le brosseur vous n'avez pas besoin d'installer quoi que ce soit
+
+229
+00:24:31,880 --> 00:24:38,520
+c'est direct je sais pas si après ça va être ça va devenir des applications ou quoi mais je suppose
+
+230
+00:24:38,520 --> 00:24:42,360
+qu'il n'y a même pas besoin parce que ça c'est c'est assez rapide et tout alors tout n'est pas
+
+231
+00:24:42,360 --> 00:24:46,720
+à temps réel par contre il ya encore des trucs qui demandent du temps de processing et tout surtout
+
+232
+00:24:46,720 --> 00:24:52,040
+qu'en plus surtout pour la version gratuite de facette j'imagine que il y a cette idée de
+
+233
+00:24:52,200 --> 00:24:58,600
+comme c'est gratuit tu attends quoi tant que tout le monde qui utilise ça utilise la
+
+234
+00:24:58,600 --> 00:25:06,320
+l'art des ressources derrière donc c'est pas la fête non plus forcément là je viens de regarder
+
+235
+00:25:06,320 --> 00:25:13,200
+donc il faut se connecter avec des comptes etc donc il ya pas de souci donc je peux pas essayer tout
+
+236
+00:25:13,200 --> 00:25:18,400
+de suite en temps réel mais voilà les deux interfaces en tout cas de présentation se ressemble
+
+237
+00:25:18,400 --> 00:25:26,280
+un petit peu sur les sites enfin tout à l'heure de prime abord la première page et oui de toute façon
+
+238
+00:25:26,280 --> 00:25:30,360
+c'est le début en tout façon après la concurrence qui va se s'immiscer dedans et c'est vrai que c'est
+
+239
+00:25:30,360 --> 00:25:34,480
+génial que ça puisse être parce que moi en plus j'ai un ordinateur c'est le bas de gamme de chez
+
+240
+00:25:34,480 --> 00:25:43,280
+bagam c'est une catastrophe donc c'est bien que ce soit des serveurs déportés quoi voilà je suis
+
+241
+00:25:43,280 --> 00:25:49,280
+pas pour pour me resituer à la base je voulais faire un métier d'infographie et c'est pas du tout
+
+242
+00:25:49,280 --> 00:25:56,560
+là donc j'ai fait ma voix mais c'est vrai que prendre le temps de s'immerger dans tous ces
+
+243
+00:25:56,560 --> 00:26:02,840
+outils là c'est c'est génial quoi c'est génial après le truc que l'intelligence artificielle
+
+244
+00:26:02,840 --> 00:26:07,200
+n'a pas encore inventé c'est de nous donner le la motivation pour pour s'y mettre quoi parce que
+
+245
+00:26:07,200 --> 00:26:14,200
+des fois des fois je suis pas trop dedans et je fais d'autres choses mais c'est super intéressant
+
+246
+00:26:14,200 --> 00:26:20,120
+en tout cas ouais non mais c'est sûr que c'est pas évident avec tout ce qui qui arrive de nouveau
+
+247
+00:26:20,120 --> 00:26:25,880
+en permanence tu as envie juste de laisser faire et de dire genre à un moment donné les gens vont
+
+248
+00:26:25,880 --> 00:26:29,960
+choisir pour moi il y a eu va y avoir une hype sur un truc et je vais y mettre quand tout le monde
+
+249
+00:26:29,960 --> 00:26:33,560
+utilisera ce truc là en plus comme ça comme ça c'est plus pratique il y aura plein de tutoriels
+
+250
+00:26:34,000 --> 00:26:40,520
+c'est complètement logique de fonctionner comme ça moi je suis pas totalement sur ce mood là mais
+
+251
+00:26:40,520 --> 00:26:46,920
+vu que j'utilise de plus en plus l'IA pour essayer de gagner du temps et j'y arrive pas trop pour
+
+252
+00:26:46,920 --> 00:26:56,960
+l'instant je t'avoue que je gâche du temps. Tant t'en essaye des choses quoi. C'est tenté de laisser le bébé s'étoffer et que d'autres gens créent des outils
+
+253
+00:26:56,960 --> 00:27:02,440
+ou les perfectionnent mais c'est comme pour l'NFT c'est premier arrivé premier servi donc
+
+254
+00:27:02,600 --> 00:27:12,000
+ceux qui réussissent à tirer profit de l'outil et à être les premiers à faire des choses ils auront
+
+255
+00:27:12,000 --> 00:27:18,200
+un temps d'avance. C'est pour ça que je recommande à tout le monde de tester
+
+256
+00:27:18,200 --> 00:27:24,920
+si vous avez accès au gpt ou pluriel de chaque gpt pour créer votre propre assistant et donc
+
+257
+00:27:25,040 --> 00:27:30,880
+éventuellement le revendre sur le store je vous recommande vraiment de vous y mettre
+
+258
+00:27:30,880 --> 00:27:39,200
+juste pour rentrer un petit peu dans ce monde là et voir de faire partie des gens
+
+259
+00:27:39,200 --> 00:27:48,600
+qui vont peut-être tirer profit de cette révolution.
+
+260
+00:27:48,600 --> 00:27:54,480
+C'est ça, je voulais dire que de toute façon il y a plein de...
+
+261
+00:27:54,480 --> 00:27:59,120
+c'est que le début en fait. On n'arrête pas de le dire mais c'est vraiment ça.
+
+262
+00:27:59,120 --> 00:28:06,360
+Il va probablement y avoir d'autres tentatives de store par d'autres compagnies, il va y avoir
+
+263
+00:28:06,360 --> 00:28:12,960
+toutes sortes d'initiatives de ce type là et voilà puis ça permet de s'entraîner à faire des
+
+264
+00:28:12,960 --> 00:28:18,160
+prompts. C'est ça qui d'après moi est le plus important parce que je me suis rendu compte en
+
+265
+00:28:18,200 --> 00:28:21,880
+essayant d'avoir mon propre gpt en fait je me suis dit mais je commence à discuter avec lui puis il
+
+266
+00:28:21,880 --> 00:28:26,920
+me faisait les mêmes trucs que dans mes projets artistiques où il avance d'un côté mais il
+
+267
+00:28:26,920 --> 00:28:32,320
+recule d'un autre, il a bon pour le truc le nouveau truc que je viens de lui dire mais il me refait
+
+268
+00:28:32,320 --> 00:28:38,840
+un nouveau rendu avec des trucs d'avant où il fait n'importe quoi et tout et je me suis dit
+
+269
+00:28:38,840 --> 00:28:43,320
+putain ça recommence et tout donc en fait je me suis dit ok je vais faire un prompt depuis le
+
+270
+00:28:43,320 --> 00:28:47,480
+départ qui est genre correct donc il faut vraiment que je structure et tout et du coup je me suis
+
+271
+00:28:47,480 --> 00:28:52,240
+rendu compte que c'est vraiment tu fais un document comme un ingénieur tu fais ou comme un
+
+272
+00:28:52,240 --> 00:28:56,880
+créateur artistique je sais pas quand tu fais vraiment un truc où tu expliques genre exactement
+
+273
+00:28:56,880 --> 00:29:04,080
+genre qu'est ce que tu veux qu'ils disent dans quelle limite genre de quelle limite de la forme
+
+274
+00:29:04,080 --> 00:29:09,200
+du fond tu lui donnes des exemples de trucs que tu as déjà fait ou que tu as vu ailleurs que tu
+
+275
+00:29:09,200 --> 00:29:14,080
+voudrais qu'il copie etc tu fais vraiment un full document même si pour ce qui même s'il doit
+
+276
+00:29:14,080 --> 00:29:20,600
+produire un truc qui fait trois phrases il faut que ce soit genre hyper hyper précis délimité
+
+277
+00:29:20,600 --> 00:29:29,840
+etc et c'est ça et comme ça il te... Comment dire ça va devenir un métier à part entière et que
+
+278
+00:29:29,840 --> 00:29:33,760
+c'est un véritable brainstorming de pouvoir créer des prompts qui soient cohérents qui
+
+279
+00:29:33,760 --> 00:29:38,480
+soient intelligibles et qui puissent être comme des programmes informatiques qui puissent être
+
+280
+00:29:38,480 --> 00:29:46,480
+bien compris de l'intelligence artificielle et voilà donc le truc c'est que moi aussi là sur
+
+281
+00:29:46,480 --> 00:29:56,080
+DAL-EI3 je voulais faire des petites choses et je me suis rendu compte qu'en fait autant avant sur
+
+282
+00:29:56,080 --> 00:29:59,880
+une autre intelligence artificielle générative d'image j'avais réussi à obtenir à peu près ce
+
+283
+00:29:59,880 --> 00:30:07,400
+que je voulais là j'ai eu beau mettre toute toute mon énergie dans DAL-EI3 il y a eu des
+
+284
+00:30:07,400 --> 00:30:14,960
+fois où auparavant j'avais réussi à en tirer la... à en faire sortir un peu les tripes mais là
+
+285
+00:30:14,960 --> 00:30:20,600
+j'arrivais pas du tout à obtenir ce que je voulais. C'était confus ce que je racontais je sentais que
+
+286
+00:30:20,600 --> 00:30:28,440
+j'en disais trop, les résultats n'étaient pas du tout à la hauteur de mes espérances et non
+
+287
+00:30:28,440 --> 00:30:35,520
+non mais quand on dit que ça risque d'être un des postes à pourvoir dans des entreprises d'être
+
+288
+00:30:35,640 --> 00:30:42,360
+ingénieur de prompte là j'étais à la poste là il y a un fossé entre des gens qui travaillent à
+
+289
+00:30:42,360 --> 00:30:49,360
+la poche désolé de dire mais qui malheureusement j'avais du mal à me faire comprendre d'eux et
+
+290
+00:30:49,360 --> 00:30:52,480
+t'as des gens qui travaillent effectivement dans l'intelligence artificielle qui sont à des années
+
+291
+00:30:52,480 --> 00:31:02,000
+lumières de ces corps de métier là. Il y a vraiment les métiers de demain c'est ça va nécessiter des
+
+292
+00:31:02,200 --> 00:31:08,000
+ressources intellectuelles voilà qu'il faut pas croire que ça va être si facile que ça en fait
+
+293
+00:31:08,000 --> 00:31:15,920
+parce que c'est un vrai ça va être un vrai métier et ça l'est déjà en fait et puis c'est ça qui fait
+
+294
+00:31:15,920 --> 00:31:21,720
+la différence il ya des outils en fait qui existent maintenant et qui les mecs se font des thunes folles
+
+295
+00:31:21,720 --> 00:31:29,600
+alors qu'en fait la tech qui existe derrière c'est mieux que ce qui existe déjà avec chaque gpt mais
+
+296
+00:31:29,600 --> 00:31:33,720
+c'est juste c'est le prompt quoi j'avais donné un exemple à un moment donné quand je cherchais
+
+297
+00:31:33,720 --> 00:31:42,920
+comme mon truc pour faire de la... justement je cherchais à faire des... d'utiliser mes
+
+298
+00:31:42,920 --> 00:31:47,160
+transcriptions pour faire des résumés d'épisodes et j'avais trouvé à un moment donné un outil
+
+299
+00:31:47,160 --> 00:31:56,920
+en fait non c'est ça c'est pas ça mon truc pour faire de... pour passer de l'audio à l'écrit pour
+
+300
+00:31:56,920 --> 00:32:01,920
+faire ma transcription ne fonctionnait plus et j'avais pas encore de plateforme j'avais pas encore
+
+301
+00:32:01,920 --> 00:32:05,880
+découvert la plateforme avec Whisper dessus j'avais pas fait assez de recherches tout ça donc j'ai
+
+302
+00:32:05,880 --> 00:32:10,480
+essayé toutes sortes d'outils qui étaient des outils commerciaux plus ou moins cher et à un moment
+
+303
+00:32:10,480 --> 00:32:14,960
+donné je suis tombé sur un truc je sais plus le nom c'était un truc assez évolué donc ça faisait
+
+304
+00:32:14,960 --> 00:32:18,800
+de la transcription donc ça utilisait forcément un truc comme Whisper qui était... ça pouvait pas
+
+305
+00:32:18,800 --> 00:32:23,520
+beaucoup être beaucoup plus évolué que Whisper et je ne saurais plus très bien c'est très possible
+
+306
+00:32:23,520 --> 00:32:28,520
+qu'ils utilisent de toute façon Whisper mais sauf que quand je soumettais l'audio au lieu d'avoir
+
+307
+00:32:28,520 --> 00:32:38,000
+le texte brut j'avais un document un full document avec plusieurs propositions de résumés avec plusieurs
+
+308
+00:32:38,000 --> 00:32:42,480
+tailles de texte avec une table des matières plusieurs propositions de table des matières
+
+309
+00:32:42,480 --> 00:32:48,240
+d'ailleurs basées plutôt sur les thèmes basées plutôt sur des façons de faire les titres et tout
+
+310
+00:32:48,240 --> 00:32:53,320
+et c'était hyper pro hyper hyper bien j'avais juste à choisir le truc qui me plaisait le plus
+
+311
+00:32:53,320 --> 00:32:59,000
+qui était plus pertinent et c'était bien tu avais les timestamps bien comme il fallait de ça et tout
+
+312
+00:32:59,000 --> 00:33:08,040
+ça c'était juste du d'après moi ça c'était pas mal du prompt engineering et ils vendaient leur
+
+313
+00:33:08,040 --> 00:33:14,080
+solution 150 dollars par mois comme c'est dinguerie quoi et c'est sûr qu'il y en a qui payent parce
+
+314
+00:33:14,080 --> 00:33:19,760
+que genre les mecs qui font qui font qui ont des justement des podcasts qui sont super en vue ou
+
+315
+00:33:19,760 --> 00:33:25,480
+quoi qui doivent se faire des thunes ils disent je vais pas me casser la tête à essayer de d'apprendre
+
+316
+00:33:25,480 --> 00:33:30,000
+à prompter chat de pété pendant des mois pour pour avoir le truc il ya des gens qui font ça
+
+317
+00:33:30,000 --> 00:33:37,400
+voilà je les paye et puis et puis voilà alors que après c'est la sous-traite c'est comme ceux qui
+
+318
+00:33:37,400 --> 00:33:43,000
+sont qui payent des monteurs pour leurs vidéos youtube ou les mangakas qui sous-traite avec
+
+319
+00:33:43,000 --> 00:33:47,480
+d'autres petites mains pour faire les décors voilà c'est dans le même acabit effectivement à
+
+320
+00:33:47,480 --> 00:33:51,840
+partir de mon monté à l'argent voilà c'est freestyle quoi ce que je veux dire ce qu'il
+
+321
+00:33:51,840 --> 00:33:56,920
+y a vraiment un marché pour ça il ya vraiment marché pour justement comment savoir comment
+
+322
+00:33:56,920 --> 00:34:01,160
+savoir parler à l'intelligence artificielle pour lui faire faire des choses pour la tweaker pour
+
+323
+00:34:01,160 --> 00:34:07,040
+pour lui pour obtenir des des choses qui sont au niveau du fond et de la forme exactement
+
+324
+00:34:07,040 --> 00:34:12,640
+comme on veut pour certaines applications pour certains domaines etc donc il ya vraiment une
+
+325
+00:34:12,640 --> 00:34:19,000
+façon de travail il ya et c'est accessible à tous c'est hyper démocratique tout le monde peut
+
+326
+00:34:19,000 --> 00:34:26,600
+peut s'y mettre quoi c'est ça qui est fou et donc je trouve ça passionnant en fait et le truc
+
+327
+00:34:26,600 --> 00:34:33,680
+des gpt c'est pour ça que je recommande à tout le monde de se mettre à essayer le truc des gpt
+
+328
+00:34:33,680 --> 00:34:40,400
+donc je sais pas comment je sais pas s'ils ont mis ça accès à tous je vais regarder là en tout
+
+329
+00:34:40,400 --> 00:34:53,680
+cas comment tu cherches j'ai mon frère qui m'a lui il a l'abonnement de gpt 4 et donc lui il a
+
+330
+00:34:53,680 --> 00:34:57,800
+et maman et m'envoyer des captures d'écran il a créé de bais vite fait comme ça l'arrache
+
+331
+00:34:57,800 --> 00:35:03,280
+il montrait qui créent une intelligence artificielle donc de gpt sur des black carambar
+
+332
+00:35:04,280 --> 00:35:10,440
+pour la blague et rien d'exceptionnel mais en tout cas voilà il lui joyait le processus en
+
+333
+00:35:10,440 --> 00:35:15,360
+fait jpg te pose des questions qu'est ce que tu veux intégrer en fait il te parle tu te demande
+
+334
+00:35:15,360 --> 00:35:20,040
+voilà qu'est ce que vous voulez implémenter dans votre truc tout ça et lui il expliquait
+
+335
+00:35:20,040 --> 00:35:28,480
+tout simplement ce qu'il voulait quoi et jpg donc a créé le logo apparemment l'icône pour l'avatar
+
+336
+00:35:28,480 --> 00:35:36,240
+il lui a dit ben voilà je te fais ça ce que ça plaît effectivement pour les gpt c'est c'est un
+
+337
+00:35:36,240 --> 00:35:43,120
+peu étrange à dire les gpt mais pour les gpt c'est ça tu parles donc tu crées ton application en
+
+338
+00:35:43,120 --> 00:35:51,880
+parlant à la tgc artificielle donc c'est c'est assez méta comme comme truc et donc c'est ça tu peux
+
+339
+00:35:51,880 --> 00:35:56,120
+déterminer tu peux lui envoyer une image et puis la mettre dans tu peux tu peux lui dire mais là
+
+340
+00:35:56,120 --> 00:36:01,880
+dedans tu peux c'est vraiment c'est une approche de la création même d'application qui est
+
+341
+00:36:01,880 --> 00:36:09,040
+complètement différente et et qu'est ce que je veux dire oui c'est ça donc en fait pour pour
+
+342
+00:36:09,040 --> 00:36:17,840
+ceux qui sont intéressés il suffit d'aller sur donc sur chat gpt donc chat.openai.com et puis
+
+343
+00:36:17,840 --> 00:36:21,920
+ensuite j'imagine que c'est sur la version payante je sais pas si sur la version gratuite c'est
+
+344
+00:36:21,920 --> 00:36:28,040
+possible mais dans le menu à gauche vous avez donc en tout en bas moi j'ai mon nom d'utilisateur
+
+345
+00:36:28,040 --> 00:36:34,360
+vous cliquez dessus et puis il y a une liste donc un mini menu donc c'est mon plan et puis juste en
+
+346
+00:36:34,360 --> 00:36:42,280
+dessous c'est my gpt's et ensuite custom instructions settings and beta donc il faut cliquer sur my gpt's
+
+347
+00:36:42,440 --> 00:36:53,040
+et là vous avez un truc donc la page qui s'ouvre il ya la première partie c'est my gpt's donc c'est
+
+348
+00:36:53,040 --> 00:36:58,560
+les c'est ceux que vous aurez créé vous avez une ligne pour créer la propre votre propre gpt et en
+
+349
+00:36:58,560 --> 00:37:04,360
+dessous c'est celles qui ont qui sont proposées par openai et donc il y en a plein il y a plein
+
+350
+00:37:04,360 --> 00:37:08,600
+d'applications il ya le truc comme comme tu disais pour carambar bah voilà il ya plein de trucs comme
+
+351
+00:37:08,640 --> 00:37:16,640
+ça donc il ya le prof de maths il ya le prof il ya le truc pour faire des cocktails etc bref et
+
+352
+00:37:16,640 --> 00:37:23,120
+l'idée c'est de trouver une idée genre qu'est ce que qu'est ce que qu'est ce que vous aimeriez
+
+353
+00:37:23,120 --> 00:37:28,640
+de faire de spécifique et très spécifique avec chat gpt vous apprenez à vous faites un document
+
+354
+00:37:28,640 --> 00:37:35,600
+où vous apprenez à parler à chat gpt pour lui faire faire pour que ensuite à chaque fois vous
+
+355
+00:37:35,600 --> 00:37:43,400
+interagissez avec avec chat gpt bah il puisse vous sortir une réponse qui qui corresponde à ce
+
+356
+00:37:43,400 --> 00:37:48,680
+que à ce que vous voulez vous voulez lui faire faire je sais pas si je suis clair en tout cas
+
+357
+00:37:48,680 --> 00:37:56,840
+ouais j'ai une question du coup tu peux référencer ton chat gpt que tu as créé sur internet j'imagine
+
+358
+00:37:56,840 --> 00:38:03,760
+et il est en libre accès gratuitement pour ceux qui n'ont pas payé par contre alors de ce que
+
+359
+00:38:03,760 --> 00:38:11,800
+j'ai compris le fait de créer un gpt ça le rend accessible sur zapier il me semble j'ai cru
+
+360
+00:38:11,800 --> 00:38:20,520
+comprendre ça faudrait qu'on corrige éventuellement d'ailleurs il ya la bbs qui est présente peut-être
+
+361
+00:38:20,520 --> 00:38:27,120
+que la personne qui se cache derrière le compte pourrait répondre à ça parce que la bbs ils
+
+362
+00:38:27,120 --> 00:38:32,560
+ont fait aussi un mini virage vers l'IA donc ça pourrait être intéressant mais d'ailleurs n'importe
+
+363
+00:38:32,640 --> 00:38:38,560
+qui d'autre dans l'audience si vous avez déjà essayé un petit peu cet outil là et que si vous
+
+364
+00:38:38,560 --> 00:38:45,200
+en savez par rapport à ça il me semble que donc l'idée c'est de pouvoir le proposer sur le store
+
+365
+00:38:45,200 --> 00:38:53,120
+le store est pas encore accessible je crois donc c'est ça mais il me semble que par exemple c'est
+
+366
+00:38:53,120 --> 00:39:01,880
+déjà possible d'utiliser les gpt sur zapier alors je vais regarder ça rapidement puisqu'il y a un
+
+367
+00:39:01,920 --> 00:39:09,080
+mec qui a fait un tweet là dessus je crois donc je vais regarder ça rapidement
+
+368
+00:39:09,080 --> 00:39:23,560
+il y a un gpt déjà sur la crypto là il ya déjà sur algorand je crois et en fait ce que ce que je
+
+369
+00:39:23,560 --> 00:39:30,200
+crois qui va se passer c'est que tu je te donne pas six mois avant que tu aies des professeurs qui
+
+370
+00:39:30,200 --> 00:39:39,520
+mettent leurs cours là dessus et qui le nourrissent des du travail qui va falloir faire par les élèves
+
+371
+00:39:39,520 --> 00:39:45,600
+et que les élèves ils auront effectivement les cours d'algébrie qui est compagnie et va falloir
+
+372
+00:39:45,600 --> 00:39:52,720
+qu'ils répondent à chat gpt et voilà c'est à un moment ça va arriver et puis de toute façon ça
+
+373
+00:39:52,720 --> 00:40:02,120
+c'est le fait de créer son gpt je pense que ça va ça va servir aux entreprises pour nourrir sur
+
+374
+00:40:02,120 --> 00:40:07,680
+une base de connaissances toutes les données d'une entreprise etc pour leurs employés ou pour des
+
+375
+00:40:07,680 --> 00:40:15,080
+clients des gens qui veulent qui sont curieux et vas-y roule ma poule tu as tous les toutes les
+
+376
+00:40:15,080 --> 00:40:20,280
+infos tu poses des questions et voilà quoi et puis ça va chercher sur internet si besoin je
+
+377
+00:40:20,280 --> 00:40:28,720
+pense que ça va ça va tourner comme ça maintenant en même temps que tu parlais j'étais en train de
+
+378
+00:40:28,720 --> 00:40:37,760
+regarder pour zapier effectivement c'est possible de connecter les gpt à zapier donc donc c'est
+
+379
+00:40:37,760 --> 00:40:41,360
+cool si tu veux faire des autres si tu fais déjà des automations si tu veux faire des automations
+
+380
+00:40:41,360 --> 00:40:47,720
+entre d'entre différentes applications qui utilisent si si tu travailles avec les réseaux sociaux etc
+
+381
+00:40:47,720 --> 00:40:54,240
+tu peux faire ton propre truc dans ton propre tu peux ajouter à ton mécanisme un truc avec
+
+382
+00:40:54,240 --> 00:40:59,520
+chat gpt que tu as conçu grâce au gpt fin c'est pour les possibilités sont sont pas mal infinis
+
+383
+00:40:59,520 --> 00:41:08,800
+quoi il ya quelqu'un qui a posté un commentaire par rapport à c'est le compte de montée crypto
+
+384
+00:41:08,800 --> 00:41:13,720
+qui dit que chat gpt a utilisé le lightning network pour faire un paiement ça c'est fou
+
+385
+00:41:14,440 --> 00:41:20,440
+c'est complètement fou je me demande si c'est quoi ces fous sats qui a été utilisé
+
+386
+00:41:20,440 --> 00:41:30,120
+je me demande si justement c'est si c'est une application créée par avec gpt
+
+387
+00:41:30,120 --> 00:41:37,640
+gpt salut ça va comment ça va vous allez bien
+
+388
+00:41:37,760 --> 00:41:48,480
+ouais ça va super et super super nickel très cool très cool le space très très intéressant
+
+389
+00:41:48,480 --> 00:41:55,200
+mais je voulais juste ajouter une chose on parlait un petit peu d'ingénierie de prompt
+
+390
+00:41:55,200 --> 00:42:06,160
+et effectivement ceux qui ont entre guillemets une bonne approche et qui sont méthodiques vont
+
+391
+00:42:06,160 --> 00:42:11,920
+réussir à développer en fait des solutions qui vont être très intéressantes qui vont leur être
+
+392
+00:42:11,920 --> 00:42:17,440
+utiles qui peuvent être utiles effectivement aux autres d'où l'intérêt il me semble un
+
+393
+00:42:17,440 --> 00:42:23,600
+espace was downloaded via spaces down dot com visite to download your spaces today en compte
+
+394
+00:42:23,600 --> 00:42:31,080
+gratuit à pas accès au custom gpt donc tu vas pouvoir le vendre effectivement quand ce sera
+
+395
+00:42:31,080 --> 00:42:37,200
+dispo pour les personnes potentiellement qui ont pas effectivement le compte gpt plus et qui
+
+396
+00:42:37,200 --> 00:42:42,160
+veulent pas se prendre la tête parce que la réalité tout ce que vous voyez fonctionner
+
+397
+00:42:42,160 --> 00:42:48,240
+vous devez être capable de reproduire exactement exactement la même chose il n'y a pas de prompt
+
+398
+00:42:48,240 --> 00:42:52,800
+magique c'est un petit peu ce que je répète il n'y a pas de prompt magique il ya juste une
+
+399
+00:42:52,800 --> 00:43:00,600
+bonne approche et une bonne méthode tout simplement qu'est ce que tu veux dire par là
+
+400
+00:43:00,600 --> 00:43:08,160
+quand il y a pas de prompt magique il ya la bonne approche ouais parce que à partir du moment où
+
+401
+00:43:08,160 --> 00:43:15,480
+pour moi tu as bah comme je disais une approche qui est stratégique et méthodique qui est suffisamment
+
+402
+00:43:15,480 --> 00:43:21,280
+bien conçu et qui donne suffisamment de contexte tu vas avoir des résultats qui vont être plus ou
+
+403
+00:43:21,360 --> 00:43:28,280
+moins intéressants voilà depuis que c'est sorti je m'amuse un petit peu et en fait plus t'avances
+
+404
+00:43:28,280 --> 00:43:33,720
+dans le temps plus tu t'améliores et plus tu vas lui donner du contexte après effectivement
+
+405
+00:43:33,720 --> 00:43:39,080
+tu as des limites faut pas non plus trop en donner et de toute façon il faut tester tester et tester
+
+406
+00:43:39,080 --> 00:43:47,360
+quoi ouais c'est sûr après c'est ça j'ai pété c'est pas l'alpha et l'oméga de llm c'est sûr
+
+407
+00:43:47,360 --> 00:43:53,600
+que c'est un c'est un bon terrain de pour pratiquer en fait c'est justement ces prompts et
+
+408
+00:43:53,600 --> 00:43:58,040
+tout pour utiliser une vous outils qui propose toutes les nouvelles interactions qui rendent
+
+409
+00:43:58,040 --> 00:44:01,560
+possible mais en fait il ya tellement de choses la dernière fois j'avais parlé de répliqua
+
+410
+00:44:01,560 --> 00:44:07,400
+répliqua c'est un truc c'est un truc que j'utilise pour justement avoir accès à tous les autres
+
+411
+00:44:07,400 --> 00:44:14,800
+modèles de qui font qui vous permettent de faire du bar en fait de toutes sortes tous les autres
+
+412
+00:44:14,800 --> 00:44:19,880
+trucs que j'ai pété font pas c'est du texte audio audio tout texte texte image machin audio tout
+
+413
+00:44:19,880 --> 00:44:24,360
+tout ce que vous voulez et il ya tout toutes sortes de modèles qui sont disponibles vous pouvez même
+
+414
+00:44:24,360 --> 00:44:31,480
+ajouter votre propre modèle et et puis encore d'autres trucs il ya tellement de choses je m'y
+
+415
+00:44:31,480 --> 00:44:37,320
+perds en fait là par exemple je regardais ça dépend des utilisations de chacun par exemple
+
+416
+00:44:37,320 --> 00:44:44,600
+il ya eu un débat qui est latent c'est le problème de la censure sur chat gpt du coup
+
+417
+00:44:44,600 --> 00:44:48,720
+c'est quoi les modèles qui permettent de parler qui permettent d'avoir des performances qui sont
+
+418
+00:44:48,720 --> 00:44:55,960
+similaires à celle de chat gpt mais sans avoir le filtre de censure quoi et donc il ya des modèles
+
+419
+00:44:55,960 --> 00:45:02,200
+open source qui existent et puis comment y accéder par exemple j'ai découvert un truc assez simple
+
+420
+00:45:02,200 --> 00:45:10,480
+vraiment donc il n'y a pas besoin de s'inscrire sur un truc comme justement comme replicates ou
+
+421
+00:45:10,480 --> 00:45:18,400
+un gain face ou quoi ça s'appelle le perplexity.ai donc si ça vous intéresse l'adresse est labs.perplexity.ai
+
+422
+00:45:18,400 --> 00:45:35,000
+et donc c'est un chat et puis vous pouvez choisir en fait le vous pouvez choisir le modèle en dessous
+
+423
+00:45:35,000 --> 00:45:44,200
+dans la liste déroulante et puis voilà en fait ça vous fait un espèce de chat gpt like mais sans
+
+424
+00:45:44,200 --> 00:45:50,920
+la censure pareil pour pour chat gpt par exemple il ya plusieurs fonctionnalités donc vous pouvez
+
+425
+00:45:50,920 --> 00:45:55,520
+interagir avec dali vous pouvez faire toutes sortes de choses il ya vision aussi dans chat gpt donc ça
+
+426
+00:45:55,520 --> 00:46:01,720
+c'est cool pareil pour c'est accessible pour ceux qui ont payé c'est comme chez les petits et le
+
+427
+00:46:01,720 --> 00:46:06,840
+vision il bon c'est incroyable mais il ya aussi la censure sur le vision par exemple vous pouvez pas
+
+428
+00:46:06,840 --> 00:46:12,760
+si vous lui demandez des conseils qui sont relatifs à la santé en général il va dire je suis pas
+
+429
+00:46:12,760 --> 00:46:18,760
+médecin et il va vous il va vous répondre et vous faire une réponse un peu générale et puis vous
+
+430
+00:46:18,760 --> 00:46:23,280
+dire quand même d'aller consulter un médecin c'est cool et en fait mais en fait c'est dommage parce
+
+431
+00:46:23,280 --> 00:46:31,760
+qu'il sait des choses et donc il ya un truc qui ya je sais pas si vous connaissez le llm open source
+
+432
+00:46:31,760 --> 00:46:39,960
+qui yama lama avec deux l et ben il ya une version il ya une version avec vision qui s'appelle yava
+
+433
+00:46:39,960 --> 00:46:44,520
+ou la va je sais pas comment dit et c'est vraiment donc la même chose vous pouvez là vous pouvez y
+
+434
+00:46:44,520 --> 00:46:54,440
+accéder sur justement sur réplicate je crois et mais ou ailleurs aussi il suffit de regarder vous
+
+435
+00:46:54,440 --> 00:46:59,840
+regardez sur google vous tapez yava et puis voilà c'est yama avec avec vision et quand vous lui
+
+436
+00:46:59,840 --> 00:47:06,440
+soumettez des images par exemple des trucs quelque chose qui aurait sur votre peau ou quoi qui vous
+
+437
+00:47:06,440 --> 00:47:11,640
+disent je suis pas médecin il vous répond quoi il vous donne des conseils médicaux ça c'est fou
+
+438
+00:47:11,640 --> 00:47:17,800
+et donc voilà ça c'est des choses à explorer mais je trouve que chaque gpt avec tous les outils qui
+
+439
+00:47:17,800 --> 00:47:22,400
+sortent les espèces de trucs c'est un peu le apple du de l'IA en fait c'est tout un petit peu
+
+440
+00:47:22,400 --> 00:47:27,640
+cloisonné machin c'est un peu sous contrôle il ya le store qui va sortir et tout mais c'est vraiment
+
+441
+00:47:27,640 --> 00:47:33,080
+un bon terrain de d'expérimentation pour les promptes pour les interactions entre les applications
+
+442
+00:47:33,080 --> 00:47:38,480
+etc c'est vraiment un bon endroit pour commencer en tout cas je trouve et mais par contre c'est vrai
+
+443
+00:47:38,480 --> 00:47:43,440
+qu'il faut il faut mieux avoir la version payante quoi c'est 20 dollars par mois il ya des bon
+
+444
+00:47:43,440 --> 00:47:50,840
+garde-fous effectivement on peut pas lui demander de faire des explosifs par exemple il s'y refusera
+
+445
+00:47:50,840 --> 00:47:56,520
+et puis bon bah c'est pour le côté médical effectivement on n'est pas à l'abri d'une
+
+446
+00:47:56,520 --> 00:48:02,000
+erreur d'un concurrent qui raconterait n'importe quoi aussi donc chaque gpt effectivement ils ont
+
+447
+00:48:02,000 --> 00:48:07,480
+bien pris en compte le fait que ça reste encore balbutiant quoi mais moi je faisais comme tout
+
+448
+00:48:07,480 --> 00:48:14,720
+le monde au tout début j'ai pas inventé la roue quand il ya au fur et à mesure des itérations
+
+449
+00:48:14,720 --> 00:48:19,920
+ça s'est amélioré mais au tout début enfin moi je l'ai pris je n'ai pas pris au tout début
+
+450
+00:48:19,920 --> 00:48:24,920
+de chaque gpt je l'ai pris en début d'année et je faisais comme tout le monde je disais bah voilà
+
+451
+00:48:24,920 --> 00:48:29,560
+quand il me refusait quelque chose je disais oui mais c'est pour c'est pour un scénario de film
+
+452
+00:48:29,560 --> 00:48:37,320
+t'inquiète pas ou c'est pour une blague je te rassure puis s'il a un système disait non non j'arrivais
+
+453
+00:48:37,320 --> 00:48:43,680
+quand même en disant mais oui mais je te dis il y aura pas de danger tu peux y aller et puis il
+
+454
+00:48:43,680 --> 00:48:49,960
+finissait par lâcher le morceau quoi mais bon après open ai ils ont ils ont ils ont verrouillé
+
+455
+00:48:49,960 --> 00:48:53,600
+donc le zoné quand petit à petit ils se sont rendu compte qu'effectivement il y avait des failles quoi
+
+456
+00:48:53,600 --> 00:49:05,640
+mais bon je suis de retour j'ai un petit problème de micro mais le micro mais mais
+
+457
+00:49:05,640 --> 00:49:14,080
+oui oui c'est causer des deux ouf bah ouais il faut qu'ils soient compliants et puis donc c'est
+
+458
+00:49:14,080 --> 00:49:21,200
+ça ils sont ils s'adressent aussi au j'imagine à une clientèle qui est différente de celle qui
+
+459
+00:49:21,760 --> 00:49:28,920
+ils veulent être grand public quoi c'est ça c'est ça l'histoire je vais laisser la parole juste je
+
+460
+00:49:28,920 --> 00:49:35,560
+dis un truc là c'est pendant que tu tu donnes les sites etc moi j'utilise bing sur ordinateur je suis
+
+461
+00:49:35,560 --> 00:49:41,720
+devant là et forcément ils ont un plan à implanter pas mal d'intelligence artificielle et peut-être
+
+462
+00:49:41,720 --> 00:49:46,240
+que elle est un peu cachée quoi j'ai l'impression alors après peut-être que c'est moi qui me fait
+
+463
+00:49:46,240 --> 00:49:50,080
+des idées à chaque fois que je cherche quelque chose c'est sur les sites que tu donnes il ya
+
+464
+00:49:50,080 --> 00:49:55,560
+une facilité à les trouver en fait ça s'affiche j'ai l'impression que je suis aidé pour les trouver
+
+465
+00:49:55,560 --> 00:49:58,560
+alors peut-être que c'est moi qui tape bien à chaque fois que tu me dis tu donnes les noms des
+
+466
+00:49:58,560 --> 00:50:04,120
+sites mais je pense que bing ils ont quand même ils sont améliorés quand même et dans le moteur
+
+467
+00:50:04,120 --> 00:50:11,160
+de recherche voilà c'est c'est c'est une appréciation comme ça ouais c'est possible
+
+468
+00:50:11,160 --> 00:50:16,440
+franchement c'est possible qu'il y ait un petit peu d'IA un peu partout en background dans les
+
+469
+00:50:16,440 --> 00:50:29,480
+nouveaux outils qu'on utilise. Dick comment ça va? Salut les gars, ça va? Alors tu n'étais pas là en début
+
+470
+00:50:29,480 --> 00:50:35,800
+d'émission mais j'ai abordé un sujet bon bah toi tu étais à fond dedans donc je suis sûr que tu
+
+471
+00:50:35,800 --> 00:50:40,080
+connais mais moi il y a un truc qui m'a... donc je vais revenir dessus du coup parce que j'aimerais
+
+472
+00:50:40,080 --> 00:50:45,880
+vraiment avoir ton avis dessus. Pour moi le nouveau truc en ce moment la nouvelle tendance
+
+473
+00:50:46,280 --> 00:50:54,280
+et en fait c'est aussi un... c'est comme un... comme une sorte de milestone qui a été franchi c'est
+
+474
+00:50:54,280 --> 00:51:01,200
+vraiment le la recherche du temps réel dans le texte ou images et en fait qui a été atteint avec
+
+475
+00:51:01,200 --> 00:51:07,000
+les LCM et puis donc il y a maintenant plein d'outils qui sont en train de se développer autour
+
+476
+00:51:07,000 --> 00:51:13,200
+de ce truc là. Est-ce que tu as fait... est-ce que tu as regardé par exemple... tu as vu des choses
+
+477
+00:51:13,280 --> 00:51:18,720
+par rapport à l'application qui s'appelle Cria par exemple? Tu peux faire des dessins et ça te...
+
+478
+00:51:18,720 --> 00:51:24,680
+en fonction de comment tu déplaces les éléments de ton dessin ça te fait des générations d'images
+
+479
+00:51:24,680 --> 00:51:36,800
+en temps réel etc? Non alors j'ai pas vu ce que tu dis là mais c'est plus au niveau de la retouche
+
+480
+00:51:36,920 --> 00:51:44,400
+etc... d'ailleurs ça paraît complètement magique. C'est les genres... les brushes que tu vas retrouver
+
+481
+00:51:44,400 --> 00:51:56,040
+dans Gen 2. Voilà ça c'est... en fait on comprend pas. Ça passe au-dessus de ce que tu veux faire
+
+482
+00:51:56,040 --> 00:52:02,520
+parce qu'en fait il n'y a même pas de... pas forcément de promptes mais comme il analyse
+
+483
+00:52:02,520 --> 00:52:08,280
+l'ensemble d'images il arrive à comprendre le mouvement qu'il faut donner à cette partie
+
+484
+00:52:08,280 --> 00:52:17,480
+de l'image où tu as dit voilà ça ça va bouger. Le nouveau truc de Renoué où tu prends une image,
+
+485
+00:52:17,480 --> 00:52:24,080
+tu utilises le brush pour montrer un endroit que tu veux animer puis ça anime toute l'image.
+
+486
+00:52:24,080 --> 00:52:31,320
+T'as un bateau, le bateau il bouge. Si t'as une voiture, t'as une voiture qui bouge. Ça va être
+
+487
+00:52:31,320 --> 00:52:39,040
+sympa pour faire des petits dessins animés ou des animés en tout cas, super facilement. Là on
+
+488
+00:52:39,040 --> 00:52:45,920
+peut le faire. On n'est même pas obligé de... Voilà. Non non... je sais pas ce que c'était.
+
+489
+00:52:45,920 --> 00:52:56,000
+Check le... Je sais pas ce que c'était les LCM. Bah check le truc que j'ai mis en pin et en gros
+
+490
+00:52:56,800 --> 00:53:04,160
+ça associe... en fait le LCM ça fait comme ce que font les anciens modèles mais en gros ça
+
+491
+00:53:04,160 --> 00:53:13,440
+améliore techniquement le truc. En fait les LDM c'était... t'avais des rendus mais qui se faisaient
+
+492
+00:53:13,440 --> 00:53:20,040
+en trop d'étapes et LCM ça réduit le nombre d'étapes en très peu d'étapes. C'est ma connaissance
+
+493
+00:53:20,040 --> 00:53:25,000
+technique. Ah c'est pas mal. C'est bien expliqué. Je suis en train de regarder un peu ce qu'ils ont
+
+494
+00:53:25,000 --> 00:53:31,240
+fait. Avant ça allait lentement, maintenant ça va vite. C'est ça qu'il faut comprendre. Non mais
+
+495
+00:53:31,240 --> 00:53:37,280
+cette semaine il y a eu tellement d'annonces, ils nous retournent la tête. Ils nous retournent la
+
+496
+00:53:37,280 --> 00:53:41,560
+tête et puis ils nous retournent aussi... les bibliothèques OpenAI elles ont quand même été
+
+497
+00:53:41,560 --> 00:53:50,680
+modifiées donc ça a foutu aussi le Bronx. Ils font des mises à jour mais ils se rendent pas compte
+
+498
+00:53:50,840 --> 00:53:57,040
+qu'il y en a plein qui l'utilisent derrière. C'est quoi cette histoire de bibliothèque OpenAI?
+
+499
+00:53:57,040 --> 00:54:03,320
+La dernière version là elle n'est pas complètement compatible avec les anciennes versions et donc
+
+500
+00:54:03,320 --> 00:54:08,440
+tu as plein de sites qui étaient développés, des applications qui étaient développées avec
+
+501
+00:54:08,440 --> 00:54:15,880
+l'ancienne version d'OpenAI que ce soit en Python ou autre et qui fonctionnaient plus. Donc ça
+
+502
+00:54:16,240 --> 00:54:27,080
+pose un petit problème. Et puis dans les annonces je trouve qu'entre le store, je commence à voir
+
+503
+00:54:27,080 --> 00:54:31,440
+des choses qui arrivent qui sont vachement bien. D'ailleurs pour l'image j'étais en train de jouer
+
+504
+00:54:31,440 --> 00:54:41,720
+avec ça avant de venir. Tu as des super descripteurs. Tu lui files une image, c'est un chat dans le
+
+505
+00:54:41,720 --> 00:54:48,120
+GPT Store et il te décrit tellement l'image qu'ensuite quand il la refait avec Dally 3,
+
+506
+00:54:48,120 --> 00:54:57,200
+elle se rapproche vraiment de ce que tu veux. Et là je suis en train de l'essayer, je viens de la
+
+507
+00:54:57,200 --> 00:55:03,320
+mettre dans la mi-journée pour voir s'il prompte, s'il marchait bien aussi dans la mi-journée. Et
+
+508
+00:55:03,320 --> 00:55:11,680
+donc ouais le store ça va être délire, il va y avoir plein de trucs. Tu as essayé des GPT
+
+509
+00:55:11,840 --> 00:55:22,440
+? Ouais. Et tu arrives? Je suis retombé dans les mêmes travers que j'ai eu dans des projets
+
+510
+00:55:22,440 --> 00:55:30,840
+antérieurs où je discutais juste avec chat GPT. Où au bout d'un moment tu as trop parlé avec chat
+
+511
+00:55:30,840 --> 00:55:36,280
+GPT, il faut que tu lances un nouveau chat parce que c'est plus possible. Et en gros j'ai eu le
+
+512
+00:55:36,280 --> 00:55:41,440
+même problème avec les GPT. Là il m'a rendu fou, je me suis dit il faut que je relance un truc.
+
+513
+00:55:41,840 --> 00:55:47,800
+Je recréer une de from scratch mais cette fois-ci avec un prompt juste un, mais que j'ai fait sur
+
+514
+00:55:47,800 --> 00:55:54,080
+plusieurs pages limite. Je lui ai bien décrit tout, je lui ai dit tout ce que je veux bien avec
+
+515
+00:55:54,080 --> 00:56:01,720
+une belle structure. Et là j'aurais plus besoin de patcher le truc. Il me dit je patche un truc
+
+516
+00:56:01,720 --> 00:56:06,880
+et puis il me fait n'importe quoi de l'autre sens. Et puis 128k, c'est pas vraiment du 128k à partir
+
+517
+00:56:07,880 --> 00:56:20,240
+de 70 000, 80 000 tokens. Soit il ne te répond pas, soit il te répond un peu de la merde. Il n'est
+
+518
+00:56:20,240 --> 00:56:26,120
+pas encore au point leur truc, mais bon le fait que tout soit mélangé, qu'il y ait le code
+
+519
+00:56:26,120 --> 00:56:40,200
+interpréteur dedans avec l'image et le web browsing. On attend ça en entreprise. Du coup
+
+520
+00:56:40,200 --> 00:56:49,320
+moi j'arrête plein de projets qui sont autour des images parce que cette version là elle va t'enlever
+
+521
+00:56:49,320 --> 00:56:55,000
+un paquet de problèmes en fait. Quand tu fais du rack sur les documents, dans les documents tu as
+
+522
+00:56:55,000 --> 00:57:01,200
+beaucoup de textes, beaucoup d'images, beaucoup de schémas, des choses comme ça. Et quand tu veux
+
+523
+00:57:01,200 --> 00:57:08,440
+retrouver ces images là et que tu veux réussir à avoir une réponse à base de ces images là,
+
+524
+00:57:08,440 --> 00:57:13,600
+tu es obligé de décrire les images. Donc aujourd'hui c'est de l'OCR, mais demain on va avoir des
+
+525
+00:57:13,600 --> 00:57:18,840
+descriptions d'images. Évidemment ça coûtera plus cher parce qu'il faudra envoyer une requête pour
+
+526
+00:57:19,400 --> 00:57:30,760
+décrire l'image. Mais du coup tu vas avoir ta base de connaissances, tout ton knowledge de ton
+
+527
+00:57:30,760 --> 00:57:37,480
+entreprise, de ton entité, elle va vraiment pouvoir être exprimée et pas que dans le texte. Et on aura
+
+528
+00:57:37,480 --> 00:57:42,560
+en plus la partie Excel, donc la partie des données structurées qui vont pouvoir être
+
+529
+00:57:42,720 --> 00:57:51,760
+extraites via le code interpréteur. Donc ça résout en trois, quatre mois là, ils arrivent
+
+530
+00:57:51,760 --> 00:58:00,720
+à résoudre un bon paquet de problèmes. Après les GPT sont pas terribles. La qualité des... tu sais quand
+
+531
+00:58:00,720 --> 00:58:04,800
+tu lui files des documents et tout, qu'il les ingère et puis qu'il est capable de répondre dessus,
+
+532
+00:58:04,800 --> 00:58:11,480
+c'est pas... c'est les premières versions de GPT on va dire. C'est ce que tu fais toi et moi quand
+
+533
+00:58:12,200 --> 00:58:19,440
+tu commences à développer. C'est marrant parce que je me faisais la réflexion pas plus tard qu'aujourd'hui,
+
+534
+00:58:19,440 --> 00:58:27,560
+tu vois. On est devenu difficile, ça va tellement vite que genre maintenant si c'est pas de la
+
+535
+00:58:27,560 --> 00:58:33,760
+qualité de ce qui est sorti les deux dernières semaines, on est comme franchement déçu. Un peu déçu.
+
+536
+00:58:33,760 --> 00:58:42,440
+On devient des vrais connards. Regarde même sur les modèles, tu vois les modèles
+
+537
+00:58:42,440 --> 00:58:49,840
+in-face qui sortent, il y en a des vachement bien. Mais ouais, ils sont bien. Ils sont bien,
+
+538
+00:58:49,840 --> 00:58:55,800
+mais quand tu vois ce que tu peux retourner avec un GPT4, ou un GPT4 turbo, parce que du coup
+
+539
+00:58:55,800 --> 00:59:02,400
+c'est encore plus rapide et moins cher, t'as pas envie de changer quoi. Comme si on disait bon
+
+540
+00:59:02,400 --> 00:59:08,760
+ben alors t'en est content de ton iPhone 15, mais tu sais avec un Xiaomi de première génération,
+
+541
+00:59:08,760 --> 00:59:12,680
+tu peux faire à peu près la même chose, il est moins cher. Mais quand même.
+
+542
+00:59:12,680 --> 00:59:21,560
+Mais n'empêche que, je sais pas comment tu vois les trucs, mais je me souviens qu'au tout début,
+
+543
+00:59:22,520 --> 00:59:33,200
+quand on était sur chaque GPT, il y avait le modèle de Google et le truc de Bing et tout ça,
+
+544
+00:59:33,200 --> 00:59:37,560
+on se disait genre ah ouais, alors ça va être principalement des compagnies,
+
+545
+00:59:37,560 --> 00:59:45,000
+genre des GAFAM qui vont développer des trucs et derrière va y avoir les trucs un peu open source,
+
+546
+00:59:45,000 --> 00:59:49,000
+mais ça va toujours, moi je pensais toujours que ces trucs open source allaient être derrière et
+
+547
+00:59:49,080 --> 00:59:54,680
+que ça serait toujours un peu moins bien, mais voilà, c'est open source donc c'est cool et tout.
+
+548
+00:59:54,680 --> 01:00:02,960
+En fait, l'écosystème open source il se porte super bien, genre au niveau de la qualité,
+
+549
+01:00:02,960 --> 01:00:08,760
+moi j'utilise de plus en plus des trucs open source et finalement je vais sur Replicate beaucoup,
+
+550
+01:00:08,760 --> 01:00:16,360
+là j'utilise un outil, c'était QuickQR Art pour faire mes GM tous les jours et en fait,
+
+551
+01:00:16,440 --> 01:00:21,760
+je me suis aperçu qu'il y avait exactement la même chose en open source, donc en fait,
+
+552
+01:00:21,760 --> 01:00:26,720
+je me dis pourquoi je paye pour un outil, j'ai cancel mon abonnement, je vais juste sur Replicate,
+
+553
+01:00:26,720 --> 01:00:30,880
+en fait tu payes juste pour l'utilisation des ressources serveurs et puis d'autre chose.
+
+554
+01:00:30,880 --> 01:00:33,440
+Ouais, c'est ce que j'étais en train de leur expliquer quand même aujourd'hui,
+
+555
+01:00:33,440 --> 01:00:37,760
+c'est que le hosting de ces modèles-là, c'est pas un truc gratuit,
+
+556
+01:00:37,760 --> 01:00:44,040
+alors soit ils le font sur Gingface et ils te permettent d'avoir des requêtes comme ça,
+
+557
+01:00:44,040 --> 01:00:53,880
+peut-être 2-3 dans la journée, tu peux gratter, sinon le prix de le hosting pour des modèles,
+
+558
+01:00:53,880 --> 01:01:04,800
+même pour du 7 milliards de paramètres sur Mistral, tu vas vite à 100 balles de la journée.
+
+559
+01:01:04,800 --> 01:01:10,320
+Ah ouais d'accord, non j'en suis pas là, c'est quelques centimes de la journée.
+
+560
+01:01:10,320 --> 01:01:15,080
+Voilà, et là tu te dis, il va falloir que j'ai quand même pas mal de requêtes,
+
+561
+01:01:15,080 --> 01:01:22,560
+là on regarde les, parce qu'évidemment les grosses boîtes du coup, elles veulent avoir leur Azure,
+
+562
+01:01:22,560 --> 01:01:29,040
+leur OpenAI, leur chat GPT ou leur modèle, mais qui répondent bien tout le temps,
+
+563
+01:01:29,040 --> 01:01:35,400
+donc on commence à demander à avoir des performances stables,
+
+564
+01:01:35,400 --> 01:01:37,720
+quel que soit le nombre de requêtes qu'on envoie.
+
+565
+01:01:37,720 --> 01:01:44,120
+Et du coup ils nous disent, ouais pas de problème, mais ça coûte,
+
+566
+01:01:44,120 --> 01:01:46,840
+ouais t'arrives vite à 30 000 balles par mois quoi,
+
+567
+01:01:46,840 --> 01:01:51,160
+pour avoir ton modèle qui te répond sur quelques millions de requêtes,
+
+568
+01:01:51,160 --> 01:01:58,000
+mais qui te, voilà, t'as pas une latence de 15 ou 20 secondes avant qu'ils te répondent.
+
+569
+01:01:58,000 --> 01:02:02,240
+C'est ça, si tu mets des chatbots comme ça en face de clients,
+
+570
+01:02:02,320 --> 01:02:05,720
+évidemment le mec il a le temps de se barrer un milliard de fois quoi.
+
+571
+01:02:05,720 --> 01:02:10,720
+Ouais, je parlais de ça à un moment donné, au début de l'émission,
+
+572
+01:02:10,720 --> 01:02:16,880
+quand je parlais des évolutions récentes, où je trouvais que vraiment les évolutions récentes,
+
+573
+01:02:16,880 --> 01:02:20,600
+c'était hyper axé sur l'amélioration des performances,
+
+574
+01:02:20,600 --> 01:02:25,000
+plus que sur le, avoir mieux en termes de qualité etc.
+
+575
+01:02:25,000 --> 01:02:27,200
+Genre quand je dis récentes, c'est ces dernières semaines,
+
+576
+01:02:27,400 --> 01:02:28,640
+genre ces derniers jours.
+
+577
+01:02:28,640 --> 01:02:35,600
+Et je pense que non seulement ça joue effectivement sur l'expérience utilisateur,
+
+578
+01:02:35,600 --> 01:02:37,320
+parce que t'as plus besoin d'attendre genre, c'est ça,
+
+579
+01:02:37,320 --> 01:02:42,280
+X minutes ou voire X secondes pour avoir ton rendu etc.
+
+580
+01:02:42,280 --> 01:02:46,080
+Mais en plus de ça, ça joue, vu que ça met moins de temps,
+
+581
+01:02:46,080 --> 01:02:50,560
+donc ça utilise moins longtemps la machine que t'es en train de louer,
+
+582
+01:02:50,560 --> 01:02:55,680
+à des trucs comme Replicate ou quoi, et en fait du coup ça coûte moins cher aussi.
+
+583
+01:02:55,680 --> 01:03:01,920
+Donc en fait, c'est pas mal ça, je trouve, il y a un double enjeu en fait, du fait que les modèles...
+
+584
+01:03:01,920 --> 01:03:05,400
+Il faudra regarder les dernières vidéos d'OpenAI qui sont sorties hier,
+
+585
+01:03:05,400 --> 01:03:11,440
+où il y a les conférences justement avec les mecs de Spotify ou de Typeform,
+
+586
+01:03:11,440 --> 01:03:18,240
+et puis il y en a une de Salesforce je crois, qui explique justement voilà,
+
+587
+01:03:18,240 --> 01:03:21,400
+entre ça, parce que t'imagines que les mecs ils montent des modèles,
+
+588
+01:03:21,400 --> 01:03:24,600
+des business models autour de ça, derrière,
+
+589
+01:03:24,760 --> 01:03:28,920
+ils sont obligés de prendre en compte le prix de la requête,
+
+590
+01:03:28,920 --> 01:03:34,400
+et le GPT-4 est relativement cher, donc tu peux pas t'amuser...
+
+591
+01:03:34,400 --> 01:03:37,680
+Donc ce qu'ils ont fait, c'est qu'ils se sont tous mis sur le 3.5,
+
+592
+01:03:37,680 --> 01:03:41,560
+ils sont restés sur le 3.5 turbo pendant un moment,
+
+593
+01:03:41,560 --> 01:03:44,240
+en disant bon, il y a le GPT-4 turbo qui va sortir,
+
+594
+01:03:44,240 --> 01:03:47,800
+donc bon, les réponses elles sont peut-être un peu moins bien,
+
+595
+01:03:47,800 --> 01:03:51,720
+ou on génère des descriptifs un peu moins bien etc, mais c'est pas grave.
+
+596
+01:03:51,840 --> 01:03:58,680
+Et là quand le GPT-4 turbo qui est sorti, en plus avec les prix du 3.5,
+
+597
+01:03:58,680 --> 01:04:05,280
+ben voilà, ils commencent à avoir des prix qui restent assez fixes,
+
+598
+01:04:05,280 --> 01:04:10,680
+mais pour une valeur ajoutée sur leurs produits, qui sont juste incroyables.
+
+599
+01:04:10,680 --> 01:04:15,600
+Donc ils sont en train de dire, on peut même presque monter les prix,
+
+600
+01:04:15,600 --> 01:04:20,080
+tellement tout devient utilisé chopin,
+
+601
+01:04:20,080 --> 01:04:24,680
+tout devient utilisé Shopify par exemple, ça devient de plus en plus simple,
+
+602
+01:04:24,680 --> 01:04:29,880
+parce que ça remplit tes fiches, ça te crée même tes photos,
+
+603
+01:04:29,880 --> 01:04:33,680
+ça te fait tout, ça te fait ton SEO, ça te fait tes catégories, voilà.
+
+604
+01:04:33,680 --> 01:04:36,360
+T'as plus besoin de rien faire finalement,
+
+605
+01:04:36,360 --> 01:04:40,640
+tu regardes juste le nombre de personnes qui rentrent sur ton site,
+
+606
+01:04:40,640 --> 01:04:42,640
+et l'IA s'occupe de tout.
+
+607
+01:04:45,920 --> 01:04:49,680
+Et là-dedans, il y a une partie un peu plus technique sur les LLM,
+
+608
+01:04:49,680 --> 01:04:54,560
+comment ils les choisissent, comment les bencher,
+
+609
+01:04:54,560 --> 01:04:58,680
+est-ce qu'il vaut mieux prendre de l'open source?
+
+610
+01:04:58,680 --> 01:05:01,840
+Alors tu vois, Amazon, ils vont te dire, il faut prendre de l'open source,
+
+611
+01:05:01,840 --> 01:05:05,760
+ben oui évidemment, aujourd'hui, eux ils poussent que ça.
+
+612
+01:05:05,760 --> 01:05:10,720
+Et leur Titan, mais au final, ils poussent du Cloud 2,
+
+613
+01:05:10,720 --> 01:05:14,880
+là ils viennent de mettre Mistral,
+
+614
+01:05:15,880 --> 01:05:21,040
+et puis de l'autre côté, t'as Google avec son BARD,
+
+615
+01:05:21,040 --> 01:05:23,240
+qui est pas si mal au final.
+
+616
+01:05:23,240 --> 01:05:30,280
+Moi sur la partie, je préfère des fois rechercher directement dans BARD que dans Bing.
+
+617
+01:05:30,280 --> 01:05:35,440
+Quand je veux chercher sur des produits, pour avoir les trucs les moins chers
+
+618
+01:05:35,440 --> 01:05:39,480
+pendant le Black Friday ou des trucs comme ça.
+
+619
+01:05:39,480 --> 01:05:46,280
+Je vais jamais sur BARD ni sur Bing.
+
+620
+01:05:46,280 --> 01:05:48,480
+J'étais sur Bing à un moment donné pour Dali,
+
+621
+01:05:48,480 --> 01:05:53,960
+parce que j'ai étudié la possibilité de ne plus utiliser chaque GPT
+
+622
+01:05:53,960 --> 01:05:55,960
+pour économiser 20 dollars par mois.
+
+623
+01:05:55,960 --> 01:06:01,040
+Bon déjà, ce qui me gonfle, c'est con,
+
+624
+01:06:01,040 --> 01:06:03,880
+mais ce qui me gonfle, c'est Tali sur Apple de Bing.
+
+625
+01:06:03,880 --> 01:06:06,240
+Sur la création de sites internet,
+
+626
+01:06:06,240 --> 01:06:10,600
+est-ce que vous connaissez un outil en intelligence artificielle
+
+627
+01:06:10,600 --> 01:06:13,960
+qui permettrait de créer de manière très simple un site?
+
+628
+01:06:13,960 --> 01:06:15,960
+Oui, un paquet.
+
+629
+01:06:15,960 --> 01:06:20,280
+Il faudrait que tu ailles sur Futurpedia directement.
+
+630
+01:06:20,280 --> 01:06:26,480
+T'as des bibliothèques comme ça pour aller voir un peu tous les sites.
+
+631
+01:06:26,480 --> 01:06:32,680
+Moi j'avais utilisé Mixio, je crois que ça s'appelle.
+
+632
+01:06:32,680 --> 01:06:40,560
+Tu tapes ce que tu veux dans ton site et tu le crées automatiquement,
+
+633
+01:06:40,560 --> 01:06:42,560
+et même le contenu.
+
+634
+01:06:42,560 --> 01:06:44,560
+C'est assez bluffant.
+
+635
+01:06:44,560 --> 01:06:47,560
+Comment tu écris ça s'il te plaît?
+
+636
+01:06:47,560 --> 01:06:50,560
+C'est mixio.ai je crois.
+
+637
+01:06:50,560 --> 01:06:53,560
+Mixio.io.
+
+638
+01:06:53,560 --> 01:06:55,560
+C'est drôle quand même cette évolution.
+
+639
+01:06:55,560 --> 01:07:01,040
+On a eu l'internet des dot.com, ensuite on a eu l'internet des dot.io,
+
+640
+01:07:01,400 --> 01:07:04,400
+et maintenant on a l'internet des dot.ai.
+
+641
+01:07:06,400 --> 01:07:11,400
+Ce qui est fou c'est les services que ça rend.
+
+642
+01:07:11,400 --> 01:07:13,400
+Je sais pas, c'est aujourd'hui.
+
+643
+01:07:13,400 --> 01:07:17,400
+Il y a Sam, il y a un mec qui est venu, il a dit
+
+644
+01:07:17,400 --> 01:07:19,400
+« Bon alors c'est bien, tu m'as filé ton code là,
+
+645
+01:07:19,400 --> 01:07:23,400
+mais j'aimerais avoir une explication de tout le code avec des schémas,
+
+646
+01:07:23,400 --> 01:07:26,400
+je veux qu'il soit commenté. »
+
+647
+01:07:26,400 --> 01:07:28,400
+Alors que tu vois, il lui avait fait ça comme ça.
+
+648
+01:07:28,760 --> 01:07:31,760
+En mode « je te le file » et le gars il revient,
+
+649
+01:07:31,760 --> 01:07:32,760
+il veut avoir toute la doc.
+
+650
+01:07:32,760 --> 01:07:35,760
+« Bah ok, pas de souci, je vais te la faire. »
+
+651
+01:07:35,760 --> 01:07:39,760
+Ça lui a pris 3 minutes, il a foutu le code dans le chat GPT,
+
+652
+01:07:39,760 --> 01:07:42,760
+et il lui a dit « Bon alors tu me sors ça, tu me sors l'UML,
+
+653
+01:07:42,760 --> 01:07:45,760
+tu me refais une image autour de ça. »
+
+654
+01:07:45,760 --> 01:07:50,760
+Voilà. Au bout de 4 minutes, il a eu toute sa documentation pour le code.
+
+655
+01:07:50,760 --> 01:07:53,760
+Le truc, genre il y a un client qui te demande ça,
+
+656
+01:07:53,760 --> 01:07:54,760
+t'as envie juste de le frapper.
+
+657
+01:07:55,120 --> 01:08:00,120
+Là tu fais « Ok, tu veux quelle couleur dans ton code? »
+
+658
+01:08:04,120 --> 01:08:08,120
+D'ailleurs en parlant de Sam Altman, j'ai vu passer une...
+
+659
+01:08:08,120 --> 01:08:11,120
+C'est ce qu'il sort. Putain.
+
+660
+01:08:11,120 --> 01:08:13,120
+J'ai vu passer une interview vidéo.
+
+661
+01:08:13,120 --> 01:08:15,120
+Pour le jeu vidéo, ça va être pas mal aussi.
+
+662
+01:08:15,120 --> 01:08:17,120
+Tu m'entends pas du tout en fait, Rico.
+
+663
+01:08:17,120 --> 01:08:18,120
+Ouais c'est ça.
+
+664
+01:08:19,120 --> 01:08:20,120
+Rico, tu l'entends?
+
+665
+01:08:22,120 --> 01:08:24,120
+Je crois qu'il m'entend, ouais.
+
+666
+01:08:24,480 --> 01:08:26,480
+Ah, vous vous entendez pas tous les deux?
+
+667
+01:08:26,480 --> 01:08:27,480
+Ah ça c'est intéressant ça.
+
+668
+01:08:27,480 --> 01:08:29,480
+C'est pas mal à faire dans les discussions.
+
+669
+01:08:29,480 --> 01:08:32,480
+Non mais moi j'entends Rico, mais en fait à chaque fois que je...
+
+670
+01:08:32,480 --> 01:08:34,480
+Putain j'ai l'air blanc, je ne rentre à personne.
+
+671
+01:08:34,480 --> 01:08:36,480
+Je peux pas vous parler en même temps.
+
+672
+01:08:39,480 --> 01:08:41,480
+Bon alors c'est moi qui dis.
+
+673
+01:08:41,480 --> 01:08:42,480
+En tout cas, ouais.
+
+674
+01:08:46,480 --> 01:08:47,480
+En fait il disait que...
+
+675
+01:08:47,480 --> 01:08:50,480
+J'ai vu une interview rapidement de Sam Altman,
+
+676
+01:08:50,480 --> 01:08:53,480
+et qu'il disait qu'il bossait déjà sur chat GPT 5,
+
+677
+01:08:53,840 --> 01:08:54,840
+et il y a plein de gens qui disaient ça,
+
+678
+01:08:54,840 --> 01:08:56,840
+GPT 5 arrive, etc.
+
+679
+01:08:56,840 --> 01:09:00,840
+Mais ce qui était marrant, c'est qu'il disait qu'il était incapable de dire ce qu'il aurait d'avoir
+
+680
+01:09:00,840 --> 01:09:02,840
+dans le chat de GPT 5.
+
+681
+01:09:02,840 --> 01:09:04,840
+Et je trouve ça drôle parce que...
+
+682
+01:09:06,840 --> 01:09:08,840
+J'ai l'impression que c'est pas juste...
+
+683
+01:09:08,840 --> 01:09:10,840
+Genre je peux pas dévoiler des choses...
+
+684
+01:09:10,840 --> 01:09:12,840
+Bah ouais, mais non, ça va trop vite.
+
+685
+01:09:12,840 --> 01:09:14,840
+Bah ouais, mais c'est clair.
+
+686
+01:09:15,840 --> 01:09:17,840
+Et surtout qu'en plus, là ils sont en train de s'apercevoir.
+
+687
+01:09:17,840 --> 01:09:19,840
+Et c'est ce qui va arriver avec les GPT Store.
+
+688
+01:09:20,840 --> 01:09:22,840
+C'est qu'on ne sait pas du tout ce que les gens vont en faire.
+
+689
+01:09:23,840 --> 01:09:27,840
+Même moi, dans la boîte,
+
+690
+01:09:27,840 --> 01:09:31,840
+pourtant, des cas d'usage, j'en ai 50 par jour.
+
+691
+01:09:31,840 --> 01:09:33,840
+Donc à chaque fois, je me dis,
+
+692
+01:09:33,840 --> 01:09:35,840
+quand j'arrive dans des réunions,
+
+693
+01:09:35,840 --> 01:09:37,840
+je me dis à peu près, les mecs je sais à peu près ce qu'ils vont faire.
+
+694
+01:09:38,840 --> 01:09:39,840
+Mais non, jamais.
+
+695
+01:09:39,840 --> 01:09:42,840
+Tu sais jamais ce que les gens vont faire avec un outil pareil.
+
+696
+01:09:44,840 --> 01:09:46,840
+Ils ont toujours des idées qui vont dans tous les sens.
+
+697
+01:09:46,840 --> 01:09:49,840
+Et avec les GPT Store, là, ce qu'on va voir, c'est que ça va dans tous les sens.
+
+698
+01:09:49,840 --> 01:09:51,840
+Vraiment.
+
+699
+01:09:52,200 --> 01:09:54,200
+On va être étonné de se dire,
+
+700
+01:09:54,200 --> 01:09:56,200
+ah bah ouais, ça c'est pas con.
+
+701
+01:09:56,200 --> 01:09:59,200
+Un comparateur de gazon synthétique, génial.
+
+702
+01:10:04,200 --> 01:10:05,200
+J'avoue.
+
+703
+01:10:05,200 --> 01:10:06,200
+Donc en termes de créativité.
+
+704
+01:10:06,200 --> 01:10:07,200
+Mais du coup, c'est ça.
+
+705
+01:10:07,200 --> 01:10:08,200
+Et c'est vraiment drôle.
+
+706
+01:10:08,200 --> 01:10:11,200
+C'est drôle parce que c'était
+
+707
+01:10:12,200 --> 01:10:14,200
+littéralement hier.
+
+708
+01:10:14,200 --> 01:10:18,200
+Hier, on a fait une émission sur l'art.
+
+709
+01:10:18,200 --> 01:10:20,200
+Et on a parlé de l'immersion.
+
+710
+01:10:20,560 --> 01:10:22,560
+Et on a évoqué le métaverse.
+
+711
+01:10:22,560 --> 01:10:24,560
+Et je disais justement que
+
+712
+01:10:25,560 --> 01:10:28,560
+je pense pas que va y avoir
+
+713
+01:10:29,560 --> 01:10:32,560
+je pense que le concept de site web va disparaître.
+
+714
+01:10:32,560 --> 01:10:37,560
+Je pense pas qu'il va y avoir des sites web dans le métaverse.
+
+715
+01:10:37,560 --> 01:10:41,560
+On va naviguer, on va marcher dans une rue qui sera le site web.
+
+716
+01:10:42,560 --> 01:10:43,560
+Je pense pas qu'il y aura ce truc là.
+
+717
+01:10:43,560 --> 01:10:46,560
+Et en fait, finalement,
+
+718
+01:10:46,920 --> 01:10:48,920
+tu es en train de parler de
+
+719
+01:10:48,920 --> 01:10:51,920
+le truc du chat des GPT.
+
+720
+01:10:51,920 --> 01:10:52,920
+C'est un peu ça, en fait.
+
+721
+01:10:52,920 --> 01:10:53,920
+C'est un peu la mort des sites web.
+
+722
+01:10:53,920 --> 01:10:54,920
+Tu n'as plus besoin d'aller sur un site.
+
+723
+01:10:54,920 --> 01:10:56,920
+Tu vas juste t'arriver des sites web.
+
+724
+01:10:56,920 --> 01:10:58,920
+Et quand tu vas voir les boîtes qui font que ça,
+
+725
+01:10:58,920 --> 01:11:01,920
+qui sont spécialisées dans le SEO, etc.
+
+726
+01:11:01,920 --> 01:11:02,920
+Et que tu leur dis,
+
+727
+01:11:02,920 --> 01:11:04,920
+mais pourquoi vous continuez à bosser là dedans, vous?
+
+728
+01:11:04,920 --> 01:11:07,920
+Je dis, bah attends, le SEO, c'est quand même, tu vois,
+
+729
+01:11:07,920 --> 01:11:08,920
+c'est l'avenir.
+
+730
+01:11:08,920 --> 01:11:12,920
+Tu dis, ah ouais, mais les sites web, dans deux ans, il n'y en a plus.
+
+731
+01:11:13,920 --> 01:11:14,920
+Ah bah alors là, je veux bien voir ça.
+
+732
+01:11:15,280 --> 01:11:18,280
+Et puis le jour où ils comprennent tout ce que tu peux faire avec un chat GPT,
+
+733
+01:11:18,280 --> 01:11:20,280
+tu te dis, qu'est ce que tu veux aller t'emmerder,
+
+734
+01:11:20,280 --> 01:11:22,280
+aller sur un site web pour avoir une réponse?
+
+735
+01:11:23,280 --> 01:11:26,280
+En plus, là, on commence à avoir les images et tout.
+
+736
+01:11:26,280 --> 01:11:29,280
+Tu as joué avec le chat de chat GPT?
+
+737
+01:11:29,280 --> 01:11:33,280
+La partie conversationnelle sur l'appli mobile?
+
+738
+01:11:34,280 --> 01:11:36,280
+Ah, c'est pour créer un GPT?
+
+739
+01:11:36,280 --> 01:11:37,280
+Non, non, non.
+
+740
+01:11:37,280 --> 01:11:41,280
+T'as un module où tu discutes.
+
+741
+01:11:42,280 --> 01:11:44,280
+Ah, avec ta voix, genre?
+
+742
+01:11:44,640 --> 01:11:47,640
+J'ai essayé, mais c'était un peu lent.
+
+743
+01:11:47,640 --> 01:11:48,640
+Ça mettait du temps.
+
+744
+01:11:48,640 --> 01:11:50,640
+Vachement plus rapide, du coup.
+
+745
+01:11:51,640 --> 01:11:52,640
+Ah bon?
+
+746
+01:11:52,640 --> 01:11:53,640
+OK.
+
+747
+01:11:53,640 --> 01:11:58,640
+Et hier, on était en train de s'emmerder avec mon fils, je crois.
+
+748
+01:11:58,640 --> 01:11:59,640
+Ah non, on était en train de manger.
+
+749
+01:11:59,640 --> 01:12:02,640
+On a commencé à mettre nos deux téléphones l'un à côté de l'autre.
+
+750
+01:12:03,640 --> 01:12:06,640
+On a lancé un débat et puis du coup,
+
+751
+01:12:06,640 --> 01:12:10,640
+chacun, chaque GPT se répondait à l'autre.
+
+752
+01:12:11,000 --> 01:12:14,000
+On a eu un débat de chat GPT.
+
+753
+01:12:14,000 --> 01:12:17,000
+En plus, je crois qu'on avait lancé un sujet bien de merde
+
+754
+01:12:17,000 --> 01:12:19,000
+puisque c'était autour de la merde.
+
+755
+01:12:20,000 --> 01:12:25,000
+Donc, on avait dit qu'il y en avait un qui était vraiment pour la merde,
+
+756
+01:12:25,000 --> 01:12:27,000
+pour en faire un business.
+
+757
+01:12:27,000 --> 01:12:30,000
+L'autre disant, non, la merde, ça ne sert à rien du tout.
+
+758
+01:12:30,000 --> 01:12:33,000
+Et c'était super intéressant.
+
+759
+01:12:34,000 --> 01:12:36,000
+C'était super intéressant.
+
+760
+01:12:36,360 --> 01:12:38,360
+Ouais, du coup.
+
+761
+01:12:38,360 --> 01:12:42,360
+Et comment, est-ce qu'ils ont mis fin au truc naturellement
+
+762
+01:12:42,360 --> 01:12:45,360
+ou c'est vous qui avez dû dire on arrête?
+
+763
+01:12:45,360 --> 01:12:51,360
+En fait, je pense qu'au bout d'un moment, ils tournaient en rond sur les arguments.
+
+764
+01:12:52,360 --> 01:12:53,360
+OK.
+
+765
+01:12:53,360 --> 01:12:57,360
+Donc, il faut avoir des promptes un peu plus malicieux.
+
+766
+01:12:57,360 --> 01:13:03,360
+Mais je te dis, dans un mois, on va avoir des fights de GPT.
+
+767
+01:13:03,720 --> 01:13:08,720
+Comme les concours d'éloquence, mais tu le feras avec ton GPT
+
+768
+01:13:08,720 --> 01:13:14,720
+que tu auras prompté en disant, voilà, je veux que tu sois un maître de guerre.
+
+769
+01:13:14,720 --> 01:13:17,720
+Mais voilà, que tu aies de l'humour et quand...
+
+770
+01:13:18,720 --> 01:13:22,720
+Essayer de manipuler, lui faire dire pas forcément la vérité,
+
+771
+01:13:22,720 --> 01:13:25,720
+mais manipuler la réponse pour...
+
+772
+01:13:26,720 --> 01:13:28,720
+Ouais, ça va être marrant.
+
+773
+01:13:28,720 --> 01:13:29,720
+C'est quoi?
+
+774
+01:13:29,720 --> 01:13:30,720
+C'est quoi?
+
+775
+01:13:31,080 --> 01:13:34,080
+Tu viens de me donner une super idée, un super concept
+
+776
+01:13:34,080 --> 01:13:36,080
+que je ne vais jamais mettre en place, évidemment,
+
+777
+01:13:36,080 --> 01:13:37,080
+parce que c'est toujours comme ça.
+
+778
+01:13:37,080 --> 01:13:41,080
+Mais si il y a quelqu'un dans l'audience qui a assez de temps libre,
+
+779
+01:13:41,080 --> 01:13:46,080
+honnêtement, il faut créer une fausse conférence avec que des invités
+
+780
+01:13:46,080 --> 01:13:52,080
+qui sont des intelligences artificielles et chacune a une personnalité.
+
+781
+01:13:54,080 --> 01:13:55,080
+C'est ce qu'on voulait faire.
+
+782
+01:13:55,080 --> 01:13:56,080
+Et une voix.
+
+783
+01:13:56,080 --> 01:13:58,080
+Mais avec débat.
+
+784
+01:13:58,080 --> 01:14:00,080
+Moi, je veux...
+
+785
+01:14:00,440 --> 01:14:02,440
+Je veux vraiment un débat.
+
+786
+01:14:03,440 --> 01:14:06,440
+On n'arrive pas encore à se couper la parole, tu vois.
+
+787
+01:14:06,440 --> 01:14:07,440
+Il faudrait que...
+
+788
+01:14:07,440 --> 01:14:10,440
+Des fois, ils prennent le truc et ils font,
+
+789
+01:14:10,440 --> 01:14:12,440
+non, non, non, je ne suis pas d'accord.
+
+790
+01:14:12,440 --> 01:14:13,440
+Ça, c'est chaud à faire.
+
+791
+01:14:14,440 --> 01:14:16,440
+Parce qu'ils attendent la fin de la phrase, quand même.
+
+792
+01:14:16,440 --> 01:14:17,440
+Ils sont pollus.
+
+793
+01:14:17,440 --> 01:14:19,440
+Il y a un truc qui risque d'arriver aussi un jour.
+
+794
+01:14:19,440 --> 01:14:23,440
+C'est que de la même façon que dans des jeux vidéo au style Call of Duty,
+
+795
+01:14:23,440 --> 01:14:25,440
+il y en a qui mettent des bots pour jouer à leur place.
+
+796
+01:14:25,440 --> 01:14:28,440
+Un jour, dans des spaces comme ici même,
+
+797
+01:14:28,800 --> 01:14:30,800
+il y aura des petits malins qui vont dire,
+
+798
+01:14:30,800 --> 01:14:34,800
+tiens, avec des personnalités qu'ils auront créées à l'avance,
+
+799
+01:14:34,800 --> 01:14:37,800
+va foutre le bazar, parce qu'il y en a qui sont assez vicieux,
+
+800
+01:14:37,800 --> 01:14:38,800
+parce que ça les amuse,
+
+801
+01:14:38,800 --> 01:14:43,800
+de mettre un fou intervenant et qui raconte, qui parle avec nous,
+
+802
+01:14:43,800 --> 01:14:47,800
+en plus en parlant de manière très naturelle, comme je le fais,
+
+803
+01:14:47,800 --> 01:14:50,800
+et qui commencera un peu à mettre son brin.
+
+804
+01:14:50,800 --> 01:14:52,800
+Ça pourra arriver un jour.
+
+805
+01:14:54,800 --> 01:14:57,800
+Je vois bien le chatbot radio chat qui arrive,
+
+806
+01:14:58,160 --> 01:15:01,160
+et il commence à dire, attendez, j'ai un petit problème technique
+
+807
+01:15:01,160 --> 01:15:03,160
+de ce gros...
+
+808
+01:15:06,160 --> 01:15:08,160
+qui aura tout copié de toi.
+
+809
+01:15:10,160 --> 01:15:11,160
+Je vais le tweaker de ouf.
+
+810
+01:15:11,160 --> 01:15:15,160
+Quand je vais lui faire manger toutes les transcriptions d'épisodes,
+
+811
+01:15:15,160 --> 01:15:18,160
+il ne verra que du feu.
+
+812
+01:15:20,160 --> 01:15:24,160
+Toi, tu te fais geek sur ce que tu as fait avec ton fils,
+
+813
+01:15:24,520 --> 01:15:26,520
+à une échelle étatique,
+
+814
+01:15:26,520 --> 01:15:30,520
+pour du hacking entre pays,
+
+815
+01:15:30,520 --> 01:15:32,520
+qui sont la guerre numérique.
+
+816
+01:15:32,520 --> 01:15:34,520
+Effectivement, les intelligences artificielles,
+
+817
+01:15:34,520 --> 01:15:36,520
+elles n'en auront plus besoin, elles seront en autopilote.
+
+818
+01:15:36,520 --> 01:15:41,520
+Le jour où il y aura une guerre de larvée ou de tranchée
+
+819
+01:15:41,520 --> 01:15:45,520
+qui va se déclarer entre les Etats-Unis et la Corée du Nord,
+
+820
+01:15:45,520 --> 01:15:47,520
+ce sera des guerres d'intelligence artificielle
+
+821
+01:15:47,520 --> 01:15:50,520
+qui vont essayer d'hacker d'un côté le Pentagone, de l'autre...
+
+822
+01:15:50,520 --> 01:15:52,520
+C'est sûr.
+
+823
+01:15:52,880 --> 01:15:54,880
+C'est déjà le cas.
+
+824
+01:15:54,880 --> 01:15:57,880
+Au niveau de la cyber, ils sont tous en train de flipper
+
+825
+01:15:57,880 --> 01:16:00,880
+parce que ça va trop vite.
+
+826
+01:16:01,880 --> 01:16:05,880
+Ne serait-ce que sur du social hacking,
+
+827
+01:16:05,880 --> 01:16:09,880
+la manipulation des masses par des IA,
+
+828
+01:16:09,880 --> 01:16:12,880
+ce sera encore plus facile qu'avant.
+
+829
+01:16:12,880 --> 01:16:16,880
+Si tu n'es pas protégé par un chatbot
+
+830
+01:16:16,880 --> 01:16:20,880
+qui est capable de vérifier un peu le chatbot qui est en face,
+
+831
+01:16:21,240 --> 01:16:25,240
+tu ne vas avaler que de la merde.
+
+832
+01:16:25,240 --> 01:16:29,240
+Et puis, bien précisément, on va te mettre dans ta bulle.
+
+833
+01:16:29,240 --> 01:16:31,240
+Il n'y aura plus que toi dans la bulle.
+
+834
+01:16:31,240 --> 01:16:34,240
+Avant, on était quelques millions.
+
+835
+01:16:34,240 --> 01:16:37,240
+Maintenant, chacun sa bulle.
+
+836
+01:16:41,240 --> 01:16:43,240
+En tout cas...
+
+837
+01:16:44,240 --> 01:16:47,240
+Je recommande à tous d'avoir...
+
+838
+01:16:47,600 --> 01:16:50,600
+Non, si vous ne voulez pas payer 20 dollars par mois,
+
+839
+01:16:50,600 --> 01:16:52,600
+honnêtement, c'est compréhensible.
+
+840
+01:16:52,600 --> 01:16:55,600
+Mais ceux qui ont 20 dollars à dépenser
+
+841
+01:16:55,600 --> 01:16:59,600
+ou ceux qui ont déjà l'abonnement GPT+.
+
+842
+01:16:59,600 --> 01:17:03,600
+Je vous recommande d'essayer de créer votre propre GPT.
+
+843
+01:17:03,600 --> 01:17:07,600
+Ne serait-ce que pour...
+
+844
+01:17:07,600 --> 01:17:11,600
+Vous faire votre propre formation
+
+845
+01:17:11,600 --> 01:17:14,600
+de prompteur professionnel.
+
+846
+01:17:14,960 --> 01:17:16,960
+Oui.
+
+847
+01:17:16,960 --> 01:17:19,960
+Tu as un conseil à donner?
+
+848
+01:17:19,960 --> 01:17:23,960
+Est-ce que tu as un outil, un truc que tu as découvert récemment
+
+849
+01:17:23,960 --> 01:17:25,960
+que tu aimerais faire découvrir?
+
+850
+01:17:25,960 --> 01:17:31,960
+Un conseil à donner à ceux qui veulent sauter dans le train?
+
+851
+01:17:34,960 --> 01:17:37,960
+Le GPT4, c'est sûr.
+
+852
+01:17:37,960 --> 01:17:39,960
+Je pense que c'est...
+
+853
+01:17:39,960 --> 01:17:41,960
+En passant par Bing, déjà.
+
+854
+01:17:42,320 --> 01:17:45,320
+Tu peux avoir une vingtaine d'images.
+
+855
+01:17:45,320 --> 01:17:48,320
+Et de s'amuser à...
+
+856
+01:17:48,320 --> 01:17:52,320
+Des fois, tu prends une photo de n'importe quoi
+
+857
+01:17:52,320 --> 01:17:55,320
+et tu poses tes questions dessus.
+
+858
+01:17:55,320 --> 01:17:59,320
+Ça peut être des schémas que tu reçois et que tu n'as pas compris.
+
+859
+01:17:59,320 --> 01:18:02,320
+Tu ne t'embêtes même plus à récupérer le texte.
+
+860
+01:18:02,320 --> 01:18:05,320
+Tu prends simplement la photo et tu lui dis...
+
+861
+01:18:05,320 --> 01:18:08,320
+Je ne comprends rien, tu peux m'expliquer, s'il te plaît?
+
+862
+01:18:08,680 --> 01:18:11,680
+C'est un assistant terrible pour ça.
+
+863
+01:18:11,680 --> 01:18:14,680
+Même sur des trucs super complexes,
+
+864
+01:18:14,680 --> 01:18:17,680
+il va réussir à t'expliquer, à t'extraire des données,
+
+865
+01:18:17,680 --> 01:18:19,680
+à te les structurer.
+
+866
+01:18:19,680 --> 01:18:22,680
+Et tu vas pouvoir discuter autour de ça.
+
+867
+01:18:22,680 --> 01:18:24,680
+Donc c'est...
+
+868
+01:18:24,680 --> 01:18:26,680
+Ouais.
+
+869
+01:18:26,680 --> 01:18:28,680
+Les 20 balles, ça les vaut.
+
+870
+01:18:28,680 --> 01:18:30,680
+Et en pratique, ou en outil,
+
+871
+01:18:30,680 --> 01:18:32,680
+qui te permettent éventuellement de...
+
+872
+01:18:32,680 --> 01:18:34,680
+Tu sais, un truc qui peut te servir,
+
+873
+01:18:34,680 --> 01:18:37,680
+genre concrètement, je ne sais pas,
+
+874
+01:18:38,040 --> 01:18:41,040
+pour le travail ou pour une activité...
+
+875
+01:18:41,040 --> 01:18:44,040
+Je ne suis pas professionnel, ou...
+
+876
+01:18:44,040 --> 01:18:47,040
+Activité artistique, tu sais, un truc qui...
+
+877
+01:18:47,040 --> 01:18:52,040
+Ce n'est pas juste du loisir, un truc qui change ton quotidien.
+
+878
+01:18:53,040 --> 01:18:56,040
+Le GPT Store.
+
+879
+01:18:56,040 --> 01:19:00,040
+Là, j'en ai trouvé un aussi, qui permet de scanner
+
+880
+01:19:00,040 --> 01:19:03,040
+l'ensemble des documents que vous avez.
+
+881
+01:19:03,040 --> 01:19:06,040
+Et du coup, ça te fait ta base de connaissances,
+
+882
+01:19:06,400 --> 01:19:08,400
+mais tout reste en local.
+
+883
+01:19:08,400 --> 01:19:11,400
+Là, par contre, il faudrait que je retrouve le lien.
+
+884
+01:19:11,400 --> 01:19:13,400
+Ah oui, ça, ça m'intéresse.
+
+885
+01:19:13,400 --> 01:19:16,400
+Et ça scanne aussi les images, donc ça, c'est pas mal.
+
+886
+01:19:18,400 --> 01:19:21,400
+Quand t'es un peu bordélique,
+
+887
+01:19:21,400 --> 01:19:24,400
+tu lui dis, voilà, mon drive, il est là.
+
+888
+01:19:24,400 --> 01:19:27,400
+Et tu me scans tout ça, et...
+
+889
+01:19:27,400 --> 01:19:30,400
+Et à chaque fois que t'as des questions,
+
+890
+01:19:30,400 --> 01:19:33,400
+ça peut se rapporter à ta connaissance, ta base de connaissances.
+
+891
+01:19:33,760 --> 01:19:36,760
+Et ça te fait un genre de chat bot,
+
+892
+01:19:36,760 --> 01:19:39,760
+c'est-à-dire que tu lui poses une question,
+
+893
+01:19:39,760 --> 01:19:42,760
+et ça va être cherché, c'est alimenté par tous les documents que tu lui donnes,
+
+894
+01:19:42,760 --> 01:19:43,760
+y compris les images?
+
+895
+01:19:43,760 --> 01:19:46,760
+Ah ouais, si t'as le nom de ce truc-là, je suis chaud.
+
+896
+01:19:46,760 --> 01:19:49,760
+Et puis là, je joue avec les trucs de clonage de voix,
+
+897
+01:19:49,760 --> 01:19:52,760
+parce que franchement, ça...
+
+898
+01:19:52,760 --> 01:19:57,760
+Écouter du Britney Spears chanté par le chanteur de Metallica,
+
+899
+01:19:57,760 --> 01:20:00,760
+c'est délire, quoi.
+
+900
+01:20:00,760 --> 01:20:02,760
+Ça m'amuse beaucoup.
+
+901
+01:20:03,760 --> 01:20:04,760
+Ouais.
+
+902
+01:20:04,760 --> 01:20:07,760
+Il y a un truc que je vais explorer,
+
+903
+01:20:07,760 --> 01:20:12,760
+j'ai essayé d'inviter le compte de Montecrypto à parler,
+
+904
+01:20:12,760 --> 01:20:15,760
+mais je ne suis pas sûr qu'il soit encore opérationnel pour ça.
+
+905
+01:20:15,760 --> 01:20:18,760
+Mais en gros, il a posté un truc sur ChatGPT
+
+906
+01:20:18,760 --> 01:20:21,760
+qui utilise la ligne Network.
+
+907
+01:20:21,760 --> 01:20:23,760
+Donc ça, ça m'intéresse,
+
+908
+01:20:23,760 --> 01:20:27,760
+c'est un truc que je vais explorer, évidemment, dans les jours à venir,
+
+909
+01:20:27,760 --> 01:20:29,760
+parce que ça m'a l'air complètement fou.
+
+910
+01:20:29,760 --> 01:20:32,760
+On en parlait, en plus, il n'y a pas si longtemps,
+
+911
+01:20:33,120 --> 01:20:37,120
+les gens artificiels qui utilisent les cryptos pour se payer entre elles
+
+912
+01:20:37,120 --> 01:20:39,120
+ou payer des gens ou pour faire toutes sortes de choses.
+
+913
+01:20:39,120 --> 01:20:42,120
+Bon, bah là, voilà, ça commence.
+
+914
+01:20:47,120 --> 01:20:49,120
+Je me demande comment ça fonctionne.
+
+915
+01:20:49,120 --> 01:20:51,120
+Je vais diguer un petit peu.
+
+916
+01:20:51,120 --> 01:20:56,120
+J'ai une question sur ChatGPT 4, là, un peu plus.
+
+917
+01:20:56,120 --> 01:21:01,120
+Quand on paye, les images générées qu'on demande,
+
+918
+01:21:01,480 --> 01:21:03,480
+on peut en avoir autant qu'on veut, contrairement à Bing, là,
+
+919
+01:21:03,480 --> 01:21:06,480
+puisque c'est gratuit, effectivement, il y a un nombre limité en Crédit.
+
+920
+01:21:06,480 --> 01:21:11,480
+On avait des limitations jusqu'à la semaine dernière.
+
+921
+01:21:11,480 --> 01:21:14,480
+Là, depuis, je n'ai pas vu de limitation.
+
+922
+01:21:14,480 --> 01:21:17,480
+Alors, je ne sais pas si...
+
+923
+01:21:17,480 --> 01:21:21,480
+Vu qu'on a toute la famille qui l'utilise tout le temps,
+
+924
+01:21:24,480 --> 01:21:27,480
+peut-être qu'ils se sont calmés, du coup...
+
+925
+01:21:27,840 --> 01:21:31,840
+Mais là, les dernières images, je n'ai pas eu de limitation.
+
+926
+01:21:33,840 --> 01:21:35,840
+D'accord.
+
+927
+01:21:36,840 --> 01:21:39,840
+Bon, en tout cas, merci les amis.
+
+928
+01:21:39,840 --> 01:21:41,840
+Je pense qu'on voit ce qui était là,
+
+929
+01:21:41,840 --> 01:21:44,840
+parce que ça fait quasiment une heure et demie qu'on est ensemble.
+
+930
+01:21:44,840 --> 01:21:46,840
+Merci, Riku, d'être passé.
+
+931
+01:21:46,840 --> 01:21:50,840
+Merci, Geek, pour ton intervention.
+
+932
+01:21:50,840 --> 01:21:53,840
+Et CypherTux aussi d'avoir fait goût.
+
+933
+01:21:53,840 --> 01:21:55,840
+Qu'est-ce que je voulais dire?
+
+934
+01:21:56,200 --> 01:21:59,200
+Demain, c'est une grosse émission.
+
+935
+01:21:59,200 --> 01:22:02,200
+Demain, il y a Debi Gouel qui vient.
+
+936
+01:22:02,200 --> 01:22:05,200
+Le duo de Debi Gouel qui va venir dans l'émission.
+
+937
+01:22:05,200 --> 01:22:10,200
+On va parler d'influenceurs versus journalistes.
+
+938
+01:22:10,200 --> 01:22:13,200
+Donc là, on n'est plus du tout dans l'IA.
+
+939
+01:22:13,200 --> 01:22:15,200
+On va être dans le...
+
+940
+01:22:15,200 --> 01:22:18,200
+Ça va être un petit peu philosophique, je pense.
+
+941
+01:22:18,200 --> 01:22:20,200
+On va bien discuter, ça va être cool.
+
+942
+01:22:20,200 --> 01:22:23,200
+Donc, venez, si vous êtes intéressés par ce débat-là, justement.
+
+943
+01:22:23,560 --> 01:22:26,560
+Qui a raison, qui a tort?
+
+944
+01:22:26,560 --> 01:22:28,560
+Pas entre Debi Gouel, moi ou d'autres.
+
+945
+01:22:28,560 --> 01:22:31,560
+C'est entre les journalistes et les influenceurs.
+
+946
+01:22:31,560 --> 01:22:34,560
+Et on va parler justement de la décentralisation de l'information,
+
+947
+01:22:34,560 --> 01:22:37,560
+de la responsabilité, de l'éthique,
+
+948
+01:22:37,560 --> 01:22:38,560
+de toutes ces choses-là.
+
+949
+01:22:38,560 --> 01:22:40,560
+Qui véhicule ces valeurs-là?
+
+950
+01:22:40,560 --> 01:22:43,560
+Et voilà, où on en est par rapport à tout ça.
+
+951
+01:22:43,560 --> 01:22:45,560
+Probablement que l'IA va d'ailleurs s'inviter.
+
+952
+01:22:45,560 --> 01:22:48,560
+Je ne sais pas, dans le débat, ça pourrait arriver.
+
+953
+01:22:48,560 --> 01:22:49,560
+Il y a Tiffany.
+
+954
+01:22:49,560 --> 01:22:50,560
+Alors, juste avant qu'on se quitte,
+
+955
+01:22:50,560 --> 01:22:51,560
+il y a Tiffany qui dit,
+
+956
+01:22:51,920 --> 01:22:53,920
+« Bonsoir, une petite question que je repose.
+
+957
+01:22:53,920 --> 01:22:55,920
+J'ai un ancien fichier Animate, ex-Flash,
+
+958
+01:22:55,920 --> 01:22:58,920
+et je recherche une IA qui pourrait finir ce petit dessin-animé.
+
+959
+01:22:58,920 --> 01:22:59,920
+Une idée? »
+
+960
+01:22:59,920 --> 01:23:02,920
+Comme il a dit, Geek, tout à l'heure, va sur...
+
+961
+01:23:02,920 --> 01:23:04,920
+Futurpedia.
+
+962
+01:23:04,920 --> 01:23:07,920
+Oui, Futurpedia.
+
+963
+01:23:07,920 --> 01:23:14,920
+Et c'est là où ils ont une liste de tous les outils qui existent.
+
+964
+01:23:14,920 --> 01:23:17,920
+Peut-être pas tous, mais quand même où c'est conséquent.
+
+965
+01:23:18,280 --> 01:23:21,280
+C'est une base de données d'outils d'intelligence artificielle.
+
+966
+01:23:21,280 --> 01:23:24,280
+Tu fais une recherche et tu devrais trouver ton bonheur.
+
+967
+01:23:26,280 --> 01:23:28,280
+En tout cas, merci à tous.
+
+968
+01:23:28,280 --> 01:23:30,280
+Et puis, on se dit rendez-vous demain à 22h.
+
+969
+01:23:32,280 --> 01:23:35,280
+Et maintenant, je vais mettre de la musique.
+
+970
+01:23:35,280 --> 01:23:36,280
+Ça devrait marcher.
+
+971
+01:23:36,280 --> 01:23:37,280
+Allez, ciao.
+
+972
+01:23:38,280 --> 01:23:39,280
+Ciao, tout le monde.

@@ -1,0 +1,10059 @@
+1
+00:02:00,000 --> 00:02:09,680
+Salut, bienvenue sur R2Shad, on est le mercredi 17 janvier 2024 et ce soir c'est une soirée
+
+2
+00:02:09,680 --> 00:02:10,680
+spéciale...
+
+3
+00:02:10,680 --> 00:02:16,960
+Une soirée spéciale DeFi et la musique ne veut pas s'arrêter, voilà! Bienvenue à
+
+4
+00:02:16,960 --> 00:02:21,160
+tous, j'espère que vous allez bien, salut Laurent et salut...
+
+5
+00:02:21,160 --> 00:02:25,400
+Ben Opal en fait, je vais dire c'est le nom du projet mais je ne connais pas le prénom.
+
+6
+00:02:25,640 --> 00:02:31,440
+Ouais tu peux m'appeler Béguin, enchanté, j'ai hésité à jouer une avec mon compte
+
+7
+00:02:31,440 --> 00:02:35,000
+perso mais je pense que ça parlera plus aux gens si je joins avec celui-ci.
+
+8
+00:02:35,000 --> 00:02:37,720
+Oh t'as bien fait, t'as carrément bien fait.
+
+9
+00:02:37,720 --> 00:02:43,240
+Ben bienvenue et puis bienvenue à ceux qui sont là, bienvenue à Petit Colibri, Safer
+
+10
+00:02:43,240 --> 00:02:44,840
+Tux et les autres.
+
+11
+00:02:44,840 --> 00:02:48,160
+Et puis, ouais alors aujourd'hui on fait une émission...
+
+12
+00:02:48,160 --> 00:02:55,080
+Alors on avait fait une émission DeFi avant de partir, avant les vacances, donc vers la
+
+13
+00:02:55,080 --> 00:03:01,800
+mi-décembre, on avait fait un petit résumé de la situation mais ça vaut le coup de refaire
+
+14
+00:03:01,800 --> 00:03:07,480
+un maintenant au début d'année parce que c'est le début de l'année tout simplement,
+
+15
+00:03:07,480 --> 00:03:11,160
+on entre dans le truc et en plus pendant les vacances, en fait, on a eu un boule marquette
+
+16
+00:03:11,160 --> 00:03:12,880
+qui a pointé le bout de son nez.
+
+17
+00:03:12,880 --> 00:03:17,360
+Alors on ne sait pas si ça va durer ou si c'est temporaire mais ça vaut le coup de
+
+18
+00:03:17,360 --> 00:03:22,800
+reparler du coup, de parler des perspectives à la lumière de ce qui s'est passé et en
+
+19
+00:03:22,800 --> 00:03:27,160
+plus de ça, il y a eu toutes sortes de choses qui sont passées, notamment l'ETF, ça je
+
+20
+00:03:27,160 --> 00:03:32,880
+crois qu'on va en parler quand même extensivement, il y a eu l'ETF Bitcoin mais bien sûr et
+
+21
+00:03:32,880 --> 00:03:39,400
+maintenant il y a la perspective de l'ETF ETH, Ethereum et puis il y a d'autres petits
+
+22
+00:03:39,400 --> 00:03:45,240
+événements qui sont passés notamment, genre là un truc dont tout le monde parle qui est
+
+23
+00:03:45,240 --> 00:03:47,240
+le DPEG de TUSD.
+
+24
+00:03:47,680 --> 00:03:52,360
+Je pense que ce serait quand même un sujet intéressant à aborder.
+
+25
+00:03:52,360 --> 00:03:59,280
+Je rappelle que cette émission est sponsorisée par MEV Capital qui m'aide énormément, donc
+
+26
+00:03:59,280 --> 00:04:02,760
+je les remercie énormément et je suis très content que Laurent de MEV Capital soit là
+
+27
+00:04:02,760 --> 00:04:05,640
+ce soir en compagnie des autres personnes.
+
+28
+00:04:05,640 --> 00:04:08,320
+Ton prénom c'est bien BEGIN c'est ça?
+
+29
+00:04:08,320 --> 00:04:10,440
+Oui c'est ça.
+
+30
+00:04:10,440 --> 00:04:13,360
+Ok mais tu as écrit ça comment? B E G I N?
+
+31
+00:04:13,480 --> 00:04:17,360
+Oui BEGIN comme avoir le BEGIN par exemple.
+
+32
+00:04:17,360 --> 00:04:19,520
+Ah ok comme avoir le BEGIN pour quelqu'un.
+
+33
+00:04:19,520 --> 00:04:22,320
+C'est cool.
+
+34
+00:04:22,320 --> 00:04:31,760
+Donc c'est ça MEV Capital, je les remercie énormément pour le soutien à l'émission,
+
+35
+00:04:31,760 --> 00:04:35,480
+c'est vraiment essentiel pour moi.
+
+36
+00:04:35,480 --> 00:04:40,000
+J'ai aussi envie de dire qu'il y a un Patreon qui a été créé il n'y a pas longtemps
+
+37
+00:04:40,000 --> 00:04:41,000
+par moi même.
+
+38
+00:04:41,000 --> 00:04:47,720
+Si jamais vous êtes intéressé de participer à ce Patreon, ce n'est pas obligé mais
+
+39
+00:04:47,720 --> 00:04:48,720
+n'hésitez pas.
+
+40
+00:04:48,720 --> 00:04:51,720
+Il y a le lien quelque part, il faudra que je leur mette le lien dans quelque chose d'accessible
+
+41
+00:04:51,720 --> 00:04:59,640
+parce que j'avais fait un post, il est tombé dans l'oubli je pense dans le fil de mes
+
+42
+00:04:59,640 --> 00:05:02,840
+posts, bien que je n'ai pas posté énormément.
+
+43
+00:05:02,840 --> 00:05:05,760
+Bref on va commencer l'émission.
+
+44
+00:05:06,520 --> 00:05:09,920
+La question du soir c'est comment on fait de l'argent en 2024?
+
+45
+00:05:09,920 --> 00:05:11,080
+Ça c'est une très très bonne question.
+
+46
+00:05:11,080 --> 00:05:15,720
+Mais en fait on va aller un petit peu plus loin que ça parce qu'évidemment il y a
+
+47
+00:05:15,720 --> 00:05:20,000
+des milliards de façons de faire de l'argent en 2024, il n'y a pas que dans les cryptos
+
+48
+00:05:20,000 --> 00:05:23,160
+mais on va se concentrer plus sur la DeFi.
+
+49
+00:05:23,160 --> 00:05:24,880
+Est-ce que tu peux expliquer?
+
+50
+00:05:24,880 --> 00:05:31,200
+Alors évidemment Laurent on te connaît déjà parce que tu viens régulièrement mais BEGIN
+
+51
+00:05:31,200 --> 00:05:35,760
+Est-ce que tu peux expliquer quel est ton parcours et puis de quoi il s'agit?
+
+52
+00:05:35,760 --> 00:05:38,840
+Est-ce que tu peux décrire un peu le projet Opale?
+
+53
+00:05:38,840 --> 00:05:41,640
+Yes évidemment.
+
+54
+00:05:41,640 --> 00:05:47,680
+Déjà enchanté de vous rencontrer, ravi de pouvoir parler ce soir dans le podcast.
+
+55
+00:05:47,680 --> 00:05:52,960
+Alors moi mon parcours crypto il est je dirais un peu banal.
+
+56
+00:05:52,960 --> 00:05:57,920
+Je suis rentré vraiment sérieusement dans les cryptos après le crash du Covid.
+
+57
+00:05:58,120 --> 00:06:03,880
+Avant ça j'étais étudiant donc j'avais survolé la question mais je ne m'étais jamais intéressé
+
+58
+00:06:03,880 --> 00:06:05,600
+vraiment en profondeur au sujet.
+
+59
+00:06:05,600 --> 00:06:10,960
+Après le crash Covid il y a eu une vraie opportunité financière pour beaucoup de gens.
+
+60
+00:06:10,960 --> 00:06:17,400
+Donc j'ai voulu essayer de saisir cette opportunité et j'ai été drive un peu aussi par l'aspect
+
+61
+00:06:17,400 --> 00:06:20,400
+social qui prenait de plus en plus de place.
+
+62
+00:06:20,400 --> 00:06:27,480
+Mais j'ai rapidement en fait été vraiment plus attiré par l'aspect professionnel entre
+
+63
+00:06:27,480 --> 00:06:32,120
+guillemets des cryptos au delà du trading, au delà de la spéculation etc.
+
+64
+00:06:32,120 --> 00:06:37,280
+Et donc j'ai rapidement intégré des projets, alors pas forcément les plus gros projets
+
+65
+00:06:37,280 --> 00:06:41,080
+de l'écosystème mais malgré tout des projets quand même assez successfouls et qui sont
+
+66
+00:06:41,080 --> 00:06:42,080
+encore là aujourd'hui.
+
+67
+00:06:42,080 --> 00:06:47,160
+Notamment Paladin Vote qui est une bribe marketplace.
+
+68
+00:06:47,160 --> 00:06:52,400
+Alors justement par là ça me permet d'introduire le fait que j'ai tout de suite été assez
+
+69
+00:06:52,400 --> 00:06:56,800
+intéressé en profondeur dans l'écosystème, pas forcément les surcouches qui ont rapport
+
+70
+00:06:56,800 --> 00:07:01,400
+au NFT, qui ont rapport à tout ce qui est spéculation etc.
+
+71
+00:07:01,400 --> 00:07:07,080
+Il y a vraiment un aspect si je puis dire tech qui m'a intéressé au début, en fait
+
+72
+00:07:07,080 --> 00:07:13,000
+qui m'a donné beaucoup d'inspiration, qui a développé une certaine passion pour l'écosystème.
+
+73
+00:07:13,000 --> 00:07:20,240
+Et depuis bon j'ai pas changé d'entreprise entre guillemets, je suis resté chez Paladin
+
+74
+00:07:20,240 --> 00:07:25,480
+tout le long, mais j'ai au fur et à mesure commencé à interagir avec un peu plus de
+
+75
+00:07:25,480 --> 00:07:30,840
+projets, notamment Aura Finance et Spiral qui sont aussi deux grosses raisons pour
+
+76
+00:07:30,840 --> 00:07:32,800
+lesquelles Opal existe aujourd'hui.
+
+77
+00:07:32,800 --> 00:07:38,840
+Et donc pour entrer directement dans le sujet d'Opal, j'imagine que certains d'entre
+
+78
+00:07:38,840 --> 00:07:45,600
+vous doivent être assez familier avec Konic qui profite déjà de cette position de first
+
+79
+00:07:45,600 --> 00:07:53,360
+dever sur la technologie underlying de nos projets respectifs, qui est le système de
+
+80
+00:07:53,360 --> 00:07:54,360
+Omnipool.
+
+81
+00:07:54,360 --> 00:07:59,480
+Et je trouve qu'en fait on est dans une timeline vraiment intéressante pour faire grandir
+
+82
+00:07:59,480 --> 00:08:05,800
+ce genre de projet, puisque ça va permettre en fait vraiment de donner au, si je puis
+
+83
+00:08:05,800 --> 00:08:10,480
+dire le retail, les personnes qui n'ont pas forcément une grande éducation DeFi, qui
+
+84
+00:08:10,480 --> 00:08:14,680
+n'ont pas non plus forcément le temps de consacrer vraiment leur journée à ça.
+
+85
+00:08:14,760 --> 00:08:20,040
+Eh bien néanmoins, ça va leur permettre d'accéder à des stratégies de farming assez
+
+86
+00:08:20,040 --> 00:08:26,480
+sophistiquées, aller chercher l'efficiency le plus possible sans avoir vraiment à se
+
+87
+00:08:26,480 --> 00:08:31,600
+poser la question de exactement comment ça fonctionne, quels sont les différents risques,
+
+88
+00:08:31,600 --> 00:08:32,600
+etc.
+
+89
+00:08:32,600 --> 00:08:35,680
+D'avoir cette position un peu entre les deux mondes.
+
+90
+00:08:35,680 --> 00:08:46,600
+Et donc pour la faire rapide, Opal en fait il permet à l'utilisateur DeFi moyen de déposer
+
+91
+00:08:46,600 --> 00:08:50,720
+de la liquidité dans un seul actif, plutôt que d'avoir besoin de créer des paires de
+
+92
+00:08:50,720 --> 00:08:51,880
+liquidités etc.
+
+93
+00:08:51,880 --> 00:08:57,840
+De déposer un seul actif comme par exemple du WETH ou les différents derivatives de
+
+94
+00:08:57,840 --> 00:09:04,760
+l'ETH, déposer dans des Omnipool et ensuite la TVL qui est cumulée dans ces Omnipool va
+
+95
+00:09:04,840 --> 00:09:13,200
+être redistribuée sur des échanges décentralisés, des DEX, de manière optimale pour aller avoir
+
+96
+00:09:13,200 --> 00:09:19,680
+plus de diversité dans les paires de farming, pour isoler un peu plus le risque et supprimer
+
+97
+00:09:19,680 --> 00:09:23,120
+les problèmes d'Impart Malent, etc.
+
+98
+00:09:23,120 --> 00:09:27,760
+Et donc voilà, du point de vue de l'utilisateur c'est vraiment déposer de la liquidité dans
+
+99
+00:09:27,760 --> 00:09:35,200
+une Omnipool, dans un single asset et laisser la gouvernance du projet, laisser les educated
+
+100
+00:09:35,200 --> 00:09:42,000
+users si on peut dire, faire la sélection des solutions de farming les plus appropriées,
+
+101
+00:09:42,000 --> 00:09:47,120
+les plus efficaces pour aller essayer de chercher un yield le plus conséquent possible tout
+
+102
+00:09:47,120 --> 00:09:54,320
+en s'exposant au minimum à tous les risques qui sont rapport à cette diversification sur
+
+103
+00:09:54,320 --> 00:09:55,320
+le marché.
+
+104
+00:09:55,880 --> 00:09:56,880
+Ok.
+
+105
+00:09:56,880 --> 00:10:02,240
+C'est une sorte de… je te laisserai un peu pour les questions bien sûr, et de fait,
+
+106
+00:10:02,240 --> 00:10:06,600
+est-ce qu'on peut dire que c'est une sorte de staking optimisé, Opal?
+
+107
+00:10:06,600 --> 00:10:10,560
+Alors je pense que c'est un petit peu différent parce que le principe du staking si on traduit
+
+108
+00:10:10,560 --> 00:10:15,080
+littéralement ça veut dire l'enjeu, donc clairement c'est de dire vas-y je mets en
+
+109
+00:10:15,080 --> 00:10:21,160
+enjeu mes tokens, je les lock dans un module et en échange je vais recevoir un yield,
+
+110
+00:10:21,160 --> 00:10:22,160
+un revenu.
+
+111
+00:10:22,160 --> 00:10:26,320
+Là plutôt je pense qu'Opal ça pourrait être décrit comme une porte d'accès à
+
+112
+00:10:26,320 --> 00:10:30,880
+un univers beaucoup plus vaste, comme une sorte d'entonnoir où tu vas poser un seul
+
+113
+00:10:30,880 --> 00:10:37,320
+actif et tu vas avoir accès à tout un grand panel d'opportunités de farming.
+
+114
+00:10:37,320 --> 00:10:42,280
+Mais c'est un petit peu différent dans la mesure où tes fonds vont être réenvoyés
+
+115
+00:10:42,280 --> 00:10:46,600
+sur ces différentes plateformes underlying, tandis qu'avec le staking tes fonds vont
+
+116
+00:10:46,600 --> 00:10:50,480
+rester à un seul endroit, ils ne sont pas censés bouger, l'objectif c'est de protéger
+
+117
+00:10:50,480 --> 00:10:55,720
+le réseau en retirant un petit peu la liquidité de la circulation etc.
+
+118
+00:10:55,720 --> 00:11:04,960
+J'ai une information inutile et une question qui est éventuellement pertinente, l'information
+
+119
+00:11:04,960 --> 00:11:08,480
+inutile c'est que le système que tu es en train de décrire, je suis quasiment sûr
+
+120
+00:11:08,480 --> 00:11:12,920
+qu'il y a quelqu'un qui est venu en parler d'un autre projet qui faisait ça dans le
+
+121
+00:11:12,920 --> 00:11:15,720
+passé et j'ai complètement oublié ce que c'est, donc voilà.
+
+122
+00:11:15,720 --> 00:11:19,080
+Et donc le deuxième truc c'est une question, est-ce que tu peux dire ce que c'est une
+
+123
+00:11:19,080 --> 00:11:21,080
+Omnipool pour ceux qui ne savent pas justement?
+
+124
+00:11:21,080 --> 00:11:26,000
+Yes évidemment, alors pour revenir vite fait sur ton information, j'imagine qu'effectivement
+
+125
+00:11:26,000 --> 00:11:31,880
+il y a plusieurs projets qui ont des fondamentaux similaires à Opal dont on s'est inspiré
+
+126
+00:11:31,880 --> 00:11:41,400
+en principal Konic, mais j'imagine que peut-être Zumami, Konic ou d'autres builders d'autres
+
+127
+00:11:41,400 --> 00:11:45,880
+projets auraient pu passer dans le podcast et je pense qu'effectivement ils ont dû
+
+128
+00:11:45,880 --> 00:11:49,880
+présenter des solutions un petit peu similaires, là où Opal va se différencier c'est vraiment
+
+129
+00:11:49,880 --> 00:11:55,200
+sur l'aspect économique, c'est vraiment sur l'aspect écosystème qui est en dessous
+
+130
+00:11:55,200 --> 00:11:59,320
+d'Opal, c'est là qu'on trouve les différences avec les deux autres projets.
+
+131
+00:11:59,320 --> 00:12:02,040
+Maintenant une Omnipool qu'est-ce que c'est?
+
+132
+00:12:02,040 --> 00:12:08,720
+Ça fonctionne pareil qu'une pool classique en fait, à la nuance près que au lieu de
+
+133
+00:12:08,720 --> 00:12:14,120
+déposer deux actifs qui vont chacun avoir un poids, par exemple sur une pool Uniswap
+
+134
+00:12:14,120 --> 00:12:19,280
+on va souvent avoir 50% d'un actif et 50% de l'autre, mais sur Balancer on peut avoir
+
+135
+00:12:19,280 --> 00:12:24,120
+des pools avec des poids différents, par exemple 80% d'un actif et 20% de l'autre,
+
+136
+00:12:24,120 --> 00:12:30,560
+là en l'occurrence dans une Omnipool il y aura 100% d'un seul actif et c'est ça qui
+
+137
+00:12:30,560 --> 00:12:37,040
+permet ensuite de créer de la composabilité, d'aller répartir cet actif sur d'autres
+
+138
+00:12:37,040 --> 00:12:42,240
+underlying pools qui elles auront peut-être des poids différents qui ne seront pas 100%
+
+139
+00:12:42,240 --> 00:12:43,240
+dans le même actif.
+
+140
+00:12:43,240 --> 00:12:51,120
+Pour compléter effectivement Omnipool, en fait c'est au lieu que quand vous stakez
+
+141
+00:12:51,120 --> 00:12:58,320
+vos Ethereum sur un contrat, là avec Opal notamment il va rediriger ses Ethereum sur
+
+142
+00:12:58,320 --> 00:13:03,600
+d'autres contrats sous-jacents, de protocoles sous-jacents, type est-ce que Balancer en
+
+143
+00:13:03,600 --> 00:13:10,040
+ce moment c'est intéressant d'aller staker des Ethereum plus que sur Curve, dans le sens
+
+144
+00:13:10,040 --> 00:13:16,840
+Broad, les Omnipool vont permettre de faire ce dynamisme, c'est une sorte de pool dynamique
+
+145
+00:13:16,840 --> 00:13:19,800
+si vous voulez, en sélectionnant les meilleurs sous-jacents.
+
+146
+00:13:19,800 --> 00:13:33,480
+Ok, et donc j'en profite pour dire qu'il y a Axel qui nous a rejoint, alors Axel tu
+
+147
+00:13:33,480 --> 00:13:36,920
+bosses pour quel projet? Parce que Laurent tu m'avais parlé qu'il y aurait éventuellement
+
+148
+00:13:36,920 --> 00:13:39,600
+les gars de Spectra et Etena qui nous rejoindraient.
+
+149
+00:13:39,600 --> 00:13:47,200
+Oui, merci pour le passer, Spectra on a l'honneur d'avoir peut-être Antoine s'il a du temps
+
+150
+00:13:47,200 --> 00:13:50,200
+ce soir qui est avec nous actuellement.
+
+151
+00:13:50,200 --> 00:13:57,960
+Axel, on entend un petit retour je pense de ton speaker.
+
+152
+00:13:58,960 --> 00:14:07,880
+Je vais me mettre en mute dès que j'ai fini, bonjour à tous, le projet c'est Atena.
+
+153
+00:14:07,880 --> 00:14:14,520
+Ah ok d'accord, c'est Atena? Ah moi j'ai écrit Etena.
+
+154
+00:14:14,520 --> 00:14:20,280
+Et Atena c'est un autre projet qui pèse 125 millions de TBL depuis un mois.
+
+155
+00:14:20,280 --> 00:14:22,040
+Ok d'accord.
+
+156
+00:14:22,040 --> 00:14:23,520
+Bientôt mais pas encore.
+
+157
+00:14:23,520 --> 00:14:32,520
+Est-ce que tu peux te présenter rapidement comme ça pour ceux qui ne te connaissent
+
+158
+00:14:32,520 --> 00:14:36,560
+pas et puis moi en fait, même moi je fais connaissance avec toi ce soir.
+
+159
+00:14:36,560 --> 00:14:40,680
+Juste un peu ce que tu fais, est-ce que c'est Atena?
+
+160
+00:14:40,680 --> 00:14:50,080
+Il n'y a pas de souci, alors moi je suis arrivé dans le monde de la crypto blockchain 2016-2017,
+
+161
+00:14:50,080 --> 00:14:55,760
+comme beaucoup de gens j'ai investi, puis quand la DeFi est arrivée, je me suis dit
+
+162
+00:14:55,760 --> 00:15:01,160
+qu'il y avait un sérieux manque de sécurité dans ce monde.
+
+163
+00:15:01,160 --> 00:15:07,160
+Et donc à l'époque il n'y avait que Nexus qui proposait une assurance puisqu'on a commencé
+
+164
+00:15:07,160 --> 00:15:08,160
+le projet en 2020.
+
+165
+00:15:08,160 --> 00:15:15,840
+Et au fur et à mesure, bon il y a des concurrents qui sont arrivés mais avec le branding assurance
+
+166
+00:15:15,840 --> 00:15:19,480
+décentralisé mais sans la décentralisation pour beaucoup.
+
+167
+00:15:19,480 --> 00:15:23,400
+Donc voilà l'idée c'était de remédier à ce problème.
+
+168
+00:15:23,400 --> 00:15:30,200
+Nexus qui justement, ironiquement si je ne dis pas de bêtises, avait subi un hack également
+
+169
+00:15:30,200 --> 00:15:31,200
+non?
+
+170
+00:15:31,200 --> 00:15:38,720
+Alors ça dépend quand, il ne me semble pas parce qu'ils sont quand même relativement
+
+171
+00:15:38,720 --> 00:15:44,320
+décentralisés donc Nexus Mutual il ne me semble pas qu'il ait subi de hack.
+
+172
+00:15:44,800 --> 00:15:50,600
+Et bien peut-être je confonds avec un autre projet mais je ferai mes recherches.
+
+173
+00:15:50,600 --> 00:15:53,440
+Effectivement mais il y avait eu pas mal d'assurance.
+
+174
+00:15:53,440 --> 00:15:59,560
+Bon alors si on a bien compris Axel, toi, Ethena c'est donc un protocole d'assurance
+
+175
+00:15:59,560 --> 00:16:06,600
+décentralisé pour protéger ses cryptos en cas de hack ou de quelque chose comme ça.
+
+176
+00:16:06,600 --> 00:16:12,080
+Les projets d'assurance qui ont déjà été hackés, il me semble il y avait André Cronier
+
+177
+00:16:12,080 --> 00:16:15,480
+qui avait fait une assurance, celle-ci a été hackée, je ne me rappelle plus du nom.
+
+178
+00:16:15,480 --> 00:16:20,120
+Et d'ailleurs c'est vrai que c'est assez étonnant de voir des assurances hackées,
+
+179
+00:16:20,120 --> 00:16:21,120
+c'est un peu un comble.
+
+180
+00:16:21,120 --> 00:16:34,160
+Mais j'essaie de me souvenir d'un projet d'assurance qui avait été créé pendant
+
+181
+00:16:34,160 --> 00:16:38,600
+le dernier bull market et qui n'avait pas super bien fonctionné, je ne sais plus le
+
+182
+00:16:38,600 --> 00:16:40,840
+nom et j'avais foutu un peu d'argent dedans.
+
+183
+00:16:40,840 --> 00:16:41,840
+Comment?
+
+184
+00:16:42,600 --> 00:16:43,600
+Unslash?
+
+185
+00:16:43,600 --> 00:16:45,600
+Ah oui c'est ça, c'est Unslash.
+
+186
+00:16:45,600 --> 00:16:48,840
+Non, Unslash je ne pense pas qu'ils aient été hackés, c'est un projet français d'ailleurs.
+
+187
+00:16:48,840 --> 00:16:53,040
+Non ils ne sont pas hackés, ils ont été hackés Unslash mais ils ne sont pas montés
+
+188
+00:16:53,040 --> 00:16:54,040
+en puissance.
+
+189
+00:16:54,040 --> 00:17:00,120
+Mais Clover, il y avait eu je me souviens un problème sur ce projet là.
+
+190
+00:17:00,120 --> 00:17:09,720
+Mais est-ce que vous pensez, Axel, c'est un projet d'assurance aussi, est-ce que ça
+
+191
+00:17:09,720 --> 00:17:13,520
+fonctionne? Vous avez réussi à trouver votre voix? Parce qu'à l'époque justement
+
+192
+00:17:13,520 --> 00:17:21,120
+quand j'avais fait face à Unslash, vu comment ça avait fonctionné, j'avais plein de points
+
+193
+00:17:21,120 --> 00:17:22,120
+d'interrogation sur ma tête.
+
+194
+00:17:22,120 --> 00:17:30,080
+Je me disais est-ce que tu ne peux pas vraiment faire ça décentralisé, vu en plus les problèmes
+
+195
+00:17:30,080 --> 00:17:32,720
+techniques qu'ils ont et tout, ça me paraît vraiment compliqué.
+
+196
+00:17:32,720 --> 00:17:34,600
+J'ai l'impression que ce n'est pas un truc qui est fait pour la blockchain.
+
+197
+00:17:34,600 --> 00:17:38,680
+Je m'étais fait une mini réflexion en me disant, ce secteur là peut-être pas sur
+
+198
+00:17:38,680 --> 00:17:41,280
+la blockchain mais peut-être que j'avais faux.
+
+199
+00:17:41,280 --> 00:17:47,840
+Alors on est tout à fait d'accord sur les premiers prototypes parce qu'à ce niveau-là
+
+200
+00:17:47,840 --> 00:17:50,440
+c'était du prototype d'assurance décentralisé.
+
+201
+00:17:50,440 --> 00:17:55,200
+Il y avait pas mal de soucis, notamment l'efficacité des liquidités.
+
+202
+00:17:55,200 --> 00:18:05,200
+Vous ne pouvez pas offrir une couverture à 2,5% sur un protocole qui va en ramener comme
+
+203
+00:18:05,200 --> 00:18:06,880
+à AVE par exemple 1,2%.
+
+204
+00:18:07,200 --> 00:18:11,600
+Il y avait des soucis là-dessus, des soucis de quantité d'utilité aussi.
+
+205
+00:18:11,600 --> 00:18:17,600
+On a pu le voir sur l'assurance qui était sur BNB, j'ai un trou.
+
+206
+00:18:17,600 --> 00:18:27,200
+Mais effectivement on résout pas mal de problèmes, notamment en défragmentant les liquidités.
+
+207
+00:18:27,200 --> 00:18:34,280
+Défragmenter c'est un grand mot pour dire qu'en fait avec 1000$ de capital, vous pouvez
+
+208
+00:18:34,280 --> 00:18:37,320
+aller couvrir 5, 10, 15, 20 protocoles.
+
+209
+00:18:37,320 --> 00:18:45,000
+Le premier protocole hacké prendra les 1000$ ou la somme correspondante au hack pour la
+
+210
+00:18:45,000 --> 00:18:48,560
+poule pour rembourser les utilisateurs.
+
+211
+00:18:48,560 --> 00:18:52,800
+Donc on a mis pas mal de nouveautés aussi, c'est pour ça que ça nous a pris pas mal
+
+212
+00:18:52,800 --> 00:18:53,800
+de temps.
+
+213
+00:18:53,800 --> 00:19:01,280
+On a commencé fin 2020 la construction et effectivement on arrive au lancement juste
+
+214
+00:19:01,280 --> 00:19:02,280
+maintenant.
+
+215
+00:19:02,280 --> 00:19:06,280
+Donc effectivement ça nous a pris pas mal de temps.
+
+216
+00:19:06,280 --> 00:19:11,080
+Ok, d'ailleurs j'ai une question pour toi vu que tu es dans ce domaine là.
+
+217
+00:19:11,080 --> 00:19:20,600
+Je vois que c'est possible pour ceux qui sont faits arnaquer par FTX, c'est possible pour
+
+218
+00:19:20,600 --> 00:19:22,800
+eux de revendre leurs claims.
+
+219
+00:19:22,800 --> 00:19:26,640
+Et apparemment de ce que j'ai vu, les claims en ce moment ça se vend à peu près à 50%.
+
+220
+00:19:26,640 --> 00:19:31,240
+Qu'est-ce que tu penses de ça? Est-ce que tu penses que c'est une bonne idée de vendre
+
+221
+00:19:31,240 --> 00:19:32,240
+son claim à 50%?
+
+222
+00:19:32,240 --> 00:19:38,640
+Est-ce que c'est le genre de choses que vous faites l'évaluation de risque? Est-ce que
+
+223
+00:19:38,640 --> 00:19:40,960
+tu t'es penché sur ce sujet là?
+
+224
+00:19:40,960 --> 00:19:46,600
+Alors après nous on offrira, ça va être un système permissionless, donc chacun pourra
+
+225
+00:19:46,600 --> 00:19:51,920
+ouvrir la poule qu'il souhaite, y compris pour un exchange centralisé.
+
+226
+00:19:51,920 --> 00:19:54,440
+Le souci c'est que ça reste quand même des boîtes noires.
+
+227
+00:19:54,760 --> 00:20:02,440
+Et là en plus ça dépend vraiment de la liquidation de FTX, comment ça se passe,
+
+228
+00:20:02,440 --> 00:20:04,120
+combien d'assets il reste, etc.
+
+229
+00:20:04,120 --> 00:20:08,840
+C'est un pari de A à Z à moins d'avoir des infos à terme.
+
+230
+00:20:08,840 --> 00:20:09,840
+Ok.
+
+231
+00:20:09,840 --> 00:20:18,560
+Et on a logique, mon cerveau me fait, je vous détourne, je ne me souviens même plus de
+
+232
+00:20:18,560 --> 00:20:23,960
+t'avoir accepté mais je pense que j'ai juste mécaniquement accepté la demande pour parler,
+
+233
+00:20:23,960 --> 00:20:24,960
+ça va?
+
+234
+00:20:24,960 --> 00:20:28,280
+Oui, salut Athémus, ça va bien et vous?
+
+235
+00:20:28,280 --> 00:20:29,280
+Ça va.
+
+236
+00:20:29,280 --> 00:20:34,560
+Donc toi, c'est ça, toi tu bosses pour Spectra, tu représentes Spectra ce soir.
+
+237
+00:20:34,560 --> 00:20:35,560
+Exactement.
+
+238
+00:20:35,560 --> 00:20:36,880
+Bienvenue, l'équipe est au complet.
+
+239
+00:20:36,880 --> 00:20:42,240
+Est-ce que du coup pour terminer le tour des tables, est-ce que tu peux présenter, dire
+
+240
+00:20:42,240 --> 00:20:44,680
+qui t'es un petit peu, puis présenter Spectra?
+
+241
+00:20:44,680 --> 00:20:45,680
+Avec plaisir.
+
+242
+00:20:45,880 --> 00:20:46,880
+Avec plaisir.
+
+243
+00:20:46,880 --> 00:20:52,560
+Du coup, comme Axel, moi j'étais dans la crypto 2016-2017.
+
+244
+00:20:52,560 --> 00:20:56,720
+Quand j'ai vu la DeFi, alors moi je ne me suis pas dit les problèmes de sécurité,
+
+245
+00:20:56,720 --> 00:20:58,920
+même si c'était un peu ghetto quand même.
+
+246
+00:20:58,920 --> 00:21:05,520
+Je me suis plutôt dit, c'est le PMF des cryptos, du coup, product market hit.
+
+247
+00:21:05,520 --> 00:21:12,760
+Du coup, à partir de là, j'étais à fond dans DeFi France, sur toutes les news possibles
+
+248
+00:21:12,760 --> 00:21:19,640
+et imaginables de DeFi, jusqu'à ce que ça mène à cofonder un projet en 2020, pendant
+
+249
+00:21:19,640 --> 00:21:24,880
+l'été avec du coup, Gaspard, Ulysse et Jean, qui s'appelait APY.
+
+250
+00:21:24,880 --> 00:21:35,000
+Et donc, on a eu une V1 en 2021, qu'on a discontinuée par la suite et là, on prévoit
+
+251
+00:21:35,000 --> 00:21:36,000
+de sortir la V2.
+
+252
+00:21:36,000 --> 00:21:38,520
+Du coup, qu'est-ce qu'on fait chez Spectra?
+
+253
+00:21:39,520 --> 00:21:45,800
+On est un interest rate derivative protocol, du coup, ça peut faire un peu peur.
+
+254
+00:21:45,800 --> 00:21:51,760
+Mais l'idée, c'est que par exemple, on permet de toucher son salaire à l'avance,
+
+255
+00:21:51,760 --> 00:21:55,000
+donc plus ou moins son yield dans la DeFi.
+
+256
+00:21:55,000 --> 00:22:00,480
+On permet de spéculer sur les taux d'intérêt, d'obtenir des taux d'intérêt fixes.
+
+257
+00:22:00,480 --> 00:22:05,840
+On prévoit d'avoir des options et un paquet d'autres trucs par dessus.
+
+258
+00:22:06,360 --> 00:22:11,280
+Mais voilà, l'idée principale, c'est que grâce à nous, on peut s'amuser sur les
+
+259
+00:22:11,280 --> 00:22:12,280
+taux d'intérêt.
+
+260
+00:22:12,280 --> 00:22:13,280
+Ok, intéressant.
+
+261
+00:22:13,280 --> 00:22:20,280
+Et donc, du coup, vous faites vraiment chacun un truc différent.
+
+262
+00:22:20,280 --> 00:22:24,560
+Alors, Laurent, il va falloir que tu m'aides pour ce soir, parce que moi, si vous ne savez
+
+263
+00:22:24,560 --> 00:22:27,560
+pas, je ne suis pas un expert de la finance décentralisée.
+
+264
+00:22:27,560 --> 00:22:31,240
+Je connais un petit peu, mais ce n'est pas mon fort.
+
+265
+00:22:31,640 --> 00:22:36,200
+Par contre, c'est pas mal pour poser des questions naïves, des questions qui vont peut-être
+
+266
+00:22:36,200 --> 00:22:37,200
+intéresser les débutants.
+
+267
+00:22:37,200 --> 00:22:41,960
+Mais c'est vrai que pour creuser, Laurent va mettre du net précieux ce soir.
+
+268
+00:22:41,960 --> 00:22:46,080
+Je voulais aussi rappeler que bonjour à tous ceux qui sont là.
+
+269
+00:22:46,080 --> 00:22:50,360
+Si vous voulez poser des questions ou dire des choses, n'hésitez pas à demander le
+
+270
+00:22:50,360 --> 00:22:52,400
+rôle de speaker et puis on vous le donne.
+
+271
+00:22:52,400 --> 00:22:54,840
+C'est un peu le but.
+
+272
+00:22:54,840 --> 00:22:58,920
+J'ai mon téléphone qui me fait des choses un peu bizarres.
+
+273
+00:22:59,600 --> 00:23:03,840
+On peut faire un tout petit peu d'actu, si vous voulez, pour commencer.
+
+274
+00:23:03,840 --> 00:23:06,800
+J'ai vu le DPEG du TUSD.
+
+275
+00:23:06,800 --> 00:23:08,720
+Est-ce que c'est quelque chose qui vous inquiète ou pas?
+
+276
+00:23:08,720 --> 00:23:10,280
+Parce que ça n'a pas l'air d'être un gros, gros DPEG.
+
+277
+00:23:10,280 --> 00:23:15,720
+Ça a l'air d'être un petit truc, mais personnellement, je ne sais même pas qui back le TUSD, quelle
+
+278
+00:23:15,720 --> 00:23:16,720
+compagnie, quel asset.
+
+279
+00:23:16,720 --> 00:23:19,360
+Donc, je ne sais même pas à quel point c'est important.
+
+280
+00:23:19,360 --> 00:23:21,360
+Je ne connais même pas la part du marché du TUSD.
+
+281
+00:23:21,360 --> 00:23:24,480
+J'ai juste vu que Hacheur avait l'air de s'en inquiéter un petit peu.
+
+282
+00:23:24,480 --> 00:23:26,280
+J'ai vu d'autres postes passer par ci, par là.
+
+283
+00:23:26,840 --> 00:23:33,440
+Est-ce qu'il y a un autre drame qui se pointe à l'horizon?
+
+284
+00:23:33,440 --> 00:23:38,400
+J'ai entendu que TUSD, c'était assez lié à Justinsun au bout d'un moment.
+
+285
+00:23:38,400 --> 00:23:39,720
+Après, peut-être rumeur.
+
+286
+00:23:39,720 --> 00:23:43,480
+Mais j'avoue que je n'ai même pas entendu parler du DPEG la dernière fois.
+
+287
+00:23:43,480 --> 00:23:47,400
+C'est vrai que ça n'a pas un très gros impact en DeFi, je dirais.
+
+288
+00:23:47,400 --> 00:23:49,680
+Mais je vais voir ce que vous en pensez.
+
+289
+00:23:49,680 --> 00:23:52,480
+Honnêtement, c'est un avis très personnel.
+
+290
+00:23:52,480 --> 00:23:54,840
+Attention, pour moi, le TUSD,
+
+291
+00:23:54,840 --> 00:23:59,320
+nous, on a mis ça dans le tiers de ce qu'on appelle les « shit stable coins ».
+
+292
+00:23:59,320 --> 00:24:03,360
+C'est-à-dire, ça va être les stable coins qui ont un prix eux-mêmes.
+
+293
+00:24:03,360 --> 00:24:05,360
+Ils vont à 2, à moins.
+
+294
+00:24:05,360 --> 00:24:10,760
+Après, TUSD, « true USD », nous, on ne s'en sert pas.
+
+295
+00:24:10,760 --> 00:24:16,040
+Mais je pense que sa TVL est relativement faible.
+
+296
+00:24:16,040 --> 00:24:17,480
+Donc, même si il y a cet DPEG,
+
+297
+00:24:17,480 --> 00:24:21,320
+je ne vois pas trop de dégâts systémiques qui pourraient causer.
+
+298
+00:24:21,360 --> 00:24:25,520
+Plutôt qu'un DPEG de USDC, USDT, qui sont beaucoup plus massifs.
+
+299
+00:24:26,520 --> 00:24:29,520
+Quant à moi, j'hésitais au début.
+
+300
+00:24:29,520 --> 00:24:36,080
+Je me demandais si l'ichueur du TUSD, c'était Threshold ou si c'était Tron.
+
+301
+00:24:36,080 --> 00:24:39,320
+Enfin, le projet de Justin Sun, effectivement.
+
+302
+00:24:39,320 --> 00:24:43,800
+Mais ça ne me surprend pas plus que ça,
+
+303
+00:24:43,800 --> 00:24:46,640
+dans la mesure où, durant cette dernière année,
+
+304
+00:24:46,640 --> 00:24:48,760
+j'ai vu à de nombreuses reprises
+
+305
+00:24:48,800 --> 00:24:52,760
+passer des mint de plusieurs dizaines de millions,
+
+306
+00:24:52,760 --> 00:24:57,760
+voire parfois plusieurs centaines de millions de TUSD.
+
+307
+00:24:57,760 --> 00:25:01,760
+Et comme le disait Axel tout à l'heure,
+
+308
+00:25:01,760 --> 00:25:05,560
+à l'instar de FTX, c'est aussi assez une black box.
+
+309
+00:25:05,560 --> 00:25:11,040
+Et il n'était pas facile de voir quelles étaient les réserves derrière le TUSD.
+
+310
+00:25:11,040 --> 00:25:14,720
+Donc, à plusieurs reprises, on a eu des warnings sur le marché,
+
+311
+00:25:14,720 --> 00:25:19,360
+sur le crypto Twitter de personnes qui étaient surprises
+
+312
+00:25:19,360 --> 00:25:21,360
+de voir autant d'assets mint,
+
+313
+00:25:21,360 --> 00:25:25,720
+parfois pour simplement des utilisations
+
+314
+00:25:25,720 --> 00:25:30,000
+qui ne vont pas forcément dans le sens de l'écosystème en entier,
+
+315
+00:25:30,000 --> 00:25:36,000
+parfois qui étaient un peu personnelles aux décisions de Justin Sun, etc.
+
+316
+00:25:36,000 --> 00:25:39,280
+Donc, je ne suis pas extrêmement surpris.
+
+317
+00:25:39,280 --> 00:25:41,600
+Je me demande quel risque, effectivement,
+
+318
+00:25:41,600 --> 00:25:43,800
+quel ordre de magnitude pourrait avoir le risque.
+
+319
+00:25:43,880 --> 00:25:46,680
+Mais je pense que malgré tout,
+
+320
+00:25:46,680 --> 00:25:48,680
+ce n'est quand même pas quelque chose à négliger
+
+321
+00:25:48,680 --> 00:25:53,480
+si tant est que ces dizaines de millions de tokens qui ont été imprimés
+
+322
+00:25:53,480 --> 00:25:56,120
+ont servi à acheter d'autres tokens
+
+323
+00:25:56,120 --> 00:26:00,120
+qui pourraient du coup indirectement faire les frais d'un gros DPEG.
+
+324
+00:26:02,120 --> 00:26:06,120
+Après, Justin Sun,
+
+325
+00:26:06,120 --> 00:26:09,920
+c'est quelqu'un d'assez sulfureux dans la DeFi,
+
+326
+00:26:09,920 --> 00:26:11,920
+dans la crypto depuis des années.
+
+327
+00:26:12,040 --> 00:26:16,040
+Il a déjà créé un stablecoin à l'époque qui s'appelait l'USDD.
+
+328
+00:26:16,040 --> 00:26:19,040
+Bon, pareil, ce truc à DPEG est mort.
+
+329
+00:26:19,040 --> 00:26:21,040
+Là, il nous ressort un deuxième.
+
+330
+00:26:21,040 --> 00:26:26,040
+On avait déjà une bonne a priori sur les stablecoins de Justin.
+
+331
+00:26:26,040 --> 00:26:38,040
+Le problème là, a priori, vient du fait que ils ont du mal à publier les réserves,
+
+332
+00:26:38,160 --> 00:26:42,160
+et du coup, tant que les réserves ne seront pas publiées,
+
+333
+00:26:42,160 --> 00:26:44,160
+le problème va perdurer.
+
+334
+00:26:44,160 --> 00:26:48,160
+On a vu le cas avec BUSD pendant un moment,
+
+335
+00:26:48,160 --> 00:26:51,160
+avec pas mal de stablecoins d'ailleurs.
+
+336
+00:26:51,160 --> 00:26:55,160
+Et c'est ce genre de choses qui sont assurées par Athena.
+
+337
+00:26:55,160 --> 00:26:59,160
+Idem, les DPEG, les utilisateurs pourront s'assurer
+
+338
+00:26:59,160 --> 00:27:04,160
+contre le DPEG du stablecoin, USDC, USDT ou autres.
+
+339
+00:27:04,280 --> 00:27:07,280
+Ce qui est vraiment triste en 2024,
+
+340
+00:27:07,280 --> 00:27:11,280
+de voir encore des stablecoins dont on ne peut pas voir la réserve on-chain.
+
+341
+00:27:11,280 --> 00:27:15,280
+On a des stablecoins magnifiques type LUSD, MKUSD,
+
+342
+00:27:15,280 --> 00:27:20,280
+qui sont des stablecoins totalement décentralisés, surcollatéralisés.
+
+343
+00:27:20,280 --> 00:27:24,280
+Les réserves sont on-chain, n'importe qui peut checker ça de manière transparente.
+
+344
+00:27:24,280 --> 00:27:27,280
+C'est un peu dommage de voir continuellement
+
+345
+00:27:27,280 --> 00:27:30,280
+des stablecoins centralisés, black box.
+
+346
+00:27:30,280 --> 00:27:32,280
+C'est un peu triste.
+
+347
+00:27:32,400 --> 00:27:35,400
+C'est un sujet intéressant, encore une fois,
+
+348
+00:27:35,400 --> 00:27:38,400
+parce qu'il y a plusieurs problèmes.
+
+349
+00:27:38,400 --> 00:27:41,400
+On parle parfois du trilème de stablecoins.
+
+350
+00:27:41,400 --> 00:27:44,400
+Il y a l'aspect network effect,
+
+351
+00:27:44,400 --> 00:27:49,400
+comme la même raison que lorsque quelqu'un veut avoir une carte de crédit,
+
+352
+00:27:49,400 --> 00:27:52,400
+souvent il va aller chez une banque qui est reconnue.
+
+353
+00:27:52,400 --> 00:27:54,400
+Il y a cet aspect network effect.
+
+354
+00:27:54,400 --> 00:27:57,400
+Au-delà de ça, il y a aussi l'aspect de scalabilité.
+
+355
+00:27:57,400 --> 00:28:00,400
+Tu as mentionné Liquiti, le LUSD.
+
+356
+00:28:00,520 --> 00:28:03,520
+Je pense qu'effectivement, elle n'est pas si scalable.
+
+357
+00:28:03,520 --> 00:28:06,520
+Niveau sécurité, au moins, c'est clair.
+
+358
+00:28:06,520 --> 00:28:09,520
+Je te vois venir, pour toi, la scalabilité de l'USD est limitée.
+
+359
+00:28:09,520 --> 00:28:12,520
+Je me servais de ça juste comme un tremplin
+
+360
+00:28:12,520 --> 00:28:15,520
+pour revenir au fait que des grosses entités,
+
+361
+00:28:15,520 --> 00:28:18,520
+comme l'USDT, l'USDC de Circle, etc.,
+
+362
+00:28:18,520 --> 00:28:21,520
+aujourd'hui, remplissent, cochent un certain nombre de cases
+
+363
+00:28:21,520 --> 00:28:24,520
+pour l'utilisateur moyen de cryptos.
+
+364
+00:28:24,520 --> 00:28:27,520
+Je ne vais même pas parler de DeFi, mais de cryptos en général,
+
+365
+00:28:27,640 --> 00:28:30,640
+qui sont parfois plus importantes
+
+366
+00:28:30,640 --> 00:28:33,640
+pour les utilisateurs,
+
+367
+00:28:33,640 --> 00:28:36,640
+au détriment des qualités techniques
+
+368
+00:28:36,640 --> 00:28:39,640
+et des qualités, effectivement, de décentralisation,
+
+369
+00:28:39,640 --> 00:28:42,640
+de transparence, des réserves, etc.
+
+370
+00:28:42,640 --> 00:28:45,640
+On voit que, par exemple, Tether, l'USDT,
+
+371
+00:28:45,640 --> 00:28:48,640
+ils ont reçu plusieurs fois des conflits.
+
+372
+00:28:48,640 --> 00:28:51,640
+Ils ont été sued par, probablement,
+
+373
+00:28:51,640 --> 00:28:54,640
+le régulateur américain à plusieurs reprises.
+
+374
+00:28:54,760 --> 00:28:57,760
+Ils sont encore là aujourd'hui, malgré le fait
+
+375
+00:28:57,760 --> 00:29:00,760
+que l'utilisateur moyen ne connaît pas les réserves qu'il y a derrière.
+
+376
+00:29:00,760 --> 00:29:03,760
+Ce n'est pas quelque chose que je valorise,
+
+377
+00:29:03,760 --> 00:29:06,760
+mais je pense qu'on peut l'expliquer d'une certaine manière
+
+378
+00:29:06,760 --> 00:29:09,760
+de part la configuration de base
+
+379
+00:29:09,760 --> 00:29:12,760
+et le network effect et aussi
+
+380
+00:29:12,760 --> 00:29:15,760
+tous ces ingrédients qui font que
+
+381
+00:29:15,760 --> 00:29:18,760
+pour la plupart des gens, ça semble être
+
+382
+00:29:18,760 --> 00:29:21,760
+un actif peut-être plus sécure
+
+383
+00:29:21,880 --> 00:29:24,880
+pour les cryptos.
+
+384
+00:29:24,880 --> 00:29:27,880
+J'espère effectivement qu'avec les années à venir,
+
+385
+00:29:27,880 --> 00:29:30,880
+on va pouvoir aller un peu plus loin
+
+386
+00:29:30,880 --> 00:29:33,880
+dans le développement des stables,
+
+387
+00:29:33,880 --> 00:29:36,880
+notamment avec, par exemple, le CRVUSD
+
+388
+00:29:36,880 --> 00:29:39,880
+qui, jusqu'à présent, a tenu un peg très intéressant
+
+389
+00:29:39,880 --> 00:29:42,880
+et dont les mécanismes de liquidation,
+
+390
+00:29:42,880 --> 00:29:45,880
+les mécanismes de soutien du prix, etc.
+
+391
+00:29:45,880 --> 00:29:48,880
+sont vraiment novateurs et là, pour le coup,
+
+392
+00:29:49,000 --> 00:29:52,000
+si on peut les nommer,
+
+393
+00:29:52,000 --> 00:29:55,000
+je prends le risque, CRVUSD,
+
+394
+00:29:55,000 --> 00:29:58,000
+MKUSD, LUSD, ce sont des stable coins
+
+395
+00:29:58,000 --> 00:30:01,000
+certes expérimentales, mais regardez,
+
+396
+00:30:01,000 --> 00:30:04,000
+parce que là, c'est on-chain et c'est vraiment
+
+397
+00:30:04,000 --> 00:30:07,000
+des stable coins élégants. Contrairement à USDC et USDT,
+
+398
+00:30:07,000 --> 00:30:10,000
+comme on le sait bien, malgré qu'ils aient le network effect,
+
+399
+00:30:10,000 --> 00:30:13,000
+malheureusement, ils centralisent les gains
+
+400
+00:30:13,000 --> 00:30:16,000
+et ils décentralisent les pertes
+
+401
+00:30:16,120 --> 00:30:19,120
+avec le DPEG. Mais les 4%
+
+402
+00:30:19,120 --> 00:30:22,120
+que touchent les réserves d'USDT,
+
+403
+00:30:22,120 --> 00:30:25,120
+ça les garde à leur niveau.
+
+404
+00:30:25,120 --> 00:30:28,120
+Yannick?
+
+405
+00:30:28,120 --> 00:30:31,120
+Entre les deux, il y a un truc,
+
+406
+00:30:31,120 --> 00:30:34,120
+un peu un mix qui permet un peu de scalabilité,
+
+407
+00:30:34,120 --> 00:30:37,120
+mais moins de décentralisation et de sécurité
+
+408
+00:30:37,120 --> 00:30:40,120
+avec GO, avec USDV.
+
+409
+00:30:40,120 --> 00:30:43,120
+Je crois que ce n'est pas les seuls,
+
+410
+00:30:43,240 --> 00:30:46,240
+mais il y a le DAI notamment,
+
+411
+00:30:46,240 --> 00:30:49,240
+qui lui, c'est un gros mix entre
+
+412
+00:30:49,240 --> 00:30:52,240
+Ether, VRAP, Bitcoin,
+
+413
+00:30:52,240 --> 00:30:55,240
+qui est custodié par une DAO,
+
+414
+00:30:55,240 --> 00:30:58,240
+une DAO pas très décentralisée,
+
+415
+00:30:58,240 --> 00:31:01,240
+et qui est un gros mix
+
+416
+00:31:01,240 --> 00:31:04,240
+d'USDC aussi, avec des real world assets.
+
+417
+00:31:04,240 --> 00:31:07,240
+Donc ça fait un bon gros index.
+
+418
+00:31:07,240 --> 00:31:10,240
+Donc c'est un peu entre les deux,
+
+419
+00:31:10,360 --> 00:31:13,360
+mais c'est vrai que c'est assez...
+
+420
+00:31:13,360 --> 00:31:16,360
+Sachant qu'il partait du fait
+
+421
+00:31:16,360 --> 00:31:19,360
+qu'il voulait juste faire un stable coin
+
+422
+00:31:19,360 --> 00:31:22,360
+avec Ether, la scalabilité a un peu
+
+423
+00:31:22,360 --> 00:31:25,360
+perverti le truc.
+
+424
+00:31:25,360 --> 00:31:28,360
+Mais bon, après c'est aussi une possibilité
+
+425
+00:31:28,360 --> 00:31:31,360
+qui permet d'avoir quelque chose en attendant,
+
+426
+00:31:31,360 --> 00:31:34,360
+quelque chose de meilleur.
+
+427
+00:31:34,360 --> 00:31:37,360
+Après, il faut faire attention aussi à ne pas tomber
+
+428
+00:31:37,480 --> 00:31:40,480
+pour avoir une certaine décentralisation dans le piège du DAI
+
+429
+00:31:40,480 --> 00:31:43,480
+qui était collatéralisé pendant un moment à 60 ou 70%
+
+430
+00:31:43,480 --> 00:31:46,480
+d'USDC.
+
+431
+00:31:46,480 --> 00:31:49,480
+C'est une histoire compliquée les stable coins aussi,
+
+432
+00:31:49,480 --> 00:31:52,480
+vraiment décentralisé.
+
+433
+00:31:54,480 --> 00:31:57,480
+Alors du coup, je propose qu'on fasse...
+
+434
+00:31:57,480 --> 00:32:00,480
+Mais alors après, qu'on rentre dans le coeur du sujet,
+
+435
+00:32:00,480 --> 00:32:03,480
+dans le concret, avec justement pourquoi et comment
+
+436
+00:32:03,480 --> 00:32:06,480
+utiliser la DeFi finalement. Mais avant ça,
+
+437
+00:32:06,600 --> 00:32:09,600
+je vais faire un petit tour aussi sur le sujet du moment qui est le TF.
+
+438
+00:32:09,600 --> 00:32:12,600
+Mais encore avant ça, je vais donner la parole à Sten Garve
+
+439
+00:32:12,600 --> 00:32:15,600
+qui vient d'ailleurs de poster un truc qui vient de dire
+
+440
+00:32:15,600 --> 00:32:18,600
+qu'il y a une liste de stable coins sur Bluechip.org.
+
+441
+00:32:18,600 --> 00:32:21,600
+Bonjour tout le monde, vous m'entendez bien?
+
+442
+00:32:21,600 --> 00:32:24,600
+Super. Et d'abord, merci
+
+443
+00:32:24,600 --> 00:32:27,600
+de m'accueillir et de me donner
+
+444
+00:32:27,600 --> 00:32:30,600
+la possibilité d'intervenir.
+
+445
+00:32:30,600 --> 00:32:33,600
+Alors justement, j'avais posté un commentaire en disant
+
+446
+00:32:33,720 --> 00:32:36,720
+que Bluechip.org qui est un site web
+
+447
+00:32:36,720 --> 00:32:39,720
+qui répertorie les différents types de stable coins.
+
+448
+00:32:39,720 --> 00:32:42,720
+Et aussi, ça a déjà été mentionné,
+
+449
+00:32:42,720 --> 00:32:45,720
+mais je pense que le plus gros problème
+
+450
+00:32:45,720 --> 00:32:48,720
+des stable coins décentralisés en ce moment,
+
+451
+00:32:48,720 --> 00:32:51,720
+c'est l'efficience du capital. C'est-à-dire que
+
+452
+00:32:51,720 --> 00:32:54,720
+pour chaque dollar de stable coin décentralisé qui soit émis,
+
+453
+00:32:54,720 --> 00:32:57,720
+comme le DAI ou le LUSD,
+
+454
+00:32:57,720 --> 00:33:00,720
+et bien ça coûte plus d'un dollar à produire.
+
+455
+00:33:00,840 --> 00:33:03,840
+Et justement, ça pose un sérieux problème
+
+456
+00:33:03,840 --> 00:33:06,840
+de compétition par rapport à des émetteurs
+
+457
+00:33:06,840 --> 00:33:09,840
+comme USDC ou USDT où tu as exactement
+
+458
+00:33:09,840 --> 00:33:12,840
+un dollar produit pour un dollar qui est déposé.
+
+459
+00:33:12,840 --> 00:33:15,840
+Et j'avais trouvé un émetteur
+
+460
+00:33:15,840 --> 00:33:18,840
+de stable coin récemment qui est super intéressant,
+
+461
+00:33:18,840 --> 00:33:21,840
+mais qui est encore très expérimental,
+
+462
+00:33:21,840 --> 00:33:24,840
+mais qui est super intéressant à étudier, qui s'appelle DIAD.
+
+463
+00:33:24,840 --> 00:33:27,840
+Et DIAD, le principe, c'est que
+
+464
+00:33:27,960 --> 00:33:30,960
+on est une position,
+
+465
+00:33:30,960 --> 00:33:33,960
+en gros, théoriquement,
+
+466
+00:33:33,960 --> 00:33:36,960
+un stable coin émis coûte plus d'un dollar à produire,
+
+467
+00:33:36,960 --> 00:33:39,960
+mais ensuite, notre position
+
+468
+00:33:39,960 --> 00:33:42,960
+produit des tokens
+
+469
+00:33:42,960 --> 00:33:45,960
+que l'on peut utiliser pour
+
+470
+00:33:45,960 --> 00:33:48,960
+réhypotéquer le collatéral qui est excédentaire
+
+471
+00:33:48,960 --> 00:33:51,960
+par rapport au total déposé.
+
+472
+00:33:51,960 --> 00:33:54,960
+Alors, je pense que c'est un peu
+
+473
+00:33:55,080 --> 00:33:58,080
+compliqué à illustrer,
+
+474
+00:33:58,080 --> 00:34:01,080
+mais si ce n'est pas assez clair, vous pouvez me le dire aussi.
+
+475
+00:34:01,080 --> 00:34:04,080
+Est-ce que ça pourrait fonctionner
+
+476
+00:34:04,080 --> 00:34:07,080
+un peu comme les AMO de frac ou pas?
+
+477
+00:34:07,080 --> 00:34:10,080
+Ou une partie, comme tu dis, réhypotéquée?
+
+478
+00:34:10,080 --> 00:34:13,080
+C'est deux fonctionnements différents,
+
+479
+00:34:13,080 --> 00:34:16,080
+en fait. Les AMO, en gros,
+
+480
+00:34:16,080 --> 00:34:19,080
+ils prennent le capital excédentaire
+
+481
+00:34:19,080 --> 00:34:22,080
+pour ensuite le déposer sur d'autres protocoles.
+
+482
+00:34:22,200 --> 00:34:25,200
+Alors que le kérosène de DIAD,
+
+483
+00:34:25,200 --> 00:34:28,200
+en gros, il permet de réutiliser le capital excédentaire
+
+484
+00:34:28,200 --> 00:34:31,200
+qui se trouve sur DIAD et uniquement sur ce protocole-là.
+
+485
+00:34:36,200 --> 00:34:39,200
+Je ne connaissais pas honnêtement DIAD,
+
+486
+00:34:39,200 --> 00:34:42,200
+mais je vais regarder dans la liste que tu as mis en commentaire.
+
+487
+00:34:45,200 --> 00:34:48,200
+Moi, j'ai compris 10 %.
+
+488
+00:34:48,200 --> 00:34:51,200
+Je suis désolé si ce n'était pas clair pour tout le monde.
+
+489
+00:34:51,320 --> 00:34:54,320
+C'est juste moi. Il n'y a aucun problème.
+
+490
+00:34:54,320 --> 00:34:57,320
+Mais justement, je pense qu'on va élaborer
+
+491
+00:34:57,320 --> 00:35:00,320
+un petit peu sur ce sujet-là au cours de l'émission.
+
+492
+00:35:00,320 --> 00:35:03,320
+Mais j'aimerais revenir sur le sujet de l'ETF
+
+493
+00:35:03,320 --> 00:35:06,320
+parce que c'est un sujet brûlant.
+
+494
+00:35:06,320 --> 00:35:09,320
+Et en plus, c'est marrant parce que Laurent était là dans le groupe
+
+495
+00:35:09,320 --> 00:35:12,320
+et il y a des discussions en ce moment même sur ce sujet-là.
+
+496
+00:35:12,320 --> 00:35:15,320
+C'est super intéressant parce qu'il y a eu le TF Bitcoin
+
+497
+00:35:15,320 --> 00:35:18,320
+qui était accepté il y a quelques jours.
+
+498
+00:35:18,440 --> 00:35:21,440
+Il y a eu des revenus de capitaux apparemment qui sont énormes,
+
+499
+00:35:21,440 --> 00:35:24,440
+mais à mettre en perspective parce que
+
+500
+00:35:24,440 --> 00:35:27,440
+ça reste quand même le domaine des cryptos.
+
+501
+00:35:27,440 --> 00:35:30,440
+Et tout d'un coup, les questions se posent.
+
+502
+00:35:30,440 --> 00:35:33,440
+Alors, c'est quoi la suite?
+
+503
+00:35:33,440 --> 00:35:36,440
+Est-ce que l'écosystème va vraiment bénéficier
+
+504
+00:35:36,440 --> 00:35:39,440
+de ces capitaux-là? Et si oui, de quelle manière?
+
+505
+00:35:39,440 --> 00:35:42,440
+Est-ce que ça va être financier?
+
+506
+00:35:42,440 --> 00:35:45,440
+Il n'y a plus d'argent dans la machine, donc forcément,
+
+507
+00:35:45,560 --> 00:35:48,560
+plus d'argent pour tout le monde. Est-ce que ça va être en termes d'adoption
+
+508
+00:35:48,560 --> 00:35:51,560
+sur le long terme? Est-ce que ça va être en termes de crédibilité?
+
+509
+00:35:51,560 --> 00:35:54,560
+En termes légal aussi, politique, etc.
+
+510
+00:35:54,560 --> 00:35:57,560
+Il y a toutes sortes d'implications qui sont intéressantes.
+
+511
+00:35:57,560 --> 00:36:00,560
+Et aussi, du coup,
+
+512
+00:36:00,560 --> 00:36:03,560
+quel va être le prochain ETF?
+
+513
+00:36:03,560 --> 00:36:06,560
+Est-ce que Ethereum va aussi avoir son ETF?
+
+514
+00:36:06,560 --> 00:36:09,560
+Est-ce qu'on va petit à petit comme ça
+
+515
+00:36:09,560 --> 00:36:12,560
+légitimer l'écosystème crypto
+
+516
+00:36:12,680 --> 00:36:15,680
+avec l'introduction
+
+517
+00:36:15,680 --> 00:36:18,680
+de différents assets
+
+518
+00:36:18,680 --> 00:36:21,680
+sous forme d'ETF?
+
+519
+00:36:21,680 --> 00:36:24,680
+Ma première question, c'est quoi vos...
+
+520
+00:36:24,680 --> 00:36:25,680
+Comment dire?
+
+521
+00:36:25,680 --> 00:36:28,680
+Vos espérances en termes de...
+
+522
+00:36:28,680 --> 00:36:31,680
+Comment vous voyez la suite des événements
+
+523
+00:36:31,680 --> 00:36:34,680
+sur ce point-là?
+
+524
+00:36:34,680 --> 00:36:37,680
+Globalement, les ETF?
+
+525
+00:36:37,680 --> 00:36:40,680
+Et c'est quoi, d'après vous, les chances qu'il y ait un ETF
+
+526
+00:36:40,800 --> 00:36:43,800
+Ethereum dans un futur, disons, proche?
+
+527
+00:36:43,800 --> 00:36:46,800
+2024, 2025?
+
+528
+00:36:46,800 --> 00:36:49,800
+Je ne sais pas dans quel ordre vous voulez parler, mais battez-vous à l'épée.
+
+529
+00:36:49,800 --> 00:36:52,800
+Je pense qu'il y a pas mal de choses à dire à ce sujet-là.
+
+530
+00:36:52,800 --> 00:36:55,800
+Aujourd'hui,
+
+531
+00:36:55,800 --> 00:36:58,800
+si on parle simplement, dans un premier temps,
+
+532
+00:36:58,800 --> 00:37:01,800
+de l'afflux de capital on-chain,
+
+533
+00:37:01,800 --> 00:37:04,800
+donc la DeFi c'est encore très loin, mais déjà l'afflux de capital en crypto,
+
+534
+00:37:04,800 --> 00:37:07,800
+je ne sais pas à quel point, justement,
+
+535
+00:37:07,920 --> 00:37:10,920
+ça va vraiment impacter directement.
+
+536
+00:37:10,920 --> 00:37:13,920
+Alors, indirectement, c'est certain, mais directement, étant donné qu'il n'y a pas
+
+537
+00:37:13,920 --> 00:37:16,920
+vraiment un ramp-on de capital directement en crypto,
+
+538
+00:37:16,920 --> 00:37:19,920
+c'est un peu différent.
+
+539
+00:37:19,920 --> 00:37:22,920
+C'est via des produits, donc les ETF en l'occurrence,
+
+540
+00:37:22,920 --> 00:37:25,920
+mais c'est via des produits traditionnels,
+
+541
+00:37:25,920 --> 00:37:28,920
+donc ça va être très cloisonné, etc.
+
+542
+00:37:28,920 --> 00:37:31,920
+Et donc, forcément, même s'il y a des flux de capitaux
+
+543
+00:37:31,920 --> 00:37:34,920
+qui viendront après de Bitcoin vers
+
+544
+00:37:35,040 --> 00:37:38,040
+probablement les autres majeurs et éventuellement les altes
+
+545
+00:37:38,040 --> 00:37:41,040
+dans un troisième temps, c'est quand même pas quelque chose
+
+546
+00:37:41,040 --> 00:37:44,040
+que j'aperçois de manière directe. Je pense que le gros gain,
+
+547
+00:37:44,040 --> 00:37:47,040
+il est vraiment en termes de crédibilité pour l'écosystème
+
+548
+00:37:47,040 --> 00:37:50,040
+et que le particulier va de lui-même
+
+549
+00:37:50,040 --> 00:37:53,040
+décider de venir on-chain plutôt que d'aller sur le TF Bitcoin,
+
+550
+00:37:53,040 --> 00:37:56,040
+que ça donne un peu plus de confiance
+
+551
+00:37:56,040 --> 00:37:59,040
+maintenant qu'on est plus ou moins vouché par BlackRock
+
+552
+00:37:59,040 --> 00:38:02,040
+et des compagnies dans le genre.
+
+553
+00:38:02,160 --> 00:38:07,160
+En revanche, concernant vraiment l'ETF, ETH,
+
+554
+00:38:07,160 --> 00:38:10,160
+ça j'ai mis beaucoup plus de réserve
+
+555
+00:38:10,160 --> 00:38:13,160
+simplement parce que l'exposure et la technologie
+
+556
+00:38:13,160 --> 00:38:16,160
+n'est pas du tout la même.
+
+557
+00:38:16,160 --> 00:38:19,160
+L'objectif d'un ETF, ça va être de générer des revenus,
+
+558
+00:38:19,160 --> 00:38:22,160
+c'est pas seulement de donner de l'exposure sur un asset.
+
+559
+00:38:22,160 --> 00:38:27,160
+Et aujourd'hui, générer des revenus sur Ethereum
+
+560
+00:38:27,160 --> 00:38:30,160
+via le stacking, ETH, etc.,
+
+561
+00:38:30,280 --> 00:38:33,280
+pour des grosses compagnies traditionnelles
+
+562
+00:38:33,280 --> 00:38:36,280
+comme BlackRock, etc.
+
+563
+00:38:36,280 --> 00:38:39,280
+Je pense que déjà juridiquement, c'est beaucoup plus compliqué
+
+564
+00:38:39,280 --> 00:38:42,280
+que pour Bitcoin et même techniquement,
+
+565
+00:38:42,280 --> 00:38:45,280
+après, au final, ça pourrait être dans un premier temps
+
+566
+00:38:45,280 --> 00:38:48,280
+que de la poudre aux yeux
+
+567
+00:38:48,280 --> 00:38:51,280
+tandis que les fonds qui seront utilisés
+
+568
+00:38:51,280 --> 00:38:54,280
+ne seront pas vraiment réenvoyés dans l'écosystème
+
+569
+00:38:54,280 --> 00:38:59,280
+et n'auront pas vraiment un impact sur la sécurisation du réseau, etc.
+
+570
+00:38:59,400 --> 00:39:02,400
+J'ai mis plus de réserve quant à l'ETF ETH
+
+571
+00:39:02,400 --> 00:39:05,400
+même si j'ai vu aussi récemment
+
+572
+00:39:05,400 --> 00:39:08,400
+la vidéo de Vitalik avec tous les pingouins
+
+573
+00:39:08,400 --> 00:39:11,400
+derrière de Wall Street qui n'attendaient qu'une chose.
+
+574
+00:39:11,400 --> 00:39:14,400
+Mais je pense qu'on est sur un avenir
+
+575
+00:39:14,400 --> 00:39:17,400
+qui est un peu plus incertain et déjà forcément
+
+576
+00:39:17,400 --> 00:39:21,400
+un peu plus long terme que pour l'ETF BTC.
+
+577
+00:39:21,400 --> 00:39:24,400
+Sachant aussi que juste avant la sortie,
+
+578
+00:39:24,400 --> 00:39:27,400
+on a eu ce petit chit-show avec le tweet
+
+579
+00:39:27,520 --> 00:39:30,520
+de l'ASSEC, le compte Twitter de l'ASSEC qui a été hack,
+
+580
+00:39:30,520 --> 00:39:33,520
+le fait que le lendemain, le trading commence
+
+581
+00:39:33,520 --> 00:39:36,520
+sur l'ETF avant même l'annoncement officiel.
+
+582
+00:39:36,520 --> 00:39:39,520
+Bref, je pense qu'en termes de coordination,
+
+583
+00:39:39,520 --> 00:39:42,520
+il y a encore deux ou trois choses à retenir
+
+584
+00:39:42,520 --> 00:39:45,520
+et à apprendre pour Wall Street, etc.
+
+585
+00:39:45,520 --> 00:39:48,520
+avant de passer à l'ETF ETH.
+
+586
+00:39:48,520 --> 00:39:51,520
+Je ne sais pas si vous partagez mon avis.
+
+587
+00:39:51,520 --> 00:39:54,520
+Personnellement, je la partage totalement.
+
+588
+00:39:54,640 --> 00:39:57,640
+Sur le Bitcoin, on va dire que c'est camisolé.
+
+589
+00:39:57,640 --> 00:40:00,640
+Oui, indirectement, il va y avoir du bénéfice,
+
+590
+00:40:00,640 --> 00:40:03,640
+c'est clair, mais directement, j'ai la même vision
+
+591
+00:40:03,640 --> 00:40:06,640
+qu'Opal, je reste très réservé.
+
+592
+00:40:06,640 --> 00:40:09,640
+En revanche, pour compléter sur Ethereum ETF,
+
+593
+00:40:09,640 --> 00:40:12,640
+je pense qu'il y a une partie aussi politique
+
+594
+00:40:12,640 --> 00:40:15,640
+qu'il faut prendre.
+
+595
+00:40:15,640 --> 00:40:18,640
+Il y a quand même déjà eu sept demandes d'ETF
+
+596
+00:40:18,640 --> 00:40:21,640
+pour Ethereum, il y en a déjà sept,
+
+597
+00:40:21,760 --> 00:40:24,760
+dont VanEck et BlackRock.
+
+598
+00:40:24,760 --> 00:40:27,760
+Larry Fink ne parle pas s'il y a un ETF ou pas,
+
+599
+00:40:27,760 --> 00:40:30,760
+il dit que je n'ai pas d'ETF.
+
+600
+00:40:30,760 --> 00:40:33,760
+Donc déjà, ça donne une information.
+
+601
+00:40:33,760 --> 00:40:36,760
+Larry Fink, le directeur de BlackRock,
+
+602
+00:40:36,760 --> 00:40:39,760
+ne dit pas qu'il n'est pas sûr de faire l'ETF ETH,
+
+603
+00:40:39,760 --> 00:40:42,760
+il dit que je ne suis pas sûr de quand il va sortir.
+
+604
+00:40:42,760 --> 00:40:45,760
+Donc il y a déjà une partie de réponse.
+
+605
+00:40:45,760 --> 00:40:48,760
+Et ensuite, quand on regarde les statistiques,
+
+606
+00:40:48,880 --> 00:40:51,880
+il y a 30 ETF qui ont déjà émis dans leur existence,
+
+607
+00:40:51,880 --> 00:40:54,880
+ils n'ont eu qu'un seul refus.
+
+608
+00:40:54,880 --> 00:40:57,880
+Donc si l'Ethereum ETF est refusé,
+
+609
+00:40:57,880 --> 00:41:00,880
+ce sera le deuxième.
+
+610
+00:41:00,880 --> 00:41:03,880
+Je vois un ETF Ethereum, malgré tous les points
+
+611
+00:41:03,880 --> 00:41:06,880
+que Béguin a dit sur le fait que ce n'est pas du tout
+
+612
+00:41:06,880 --> 00:41:09,880
+la même technologie, ça peut être classifié
+
+613
+00:41:09,880 --> 00:41:12,880
+comme un Securities ou un Commodities,
+
+614
+00:41:12,880 --> 00:41:15,880
+c'est encore très flou pour la SEC de savoir comment qualifier ça.
+
+615
+00:41:16,000 --> 00:41:19,000
+Je ne suis pas du tout plus positif quant à l'émission
+
+616
+00:41:19,000 --> 00:41:22,000
+d'un ETF Ethereum pour fin de cette année,
+
+617
+00:41:22,000 --> 00:41:25,000
+je dirais même si je dois essayer d'être un peu engagé.
+
+618
+00:41:25,000 --> 00:41:28,000
+Concernant cette qualification
+
+619
+00:41:28,000 --> 00:41:31,000
+de Securities ou Commodities,
+
+620
+00:41:31,000 --> 00:41:34,000
+je me demande aussi si cette vague de nouveaux assets
+
+621
+00:41:34,000 --> 00:41:37,000
+de crypto peut apporter des changements
+
+622
+00:41:37,000 --> 00:41:40,000
+où on sait que traditionnellement,
+
+623
+00:41:40,000 --> 00:41:43,000
+pour qualifier un asset, on va utiliser le test de OA,
+
+624
+00:41:43,120 --> 00:41:46,120
+et je me demande si peut-être ça va faire évoluer
+
+625
+00:41:46,120 --> 00:41:49,120
+la façon dont on configure
+
+626
+00:41:49,120 --> 00:41:52,120
+des produits financiers traditionnels,
+
+627
+00:41:52,120 --> 00:41:55,120
+la façon dont on les évolue,
+
+628
+00:41:55,120 --> 00:41:58,120
+même si la grosse partie du travail va rester,
+
+629
+00:41:58,120 --> 00:42:01,120
+parce qu'aujourd'hui ça fonctionne très bien comme ça.
+
+630
+00:42:01,120 --> 00:42:07,120
+Mais j'ai bon espoir aussi que ça fasse un peu bouger les choses.
+
+631
+00:42:07,120 --> 00:42:10,120
+Maintenant, je n'oserais pas m'exprimer
+
+632
+00:42:10,240 --> 00:42:13,240
+quant à la timeline.
+
+633
+00:42:13,240 --> 00:42:16,240
+Pour repartir un peu dans le temps,
+
+634
+00:42:16,240 --> 00:42:19,240
+il y a eu un gros débat au début de Bitcoin
+
+635
+00:42:19,240 --> 00:42:22,240
+entre Satoshi et Alphiney.
+
+636
+00:42:22,240 --> 00:42:25,240
+Satoshi qui disait que le Bitcoin serait
+
+637
+00:42:25,240 --> 00:42:28,240
+un moyen de paiement et Alphiney
+
+638
+00:42:28,240 --> 00:42:31,240
+qui pensait plus à une réserve de valeur comme l'or.
+
+639
+00:42:31,240 --> 00:42:34,240
+Je pense qu'on se dirige plus vers la deuxième solution
+
+640
+00:42:34,240 --> 00:42:37,240
+à voir dans les années à venir, mais je pense qu'aujourd'hui
+
+641
+00:42:37,360 --> 00:42:40,360
+on est dans la deuxième solution,
+
+642
+00:42:40,360 --> 00:42:43,360
+quelque chose qui va être une valeur refuge
+
+643
+00:42:43,360 --> 00:42:46,360
+et non pas un moyen de paiement, dans les années à venir.
+
+644
+00:42:49,360 --> 00:42:52,360
+D'ailleurs, ce que tu viens de dire
+
+645
+00:42:52,360 --> 00:42:55,360
+ça rejoint la question que je voulais poser
+
+646
+00:42:55,360 --> 00:42:58,360
+et rebondir sur ce que tu as dit Béguin
+
+647
+00:42:58,360 --> 00:43:01,360
+par rapport à être vouché par BlackRock.
+
+648
+00:43:01,360 --> 00:43:04,360
+Qu'est-ce que serait l'intérêt d'être vouché par BlackRock
+
+649
+00:43:04,480 --> 00:43:07,480
+comme Bitcoin?
+
+650
+00:43:07,480 --> 00:43:10,480
+La prise de risque est quand même limitée
+
+651
+00:43:10,480 --> 00:43:13,480
+parce qu'il n'y a pas vraiment de mécanisme de DeFi sur Bitcoin.
+
+652
+00:43:13,480 --> 00:43:16,480
+J'ai l'impression qu'il y a plus le côté store of value
+
+653
+00:43:16,480 --> 00:43:19,480
+qui est sur le devant de la narrative.
+
+654
+00:43:19,480 --> 00:43:22,480
+Alors que pour faire un ETF par exemple Ethereum,
+
+655
+00:43:22,480 --> 00:43:25,480
+ça m'a l'air d'être beaucoup plus compliqué
+
+656
+00:43:25,480 --> 00:43:28,480
+dans le sens où Ethereum
+
+657
+00:43:28,480 --> 00:43:31,480
+a de nombreux projets comme les vôtres
+
+658
+00:43:31,600 --> 00:43:34,600
+mais comme beaucoup d'autres
+
+659
+00:43:34,600 --> 00:43:37,600
+où il y a des mécanismes de finance complexes
+
+660
+00:43:37,600 --> 00:43:40,600
+et aussi beaucoup,
+
+661
+00:43:40,600 --> 00:43:43,600
+l'aspicuation est très présente partout.
+
+662
+00:43:43,600 --> 00:43:46,600
+Ça voudrait dire qu'il faudrait que les institutions
+
+663
+00:43:46,600 --> 00:43:49,600
+ou en tout cas les régulateurs se mettent à la page
+
+664
+00:43:49,600 --> 00:43:52,600
+soit hyper calés, même éventuellement en avance
+
+665
+00:43:52,600 --> 00:43:55,600
+sur ce qui se fait dans l'écosystème
+
+666
+00:43:55,600 --> 00:43:58,600
+pour pouvoir définir un cadre légal
+
+667
+00:43:58,720 --> 00:44:01,720
+ou un cadre qui fait que les gens
+
+668
+00:44:01,720 --> 00:44:04,720
+soient entre guillemets protégés.
+
+669
+00:44:04,720 --> 00:44:07,720
+Ça m'a l'air compliqué.
+
+670
+00:44:07,720 --> 00:44:10,720
+Si vous voulez mon avis sur la question,
+
+671
+00:44:10,720 --> 00:44:13,720
+le cadre réglementaire arrive toujours à plaire
+
+672
+00:44:13,720 --> 00:44:16,720
+après qu'il y ait une innovation
+
+673
+00:44:16,720 --> 00:44:19,720
+parce que c'est toujours comme ça que ça se passe.
+
+674
+00:44:19,720 --> 00:44:22,720
+On fait d'abord des expérimentations avec
+
+675
+00:44:22,720 --> 00:44:25,720
+ensuite on fait des erreurs, c'est normal
+
+676
+00:44:25,840 --> 00:44:28,840
+et c'est à partir de tout ça qu'on obtient un certain historique
+
+677
+00:44:28,840 --> 00:44:31,840
+et qu'on sait ce qu'il faut et ce qu'il ne faut pas faire.
+
+678
+00:44:31,840 --> 00:44:34,840
+Mais pour répondre à ta question de base,
+
+679
+00:44:34,840 --> 00:44:37,840
+l'intérêt d'être vouché par BlackRock,
+
+680
+00:44:37,840 --> 00:44:40,840
+je pense que le principal intérêt dans tout ça
+
+681
+00:44:40,840 --> 00:44:43,840
+c'est surtout pour les liquidités immenses qu'il possède.
+
+682
+00:44:43,840 --> 00:44:46,840
+Parce que quand tu possèdes des grosses liquidités,
+
+683
+00:44:46,840 --> 00:44:49,840
+tu peux te permettre de faire des échanges
+
+684
+00:44:49,840 --> 00:44:52,840
+avec énormément de volume
+
+685
+00:44:52,960 --> 00:44:55,960
+et puis surtout tu peux considérer
+
+686
+00:44:55,960 --> 00:44:58,960
+des frais d'échange qui sont très bas.
+
+687
+00:44:58,960 --> 00:45:01,960
+Par exemple, BlackRock, quand on voit les frais d'échange
+
+688
+00:45:01,960 --> 00:45:04,960
+sur son ETF Spot, ils sont à 0,25%.
+
+689
+00:45:04,960 --> 00:45:07,960
+C'est un des taux les plus faibles du marché.
+
+690
+00:45:07,960 --> 00:45:10,960
+Et justement, c'est d'autant plus intéressant
+
+691
+00:45:10,960 --> 00:45:13,960
+pour les institutions de savoir que BlackRock est derrière
+
+692
+00:45:13,960 --> 00:45:16,960
+parce que grâce à ça, ils peuvent faire des gros échanges
+
+693
+00:45:16,960 --> 00:45:19,960
+pour peu de frais.
+
+694
+00:45:20,080 --> 00:45:23,080
+C'est ça qui fait le principal intérêt de mon opinion.
+
+695
+00:45:23,080 --> 00:45:26,080
+Après, c'est mon avis.
+
+696
+00:45:26,080 --> 00:45:29,080
+Peut-être que vous avez un avis différent
+
+697
+00:45:29,080 --> 00:45:32,080
+et je serais ravi de vous écouter.
+
+698
+00:45:32,080 --> 00:45:35,080
+J'ai tendance à dire que c'est à double tranchant.
+
+699
+00:45:35,080 --> 00:45:38,080
+Alors oui, effectivement, pour les institutions,
+
+700
+00:45:38,080 --> 00:45:41,080
+c'est très intéressant.
+
+701
+00:45:41,080 --> 00:45:44,080
+Mais pour tous ceux qui ont connu le Bitcoin avant
+
+702
+00:45:44,080 --> 00:45:47,080
+et à chaque fois qu'il y a un gros mouvement de marché,
+
+703
+00:45:47,200 --> 00:45:50,200
+c'est des manipulations de marché.
+
+704
+00:45:50,200 --> 00:45:53,200
+Je pense qu'en termes de manipulation, on n'a rien vu encore.
+
+705
+00:45:53,200 --> 00:45:56,200
+Pour moi, c'est un des effets néfastes qui risquent d'arriver.
+
+706
+00:46:00,200 --> 00:46:03,200
+Je voudrais ajouter aussi, en revenant sur un des...
+
+707
+00:46:03,200 --> 00:46:06,200
+Excuse-moi de te couper, tu veux y aller?
+
+708
+00:46:06,200 --> 00:46:09,200
+Peut-être Antoine, comme vous voulez.
+
+709
+00:46:11,200 --> 00:46:16,200
+Sinon, je me suis posé la question sur les ETF
+
+710
+00:46:16,320 --> 00:46:19,320
+et ça a fait quand même beaucoup de volume
+
+711
+00:46:19,320 --> 00:46:22,320
+et en apport de liquidité conséquent.
+
+712
+00:46:22,320 --> 00:46:25,320
+Mais la liquidité a été achetée en avance
+
+713
+00:46:25,320 --> 00:46:28,320
+donc on a moins vu quand même.
+
+714
+00:46:28,320 --> 00:46:33,320
+L'explosion de prix a plus lieu avec la hype que autre chose,
+
+715
+00:46:33,320 --> 00:46:36,320
+j'aurais tendance à dire.
+
+716
+00:46:36,320 --> 00:46:39,320
+Du coup, comme on disait au début,
+
+717
+00:46:39,320 --> 00:46:42,320
+c'est assez positif sur la vision qu'ont les gens de la crypto
+
+718
+00:46:42,320 --> 00:46:44,320
+parce que les gens se disent
+
+719
+00:46:44,440 --> 00:46:47,440
+que c'est plus un truc de gangster,
+
+720
+00:46:47,440 --> 00:46:50,440
+c'est plus un truc de criminel.
+
+721
+00:46:50,440 --> 00:46:53,440
+Du coup, ça change beaucoup.
+
+722
+00:46:53,440 --> 00:46:58,440
+Après, j'avoue qu'en étant assez loin de la finance traditionnelle,
+
+723
+00:46:58,440 --> 00:47:01,440
+j'ai un peu du mal à voir l'intérêt
+
+724
+00:47:01,440 --> 00:47:04,440
+vis-à-vis que ça simplifie un peu l'achat
+
+725
+00:47:04,440 --> 00:47:07,440
+pour les gens qui ne s'y connaissent vraiment pas.
+
+726
+00:47:07,440 --> 00:47:10,440
+Ou alors, ça permet à des fonds de rentrer quand même,
+
+727
+00:47:10,440 --> 00:47:13,440
+ça c'est plus important.
+
+728
+00:47:13,560 --> 00:47:16,560
+Par rapport à Ethereum,
+
+729
+00:47:16,560 --> 00:47:19,560
+c'est vrai que le fait d'avoir une grosse partie de la supply
+
+730
+00:47:19,560 --> 00:47:22,560
+de Bitcoin, ça ne change rien à Bitcoin.
+
+731
+00:47:22,560 --> 00:47:24,560
+Tandis que s'il y a une seule personne
+
+732
+00:47:24,560 --> 00:47:26,560
+qui a une grosse partie de la supply d'Ethereum,
+
+733
+00:47:26,560 --> 00:47:29,560
+ça met en danger le protocole.
+
+734
+00:47:29,560 --> 00:47:32,560
+C'est plus cette partie-là
+
+735
+00:47:32,560 --> 00:47:37,560
+qui va peut-être poser un problème par la suite.
+
+736
+00:47:37,560 --> 00:47:41,560
+Mais sachant que Ethereum a été la deuxième crypto-monnaie,
+
+737
+00:47:41,680 --> 00:47:44,680
+quand c'était en proof of work,
+
+738
+00:47:44,680 --> 00:47:47,680
+à être validée comme n'étant pas une security,
+
+739
+00:47:47,680 --> 00:47:52,680
+c'est certainement la crypto-monnaie
+
+740
+00:47:52,680 --> 00:47:56,680
+la plus décentralisée par rapport à Bitcoin.
+
+741
+00:47:56,680 --> 00:48:02,680
+C'est certainement la prochaine à avoir un ETF.
+
+742
+00:48:02,680 --> 00:48:05,680
+En plus, comme vous l'avez dit,
+
+743
+00:48:05,680 --> 00:48:08,680
+il y a des ETF qui ont déjà été lancés,
+
+744
+00:48:08,800 --> 00:48:13,800
+et par contre, l'inquiétude sur la DeFi,
+
+745
+00:48:13,800 --> 00:48:18,800
+sur tous les protocoles qui sont par-dessus,
+
+746
+00:48:18,800 --> 00:48:21,800
+je pense qu'il n'y a pas trop de raisons de s'en inquiéter.
+
+747
+00:48:21,800 --> 00:48:24,800
+Parce que techniquement, si tu holdes un ETH,
+
+748
+00:48:24,800 --> 00:48:26,800
+c'est comme si tu holdais un Bitcoin,
+
+749
+00:48:26,800 --> 00:48:28,800
+il ne se passe rien de particulier.
+
+750
+00:48:28,800 --> 00:48:30,800
+Après, si tu te mets à le stacker,
+
+751
+00:48:30,800 --> 00:48:32,800
+il se passe quelque chose.
+
+752
+00:48:32,800 --> 00:48:34,800
+Si tu le mets à l'utiliser en collatéral ou en LP,
+
+753
+00:48:34,800 --> 00:48:37,800
+là par contre, forcément, ils vont devoir regarder.
+
+754
+00:48:37,920 --> 00:48:39,920
+Mais s'ils disent juste, vous avez de l'ETH,
+
+755
+00:48:39,920 --> 00:48:42,920
+et dans le meilleur des cas, vous pouvez le stacker,
+
+756
+00:48:42,920 --> 00:48:45,920
+franchement, il n'y a pas de risque en plus.
+
+757
+00:48:48,920 --> 00:48:50,920
+C'est un peu ce à quoi je pensais.
+
+758
+00:48:50,920 --> 00:48:53,920
+Mais franchement, j'avoue que pour moi,
+
+759
+00:48:53,920 --> 00:48:56,920
+c'est plus de l'aide qu'autre chose, les ETF.
+
+760
+00:48:57,920 --> 00:49:00,920
+Je voudrais dire aussi, par rapport à cette affaire
+
+761
+00:49:00,920 --> 00:49:04,920
+de consensus, de risque, entre guillemets,
+
+762
+00:49:05,040 --> 00:49:08,040
+d'accorder qu'une grosse partie de la supply
+
+763
+00:49:08,040 --> 00:49:11,040
+se retrouve entre les mains d'un seul organisme, etc.
+
+764
+00:49:12,040 --> 00:49:14,040
+Je ne pourrais pas le citer mot pour mot,
+
+765
+00:49:14,040 --> 00:49:17,040
+mais je me souviens avoir lu un article de Vitalik,
+
+766
+00:49:17,040 --> 00:49:20,040
+qui expliquait plus ou moins que si un acteur parvenait
+
+767
+00:49:20,040 --> 00:49:24,040
+à corrompre le réseau d'une manière ou d'une autre,
+
+768
+00:49:24,040 --> 00:49:27,040
+par une forme de cibile,
+
+769
+00:49:27,040 --> 00:49:30,040
+il se retrouverait plus ou moins dans une position
+
+770
+00:49:30,040 --> 00:49:33,040
+où il corromperait un réseau sur lequel
+
+771
+00:49:33,160 --> 00:49:36,160
+il finirait par être tout seul et qu'il suffirait
+
+772
+00:49:36,160 --> 00:49:39,160
+de forquer encore plus ou moins Ethereum
+
+773
+00:49:39,160 --> 00:49:42,160
+pour repartir sur des bases un peu plus saines.
+
+774
+00:49:42,160 --> 00:49:45,160
+Mais au-delà de ça, concernant vraiment la DeFi,
+
+775
+00:49:45,160 --> 00:49:48,160
+je pense que cet ETF BTC,
+
+776
+00:49:48,160 --> 00:49:51,160
+il a redonné un peu, malgré les limitations
+
+777
+00:49:51,160 --> 00:49:54,160
+des scripts Bitcoin, etc., il a redonné un peu
+
+778
+00:49:54,160 --> 00:49:57,160
+d'intérêt pour la, entre guillemets, DeFi
+
+779
+00:49:57,160 --> 00:50:00,160
+autour de Bitcoin, avec certains layers 2,
+
+780
+00:50:00,280 --> 00:50:03,280
+même si on sait qu'il y a Lightning qui existe
+
+781
+00:50:03,280 --> 00:50:06,280
+et qui est en construction depuis un moment.
+
+782
+00:50:06,280 --> 00:50:09,280
+On a récemment un autre projet qui s'appelle Stacks,
+
+783
+00:50:09,280 --> 00:50:12,280
+si je ne dis pas de bêtises, et qui est aussi une sorte
+
+784
+00:50:12,280 --> 00:50:15,280
+de L2 sur Bitcoin. Donc, malgré les limitations
+
+785
+00:50:15,280 --> 00:50:18,280
+des scripts, on a quand même une volonté d'essayer
+
+786
+00:50:18,280 --> 00:50:21,280
+de créer un peu quelque chose de plus utilitaire,
+
+787
+00:50:21,280 --> 00:50:24,280
+plus composable par-dessus Bitcoin,
+
+788
+00:50:24,280 --> 00:50:27,280
+même si effectivement l'utilité mère à la base,
+
+789
+00:50:27,400 --> 00:50:30,400
+cette réserve de valeur ou le fait que ça respecte
+
+790
+00:50:30,400 --> 00:50:33,400
+les différents critères pour être qualifié de monnaie.
+
+791
+00:50:33,400 --> 00:50:36,400
+Donc, j'aimerais, je pense, limite conclure
+
+792
+00:50:36,400 --> 00:50:39,400
+mon argument sur ce que disait Stengard tout à l'heure,
+
+793
+00:50:39,400 --> 00:50:42,400
+qui est qu'on a,
+
+794
+00:50:42,400 --> 00:50:45,400
+il y a,
+
+795
+00:50:45,400 --> 00:50:48,400
+je ne me souviens plus exactement comment tu l'as formulé,
+
+796
+00:50:48,400 --> 00:50:51,400
+mais qu'il n'y a pas forcément de,
+
+797
+00:50:51,400 --> 00:50:54,400
+il faudrait toujours être en avance,
+
+798
+00:50:54,520 --> 00:50:57,520
+il faudrait toujours être en avance sur les évolutions
+
+799
+00:50:57,520 --> 00:51:00,520
+et c'est plus ou moins impossible aujourd'hui
+
+800
+00:51:00,520 --> 00:51:03,520
+du point de vue du régulateur, etc., d'être vraiment en avance
+
+801
+00:51:03,520 --> 00:51:06,520
+parce que les développeurs sur Bitcoin ou sur Ethereum
+
+802
+00:51:06,520 --> 00:51:09,520
+arrivent toujours à créer des nouvelles choses avec
+
+803
+00:51:09,520 --> 00:51:12,520
+et qui sont inanticipables.
+
+804
+00:51:12,520 --> 00:51:15,520
+Je ne suis pas tout à fait d'accord
+
+805
+00:51:15,520 --> 00:51:18,520
+quand tu dis qu'il y a un risque un peu plus,
+
+806
+00:51:18,520 --> 00:51:21,520
+un plus gros risque sur Ethereum
+
+807
+00:51:21,640 --> 00:51:24,640
+de concentration de supply.
+
+808
+00:51:24,640 --> 00:51:27,640
+Enfin, je l'entends, c'est vrai, mais regarde, Bitcoin,
+
+809
+00:51:27,640 --> 00:51:30,640
+OK, le risque de concentration de supply, là, on n'y est pas,
+
+810
+00:51:30,640 --> 00:51:33,640
+parce qu'on n'est pas en POS, mais quand je vois qu'il y a deux ETF
+
+811
+00:51:33,640 --> 00:51:36,640
+qui donnent, qui redonnent 5 à 10 %
+
+812
+00:51:36,640 --> 00:51:39,640
+des frais de trading de leur ETF
+
+813
+00:51:39,640 --> 00:51:42,640
+à des fondations Bitcoin Core,
+
+814
+00:51:42,640 --> 00:51:45,640
+est-ce que ça, c'est un début de,
+
+815
+00:51:45,640 --> 00:51:48,640
+vous voyez, je pense où je veux en venir, quoi?
+
+816
+00:51:48,760 --> 00:51:51,760
+Pour essayer d'attaquer le conscientius client de Bitcoin Core,
+
+817
+00:51:51,760 --> 00:51:54,760
+est-ce qu'on commence déjà par leur refiler un peu de frais
+
+818
+00:51:54,760 --> 00:51:56,760
+sur le Bitcoin ETF?
+
+819
+00:51:56,760 --> 00:51:59,760
+C'est peut-être un peu comme ça qu'on commence à déformer,
+
+820
+00:51:59,760 --> 00:52:02,760
+disformer une inconscientie?
+
+821
+00:52:02,760 --> 00:52:05,760
+Alors, c'est très intéressant comme faille potentielle,
+
+822
+00:52:05,760 --> 00:52:08,760
+et c'est bien vu, Laurent.
+
+823
+00:52:08,760 --> 00:52:12,760
+Mais après, Bitcoin et Ethereum
+
+824
+00:52:12,760 --> 00:52:15,760
+ont chacun leurs failles qui sont différentes.
+
+825
+00:52:15,880 --> 00:52:18,880
+Par exemple, sur Ethereum,
+
+826
+00:52:18,880 --> 00:52:22,880
+prendre plus de 50 % de la supply d'Ethereum en circulation,
+
+827
+00:52:22,880 --> 00:52:25,880
+ça coûte extrêmement cher pour celui qui veut attaquer.
+
+828
+00:52:25,880 --> 00:52:29,880
+Une solution qui est largement plus simple
+
+829
+00:52:29,880 --> 00:52:31,880
+et largement moins coûteuse,
+
+830
+00:52:31,880 --> 00:52:34,880
+c'est d'acheter la majorité des tokens Lido.
+
+831
+00:52:34,880 --> 00:52:38,880
+Parce qu'à partir du moment où tu prends le contrôle de Lido,
+
+832
+00:52:38,880 --> 00:52:42,880
+c'est également possible de prendre le contrôle d'une partie d'Ethereum,
+
+833
+00:52:43,000 --> 00:52:46,000
+et tu peux commencer à censurer le réseau comme ça.
+
+834
+00:52:46,000 --> 00:52:55,000
+Donc, chaque réseau a ses vecteurs d'attaque différents,
+
+835
+00:52:55,000 --> 00:52:59,000
+mais effectivement, c'est des très bons points.
+
+836
+00:53:01,000 --> 00:53:04,000
+Puis, il ne faut pas oublier que BlackRock a des parts
+
+837
+00:53:04,000 --> 00:53:08,000
+dans les plus gros mineurs aux États-Unis.
+
+838
+00:53:08,000 --> 00:53:11,000
+Donc, ils sont loin d'être majoritaires,
+
+839
+00:53:11,120 --> 00:53:15,120
+mais ça permet quand même de mettre une certaine pression
+
+840
+00:53:15,120 --> 00:53:17,120
+s'ils le souhaitent.
+
+841
+00:53:17,120 --> 00:53:20,120
+Donc, effectivement, il y a des failles différentes,
+
+842
+00:53:20,120 --> 00:53:22,120
+comme le disait Stengarl,
+
+843
+00:53:22,120 --> 00:53:26,120
+mais les deux ont des failles
+
+844
+00:53:26,120 --> 00:53:30,120
+qui peuvent permettre l'entrée d'un problème,
+
+845
+00:53:30,120 --> 00:53:32,120
+quel qu'il soit.
+
+846
+00:53:36,120 --> 00:53:39,120
+Je voudrais revenir sur ce que Stengarl disait tout à l'heure,
+
+847
+00:53:39,240 --> 00:53:42,240
+tu parlais de, si je ne me trompe pas,
+
+848
+00:53:42,240 --> 00:53:45,240
+des liquidités, de l'importance,
+
+849
+00:53:45,240 --> 00:53:48,240
+l'importance de la liquidité qui va arriver sur le marché
+
+850
+00:53:48,240 --> 00:53:51,240
+grâce au moins à l'ETF Bitcoin et peut-être les futurs après.
+
+851
+00:53:51,240 --> 00:53:53,240
+Et ça, c'est vraiment aussi,
+
+852
+00:53:53,240 --> 00:53:56,240
+c'est vraiment une des raisons pour lesquelles on se demande
+
+853
+00:53:56,240 --> 00:53:58,240
+en ce moment, dans quoi investir,
+
+854
+00:53:58,240 --> 00:54:00,240
+comment tirer son impact du jeu,
+
+855
+00:54:00,240 --> 00:54:02,240
+parce que c'est sûr que c'est intéressant.
+
+856
+00:54:02,240 --> 00:54:04,240
+Plus il y a de l'argent dans la machine,
+
+857
+00:54:04,240 --> 00:54:07,240
+plus c'est possible pour tout le monde d'en profiter.
+
+858
+00:54:07,360 --> 00:54:11,360
+Du coup, il y a des objections qui existent
+
+859
+00:54:11,360 --> 00:54:15,360
+et que je voudrais vous soumettre sous forme de questions.
+
+860
+00:54:15,360 --> 00:54:18,360
+Est-ce que l'écosystème tel qu'il est maintenant,
+
+861
+00:54:18,360 --> 00:54:20,360
+est-ce qu'il est assez mature pour accepter
+
+862
+00:54:20,360 --> 00:54:24,360
+justement un afflux de liquidités importantes?
+
+863
+00:54:26,360 --> 00:54:31,360
+Et en fait, est-ce qu'on veut soumettre justement le système
+
+864
+00:54:31,360 --> 00:54:36,360
+à des liquidités importantes et éventuellement
+
+865
+00:54:36,480 --> 00:54:39,480
+justement des régulations plus importantes
+
+866
+00:54:39,480 --> 00:54:43,480
+en sachant que, surtout dans la DeFi,
+
+867
+00:54:43,480 --> 00:54:45,480
+le but c'est aussi de faire de sorte
+
+868
+00:54:45,480 --> 00:54:48,480
+à ce que le système puisse fonctionner
+
+869
+00:54:48,480 --> 00:54:50,480
+de manière le plus automatique possible
+
+870
+00:54:50,480 --> 00:54:52,480
+et que quelque part, peut-être,
+
+871
+00:54:52,480 --> 00:54:58,480
+une approche par les régulateurs un petit peu trop tôt
+
+872
+00:54:58,480 --> 00:55:02,480
+peut justement parasiter un peu ce truc
+
+873
+00:55:02,480 --> 00:55:04,480
+qui est censé se faire naturellement.
+
+874
+00:55:06,480 --> 00:55:11,480
+Désolé si ma question était trop longue ou trop imbriquée.
+
+875
+00:55:11,480 --> 00:55:16,480
+En fait, tout dépend du cadre régulateur en question.
+
+876
+00:55:16,480 --> 00:55:20,480
+Est-ce que c'est la régulation en général
+
+877
+00:55:20,480 --> 00:55:22,480
+ou alors est-ce que c'est spécifique à DeFi?
+
+878
+00:55:25,480 --> 00:55:28,480
+Alors, je pense, moi je pars du principe
+
+879
+00:55:28,480 --> 00:55:31,480
+qu'en fait, s'il y a des régulations, ça va affecter tout.
+
+880
+00:55:31,480 --> 00:55:33,480
+Quand tu regardes, par exemple,
+
+881
+00:55:33,600 --> 00:55:35,600
+il y a un document qui a été publié
+
+882
+00:55:35,600 --> 00:55:37,600
+par la Banque de France,
+
+883
+00:55:37,600 --> 00:55:39,600
+désolé pour le téléphone.
+
+884
+00:55:39,600 --> 00:55:43,600
+Si tu regardes le document de la Banque de France
+
+885
+00:55:43,600 --> 00:55:46,600
+qui a été publié il y a un an maintenant?
+
+886
+00:55:46,600 --> 00:55:48,600
+Le rapport de la CDR.
+
+887
+00:55:48,600 --> 00:55:50,600
+Je vais essayer de retrouver le lien.
+
+888
+00:55:52,600 --> 00:55:55,600
+Si tu peux le poster ou quelqu'un d'autre peut le poster,
+
+889
+00:55:55,600 --> 00:55:57,600
+on en avait déjà parlé dans une émission dans le passé
+
+890
+00:55:57,600 --> 00:55:59,600
+et en gros, eux directs,
+
+891
+00:55:59,600 --> 00:56:02,600
+ils étaient en mode, bon, il va falloir réguler la DeFi.
+
+892
+00:56:02,720 --> 00:56:04,720
+Et faire de sorte, en gros,
+
+893
+00:56:04,720 --> 00:56:07,720
+ils imaginaient, alors c'était un peu la prospective,
+
+894
+00:56:07,720 --> 00:56:11,720
+mais ils imaginaient une sorte de tampon
+
+895
+00:56:11,720 --> 00:56:13,720
+du gouvernement où il y avait une catégorie
+
+896
+00:56:13,720 --> 00:56:16,720
+de projets certifiés et d'autres qui ne l'étaient pas.
+
+897
+00:56:16,720 --> 00:56:18,720
+Et en gros, après, je ne sais pas,
+
+898
+00:56:18,720 --> 00:56:20,720
+tu avais tout un mécanisme
+
+899
+00:56:22,720 --> 00:56:24,720
+de, comment dire,
+
+900
+00:56:26,720 --> 00:56:29,720
+de sanctions pour ceux qui ne respectaient pas
+
+901
+00:56:29,720 --> 00:56:31,720
+les règles qui étaient mises en place, etc.
+
+902
+00:56:31,840 --> 00:56:34,840
+À ce moment-là, il y avait la question
+
+903
+00:56:34,840 --> 00:56:36,840
+est-ce que ça pourrait,
+
+904
+00:56:36,840 --> 00:56:39,840
+déjà, est-ce que ça pourrait fonctionner techniquement?
+
+905
+00:56:39,840 --> 00:56:42,840
+Et si ça peut fonctionner techniquement,
+
+906
+00:56:42,840 --> 00:56:45,840
+est-ce que ça peut fonctionner légalement?
+
+907
+00:56:45,840 --> 00:56:47,840
+Mais maintenant qu'il y a des gens sérieux
+
+908
+00:56:47,840 --> 00:56:49,840
+qui sont dans le game,
+
+909
+00:56:49,840 --> 00:56:52,840
+c'est des choses qui peuvent éventuellement
+
+910
+00:56:52,840 --> 00:56:55,840
+se réaliser. Est-ce que c'est souhaitable?
+
+911
+00:56:55,840 --> 00:56:59,840
+C'est quoi votre rapport à cette espèce
+
+912
+00:56:59,960 --> 00:57:02,960
+de dynamique qui est en train de s'engager?
+
+913
+00:57:02,960 --> 00:57:04,960
+Le fait que, en fait, c'est ça aussi,
+
+914
+00:57:04,960 --> 00:57:06,960
+c'est pas juste il y a plus d'argent dans la machine,
+
+915
+00:57:06,960 --> 00:57:08,960
+cet argent vient de quelque part,
+
+916
+00:57:08,960 --> 00:57:09,960
+il vient des institutions.
+
+917
+00:57:09,960 --> 00:57:11,960
+Comment vous voyez, en fait,
+
+918
+00:57:11,960 --> 00:57:13,960
+justement le fait qu'il vienne de ces institutions-là,
+
+919
+00:57:13,960 --> 00:57:15,960
+cet argent, et comment ça peut influencer
+
+920
+00:57:15,960 --> 00:57:17,960
+sur vos activités, justement?
+
+921
+00:57:17,960 --> 00:57:20,960
+Déjà, juste rapidement, pour faire un petit point
+
+922
+00:57:20,960 --> 00:57:22,960
+sur la régulation,
+
+923
+00:57:22,960 --> 00:57:24,960
+ce type de tampon, il faut se poser la question
+
+924
+00:57:24,960 --> 00:57:27,960
+est-ce qu'il aurait été accordé à Liquiti, par exemple,
+
+925
+00:57:28,080 --> 00:57:31,080
+qui fait un stablecoin complètement décentralisé?
+
+926
+00:57:31,080 --> 00:57:34,080
+Est-ce qu'il aurait été accordé à Athéna,
+
+927
+00:57:34,080 --> 00:57:35,080
+qui fait une assurance?
+
+928
+00:57:35,080 --> 00:57:36,080
+Il faut savoir que les assurances,
+
+929
+00:57:36,080 --> 00:57:38,080
+normalement, sont très régulées.
+
+930
+00:57:38,080 --> 00:57:42,080
+En fait, pour moi, ça va mettre un frein à l'innovation.
+
+931
+00:57:42,080 --> 00:57:45,080
+Est-ce qu'il n'y a que du mal là-dedans?
+
+932
+00:57:45,080 --> 00:57:47,080
+Je ne pense pas, parce que quand on voit
+
+933
+00:57:47,080 --> 00:57:51,080
+le nombre de scams qui tournent dans l'écosystème,
+
+934
+00:57:51,080 --> 00:57:56,080
+bon, ça mettra peut-être un peu de frein à tout ça,
+
+935
+00:57:56,200 --> 00:58:01,200
+sans pour autant les virer complètement,
+
+936
+00:58:01,200 --> 00:58:05,200
+mais effectivement, ça mettra un frein à la régulation,
+
+937
+00:58:05,200 --> 00:58:07,200
+ça c'est quelque chose de sûr.
+
+938
+00:58:07,200 --> 00:58:10,200
+Pardon, pas la régulation, à l'innovation.
+
+939
+00:58:11,200 --> 00:58:14,200
+Si je peux ajouter mes deux cents,
+
+940
+00:58:14,200 --> 00:58:17,200
+je pense qu'il y a un facteur important à considérer,
+
+941
+00:58:17,200 --> 00:58:19,200
+c'est l'aspect social,
+
+942
+00:58:19,200 --> 00:58:21,200
+c'est-à-dire si je me fais un peu l'avocat
+
+943
+00:58:21,200 --> 00:58:23,200
+de l'hétérome maximaliste,
+
+944
+00:58:23,320 --> 00:58:26,320
+on va un peu à contre-courant
+
+945
+00:58:26,320 --> 00:58:29,320
+des valeurs initiales du truc.
+
+946
+00:58:29,320 --> 00:58:31,320
+Je ne dis pas que c'est forcément mauvais,
+
+947
+00:58:31,320 --> 00:58:34,320
+mais ça va forcément impliquer des changements
+
+948
+00:58:34,320 --> 00:58:37,320
+dans la façon dont les gens vont travailler dessus,
+
+949
+00:58:37,320 --> 00:58:39,320
+vont créer dessus,
+
+950
+00:58:39,320 --> 00:58:43,320
+et les utilités au final qui vont en ressortir.
+
+951
+00:58:43,320 --> 00:58:45,320
+S'il y a une grosse trend à...
+
+952
+00:58:45,320 --> 00:58:47,320
+Si l'argent vient de la trad'fi,
+
+953
+00:58:47,320 --> 00:58:50,320
+et que du coup il y a une grosse trend à complailles
+
+954
+00:58:50,440 --> 00:58:53,440
+avec la trad'fi, avec les exigences, etc.,
+
+955
+00:58:53,440 --> 00:58:56,440
+les builders seront peut-être plus motivés
+
+956
+00:58:56,440 --> 00:58:58,440
+à essayer de construire des choses
+
+957
+00:58:58,440 --> 00:59:00,440
+qui vont dans ce sens-là,
+
+958
+00:59:00,440 --> 00:59:03,440
+ce qui jusqu'à aujourd'hui n'a pas forcément été le cas,
+
+959
+00:59:03,440 --> 00:59:07,440
+et c'était même plutôt assez polarisé sur cette question-là.
+
+960
+00:59:07,440 --> 00:59:10,440
+Je suis curieux de voir jusqu'où ça va nous mener,
+
+961
+00:59:10,440 --> 00:59:14,440
+mais je pense que ça sera que pour le mieux
+
+962
+00:59:14,440 --> 00:59:16,440
+de l'écosystème,
+
+963
+00:59:16,440 --> 00:59:18,440
+parce qu'il y a des esprits brillants
+
+964
+00:59:18,560 --> 00:59:20,560
+qui vont débattre là-dessus,
+
+965
+00:59:20,560 --> 00:59:23,560
+et ça va forcément donner des bonnes réponses.
+
+966
+00:59:26,560 --> 00:59:29,560
+Si vous voulez, mon avis,
+
+967
+00:59:29,560 --> 00:59:31,560
+c'est qu'en gros,
+
+968
+00:59:31,560 --> 00:59:33,560
+ce qui va se passer,
+
+969
+00:59:33,560 --> 00:59:35,560
+c'est qu'on aura une extension de MICA
+
+970
+00:59:35,560 --> 00:59:37,560
+qui sera dédiée à la finance décentralisée.
+
+971
+00:59:37,560 --> 00:59:41,560
+Bon, après, elle ne sera pas votée avant 2026.
+
+972
+00:59:41,560 --> 00:59:43,560
+Le temps que ça se passe,
+
+973
+00:59:43,560 --> 00:59:45,560
+je pense qu'on a largement le temps de l'anticiper,
+
+974
+00:59:45,560 --> 00:59:47,560
+mais mes opinions sont très partagées sur ce sujet.
+
+975
+00:59:47,680 --> 00:59:50,680
+D'un côté, je suis enthousiaste
+
+976
+00:59:50,680 --> 00:59:53,680
+parce que ça permet de répondre
+
+977
+00:59:53,680 --> 00:59:57,680
+à beaucoup de questions cruciales sur ADIFAI,
+
+978
+00:59:57,680 --> 01:00:01,680
+notamment sur la responsabilité des fonds,
+
+979
+01:00:01,680 --> 01:00:04,680
+sur le statut juridique des DAO,
+
+980
+01:00:04,680 --> 01:00:07,680
+parce que les DAO, en ce moment,
+
+981
+01:00:07,680 --> 01:00:09,680
+il y a une grosse zone grise au niveau juridique
+
+982
+01:00:09,680 --> 01:00:11,680
+sur ces entités-là.
+
+983
+01:00:13,680 --> 01:00:16,680
+Et de l'autre côté, je suis très béfiant,
+
+984
+01:00:16,800 --> 01:00:20,800
+parce que ça reste un environnement extrêmement jeune
+
+985
+01:00:20,800 --> 01:00:24,800
+et on est déjà en train d'imposer un règlement dessus.
+
+986
+01:00:24,800 --> 01:00:27,800
+Donc, si on oppose des règlements
+
+987
+01:00:27,800 --> 01:00:30,800
+et qu'on finit par avoir des innovations
+
+988
+01:00:30,800 --> 01:00:32,800
+qui sont incompatibles avec ces règles-là,
+
+989
+01:00:32,800 --> 01:00:38,800
+finalement, le règlement tue l'innovation.
+
+990
+01:00:38,800 --> 01:00:42,800
+Donc, est-ce que ce ne serait pas mieux
+
+991
+01:00:42,920 --> 01:00:47,920
+d'attendre pour faire un autre règlement
+
+992
+01:00:47,920 --> 01:00:48,920
+pour plus tard,
+
+993
+01:00:48,920 --> 01:00:50,920
+une fois que ce sera suffisamment mature?
+
+994
+01:00:51,920 --> 01:00:53,920
+Après, ça reste une question ouverte.
+
+995
+01:00:55,920 --> 01:00:58,920
+Moi, je suis un peu de cet avis.
+
+996
+01:00:58,920 --> 01:01:02,920
+Je trouve quand même que le principe des cryptos,
+
+997
+01:01:02,920 --> 01:01:04,920
+c'est justement qu'il n'y ait pas de régulation,
+
+998
+01:01:04,920 --> 01:01:06,920
+mais que ça s'autorégule, en fait.
+
+999
+01:01:06,920 --> 01:01:09,920
+Parce que, comme on le voit, par exemple,
+
+1000
+01:01:09,920 --> 01:01:11,920
+on voit qu'à force des années,
+
+1001
+01:01:12,040 --> 01:01:14,040
+on peut avoir confiance en AV,
+
+1002
+01:01:14,040 --> 01:01:17,040
+on voit que la DAO, elle est relativement solide.
+
+1003
+01:01:17,040 --> 01:01:19,040
+Ça, c'est juste un exemple.
+
+1004
+01:01:19,040 --> 01:01:21,040
+Mais du coup, on voit,
+
+1005
+01:01:21,040 --> 01:01:25,040
+il y a des teams qui sont très « trusted »,
+
+1006
+01:01:25,040 --> 01:01:27,040
+typiquement Liquidity, etc.
+
+1007
+01:01:27,040 --> 01:01:29,040
+Mais du coup, la crypto,
+
+1008
+01:01:29,040 --> 01:01:31,040
+pour moi, les gens, ils rentrent
+
+1009
+01:01:31,040 --> 01:01:34,040
+et ils doivent savoir qu'il y a des risques,
+
+1010
+01:01:34,040 --> 01:01:36,040
+que ce n'est pas comme en finance traditionnelle
+
+1011
+01:01:36,040 --> 01:01:39,040
+où si tu fais n'importe quoi, on va te rembourser.
+
+1012
+01:01:39,160 --> 01:01:42,160
+On va se rembourser avec des énormes guillemets.
+
+1013
+01:01:44,160 --> 01:01:46,160
+Mais du coup, si tu envoies la mauvaise adresse,
+
+1014
+01:01:46,160 --> 01:01:48,160
+tu as envoyé la mauvaise adresse.
+
+1015
+01:01:48,160 --> 01:01:50,160
+Si tu achètes un scam,
+
+1016
+01:01:50,160 --> 01:01:52,160
+c'est que tu avais à faire plus de devoirs.
+
+1017
+01:01:52,160 --> 01:01:54,160
+Et du coup, techniquement,
+
+1018
+01:01:54,160 --> 01:01:56,160
+il y a une partie qui n'est pas pour tout le monde
+
+1019
+01:01:56,160 --> 01:01:58,160
+et une partie qui serait pour tout le monde.
+
+1020
+01:01:58,160 --> 01:02:00,160
+Où la partie pour tout le monde,
+
+1021
+01:02:00,160 --> 01:02:02,160
+c'est la partie où les gens,
+
+1022
+01:02:02,160 --> 01:02:04,160
+ils voient ce qui fonctionne déjà.
+
+1023
+01:02:04,160 --> 01:02:08,160
+Et au lieu de se lancer dans des trucs
+
+1024
+01:02:08,280 --> 01:02:10,280
+qu'ils ne connaissent pas,
+
+1025
+01:02:10,280 --> 01:02:12,280
+ils vont dans les trucs qu'ils connaissent
+
+1026
+01:02:12,280 --> 01:02:14,280
+ou qu'au moins les gens connaissent.
+
+1027
+01:02:14,280 --> 01:02:16,280
+Et pour moi, c'est un peu
+
+1028
+01:02:16,280 --> 01:02:18,280
+comment garder la philosophie
+
+1029
+01:02:18,280 --> 01:02:20,280
+tout en ayant un écosystème
+
+1030
+01:02:20,280 --> 01:02:22,280
+qui reste vivant.
+
+1031
+01:02:22,280 --> 01:02:24,280
+Et puis, je me dis aussi
+
+1032
+01:02:24,280 --> 01:02:26,280
+que s'il y a de la régulation
+
+1033
+01:02:26,280 --> 01:02:28,280
+sur certains trucs,
+
+1034
+01:02:28,280 --> 01:02:30,280
+ce qui va se passer, c'est que les gens vont aller chercher
+
+1035
+01:02:30,280 --> 01:02:32,280
+là où il y a le plus de volatilité
+
+1036
+01:02:32,280 --> 01:02:34,280
+pour faire du gambling
+
+1037
+01:02:34,280 --> 01:02:36,280
+comme un peu ce qui se passe sur Robinhood.
+
+1038
+01:02:36,400 --> 01:02:38,400
+Ils vont aller là où ce n'est pas régulé
+
+1039
+01:02:38,400 --> 01:02:40,400
+parce qu'il y aura des teams à nonne,
+
+1040
+01:02:40,400 --> 01:02:42,400
+des teams qui sont basés n'importe où.
+
+1041
+01:02:44,400 --> 01:02:46,400
+Donc, ils vont simplement passer là-dessus.
+
+1042
+01:02:46,400 --> 01:02:48,400
+Sinon,
+
+1043
+01:02:48,400 --> 01:02:50,400
+par rapport au fait
+
+1044
+01:02:50,400 --> 01:02:52,400
+qu'il y ait des institutionnels
+
+1045
+01:02:52,400 --> 01:02:54,400
+qui rentrent dans l'écosystème,
+
+1046
+01:02:54,400 --> 01:02:56,400
+on a vu avec AV Arc,
+
+1047
+01:02:56,400 --> 01:02:58,400
+ça n'a pas super bien fonctionné
+
+1048
+01:02:58,400 --> 01:03:00,400
+la première fois.
+
+1049
+01:03:00,400 --> 01:03:02,400
+Peut-être que ça fonctionnera mieux
+
+1050
+01:03:02,400 --> 01:03:04,400
+la fois suivante.
+
+1051
+01:03:04,520 --> 01:03:06,520
+Il y a un changement qui va se faire
+
+1052
+01:03:06,520 --> 01:03:08,520
+si les institutionnels rapportent plus d'argent
+
+1053
+01:03:08,520 --> 01:03:10,520
+que les gens en général,
+
+1054
+01:03:10,520 --> 01:03:12,520
+que la version permissionless
+
+1055
+01:03:12,520 --> 01:03:14,520
+de l'app.
+
+1056
+01:03:14,520 --> 01:03:16,520
+Alors là, il va y avoir un switch qui va se faire
+
+1057
+01:03:16,520 --> 01:03:18,520
+et du coup, les gens vont arrêter de maintenir
+
+1058
+01:03:18,520 --> 01:03:20,520
+l'app permissionless.
+
+1059
+01:03:20,520 --> 01:03:22,520
+Ils vont maintenir que l'app institutionnelle.
+
+1060
+01:03:22,520 --> 01:03:24,520
+Et là, les gens vont être...
+
+1061
+01:03:24,520 --> 01:03:26,520
+Tout le monde va être obligé de kawaii-shi
+
+1062
+01:03:26,520 --> 01:03:28,520
+pour utiliser l'app institutionnelle
+
+1063
+01:03:28,520 --> 01:03:30,520
+friendly.
+
+1064
+01:03:30,520 --> 01:03:32,520
+Mais, oui,
+
+1065
+01:03:32,640 --> 01:03:34,640
+si on n'arrive pas à ce point-là,
+
+1066
+01:03:34,640 --> 01:03:36,640
+alors, pour moi,
+
+1067
+01:03:36,640 --> 01:03:38,640
+les builders vont faire
+
+1068
+01:03:38,640 --> 01:03:40,640
+soit les deux,
+
+1069
+01:03:40,640 --> 01:03:42,640
+soit conserver
+
+1070
+01:03:42,640 --> 01:03:44,640
+la philosophie initiale
+
+1071
+01:03:44,640 --> 01:03:46,640
+et ne pas
+
+1072
+01:03:46,640 --> 01:03:48,640
+faire de kawaii-shi
+
+1073
+01:03:48,640 --> 01:03:50,640
+ou autre chose comme ça.
+
+1074
+01:03:50,640 --> 01:03:52,640
+Ou alors, ils vont trouver un moyen de le faire
+
+1075
+01:03:52,640 --> 01:03:54,640
+bien, on va dire.
+
+1076
+01:03:56,640 --> 01:03:58,640
+C'est assez
+
+1077
+01:03:58,640 --> 01:04:00,640
+tranché comme opinion.
+
+1078
+01:04:00,760 --> 01:04:02,760
+Justement, à ce sujet-là,
+
+1079
+01:04:02,760 --> 01:04:04,760
+je pense qu'une innovation,
+
+1080
+01:04:04,760 --> 01:04:06,760
+un sujet en cours qui est très
+
+1081
+01:04:06,760 --> 01:04:08,760
+intéressant par rapport à ça, c'est Uniswap V4.
+
+1082
+01:04:08,760 --> 01:04:10,760
+La possibilité de
+
+1083
+01:04:10,760 --> 01:04:12,760
+créer des hooks, etc.
+
+1084
+01:04:12,760 --> 01:04:14,760
+Et ça peut ouvrir la possibilité, par exemple,
+
+1085
+01:04:14,760 --> 01:04:16,760
+de créer des pools kawaii-shi, de créer tout ça
+
+1086
+01:04:16,760 --> 01:04:18,760
+qui serait plus compliant avec
+
+1087
+01:04:18,760 --> 01:04:20,760
+certains types de régulations.
+
+1088
+01:04:20,760 --> 01:04:22,760
+Je me demande si
+
+1089
+01:04:22,760 --> 01:04:24,760
+on n'a pas déjà entamé un peu
+
+1090
+01:04:24,760 --> 01:04:26,760
+cette démarche.
+
+1091
+01:04:26,760 --> 01:04:28,760
+Et même, d'un point de vue
+
+1092
+01:04:28,880 --> 01:04:30,880
+des plus grosses app DeFi, comme par exemple
+
+1093
+01:04:30,880 --> 01:04:32,880
+Uniswap qui est vraiment le leader en termes
+
+1094
+01:04:32,880 --> 01:04:34,880
+d'échanges décentralisés,
+
+1095
+01:04:34,880 --> 01:04:36,880
+en termes de volume, etc.
+
+1096
+01:04:36,880 --> 01:04:38,880
+Sinon, ça peut venir
+
+1097
+01:04:38,880 --> 01:04:40,880
+d'un autre angle, c'est les nouveaux
+
+1098
+01:04:40,880 --> 01:04:42,880
+ERC standards. Je vois de plus en plus
+
+1099
+01:04:42,880 --> 01:04:44,880
+de proposals d'ERC qui veulent intégrer
+
+1100
+01:04:44,880 --> 01:04:46,880
+dans des ERC20
+
+1101
+01:04:46,880 --> 01:04:48,880
+compatibles, la possibilité de rendre
+
+1102
+01:04:48,880 --> 01:04:50,880
+ce token permission. Donc, plutôt que
+
+1103
+01:04:50,880 --> 01:04:52,880
+d'intégrer cette kawaii-shi
+
+1104
+01:04:52,880 --> 01:04:54,880
+permission, permissionless, ces deux mondes,
+
+1105
+01:04:54,880 --> 01:04:56,880
+plutôt que de l'intégrer au niveau des protocoles
+
+1106
+01:04:57,000 --> 01:04:59,000
+type Uniswap et tout, on l'intègre
+
+1107
+01:04:59,000 --> 01:05:01,000
+plutôt via des ERC.
+
+1108
+01:05:03,000 --> 01:05:05,000
+Est-ce que ce n'est pas
+
+1109
+01:05:05,000 --> 01:05:07,000
+dommage aussi,
+
+1110
+01:05:07,000 --> 01:05:09,000
+on va quand même à l'encontre de l'état
+
+1111
+01:05:09,000 --> 01:05:11,000
+d'esprit de la
+
+1112
+01:05:11,000 --> 01:05:13,000
+DeFi et de ce qui
+
+1113
+01:05:13,000 --> 01:05:15,000
+est initialement
+
+1114
+01:05:15,000 --> 01:05:17,000
+la blockchain.
+
+1115
+01:05:17,000 --> 01:05:19,000
+Il y a un côté
+
+1116
+01:05:19,000 --> 01:05:21,000
+permissionless qui pour moi, en tous les cas
+
+1117
+01:05:21,000 --> 01:05:23,000
+est très important et ça va
+
+1118
+01:05:23,000 --> 01:05:25,000
+vraiment à l'encontre de tout ça.
+
+1119
+01:05:25,120 --> 01:05:27,120
+De toute façon, à partir du moment où il y aura régulation,
+
+1120
+01:05:27,120 --> 01:05:29,120
+je vais parler pour la France
+
+1121
+01:05:29,120 --> 01:05:31,120
+puisque chaque pays
+
+1122
+01:05:31,120 --> 01:05:33,120
+fera comme il l'entend,
+
+1123
+01:05:33,120 --> 01:05:35,120
+mais à partir du moment où il y a régulation,
+
+1124
+01:05:35,120 --> 01:05:37,120
+forcément, à un moment, le kawaii-shi
+
+1125
+01:05:37,120 --> 01:05:39,120
+va devenir obligatoire.
+
+1126
+01:05:41,120 --> 01:05:43,120
+Ça va enlever
+
+1127
+01:05:43,120 --> 01:05:45,120
+la beauté de la
+
+1128
+01:05:45,120 --> 01:05:47,120
+DeFi initiale qui était accessible à n'importe
+
+1129
+01:05:47,120 --> 01:05:49,120
+qui et on va repartir
+
+1130
+01:05:49,120 --> 01:05:51,120
+dans un système financier
+
+1131
+01:05:51,120 --> 01:05:53,120
+un peu plus traditionnel où
+
+1132
+01:05:53,240 --> 01:05:55,240
+pour utiliser telle application,
+
+1133
+01:05:55,240 --> 01:05:57,240
+vous devrez être soit kawaii-shi
+
+1134
+01:05:57,240 --> 01:05:59,240
+soit avoir les
+
+1135
+01:05:59,240 --> 01:06:01,240
+autorisations nécessaires.
+
+1136
+01:06:01,240 --> 01:06:03,240
+Après,
+
+1137
+01:06:03,240 --> 01:06:05,240
+c'est un débat, mais
+
+1138
+01:06:05,240 --> 01:06:07,240
+d'un côté, certes, ça va ramener des liquidités,
+
+1139
+01:06:07,240 --> 01:06:09,240
+il y aura peut-être moins
+
+1140
+01:06:09,240 --> 01:06:11,240
+de changements de taux
+
+1141
+01:06:11,240 --> 01:06:13,240
+lorsqu'on encontrera sur Aave ou
+
+1142
+01:06:13,240 --> 01:06:15,240
+ce genre de choses.
+
+1143
+01:06:15,240 --> 01:06:17,240
+Maintenant, effectivement, même sur
+
+1144
+01:06:17,240 --> 01:06:19,240
+Inniswap, il y aura moins de slippage,
+
+1145
+01:06:19,240 --> 01:06:21,240
+mais si à côté, il faut
+
+1146
+01:06:21,360 --> 01:06:23,360
+ce kawaii-shi ou avoir une autorisation
+
+1147
+01:06:23,360 --> 01:06:25,360
+pour utiliser la pool où il y a des liquidités,
+
+1148
+01:06:25,360 --> 01:06:27,360
+ça casse
+
+1149
+01:06:27,360 --> 01:06:29,360
+un peu
+
+1150
+01:06:29,360 --> 01:06:31,360
+l'esprit
+
+1151
+01:06:31,360 --> 01:06:33,360
+qui était initialement la DeFi.
+
+1152
+01:06:33,360 --> 01:06:35,360
+De mon
+
+1153
+01:06:35,360 --> 01:06:37,360
+point de vue, c'est un compromis à
+
+1154
+01:06:37,360 --> 01:06:39,360
+accepter.
+
+1155
+01:06:39,360 --> 01:06:41,360
+Pour qu'on ait une adoption,
+
+1156
+01:06:41,360 --> 01:06:43,360
+on doit accepter qu'il y ait
+
+1157
+01:06:43,360 --> 01:06:45,360
+une déperdition de la philosophie de base.
+
+1158
+01:06:45,360 --> 01:06:47,360
+En gros, c'est exactement
+
+1159
+01:06:47,360 --> 01:06:49,360
+comme la
+
+1160
+01:06:49,480 --> 01:06:51,480
+communication. Entre ce
+
+1161
+01:06:51,480 --> 01:06:53,480
+qu'on veut dire, ce qu'on dit,
+
+1162
+01:06:53,480 --> 01:06:55,480
+ce que notre
+
+1163
+01:06:55,480 --> 01:06:57,480
+interlocuteur comprend
+
+1164
+01:06:57,480 --> 01:06:59,480
+et ce qu'il va reprendre
+
+1165
+01:06:59,480 --> 01:07:01,480
+de ce qu'on voulait dire au départ,
+
+1166
+01:07:01,480 --> 01:07:03,480
+il y a
+
+1167
+01:07:03,480 --> 01:07:05,480
+tout un ensemble de mondes différents
+
+1168
+01:07:05,480 --> 01:07:07,480
+et il y a forcément des informations
+
+1169
+01:07:07,480 --> 01:07:09,480
+qui se perdent.
+
+1170
+01:07:09,480 --> 01:07:11,480
+On est un peu à
+
+1171
+01:07:11,480 --> 01:07:13,480
+cette croisée des mondes là.
+
+1172
+01:07:13,480 --> 01:07:15,480
+Le monde a compris
+
+1173
+01:07:15,480 --> 01:07:17,480
+quel est le message qu'on voulait faire passer
+
+1174
+01:07:17,600 --> 01:07:19,600
+via les cryptos
+
+1175
+01:07:19,600 --> 01:07:21,600
+mais
+
+1176
+01:07:21,600 --> 01:07:23,600
+on ne sait pas encore
+
+1177
+01:07:23,600 --> 01:07:25,600
+ce que le monde a réellement compris
+
+1178
+01:07:25,600 --> 01:07:27,600
+du message de base et
+
+1179
+01:07:27,600 --> 01:07:29,600
+ce qu'il va en retenir.
+
+1180
+01:07:29,600 --> 01:07:31,600
+Justement,
+
+1181
+01:07:31,600 --> 01:07:33,600
+il faut
+
+1182
+01:07:33,600 --> 01:07:35,600
+s'attendre à des
+
+1183
+01:07:35,600 --> 01:07:37,600
+écarts,
+
+1184
+01:07:37,600 --> 01:07:39,600
+il faut s'attendre à des abus
+
+1185
+01:07:39,600 --> 01:07:41,600
+aussi, mais
+
+1186
+01:07:41,600 --> 01:07:43,600
+ça fait aussi partie de l'adoption.
+
+1187
+01:07:43,600 --> 01:07:45,600
+Pour le meilleur et pour le pire.
+
+1188
+01:07:45,720 --> 01:07:47,720
+Tu ne suis pas?
+
+1189
+01:07:47,720 --> 01:07:49,720
+La logique
+
+1190
+01:07:49,720 --> 01:07:51,720
+d'Antoine, par exemple, tu ne vois pas
+
+1191
+01:07:51,720 --> 01:07:53,720
+une sorte de monde où il y a
+
+1192
+01:07:53,720 --> 01:07:55,720
+le côté libertaire,
+
+1193
+01:07:55,720 --> 01:07:57,720
+accrochez-vous, ça va secouer,
+
+1194
+01:07:57,720 --> 01:07:59,720
+si vous rentrez là-dedans,
+
+1195
+01:07:59,720 --> 01:08:01,720
+c'est à vos risques et périls, faites bien vos devoirs
+
+1196
+01:08:01,720 --> 01:08:03,720
+et après le monde
+
+1197
+01:08:03,720 --> 01:08:05,720
+KYCZ, Permission,
+
+1198
+01:08:05,720 --> 01:08:07,720
+tu penses que ça ne tient pas?
+
+1199
+01:08:07,720 --> 01:08:09,720
+Je pense que
+
+1200
+01:08:09,720 --> 01:08:11,720
+l'un va prendre le pas sur l'autre
+
+1201
+01:08:11,720 --> 01:08:13,720
+parce que c'est plus intéressant pour les états
+
+1202
+01:08:13,840 --> 01:08:15,840
+de savoir
+
+1203
+01:08:15,840 --> 01:08:17,840
+ce qui se passe
+
+1204
+01:08:17,840 --> 01:08:19,840
+que de ne pas savoir.
+
+1205
+01:08:19,840 --> 01:08:21,840
+On le voit
+
+1206
+01:08:21,840 --> 01:08:23,840
+sur pas mal d'exemples,
+
+1207
+01:08:23,840 --> 01:08:25,840
+le contrôle
+
+1208
+01:08:25,840 --> 01:08:27,840
+est le plus grand des pouvoirs
+
+1209
+01:08:27,840 --> 01:08:29,840
+sans rentrer dans des théories.
+
+1210
+01:08:29,840 --> 01:08:31,840
+C'est aussi
+
+1211
+01:08:31,840 --> 01:08:33,840
+pour ça qu'on entend
+
+1212
+01:08:33,840 --> 01:08:35,840
+de plus en plus
+
+1213
+01:08:35,840 --> 01:08:37,840
+parler de la suppression du cash.
+
+1214
+01:08:37,840 --> 01:08:39,840
+C'est une histoire
+
+1215
+01:08:39,840 --> 01:08:41,840
+de contrôle.
+
+1216
+01:08:41,960 --> 01:08:43,960
+Contrôle ne veut pas dire répression.
+
+1217
+01:08:43,960 --> 01:08:45,960
+Maintenant, j'ai du mal
+
+1218
+01:08:45,960 --> 01:08:47,960
+à croire
+
+1219
+01:08:47,960 --> 01:08:49,960
+qu'on sera sur un écosystème à 50-50
+
+1220
+01:08:49,960 --> 01:08:51,960
+où effectivement
+
+1221
+01:08:51,960 --> 01:08:53,960
+on a
+
+1222
+01:08:53,960 --> 01:08:55,960
+tout un univers permissionless
+
+1223
+01:08:55,960 --> 01:08:57,960
+et un univers
+
+1224
+01:08:57,960 --> 01:08:59,960
+un peu plus régulé.
+
+1225
+01:08:59,960 --> 01:09:01,960
+Pour moi, l'un prendra le pas sur l'autre
+
+1226
+01:09:01,960 --> 01:09:03,960
+ne serait-ce que pour une question de liquidité.
+
+1227
+01:09:03,960 --> 01:09:05,960
+C'est-à-dire que si à un moment
+
+1228
+01:09:05,960 --> 01:09:07,960
+tu offres la possibilité à quelqu'un
+
+1229
+01:09:07,960 --> 01:09:09,960
+d'aller faire un swap et de ne pas avoir
+
+1230
+01:09:10,080 --> 01:09:12,080
+un payche de 10% parce qu'il y a beaucoup plus de liquidité
+
+1231
+01:09:14,080 --> 01:09:16,080
+l'intérêt va devenir financier.
+
+1232
+01:09:16,080 --> 01:09:18,080
+Après,
+
+1233
+01:09:18,080 --> 01:09:20,080
+je reprends Stengar.
+
+1234
+01:09:20,080 --> 01:09:22,080
+Si il y a plus de risques,
+
+1235
+01:09:22,080 --> 01:09:24,080
+si il y a plus de volatilité
+
+1236
+01:09:24,080 --> 01:09:26,080
+ou de potentiels gains
+
+1237
+01:09:26,080 --> 01:09:28,080
+dans le monde
+
+1238
+01:09:28,080 --> 01:09:30,080
+permissionless, je pense qu'il y aura
+
+1239
+01:09:30,080 --> 01:09:32,080
+toujours des preneurs
+
+1240
+01:09:32,080 --> 01:09:34,080
+de cet univers.
+
+1241
+01:09:34,080 --> 01:09:36,080
+Après, encore une fois, est-ce qu'on sera
+
+1242
+01:09:36,080 --> 01:09:38,080
+à 50-50?
+
+1243
+01:09:38,200 --> 01:09:40,200
+C'est ce que j'allais dire.
+
+1244
+01:09:40,200 --> 01:09:42,200
+Je reprends ce que disait Stengar.
+
+1245
+01:09:42,200 --> 01:09:44,200
+Quand on parle d'adoption, c'est adoption
+
+1246
+01:09:44,200 --> 01:09:46,200
+de qui? Effectivement,
+
+1247
+01:09:46,200 --> 01:09:48,200
+pour l'adoption
+
+1248
+01:09:48,200 --> 01:09:50,200
+du monde financier
+
+1249
+01:09:50,200 --> 01:09:52,200
+traditionnel,
+
+1250
+01:09:52,200 --> 01:09:54,200
+on est tout à fait d'accord que
+
+1251
+01:09:54,200 --> 01:09:56,200
+le contrôle est obligatoire.
+
+1252
+01:09:56,200 --> 01:09:58,200
+Maintenant, pour l'adoption
+
+1253
+01:09:58,200 --> 01:10:00,200
+du retail,
+
+1254
+01:10:00,200 --> 01:10:02,200
+je pense
+
+1255
+01:10:02,200 --> 01:10:04,200
+pas qu'on aura plus de monde
+
+1256
+01:10:04,200 --> 01:10:06,200
+mis à part peut-être
+
+1257
+01:10:06,320 --> 01:10:08,320
+les boursicauteurs
+
+1258
+01:10:08,320 --> 01:10:10,320
+qui viendront et encore les boursicauteurs,
+
+1259
+01:10:10,320 --> 01:10:12,320
+il y en a déjà pas mal qui sont sur la crypto.
+
+1260
+01:10:12,320 --> 01:10:14,320
+En fait,
+
+1261
+01:10:14,320 --> 01:10:16,320
+j'essaye de faire,
+
+1262
+01:10:16,320 --> 01:10:18,320
+de voir ce qui se dit autour de moi.
+
+1263
+01:10:18,320 --> 01:10:20,320
+C'est-à-dire que là, on est entre nous,
+
+1264
+01:10:20,320 --> 01:10:22,320
+on connaît l'univers,
+
+1265
+01:10:22,320 --> 01:10:24,320
+ceux qui sont nouveaux
+
+1266
+01:10:24,320 --> 01:10:26,320
+commencent à savoir de quoi il s'agit.
+
+1267
+01:10:28,320 --> 01:10:30,320
+Si tu prends quelqu'un qui est vraiment extérieur
+
+1268
+01:10:30,320 --> 01:10:32,320
+à cet univers-là,
+
+1269
+01:10:32,320 --> 01:10:34,320
+par exemple par la version risque,
+
+1270
+01:10:34,440 --> 01:10:36,440
+il ne viendra pas
+
+1271
+01:10:36,440 --> 01:10:38,440
+de notre côté de la force.
+
+1272
+01:10:38,440 --> 01:10:40,440
+Il rejoindra
+
+1273
+01:10:40,440 --> 01:10:42,440
+le côté...
+
+1274
+01:10:42,440 --> 01:10:44,440
+Et c'est très bien,
+
+1275
+01:10:44,440 --> 01:10:46,440
+et c'est pas grave.
+
+1276
+01:10:46,440 --> 01:10:48,440
+Encore une fois,
+
+1277
+01:10:48,440 --> 01:10:50,440
+c'est une question
+
+1278
+01:10:50,440 --> 01:10:52,440
+d'esprit, si tu veux.
+
+1279
+01:10:52,440 --> 01:10:54,440
+Moi, je vois
+
+1280
+01:10:54,440 --> 01:10:56,440
+toutes les innovations qui ont eu lieu
+
+1281
+01:10:56,440 --> 01:10:58,440
+pour ne pas prendre
+
+1282
+01:10:58,440 --> 01:11:00,440
+un exemple
+
+1283
+01:11:00,440 --> 01:11:02,440
+déjà cité, Liquidity,
+
+1284
+01:11:02,560 --> 01:11:04,560
+créer une monnaie,
+
+1285
+01:11:04,560 --> 01:11:06,560
+légalement, c'est interdit.
+
+1286
+01:11:06,560 --> 01:11:08,560
+On n'a absolument pas le droit
+
+1287
+01:11:08,560 --> 01:11:10,560
+de créer quelque chose qui s'apparente
+
+1288
+01:11:10,560 --> 01:11:12,560
+à une monnaie
+
+1289
+01:11:12,560 --> 01:11:14,560
+qui peut permettre
+
+1290
+01:11:14,560 --> 01:11:16,560
+de payer
+
+1291
+01:11:16,560 --> 01:11:18,560
+sans utiliser l'euro en France
+
+1292
+01:11:18,560 --> 01:11:20,560
+ou le dollar
+
+1293
+01:11:20,560 --> 01:11:22,560
+aux Etats-Unis.
+
+1294
+01:11:24,560 --> 01:11:26,560
+Je l'entends,
+
+1295
+01:11:26,560 --> 01:11:28,560
+mais c'est des...
+
+1296
+01:11:28,560 --> 01:11:30,560
+Encore une fois,
+
+1297
+01:11:30,680 --> 01:11:32,680
+c'est un frein à l'innovation
+
+1298
+01:11:32,680 --> 01:11:34,680
+ou alors ce sera une innovation
+
+1299
+01:11:34,680 --> 01:11:36,680
+ultra contrôlée
+
+1300
+01:11:36,680 --> 01:11:38,680
+qui ira
+
+1301
+01:11:38,680 --> 01:11:40,680
+dans le sens
+
+1302
+01:11:40,680 --> 01:11:42,680
+du ou des gouvernements
+
+1303
+01:11:42,680 --> 01:11:44,680
+qui l'auront permise.
+
+1304
+01:11:44,680 --> 01:11:46,680
+Voilà.
+
+1305
+01:11:46,680 --> 01:11:48,680
+Après,
+
+1306
+01:11:48,680 --> 01:11:50,680
+la question à se poser
+
+1307
+01:11:50,680 --> 01:11:52,680
+en tant qu'individu, c'est
+
+1308
+01:11:52,680 --> 01:11:54,680
+à quoi on accepte de faire confiance?
+
+1309
+01:11:56,680 --> 01:11:58,680
+Si on pense que c'est OK
+
+1310
+01:11:58,800 --> 01:12:00,800
+de faire confiance au système bancaire,
+
+1311
+01:12:00,800 --> 01:12:02,800
+dans ce cas-là,
+
+1312
+01:12:02,800 --> 01:12:04,800
+utiliser un compte en banque nous suffira très bien.
+
+1313
+01:12:04,800 --> 01:12:06,800
+Mais si on accepte
+
+1314
+01:12:06,800 --> 01:12:08,800
+de faire confiance
+
+1315
+01:12:08,800 --> 01:12:10,800
+à un protocole DeFi,
+
+1316
+01:12:10,800 --> 01:12:12,800
+dans ce cas-là, ce sera préférable
+
+1317
+01:12:12,800 --> 01:12:14,800
+d'utiliser la DeFi.
+
+1318
+01:12:14,800 --> 01:12:16,800
+C'est à nous de réfléchir là-dessus
+
+1319
+01:12:16,800 --> 01:12:18,800
+et de s'adapter en conséquence.
+
+1320
+01:12:22,800 --> 01:12:24,800
+Pour faire écho
+
+1321
+01:12:24,800 --> 01:12:26,800
+avec le titre de ce space
+
+1322
+01:12:26,920 --> 01:12:28,920
+des dollars en 2024,
+
+1323
+01:12:28,920 --> 01:12:30,920
+profitez-en
+
+1324
+01:12:30,920 --> 01:12:32,920
+tant que l'avenir est encore incertain
+
+1325
+01:12:32,920 --> 01:12:34,920
+car effectivement
+
+1326
+01:12:34,920 --> 01:12:36,920
+le jour où ça sera différent
+
+1327
+01:12:36,920 --> 01:12:38,920
+avec le temps qui passe
+
+1328
+01:12:38,920 --> 01:12:40,920
+je pense qu'il y aura peut-être
+
+1329
+01:12:40,920 --> 01:12:42,920
+moins d'opportunités
+
+1330
+01:12:42,920 --> 01:12:44,920
+ou alors
+
+1331
+01:12:44,920 --> 01:12:46,920
+des opportunités un peu différentes
+
+1332
+01:12:46,920 --> 01:12:48,920
+de faire de l'argent dans cet écosystème.
+
+1333
+01:12:50,920 --> 01:12:52,920
+On a deux ans d'autoroute les gars!
+
+1334
+01:12:52,920 --> 01:12:54,920
+C'est ça que j'allais y venir.
+
+1335
+01:12:55,040 --> 01:12:57,040
+En fait, finalement,
+
+1336
+01:12:57,040 --> 01:12:59,040
+il va y avoir dans le futur,
+
+1337
+01:12:59,040 --> 01:13:01,040
+proche ou moins proche,
+
+1338
+01:13:01,040 --> 01:13:03,040
+une sorte de monde
+
+1339
+01:13:03,040 --> 01:13:05,040
+où il va y avoir l'aspect régulier
+
+1340
+01:13:05,040 --> 01:13:07,040
+où certes,
+
+1341
+01:13:07,040 --> 01:13:09,040
+il y aura les liquidités
+
+1342
+01:13:09,040 --> 01:13:11,040
+mais il y aura moins de risques
+
+1343
+01:13:11,040 --> 01:13:13,040
+et puis il y aura
+
+1344
+01:13:13,040 --> 01:13:15,040
+tout l'écosystème
+
+1345
+01:13:15,040 --> 01:13:17,040
+permissionless
+
+1346
+01:13:17,040 --> 01:13:19,040
+qui sera
+
+1347
+01:13:19,040 --> 01:13:21,040
+le laboratoire,
+
+1348
+01:13:21,040 --> 01:13:23,040
+c'est là où se situera l'innovation
+
+1349
+01:13:23,160 --> 01:13:25,160
+et finalement il y aura plus de risques
+
+1350
+01:13:25,160 --> 01:13:27,160
+et plus de gains potentiels à faire.
+
+1351
+01:13:29,160 --> 01:13:31,160
+La question que je me pose finalement
+
+1352
+01:13:31,160 --> 01:13:33,160
+c'est si on...
+
+1353
+01:13:33,160 --> 01:13:35,160
+là pour l'instant on est encore un peu
+
+1354
+01:13:35,160 --> 01:13:37,160
+en fait c'est un petit peu tout l'écosystème
+
+1355
+01:13:37,160 --> 01:13:39,160
+qui est un laboratoire
+
+1356
+01:13:39,160 --> 01:13:41,160
+et comment fait quelqu'un qui veut justement investir?
+
+1357
+01:13:41,160 --> 01:13:43,160
+Donc là,
+
+1358
+01:13:43,160 --> 01:13:45,160
+on est assez d'accord sur le fait que
+
+1359
+01:13:45,160 --> 01:13:47,160
+là il y a quelque chose qui se profile
+
+1360
+01:13:47,160 --> 01:13:49,160
+c'est le moment peut-être de réfléchir
+
+1361
+01:13:49,160 --> 01:13:51,160
+à investir parce que
+
+1362
+01:13:51,280 --> 01:13:53,280
+c'est le moment.
+
+1363
+01:13:53,280 --> 01:13:55,280
+Et alors comment fait quelqu'un qui veut
+
+1364
+01:13:55,280 --> 01:13:57,280
+mettre son argent en DeFi?
+
+1365
+01:13:57,280 --> 01:13:59,280
+Vous qui êtes habitué à dealer avec le risque
+
+1366
+01:13:59,280 --> 01:14:01,280
+justement, comment fait quelqu'un
+
+1367
+01:14:01,280 --> 01:14:03,280
+pour savoir en fonction de l'offre
+
+1368
+01:14:03,280 --> 01:14:05,280
+savoir en fonction de
+
+1369
+01:14:05,280 --> 01:14:07,280
+les différents
+
+1370
+01:14:07,280 --> 01:14:09,280
+retours sur investissement
+
+1371
+01:14:09,280 --> 01:14:11,280
+qui sont proposés etc.
+
+1372
+01:14:11,280 --> 01:14:13,280
+Comment on regarde le risque?
+
+1373
+01:14:13,280 --> 01:14:15,280
+Comment on fait le rapport entre les deux?
+
+1374
+01:14:15,280 --> 01:14:17,280
+Et comment on choisit en fait où on met ses billes finalement?
+
+1375
+01:14:17,280 --> 01:14:19,280
+Alors il y a
+
+1376
+01:14:19,400 --> 01:14:21,400
+de très bonnes
+
+1377
+01:14:21,400 --> 01:14:23,400
+explications
+
+1378
+01:14:23,400 --> 01:14:25,400
+introduction à la DeFi etc.
+
+1379
+01:14:25,400 --> 01:14:27,400
+faites par des médias français
+
+1380
+01:14:27,400 --> 01:14:29,400
+qui vont déjà comprendre le lexique
+
+1381
+01:14:29,400 --> 01:14:31,400
+aussi, c'est très important
+
+1382
+01:14:31,400 --> 01:14:33,400
+quand on débute.
+
+1383
+01:14:33,400 --> 01:14:35,400
+Après si on a compris le principe et que
+
+1384
+01:14:35,400 --> 01:14:37,400
+on veut choisir où mettre,
+
+1385
+01:14:37,400 --> 01:14:39,400
+ça dépend vraiment de son risque personnel
+
+1386
+01:14:39,400 --> 01:14:41,400
+mais au début je dirais franchement
+
+1387
+01:14:41,400 --> 01:14:43,400
+se renseigner beaucoup
+
+1388
+01:14:43,400 --> 01:14:45,400
+avec des gens
+
+1389
+01:14:45,400 --> 01:14:47,400
+qui s'y connaissent donc
+
+1390
+01:14:47,520 --> 01:14:49,520
+sur le Telegram de DeFi France
+
+1391
+01:14:49,520 --> 01:14:51,520
+ou venir ici nous écouter par exemple
+
+1392
+01:14:51,520 --> 01:14:53,520
+voir
+
+1393
+01:14:53,520 --> 01:14:55,520
+quels sont les protocoles
+
+1394
+01:14:55,520 --> 01:14:57,520
+qui sont trusted
+
+1395
+01:14:57,520 --> 01:14:59,520
+quels sont ceux où les gens disent
+
+1396
+01:14:59,520 --> 01:15:01,520
+c'est vraiment solide et ceux
+
+1397
+01:15:01,520 --> 01:15:03,520
+où il y a 2-3 personnes qui disent
+
+1398
+01:15:03,520 --> 01:15:05,520
+ah ouais vas-y viens ça va pump
+
+1399
+01:15:05,520 --> 01:15:07,520
+bon bah du coup
+
+1400
+01:15:07,520 --> 01:15:09,520
+faut regarder la différence
+
+1401
+01:15:09,520 --> 01:15:11,520
+l'ancienneté des protocoles
+
+1402
+01:15:11,520 --> 01:15:13,520
+qui est ce qu'il y a derrière rapidement
+
+1403
+01:15:13,520 --> 01:15:15,520
+voir ce que les gens pensent, les opinions
+
+1404
+01:15:15,640 --> 01:15:17,640
+C'est vrai que c'est un truc
+
+1405
+01:15:17,640 --> 01:15:19,640
+qui m'a toujours un peu
+
+1406
+01:15:19,640 --> 01:15:21,640
+un petit paradoxe un peu en DeFi
+
+1407
+01:15:21,640 --> 01:15:23,640
+c'est que la DeFi
+
+1408
+01:15:23,640 --> 01:15:25,640
+le but c'est que ce soit trustless
+
+1409
+01:15:25,640 --> 01:15:27,640
+mais en fait c'est majoritairement basé
+
+1410
+01:15:27,640 --> 01:15:29,640
+sur de la confiance et de la réputation
+
+1411
+01:15:29,640 --> 01:15:31,640
+parce que si
+
+1412
+01:15:31,640 --> 01:15:33,640
+du jour au lendemain on efface
+
+1413
+01:15:33,640 --> 01:15:35,640
+la réputation de AVE
+
+1414
+01:15:35,640 --> 01:15:37,640
+qu'est-ce qui me dit que AVE
+
+1415
+01:15:37,640 --> 01:15:39,640
+c'est mieux que autre chose
+
+1416
+01:15:39,640 --> 01:15:41,640
+et
+
+1417
+01:15:41,640 --> 01:15:43,640
+franchement c'est un des points importants
+
+1418
+01:15:43,760 --> 01:15:45,760
+savoir quels sont les protocoles
+
+1419
+01:15:45,760 --> 01:15:47,760
+auxquels on peut faire confiance
+
+1420
+01:15:47,760 --> 01:15:49,760
+bien sûr toujours jusqu'à
+
+1421
+01:15:49,760 --> 01:15:51,760
+un certain point, faire attention
+
+1422
+01:15:51,760 --> 01:15:53,760
+au prouve etc
+
+1423
+01:15:53,760 --> 01:15:55,760
+mais du coup ça c'est
+
+1424
+01:15:55,760 --> 01:15:57,760
+le point principal et puis
+
+1425
+01:15:57,760 --> 01:15:59,760
+un conseil
+
+1426
+01:15:59,760 --> 01:16:01,760
+assez
+
+1427
+01:16:01,760 --> 01:16:03,760
+applicable c'est d'aller sur DeFi Lama
+
+1428
+01:16:03,760 --> 01:16:05,760
+encore de la trust
+
+1429
+01:16:05,760 --> 01:16:07,760
+bien sûr parce que Du coup DeFi Lama
+
+1430
+01:16:07,760 --> 01:16:09,760
+c'est pas soi-même
+
+1431
+01:16:09,760 --> 01:16:11,760
+qui host le front-end
+
+1432
+01:16:11,880 --> 01:16:13,880
+mais du coup
+
+1433
+01:16:13,880 --> 01:16:15,880
+c'est leur donné mais ça permet
+
+1434
+01:16:15,880 --> 01:16:17,880
+de voir la TVL
+
+1435
+01:16:17,880 --> 01:16:19,880
+de chaque protocole
+
+1436
+01:16:19,880 --> 01:16:21,880
+et voir à quel point
+
+1437
+01:16:21,880 --> 01:16:23,880
+on peut dire ça peut être une idée
+
+1438
+01:16:23,880 --> 01:16:25,880
+de savoir quelle confiance on peut accorder au protocole
+
+1439
+01:16:25,880 --> 01:16:27,880
+sachant que
+
+1440
+01:16:27,880 --> 01:16:29,880
+des fois la TVL peut être mal calculée
+
+1441
+01:16:29,880 --> 01:16:31,880
+etc mais du coup
+
+1442
+01:16:31,880 --> 01:16:33,880
+demander à des gens
+
+1443
+01:16:33,880 --> 01:16:35,880
+justement qui sont avec le système
+
+1444
+01:16:35,880 --> 01:16:37,880
+depuis plus longtemps ça va beaucoup aider
+
+1445
+01:16:37,880 --> 01:16:39,880
+et s'il y a un leader
+
+1446
+01:16:40,000 --> 01:16:42,000
+charismatique genre
+
+1447
+01:16:42,000 --> 01:16:44,000
+André Kronger, genre
+
+1448
+01:16:44,000 --> 01:16:46,000
+Justin Sun, genre Duke One
+
+1449
+01:16:46,000 --> 01:16:48,000
+vaut mieux éviter
+
+1450
+01:16:48,000 --> 01:16:50,000
+pour sa banque
+
+1451
+01:16:50,000 --> 01:16:52,000
+oui exactement
+
+1452
+01:16:52,000 --> 01:16:54,000
+je pensais exactement à ça
+
+1453
+01:16:54,000 --> 01:16:56,000
+et pour info
+
+1454
+01:16:56,000 --> 01:16:58,000
+effectivement la TVL
+
+1455
+01:16:58,000 --> 01:17:00,000
+peut donner un indice
+
+1456
+01:17:00,000 --> 01:17:02,000
+il n'y a rien de mieux que d'une part
+
+1457
+01:17:02,000 --> 01:17:04,000
+faire ses propres recherches
+
+1458
+01:17:04,000 --> 01:17:06,000
+et d'autre part essayer
+
+1459
+01:17:06,000 --> 01:17:08,000
+un maximum
+
+1460
+01:17:08,120 --> 01:17:10,120
+de ressentir la chose
+
+1461
+01:17:10,120 --> 01:17:12,120
+alors pourquoi je dis ça
+
+1462
+01:17:12,120 --> 01:17:14,120
+parce que je prends l'exemple
+
+1463
+01:17:14,120 --> 01:17:16,120
+d'FTX si on se fie à la TVL
+
+1464
+01:17:16,120 --> 01:17:18,120
+on était
+
+1465
+01:17:18,120 --> 01:17:20,120
+tous soit dans Binance
+
+1466
+01:17:20,120 --> 01:17:22,120
+soit dans FTX
+
+1467
+01:17:22,120 --> 01:17:24,120
+Binance c'est pas tombé
+
+1468
+01:17:24,120 --> 01:17:26,120
+mais pour le coup FTX
+
+1469
+01:17:26,120 --> 01:17:28,120
+c'est tombé et il y en a beaucoup
+
+1470
+01:17:28,120 --> 01:17:30,120
+qui sont tombés des nues
+
+1471
+01:17:30,120 --> 01:17:32,120
+donc après il faut mettre
+
+1472
+01:17:32,120 --> 01:17:34,120
+on en revient un peu à ce que je disais au début
+
+1473
+01:17:34,120 --> 01:17:36,120
+il faut amener des sécurités dans le marché
+
+1474
+01:17:36,240 --> 01:17:38,240
+il y a un aspect d'assurance
+
+1475
+01:17:38,240 --> 01:17:40,240
+c'est à dire que je me mets sur un protocole
+
+1476
+01:17:40,240 --> 01:17:42,240
+je protège mes fonds
+
+1477
+01:17:42,240 --> 01:17:44,240
+en perdant un peu de revenu
+
+1478
+01:17:44,240 --> 01:17:46,240
+sur ce protocole
+
+1479
+01:17:46,240 --> 01:17:48,240
+et ça m'assure
+
+1480
+01:17:48,240 --> 01:17:50,240
+une certaine sécurité
+
+1481
+01:17:50,240 --> 01:17:52,240
+et on est
+
+1482
+01:17:52,240 --> 01:17:54,240
+en l'occurrence
+
+1483
+01:17:54,240 --> 01:17:56,240
+ce qu'on essaye de faire c'est quelque chose
+
+1484
+01:17:56,240 --> 01:17:58,240
+d'un chain
+
+1485
+01:17:58,240 --> 01:18:00,240
+c'est à dire qu'on voit dans la poule de liquidité
+
+1486
+01:18:00,240 --> 01:18:02,240
+combien il y a de liquidité pour couvrir combien de personnes
+
+1487
+01:18:02,240 --> 01:18:04,240
+à partir de ce moment là
+
+1488
+01:18:04,360 --> 01:18:06,360
+il faut se protéger ou pas
+
+1489
+01:18:06,360 --> 01:18:08,360
+il y a toujours un risque
+
+1490
+01:18:08,360 --> 01:18:10,360
+pareil de la TVL, TERA
+
+1491
+01:18:10,360 --> 01:18:12,360
+l'UST
+
+1492
+01:18:12,360 --> 01:18:14,360
+c'était 50 milliards
+
+1493
+01:18:14,360 --> 01:18:16,360
+je crois
+
+1494
+01:18:16,360 --> 01:18:18,360
+on est quand même sur une belle TVL
+
+1495
+01:18:18,360 --> 01:18:20,360
+et c'est là où ça fait le plus mal
+
+1496
+01:18:20,360 --> 01:18:22,360
+donc à un moment si on se
+
+1497
+01:18:22,360 --> 01:18:24,360
+si on se fie juste à ça
+
+1498
+01:18:24,360 --> 01:18:26,360
+c'est pour moi compliqué
+
+1499
+01:18:26,360 --> 01:18:28,360
+il faut
+
+1500
+01:18:28,360 --> 01:18:30,360
+comme on entend souvent
+
+1501
+01:18:30,360 --> 01:18:32,360
+dans l'écosystème Dior
+
+1502
+01:18:32,480 --> 01:18:34,480
+il faut absolument faire vos propres recherches
+
+1503
+01:18:34,480 --> 01:18:36,480
+c'est du temps
+
+1504
+01:18:36,480 --> 01:18:38,480
+on va pas se mentir
+
+1505
+01:18:38,480 --> 01:18:40,480
+clairement
+
+1506
+01:18:40,480 --> 01:18:42,480
+il faut que ce soit
+
+1507
+01:18:42,480 --> 01:18:44,480
+une passion ou alors
+
+1508
+01:18:44,480 --> 01:18:46,480
+une grosse envie de faire des gains
+
+1509
+01:18:46,480 --> 01:18:48,480
+pour se renseigner assez
+
+1510
+01:18:48,480 --> 01:18:50,480
+et arriver dans
+
+1511
+01:18:50,480 --> 01:18:52,480
+l'écosystème
+
+1512
+01:18:52,480 --> 01:18:54,480
+en pouvant par exemple lire une doc
+
+1513
+01:18:54,480 --> 01:18:56,480
+il y a un mot que vous connaissez pas
+
+1514
+01:18:56,480 --> 01:18:58,480
+il faut aller les chercher
+
+1515
+01:18:58,480 --> 01:19:00,480
+il faut essayer de comprendre ce mot là
+
+1516
+01:19:00,600 --> 01:19:02,600
+et bon tout ce qui va être formule mathématique
+
+1517
+01:19:02,600 --> 01:19:04,600
+c'est moins donné à tout le monde
+
+1518
+01:19:04,600 --> 01:19:06,600
+mais voilà
+
+1519
+01:19:06,600 --> 01:19:08,600
+il faut faire absolument vos propres
+
+1520
+01:19:08,600 --> 01:19:10,600
+recherches
+
+1521
+01:19:10,600 --> 01:19:12,600
+et ne pas écouter
+
+1522
+01:19:12,600 --> 01:19:14,600
+un tel qui dit
+
+1523
+01:19:14,600 --> 01:19:16,600
+ce projet là il va pump
+
+1524
+01:19:16,600 --> 01:19:18,600
+parce que
+
+1525
+01:19:18,600 --> 01:19:20,600
+il a été payé pour
+
+1526
+01:19:20,600 --> 01:19:22,600
+ou
+
+1527
+01:19:22,600 --> 01:19:24,600
+tout simplement qu'il a débit
+
+1528
+01:19:24,600 --> 01:19:26,600
+dans le projet
+
+1529
+01:19:26,600 --> 01:19:28,600
+je vais pas revenir sur un débat que vous avez fait
+
+1530
+01:19:28,720 --> 01:19:30,720
+il y a quelques temps sur les médias etc
+
+1531
+01:19:30,720 --> 01:19:32,720
+mais voilà il faut
+
+1532
+01:19:32,720 --> 01:19:34,720
+vraiment faire confiance à personne
+
+1533
+01:19:34,720 --> 01:19:36,720
+pas dans le sens où tout le monde est méchant
+
+1534
+01:19:36,720 --> 01:19:38,720
+mais dans le sens où quelqu'un qui vous dit quelque chose
+
+1535
+01:19:38,720 --> 01:19:40,720
+il peut lui même se tromper
+
+1536
+01:19:40,720 --> 01:19:42,720
+encore une fois Terra
+
+1537
+01:19:42,720 --> 01:19:44,720
+moi j'ai peut-être 7-8 personnes
+
+1538
+01:19:44,720 --> 01:19:46,720
+qui m'ont dit il y a 20% à faire
+
+1539
+01:19:46,720 --> 01:19:48,720
+en stablecoin c'est l'affaire du siècle
+
+1540
+01:19:48,720 --> 01:19:50,720
+voilà
+
+1541
+01:19:50,720 --> 01:19:52,720
+alors si tu étais sur Défi France tu aurais eu
+
+1542
+01:19:52,720 --> 01:19:54,720
+300 personnes qui te disaient mais ce truc là tiendra jamais
+
+1543
+01:19:54,720 --> 01:19:56,720
+je pense que c'est intéressant de dire aussi
+
+1544
+01:19:56,840 --> 01:19:58,840
+un parallèle encore qu'on peut faire
+
+1545
+01:19:58,840 --> 01:20:00,840
+avec le monde traditionnel
+
+1546
+01:20:00,840 --> 01:20:02,840
+c'est comparer avec par exemple
+
+1547
+01:20:02,840 --> 01:20:04,840
+le BAL 3
+
+1548
+01:20:04,840 --> 01:20:06,840
+qui a eu lieu après la crise de 2008
+
+1549
+01:20:06,840 --> 01:20:08,840
+c'est que BAL 3 met en exergue
+
+1550
+01:20:08,840 --> 01:20:10,840
+3 risques principaux
+
+1551
+01:20:10,840 --> 01:20:12,840
+d'un côté on a le risque de marché
+
+1552
+01:20:12,840 --> 01:20:14,840
+que vous avez illustré très bien
+
+1553
+01:20:14,840 --> 01:20:16,840
+avec les problèmes de TVL
+
+1554
+01:20:16,840 --> 01:20:18,840
+de profondeur de liquidité
+
+1555
+01:20:18,840 --> 01:20:20,840
+et de risque de trade
+
+1556
+01:20:20,840 --> 01:20:22,840
+etc à côté de ça on va avoir
+
+1557
+01:20:22,840 --> 01:20:24,840
+un risque opérationnel que vous avez
+
+1558
+01:20:24,960 --> 01:20:26,960
+illustré encore une fois avec les leaders charismatiques
+
+1559
+01:20:26,960 --> 01:20:28,960
+Duquon etc
+
+1560
+01:20:28,960 --> 01:20:30,960
+qui au final étaient des individus qui se sont avérés
+
+1561
+01:20:30,960 --> 01:20:32,960
+corrompus ou par rapport
+
+1562
+01:20:32,960 --> 01:20:34,960
+en tout cas à leur échelle dans leur système
+
+1563
+01:20:34,960 --> 01:20:36,960
+et un dernier risque c'est le risque
+
+1564
+01:20:36,960 --> 01:20:38,960
+technique auquel on fait face
+
+1565
+01:20:38,960 --> 01:20:40,960
+à travers les hacks etc
+
+1566
+01:20:40,960 --> 01:20:42,960
+et ça me rappelle par exemple
+
+1567
+01:20:42,960 --> 01:20:44,960
+un projet qui existait pendant
+
+1568
+01:20:44,960 --> 01:20:46,960
+le précédent cycle qui s'appelait
+
+1569
+01:20:46,960 --> 01:20:48,960
+Safron Finance et qui
+
+1570
+01:20:48,960 --> 01:20:50,960
+donnait à l'utilisateur l'opportunité
+
+1571
+01:20:50,960 --> 01:20:52,960
+de calculer son risque
+
+1572
+01:20:53,080 --> 01:20:55,080
+par tranche etc
+
+1573
+01:20:55,080 --> 01:20:57,080
+le système n'était pas
+
+1574
+01:20:57,080 --> 01:20:59,080
+forcément abouti mais
+
+1575
+01:20:59,080 --> 01:21:01,080
+je pense qu'aujourd'hui on a quand même illustré
+
+1576
+01:21:01,080 --> 01:21:03,080
+tous ces différents risques qui au final
+
+1577
+01:21:03,080 --> 01:21:05,080
+existent aussi bien dans les cryptos
+
+1578
+01:21:05,080 --> 01:21:07,080
+que dans le monde traditionnel
+
+1579
+01:21:07,080 --> 01:21:09,080
+et qu'on appréhende
+
+1580
+01:21:09,080 --> 01:21:11,080
+un peu différemment mais
+
+1581
+01:21:11,080 --> 01:21:13,080
+bien entendu voilà l'important
+
+1582
+01:21:13,080 --> 01:21:15,080
+comme vous l'avez souligné ça va être de très bien
+
+1583
+01:21:15,080 --> 01:21:17,080
+faire ses recherches de même si
+
+1584
+01:21:17,080 --> 01:21:19,080
+on pense pouvoir faire confiance à tout le monde
+
+1585
+01:21:19,080 --> 01:21:21,080
+ne pas oublier que ces personnes là peuvent
+
+1586
+01:21:21,200 --> 01:21:23,200
+aussi être biaisées ou
+
+1587
+01:21:23,200 --> 01:21:25,200
+se tromper et donc
+
+1588
+01:21:25,200 --> 01:21:27,200
+il y a forcément ces
+
+1589
+01:21:27,200 --> 01:21:29,200
+trois risques opérationnels, techniques
+
+1590
+01:21:29,200 --> 01:21:31,200
+et de marché qui vont
+
+1591
+01:21:31,200 --> 01:21:33,200
+être à considérer à chaque fois qu'on
+
+1592
+01:21:33,200 --> 01:21:35,200
+fait un investissement et qui surtout
+
+1593
+01:21:35,200 --> 01:21:37,200
+vont être
+
+1594
+01:21:37,200 --> 01:21:39,200
+appréhendés très différemment
+
+1595
+01:21:39,200 --> 01:21:41,200
+en crypto que en
+
+1596
+01:21:41,200 --> 01:21:43,200
+finance traditionnelle mais qui au final
+
+1597
+01:21:43,200 --> 01:21:45,200
+seront toujours inhérents
+
+1598
+01:21:45,200 --> 01:21:47,200
+à la finance en général
+
+1599
+01:21:51,200 --> 01:21:53,200
+Et d'ailleurs si je pouvais
+
+1600
+01:21:53,200 --> 01:21:55,200
+me permettre d'ajouter un autre conseil
+
+1601
+01:21:55,200 --> 01:21:57,200
+en parallèle de
+
+1602
+01:21:57,200 --> 01:21:59,200
+faire ses propres recherches
+
+1603
+01:21:59,200 --> 01:22:01,200
+comme vous l'avez très bien dit
+
+1604
+01:22:01,200 --> 01:22:03,200
+c'est que
+
+1605
+01:22:03,200 --> 01:22:05,200
+on ne peut pas tout suivre
+
+1606
+01:22:05,200 --> 01:22:07,200
+en gros il est préférable
+
+1607
+01:22:07,200 --> 01:22:09,200
+de connaître
+
+1608
+01:22:09,200 --> 01:22:11,200
+4 à 5 protocoles sur le bout des doigts
+
+1609
+01:22:11,200 --> 01:22:13,200
+plutôt que
+
+1610
+01:22:13,200 --> 01:22:15,200
+de chercher absolument tout savoir
+
+1611
+01:22:15,200 --> 01:22:17,200
+sur les protocoles parce que
+
+1612
+01:22:17,200 --> 01:22:19,200
+là on parle de
+
+1613
+01:22:19,320 --> 01:22:21,320
+finance décentralisée mais
+
+1614
+01:22:21,320 --> 01:22:23,320
+même dans le domaine de la finance décentralisée
+
+1615
+01:22:23,320 --> 01:22:25,320
+c'est impossible
+
+1616
+01:22:25,320 --> 01:22:27,320
+de tout suivre aujourd'hui tellement
+
+1617
+01:22:27,320 --> 01:22:29,320
+il y a d'évolutions dans tous les sens
+
+1618
+01:22:29,320 --> 01:22:31,320
+en fait c'est préférable
+
+1619
+01:22:31,320 --> 01:22:33,320
+de se spécialiser
+
+1620
+01:22:33,320 --> 01:22:35,320
+et de connaître
+
+1621
+01:22:35,320 --> 01:22:37,320
+4 à 5 protocoles
+
+1622
+01:22:37,320 --> 01:22:39,320
+mais vraiment par cœur plutôt que
+
+1623
+01:22:39,320 --> 01:22:41,320
+de lire dans les grandes lignes
+
+1624
+01:22:41,320 --> 01:22:43,320
+parce que justement
+
+1625
+01:22:43,320 --> 01:22:45,320
+plus
+
+1626
+01:22:45,320 --> 01:22:47,320
+on connaît la technique en profondeur
+
+1627
+01:22:47,440 --> 01:22:49,440
+et plus on sera
+
+1628
+01:22:49,440 --> 01:22:51,440
+capable de prendre du recul
+
+1629
+01:22:51,440 --> 01:22:53,440
+par rapport à ce sur quoi
+
+1630
+01:22:53,440 --> 01:22:55,440
+on investit
+
+1631
+01:22:55,440 --> 01:22:57,440
+Faut-il perdre du fric pour
+
+1632
+01:22:57,440 --> 01:22:59,440
+se déduquer en défi?
+
+1633
+01:22:59,440 --> 01:23:01,440
+Ah bah c'est le paradoxe
+
+1634
+01:23:01,440 --> 01:23:03,440
+du holder
+
+1635
+01:23:03,440 --> 01:23:05,440
+c'est le paradoxe du holder
+
+1636
+01:23:05,440 --> 01:23:07,440
+il est obligé
+
+1637
+01:23:07,440 --> 01:23:09,440
+de dépenser pour conserver ses convictions
+
+1638
+01:23:11,440 --> 01:23:13,440
+Je suis
+
+1639
+01:23:13,440 --> 01:23:15,440
+complètement d'accord pour le coup je pense que
+
+1640
+01:23:15,560 --> 01:23:17,560
+on n'est pas obligé
+
+1641
+01:23:17,560 --> 01:23:19,560
+mais
+
+1642
+01:23:19,560 --> 01:23:21,560
+l'humain lui-même a besoin
+
+1643
+01:23:21,560 --> 01:23:23,560
+de perdre
+
+1644
+01:23:23,560 --> 01:23:25,560
+pour prendre le temps
+
+1645
+01:23:25,560 --> 01:23:27,560
+d'aller ensuite regarder
+
+1646
+01:23:27,560 --> 01:23:29,560
+un peu plus
+
+1647
+01:23:29,560 --> 01:23:31,560
+ce qui ne te tue pas
+
+1648
+01:23:31,560 --> 01:23:33,560
+te rend plus fort dirons-nous
+
+1649
+01:23:33,560 --> 01:23:35,560
+Donc ne prenez pas
+
+1650
+01:23:35,560 --> 01:23:37,560
+de levier parce que le levier ça vous tue
+
+1651
+01:23:39,560 --> 01:23:41,560
+Oui mais tiens c'est un très bon exemple
+
+1652
+01:23:41,560 --> 01:23:43,560
+alors aujourd'hui
+
+1653
+01:23:43,680 --> 01:23:45,680
+tous les avertissements qu'il y a partout
+
+1654
+01:23:45,680 --> 01:23:47,680
+n'importe qui sait que prendre du levier
+
+1655
+01:23:47,680 --> 01:23:49,680
+c'est un risque
+
+1656
+01:23:49,680 --> 01:23:51,680
+Combien prennent du levier?
+
+1657
+01:23:51,680 --> 01:23:53,680
+Encore une fois il y a
+
+1658
+01:23:53,680 --> 01:23:55,680
+ce côté
+
+1659
+01:23:55,680 --> 01:23:57,680
+gain récompense
+
+1660
+01:23:57,680 --> 01:23:59,680
+qui fait que
+
+1661
+01:23:59,680 --> 01:24:01,680
+tout le monde a envie
+
+1662
+01:24:01,680 --> 01:24:03,680
+de prendre du risque
+
+1663
+01:24:03,680 --> 01:24:05,680
+si on reprend
+
+1664
+01:24:05,680 --> 01:24:07,680
+les débuts de l'ABSC
+
+1665
+01:24:07,680 --> 01:24:09,680
+avec PancakeSwap qui annonçait
+
+1666
+01:24:09,680 --> 01:24:11,680
+des taux à 3-4000%
+
+1667
+01:24:11,800 --> 01:24:13,800
+alors qu'ils ne duraient pas longtemps
+
+1668
+01:24:13,800 --> 01:24:15,800
+mais voilà
+
+1669
+01:24:15,800 --> 01:24:17,800
+combien se sont fait avoir avec ces taux là
+
+1670
+01:24:17,800 --> 01:24:19,800
+parce qu'ils ont regardé juste les taux
+
+1671
+01:24:19,800 --> 01:24:21,800
+ils n'ont pas été lire
+
+1672
+01:24:21,800 --> 01:24:23,800
+la doc, essayer de comprendre
+
+1673
+01:24:23,800 --> 01:24:25,800
+ce qu'était l'impermanent loss
+
+1674
+01:24:25,800 --> 01:24:27,800
+et au final ils se retrouvaient avec un token
+
+1675
+01:24:27,800 --> 01:24:29,800
+d'une part
+
+1676
+01:24:29,800 --> 01:24:31,800
+qui dumpait
+
+1677
+01:24:31,800 --> 01:24:33,800
+souvent juste après
+
+1678
+01:24:33,800 --> 01:24:35,800
+l'acquisition
+
+1679
+01:24:35,800 --> 01:24:37,800
+mais d'autre part
+
+1680
+01:24:37,800 --> 01:24:39,800
+il y a plein de personnes qui ne comprenaient pas
+
+1681
+01:24:39,920 --> 01:24:41,920
+il y a le token
+
+1682
+01:24:41,920 --> 01:24:43,920
+qui est monté
+
+1683
+01:24:43,920 --> 01:24:45,920
+mais je perds de l'argent
+
+1684
+01:24:45,920 --> 01:24:47,920
+allez lire la doc
+
+1685
+01:24:47,920 --> 01:24:49,920
+vous verrez ce qu'est l'impermanent loss
+
+1686
+01:24:49,920 --> 01:24:51,920
+et vous comprendrez pourquoi vous perdez de l'argent
+
+1687
+01:24:51,920 --> 01:24:53,920
+et malheureusement il y a beaucoup de gens
+
+1688
+01:24:53,920 --> 01:24:55,920
+qui ne le font pas
+
+1689
+01:24:55,920 --> 01:24:57,920
+même dans la finance
+
+1690
+01:24:57,920 --> 01:24:59,920
+tradie
+
+1691
+01:24:59,920 --> 01:25:01,920
+si on reprend 2008
+
+1692
+01:25:01,920 --> 01:25:03,920
+il y en a beaucoup qui achetaient des choses
+
+1693
+01:25:03,920 --> 01:25:05,920
+ils ne savaient pas à quoi
+
+1694
+01:25:05,920 --> 01:25:07,920
+c'était lié
+
+1695
+01:25:08,040 --> 01:25:10,040
+en réalité
+
+1696
+01:25:10,040 --> 01:25:12,040
+on a pu voir
+
+1697
+01:25:12,040 --> 01:25:14,040
+pas mal d'étonnement
+
+1698
+01:25:14,040 --> 01:25:16,040
+lorsque le marché s'est effondré
+
+1699
+01:25:16,040 --> 01:25:18,040
+où il y avait
+
+1700
+01:25:18,040 --> 01:25:20,040
+je me rappelle
+
+1701
+01:25:20,040 --> 01:25:22,040
+j'avais vu
+
+1702
+01:25:22,040 --> 01:25:24,040
+un gestionnaire d'actifs
+
+1703
+01:25:24,040 --> 01:25:26,040
+qui disait
+
+1704
+01:25:26,040 --> 01:25:28,040
+lui il avait pas acheté du marché immobilier
+
+1705
+01:25:28,040 --> 01:25:30,040
+il avait acheté un produit financier
+
+1706
+01:25:30,040 --> 01:25:32,040
+mais par A plus B
+
+1707
+01:25:32,040 --> 01:25:34,040
+c'était lié au marché immobilier
+
+1708
+01:25:34,040 --> 01:25:36,040
+c'est ahurissant d'entendre des choses comme ça
+
+1709
+01:25:36,160 --> 01:25:38,160
+qui est censé bosser
+
+1710
+01:25:38,160 --> 01:25:40,160
+pour une organisation régulière
+
+1711
+01:25:40,160 --> 01:25:42,160
+en tout cas
+
+1712
+01:25:42,160 --> 01:25:44,160
+désolé si le titre
+
+1713
+01:25:44,160 --> 01:25:46,160
+était des dollars en 2024
+
+1714
+01:25:46,160 --> 01:25:48,160
+et là on explique
+
+1715
+01:25:48,160 --> 01:25:50,160
+qu'il faut perdre de l'argent pour comprendre
+
+1716
+01:25:50,160 --> 01:25:52,160
+faites vos recherches
+
+1717
+01:25:52,160 --> 01:25:54,160
+c'est vrai que ça donne pas beaucoup
+
+1718
+01:25:54,160 --> 01:25:56,160
+d'alpha
+
+1719
+01:25:56,160 --> 01:25:58,160
+je sais pas si on peut donner un peu plus
+
+1720
+01:25:58,160 --> 01:26:00,160
+de use case
+
+1721
+01:26:00,160 --> 01:26:02,160
+sachant que ce soir on a quand même beaucoup de chance
+
+1722
+01:26:02,160 --> 01:26:04,160
+d'avoir notamment opal
+
+1723
+01:26:04,280 --> 01:26:06,280
+et extra, athena
+
+1724
+01:26:06,280 --> 01:26:08,280
+qui sont des projets
+
+1725
+01:26:08,280 --> 01:26:10,280
+relativement nouveaux
+
+1726
+01:26:10,280 --> 01:26:12,280
+je sais pas si là ça vous dirait
+
+1727
+01:26:12,280 --> 01:26:14,280
+chacun d'entre vous
+
+1728
+01:26:14,280 --> 01:26:16,280
+parce que là je comprends bien qu'on est tous français
+
+1729
+01:26:16,280 --> 01:26:18,280
+ou pardon francophone
+
+1730
+01:26:18,280 --> 01:26:20,280
+et vous trois
+
+1731
+01:26:20,280 --> 01:26:22,280
+vous êtes un protocole DeFi
+
+1732
+01:26:22,280 --> 01:26:24,280
+et il me semble que tous les trois
+
+1733
+01:26:24,280 --> 01:26:26,280
+vous n'êtes pas tout à fait lancés
+
+1734
+01:26:26,280 --> 01:26:28,280
+donc est-ce que vous aurez une date d'ETA par hasard
+
+1735
+01:26:28,280 --> 01:26:30,280
+en main net?
+
+1736
+01:26:30,280 --> 01:26:32,280
+alors
+
+1737
+01:26:32,400 --> 01:26:34,400
+je vous en prie
+
+1738
+01:26:34,400 --> 01:26:36,400
+allez-y
+
+1739
+01:26:36,400 --> 01:26:38,400
+de notre côté
+
+1740
+01:26:38,400 --> 01:26:40,400
+je parle au nom d'opal
+
+1741
+01:26:40,400 --> 01:26:42,400
+nous sommes en période d'audit en ce moment
+
+1742
+01:26:42,400 --> 01:26:44,400
+avec halborn security
+
+1743
+01:26:44,400 --> 01:26:46,400
+qui s'occupe de nos audits
+
+1744
+01:26:46,400 --> 01:26:48,400
+on va probablement le doubler
+
+1745
+01:26:48,400 --> 01:26:50,400
+avec une compétition cantina
+
+1746
+01:26:50,400 --> 01:26:52,400
+une fois qu'on sera live
+
+1747
+01:26:52,400 --> 01:26:54,400
+mais normalement on devrait avoir
+
+1748
+01:26:54,400 --> 01:26:56,400
+le rapport de ce premier audit
+
+1749
+01:26:56,400 --> 01:26:58,400
+pendant la première semaine de février
+
+1750
+01:26:58,400 --> 01:27:00,400
+et selon les fixes à appliquer
+
+1751
+01:27:00,520 --> 01:27:02,520
+sur la code base
+
+1752
+01:27:02,520 --> 01:27:04,520
+on devrait être live early février
+
+1753
+01:27:04,520 --> 01:27:06,520
+opal
+
+1754
+01:27:06,520 --> 01:27:08,520
+début février live main net
+
+1755
+01:27:08,520 --> 01:27:10,520
+ok
+
+1756
+01:27:10,520 --> 01:27:12,520
+nous de notre côté
+
+1757
+01:27:12,520 --> 01:27:14,520
+on devrait être live
+
+1758
+01:27:14,520 --> 01:27:16,520
+début mars
+
+1759
+01:27:16,520 --> 01:27:18,520
+si tout se passe bien
+
+1760
+01:27:18,520 --> 01:27:20,520
+et qu'il n'y a pas de retard
+
+1761
+01:27:20,520 --> 01:27:22,520
+technique
+
+1762
+01:27:22,520 --> 01:27:24,520
+début mars on est live
+
+1763
+01:27:24,520 --> 01:27:26,520
+alors nous on préfère pas donner de date
+
+1764
+01:27:26,520 --> 01:27:28,520
+parce qu'à chaque fois
+
+1765
+01:27:28,640 --> 01:27:30,640
+on se trompe
+
+1766
+01:27:30,640 --> 01:27:32,640
+mais dans l'idée
+
+1767
+01:27:32,640 --> 01:27:34,640
+les audits devraient bientôt commencer
+
+1768
+01:27:34,640 --> 01:27:36,640
+et du coup si tout se passe bien
+
+1769
+01:27:36,640 --> 01:27:38,640
+à partir du moment où les audits commencent
+
+1770
+01:27:38,640 --> 01:27:40,640
+ce sera environ un mois
+
+1771
+01:27:40,640 --> 01:27:42,640
+et ensuite
+
+1772
+01:27:42,640 --> 01:27:44,640
+let's go
+
+1773
+01:27:46,640 --> 01:27:48,640
+effectivement
+
+1774
+01:27:48,640 --> 01:27:50,640
+je reprends le logical
+
+1775
+01:27:50,640 --> 01:27:52,640
+pour sortir un produit
+
+1776
+01:27:52,640 --> 01:27:54,640
+qui allie malheureusement
+
+1777
+01:27:54,640 --> 01:27:56,640
+il peut toujours y avoir
+
+1778
+01:27:56,760 --> 01:27:58,760
+des petits problèmes
+
+1779
+01:27:58,760 --> 01:28:00,760
+de dernière minute à résoudre
+
+1780
+01:28:00,760 --> 01:28:02,760
+donc les dates
+
+1781
+01:28:02,760 --> 01:28:04,760
+sont à prendre avec des pincettes
+
+1782
+01:28:04,760 --> 01:28:06,760
+mais voilà
+
+1783
+01:28:06,760 --> 01:28:08,760
+opal aussi
+
+1784
+01:28:08,760 --> 01:28:10,760
+on espère
+
+1785
+01:28:10,760 --> 01:28:12,760
+tout à fait
+
+1786
+01:28:14,760 --> 01:28:16,760
+donc tout le monde
+
+1787
+01:28:16,760 --> 01:28:18,760
+à peu près février mars
+
+1788
+01:28:18,760 --> 01:28:20,760
+pour zoom mars
+
+1789
+01:28:20,760 --> 01:28:22,760
+ça va être un gros mois
+
+1790
+01:28:22,760 --> 01:28:24,760
+ça va être
+
+1791
+01:28:24,880 --> 01:28:26,880
+des bonnes intégrations
+
+1792
+01:28:28,880 --> 01:28:30,880
+alors du coup
+
+1793
+01:28:30,880 --> 01:28:32,880
+si quelqu'un veut investir en DeFi
+
+1794
+01:28:32,880 --> 01:28:34,880
+ce serait quoi le portfolio
+
+1795
+01:28:34,880 --> 01:28:36,880
+vous vous proposez des trucs différents
+
+1796
+01:28:36,880 --> 01:28:38,880
+il y a
+
+1797
+01:28:38,880 --> 01:28:40,880
+le système
+
+1798
+01:28:40,880 --> 01:28:42,880
+de stacking d'assets
+
+1799
+01:28:42,880 --> 01:28:44,880
+qui sont pas pairés
+
+1800
+01:28:44,880 --> 01:28:46,880
+c'était quoi déjà
+
+1801
+01:28:46,880 --> 01:28:48,880
+Omnipool
+
+1802
+01:28:48,880 --> 01:28:50,880
+et puis
+
+1803
+01:28:51,000 --> 01:28:53,000
+ouais
+
+1804
+01:28:53,000 --> 01:28:55,000
+du coup pour juste enchaîner avec ça
+
+1805
+01:28:55,000 --> 01:28:57,000
+nous dans le cadre d'Opal
+
+1806
+01:28:57,000 --> 01:28:59,000
+très particulièrement
+
+1807
+01:28:59,000 --> 01:29:01,000
+ça va être une exposure
+
+1808
+01:29:01,000 --> 01:29:03,000
+essentiellement à l'ETH
+
+1809
+01:29:03,000 --> 01:29:05,000
+et à des stable coins
+
+1810
+01:29:05,000 --> 01:29:07,000
+et derrière l'intérêt
+
+1811
+01:29:07,000 --> 01:29:09,000
+ça va être de générer des revenus passifs
+
+1812
+01:29:09,000 --> 01:29:11,000
+donc on va pas être sur
+
+1813
+01:29:11,000 --> 01:29:13,000
+essayer d'investir pour spéculer
+
+1814
+01:29:13,000 --> 01:29:15,000
+sur des fois 2, sur des fois 3
+
+1815
+01:29:15,000 --> 01:29:17,000
+ou des fois 10 de l'ETH
+
+1816
+01:29:17,000 --> 01:29:19,000
+l'intérêt ça va être de générer vraiment du revenu
+
+1817
+01:29:19,120 --> 01:29:21,120
+en étant exposé à un asset
+
+1818
+01:29:21,120 --> 01:29:23,120
+qui est quand même parmi les moins volatiles
+
+1819
+01:29:23,120 --> 01:29:25,120
+du marché
+
+1820
+01:29:27,120 --> 01:29:29,120
+Athena
+
+1821
+01:29:29,120 --> 01:29:31,120
+vous faites où
+
+1822
+01:29:31,120 --> 01:29:33,120
+c'est un type de produit différent
+
+1823
+01:29:33,120 --> 01:29:35,120
+c'est par rapport au taux d'intérêt
+
+1824
+01:29:35,120 --> 01:29:37,120
+j'ai pas très bien compris
+
+1825
+01:29:37,120 --> 01:29:39,120
+c'était Spectra
+
+1826
+01:29:39,120 --> 01:29:41,120
+Athena Assurance
+
+1827
+01:29:41,120 --> 01:29:43,120
+si tu veux y aller Axel
+
+1828
+01:29:43,120 --> 01:29:45,120
+nous sur Athena
+
+1829
+01:29:45,120 --> 01:29:47,120
+en fait
+
+1830
+01:29:47,240 --> 01:29:49,240
+déjà c'est du stable coin
+
+1831
+01:29:49,240 --> 01:29:51,240
+parce que l'assurance amène déjà un risque
+
+1832
+01:29:51,240 --> 01:29:53,240
+avoir le côté assureur
+
+1833
+01:29:53,240 --> 01:29:55,240
+amène déjà un risque
+
+1834
+01:29:55,240 --> 01:29:57,240
+donc on a décidé pour le moment
+
+1835
+01:29:57,240 --> 01:29:59,240
+de se baser en stable coin
+
+1836
+01:29:59,240 --> 01:30:01,240
+ne pas être exposé d'une part à la volatilité
+
+1837
+01:30:01,240 --> 01:30:03,240
+d'un actif et d'autre part
+
+1838
+01:30:03,240 --> 01:30:05,240
+aux risques qu'on prend
+
+1839
+01:30:05,240 --> 01:30:07,240
+en couvrant des protocoles
+
+1840
+01:30:07,240 --> 01:30:09,240
+et donc oui
+
+1841
+01:30:09,240 --> 01:30:11,240
+l'idée
+
+1842
+01:30:11,240 --> 01:30:13,240
+est assez simple
+
+1843
+01:30:13,240 --> 01:30:15,240
+quand vous assurez quelque chose
+
+1844
+01:30:15,360 --> 01:30:17,360
+et que vous avez un risque
+
+1845
+01:30:17,360 --> 01:30:19,360
+à la place de quelqu'un d'autre
+
+1846
+01:30:19,360 --> 01:30:21,360
+j'évoquais tout à l'heure le taux d'intérêt
+
+1847
+01:30:21,360 --> 01:30:23,360
+c'est pas lié au taux d'intérêt
+
+1848
+01:30:23,360 --> 01:30:25,360
+ce que je voulais dire
+
+1849
+01:30:25,360 --> 01:30:27,360
+c'est que si tu as une assurance
+
+1850
+01:30:27,360 --> 01:30:29,360
+qui te coûte 2%
+
+1851
+01:30:29,360 --> 01:30:31,360
+et que tu as un taux d'intérêt
+
+1852
+01:30:31,360 --> 01:30:33,360
+sur le protocole de 1%
+
+1853
+01:30:33,360 --> 01:30:35,360
+ton assurance est complètement inutile
+
+1854
+01:30:35,360 --> 01:30:37,360
+puisque tu perds plus d'argent
+
+1855
+01:30:37,360 --> 01:30:39,360
+que tu en gagnes
+
+1856
+01:30:39,360 --> 01:30:41,360
+l'idée que je voulais passer tout à l'heure
+
+1857
+01:30:41,360 --> 01:30:43,360
+c'était que
+
+1858
+01:30:43,480 --> 01:30:45,480
+quand je dis ça je pense à Nexus
+
+1859
+01:30:45,480 --> 01:30:47,480
+où on peut voir des taux de 4%
+
+1860
+01:30:47,480 --> 01:30:49,480
+d'assurance
+
+1861
+01:30:49,480 --> 01:30:51,480
+pour AAV
+
+1862
+01:30:51,480 --> 01:30:53,480
+en sachant que sur AAV
+
+1863
+01:30:53,480 --> 01:30:55,480
+les rendements ne sont pas extraordinaires
+
+1864
+01:30:55,480 --> 01:30:57,480
+ça fait plus de 50%
+
+1865
+01:30:57,480 --> 01:30:59,480
+pour beaucoup de pools
+
+1866
+01:30:59,480 --> 01:31:01,480
+voire même plus de 100% pour certaines
+
+1867
+01:31:01,480 --> 01:31:03,480
+donc voilà
+
+1868
+01:31:03,480 --> 01:31:05,480
+l'idée c'est de faire une assurance
+
+1869
+01:31:05,480 --> 01:31:07,480
+qui
+
+1870
+01:31:07,480 --> 01:31:09,480
+respecte aussi
+
+1871
+01:31:09,480 --> 01:31:11,480
+l'utilisateur
+
+1872
+01:31:11,600 --> 01:31:13,600
+l'utilisateur du protocole
+
+1873
+01:31:13,600 --> 01:31:15,600
+qui vient s'assurer
+
+1874
+01:31:15,600 --> 01:31:17,600
+on peut acheter une couverture
+
+1875
+01:31:17,600 --> 01:31:19,600
+bien entendu
+
+1876
+01:31:19,600 --> 01:31:21,600
+pour le côté investisseur
+
+1877
+01:31:21,600 --> 01:31:23,600
+si vous voulez prendre un risque
+
+1878
+01:31:23,600 --> 01:31:25,600
+sur
+
+1879
+01:31:25,600 --> 01:31:27,600
+Opal
+
+1880
+01:31:27,600 --> 01:31:29,600
+Opal à AV curve
+
+1881
+01:31:29,600 --> 01:31:31,600
+que vous pensez que ces protocoles sont sécurisés
+
+1882
+01:31:31,600 --> 01:31:33,600
+parce que vous avez confiance en la team
+
+1883
+01:31:33,600 --> 01:31:35,600
+etc.
+
+1884
+01:31:35,600 --> 01:31:37,600
+vous mettez des liquidités
+
+1885
+01:31:37,600 --> 01:31:39,600
+il y a tout un système de prix dynamique
+
+1886
+01:31:39,720 --> 01:31:41,720
+pour respecter ce que j'évoquais avant
+
+1887
+01:31:41,720 --> 01:31:43,720
+mais vous mettez des liquidités
+
+1888
+01:31:43,720 --> 01:31:45,720
+et donc encore une fois
+
+1889
+01:31:45,720 --> 01:31:47,720
+ces liquidités sont visibles
+
+1890
+01:31:47,720 --> 01:31:49,720
+c'est à dire que si demain un protocole vient s'assurer
+
+1891
+01:31:49,720 --> 01:31:51,720
+lui-même pour avoir l'air safe
+
+1892
+01:31:51,720 --> 01:31:53,720
+et que il retire
+
+1893
+01:31:53,720 --> 01:31:55,720
+les liquidités avant de faire un rug pull
+
+1894
+01:31:55,720 --> 01:31:57,720
+parce que forcément
+
+1895
+01:31:57,720 --> 01:31:59,720
+il ne va pas laisser les liquidités en assurance
+
+1896
+01:31:59,720 --> 01:32:01,720
+avant de rug
+
+1897
+01:32:01,720 --> 01:32:03,720
+à ce moment là on voit
+
+1898
+01:32:03,720 --> 01:32:05,720
+les liquidités de la pool qui ont diminué
+
+1899
+01:32:05,720 --> 01:32:07,720
+voire qui sont complètement parties
+
+1900
+01:32:07,840 --> 01:32:09,840
+et il y a de quoi se poser des questions
+
+1901
+01:32:09,840 --> 01:32:11,840
+indirectement
+
+1902
+01:32:11,840 --> 01:32:13,840
+je pense que ça pourrait faire un petit système
+
+1903
+01:32:13,840 --> 01:32:15,840
+d'alerte aussi
+
+1904
+01:32:15,840 --> 01:32:17,840
+si ça devenait une norme
+
+1905
+01:32:17,840 --> 01:32:19,840
+pas forcément uniquement sur Athéna
+
+1906
+01:32:19,840 --> 01:32:21,840
+mais si ça devenait une norme
+
+1907
+01:32:21,840 --> 01:32:23,840
+qui est une assurance
+
+1908
+01:32:23,840 --> 01:32:25,840
+autre que le fond de sa subbinance
+
+1909
+01:32:25,840 --> 01:32:27,840
+qui est encore une fois une black box
+
+1910
+01:32:27,840 --> 01:32:29,840
+quelque chose de visible
+
+1911
+01:32:29,840 --> 01:32:31,840
+ça pourrait
+
+1912
+01:32:31,840 --> 01:32:33,840
+faire une
+
+1913
+01:32:33,840 --> 01:32:35,840
+espèce de norme de sécurité
+
+1914
+01:32:35,960 --> 01:32:37,960
+c'est à dire qu'un protocole n'oblige pas ses utilisateurs
+
+1915
+01:32:37,960 --> 01:32:39,960
+à s'assurer
+
+1916
+01:32:39,960 --> 01:32:41,960
+c'est lui qui assure ses utilisateurs
+
+1917
+01:32:41,960 --> 01:32:43,960
+donc effectivement
+
+1918
+01:32:43,960 --> 01:32:45,960
+ça fait des taux moins impressionnants
+
+1919
+01:32:45,960 --> 01:32:47,960
+pour l'investisseur
+
+1920
+01:32:47,960 --> 01:32:49,960
+mais l'investisseur sait qu'il a une sécurité
+
+1921
+01:32:49,960 --> 01:32:51,960
+sait que
+
+1922
+01:32:51,960 --> 01:32:53,960
+il y a potentiellement
+
+1923
+01:32:53,960 --> 01:32:55,960
+des liquidités
+
+1924
+01:32:55,960 --> 01:32:57,960
+pour assurer une perte
+
+1925
+01:32:57,960 --> 01:32:59,960
+et ça fait des revenus
+
+1926
+01:32:59,960 --> 01:33:01,960
+je me disais Antoine sur l'autorégulation
+
+1927
+01:33:01,960 --> 01:33:03,960
+de la défi voilà
+
+1928
+01:33:04,080 --> 01:33:06,080
+on a notre propre problème
+
+1929
+01:33:06,080 --> 01:33:08,080
+on essaie de développer des protocoles
+
+1930
+01:33:08,080 --> 01:33:10,080
+pour y répondre
+
+1931
+01:33:10,080 --> 01:33:12,080
+en tous les cas
+
+1932
+01:33:12,080 --> 01:33:14,080
+c'est ce qu'on essaie de faire
+
+1933
+01:33:14,080 --> 01:33:16,080
+sur le système financier traditionnel
+
+1934
+01:33:16,080 --> 01:33:18,080
+il y a des assurances
+
+1935
+01:33:18,080 --> 01:33:20,080
+vous ne pouvez pas
+
+1936
+01:33:20,080 --> 01:33:22,080
+lancer des produits
+
+1937
+01:33:22,080 --> 01:33:24,080
+sans avoir les assurances à côté
+
+1938
+01:33:24,080 --> 01:33:26,080
+en cas de problème
+
+1939
+01:33:26,080 --> 01:33:28,080
+donc
+
+1940
+01:33:28,080 --> 01:33:30,080
+c'est ce qu'on essaye d'apporter
+
+1941
+01:33:30,080 --> 01:33:32,080
+c'est un secteur assez particulier
+
+1942
+01:33:32,200 --> 01:33:34,200
+c'est vrai que
+
+1943
+01:33:34,200 --> 01:33:36,200
+là je ne vais pas
+
+1944
+01:33:36,200 --> 01:33:38,200
+vous donner des chiffres
+
+1945
+01:33:38,200 --> 01:33:40,200
+dont je n'ai plus trop connaissance
+
+1946
+01:33:40,200 --> 01:33:42,200
+mais
+
+1947
+01:33:42,200 --> 01:33:44,200
+Nexus et InsurAce
+
+1948
+01:33:44,200 --> 01:33:46,200
+c'était le
+
+1949
+01:33:46,200 --> 01:33:48,200
+protocole que j'évoquais
+
+1950
+01:33:48,200 --> 01:33:50,200
+tout à l'heure
+
+1951
+01:33:50,200 --> 01:33:52,200
+ne sont pas décentralisés
+
+1952
+01:33:52,200 --> 01:33:54,200
+mais apportent
+
+1953
+01:33:54,200 --> 01:33:56,200
+un peu de sûreté au marché
+
+1954
+01:33:56,200 --> 01:33:58,200
+c'est vraiment
+
+1955
+01:33:58,200 --> 01:34:00,200
+un tout petit peu
+
+1956
+01:34:00,320 --> 01:34:02,320
+pendant le bullrun
+
+1957
+01:34:02,320 --> 01:34:04,320
+il s'agissait de 2,5 ou 2,6%
+
+1958
+01:34:04,320 --> 01:34:06,320
+de toute la liquidité
+
+1959
+01:34:06,320 --> 01:34:08,320
+présente sur la DeFi
+
+1960
+01:34:08,320 --> 01:34:10,320
+donc on est encore loin
+
+1961
+01:34:10,320 --> 01:34:12,320
+de l'objectif
+
+1962
+01:34:12,320 --> 01:34:14,320
+mais voilà
+
+1963
+01:34:14,320 --> 01:34:16,320
+c'est aussi pour ça qu'on monte le protocole
+
+1964
+01:34:16,320 --> 01:34:18,320
+parce qu'il y a une grosse part de marché à prendre
+
+1965
+01:34:18,320 --> 01:34:20,320
+sur ce secteur là
+
+1966
+01:34:20,320 --> 01:34:22,320
+en apportant un produit
+
+1967
+01:34:22,320 --> 01:34:24,320
+en cohérence avec l'état d'esprit
+
+1968
+01:34:24,320 --> 01:34:26,320
+de la DeFi, transparent
+
+1969
+01:34:26,320 --> 01:34:28,320
+permissionless parce que chacun pourra
+
+1970
+01:34:28,440 --> 01:34:30,440
+ouvrir sa poule
+
+1971
+01:34:30,440 --> 01:34:32,440
+si un protocole
+
+1972
+01:34:32,440 --> 01:34:34,440
+demain se monte et qu'il veut rassurer
+
+1973
+01:34:34,440 --> 01:34:36,440
+ses utilisateurs
+
+1974
+01:34:36,440 --> 01:34:38,440
+il peut tout à fait mettre des liquidités
+
+1975
+01:34:38,440 --> 01:34:40,440
+en assurance sur sa poule
+
+1976
+01:34:40,440 --> 01:34:42,440
+ce qui permet à l'utilisateur
+
+1977
+01:34:42,440 --> 01:34:44,440
+de se dire voilà il y a déjà
+
+1978
+01:34:44,440 --> 01:34:46,440
+tant de liquidités
+
+1979
+01:34:46,440 --> 01:34:48,440
+pour protéger les utilisateurs
+
+1980
+01:34:48,440 --> 01:34:50,440
+de toute façon sur Athena quand il n'y a pas de liquidités
+
+1981
+01:34:50,440 --> 01:34:52,440
+disponibles vous ne pouvez pas acheter une couverture
+
+1982
+01:34:52,440 --> 01:34:54,440
+donc après soit il y a un certain
+
+1983
+01:34:54,440 --> 01:34:56,440
+nombre d'utilisateurs
+
+1984
+01:34:56,560 --> 01:34:58,560
+qui seront sans couverture
+
+1985
+01:34:58,560 --> 01:35:00,560
+c'est adaptatif
+
+1986
+01:35:00,560 --> 01:35:02,560
+c'est dynamique, similaire à Idle Finance
+
+1987
+01:35:02,560 --> 01:35:04,560
+j'ai envie de dire
+
+1988
+01:35:04,560 --> 01:35:06,560
+en tout cas on attendra
+
+1989
+01:35:06,560 --> 01:35:08,560
+les audits et
+
+1990
+01:35:08,560 --> 01:35:10,560
+les tests nets
+
+1991
+01:35:10,560 --> 01:35:12,560
+d'Athena donc
+
+1992
+01:35:12,560 --> 01:35:14,560
+pour mars, peut-être après
+
+1993
+01:35:14,560 --> 01:35:16,560
+la sortie de
+
+1994
+01:35:16,560 --> 01:35:18,560
+Opal et peut-être
+
+1995
+01:35:18,560 --> 01:35:20,560
+de Spectra
+
+1996
+01:35:20,560 --> 01:35:22,560
+Spectra pour de mémoire
+
+1997
+01:35:22,560 --> 01:35:24,560
+c'était AP Wine
+
+1998
+01:35:24,680 --> 01:35:26,680
+c'est vraiment l'AP Wine V2 Spectra
+
+1999
+01:35:26,680 --> 01:35:28,680
+mais avec même une vision un peu plus profonde
+
+2000
+01:35:28,680 --> 01:35:30,680
+c'est ça
+
+2001
+01:35:30,680 --> 01:35:32,680
+du coup
+
+2002
+01:35:32,680 --> 01:35:34,680
+je vais vous présenter un peu
+
+2003
+01:35:34,680 --> 01:35:36,680
+ce qu'on fait
+
+2004
+01:35:36,680 --> 01:35:38,680
+comme je vous disais c'est très lié au taux d'intérêt
+
+2005
+01:35:40,680 --> 01:35:42,680
+et du coup avec tout ce qu'on peut
+
+2006
+01:35:42,680 --> 01:35:44,680
+faire avec Spectra
+
+2007
+01:35:44,680 --> 01:35:46,680
+il y a les taux d'intérêt fixes
+
+2008
+01:35:46,680 --> 01:35:48,680
+il y a la spéculation sur
+
+2009
+01:35:48,680 --> 01:35:50,680
+les taux d'intérêt justement
+
+2010
+01:35:50,680 --> 01:35:52,680
+il y a le leverage
+
+2011
+01:35:52,800 --> 01:35:54,800
+c'est la possibilité
+
+2012
+01:35:54,800 --> 01:35:56,800
+d'acheter directement des taux d'intérêt et d'être exposé
+
+2013
+01:35:56,800 --> 01:35:58,800
+uniquement aux taux d'intérêt
+
+2014
+01:35:58,800 --> 01:36:00,800
+donc on prend un maximum de risques
+
+2015
+01:36:00,800 --> 01:36:02,800
+mais du coup il y a potentiellement des
+
+2016
+01:36:02,800 --> 01:36:04,800
+rewards donc grosse volatilité
+
+2017
+01:36:04,800 --> 01:36:06,800
+il y a la possibilité
+
+2018
+01:36:08,800 --> 01:36:10,800
+du coup de toucher son yield
+
+2019
+01:36:10,800 --> 01:36:12,800
+à l'avance
+
+2020
+01:36:12,800 --> 01:36:14,800
+si quelqu'un veut vendre son yield
+
+2021
+01:36:14,800 --> 01:36:16,800
+pour acheter autre chose entre temps
+
+2022
+01:36:16,800 --> 01:36:18,800
+ça peut se faire
+
+2023
+01:36:18,800 --> 01:36:20,800
+donc c'est un outil
+
+2024
+01:36:20,920 --> 01:36:22,920
+de spéculation mais aussi de
+
+2025
+01:36:22,920 --> 01:36:24,920
+hedging pour se
+
+2026
+01:36:24,920 --> 01:36:26,920
+protéger justement de la volatilité
+
+2027
+01:36:28,920 --> 01:36:30,920
+et du coup en termes d'implémentation
+
+2028
+01:36:30,920 --> 01:36:32,920
+c'est assez intéressant
+
+2029
+01:36:32,920 --> 01:36:34,920
+parce que par exemple
+
+2030
+01:36:34,920 --> 01:36:36,920
+vous venez chez nous avec vos vaults
+
+2031
+01:36:36,920 --> 01:36:38,920
+vos interest bearing token
+
+2032
+01:36:38,920 --> 01:36:40,920
+vous les déposez et nous
+
+2033
+01:36:40,920 --> 01:36:42,920
+il y a deux possibilités
+
+2034
+01:36:42,920 --> 01:36:44,920
+mais la première pour vous expliquer le principe
+
+2035
+01:36:44,920 --> 01:36:46,920
+c'est qu'on vous donne
+
+2036
+01:36:46,920 --> 01:36:48,920
+un principal token et un yield token
+
+2037
+01:36:49,040 --> 01:36:51,040
+le principal token
+
+2038
+01:36:51,040 --> 01:36:53,040
+représente tout ce que vous avez déposé
+
+2039
+01:36:55,040 --> 01:36:57,040
+mais qui est bloqué
+
+2040
+01:36:57,040 --> 01:36:59,040
+jusqu'à l'expiration de la période
+
+2041
+01:36:59,040 --> 01:37:01,040
+qui
+
+2042
+01:37:01,040 --> 01:37:03,040
+vous pouvez rentrer en cours de période bien sûr
+
+2043
+01:37:03,040 --> 01:37:05,040
+donc la période
+
+2044
+01:37:05,040 --> 01:37:07,040
+ça peut être 6 mois, 1 an
+
+2045
+01:37:07,040 --> 01:37:09,040
+2 ans
+
+2046
+01:37:09,040 --> 01:37:11,040
+on est en train de travailler sur
+
+2047
+01:37:11,040 --> 01:37:13,040
+les différentes périodes
+
+2048
+01:37:15,040 --> 01:37:17,040
+ensuite l'autre
+
+2049
+01:37:17,160 --> 01:37:19,160
+c'est le yield token
+
+2050
+01:37:19,160 --> 01:37:21,160
+qui vous permet de claim votre yield
+
+2051
+01:37:21,160 --> 01:37:23,160
+qui du coup est généré par un principal token
+
+2052
+01:37:23,160 --> 01:37:25,160
+ce qu'il y a derrière
+
+2053
+01:37:25,160 --> 01:37:27,160
+un principal token
+
+2054
+01:37:27,160 --> 01:37:29,160
+quand vous le souhaitez
+
+2055
+01:37:29,160 --> 01:37:31,160
+parce que techniquement
+
+2056
+01:37:31,160 --> 01:37:33,160
+il est plus ou moins
+
+2057
+01:37:33,160 --> 01:37:35,160
+pas streamé mais vous pouvez le claim
+
+2058
+01:37:35,160 --> 01:37:37,160
+quand vous voulez
+
+2059
+01:37:39,160 --> 01:37:41,160
+donc là ça c'est le principe de base
+
+2060
+01:37:41,160 --> 01:37:43,160
+on appelle ça la tokenisation
+
+2061
+01:37:43,160 --> 01:37:45,160
+donc le principal token
+
+2062
+01:37:45,280 --> 01:37:47,280
+on peut voir ça comme un bond
+
+2063
+01:37:47,280 --> 01:37:49,280
+donc c'est une obligation
+
+2064
+01:37:51,280 --> 01:37:53,280
+qui doit vous payer à la fin
+
+2065
+01:37:55,280 --> 01:37:57,280
+mis à part s'il y a un yield négatif
+
+2066
+01:37:57,280 --> 01:37:59,280
+qui doit vous payer justement
+
+2067
+01:38:01,280 --> 01:38:03,280
+par exemple vous achetez un principal token
+
+2068
+01:38:03,280 --> 01:38:05,280
+de AVUSDC
+
+2069
+01:38:05,280 --> 01:38:07,280
+à 90 centimes
+
+2070
+01:38:07,280 --> 01:38:09,280
+l'idée c'est qu'à la fin
+
+2071
+01:38:09,280 --> 01:38:11,280
+de la période il sera forcément égal à 1
+
+2072
+01:38:11,280 --> 01:38:13,280
+si AV
+
+2073
+01:38:13,400 --> 01:38:15,400
+n'a pas fait de pertes
+
+2074
+01:38:15,400 --> 01:38:17,400
+sur les USDC entre temps
+
+2075
+01:38:19,400 --> 01:38:21,400
+ça permet d'obtenir un taux fixe
+
+2076
+01:38:23,400 --> 01:38:25,400
+La différence entre 0.9 et 1
+
+2077
+01:38:25,400 --> 01:38:27,400
+durant la vie du produit
+
+2078
+01:38:27,400 --> 01:38:29,400
+cette différence c'est donc le FYT
+
+2079
+01:38:31,400 --> 01:38:33,400
+ce yield que l'on peut donc claimer en avance
+
+2080
+01:38:33,400 --> 01:38:35,400
+C'est ça
+
+2081
+01:38:37,400 --> 01:38:39,400
+du coup normalement si on prend
+
+2082
+01:38:39,400 --> 01:38:41,400
+un principal token plus un yield token
+
+2083
+01:38:43,400 --> 01:38:45,400
+ils sont forcément égales à 1
+
+2084
+01:38:45,400 --> 01:38:47,400
+interest bearing token
+
+2085
+01:38:47,400 --> 01:38:49,400
+et donc ça veut dire qu'on peut
+
+2086
+01:38:49,400 --> 01:38:51,400
+brûler les deux par exemple
+
+2087
+01:38:51,400 --> 01:38:53,400
+en cours de période
+
+2088
+01:38:53,400 --> 01:38:55,400
+pour sortir et reobtenir son interest bearing token
+
+2089
+01:38:57,400 --> 01:38:59,400
+c'est aussi comme ça qu'on rentre
+
+2090
+01:38:59,400 --> 01:39:01,400
+on arrive avec un interest bearing token
+
+2091
+01:39:01,400 --> 01:39:03,400
+et à la fin on obtient un principal token
+
+2092
+01:39:03,400 --> 01:39:05,400
+et un yield token
+
+2093
+01:39:07,400 --> 01:39:09,400
+et donc par dessus on a créé
+
+2094
+01:39:09,400 --> 01:39:11,400
+des liquidity providers vault
+
+2095
+01:39:13,400 --> 01:39:15,400
+On a perdu Antoine
+
+2096
+01:39:15,400 --> 01:39:17,400
+il me semble
+
+2097
+01:39:17,400 --> 01:39:19,400
+alors c'est vrai que ça peut sonner
+
+2098
+01:39:19,400 --> 01:39:21,400
+compliqué
+
+2099
+01:39:23,400 --> 01:39:25,400
+un peu APY
+
+2100
+01:39:25,400 --> 01:39:27,400
+mais honnêtement je vous promets
+
+2101
+01:39:27,400 --> 01:39:29,400
+quand on se jette dedans
+
+2102
+01:39:29,400 --> 01:39:31,400
+c'est assez phénoménal
+
+2103
+01:39:31,400 --> 01:39:33,400
+en termes de stratégie, de yield
+
+2104
+01:39:33,400 --> 01:39:35,400
+et donc faire des dollars en 2024
+
+2105
+01:39:35,400 --> 01:39:37,400
+C'est une question du UI
+
+2106
+01:39:37,400 --> 01:39:39,400
+après là c'est une explication un peu plus détaillée
+
+2107
+01:39:39,400 --> 01:39:41,400
+et c'est juste
+
+2108
+01:39:41,520 --> 01:39:43,520
+comprendre les termes
+
+2109
+01:39:43,520 --> 01:39:45,520
+mais après c'est une question du UI
+
+2110
+01:39:45,520 --> 01:39:47,520
+tout de façon, tout protocole
+
+2111
+01:39:47,520 --> 01:39:49,520
+si vous fait une UI
+
+2112
+01:39:49,520 --> 01:39:51,520
+à la hauteur
+
+2113
+01:39:51,520 --> 01:39:53,520
+de la technique qu'il y a derrière
+
+2114
+01:39:53,520 --> 01:39:55,520
+personne n'aurait été dessus
+
+2115
+01:39:55,520 --> 01:39:57,520
+En ce moment on a une grosse
+
+2116
+01:39:57,520 --> 01:39:59,520
+comparaison que je vois de plus en plus
+
+2117
+01:39:59,520 --> 01:40:01,520
+souvent sur les réseaux, c'est la comparaison à Pundle
+
+2118
+01:40:01,520 --> 01:40:03,520
+pour ceux qui sont un peu plus familier avec
+
+2119
+01:40:03,520 --> 01:40:05,520
+ce protocole, peut-être ça peut vous aider à comprendre
+
+2120
+01:40:05,520 --> 01:40:07,520
+certains fondamentaux
+
+2121
+01:40:07,520 --> 01:40:09,520
+et comprendre aussi
+
+2122
+01:40:09,640 --> 01:40:11,640
+quel est le potentiel
+
+2123
+01:40:11,640 --> 01:40:13,640
+pour le projet
+
+2124
+01:40:15,640 --> 01:40:17,640
+Ah oui, du coup désolé pour l'interruption
+
+2125
+01:40:17,640 --> 01:40:19,640
+Du coup c'est
+
+2126
+01:40:19,640 --> 01:40:21,640
+relativement similaire à Pundle
+
+2127
+01:40:21,640 --> 01:40:23,640
+mais justement
+
+2128
+01:40:23,640 --> 01:40:25,640
+le listing d'assets
+
+2129
+01:40:25,640 --> 01:40:27,640
+ça va être permissionless
+
+2130
+01:40:27,640 --> 01:40:29,640
+c'est à dire que n'importe qui
+
+2131
+01:40:29,640 --> 01:40:31,640
+peut venir et créer une pool
+
+2132
+01:40:31,640 --> 01:40:33,640
+pour un vault
+
+2133
+01:40:33,640 --> 01:40:35,640
+s'il est compatible ERC4626
+
+2134
+01:40:35,640 --> 01:40:37,640
+c'est un standard
+
+2135
+01:40:37,760 --> 01:40:39,760
+pour les vaults
+
+2136
+01:40:39,760 --> 01:40:41,760
+après il y a toujours moyen de faire un adapteur
+
+2137
+01:40:41,760 --> 01:40:43,760
+s'il ne l'est pas nativement
+
+2138
+01:40:43,760 --> 01:40:45,760
+Mais du coup
+
+2139
+01:40:45,760 --> 01:40:47,760
+oui peut-être que
+
+2140
+01:40:47,760 --> 01:40:49,760
+dans mon explication j'ai été un peu loin
+
+2141
+01:40:49,760 --> 01:40:51,760
+mais du coup le résultat
+
+2142
+01:40:51,760 --> 01:40:53,760
+des LPVAULT
+
+2143
+01:40:53,760 --> 01:40:55,760
+l'idée c'est que vous pouvez venir avec
+
+2144
+01:40:55,760 --> 01:40:57,760
+votre interest bearing token
+
+2145
+01:40:57,760 --> 01:40:59,760
+et l'idée c'est que
+
+2146
+01:40:59,760 --> 01:41:01,760
+si vous avez bien
+
+2147
+01:41:01,760 --> 01:41:03,760
+priceé, si la pool
+
+2148
+01:41:03,760 --> 01:41:05,760
+quand vous rentrez est bien priceée
+
+2149
+01:41:05,880 --> 01:41:07,880
+par rapport au taux
+
+2150
+01:41:07,880 --> 01:41:09,880
+d'intérêt que vous pensez qu'il va y avoir
+
+2151
+01:41:09,880 --> 01:41:11,880
+sur la période
+
+2152
+01:41:11,880 --> 01:41:13,880
+ça veut dire que vous allez avoir un très faible
+
+2153
+01:41:13,880 --> 01:41:15,880
+impermanent loss et donc
+
+2154
+01:41:15,880 --> 01:41:17,880
+vous allez toucher le yield
+
+2155
+01:41:17,880 --> 01:41:19,880
+de votre interest bearing token
+
+2156
+01:41:19,880 --> 01:41:21,880
+plus les swap fees
+
+2157
+01:41:21,880 --> 01:41:23,880
+qui vont avoir lieu dans la pool
+
+2158
+01:41:23,880 --> 01:41:25,880
+et donc
+
+2159
+01:41:25,880 --> 01:41:27,880
+c'est un interest bearing token
+
+2160
+01:41:27,880 --> 01:41:29,880
+plus plus
+
+2161
+01:41:29,880 --> 01:41:31,880
+donc après ça rajoute des risques
+
+2162
+01:41:31,880 --> 01:41:33,880
+mais vu qu'on utilise l'AMM de curve
+
+2163
+01:41:34,000 --> 01:41:36,000
+c'est relativement safe
+
+2164
+01:41:36,000 --> 01:41:38,000
+bien sûr on va se faire auditer nous aussi
+
+2165
+01:41:38,000 --> 01:41:40,000
+mais voilà
+
+2166
+01:41:40,000 --> 01:41:42,000
+c'était une petite explication
+
+2167
+01:41:44,000 --> 01:41:46,000
+du coup absolument n'importe
+
+2168
+01:41:46,000 --> 01:41:48,000
+quel utilisateur peut proposer
+
+2169
+01:41:48,000 --> 01:41:50,000
+le token à rendement
+
+2170
+01:41:50,000 --> 01:41:52,000
+qu'il veut
+
+2171
+01:41:52,000 --> 01:41:54,000
+c'est incroyable
+
+2172
+01:41:54,000 --> 01:41:56,000
+c'est infini, ça fait des stratégies infinies
+
+2173
+01:41:56,000 --> 01:41:58,000
+franchement
+
+2174
+01:41:58,000 --> 01:42:00,000
+quand on voit le nombre de token
+
+2175
+01:42:00,000 --> 01:42:02,000
+à rendement dans la DeFi
+
+2176
+01:42:02,120 --> 01:42:04,120
+on peut s'attendre à des bonnes grosses dingueries
+
+2177
+01:42:06,120 --> 01:42:08,120
+effectivement
+
+2178
+01:42:08,120 --> 01:42:10,120
+j'ai une question
+
+2179
+01:42:10,120 --> 01:42:12,120
+en tant que néophyte
+
+2180
+01:42:12,120 --> 01:42:14,120
+les
+
+2181
+01:42:14,120 --> 01:42:16,120
+systèmes que vous décrivez ont l'air
+
+2182
+01:42:16,120 --> 01:42:18,120
+super intéressant mais ils ont l'air
+
+2183
+01:42:18,120 --> 01:42:20,120
+de demander quand même un petit peu
+
+2184
+01:42:20,120 --> 01:42:22,120
+de connaissances et aussi un petit peu
+
+2185
+01:42:22,120 --> 01:42:24,120
+d'implication
+
+2186
+01:42:24,120 --> 01:42:26,120
+comment vous
+
+2187
+01:42:26,120 --> 01:42:28,120
+comment vous pourriez
+
+2188
+01:42:28,120 --> 01:42:30,120
+qualifier l'implication
+
+2189
+01:42:30,240 --> 01:42:32,240
+pour chacun de vos projets
+
+2190
+01:42:32,240 --> 01:42:34,240
+il y en a
+
+2191
+01:42:34,240 --> 01:42:36,240
+le dernier qui a été présenté
+
+2192
+01:42:36,240 --> 01:42:38,240
+ça a l'air d'être un truc où il faut quand même
+
+2193
+01:42:38,240 --> 01:42:40,240
+s'impliquer
+
+2194
+01:42:40,240 --> 01:42:42,240
+tu regardes un peu quotidiennement
+
+2195
+01:42:42,240 --> 01:42:44,240
+ce que tu fais avec ça
+
+2196
+01:42:44,240 --> 01:42:46,240
+d'autres projets moins
+
+2197
+01:42:46,240 --> 01:42:48,240
+par exemple Opal j'ai l'impression que c'est plus un truc
+
+2198
+01:42:48,240 --> 01:42:50,240
+un peu plus relax
+
+2199
+01:42:50,240 --> 01:42:52,240
+en termes d'action que tu dois faire
+
+2200
+01:42:52,240 --> 01:42:54,240
+pour
+
+2201
+01:42:54,240 --> 01:42:56,240
+s'assurer que ton investissement
+
+2202
+01:42:56,240 --> 01:42:58,240
+soit maximisé
+
+2203
+01:42:58,360 --> 01:43:00,360
+comment vous qualifieriez ça
+
+2204
+01:43:00,360 --> 01:43:02,360
+chacun
+
+2205
+01:43:02,360 --> 01:43:04,360
+du coup
+
+2206
+01:43:04,360 --> 01:43:06,360
+juste avant de répondre à ta question
+
+2207
+01:43:06,360 --> 01:43:08,360
+je pensais à ce qu'on disait
+
+2208
+01:43:08,360 --> 01:43:10,360
+sur la user interface
+
+2209
+01:43:10,360 --> 01:43:12,360
+la simplicité d'utilisation
+
+2210
+01:43:12,360 --> 01:43:14,360
+justement c'est un truc auquel
+
+2211
+01:43:14,360 --> 01:43:16,360
+on a bien travaillé parce que
+
+2212
+01:43:16,360 --> 01:43:18,360
+avec la v1 c'était très difficile de comprendre
+
+2213
+01:43:18,360 --> 01:43:20,360
+il fallait comprendre le protocole pour l'utiliser
+
+2214
+01:43:20,360 --> 01:43:22,360
+et là l'idée c'est que ce soit
+
+2215
+01:43:22,360 --> 01:43:24,360
+beaucoup plus simple
+
+2216
+01:43:24,360 --> 01:43:26,360
+mais du coup
+
+2217
+01:43:26,480 --> 01:43:28,480
+le principe de nos LPVault
+
+2218
+01:43:28,480 --> 01:43:30,480
+c'est que tu viennes, tu déposes et techniquement
+
+2219
+01:43:30,480 --> 01:43:32,480
+on fait tout pour toi
+
+2220
+01:43:32,480 --> 01:43:34,480
+donc là t'as rien à faire
+
+2221
+01:43:34,480 --> 01:43:36,480
+tu bats tu LP passivement
+
+2222
+01:43:36,480 --> 01:43:38,480
+on a aussi la partie
+
+2223
+01:43:38,480 --> 01:43:40,480
+où tu fais du trading
+
+2224
+01:43:40,480 --> 01:43:42,480
+où justement là tu essaies
+
+2225
+01:43:42,480 --> 01:43:44,480
+d'obtenir le meilleur taux fixe
+
+2226
+01:43:44,480 --> 01:43:46,480
+devant ton
+
+2227
+01:43:46,480 --> 01:43:48,480
+yield à l'avance le plus haut etc
+
+2228
+01:43:48,480 --> 01:43:50,480
+où là du coup il faut être
+
+2229
+01:43:50,480 --> 01:43:52,480
+actif parce que
+
+2230
+01:43:52,480 --> 01:43:54,480
+ça requiert une
+
+2231
+01:43:54,600 --> 01:43:56,600
+action et il y a des conditions
+
+2232
+01:43:56,600 --> 01:43:58,600
+que l'utilisateur peut choisir
+
+2233
+01:43:58,600 --> 01:44:00,600
+mais dans l'idée
+
+2234
+01:44:00,600 --> 01:44:02,600
+la plupart des protocoles je trouve
+
+2235
+01:44:02,600 --> 01:44:04,600
+en DeFi tendent à
+
+2236
+01:44:04,600 --> 01:44:06,600
+mis à part du coup les perps
+
+2237
+01:44:06,600 --> 01:44:08,600
+où les gens vont trader activement
+
+2238
+01:44:08,600 --> 01:44:10,600
+ou une histoire par exemple
+
+2239
+01:44:10,600 --> 01:44:12,600
+mais l'idée c'est que quand les gens LP
+
+2240
+01:44:12,600 --> 01:44:14,600
+ce soit le plus simple possible
+
+2241
+01:44:14,600 --> 01:44:16,600
+et qu'ils n'ont rien besoin de faire
+
+2242
+01:44:16,600 --> 01:44:18,600
+c'est pour ça que une histoire v3 ça a été un gros
+
+2243
+01:44:18,600 --> 01:44:20,600
+un gros
+
+2244
+01:44:20,600 --> 01:44:22,600
+comment dire
+
+2245
+01:44:22,720 --> 01:44:24,720
+un gros contraste quand même avec ce qui se faisait dans la DeFi
+
+2246
+01:44:24,720 --> 01:44:26,720
+et parce qu'il faut
+
+2247
+01:44:26,720 --> 01:44:28,720
+déplacer sa pool de temps en temps etc
+
+2248
+01:44:28,720 --> 01:44:30,720
+et justement c'est quelque chose
+
+2249
+01:44:30,720 --> 01:44:32,720
+où je me demande si la DeFi tend
+
+2250
+01:44:32,720 --> 01:44:34,720
+vers ça vers du coup
+
+2251
+01:44:34,720 --> 01:44:36,720
+plus d'active management
+
+2252
+01:44:36,720 --> 01:44:38,720
+ou alors ou pas
+
+2253
+01:44:38,720 --> 01:44:40,720
+sachant que il y a eu justement
+
+2254
+01:44:40,720 --> 01:44:42,720
+de la concentrated liquidity
+
+2255
+01:44:42,720 --> 01:44:44,720
+des concentrated liquidity managers
+
+2256
+01:44:44,720 --> 01:44:46,720
+qui se sont lancés ensuite
+
+2257
+01:44:46,720 --> 01:44:48,720
+sans énormément de succès
+
+2258
+01:44:48,720 --> 01:44:50,720
+mais ils ont
+
+2259
+01:44:50,840 --> 01:44:52,840
+ils ont le mérite d'être là
+
+2260
+01:44:52,840 --> 01:44:54,840
+et d'avoir essayé
+
+2261
+01:44:54,840 --> 01:44:56,840
+donc justement je pense
+
+2262
+01:44:56,840 --> 01:44:58,840
+que les utilisateurs et les LP
+
+2263
+01:44:58,840 --> 01:45:00,840
+veulent que ce soit le plus simple possible
+
+2264
+01:45:00,840 --> 01:45:02,840
+qu'ils aient rien besoin de toucher
+
+2265
+01:45:02,840 --> 01:45:04,840
+mais en même temps le produit lui-même
+
+2266
+01:45:04,840 --> 01:45:06,840
+techniquement a besoin
+
+2267
+01:45:06,840 --> 01:45:08,840
+qu'il y ait quelque chose qui se passe
+
+2268
+01:45:08,840 --> 01:45:10,840
+sinon il est moins efficace
+
+2269
+01:45:10,840 --> 01:45:12,840
+Si je peux me permettre
+
+2270
+01:45:12,840 --> 01:45:14,840
+de te répondre logicole
+
+2271
+01:45:14,840 --> 01:45:16,840
+c'est en gros on voit déjà
+
+2272
+01:45:16,840 --> 01:45:18,840
+l'émergence de plusieurs marchés
+
+2273
+01:45:18,960 --> 01:45:20,960
+c'est d'un côté
+
+2274
+01:45:20,960 --> 01:45:22,960
+on a les utilisateurs
+
+2275
+01:45:22,960 --> 01:45:24,960
+très traders
+
+2276
+01:45:24,960 --> 01:45:26,960
+que j'appellerais
+
+2277
+01:45:26,960 --> 01:45:28,960
+qui n'ont pas besoin de ça
+
+2278
+01:45:28,960 --> 01:45:30,960
+et qui se contentent
+
+2279
+01:45:30,960 --> 01:45:32,960
+d'utiliser le protocole tel qu'il est
+
+2280
+01:45:32,960 --> 01:45:34,960
+et de l'autre
+
+2281
+01:45:34,960 --> 01:45:36,960
+on a eu une émergence
+
+2282
+01:45:36,960 --> 01:45:38,960
+des gestionnaires de liquidités
+
+2283
+01:45:38,960 --> 01:45:40,960
+en quelque sorte où en gros
+
+2284
+01:45:40,960 --> 01:45:42,960
+on a juste à déposer
+
+2285
+01:45:42,960 --> 01:45:44,960
+nos liquidités dessus
+
+2286
+01:45:44,960 --> 01:45:46,960
+et ensuite c'est le protocole
+
+2287
+01:45:47,080 --> 01:45:49,080
+qui s'occupe du reste
+
+2288
+01:45:49,080 --> 01:45:51,080
+en gros on a déjà une émergence
+
+2289
+01:45:51,080 --> 01:45:53,080
+de ça avec Arrakis
+
+2290
+01:45:53,080 --> 01:45:55,080
+Itchy etc
+
+2291
+01:45:55,080 --> 01:45:57,080
+tout ce genre de protocoles
+
+2292
+01:45:57,080 --> 01:45:59,080
+qui nous permettent de bénéficier des rendements
+
+2293
+01:45:59,080 --> 01:46:01,080
+sans qu'on ait besoin de gérer notre liquidité
+
+2294
+01:46:01,080 --> 01:46:03,080
+nous-même. Alors forcément
+
+2295
+01:46:03,080 --> 01:46:05,080
+ça implique d'autres risques
+
+2296
+01:46:05,080 --> 01:46:07,080
+par exemple s'il y a un problème sur le protocole
+
+2297
+01:46:07,080 --> 01:46:09,080
+sur le protocole Arrakis
+
+2298
+01:46:09,080 --> 01:46:11,080
+tous les utilisateurs d'Arrakis
+
+2299
+01:46:11,080 --> 01:46:13,080
+vont être affectés
+
+2300
+01:46:13,080 --> 01:46:15,080
+c'est exactement ce qui s'est passé chez Gama
+
+2301
+01:46:15,200 --> 01:46:17,200
+où tous les utilisateurs qui ont fait confiance
+
+2302
+01:46:17,200 --> 01:46:19,200
+à Gama se sont retrouvés avec leurs fonds
+
+2303
+01:46:19,200 --> 01:46:21,200
+qui ont été cambriolé
+
+2304
+01:46:21,200 --> 01:46:23,200
+mais pour ceux
+
+2305
+01:46:23,200 --> 01:46:25,200
+qui ne veulent pas se casser
+
+2306
+01:46:25,200 --> 01:46:27,200
+la tête
+
+2307
+01:46:27,200 --> 01:46:29,200
+pour ceux qui ne veulent pas se casser
+
+2308
+01:46:29,200 --> 01:46:31,200
+la tête à gérer
+
+2309
+01:46:31,200 --> 01:46:33,200
+ces liquidités au jour le jour
+
+2310
+01:46:33,200 --> 01:46:35,200
+ou à payer les frais de gaz qui sont parfois
+
+2311
+01:46:35,200 --> 01:46:37,200
+assez élevés notamment sur Ethereum
+
+2312
+01:46:37,200 --> 01:46:39,200
+c'est une solution intéressante
+
+2313
+01:46:41,200 --> 01:46:43,200
+Ok, ça c'est cool
+
+2314
+01:46:43,320 --> 01:46:45,320
+C'est ça que je me demandais
+
+2315
+01:46:45,320 --> 01:46:47,320
+il n'y a pas des projets
+
+2316
+01:46:47,320 --> 01:46:49,320
+qui s'occupent de ça
+
+2317
+01:46:49,320 --> 01:46:51,320
+genre ils ont un portefeuille de projets
+
+2318
+01:46:51,320 --> 01:46:53,320
+prometteurs comme les vôtres
+
+2319
+01:46:53,320 --> 01:46:55,320
+des mécanismes intéressants qui font que
+
+2320
+01:46:55,320 --> 01:46:57,320
+s'ils sont managés activement
+
+2321
+01:46:57,320 --> 01:46:59,320
+tu peux faire
+
+2322
+01:46:59,320 --> 01:47:01,320
+des gains assez intéressants
+
+2323
+01:47:01,320 --> 01:47:03,320
+et en fait je me suis dit
+
+2324
+01:47:03,320 --> 01:47:05,320
+c'est parce que tu fais lent finalement
+
+2325
+01:47:07,320 --> 01:47:09,320
+Un peu tout le monde le fait
+
+2326
+01:47:09,320 --> 01:47:11,320
+un petit peu, mais Opal après
+
+2327
+01:47:11,440 --> 01:47:13,440
+c'est pareil aussi
+
+2328
+01:47:13,440 --> 01:47:15,440
+dans l'omnipool on peut voir que
+
+2329
+01:47:15,440 --> 01:47:17,440
+Opal
+
+2330
+01:47:17,440 --> 01:47:19,440
+je parle
+
+2331
+01:47:19,440 --> 01:47:21,440
+interrompe moi si j'ai des bêtises
+
+2332
+01:47:21,440 --> 01:47:23,440
+Opal pourrait être considéré
+
+2333
+01:47:23,440 --> 01:47:25,440
+comme un
+
+2334
+01:47:25,440 --> 01:47:27,440
+onchain asset manager
+
+2335
+01:47:27,440 --> 01:47:29,440
+parce que la DAO va décider
+
+2336
+01:47:29,440 --> 01:47:31,440
+il serait peut-être plus intéressant
+
+2337
+01:47:31,440 --> 01:47:33,440
+de placer ici par exemple
+
+2338
+01:47:33,440 --> 01:47:35,440
+donc là il y a
+
+2339
+01:47:35,440 --> 01:47:37,440
+Opal je sais pas
+
+2340
+01:47:37,440 --> 01:47:39,440
+mais on pourrait dire est-ce qu'on a le droit
+
+2341
+01:47:39,560 --> 01:47:41,560
+d'être le protocole de onchain asset manager
+
+2342
+01:47:43,560 --> 01:47:45,560
+Dans une certaine mesure
+
+2343
+01:47:45,560 --> 01:47:47,560
+après il y a la question
+
+2344
+01:47:47,560 --> 01:47:49,560
+effectivement de qui est
+
+2345
+01:47:49,560 --> 01:47:51,560
+le decision maker
+
+2346
+01:47:51,560 --> 01:47:53,560
+aujourd'hui Opal je pense que en termes de
+
+2347
+01:47:53,560 --> 01:47:55,560
+protocole c'est un tech provider
+
+2348
+01:47:55,560 --> 01:47:57,560
+et derrière effectivement
+
+2349
+01:47:57,560 --> 01:47:59,560
+pour les personnes qui s'investissent
+
+2350
+01:47:59,560 --> 01:48:01,560
+dans la DAO etc
+
+2351
+01:48:01,560 --> 01:48:03,560
+ça va être les decision makers
+
+2352
+01:48:03,560 --> 01:48:05,560
+de comment les assets vont être managés
+
+2353
+01:48:05,560 --> 01:48:07,560
+nous on offre
+
+2354
+01:48:07,680 --> 01:48:09,680
+le produit, la technique
+
+2355
+01:48:09,680 --> 01:48:11,680
+et après c'est aux utilisateurs
+
+2356
+01:48:11,680 --> 01:48:13,680
+de eux-mêmes faire
+
+2357
+01:48:13,680 --> 01:48:15,680
+des propositions de management
+
+2358
+01:48:15,680 --> 01:48:17,680
+c'est ça
+
+2359
+01:48:19,680 --> 01:48:21,680
+ok
+
+2360
+01:48:21,680 --> 01:48:23,680
+j'en profite pour dire parce qu'on
+
+2361
+01:48:23,680 --> 01:48:25,680
+arrive je pense pas mal vers la fin de l'émission
+
+2362
+01:48:25,680 --> 01:48:27,680
+s'il y a des gens qui veulent poser des questions
+
+2363
+01:48:27,680 --> 01:48:29,680
+ou dire des choses ou quoi
+
+2364
+01:48:29,680 --> 01:48:31,680
+n'hésitez pas parce que l'émission elle est aussi faite pour ça
+
+2365
+01:48:31,680 --> 01:48:33,680
+je suppose que
+
+2366
+01:48:33,680 --> 01:48:35,680
+il y a quand même pas mal de monde
+
+2367
+01:48:35,800 --> 01:48:37,800
+dans les auditeurs
+
+2368
+01:48:37,800 --> 01:48:39,800
+si vous avez des questions pour savoir comment
+
+2369
+01:48:39,800 --> 01:48:41,800
+n'importe quoi
+
+2370
+01:48:41,800 --> 01:48:43,800
+ce que vous voulez
+
+2371
+01:48:43,800 --> 01:48:45,800
+en rapport à ce qui vient d'être dit
+
+2372
+01:48:45,800 --> 01:48:47,800
+les solutions proposées et tout
+
+2373
+01:48:47,800 --> 01:48:49,800
+allez-y c'est le moment
+
+2374
+01:48:49,800 --> 01:48:51,800
+moi perso j'ai pas vraiment d'autres questions
+
+2375
+01:48:51,800 --> 01:48:53,800
+en fait j'ai des questions mais elles sont trop
+
+2376
+01:48:53,800 --> 01:48:55,800
+écartées du sujet
+
+2377
+01:48:55,800 --> 01:48:57,800
+qu'on a là
+
+2378
+01:48:57,800 --> 01:48:59,800
+donc ça va être compliqué
+
+2379
+01:48:59,800 --> 01:49:01,800
+est-ce que toi
+
+2380
+01:49:01,800 --> 01:49:03,800
+Laurent tu voulais ajouter quelque chose
+
+2381
+01:49:03,920 --> 01:49:05,920
+je vais juste
+
+2382
+01:49:05,920 --> 01:49:07,920
+reprendre le cas d'Athéna
+
+2383
+01:49:07,920 --> 01:49:09,920
+sur la question précédente
+
+2384
+01:49:09,920 --> 01:49:11,920
+nous en l'occurrence
+
+2385
+01:49:11,920 --> 01:49:13,920
+il y a des recherches à faire
+
+2386
+01:49:13,920 --> 01:49:15,920
+avant sur les protocoles
+
+2387
+01:49:15,920 --> 01:49:17,920
+que vous souhaitez assurer
+
+2388
+01:49:17,920 --> 01:49:19,920
+après coup
+
+2389
+01:49:19,920 --> 01:49:21,920
+le
+
+2390
+01:49:21,920 --> 01:49:23,920
+comment dire le capital
+
+2391
+01:49:23,920 --> 01:49:25,920
+travaille tout seul
+
+2392
+01:49:25,920 --> 01:49:27,920
+donc l'intérêt
+
+2393
+01:49:27,920 --> 01:49:29,920
+effectivement
+
+2394
+01:49:29,920 --> 01:49:31,920
+c'est de faire attention à ce que vous assurez
+
+2395
+01:49:32,040 --> 01:49:34,040
+mais à partir de là
+
+2396
+01:49:34,040 --> 01:49:36,040
+vous pouvez prendre
+
+2397
+01:49:36,040 --> 01:49:38,040
+le risque
+
+2398
+01:49:38,040 --> 01:49:40,040
+souhaité sur 10, 20, 30 protocoles
+
+2399
+01:49:40,040 --> 01:49:42,040
+et donc cumuler les rendements
+
+2400
+01:49:42,040 --> 01:49:44,040
+mais ça travaille
+
+2401
+01:49:44,040 --> 01:49:46,040
+vraiment tout seul
+
+2402
+01:49:48,040 --> 01:49:50,040
+ok
+
+2403
+01:49:50,040 --> 01:49:52,040
+ok je suis content
+
+2404
+01:49:52,040 --> 01:49:54,040
+de voir des nouveaux protocoles
+
+2405
+01:49:54,040 --> 01:49:56,040
+effectivement en conclusion à tendre
+
+2406
+01:49:56,040 --> 01:49:58,040
+vers ça vous voyez en 2024
+
+2407
+01:49:58,040 --> 01:50:00,040
+on a toujours des innovations
+
+2408
+01:50:00,160 --> 01:50:02,160
+monstrueuses à venir
+
+2409
+01:50:04,160 --> 01:50:06,160
+les produits deviennent
+
+2410
+01:50:06,160 --> 01:50:08,160
+de plus en plus sophistiqués
+
+2411
+01:50:08,160 --> 01:50:10,160
+les yields sont toujours
+
+2412
+01:50:10,160 --> 01:50:12,160
+très intéressants
+
+2413
+01:50:14,160 --> 01:50:16,160
+franchement moi je suis très bullish
+
+2414
+01:50:16,160 --> 01:50:18,160
+sur la défi sur 2024
+
+2415
+01:50:18,160 --> 01:50:20,160
+l'innovation est loin d'être finie
+
+2416
+01:50:20,160 --> 01:50:22,160
+et en plus
+
+2417
+01:50:22,160 --> 01:50:24,160
+quand on était dans le bear market
+
+2418
+01:50:26,160 --> 01:50:28,160
+le paysage
+
+2419
+01:50:28,280 --> 01:50:30,280
+l'écosystème était un peu silencieux
+
+2420
+01:50:30,280 --> 01:50:32,280
+on disait tous ça build
+
+2421
+01:50:32,280 --> 01:50:34,280
+et là c'est cool de voir
+
+2422
+01:50:34,280 --> 01:50:36,280
+les projets éclorent
+
+2423
+01:50:36,280 --> 01:50:38,280
+avec des idées comme ça
+
+2424
+01:50:38,280 --> 01:50:40,280
+qui je suppose ont été concoctées
+
+2425
+01:50:40,280 --> 01:50:42,280
+principalement pendant le bear market
+
+2426
+01:50:42,280 --> 01:50:44,280
+pendant le bear
+
+2427
+01:50:44,280 --> 01:50:46,280
+carrément
+
+2428
+01:50:46,280 --> 01:50:48,280
+bon bah en tout cas merci beaucoup
+
+2429
+01:50:48,280 --> 01:50:50,280
+franchement c'était super intéressant
+
+2430
+01:50:50,280 --> 01:50:52,280
+dommage qu'il n'y ait pas de questions chez les auditeurs
+
+2431
+01:50:52,280 --> 01:50:54,280
+mais de toute façon
+
+2432
+01:50:54,280 --> 01:50:56,280
+au pire tu peux poser les tiennes
+
+2433
+01:50:58,280 --> 01:51:00,280
+moi j'ai déjà fait
+
+2434
+01:51:00,280 --> 01:51:02,280
+un peu le tour
+
+2435
+01:51:02,280 --> 01:51:04,280
+j'ai pas vraiment d'autres questions
+
+2436
+01:51:04,280 --> 01:51:06,280
+je suis en train de chercher en même temps que je parle
+
+2437
+01:51:06,280 --> 01:51:08,280
+c'est très souvent comme ça
+
+2438
+01:51:08,280 --> 01:51:10,280
+les auditeurs sont pas toujours
+
+2439
+01:51:10,280 --> 01:51:12,280
+très loquaces
+
+2440
+01:51:12,280 --> 01:51:14,280
+on s'y habitue
+
+2441
+01:51:14,280 --> 01:51:16,280
+au bout de quelques années
+
+2442
+01:51:18,280 --> 01:51:20,280
+ça dépend des soirs
+
+2443
+01:51:20,280 --> 01:51:22,280
+mais en même temps
+
+2444
+01:51:22,280 --> 01:51:24,280
+si il y a des gens qui veulent vous poser des questions
+
+2445
+01:51:24,280 --> 01:51:26,280
+j'imagine qu'ils vous contactent
+
+2446
+01:51:26,400 --> 01:51:28,400
+sur twitter
+
+2447
+01:51:28,400 --> 01:51:30,400
+ou telegram
+
+2448
+01:51:30,400 --> 01:51:32,400
+merci pour le shootout
+
+2449
+01:51:32,400 --> 01:51:34,400
+ça se passe où sur telegram?
+
+2450
+01:51:38,400 --> 01:51:40,400
+alors
+
+2451
+01:51:40,400 --> 01:51:42,400
+en ce qui concerne athena
+
+2452
+01:51:42,400 --> 01:51:44,400
+le groupe s'appelle
+
+2453
+01:51:44,400 --> 01:51:46,400
+athena et le lien
+
+2454
+01:51:46,400 --> 01:51:48,400
+c'est athenains-officiel
+
+2455
+01:51:50,400 --> 01:51:52,400
+concernant opal on a pas de
+
+2456
+01:51:52,400 --> 01:51:54,400
+telegram officiel c'est important de le savoir
+
+2457
+01:51:54,520 --> 01:51:56,520
+mais vous pouvez retrouver le lien discord
+
+2458
+01:51:56,520 --> 01:51:58,520
+en bio et on se fera un plaisir de parler là bas
+
+2459
+01:52:02,520 --> 01:52:04,520
+de l'autre côté on a aussi
+
+2460
+01:52:04,520 --> 01:52:06,520
+un discord, un telegram
+
+2461
+01:52:06,520 --> 01:52:08,520
+mais dans tous les cas si vous avez des questions
+
+2462
+01:52:08,520 --> 01:52:10,520
+n'hésitez pas à passer sur DeFi francophone
+
+2463
+01:52:10,520 --> 01:52:12,520
+comme ça tout le monde peut en profiter
+
+2464
+01:52:12,520 --> 01:52:14,520
+c'est toujours cool
+
+2465
+01:52:18,520 --> 01:52:20,520
+moi je propose qu'on se quitte sur
+
+2466
+01:52:20,520 --> 01:52:22,520
+sur ça
+
+2467
+01:52:22,640 --> 01:52:24,640
+merci beaucoup d'être venu
+
+2468
+01:52:24,640 --> 01:52:26,640
+désolé il n'y aura pas de musique pour la fin
+
+2469
+01:52:26,640 --> 01:52:28,640
+parce que ma console m'a lâché
+
+2470
+01:52:28,640 --> 01:52:30,640
+en plein milieu de l'émission
+
+2471
+01:52:30,640 --> 01:52:32,640
+vous vous avez pas entendu parce que j'étais sur mute
+
+2472
+01:52:32,640 --> 01:52:34,640
+mais j'ai mes oreilles qui ont
+
+2473
+01:52:34,640 --> 01:52:36,640
+vécu une expérience traumatique
+
+2474
+01:52:38,640 --> 01:52:40,640
+et on se dit rendez-vous demain
+
+2475
+01:52:40,640 --> 01:52:42,640
+ça va être une émission
+
+2476
+01:52:42,640 --> 01:52:44,640
+ça va être quoi déjà demain?
+
+2477
+01:52:44,640 --> 01:52:46,640
+je sais même plus
+
+2478
+01:52:46,640 --> 01:52:48,640
+est-ce que ça va être
+
+2479
+01:52:48,640 --> 01:52:50,640
+demain? vous le saurez demain
+
+2480
+01:52:50,760 --> 01:52:52,760
+je sais que ça va être super intéressant
+
+2481
+01:52:52,760 --> 01:52:54,760
+demain c'est jeudi
+
+2482
+01:52:54,760 --> 01:52:56,760
+on va parler géopolitique et géoéconomie
+
+2483
+01:52:56,760 --> 01:52:58,760
+avec Vincent
+
+2484
+01:52:58,760 --> 01:53:00,760
+c'est un peu éloigné des cryptos
+
+2485
+01:53:00,760 --> 01:53:02,760
+mais c'est quand même intéressant
+
+2486
+01:53:02,760 --> 01:53:04,760
+parce qu'on parle des fondamentaux
+
+2487
+01:53:04,760 --> 01:53:06,760
+on parle
+
+2488
+01:53:06,760 --> 01:53:08,760
+du contexte
+
+2489
+01:53:08,760 --> 01:53:10,760
+de ce qui se passe autour de nous dans le monde traditionnel
+
+2490
+01:53:10,760 --> 01:53:12,760
+et un tout petit peu des cryptos des fois
+
+2491
+01:53:12,760 --> 01:53:14,760
+mais moins, pas tant que ça
+
+2492
+01:53:14,760 --> 01:53:16,760
+et ça peut toujours aider pour prendre des décisions
+
+2493
+01:53:16,760 --> 01:53:18,760
+donc si vous êtes intéressé
+
+2494
+01:53:18,880 --> 01:53:20,880
+la géoéconomie ça touche à l'économie
+
+2495
+01:53:20,880 --> 01:53:22,880
+anyway
+
+2496
+01:53:22,880 --> 01:53:24,880
+et puis c'est ça
+
+2497
+01:53:24,880 --> 01:53:26,880
+merci à tous d'être venus, merci Opal
+
+2498
+01:53:26,880 --> 01:53:28,880
+merci Athéna
+
+2499
+01:53:28,880 --> 01:53:30,880
+et Spectra
+
+2500
+01:53:30,880 --> 01:53:32,880
+et puis merci Laurent d'avoir aidé
+
+2501
+01:53:32,880 --> 01:53:34,880
+à gérer ce débat hautement technique
+
+2502
+01:53:34,880 --> 01:53:36,880
+surtout pour les gens comme moi
+
+2503
+01:53:36,880 --> 01:53:38,880
+et j'espère
+
+2504
+01:53:38,880 --> 01:53:40,880
+qu'on se refera ça une prochaine fois
+
+2505
+01:53:40,880 --> 01:53:42,880
+et puis merci à MEV Capital
+
+2506
+01:53:42,880 --> 01:53:44,880
+honnêtement pour le soutien, pour l'émission
+
+2507
+01:53:44,880 --> 01:53:46,880
+c'est super cool
+
+2508
+01:53:47,000 --> 01:53:49,000
+et puis de toute façon on est ensemble tous les mercredis
+
+2509
+01:53:49,000 --> 01:53:51,000
+donc let's go
+
+2510
+01:53:51,000 --> 01:53:53,000
+on se dit rendez-vous demain
+
+2511
+01:53:53,000 --> 01:53:55,000
+si vous souhaitez et on se quitte pas en musique
+
+2512
+01:53:55,000 --> 01:53:57,000
+et je vous souhaite une bonne soirée
+
+2513
+01:53:57,000 --> 01:53:59,000
+merci beaucoup
+
+2514
+01:53:59,000 --> 01:54:01,000
+merci de nous avoir invités
+
+2515
+01:54:01,000 --> 01:54:03,000
+merci pour l'invitation

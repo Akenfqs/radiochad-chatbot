@@ -1,0 +1,8791 @@
+1
+00:02:00,000 --> 00:02:08,760
+sur Radio Shad. On est le mercredi 15 novembre 2023 et ce soir c'est une émission spéciale,
+
+2
+00:02:08,760 --> 00:02:15,120
+spéciale où on va parler des influenceurs, des journalistes et j'ai un invité spécial aujourd'hui,
+
+3
+00:02:15,120 --> 00:02:22,560
+c'est Grégory de Big Well. Comment ça va? Ça va, merci de me recevoir. Est-ce que tu as aimé
+
+4
+00:02:22,560 --> 00:02:28,320
+la petite musique d'introduction? C'était parfait, en tout cas parfait pour l'heure.
+
+5
+00:02:28,320 --> 00:02:35,360
+Oui c'est ça, on est en pleine… c'est l'after, c'est l'after crypto, la dernière émission de la
+
+6
+00:02:35,360 --> 00:02:38,960
+soirée. Tu demandais pourquoi l'heure, ben voilà c'est pour ça, c'est pour que je puisse mettre
+
+7
+00:02:38,960 --> 00:02:44,920
+de la musique techno sans avoir peur de choquer trop les gens. J'aime bien, j'aime bien, parfait.
+
+8
+00:02:44,920 --> 00:02:53,640
+Alors les gens vont venir petit à petit. Est-ce que ton acolyte va venir ce soir?
+
+9
+00:02:53,640 --> 00:02:59,840
+Mon acolyte est au restaurant ce soir, c'est bien qu'il souffle aussi, on ne peut pas être
+
+10
+00:02:59,840 --> 00:03:04,360
+partout en même temps. Donc non, il faudra se contenter juste de moi ce soir.
+
+11
+00:03:04,360 --> 00:03:09,520
+Ok, ben c'est pas grave, je me contenterai de juste toi ce soir. Alors bienvenue à ceux qui
+
+12
+00:03:09,520 --> 00:03:16,840
+sont là. Tiens, il y a Artem déjà là, il y a Fono aussi. Fono avec qui j'étais en train de
+
+13
+00:03:16,840 --> 00:03:23,520
+m'entretenir par message interposé sur une affiche. J'aimerais poursuivre cette discussion
+
+14
+00:03:24,040 --> 00:03:30,440
+plus tard avec toi Fono. En tout cas, bienvenue à tous. En fait, cette émission, c'est vrai que
+
+15
+00:03:30,440 --> 00:03:37,920
+j'aurais voulu la voir un peu plus tôt, quand c'était un peu plus dans la conversation, un peu
+
+16
+00:03:37,920 --> 00:03:42,360
+plus dans le vif du sujet, quand on avait plus cette conversation tous sur cet EFR. Mais bon,
+
+17
+00:03:42,360 --> 00:03:46,720
+c'est cool de la voir de toute façon en tout temps parce que c'est quand même un sujet qui est
+
+18
+00:03:46,720 --> 00:03:53,880
+quand même énormément d'actualité. Le sujet de l'information, notamment, c'est un sujet auquel
+
+19
+00:03:53,880 --> 00:03:59,600
+on est confronté, que ce soit dans l'écosystème crypto ou pas. C'est un sujet auquel on est
+
+20
+00:03:59,600 --> 00:04:07,400
+confronté spécifiquement depuis l'arrivée des réseaux sociaux. En gros, qui détient l'information,
+
+21
+00:04:07,400 --> 00:04:13,840
+qui la transmet, de quelle manière? Et en plus de ça, alors maintenant, c'est ajouté à ça le sujet
+
+22
+00:04:14,480 --> 00:04:22,280
+de la rémunération, c'est-à-dire qui est rémunéré, de quelle manière, pourquoi, etc. En fait, c'est
+
+23
+00:04:22,280 --> 00:04:27,880
+quoi l'information qu'on a? Est-ce qu'elle est vraiment éthique? Est-ce qu'il y a quelque chose
+
+24
+00:04:27,880 --> 00:04:31,960
+qui se cache derrière? Est-ce qu'on essaie de vendre quelque chose ou pas? Donc, en fait,
+
+25
+00:04:31,960 --> 00:04:38,680
+on apprend aussi à se responsabiliser, à faire le tri peut-être un peu mieux qu'avant. Et c'est
+
+26
+00:04:39,560 --> 00:04:48,400
+un peu le sujet que je voulais aborder ce soir avec toi. Du coup, j'allais dire avec vous,
+
+27
+00:04:48,400 --> 00:04:54,040
+mais en fait, tu es tout seul. Ce n'est pas grave. Tu peux me vous voyer comme ça, c'est pas grave.
+
+28
+00:04:54,040 --> 00:05:00,320
+Non, mais en tout cas, plus sérieusement, déjà, je te remercie de m'inviter pour parler de ce sujet,
+
+29
+00:05:00,320 --> 00:05:04,720
+pour être transparent avec tout le monde, tous ceux qui nous écoutent. Ça faisait un moment que tu
+
+30
+00:05:04,720 --> 00:05:10,440
+me le proposais. Je t'avais dit non et tout, parce qu'il y avait eu des moments qui étaient un peu
+
+31
+00:05:10,440 --> 00:05:15,400
+chauds, les gens étaient un peu énervés sur le sujet. Bon, je pense qu'on ne partage pas tous le
+
+32
+00:05:15,400 --> 00:05:20,480
+même avis, mais en tout cas, les esprits sont un peu plus posés. Je pense qu'on peut discuter de
+
+33
+00:05:20,480 --> 00:05:25,800
+façon un peu plus construite et c'est pour ça que je suis là ce soir. En tout cas, moi, le sujet
+
+34
+00:05:25,800 --> 00:05:31,280
+que je vois derrière, globalement, c'est le modèle économique des médias. Et je mets vraiment
+
+35
+00:05:31,280 --> 00:05:36,600
+journaliste et influenceur sous la même dénomination. Un influenceur, c'est un média aussi.
+
+36
+00:05:36,600 --> 00:05:41,080
+Juste, il ne fonctionne pas de la même façon qu'un journaliste. Mais en tout cas, il y a beaucoup de
+
+37
+00:05:41,080 --> 00:05:45,760
+similitudes entre les deux. Et c'est pour ça que parfois, il y a des petites frictions, il y a des
+
+38
+00:05:45,760 --> 00:05:53,440
+petites guéguerres. C'est normal, chacun défend un peu son modèle. Ouais, carrément. Et du coup,
+
+39
+00:05:53,440 --> 00:06:00,640
+moi, ce qui m'avait, pour être honnête, au début, quand vous êtes arrivé dans le game des Big Whales,
+
+40
+00:06:00,640 --> 00:06:06,920
+j'avais trouvé ça vraiment... Il y avait tout de suite un clash des civilisations.
+
+41
+00:06:06,920 --> 00:06:17,000
+Ça faisait vraiment comme... On voyait quand même qu'il y avait une influence d'où vous venez,
+
+42
+00:06:17,000 --> 00:06:24,640
+un petit peu dans des médias traditionnels. Je pense qu'en fait, on a eu un positionnement au
+
+43
+00:06:24,760 --> 00:06:32,440
+début assez franc sur le sujet. Et en fait, c'est vrai que nos parcours avec Raphaël,
+
+44
+00:06:32,440 --> 00:06:38,520
+en fait, ils expliquent un peu ça. Moi, par exemple, juste avant de monter The Big Whale,
+
+45
+00:06:38,520 --> 00:06:43,280
+j'étais chez Capital. Capital, c'est donc appartenant au groupe de presse Prisma Media,
+
+46
+00:06:43,280 --> 00:06:47,680
+et donc, il s'est fait racheter par Vincent Bolloré. Vincent Bolloré, c'est un milliardaire
+
+47
+00:06:47,680 --> 00:06:53,280
+qui est connu pour être extrêmement interventionniste dans les rédactions. Et en fait,
+
+48
+00:06:53,440 --> 00:06:58,560
+je me suis parti en partie pour ça. Non pas que j'ai vu des interventions. Après, on m'en a
+
+49
+00:06:58,560 --> 00:07:02,160
+rencontré après mon départ, mais moi, je n'en ai pas vu. Mais en tout cas, on savait ce qu'il faisait
+
+50
+00:07:02,160 --> 00:07:11,040
+dans les médias qu'il avait avant. Et en fait, moi, j'ai grandi, j'ai été formé dans la peur de
+
+51
+00:07:11,040 --> 00:07:19,920
+l'intervention du Capital dans les médias, du manque d'indépendance des médias. Et donc,
+
+52
+00:07:20,080 --> 00:07:26,280
+quand j'ai lancé cette aventure entrepreneuriale médiatique avec Raphaël et Dimitri,
+
+53
+00:07:26,280 --> 00:07:33,480
+qui est le troisième associé, en fait, nous, on avait vraiment… Enfin, ça nous tenait vraiment
+
+54
+00:07:33,480 --> 00:07:39,320
+à cœur de souligner ça, mais plutôt en pied de nez par rapport au monde d'où on venait,
+
+55
+00:07:39,320 --> 00:07:45,480
+où on trouve que les grands médias traditionnels ont un problème avec ça, mais aussi,
+
+56
+00:07:45,480 --> 00:07:50,680
+ils ont une équation qui est extrêmement dure à résoudre. Les médias ne vont pas bien. Les
+
+57
+00:07:50,680 --> 00:07:57,720
+médias perdent énormément d'argent tous les ans. On parle beaucoup de l'express, de libération. En ce
+
+58
+00:07:57,720 --> 00:08:03,400
+moment, ça perd vraiment des millions. Donc, en fait, il y a toujours un compromis à faire. Après,
+
+59
+00:08:03,400 --> 00:08:08,960
+voilà, c'est jusqu'où est-ce qu'on peut aller pour faire ce compromis sans perturber la valeur
+
+60
+00:08:08,960 --> 00:08:12,160
+de l'information et le travail des journalistes qui est dedans. Donc, voilà, en fait, nous,
+
+61
+00:08:12,200 --> 00:08:18,480
+on est arrivé avec toute cette problématique et c'est peut-être pour ça qu'on a voulu le marteler,
+
+62
+00:08:18,480 --> 00:08:20,920
+peut-être avec maladresse, mais ça vient de là, en fait.
+
+63
+00:08:20,920 --> 00:08:26,080
+Ah, OK, ouais. Ben, ouais, ouais, non, mais complètement. Du coup, moi, je vous ai connu
+
+64
+00:08:26,080 --> 00:08:37,920
+avec une polémique. C'était celle de Raphaël Bloch, donc un des trois associés, qui avait dit,
+
+65
+00:08:37,920 --> 00:08:42,440
+qui avait fait un post sur Twitter, qui avait fait du bruit à ce moment-là. D'ailleurs,
+
+66
+00:08:42,440 --> 00:08:47,040
+sur lequel le Cryptik avait réagi, mais tout le monde avait un petit peu réagi aussi. Le post
+
+67
+00:08:47,040 --> 00:08:53,000
+disait « les influenceurs cryptos sont aux journalistes cryptos ce que la SEPHI est à la
+
+68
+00:08:53,000 --> 00:09:03,480
+défi ». Ça avait pas mal fait jaser. Alors, en fait, moi, j'ai plusieurs lectures, en fait, sur ce tweet.
+
+69
+00:09:03,480 --> 00:09:12,560
+D'une part, il a suscité énormément de réactions et, en fait, à travers ça, je pense qu'en fait,
+
+70
+00:09:12,560 --> 00:09:19,760
+ça démontre qu'il y a un sujet, en tout cas un sujet de discussion. Après, je trouve que le tweet,
+
+71
+00:09:19,760 --> 00:09:23,960
+c'est le défaut de Twitter, on ne peut pas rentrer dans les détails, on ne peut pas être nuancé.
+
+72
+00:09:23,960 --> 00:09:30,160
+Dedans, on a l'impression qu'il dit « les journalistes sont des gens géniaux et les
+
+73
+00:09:30,160 --> 00:09:35,000
+influenceurs sont des mauvaises personnes ». Alors qu'en fait, la réalité, elle est plus nuancée,
+
+74
+00:09:35,000 --> 00:09:40,440
+il y a des très mauvais journalistes et il y a des influenceurs très compétents. Mais on sait très
+
+75
+00:09:40,440 --> 00:09:45,760
+bien qu'il y a un risque énorme par rapport à l'influence. Je ne parle pas des gros influenceurs
+
+76
+00:09:45,760 --> 00:09:50,160
+qu'on connaît en France. On aura peut-être l'occasion de parler de Doen Hachard. On a beaucoup
+
+77
+00:09:50,160 --> 00:09:56,800
+de chance que le premier influenceur francophone soit quelqu'un de la qualité Doen. Mais il y a
+
+78
+00:09:56,800 --> 00:10:01,280
+énormément de petits influenceurs qu'on ne connaît pas forcément et qui traînent sur TikTok et
+
+79
+00:10:01,280 --> 00:10:06,400
+compagnie, qui sont des gens extrêmement dangereux pour les particuliers, les nouveaux investisseurs.
+
+80
+00:10:06,400 --> 00:10:13,360
+Et en fait, si ce tweet avait été un peu plus détaillé, c'est surtout ça qui l'aurait souligné.
+
+81
+00:10:13,360 --> 00:10:20,200
+Mais bon, après, Twitter fait que c'est rapide d'avoir des clashs et tout. Mais voilà,
+
+82
+00:10:20,360 --> 00:10:27,040
+c'est ma lecture de ce tweet. Oui, mais moi ce que j'avais vu comme problème,
+
+83
+00:10:27,040 --> 00:10:31,640
+en fait, ce n'était même pas tant par rapport à Debiguel, le positionnement. C'était surtout
+
+84
+00:10:31,640 --> 00:10:40,560
+par rapport aux définitions. Puis aussi à l'analogie, parce qu'on associe plutôt en
+
+85
+00:10:40,560 --> 00:10:45,200
+général le journalisme à la centralisation et les influenceurs à la décentralisation,
+
+86
+00:10:45,200 --> 00:10:49,000
+qu'ils soient cryptos ou pas. Et là, du coup, c'était l'inverse qui était fait. C'est-à-dire
+
+87
+00:10:49,000 --> 00:10:55,120
+que ça disait en gros, les journalistes, c'est la décentralisation et les influenceurs,
+
+88
+00:10:55,120 --> 00:10:59,480
+la centralisation, c'était incompréhensible. Tu vois, ça démontre qu'il y a plusieurs
+
+89
+00:10:59,480 --> 00:11:04,840
+lectures possibles sur ce tweet. Le mieux, c'est de lui demander à lui. Je ne veux pas parler à sa
+
+90
+00:11:04,840 --> 00:11:12,280
+place. Mais en tout cas, moi, je ne l'avais même pas vu comme ça. Et je trouve que si tu le lis
+
+91
+00:11:12,280 --> 00:11:17,080
+comme ça, oui, bien sûr, c'est totalement faux. Oui, effectivement, le journalisme traditionnel,
+
+92
+00:11:17,280 --> 00:11:23,520
+c'est la centralisation pure. Et l'influence, je ne pense pas qu'on puisse parler totalement de
+
+93
+00:11:23,520 --> 00:11:28,880
+décentralisation, mais c'est un modèle moins centralisé en tout cas. Oui, ça, c'est sûr.
+
+94
+00:11:28,880 --> 00:11:33,760
+Même si le journalisme communautaire et décentralisé est possible, et c'est ce qu'on
+
+95
+00:11:33,760 --> 00:11:38,600
+essaye de faire, nous aussi, avec The Big Well, avec notre communauté d'abonnés avec qui on
+
+96
+00:11:38,600 --> 00:11:44,240
+travaille beaucoup. Il y a une sorte de méta-rédaction. On n'est pas juste avec Raphaël et
+
+97
+00:11:44,440 --> 00:11:48,360
+Louis, Louis Tellier, qui est le troisième journaliste de la bande. On n'est pas enfermés
+
+98
+00:11:48,360 --> 00:11:54,760
+dans notre tour d'ivoire, tous les trois, à adresser des bons points et des mauvais points à
+
+99
+00:11:54,760 --> 00:11:59,880
+tout le monde. C'est plus compliqué que ça. Il y a Artem qui a demandé la parole. Salut,
+
+100
+00:11:59,880 --> 00:12:08,640
+Artem, ça va? Salut, gars. Ça va et vous? Ça va. C'est un plaisir de te parler. On s'est vu
+
+101
+00:12:09,120 --> 00:12:14,840
+en vendredi. Un plaisir partagé. Pour le coup, vu que j'ai participé un peu à ce débat,
+
+102
+00:12:14,840 --> 00:12:21,600
+j'ai demandé la parole. C'est juste pour intervenir sur certaines choses. Encore une fois,
+
+103
+00:12:21,600 --> 00:12:26,520
+Grégory, je pense qu'on a déjà assez discuté en vrai par rapport à tout ça. Je pense qu'on a
+
+104
+00:12:26,520 --> 00:12:31,000
+assez discuté en privé déjà. Tu connais mon positionnement par rapport à toute cette situation
+
+105
+00:12:31,000 --> 00:12:37,640
+et que globalement, mon reproche n'est pas pour toi, mais plutôt pour Twitter et en tout cas
+
+106
+00:12:37,640 --> 00:12:44,040
+certains propos qui ont eu lieu sur Twitter sur ce sujet. Je suis là juste pour intervenir sur
+
+107
+00:12:44,040 --> 00:12:49,400
+certains points sur lesquels peut-être moi, j'aurais aussi des questions ou potentiellement
+
+108
+00:12:49,400 --> 00:12:55,560
+des choses à apporter. Avec plaisir. J'aurais juste souligné un truc. J'ai l'impression que là,
+
+109
+00:12:55,560 --> 00:13:02,320
+on parle beaucoup de ce qui se passe sur Twitter, de ce qui se dit sur Twitter. Même si nous tous
+
+110
+00:13:02,320 --> 00:13:06,160
+ici présents, on passe beaucoup de temps sur Twitter. C'est là où la grosse partie de nos
+
+111
+00:13:06,160 --> 00:13:10,680
+communautés respectives. Il ne faut pas oublier qu'il y a un monde au-delà de Twitter.
+
+112
+00:13:10,680 --> 00:13:16,680
+Et il y a des... disons que ce qui se dit, les débats, quand on a l'impression qu'il y a un camp
+
+113
+00:13:16,680 --> 00:13:24,120
+qui tranche par rapport à un autre, ce n'est pas forcément sûr que ça reflète l'ensemble de l'opinion.
+
+114
+00:13:24,120 --> 00:13:29,560
+Oui, tout à fait. Il y a également la newsletter de Caroline Jurado qui est tout à fait incroyable
+
+115
+00:13:29,560 --> 00:13:33,560
+et à qui tout le monde devrait s'inscrire. Non, mais bien sûr. Mais en fait, aujourd'hui, tu sais
+
+116
+00:13:33,560 --> 00:13:38,280
+très bien Greg, je pense que la communauté crypto est très présente sur Twitter. C'est là que tous
+
+117
+00:13:38,280 --> 00:13:43,640
+les projets se lancent, c'est là que la plupart des gens discutent et c'est au final le réseau où on
+
+118
+00:13:43,640 --> 00:13:48,560
+peut exprimer son avis. C'est aussi un réseau de débats au final. Aujourd'hui, sur YouTube, si tu
+
+119
+00:13:48,560 --> 00:13:53,800
+crées une chaîne YouTube, personne ne va te répondre avec une vidéo pour dire « non, t'as
+
+120
+00:13:53,800 --> 00:14:00,120
+tort ». Sur Insta, aujourd'hui, c'est moins un réseau pour débattre et plus pour montrer sa vie.
+
+121
+00:14:00,120 --> 00:14:04,040
+Je pense que c'est aussi le lieu où ce débat devrait avoir lieu. Je pense que ce sont des
+
+122
+00:14:04,040 --> 00:14:09,400
+discussions qui sont intéressantes en soi parce que pour le coup, encore une fois, j'avais fait
+
+123
+00:14:09,400 --> 00:14:14,960
+assez de thread pour dire qu'aujourd'hui, quand moi j'avais commencé la crypto, l'une de mes sources
+
+124
+00:14:14,960 --> 00:14:20,600
+principales de base était toi et Raphaël parce que vous étiez ceux qui étaient les premiers sur
+
+125
+00:14:20,600 --> 00:14:24,920
+l'info, en tout cas sur l'industrie française. Depuis, les choses ont quand même pas mal changé
+
+126
+00:14:24,920 --> 00:14:32,240
+parce que déjà, vous avez lancé votre propre boîte. On n'a plus trop le temps. Je comprends,
+
+127
+00:14:32,240 --> 00:14:38,560
+je me heurte aux mêmes problèmes de toute façon. Mais pour le coup, je pense que c'est un sujet
+
+128
+00:14:38,560 --> 00:14:44,320
+assez intéressant. Je pense que du coup, Reddit Chat a prévu un déroulé qui peut nous faire
+
+129
+00:14:44,320 --> 00:14:48,360
+intervenir et peut-être d'autres gens également qui sont ici et qui auront des choses à dire.
+
+130
+00:14:48,640 --> 00:14:57,560
+Juste pour finir sur la partie Twitter, ce n'est pas forcément le monde réel. Je ne sais pas si
+
+131
+00:14:57,560 --> 00:15:02,760
+vous savez tous à quoi ressemble The Big Well, mais notre partie payante, premium,
+
+132
+00:15:02,760 --> 00:15:09,560
+elle s'adresse quand même pas mal aux institutions financières classiques. En fait,
+
+133
+00:15:09,560 --> 00:15:14,800
+ce sont des gens qui ne sont pas sur Twitter. Des fois, quand on envoie et tout, on leur fait
+
+134
+00:15:14,800 --> 00:15:18,920
+référence à des choses qui se passent dessus. Ils n'y connaissent rien, ils n'y vont jamais. Donc,
+
+135
+00:15:18,920 --> 00:15:22,600
+en tout cas, même si une grosse partie de l'écosystème crypto est sur Twitter,
+
+136
+00:15:22,600 --> 00:15:25,640
+les gens qu'on adresse, nous, ne le sont pas forcément.
+
+137
+00:15:25,640 --> 00:15:31,440
+Justement, c'est marrant que tu me dises ça parce que j'avais une conversation avec Agathe
+
+138
+00:15:31,440 --> 00:15:40,640
+au moment du, je ne sais plus, je crois que c'était la dernière polémique avec le mini-clash
+
+139
+00:15:40,640 --> 00:15:46,920
+que vous avez eu. On va dire le clash, pas le mini avec Hacheur et puis un peu la communauté crypto, etc.
+
+140
+00:15:46,920 --> 00:15:53,360
+Puis en gros, je disais à Agathe, ouais, bon, c'est pas leur premier coup The Big Well.
+
+141
+00:15:53,360 --> 00:15:58,240
+Ils ont toujours eu un peu eu cette posture, genre les journalistes contre les influenceurs, etc.
+
+142
+00:15:58,240 --> 00:16:07,200
+Et je mentionnais la première, votre vidéo, c'était votre vidéo de lancement.
+
+143
+00:16:07,200 --> 00:16:09,920
+Ça se trouve, la vidéo en short à la piscine.
+
+144
+00:16:09,920 --> 00:16:18,800
+Oui, exactement. Et dans la vidéo, vous dites, on est le média unique et tout.
+
+145
+00:16:18,800 --> 00:16:23,480
+Et moi, ça m'avait fait sursauter à l'époque. J'étais comme, ouais, c'est compliqué.
+
+146
+00:16:23,480 --> 00:16:29,120
+Et ça fait vraiment genre les mecs, bon, on va vous expliquer le Web3,
+
+147
+00:16:29,120 --> 00:16:32,400
+mais on n'est pas trop Web3 quand même. On est un petit peu genre,
+
+148
+00:16:32,720 --> 00:16:38,320
+média unique. Alors, elle me disait, pour votre défense, elle me disait,
+
+149
+00:16:38,320 --> 00:16:40,520
+ouais, non, mais bon, en fait, c'est pas vraiment ça.
+
+150
+00:16:40,520 --> 00:16:42,640
+En fait, elle m'expliquait que, bon, elle me disait que vous,
+
+151
+00:16:42,640 --> 00:16:44,960
+vous aimez bien parce que vous étiez des bosseurs.
+
+152
+00:16:44,960 --> 00:16:49,960
+Avec ce point, avec lequel je suis complètement d'accord.
+
+153
+00:16:49,960 --> 00:16:56,160
+Mais en gros, elle me disait qu'en fait, il fallait arrêter aussi que,
+
+154
+00:16:56,160 --> 00:16:59,120
+en fait, que vous vous adressiez pas à moi, par exemple, ou à nous.
+
+155
+00:16:59,120 --> 00:17:03,240
+C'était que pour les convaincus des cryptos, pour les mecs qui sont là depuis 10 ans,
+
+156
+00:17:03,240 --> 00:17:05,960
+c'est pas, c'est pas, on n'est pas la cible de The Big Well.
+
+157
+00:17:05,960 --> 00:17:08,800
+The Big Well, c'était par exemple son père.
+
+158
+00:17:08,800 --> 00:17:13,440
+Enfin, des gens qui vont pas commencer à dire, qui vont, qui sont, voilà,
+
+159
+00:17:13,440 --> 00:17:16,440
+qui connaissent justement plus les médias traditionnels et qui ont envie de faire
+
+160
+00:17:16,440 --> 00:17:20,800
+une incursion dans les cryptos et qui vont pas lire Direct Crypto ou JDC.
+
+161
+00:17:20,800 --> 00:17:24,600
+Ils vont lire The Big Well. Et je trouvais que ça faisait du sens.
+
+162
+00:17:24,600 --> 00:17:29,640
+Mais en même temps, je me disais pourquoi partir d'aller dans ce sens là,
+
+163
+00:17:29,640 --> 00:17:33,240
+pour toi, ne pas aller directement dans le, aller par le dur, en fait,
+
+164
+00:17:33,240 --> 00:17:37,440
+et directement avoir une approche plus décentralisée,
+
+165
+00:17:37,440 --> 00:17:39,600
+enfin, tu vois, moins teintée. Je sais pas.
+
+166
+00:17:39,600 --> 00:17:41,200
+Alors, en tout cas, effectivement, oui.
+
+167
+00:17:41,200 --> 00:17:42,840
+Alors, j'ai pas vu la vidéo depuis un moment.
+
+168
+00:17:42,840 --> 00:17:44,240
+Il faut dire que c'est un peu difficile.
+
+169
+00:17:44,240 --> 00:17:46,080
+Je me balade en chemise à fleurs et en short.
+
+170
+00:17:46,080 --> 00:17:49,560
+Donc, pour lancer sa voie devant tout le monde, devant le monde entier,
+
+171
+00:17:49,560 --> 00:17:51,840
+je pense qu'on a fait mieux. Mais en tout cas, elle était drôle.
+
+172
+00:17:51,880 --> 00:17:56,160
+Mais si on a utilisé le terme unique, je suis d'accord avec leur pull.
+
+173
+00:17:56,160 --> 00:18:00,240
+C'est maladroit. Mais comme tu dis, en fait, notre cible,
+
+174
+00:18:00,240 --> 00:18:04,080
+c'est vraiment les gens du monde traditionnel, tu vois,
+
+175
+00:18:04,080 --> 00:18:07,680
+qui ont entendu parler du Bitcoin, qui s'y intéressent,
+
+176
+00:18:07,680 --> 00:18:10,880
+ou qui veulent s'y intéresser, mais qui n'y connaissent rien.
+
+177
+00:18:10,880 --> 00:18:15,120
+Et en fait, nous, avec Raphaël, tu vois, il vient de l'Ezeko et de l'Express.
+
+178
+00:18:15,120 --> 00:18:16,800
+Moi, je viens de Capital.
+
+179
+00:18:16,840 --> 00:18:22,280
+En fait, on a les codes, en fait, qui correspondent à ces gens-là,
+
+180
+00:18:22,280 --> 00:18:25,520
+en termes de, comment dire, pour les rassurer.
+
+181
+00:18:25,520 --> 00:18:29,520
+En tout cas, voilà, on conçoit notre média et on le fabrique comme nous,
+
+182
+00:18:29,520 --> 00:18:33,040
+on l'a appris et comme on a bossé pendant 10 ans dans des rédactions.
+
+183
+00:18:33,040 --> 00:18:35,560
+Donc, voilà ce côté unique.
+
+184
+00:18:35,560 --> 00:18:39,560
+En fait, je pense qu'en France, on l'a, tu vois,
+
+185
+00:18:39,560 --> 00:18:44,360
+cette façon très tradie de faire du journalisme.
+
+186
+00:18:44,360 --> 00:18:46,800
+Après, t'aimes ou t'aimes pas, mais bon, voilà,
+
+187
+00:18:46,800 --> 00:18:51,680
+j'ai 12 ans de carte de presse, Raph' un peu moins, mais 10 ans aussi.
+
+188
+00:18:51,680 --> 00:18:56,800
+Donc, voilà, c'est ça qu'on voulait souligner, je pense maladroitement.
+
+189
+00:18:56,800 --> 00:18:58,560
+Je suis d'accord, il faut fonctionner aussi.
+
+190
+00:18:58,560 --> 00:19:02,000
+Mais alors, moi, j'ai juste un point sur lequel je voulais rebondir,
+
+191
+00:19:02,000 --> 00:19:05,400
+que ce soit toi, Tchad, qui dis ça, ou Grégory.
+
+192
+00:19:05,400 --> 00:19:07,480
+Il y a un truc, donc comme tu dis,
+
+193
+00:19:07,480 --> 00:19:09,320
+vous vous adressez pas forcément à l'audience Twitter,
+
+194
+00:19:09,320 --> 00:19:12,560
+et de l'autre côté, vous visez plus les Instits.
+
+195
+00:19:12,600 --> 00:19:16,920
+Mais aujourd'hui, les propos, pour le coup, que tient Raphaël sur Twitter,
+
+196
+00:19:16,920 --> 00:19:21,480
+et pour le coup, c'est à lui que j'ai envoyé des messages,
+
+197
+00:19:21,480 --> 00:19:25,400
+à qui j'ai répondu, on va dire, avec qui je n'ai jamais eu un seul échange en privé,
+
+198
+00:19:25,400 --> 00:19:27,880
+en mode, on en discute ou quoi,
+
+199
+00:19:27,880 --> 00:19:29,720
+qui concerne notre écosystème,
+
+200
+00:19:29,720 --> 00:19:31,520
+qui concerne directement les gens sur Twitter,
+
+201
+00:19:31,520 --> 00:19:34,160
+qui ne concerne absolument pas les institutionnels.
+
+202
+00:19:34,160 --> 00:19:38,080
+Et donc, forcément, lorsqu'il se prononce sur les acteurs du secteur,
+
+203
+00:19:38,080 --> 00:19:39,720
+forcément, il y a des réactions, et forcément,
+
+204
+00:19:39,720 --> 00:19:42,120
+ces réactions-là peuvent être disproportionnées pour certains,
+
+205
+00:19:42,120 --> 00:19:45,240
+mais d'autres qui sont totalement justifiées également.
+
+206
+00:19:45,240 --> 00:19:48,840
+Après, je ne sais pas à quoi tu fais référence là, précisément,
+
+207
+00:19:48,840 --> 00:19:52,800
+mais en fait, on ne peut pas plaire à tout le monde.
+
+208
+00:19:52,800 --> 00:19:57,720
+En fait, le bêtisier de journaliste est fait pour qu'on déteste les journalistes.
+
+209
+00:19:57,720 --> 00:19:59,960
+De toute façon, un journaliste, il est là,
+
+210
+00:19:59,960 --> 00:20:04,480
+en fait, pour sortir un truc qu'on ne veut pas trop dire,
+
+211
+00:20:04,480 --> 00:20:06,440
+en tout cas, ou qu'on ne veut pas trop dire maintenant.
+
+212
+00:20:06,440 --> 00:20:08,920
+Des fois, on est au courant d'un truc,
+
+213
+00:20:08,920 --> 00:20:10,360
+ce n'est pas encore sorti,
+
+214
+00:20:10,400 --> 00:20:14,160
+si on le sort avant, la personne, ça va la mettre dans la merde,
+
+215
+00:20:14,160 --> 00:20:18,360
+mais en même temps, on estime que c'est une information d'utilité publique.
+
+216
+00:20:18,360 --> 00:20:22,200
+Donc, tu vois, en fait, tu es fait pour être détesté,
+
+217
+00:20:22,200 --> 00:20:25,800
+mais c'est un métier qui est indispensable pour un secteur,
+
+218
+00:20:25,800 --> 00:20:28,280
+pour qu'il grandisse.
+
+219
+00:20:28,280 --> 00:20:30,040
+Alors, pour le coup, je suis totalement d'accord
+
+220
+00:20:30,040 --> 00:20:32,440
+sur l'importance du métier du journalisme,
+
+221
+00:20:32,440 --> 00:20:35,160
+et ça, je ne l'ai jamais remis en question.
+
+222
+00:20:35,160 --> 00:20:36,600
+Je reviens encore une fois sur le fait que tu disais,
+
+223
+00:20:36,600 --> 00:20:38,640
+par exemple, que les institutionnels ne sont pas sur Twitter,
+
+224
+00:20:38,680 --> 00:20:40,720
+ils s'en foutent de ce qui se passe sur Twitter.
+
+225
+00:20:40,720 --> 00:20:43,000
+Et de l'autre côté, il y a certains propos,
+
+226
+00:20:43,000 --> 00:20:46,360
+et pour te donner, on va dire, trois exemples que j'ai en tête.
+
+227
+00:20:46,360 --> 00:20:49,040
+Le premier, c'est celui que Chad a dit au tout début,
+
+228
+00:20:49,040 --> 00:20:52,400
+qui était les influenceurs sont aux cryptos,
+
+229
+00:20:52,400 --> 00:20:56,920
+que la DeFi est à la SyFy.
+
+230
+00:20:56,920 --> 00:20:58,600
+C'est ça à peu près, enfin bref.
+
+231
+00:20:58,600 --> 00:21:01,120
+Le deuxième propos qui était celui de FTX,
+
+232
+00:21:01,120 --> 00:21:04,680
+un autre propos qui était celui de la Fake News.
+
+233
+00:21:04,720 --> 00:21:09,400
+Enfin, c'est en fait, et je vais être plutôt clair
+
+234
+00:21:09,400 --> 00:21:13,640
+par rapport à ce que moi, le reproche que moi, j'ai aujourd'hui,
+
+235
+00:21:13,640 --> 00:21:16,480
+et que ça ne concerne pas Zébigouel, ça concerne Raphaël,
+
+236
+00:21:16,480 --> 00:21:17,920
+et qui n'est pas là malheureusement,
+
+237
+00:21:17,920 --> 00:21:21,320
+ça aurait été cool de discuter pour une fois qu'on en a l'occasion.
+
+238
+00:21:21,320 --> 00:21:25,880
+C'est que je comprends très bien le positionnement de,
+
+239
+00:21:25,880 --> 00:21:27,720
+on va s'adresser aux institutionnels,
+
+240
+00:21:27,720 --> 00:21:29,040
+on va parler à Descad,
+
+241
+00:21:29,040 --> 00:21:31,600
+on va parler à des entreprises financières,
+
+242
+00:21:31,600 --> 00:21:34,240
+on va parler au Neophyte, on va rendre la crypto accessible,
+
+243
+00:21:34,240 --> 00:21:39,120
+et c'est tout à fait utile et nécessaire dans le monde dans lequel on est,
+
+244
+00:21:39,120 --> 00:21:42,120
+parce qu'aujourd'hui les formateurs sur LinkedIn, c'est un enfer aussi,
+
+245
+00:21:42,120 --> 00:21:45,440
+et c'est les personnes qui sont nuisibles pour notre écosystème,
+
+246
+00:21:45,440 --> 00:21:47,360
+qui se prétendent experts, qui ne le sont pas,
+
+247
+00:21:47,360 --> 00:21:50,600
+et c'est à ce moment-là que vous êtes super utile pour ces personnes-là,
+
+248
+00:21:50,600 --> 00:21:55,240
+pour justement leur donner les outils pour mieux comprendre
+
+249
+00:21:55,240 --> 00:21:57,720
+et mieux se renseigner.
+
+250
+00:21:57,720 --> 00:21:59,560
+Mais moi, le souci aujourd'hui que j'ai,
+
+251
+00:21:59,560 --> 00:22:04,520
+c'est le fait qu'on vienne toucher à une cible qui n'est pas la vôtre,
+
+252
+00:22:04,520 --> 00:22:09,320
+et qui concerne tout l'écosystème aujourd'hui actuel de crypto,
+
+253
+00:22:09,320 --> 00:22:11,640
+pour le coup, crypto pur, on va dire,
+
+254
+00:22:11,640 --> 00:22:14,880
+ou plus, Dejane, ou peu importe comment on veut l'appeler,
+
+255
+00:22:14,880 --> 00:22:19,880
+et qui est véhiculé par des journalistes dont ce n'est pas la principale cible,
+
+256
+00:22:19,880 --> 00:22:21,360
+et c'est ça que je n'arrive pas à comprendre.
+
+257
+00:22:21,360 --> 00:22:24,680
+Après, tu vois, la cible Twitter,
+
+258
+00:22:24,680 --> 00:22:27,240
+bien sûr que ce n'est pas notre cible principale,
+
+259
+00:22:27,240 --> 00:22:30,920
+mais ça reste un réseau social où tout le monde a le droit de venir et s'exprimer,
+
+260
+00:22:30,920 --> 00:22:33,640
+faire des blagues, des bonnes, des mauvaises, et troller,
+
+261
+00:22:33,640 --> 00:22:36,000
+ça fait partie aussi de la culture de Twitter.
+
+262
+00:22:36,000 --> 00:22:40,080
+Tu vois, encore une fois, je ne veux pas parler à la place de Raphaël,
+
+263
+00:22:40,080 --> 00:22:43,320
+et il faudrait mieux l'interroger lui directement
+
+264
+00:22:43,320 --> 00:22:46,240
+pour qu'il réponde sur ce qu'il a tweeté,
+
+265
+00:22:46,240 --> 00:22:53,360
+mais je trouve que c'est assez injuste,
+
+266
+00:22:53,360 --> 00:22:56,200
+tu vois, ce qu'on lui reproche,
+
+267
+00:22:56,200 --> 00:22:59,560
+je pense que c'est une posture que vous n'aimez pas,
+
+268
+00:22:59,560 --> 00:23:03,080
+mais en fait, vous rêvez de lui,
+
+269
+00:23:03,080 --> 00:23:06,360
+et je pense qu'il faut passer à autre chose.
+
+270
+00:23:06,360 --> 00:23:08,720
+Je vais repartir un peu sur le fond,
+
+271
+00:23:08,720 --> 00:23:12,160
+parce qu'on ne va pas faire un procès non plus d'Abigouel ou de Raphaël,
+
+272
+00:23:12,160 --> 00:23:14,160
+c'est juste,
+
+273
+00:23:14,160 --> 00:23:18,840
+de toute façon, on va naviguer sur ce sujet-là,
+
+274
+00:23:18,840 --> 00:23:21,080
+mais de manière un peu plus concrète,
+
+275
+00:23:21,080 --> 00:23:23,960
+dans le sens où,
+
+276
+00:23:24,000 --> 00:23:26,120
+en gros, la question, c'est, en fait,
+
+277
+00:23:26,120 --> 00:23:28,120
+comment on fait pour que les gens,
+
+278
+00:23:28,120 --> 00:23:31,120
+justement, les gens qui ne sont pas habitués,
+
+279
+00:23:31,120 --> 00:23:36,040
+que ce soit justement à la manière dont l'information
+
+280
+00:23:36,040 --> 00:23:38,040
+est diffusée sur Internet,
+
+281
+00:23:38,040 --> 00:23:39,440
+est diffusée sur les réseaux sociaux,
+
+282
+00:23:39,440 --> 00:23:42,080
+et encore plus dans l'écosystème crypto,
+
+283
+00:23:42,080 --> 00:23:45,320
+où il y a un incentive économique qui est très fort,
+
+284
+00:23:45,320 --> 00:23:48,280
+comment on fait pour éduquer les gens, les nouveaux venus,
+
+285
+00:23:48,280 --> 00:23:52,160
+de faire de sorte à ce qu'ils ne se fassent pas niquer?
+
+286
+00:23:52,160 --> 00:23:54,160
+Et en gros,
+
+287
+00:23:54,160 --> 00:23:58,160
+il y a un truc, moi, personnellement, qui me gêne dans la posture,
+
+288
+00:23:58,160 --> 00:24:00,160
+et justement, en fait,
+
+289
+00:24:00,160 --> 00:24:02,160
+je vais rebondir sur ce que tu viens de dire, Grégory,
+
+290
+00:24:02,160 --> 00:24:04,160
+tu viens de parler du métier de journaliste.
+
+291
+00:24:04,160 --> 00:24:06,160
+Le problème avec ce discours-là,
+
+292
+00:24:06,160 --> 00:24:08,160
+de dire qu'il y a un métier de journaliste,
+
+293
+00:24:08,160 --> 00:24:10,160
+ça veut dire qu'en fait, c'est comme si tu dis
+
+294
+00:24:10,160 --> 00:24:12,160
+qu'il y a des gens qui sont accrédités,
+
+295
+00:24:12,160 --> 00:24:14,160
+il y en a qui ne le sont pas,
+
+296
+00:24:14,160 --> 00:24:15,160
+il y en a qui ont...
+
+297
+00:24:15,160 --> 00:24:17,160
+leur parole est plus crédible que les autres,
+
+298
+00:24:17,160 --> 00:24:19,160
+et ça, c'est dangereux, en fait,
+
+299
+00:24:19,160 --> 00:24:21,160
+parce que ce n'est pas le cas.
+
+300
+00:24:21,160 --> 00:24:24,160
+C'est-à-dire qu'un journaliste est autant prône à l'erreur
+
+301
+00:24:24,160 --> 00:24:25,160
+qu'un influenceur,
+
+302
+00:24:25,160 --> 00:24:28,160
+et en fait, ce n'est plus un critère de choix
+
+303
+00:24:28,160 --> 00:24:31,160
+pour savoir si l'information est bonne ou pas.
+
+304
+00:24:31,160 --> 00:24:33,160
+En plus, on l'a vu récemment, avec les trucs,
+
+305
+00:24:33,160 --> 00:24:34,160
+les leaks qu'il y a eu,
+
+306
+00:24:34,160 --> 00:24:35,160
+les fake news de Bloomberg,
+
+307
+00:24:35,160 --> 00:24:39,160
+les fake news de Coindesk, etc.,
+
+308
+00:24:39,160 --> 00:24:40,160
+ça n'arrête jamais,
+
+309
+00:24:40,160 --> 00:24:42,160
+et en fait, ça n'a rien à voir avec le fait d'être un influenceur ou un journaliste,
+
+310
+00:24:42,160 --> 00:24:43,160
+c'est vraiment...
+
+311
+00:24:43,160 --> 00:24:45,160
+le débat s'est complètement déplacé,
+
+312
+00:24:45,160 --> 00:24:47,160
+ce n'est plus une question de dénomination,
+
+313
+00:24:47,160 --> 00:24:49,160
+de cartes à obtenir, etc.,
+
+314
+00:24:49,160 --> 00:24:52,160
+c'est une question d'éthique, d'attitude à avoir, en fait.
+
+315
+00:24:52,160 --> 00:24:54,160
+Je suis d'accord avec toi,
+
+316
+00:24:54,160 --> 00:24:55,160
+mais je vais rétablir l'équilibre.
+
+317
+00:24:55,160 --> 00:24:57,160
+Je ne connais aucun journaliste, moi y compris,
+
+318
+00:24:57,160 --> 00:24:59,160
+qui n'ait jamais fait une grosse connerie.
+
+319
+00:24:59,160 --> 00:25:01,160
+On va forcément se planter un jour,
+
+320
+00:25:01,160 --> 00:25:04,160
+forcément, on écrit sur l'actualité pendant toute une carrière,
+
+321
+00:25:04,160 --> 00:25:06,160
+forcément, on va se planter plusieurs fois.
+
+322
+00:25:09,160 --> 00:25:11,160
+Je pense qu'il faut remettre l'église au milieu du village.
+
+323
+00:25:11,160 --> 00:25:13,160
+Putain, j'utilise une expression de Dieu, vous m'excuserez.
+
+324
+00:25:13,160 --> 00:25:15,160
+Mais en fait, un journaliste,
+
+325
+00:25:15,160 --> 00:25:17,160
+il a une formation,
+
+326
+00:25:17,160 --> 00:25:19,160
+et il a une formation qui lui apprend quoi?
+
+327
+00:25:19,160 --> 00:25:21,160
+A rechercher, à vérifier,
+
+328
+00:25:21,160 --> 00:25:23,160
+et à présenter des informations
+
+329
+00:25:23,160 --> 00:25:26,160
+de manière objective et éthique.
+
+330
+00:25:26,160 --> 00:25:27,160
+Le boulot d'un journaliste,
+
+331
+00:25:27,160 --> 00:25:28,160
+et moi, je m'en distingue un peu,
+
+332
+00:25:28,160 --> 00:25:29,160
+parce que je suis journaliste,
+
+333
+00:25:29,160 --> 00:25:31,160
+mais aussi entrepreneur,
+
+334
+00:25:31,160 --> 00:25:33,160
+donc je dois aussi faire rentrer de l'argent,
+
+335
+00:25:33,160 --> 00:25:35,160
+mais le journaliste pur,
+
+336
+00:25:35,160 --> 00:25:40,160
+lui, il s'en fout de trouver de l'argent.
+
+337
+00:25:40,160 --> 00:25:42,160
+Lui, son boulot, c'est de faire
+
+338
+00:25:42,160 --> 00:25:45,160
+un article le plus objectif et éthique possible.
+
+339
+00:25:45,160 --> 00:25:47,160
+À la différence des influenceurs,
+
+340
+00:25:47,160 --> 00:25:48,160
+et encore une fois,
+
+341
+00:25:48,160 --> 00:25:49,160
+il y a des très bons influenceurs,
+
+342
+00:25:49,160 --> 00:25:52,160
+et moi-même, j'ai découvert l'écosystème,
+
+343
+00:25:52,160 --> 00:25:55,160
+je me suis formé d'abord avec des influenceurs.
+
+344
+00:25:55,160 --> 00:25:59,160
+Je n'ai aucun mal à citer Owen Asher,
+
+345
+00:25:59,160 --> 00:26:03,160
+qui était déjà là quand j'ai commencé en 2016-2017,
+
+346
+00:26:03,160 --> 00:26:05,160
+parce qu'il n'y avait pas de vrai contenu,
+
+347
+00:26:05,160 --> 00:26:07,160
+de qualité dans les médias.
+
+348
+00:26:07,160 --> 00:26:09,160
+Et je trouve que les influenceurs,
+
+349
+00:26:09,160 --> 00:26:11,160
+et même on n'utilisait presque pas ce terme-là à l'époque,
+
+350
+00:26:11,160 --> 00:26:14,160
+mais ont rempli un vide qui était vraiment,
+
+351
+00:26:14,160 --> 00:26:17,160
+enfin, ils ont rempli une mission qui était vraiment indispensable.
+
+352
+00:26:17,160 --> 00:26:23,160
+Mais les influenceurs n'ont pas une formation formelle sur le sujet.
+
+353
+00:26:23,160 --> 00:26:26,160
+La compétence principale de l'influenceur,
+
+354
+00:26:26,160 --> 00:26:30,160
+c'est sa capacité à créer du contenu qui résonne avec son public,
+
+355
+00:26:30,160 --> 00:26:32,160
+construire une communauté en ligne,
+
+356
+00:26:32,160 --> 00:26:35,160
+et s'il veut éventuellement avoir des revenus,
+
+357
+00:26:35,160 --> 00:26:40,160
+passer des partenariats, exposer sa communauté à ça.
+
+358
+00:26:40,160 --> 00:26:43,160
+Mais moi, je n'ai pas de problème avec ça.
+
+359
+00:26:43,160 --> 00:26:47,160
+Oui, mais en fait, je pense que tu te trompes complètement,
+
+360
+00:26:47,160 --> 00:26:49,160
+parce que ce n'est pas ça.
+
+361
+00:26:49,160 --> 00:26:54,160
+Tu as une vision de l'influenceur qui est hyper, comment dire,
+
+362
+00:26:54,160 --> 00:26:56,160
+je ne sais pas comment dire, hyper formatée.
+
+363
+00:26:56,160 --> 00:27:01,160
+En fait, ce n'est pas une fin en soi d'avoir une communauté.
+
+364
+00:27:01,160 --> 00:27:04,160
+En fait, la communauté, tu la bâtis sur du contenu.
+
+365
+00:27:04,160 --> 00:27:07,160
+Si le format de ton contenu, c'est justement,
+
+366
+00:27:07,160 --> 00:27:12,160
+si ton contenu est axé sur l'authenticité de tes informations,
+
+367
+00:27:12,160 --> 00:27:15,160
+tu vas avoir une communauté qui va te venir pour ça.
+
+368
+00:27:15,160 --> 00:27:19,160
+Et en gros, si tu dis une connerie, tu perds…
+
+369
+00:27:19,160 --> 00:27:23,160
+Oui, mais moi, ma définition rentrait plus dans le cadre
+
+370
+00:27:23,160 --> 00:27:25,160
+de quelqu'un qui avait déjà construit sa communauté
+
+371
+00:27:25,160 --> 00:27:30,160
+et qui essayait d'en retirer un revenu.
+
+372
+00:27:30,160 --> 00:27:34,160
+Mais il y a plein d'influenceurs qui font du boulot,
+
+373
+00:27:34,160 --> 00:27:38,160
+mais de façon totalement bénévole et vraiment pour le bien commun.
+
+374
+00:27:38,160 --> 00:27:40,160
+Et ça, c'est ultra précieux.
+
+375
+00:27:40,160 --> 00:27:43,160
+En fait, je n'aime vraiment pas ce terme d'influenceur.
+
+376
+00:27:43,160 --> 00:27:48,160
+Mais on peut parler de journaliste amateur, je ne sais pas.
+
+377
+00:27:48,160 --> 00:27:50,160
+Est-ce que la carte de presse, c'est vraiment important
+
+378
+00:27:50,160 --> 00:27:52,160
+pour être vraiment journaliste? Je ne sais pas.
+
+379
+00:27:52,160 --> 00:27:56,160
+Mais ce que je veux dire, c'est qu'il y a, sur certaines matières,
+
+380
+00:27:56,160 --> 00:27:59,160
+et notamment les cryptos ou les médias, en général,
+
+381
+00:27:59,160 --> 00:28:01,160
+ne sont pas au niveau.
+
+382
+00:28:01,160 --> 00:28:04,160
+Les gens qu'on appelle les influenceurs sont ultra importants
+
+383
+00:28:04,160 --> 00:28:05,160
+pour l'éducation.
+
+384
+00:28:05,160 --> 00:28:09,160
+On essaye de faire notre part du boulot avec The Big Well.
+
+385
+00:28:09,160 --> 00:28:11,160
+On essaie de la faire le mieux possible,
+
+386
+00:28:11,160 --> 00:28:12,160
+mais on ne peut pas tout couvrir.
+
+387
+00:28:12,160 --> 00:28:14,160
+On ne peut pas adresser tout le monde, tous les publics.
+
+388
+00:28:14,160 --> 00:28:16,160
+Et les influenceurs ont un rôle important.
+
+389
+00:28:16,160 --> 00:28:18,160
+C'est pour ça qu'il faut être exigeant avec eux
+
+390
+00:28:18,160 --> 00:28:23,160
+sur leur capacité d'« due diligence » à protéger leur audience.
+
+391
+00:28:23,160 --> 00:28:25,160
+Parce que c'est très bien.
+
+392
+00:28:25,160 --> 00:28:29,160
+Vraiment, si vous avez mis le nez dans TikTok, c'est à se pendre.
+
+393
+00:28:29,160 --> 00:28:32,160
+Il y a du pénal sur chaque vidéo.
+
+394
+00:28:32,160 --> 00:28:34,160
+Il faut faire extrêmement attention à ça.
+
+395
+00:28:34,160 --> 00:28:37,160
+Mais tous les influenceurs, les gros influenceurs français
+
+396
+00:28:37,160 --> 00:28:40,160
+qu'on connaît, sont des gens qui sont hyper smarts,
+
+397
+00:28:40,160 --> 00:28:44,160
+qui prennent vachement soin de leur communauté,
+
+398
+00:28:44,160 --> 00:28:49,160
+qui donnent vraiment des conseils de prudence en permanence.
+
+399
+00:28:49,160 --> 00:28:54,160
+On parlait de Owen tout à l'heure, mais il y en a beaucoup d'autres.
+
+400
+00:28:54,160 --> 00:28:56,160
+Je vois Pixoo, d'ailleurs, qui s'est connecté.
+
+401
+00:28:56,160 --> 00:29:03,160
+Il y a beaucoup de gens où tu sens qu'il y a vraiment le fait
+
+402
+00:29:03,160 --> 00:29:06,160
+de prendre soin de sa communauté est ultra important.
+
+403
+00:29:06,160 --> 00:29:12,160
+Je ne suis pas face à des mecs qui font des airdrops hyper chelous.
+
+404
+00:29:12,160 --> 00:29:16,160
+Ça existe, mais ce n'est pas les plus visibles.
+
+405
+00:29:16,160 --> 00:29:18,160
+C'est justement ceux qui sont les plus cachés
+
+406
+00:29:18,160 --> 00:29:21,160
+que je trouve très dangereux.
+
+407
+00:29:21,160 --> 00:29:24,160
+Comment, d'après toi, on peut faire la différence
+
+408
+00:29:24,160 --> 00:29:27,160
+dans tout ce mélange de genres,
+
+409
+00:29:27,160 --> 00:29:32,160
+entre journalistes qui font bien leur travail selon les cours qu'ils ont eu,
+
+410
+00:29:32,160 --> 00:29:35,160
+ceux qui ne font pas bien leur travail selon les cours qu'ils ont eu,
+
+411
+00:29:35,160 --> 00:29:38,160
+les influenceurs qui ont une éthique qu'ils respectent,
+
+412
+00:29:38,160 --> 00:29:40,160
+les influenceurs qui font n'importe quoi?
+
+413
+00:29:40,160 --> 00:29:43,160
+Quand tous ces gens-là sont mélangés,
+
+414
+00:29:43,160 --> 00:29:50,160
+comment la personne lambda fait réussir à se démêler des pinceaux?
+
+415
+00:29:50,160 --> 00:29:54,160
+Je dirais que c'est exactement la même réponse qu'on peut donner à la question
+
+416
+00:29:54,160 --> 00:29:58,160
+« comment on reconnaît un bon projet pour investir dans un autre? »
+
+417
+00:29:58,160 --> 00:30:01,160
+On va regarder le track record des gens.
+
+418
+00:30:01,160 --> 00:30:07,160
+On va regarder comment ils sont reconnus par leurs pairs.
+
+419
+00:30:07,160 --> 00:30:11,160
+Si je faisais une énorme connerie, ou plusieurs,
+
+420
+00:30:11,160 --> 00:30:15,160
+je perdrais toute ma légitimité sur le secteur.
+
+421
+00:30:15,160 --> 00:30:20,160
+Et j'aurais plus de réputation.
+
+422
+00:30:20,160 --> 00:30:27,160
+Tout le monde dirait que ça ne sert à rien de lire ce que je fais, etc.
+
+423
+00:30:27,160 --> 00:30:29,160
+Et c'est un peu la même chose avec un influenceur.
+
+424
+00:30:29,160 --> 00:30:33,160
+S'il y a des conneries qui se répètent, il perdra toute légitimité.
+
+425
+00:30:33,160 --> 00:30:36,160
+Mais quelqu'un qui a essuyé des tempêtes,
+
+426
+00:30:36,160 --> 00:30:39,160
+et je sais qu'il y en a des tempêtes dans les cryptos,
+
+427
+00:30:39,160 --> 00:30:40,160
+avec les bear markets,
+
+428
+00:30:40,160 --> 00:30:45,160
+si cette personne est toujours respectée par ses pairs,
+
+429
+00:30:45,160 --> 00:30:47,160
+c'est très important d'être respectée par ses pairs,
+
+430
+00:30:47,160 --> 00:30:51,160
+on peut dire que cette personne est de confiance.
+
+431
+00:30:51,160 --> 00:30:54,160
+Donc, tu es d'accord pour dire que si on s'en tient à ça,
+
+432
+00:30:54,160 --> 00:30:57,160
+le statut de journaliste n'a aucune pertinence, en fait,
+
+433
+00:30:57,160 --> 00:30:59,160
+par rapport à qui?
+
+434
+00:30:59,160 --> 00:31:01,160
+Non, pas totalement,
+
+435
+00:31:01,160 --> 00:31:06,160
+parce que tous les influenceurs n'ont pas vocation à proposer de l'information,
+
+436
+00:31:06,160 --> 00:31:15,160
+je veux dire de l'information analysée, exclusive, si tu veux.
+
+437
+00:31:15,160 --> 00:31:21,160
+Chez The Big Wheel, on ne reçoit pas des infos,
+
+438
+00:31:21,160 --> 00:31:26,160
+et juste il faut traiter tel projet, fait telle annonce, ou machin.
+
+439
+00:31:26,160 --> 00:31:30,160
+Il y a une part du métier qui revient à ça aussi,
+
+440
+00:31:30,160 --> 00:31:33,160
+parce que les gens ont besoin de savoir quelles sont les annonces,
+
+441
+00:31:33,160 --> 00:31:36,160
+mais nous, notre boulot, c'est de faire des interviews,
+
+442
+00:31:36,160 --> 00:31:39,160
+des enquêtes, des fois qui ne font pas plaisir,
+
+443
+00:31:39,160 --> 00:31:44,160
+ça génère du débat.
+
+444
+00:31:44,160 --> 00:31:48,160
+La place du journaliste dans la société,
+
+445
+00:31:48,160 --> 00:31:51,160
+c'est vraiment de faire évoluer les choses,
+
+446
+00:31:51,160 --> 00:31:52,160
+de susciter du débat,
+
+447
+00:31:52,160 --> 00:32:00,160
+tandis que l'influenceur, il y a une part aussi qui revient à ça,
+
+448
+00:32:00,160 --> 00:32:03,160
+mais je ne dirais pas que c'est tout à fait la même chose.
+
+449
+00:32:03,160 --> 00:32:08,160
+Il y avait un truc,
+
+450
+00:32:08,160 --> 00:32:12,160
+c'est ça en fait, tout à l'heure je l'ai mentionné rapidement,
+
+451
+00:32:12,160 --> 00:32:16,160
+il y a eu des leaks, et c'est marrant parce qu'on voit vraiment
+
+452
+00:32:16,160 --> 00:32:20,160
+les mêmes travers, que ce soit dans les outlets,
+
+453
+00:32:20,160 --> 00:32:24,160
+peut-être dit journalistique, mais c'est difficile de dire maintenant,
+
+454
+00:32:24,160 --> 00:32:30,160
+la frontière est vraiment floue entre les nouveaux métiers
+
+455
+00:32:30,160 --> 00:32:32,160
+et les anciens, entre guillemets.
+
+456
+00:32:32,160 --> 00:32:36,160
+Il y a eu des leaks, il y a des mecs dans les rédactions
+
+457
+00:32:36,160 --> 00:32:39,160
+qui sont amusés à faire des fake news,
+
+458
+00:32:39,160 --> 00:32:40,160
+qui ont été rectifiés après, etc.
+
+459
+00:32:40,160 --> 00:32:43,160
+Il y a toutes sortes de choses qui arrivent comme ça,
+
+460
+00:32:43,160 --> 00:32:48,160
+comment on fait pour se protéger contre ça?
+
+461
+00:32:48,160 --> 00:32:52,160
+Je vais venir directement, je vais aller là où je veux en venir,
+
+462
+00:32:52,160 --> 00:32:58,160
+c'est qu'au final, le concept, ce n'est pas justement
+
+463
+00:32:58,160 --> 00:33:01,160
+la pluralité des sources?
+
+464
+00:33:01,160 --> 00:33:04,160
+Ah oui, ça certainement.
+
+465
+00:33:04,160 --> 00:33:07,160
+Moi je préfère un monde où il y a plein de médias,
+
+466
+00:33:07,160 --> 00:33:10,160
+si on reste dans l'écosystème crypto,
+
+467
+00:33:10,160 --> 00:33:13,160
+plein de médias cryptos différents, beaucoup plus qu'aujourd'hui,
+
+468
+00:33:13,160 --> 00:33:17,160
+et beaucoup plus d'influenceurs qui sont dans le cadre de la loi, bien sûr.
+
+469
+00:33:17,160 --> 00:33:20,160
+Ça, ça serait génial, la pluralité, c'est génial.
+
+470
+00:33:20,160 --> 00:33:23,160
+Quand il y a un journal qui ferme, c'est horrible,
+
+471
+00:33:23,160 --> 00:33:24,160
+je le vis très mal.
+
+472
+00:33:24,160 --> 00:33:27,160
+Déjà, ça signale la mauvaise santé d'un secteur,
+
+473
+00:33:27,160 --> 00:33:32,160
+mais juste pour la diversité des opinions, c'est un drame.
+
+474
+00:33:32,160 --> 00:33:34,160
+Donc oui, je suis d'accord avec toi.
+
+475
+00:33:36,160 --> 00:33:38,160
+Je ne sais pas si Artem, tu veux dire quelque chose?
+
+476
+00:33:38,160 --> 00:33:40,160
+Oui, je voulais juste rebondir sur ce que tu disais,
+
+477
+00:33:40,160 --> 00:33:45,160
+sur le fait de savoir s'il y a une news qui est bonne ou pas bonne,
+
+478
+00:33:45,160 --> 00:33:49,160
+et le leak auquel tu fais référence, c'est le leak de CoinTelegraph,
+
+479
+00:33:49,160 --> 00:33:54,160
+qui a annoncé que l'ETF de BlackRock était accepté,
+
+480
+00:33:54,160 --> 00:33:59,160
+accepté ou approuvé, bref.
+
+481
+00:34:01,160 --> 00:34:04,160
+Là, pour le coup, ça revient à l'expérience que tu as dans le secteur,
+
+482
+00:34:04,160 --> 00:34:07,160
+et l'expérience que tu as des médias,
+
+483
+00:34:07,160 --> 00:34:09,160
+et l'expérience que tu as des infos, on va dire,
+
+484
+00:34:09,160 --> 00:34:13,160
+qui sont sourcées à la clé de ce genre de choses.
+
+485
+00:34:14,160 --> 00:34:18,160
+Et pour le coup, par exemple, quand la news, pour le coup,
+
+486
+00:34:18,160 --> 00:34:21,160
+full disclosure pour ceux qui ne les savent pas, j'ai un média aussi,
+
+487
+00:34:21,160 --> 00:34:25,160
+et pour le coup, c'est aussi le genre d'infos que nous, on relaie généralement.
+
+488
+00:34:25,160 --> 00:34:29,160
+Sauf qu'aujourd'hui, tu n'as que, on va dire,
+
+489
+00:34:29,160 --> 00:34:34,160
+cinq, six sources qui sont plus ou moins fiables sur ce genre d'info.
+
+490
+00:34:35,160 --> 00:34:38,160
+C'est par exemple DB, donc tier 10K,
+
+491
+00:34:38,160 --> 00:34:41,160
+tu as Zoomer, tu as Treenews,
+
+492
+00:34:41,160 --> 00:34:45,160
+donc tu as deux, trois canals Telegram aussi,
+
+493
+00:34:45,160 --> 00:34:48,160
+qui relient ce genre de news, qui ont des terminales Bloomberg,
+
+494
+00:34:48,160 --> 00:34:52,160
+qui sont directement connectés à Bloomberg, à Reuters,
+
+495
+00:34:52,160 --> 00:34:55,160
+au site de la SEC, au site de BlackRock, etc.,
+
+496
+00:34:55,160 --> 00:34:58,160
+qui en fait ont des algorithmes qui scrapent les différentes annonces
+
+497
+00:34:58,160 --> 00:35:01,160
+à travers des mots-clés, et qui arrivent à te sortir l'info
+
+498
+00:35:01,160 --> 00:35:03,160
+à la seconde où l'info est disponible.
+
+499
+00:35:03,160 --> 00:35:07,160
+CoinTelegraph n'a jamais sorti d'exclus,
+
+500
+00:35:07,160 --> 00:35:10,160
+pour le coup, en tout cas par ma connaissance,
+
+501
+00:35:10,160 --> 00:35:13,160
+pas depuis les quatre ans que je suis dans cet écosystème.
+
+502
+00:35:13,160 --> 00:35:16,160
+CoinTelegraph n'a jamais eu d'exclus,
+
+503
+00:35:16,160 --> 00:35:20,160
+ça a toujours été un média, on va dire, mid-tier,
+
+504
+00:35:20,160 --> 00:35:24,160
+qui justement est un média qui profite énormément de Bullrun
+
+505
+00:35:24,160 --> 00:35:27,160
+pour faire des promos de projets un peu douteux.
+
+506
+00:35:27,160 --> 00:35:31,160
+C'est un clone malfaisant de CoinDesk, on va dire.
+
+507
+00:35:31,160 --> 00:35:33,160
+Oui, voilà, c'est ça, alors que CoinDesk, pour le coup,
+
+508
+00:35:33,160 --> 00:35:36,160
+eux, ils sont très très bons, et c'est des vrais journalistes,
+
+509
+00:35:36,160 --> 00:35:42,160
+c'est eux qui ont du coup mis en avant ce qui est sorti sur FTX,
+
+510
+00:35:42,160 --> 00:35:46,160
+alors que c'est l'une de leurs entreprises maires
+
+511
+00:35:46,160 --> 00:35:49,160
+qui étaient concernées par cette news directement,
+
+512
+00:35:49,160 --> 00:35:51,160
+qui l'ont relayée, qui ont été un bon média.
+
+513
+00:35:51,160 --> 00:35:54,160
+Et donc, en fait, pour le coup, à la fin de l'histoire,
+
+514
+00:35:54,160 --> 00:35:58,160
+pour avoir ta source d'informations,
+
+515
+00:35:58,160 --> 00:36:00,160
+en fait, il faut juste que tu aies de l'expérience,
+
+516
+00:36:00,160 --> 00:36:03,160
+et avant de la relayer, il faut que tu essaies de rechecker l'information,
+
+517
+00:36:03,160 --> 00:36:06,160
+et pour le coup, je me rappelle très bien du jour où c'est sorti,
+
+518
+00:36:06,160 --> 00:36:10,160
+je me rappelle, du coup, j'avais mis un tweet,
+
+519
+00:36:10,160 --> 00:36:14,160
+« Ouais, je ne sais pas trop si je devrais m'effier »,
+
+520
+00:36:14,160 --> 00:36:16,160
+et là, en fait, tu te heurtes à un autre problème,
+
+521
+00:36:16,160 --> 00:36:20,160
+c'est qu'aujourd'hui, tu es soit le premier, soit le dernier sur les infos,
+
+522
+00:36:20,160 --> 00:36:24,160
+et donc, soit tu prends le risque de sortir l'info après tout le monde,
+
+523
+00:36:24,160 --> 00:36:28,160
+alors que c'est une info cruciale pour l'écosystème,
+
+524
+00:36:28,160 --> 00:36:32,160
+soit tu prends le risque de sortir une connerie,
+
+525
+00:36:32,160 --> 00:36:36,160
+et pour le coup, là, sur ce coup-là, on avait pris le temps,
+
+526
+00:36:36,160 --> 00:36:41,160
+parce que, justement, la réputation de Cointelegraph n'était pas au top,
+
+527
+00:36:41,160 --> 00:36:45,160
+et je ne voulais pas faux mots, on va dire, sur cette news-là,
+
+528
+00:36:45,160 --> 00:36:49,160
+même si c'était une news qui aurait été ultra importante pour l'écosystème,
+
+529
+00:36:49,160 --> 00:36:53,160
+et qui aurait marqué un changement assez majeur dans le discours de la SEC,
+
+530
+00:36:53,160 --> 00:36:57,160
+mais pour le coup, encore une fois, ça va être uniquement l'expérience
+
+531
+00:36:57,160 --> 00:36:59,160
+et la connaissance que tu as de l'écosystème,
+
+532
+00:37:00,160 --> 00:37:04,160
+et en fait, ta capacité, lors de ces périodes-là,
+
+533
+00:37:04,160 --> 00:37:06,160
+de prendre du recul et de te dire,
+
+534
+00:37:06,160 --> 00:37:12,160
+« Ok, au lieu d'essayer d'être le premier, je devrais peut-être revérifier l'info,
+
+535
+00:37:12,160 --> 00:37:16,160
+attendre que ce soit confirmé par une autre source que j'utilise d'habitude
+
+536
+00:37:16,160 --> 00:37:18,160
+en tant que première source d'info,
+
+537
+00:37:18,160 --> 00:37:22,160
+et ensuite, voir également le wording qui est utilisé,
+
+538
+00:37:22,160 --> 00:37:27,160
+puisqu'il y a certaines sources qui font des raccourcis énormes sur les infos. »
+
+539
+00:37:27,160 --> 00:37:29,160
+Donc il faut faire très attention.
+
+540
+00:37:29,160 --> 00:37:31,160
+C'est vrai que c'est vraiment dur.
+
+541
+00:37:31,160 --> 00:37:33,160
+Je te laisserai réagir à ça, Grégoire,
+
+542
+00:37:33,160 --> 00:37:36,160
+mais je veux juste ajouter que c'est vraiment dur,
+
+543
+00:37:36,160 --> 00:37:38,160
+spécifiquement dans l'écosystème crypto,
+
+544
+00:37:38,160 --> 00:37:41,160
+parce que dans un écosystème normal,
+
+545
+00:37:41,160 --> 00:37:44,160
+c'est facile à faire d'attendre des confirmations.
+
+546
+00:37:44,160 --> 00:37:47,160
+Mais dans les cryptos, il y a le côté investissement.
+
+547
+00:37:47,160 --> 00:37:50,160
+Quand tu as une news vraiment vite, tu te dis, « Je vais prendre une position. »
+
+548
+00:37:50,160 --> 00:37:52,160
+Et alors…
+
+549
+00:37:52,160 --> 00:37:54,160
+Après, la réalité, c'est que ces fake news,
+
+550
+00:37:54,160 --> 00:37:56,160
+elles ont lieu aussi dans l'écosystème traditionnel.
+
+551
+00:37:56,160 --> 00:37:58,160
+Sauf que le problème, c'est que déjà,
+
+552
+00:37:58,160 --> 00:38:00,160
+c'est beaucoup plus régulé.
+
+553
+00:38:00,160 --> 00:38:03,160
+Donc en fait, les informations qui passent,
+
+554
+00:38:03,160 --> 00:38:06,160
+ce sont des informations qui sont un peu plus filtrées,
+
+555
+00:38:06,160 --> 00:38:08,160
+on va dire, contrôlées, etc.
+
+556
+00:38:08,160 --> 00:38:11,160
+Et les responsables de ces infos se font poursuivre en justice,
+
+557
+00:38:11,160 --> 00:38:15,160
+puisque ça impacte directement les marchés traditionnels dans la crypto,
+
+558
+00:38:15,160 --> 00:38:17,160
+de par sa nature décentralisée,
+
+559
+00:38:17,160 --> 00:38:20,160
+sans la régulation tout à fait claire aujourd'hui.
+
+560
+00:38:20,160 --> 00:38:26,160
+On n'a pas ce même privilège d'avoir les infos qui sont triple-checkées
+
+561
+00:38:26,160 --> 00:38:30,160
+et où les responsables des manipulations sont condamnés.
+
+562
+00:38:30,160 --> 00:38:33,160
+On peut se rappeler également de la news de Walmart
+
+563
+00:38:33,160 --> 00:38:35,160
+qui accepte le Litecoin,
+
+564
+00:38:35,160 --> 00:38:38,160
+qui avait circulé, qui avait été relayé par Reuters,
+
+565
+00:38:38,160 --> 00:38:41,160
+qui est un média traditionnel, etc.,
+
+566
+00:38:41,160 --> 00:38:46,160
+qui a eu lieu suite à un phishing de mail d'un des employés de Reuters,
+
+567
+00:38:46,160 --> 00:38:48,160
+où en gros, le mail qu'il avait envoyé,
+
+568
+00:38:48,160 --> 00:38:51,160
+il y avait un « i » en plus ou quelque chose comme ça.
+
+569
+00:38:51,160 --> 00:38:53,160
+Et donc l'employé qui s'est fait avoir,
+
+570
+00:38:53,160 --> 00:38:55,160
+ça encore une fois, l'erreur humaine,
+
+571
+00:38:55,160 --> 00:38:57,160
+c'est la plus grande erreur aujourd'hui de tous les écosystèmes,
+
+572
+00:38:57,160 --> 00:39:00,160
+que ce soit crypto, finance trad ou peu importe,
+
+573
+00:39:00,160 --> 00:39:02,160
+la cybersécurité, etc.
+
+574
+00:39:02,160 --> 00:39:05,160
+Donc aujourd'hui, ils ont lieu dans la finance traditionnelle,
+
+575
+00:39:05,160 --> 00:39:08,160
+juste dans un premier temps, on en entend moins parler,
+
+576
+00:39:08,160 --> 00:39:10,160
+parce que ça arrive plus rarement
+
+577
+00:39:10,160 --> 00:39:14,160
+et parce qu'on n'est pas aussi concentré sur les systèmes traditionnels, nous.
+
+578
+00:39:14,160 --> 00:39:17,160
+Et ensuite, ça arrive moins souvent.
+
+579
+00:39:17,160 --> 00:39:20,160
+Donc la réalité, c'est que l'écosystème crypto est naissant,
+
+580
+00:39:20,160 --> 00:39:22,160
+il réagit à chaud sur plein de choses,
+
+581
+00:39:22,160 --> 00:39:24,160
+et ce genre d'info peut être crucial
+
+582
+00:39:24,160 --> 00:39:27,160
+pour prendre également des positions sur le marché également.
+
+583
+00:39:27,160 --> 00:39:30,160
+Oui, le plus simple, c'est de ne pas prendre de position
+
+584
+00:39:30,160 --> 00:39:32,160
+quand on voit des trucs sur Twitter.
+
+585
+00:39:32,160 --> 00:39:34,160
+Non, mais plus sérieusement,
+
+586
+00:39:34,160 --> 00:39:39,160
+le monde traditionnel est extrêmement aussi touché par ce genre de choses.
+
+587
+00:39:39,160 --> 00:39:43,160
+Je ne sais pas si vous vous rappelez, c'était en 2016, il me semble,
+
+588
+00:39:43,160 --> 00:39:46,160
+il y a le groupe Vinci, le groupe de BTP,
+
+589
+00:39:46,160 --> 00:39:51,160
+qui avait été victime d'un faux communiqué
+
+590
+00:39:51,160 --> 00:39:54,160
+qui avait été repris par une agence de presse
+
+591
+00:39:54,160 --> 00:39:57,160
+qui annonçait un truc de dingue autour d'eux.
+
+592
+00:39:57,160 --> 00:40:00,160
+Et le cours s'était complètement pété la gueule.
+
+593
+00:40:00,160 --> 00:40:02,160
+Et ça avait été très grave.
+
+594
+00:40:02,160 --> 00:40:05,160
+En fait, ça arrive beaucoup plus souvent qu'on le croit.
+
+595
+00:40:07,160 --> 00:40:11,160
+Je ne sais pas si Greg, tu as encore un petit peu de temps.
+
+596
+00:40:11,160 --> 00:40:13,160
+Tu m'avais dit que tu avais seulement 40 minutes
+
+597
+00:40:13,160 --> 00:40:15,160
+et ça fait déjà 40 minutes.
+
+598
+00:40:15,160 --> 00:40:18,160
+Si tu peux rester encore un peu, ça serait génial.
+
+599
+00:40:18,160 --> 00:40:21,160
+Je vais me faire couper la tête par madame.
+
+600
+00:40:21,160 --> 00:40:23,160
+On va y aller, on va continuer.
+
+601
+00:40:23,160 --> 00:40:25,160
+Ok, c'est cool.
+
+602
+00:40:25,160 --> 00:40:28,160
+Je suis là pour la tech, c'est vrai.
+
+603
+00:40:28,160 --> 00:40:31,160
+On se cotisera pour une nouvelle tête.
+
+604
+00:40:33,160 --> 00:40:36,160
+Il y a plein de commentaires que je n'ai pas encore lus.
+
+605
+00:40:36,160 --> 00:40:40,160
+Et puis j'aimerais te poser une question aussi par rapport...
+
+606
+00:40:40,160 --> 00:40:44,160
+Bon bref, d'abord je vais lire un peu les commentaires qu'il y a eu
+
+607
+00:40:44,160 --> 00:40:47,160
+et qui sont en plus bien écrits.
+
+608
+00:40:47,160 --> 00:40:49,160
+C'est cool, je vais lire.
+
+609
+00:40:49,160 --> 00:40:51,160
+Gaga qui dit, je viens d'arriver, vous avez posé la question
+
+610
+00:40:51,160 --> 00:40:53,160
+des publications sponsorisées.
+
+611
+00:40:53,160 --> 00:40:55,160
+Déjà, non, on n'a pas encore abordé le sujet.
+
+612
+00:40:55,160 --> 00:40:59,160
+Tiffany qui dit, n'est pas aussi aux gens de recouper toute information,
+
+613
+00:40:59,160 --> 00:41:03,160
+de se coltiner plusieurs sources et voir ce qui leur paraît vraiment de qualité.
+
+614
+00:41:03,160 --> 00:41:05,160
+Ne faut-il pas plutôt apprendre aux gens à chercher les infos
+
+615
+00:41:05,160 --> 00:41:06,160
+et comment les manier?
+
+616
+00:41:06,160 --> 00:41:09,160
+C'était pas mal ça qu'on était en train de...
+
+617
+00:41:09,160 --> 00:41:12,160
+C'est très court, mais les gens, ils ont la flemme.
+
+618
+00:41:12,160 --> 00:41:15,160
+Oui, et puis ça, ça se prend quand tu es plus jeune.
+
+619
+00:41:15,160 --> 00:41:17,160
+Tu sais, c'est un cours d'éducation civique,
+
+620
+00:41:17,160 --> 00:41:20,160
+c'est un cours d'apprentissage des médias.
+
+621
+00:41:20,160 --> 00:41:22,160
+J'ai eu la chance d'avoir ça en 5e,
+
+622
+00:41:22,160 --> 00:41:24,160
+et c'est ça qui m'a donné envie d'être journaliste.
+
+623
+00:41:24,160 --> 00:41:28,160
+Mais voilà, ça s'apprend.
+
+624
+00:41:28,160 --> 00:41:31,160
+Juste pour une petite anecdote, je vous le fais rapidement,
+
+625
+00:41:31,160 --> 00:41:37,160
+le prof avait sorti tous les journaux qui avaient été publiés
+
+626
+00:41:37,160 --> 00:41:40,160
+le lendemain de l'élection de Jacques Chirac en 1995.
+
+627
+00:41:40,160 --> 00:41:43,160
+Et en fait, on voyait qu'à partir d'une même information,
+
+628
+00:41:43,160 --> 00:41:45,160
+il y avait des parties pris extrêmement différentes
+
+629
+00:41:45,160 --> 00:41:47,160
+par rapport à la même information.
+
+630
+00:41:47,160 --> 00:41:49,160
+J'ai trouvé ça passionnant,
+
+631
+00:41:49,160 --> 00:41:53,160
+et c'est pour ça que j'ai commencé à vouloir m'intéresser à ce métier.
+
+632
+00:41:57,160 --> 00:42:01,160
+Je pense, Grégory, il y a ce côté-là d'enseigner.
+
+633
+00:42:01,160 --> 00:42:05,160
+Mais par exemple, aujourd'hui, on voit qu'en France,
+
+634
+00:42:05,160 --> 00:42:07,160
+les gens ont énormément la flemme.
+
+635
+00:42:08,160 --> 00:42:12,160
+Aujourd'hui, tu sors une interview qui est full en anglais,
+
+636
+00:42:12,160 --> 00:42:15,160
+tu as 10 fois moins de clics parce que les gens n'ont pas envie
+
+637
+00:42:15,160 --> 00:42:17,160
+de faire l'effort de comprendre l'anglais.
+
+638
+00:42:17,160 --> 00:42:19,160
+Donc tu es obligé de faire du français,
+
+639
+00:42:19,160 --> 00:42:21,160
+ce qui te prend plus de temps.
+
+640
+00:42:21,160 --> 00:42:24,160
+Et au final, quand les gens se rendent compte que ça ne leur convient pas
+
+641
+00:42:24,160 --> 00:42:27,160
+parce que c'est de l'anglais, ils ne vont pas forcément écouter,
+
+642
+00:42:27,160 --> 00:42:29,160
+donc tu n'auras pas le même retour.
+
+643
+00:42:29,160 --> 00:42:32,160
+Et c'est pour ça aussi qu'aujourd'hui, tu as des agrégateurs de news
+
+644
+00:42:32,160 --> 00:42:34,160
+qui fonctionnent, c'est parce que les gens n'ont pas le temps
+
+645
+00:42:34,160 --> 00:42:36,160
+de suivre toutes les news qui sortent,
+
+646
+00:42:36,160 --> 00:42:38,160
+donc ils ont besoin d'agréger ça.
+
+647
+00:42:38,160 --> 00:42:40,160
+C'est pour ça que tu as des newsletters qui fonctionnent,
+
+648
+00:42:40,160 --> 00:42:43,160
+c'est pour ça que tu as les briefs, par exemple Bloomberg,
+
+649
+00:42:43,160 --> 00:42:45,160
+qui font les briefs du matin, les briefs du soir,
+
+650
+00:42:45,160 --> 00:42:48,160
+plus une ou un ou deux mails dans la journée
+
+651
+00:42:48,160 --> 00:42:50,160
+pour te tenir au courant de ce qui se passe.
+
+652
+00:42:50,160 --> 00:42:52,160
+En réalité, tu pourrais avoir ces informations-là
+
+653
+00:42:52,160 --> 00:42:54,160
+en allant sur leur site, mais aujourd'hui,
+
+654
+00:42:54,160 --> 00:42:56,160
+les gens n'ont pas le temps, les gens ont la flemme
+
+655
+00:42:56,160 --> 00:42:58,160
+et les gens n'ont pas que ça à faire non plus.
+
+656
+00:42:58,160 --> 00:43:03,160
+Donc il y a aussi ce côté-là où trouver une bonne info,
+
+657
+00:43:03,160 --> 00:43:06,160
+c'est des fois passer par des intermédiaires
+
+658
+00:43:06,160 --> 00:43:08,160
+parce que tu n'as pas le temps, etc.
+
+659
+00:43:08,160 --> 00:43:11,160
+Et donc forcément, à chaque intermédiaire,
+
+660
+00:43:11,160 --> 00:43:13,160
+un niveau de confiance se perd.
+
+661
+00:43:13,160 --> 00:43:16,160
+Il y a un risque de contrepartie, c'est comme avec FTX.
+
+662
+00:43:16,160 --> 00:43:19,160
+Oui, exactement, c'est exactement la même chose.
+
+663
+00:43:19,160 --> 00:43:22,160
+Au final, à chaque contrepartie, tu as les tournures de phrases
+
+664
+00:43:22,160 --> 00:43:25,160
+qui changent, c'est le téléphone...
+
+665
+00:43:25,160 --> 00:43:28,160
+Je ne sais pas comment on dit ça en français.
+
+666
+00:43:28,160 --> 00:43:30,160
+Oui, on parle de téléphone arabe en français,
+
+667
+00:43:30,160 --> 00:43:32,160
+même si c'est une expression dégueulasse
+
+668
+00:43:32,160 --> 00:43:34,160
+et je ne sais pas comment la bannir.
+
+669
+00:43:34,160 --> 00:43:36,160
+Pour le coup, en russe, on dit téléphone cassé,
+
+670
+00:43:36,160 --> 00:43:39,160
+donc c'est beaucoup plus family friendly.
+
+671
+00:43:39,160 --> 00:43:41,160
+Mais c'est exactement la même chose.
+
+672
+00:43:41,160 --> 00:43:43,160
+Tu vas avoir Bloomberg qui sort une info,
+
+673
+00:43:43,160 --> 00:43:45,160
+ensuite tu vas avoir un mec qui la résume,
+
+674
+00:43:45,160 --> 00:43:47,160
+tu vas avoir un mec qui la traduit,
+
+675
+00:43:47,160 --> 00:43:49,160
+tu vas avoir un mec qui va reprendre l'info
+
+676
+00:43:49,160 --> 00:43:51,160
+qu'il a déjà traduite et la reformulée.
+
+677
+00:43:51,160 --> 00:43:53,160
+Et au final, le gars qui suit le dernier maillon de la chaîne,
+
+678
+00:43:53,160 --> 00:43:55,160
+il a une info qui ne ressemble plus à rien
+
+679
+00:43:55,160 --> 00:43:57,160
+de l'info initiale.
+
+680
+00:43:57,160 --> 00:43:59,160
+Oui, ça me fait penser, ça se voit vachement
+
+681
+00:43:59,160 --> 00:44:01,160
+que les médias qui se basent uniquement
+
+682
+00:44:01,160 --> 00:44:03,160
+sur ce qu'ils ont vu ailleurs
+
+683
+00:44:03,160 --> 00:44:05,160
+et qui réécrivent l'info
+
+684
+00:44:05,160 --> 00:44:07,160
+sans forcément passer des coups de fil
+
+685
+00:44:07,160 --> 00:44:10,160
+pour augmenter et améliorer le contenu,
+
+686
+00:44:10,160 --> 00:44:12,160
+souvent, il y a toujours quelqu'un
+
+687
+00:44:12,160 --> 00:44:14,160
+qui va faire une erreur
+
+688
+00:44:14,160 --> 00:44:16,160
+en faisant son propre article après.
+
+689
+00:44:16,160 --> 00:44:19,160
+Et quand le truc est repris, repris, repris, repris,
+
+690
+00:44:19,160 --> 00:44:22,160
+au bout de la 9e ou 10e reprise,
+
+691
+00:44:22,160 --> 00:44:24,160
+il y a des trucs totalement incohérents
+
+692
+00:44:24,160 --> 00:44:26,160
+qui sont écrits.
+
+693
+00:44:26,160 --> 00:44:28,160
+Et il y a beaucoup de conneries
+
+694
+00:44:28,160 --> 00:44:30,160
+qui sont diffusées comme ça.
+
+695
+00:44:30,160 --> 00:44:34,160
+Et on le voit sur beaucoup de médias cryptos
+
+696
+00:44:34,160 --> 00:44:36,160
+anglophones, obscurs.
+
+697
+00:44:36,160 --> 00:44:38,160
+Des fois, quand je fais une recherche,
+
+698
+00:44:38,160 --> 00:44:40,160
+je tombe sur ces trucs-là.
+
+699
+00:44:40,160 --> 00:44:42,160
+Tu vois vraiment que la personne a juste fait
+
+700
+00:44:42,160 --> 00:44:44,160
+« Ah, tiens, j'ai vu ça, je vais essayer de résumer l'article. »
+
+701
+00:44:44,160 --> 00:44:46,160
+Mais qu'il le lit mal, qu'il le comprend mal.
+
+702
+00:44:46,160 --> 00:44:48,160
+Et à la fin, il y a énormément de conneries.
+
+703
+00:44:50,160 --> 00:44:52,160
+Je voudrais faire une toute petite aparté.
+
+704
+00:44:52,160 --> 00:44:54,160
+Tout à l'heure, Artem, tu parlais
+
+705
+00:44:54,160 --> 00:44:56,160
+des sources en anglais et en français.
+
+706
+00:44:56,160 --> 00:44:58,160
+Greg, c'est quoi le truc avec The Big Wild?
+
+707
+00:44:58,160 --> 00:45:00,160
+Parce que j'ai cru voir passer des postes
+
+708
+00:45:00,160 --> 00:45:02,160
+en français, en anglais.
+
+709
+00:45:02,160 --> 00:45:04,160
+Est-ce que vous arrivez à vous en sortir avec ça?
+
+710
+00:45:04,160 --> 00:45:06,160
+J'ai l'impression que vous avez envie
+
+711
+00:45:06,160 --> 00:45:08,160
+de sortir un peu du truc,
+
+712
+00:45:08,160 --> 00:45:10,160
+de vous internationaliser.
+
+713
+00:45:12,160 --> 00:45:14,160
+Comment ça fonctionne? Est-ce que vous faites?
+
+714
+00:45:14,160 --> 00:45:16,160
+C'est une très bonne question.
+
+715
+00:45:16,160 --> 00:45:18,160
+On est très perturbés avec ça.
+
+716
+00:45:18,160 --> 00:45:20,160
+Moi-même, je suis le moins bon en anglais
+
+717
+00:45:20,160 --> 00:45:22,160
+de toute la team.
+
+718
+00:45:22,160 --> 00:45:24,160
+C'est une grande souffrance.
+
+719
+00:45:24,160 --> 00:45:26,160
+Il faut savoir que quand on fait
+
+720
+00:45:26,160 --> 00:45:28,160
+toutes nos réus ensemble, en interne,
+
+721
+00:45:28,160 --> 00:45:30,160
+on les fait en anglais.
+
+722
+00:45:30,160 --> 00:45:32,160
+C'est un très bon exercice pour pratiquer.
+
+723
+00:45:32,160 --> 00:45:34,160
+Mais des fois, ce n'est pas facile.
+
+724
+00:45:34,160 --> 00:45:36,160
+Mais si tu veux, pourquoi
+
+725
+00:45:36,160 --> 00:45:38,160
+à un moment, on a fait nos communications
+
+726
+00:45:38,160 --> 00:45:40,160
+par rapport
+
+727
+00:45:40,160 --> 00:45:42,160
+par exemple à nos réseaux sociaux officiels,
+
+728
+00:45:42,160 --> 00:45:44,160
+à The Big Wild, pourquoi à un moment,
+
+729
+00:45:44,160 --> 00:45:46,160
+on n'est pas sans anglais? C'est parce qu'on a voulu
+
+730
+00:45:46,160 --> 00:45:48,160
+se positionner comme un média
+
+731
+00:45:48,160 --> 00:45:50,160
+européen. On a une partie de nos
+
+732
+00:45:50,160 --> 00:45:52,160
+abonnés qui sont
+
+733
+00:45:52,160 --> 00:45:54,160
+anglophones.
+
+734
+00:45:54,160 --> 00:45:56,160
+C'est ce pari qui est fait.
+
+735
+00:45:56,160 --> 00:45:58,160
+Sur le site,
+
+736
+00:45:58,160 --> 00:46:00,160
+sur nos newsletters, bref,
+
+737
+00:46:00,160 --> 00:46:02,160
+tous nos contenus, absolument tous, sont disponibles
+
+738
+00:46:02,160 --> 00:46:04,160
+en français et en anglais.
+
+739
+00:46:04,160 --> 00:46:06,160
+Mais par contre, la com officielle
+
+740
+00:46:06,160 --> 00:46:08,160
+sur les réseaux, elle est en anglais
+
+741
+00:46:08,160 --> 00:46:10,160
+à la seule différence que
+
+742
+00:46:10,160 --> 00:46:12,160
+depuis
+
+743
+00:46:12,160 --> 00:46:14,160
+quelques mois,
+
+744
+00:46:14,160 --> 00:46:16,160
+on organise chaque mois des événements
+
+745
+00:46:16,160 --> 00:46:18,160
+qui se
+
+746
+00:46:18,160 --> 00:46:20,160
+déroulent à Paris la plupart du temps
+
+747
+00:46:20,160 --> 00:46:22,160
+et où le
+
+748
+00:46:22,160 --> 00:46:24,160
+public est français. Et donc du coup, là-dessus,
+
+749
+00:46:24,160 --> 00:46:26,160
+on communique en français. Je sais
+
+750
+00:46:26,160 --> 00:46:28,160
+que ça peut être perturbant. Je ne suis pas sûr
+
+751
+00:46:28,160 --> 00:46:30,160
+qu'on ait vraiment craqué
+
+752
+00:46:30,160 --> 00:46:32,160
+le truc. Mais bon, voilà,
+
+753
+00:46:32,160 --> 00:46:34,160
+l'aventure d'une boîte, c'est d'expérimenter beaucoup
+
+754
+00:46:34,160 --> 00:46:36,160
+et pour l'instant, c'est comme ça. On verra
+
+755
+00:46:36,160 --> 00:46:38,160
+comment ça continue. En tout cas, quand on fait
+
+756
+00:46:38,160 --> 00:46:40,160
+le choix d'une langue,
+
+757
+00:46:40,160 --> 00:46:42,160
+normalement, on ne peut pas trop changer. Donc à mon avis, il faut
+
+758
+00:46:42,160 --> 00:46:44,160
+s'habituer à continuer à avoir
+
+759
+00:46:44,160 --> 00:46:46,160
+nos communications officielles
+
+760
+00:46:46,160 --> 00:46:48,160
+sur les comptes The Big Wild en anglais.
+
+761
+00:46:48,160 --> 00:46:50,160
+Ouais.
+
+762
+00:46:50,160 --> 00:46:52,160
+Bon courage avec ça. Je sais que c'est un
+
+763
+00:46:52,160 --> 00:46:54,160
+struggle parce que je viens de Montréal et
+
+764
+00:46:54,160 --> 00:46:56,160
+c'est toujours un truc genre tu veux lancer quelque chose
+
+765
+00:46:56,160 --> 00:46:58,160
+et tu t'es comme genre putain dans quelle langue
+
+766
+00:46:58,160 --> 00:47:00,160
+je vois.
+
+767
+00:47:00,160 --> 00:47:02,160
+Mais j'ai toujours pris
+
+768
+00:47:02,160 --> 00:47:04,160
+une partie, en tout cas,
+
+769
+00:47:04,160 --> 00:47:06,160
+dans tout ce qui est community management et tout, je pense que le mieux
+
+770
+00:47:06,160 --> 00:47:08,160
+c'est toujours de dissocier les comptes.
+
+771
+00:47:08,160 --> 00:47:10,160
+J'imagine, genre de faire un compte en anglais
+
+772
+00:47:10,160 --> 00:47:12,160
+et un compte en français, etc.
+
+773
+00:47:12,160 --> 00:47:14,160
+Après, c'est très bordélique.
+
+774
+00:47:14,160 --> 00:47:16,160
+Ça ne se fait plus vraiment
+
+775
+00:47:16,160 --> 00:47:18,160
+ce genre de truc, mais c'est vrai que
+
+776
+00:47:18,160 --> 00:47:20,160
+ça a existé. Mais si tu veux,
+
+777
+00:47:20,160 --> 00:47:22,160
+il y a plein de tentatives. Par exemple,
+
+778
+00:47:22,160 --> 00:47:24,160
+Le Monde, le journal que tout le monde connaît,
+
+779
+00:47:24,160 --> 00:47:26,160
+a son édition
+
+780
+00:47:26,160 --> 00:47:28,160
+en anglais.
+
+781
+00:47:28,160 --> 00:47:30,160
+Et elle marche très très bien.
+
+782
+00:47:30,160 --> 00:47:32,160
+Je pense que c'est
+
+783
+00:47:32,160 --> 00:47:34,160
+un peu l'avenir. Et si on ne pense que France,
+
+784
+00:47:34,160 --> 00:47:36,160
+en fait, j'ai l'impression,
+
+785
+00:47:36,160 --> 00:47:38,160
+en tout cas dans le secteur des cryptos,
+
+786
+00:47:38,160 --> 00:47:40,160
+que le marché est trop petit pour l'instant.
+
+787
+00:47:40,160 --> 00:47:42,160
+Donc si on veut vraiment scaler,
+
+788
+00:47:42,160 --> 00:47:44,160
+tu vois, j'ai l'impression de parler
+
+789
+00:47:44,160 --> 00:47:46,160
+comme si j'avais un projet crypto.
+
+790
+00:47:46,160 --> 00:47:48,160
+Mais si on veut vraiment scaler,
+
+791
+00:47:48,160 --> 00:47:50,160
+si on veut se développer,
+
+792
+00:47:50,160 --> 00:47:52,160
+continuer à se développer,
+
+793
+00:47:52,160 --> 00:47:54,160
+je pense qu'il faut viser l'anglais.
+
+794
+00:47:54,160 --> 00:47:56,160
+Et d'ailleurs, ce que fait Artem
+
+795
+00:47:56,160 --> 00:47:58,160
+avec Hawke, c'est un peu pareil.
+
+796
+00:47:58,160 --> 00:48:00,160
+Les très beaux rapports que vous faites,
+
+797
+00:48:00,160 --> 00:48:02,160
+ils sont disponibles en français
+
+798
+00:48:02,160 --> 00:48:04,160
+et en anglais, n'est-ce pas?
+
+799
+00:48:04,160 --> 00:48:06,160
+Alors, on avait fait,
+
+800
+00:48:06,160 --> 00:48:08,160
+jusque-là, on avait fait beaucoup de français.
+
+801
+00:48:08,160 --> 00:48:10,160
+Et le dernier rapport, uniquement,
+
+802
+00:48:10,160 --> 00:48:12,160
+était en anglais, parce que c'est celui
+
+803
+00:48:12,160 --> 00:48:14,160
+où on avait envie de vraiment pousser
+
+804
+00:48:14,160 --> 00:48:16,160
+un tout petit peu plus loin.
+
+805
+00:48:16,160 --> 00:48:18,160
+Et surtout, qui concernait une audience
+
+806
+00:48:18,160 --> 00:48:20,160
+un peu plus large. Au final, on l'a vu aussi,
+
+807
+00:48:20,160 --> 00:48:22,160
+parce que ça a été repris par des comptes anglophones
+
+808
+00:48:22,160 --> 00:48:24,160
+par la suite.
+
+809
+00:48:30,160 --> 00:48:32,160
+Mais pour le coup, de base,
+
+810
+00:48:32,160 --> 00:48:34,160
+tout le contenu était en français.
+
+811
+00:48:34,160 --> 00:48:36,160
+Et là, c'était un dossier qui était sponsorisé
+
+812
+00:48:36,160 --> 00:48:38,160
+par un oracle, qui nous avait
+
+813
+00:48:38,160 --> 00:48:40,160
+laissé toute la liberté de faire comme on voulait.
+
+814
+00:48:40,160 --> 00:48:42,160
+Et en fait, on avait envie d'aller plus loin.
+
+815
+00:48:42,160 --> 00:48:44,160
+On voulait aussi voir l'exercice
+
+816
+00:48:44,160 --> 00:48:46,160
+et comment est-ce que ça allait prendre
+
+817
+00:48:46,160 --> 00:48:48,160
+lorsque un compte anglais
+
+818
+00:48:48,160 --> 00:48:50,160
+relayait ton info.
+
+819
+00:48:50,160 --> 00:48:52,160
+Et au final, on a eu un très bon résultat.
+
+820
+00:48:52,160 --> 00:48:54,160
+Donc, c'était...
+
+821
+00:48:54,160 --> 00:48:56,160
+À partir de là, toutes nos recherches, normalement,
+
+822
+00:48:56,160 --> 00:48:58,160
+seront en français et en anglais.
+
+823
+00:48:58,160 --> 00:49:00,160
+Voilà.
+
+824
+00:49:00,160 --> 00:49:02,160
+Je pense qu'on a assez raccord là-dessus.
+
+825
+00:49:02,160 --> 00:49:04,160
+Donc, en tout cas,
+
+826
+00:49:04,160 --> 00:49:06,160
+c'est une voie intéressante.
+
+827
+00:49:06,160 --> 00:49:08,160
+Mais en tout cas, ce genre de décision,
+
+828
+00:49:08,160 --> 00:49:10,160
+c'est le début de l'existence du média.
+
+829
+00:49:10,160 --> 00:49:12,160
+C'est le cas de The Big Whale,
+
+830
+00:49:12,160 --> 00:49:14,160
+c'est le cas de Hawk.
+
+831
+00:49:14,160 --> 00:49:16,160
+Tu peux difficilement le faire au bout de 5 ans.
+
+832
+00:49:16,160 --> 00:49:18,160
+Alors, moi, j'ai une autre voie.
+
+833
+00:49:20,160 --> 00:49:22,160
+Je fais tout en français.
+
+834
+00:49:22,160 --> 00:49:24,160
+Et puis, quand l'intelligence artificielle sera assez développée,
+
+835
+00:49:24,160 --> 00:49:26,160
+je vais traduire...
+
+836
+00:49:26,160 --> 00:49:28,160
+Je vais passer l'audio
+
+837
+00:49:28,160 --> 00:49:30,160
+dans un truc qui existera à ce moment-là,
+
+838
+00:49:30,160 --> 00:49:32,160
+qui me permettra de traduire
+
+839
+00:49:32,160 --> 00:49:34,160
+avec mon ton de voix
+
+840
+00:49:34,160 --> 00:49:36,160
+dans toutes les langues qui existent.
+
+841
+00:49:36,160 --> 00:49:38,160
+C'est ça qui nous passe.
+
+842
+00:49:38,160 --> 00:49:40,160
+Je pense que...
+
+843
+00:49:40,160 --> 00:49:42,160
+Quelqu'un qui a son téléphone...
+
+844
+00:49:42,160 --> 00:49:44,160
+Oui, voilà.
+
+845
+00:49:44,160 --> 00:49:46,160
+Je pense que c'est la solution
+
+846
+00:49:46,160 --> 00:49:48,160
+qui va s'imposer à tout le monde
+
+847
+00:49:48,160 --> 00:49:50,160
+d'ici très peu de temps.
+
+848
+00:49:50,160 --> 00:49:52,160
+On l'a vu sur les podcasts.
+
+849
+00:49:52,160 --> 00:49:54,160
+Sur Spotify,
+
+850
+00:49:54,160 --> 00:49:56,160
+il y a certaines expérimentations
+
+851
+00:49:56,160 --> 00:49:58,160
+où, en fait, c'est traduit
+
+852
+00:49:58,160 --> 00:50:00,160
+hyper facilement, c'est hyper fluide.
+
+853
+00:50:00,160 --> 00:50:02,160
+Même s'il y a un software
+
+854
+00:50:02,160 --> 00:50:04,160
+qui permet, sur les vidéos,
+
+855
+00:50:04,160 --> 00:50:06,160
+de changer la voix
+
+856
+00:50:06,160 --> 00:50:08,160
+et même, ils arrivent à
+
+857
+00:50:08,160 --> 00:50:10,160
+changer les mouvements de la bouche pour que ça s'adapte.
+
+858
+00:50:10,160 --> 00:50:12,160
+Je pense que d'ici
+
+859
+00:50:12,160 --> 00:50:14,160
+trois ans maximum,
+
+860
+00:50:14,160 --> 00:50:16,160
+il n'y a plus de problème de langue.
+
+861
+00:50:16,160 --> 00:50:18,160
+Oui, je pense aussi.
+
+862
+00:50:18,160 --> 00:50:20,160
+Alors, pour reprendre
+
+863
+00:50:20,160 --> 00:50:22,160
+les commentaires qui ont été écrits,
+
+864
+00:50:24,160 --> 00:50:26,160
+je vais reprendre
+
+865
+00:50:26,160 --> 00:50:28,160
+le deuxième post de Tiffany qui disait
+
+866
+00:50:28,160 --> 00:50:30,160
+une idée de point. Il nous faut des apprentisseurs,
+
+867
+00:50:30,160 --> 00:50:32,160
+des gens qui découvrent, apprennent, pratiquent
+
+868
+00:50:32,160 --> 00:50:34,160
+et nous enseignent leur apprentissage
+
+869
+00:50:34,160 --> 00:50:36,160
+et expérience, et soient capables de dire
+
+870
+00:50:36,160 --> 00:50:38,160
+où ils se sont trompés, comment ils ont
+
+871
+00:50:38,160 --> 00:50:40,160
+corrigé et de donner des pistes d'autorecherche.
+
+872
+00:50:40,160 --> 00:50:42,160
+C'est ce que font la plupart des gens
+
+873
+00:50:42,160 --> 00:50:44,160
+aujourd'hui sur Twitter en réalité.
+
+874
+00:50:44,160 --> 00:50:46,160
+Si je dois vous dire
+
+875
+00:50:46,160 --> 00:50:48,160
+le nombre de fois où je me suis trompé
+
+876
+00:50:48,160 --> 00:50:50,160
+et où j'ai appris quelque chose, je pense qu'il n'y a pas
+
+877
+00:50:50,160 --> 00:50:52,160
+assez de danu.
+
+878
+00:50:54,160 --> 00:50:56,160
+De toute façon,
+
+879
+00:50:56,160 --> 00:50:58,160
+c'est ça aussi. Je pense que tout le monde fait ça.
+
+880
+00:50:58,160 --> 00:51:00,160
+C'est aussi un petit peu le truc,
+
+881
+00:51:00,160 --> 00:51:02,160
+le concept de l'antifragilité.
+
+882
+00:51:02,160 --> 00:51:04,160
+C'est que tu fais
+
+883
+00:51:04,160 --> 00:51:06,160
+toi-même en tant que
+
+884
+00:51:06,160 --> 00:51:08,160
+personne qui cherche
+
+885
+00:51:08,160 --> 00:51:10,160
+des informations, tu te trompes, tu te fais avoir
+
+886
+00:51:10,160 --> 00:51:12,160
+une fois, deux fois, à gauche, à droite, etc.
+
+887
+00:51:12,160 --> 00:51:14,160
+Au final, tu apprends
+
+888
+00:51:14,160 --> 00:51:16,160
+naturellement à croiser tes sources,
+
+889
+00:51:16,160 --> 00:51:18,160
+à prendre ton temps, etc. J'imagine que c'est ça
+
+890
+00:51:18,160 --> 00:51:20,160
+un peu le but. Oui, c'est ça.
+
+891
+00:51:20,160 --> 00:51:22,160
+On parlait par exemple de CoinTelegraph
+
+892
+00:51:22,160 --> 00:51:24,160
+qui avait sorti
+
+893
+00:51:24,160 --> 00:51:26,160
+la fake news sur le TF Bitcoin.
+
+894
+00:51:26,160 --> 00:51:28,160
+Moi, j'ai aucun
+
+895
+00:51:28,160 --> 00:51:30,160
+mal à vous dire
+
+896
+00:51:30,160 --> 00:51:32,160
+que cette info,
+
+897
+00:51:32,160 --> 00:51:34,160
+je l'ai relayée en citant le tweet de
+
+898
+00:51:34,160 --> 00:51:36,160
+CoinTelegraph, mais je me suis fait avoir.
+
+899
+00:51:36,160 --> 00:51:38,160
+Après, je ne l'ai pas repris pour moi.
+
+900
+00:51:38,160 --> 00:51:40,160
+J'ai cité CoinTelegraph
+
+901
+00:51:40,160 --> 00:51:42,160
+parce que je pensais que
+
+902
+00:51:42,160 --> 00:51:44,160
+comment un média aussi gros dans le secteur
+
+903
+00:51:44,160 --> 00:51:46,160
+pourrait faire une connerie pareille,
+
+904
+00:51:46,160 --> 00:51:48,160
+pourrait se faire avoir. J'ai fait confiance.
+
+905
+00:51:48,160 --> 00:51:50,160
+Je me suis fait avoir et pourtant, j'ai 12 ans
+
+906
+00:51:50,160 --> 00:51:52,160
+de carte de presse. Donc, en fait, ça arrive
+
+907
+00:51:52,160 --> 00:51:54,160
+même à un professionnel
+
+908
+00:51:54,160 --> 00:51:56,160
+de l'information et ça continuera
+
+909
+00:51:56,160 --> 00:51:58,160
+à arriver. Et à chaque fois, on se dit
+
+910
+00:51:58,160 --> 00:52:00,160
+« Putain, plus jamais ça m'arrivera ». Mais ça arrive,
+
+911
+00:52:00,160 --> 00:52:02,160
+on est humain et
+
+912
+00:52:02,160 --> 00:52:04,160
+voilà. Donc,
+
+913
+00:52:04,160 --> 00:52:06,160
+en fait, on se forme en permanence.
+
+914
+00:52:06,160 --> 00:52:08,160
+Et je pense que si je suis
+
+915
+00:52:08,160 --> 00:52:10,160
+encore journaliste à 70 ans,
+
+916
+00:52:10,160 --> 00:52:12,160
+je continuerai à faire
+
+917
+00:52:12,160 --> 00:52:14,160
+des erreurs. C'est comme ça. D'ici deux ans, quoi.
+
+918
+00:52:16,160 --> 00:52:18,160
+Après, beaucoup se foutent de la gueule
+
+919
+00:52:18,160 --> 00:52:20,160
+de mon âge. Mais c'est vrai que
+
+920
+00:52:20,160 --> 00:52:22,160
+je suis bientôt à la retraite et c'est bientôt toi
+
+921
+00:52:22,160 --> 00:52:24,160
+qui vas cotiser pour moi, d'ailleurs.
+
+922
+00:52:24,160 --> 00:52:26,160
+Je ne me considère pas du tout journaliste, personnellement.
+
+923
+00:52:26,160 --> 00:52:28,160
+En fait, je n'ai pas
+
+924
+00:52:28,160 --> 00:52:30,160
+de statut particulier, personnellement.
+
+925
+00:52:32,160 --> 00:52:34,160
+En fait, je trouve que
+
+926
+00:52:34,160 --> 00:52:36,160
+le métier de l'information va énormément
+
+927
+00:52:36,160 --> 00:52:38,160
+évoluer dans les années à venir.
+
+928
+00:52:38,160 --> 00:52:40,160
+Et vu que les gens font de moins en moins
+
+929
+00:52:40,160 --> 00:52:42,160
+confiance à la presse, aux médias
+
+930
+00:52:42,160 --> 00:52:44,160
+et vont de moins en moins faire confiance
+
+931
+00:52:44,160 --> 00:52:46,160
+aux influenceurs. Et au final,
+
+932
+00:52:46,160 --> 00:52:48,160
+avec les réseaux sociaux, aujourd'hui,
+
+933
+00:52:48,160 --> 00:52:50,160
+chacun est libre de choisir la source
+
+934
+00:52:50,160 --> 00:52:52,160
+d'information qu'il a envie de choisir.
+
+935
+00:52:52,160 --> 00:52:54,160
+Et c'est aussi ça la beauté d'Internet, aujourd'hui.
+
+936
+00:52:54,160 --> 00:52:56,160
+C'est que, aujourd'hui, s'il y a un truc
+
+937
+00:52:56,160 --> 00:52:58,160
+qui ne te plaît pas, tu peux aller ailleurs.
+
+938
+00:52:58,160 --> 00:53:00,160
+Tu peux créer de l'information par toi-même.
+
+939
+00:53:00,160 --> 00:53:02,160
+Et au final,
+
+940
+00:53:02,160 --> 00:53:04,160
+choisir ce qui te convient le plus.
+
+941
+00:53:04,160 --> 00:53:06,160
+Je suis d'accord.
+
+942
+00:53:06,160 --> 00:53:08,160
+Et pour revenir au débat original,
+
+943
+00:53:08,160 --> 00:53:10,160
+journaliste versus influenceur,
+
+944
+00:53:10,160 --> 00:53:12,160
+parfois, j'ai pu avoir
+
+945
+00:53:12,160 --> 00:53:14,160
+un positionnement assez dur sur l'autre sujet.
+
+946
+00:53:14,160 --> 00:53:16,160
+Mais pourquoi
+
+947
+00:53:16,160 --> 00:53:18,160
+j'ai ce positionnement?
+
+948
+00:53:18,160 --> 00:53:20,160
+Artem, il y a un petit bruit derrière toi.
+
+949
+00:53:20,160 --> 00:53:22,160
+Je suis en train de faire des légo, je suis désolé.
+
+950
+00:53:22,160 --> 00:53:24,160
+Oui, tu fais des trucs de ton genre.
+
+951
+00:53:28,160 --> 00:53:30,160
+Qu'est-ce que je voulais dire?
+
+952
+00:53:30,160 --> 00:53:32,160
+J'ai eu un positionnement parfois un peu dur.
+
+953
+00:53:32,160 --> 00:53:34,160
+Mais il ne faut pas oublier que
+
+954
+00:53:34,160 --> 00:53:36,160
+je suis un journaliste, ce qu'on peut dire,
+
+955
+00:53:36,160 --> 00:53:38,160
+un journaliste à l'ancienne,
+
+956
+00:53:38,160 --> 00:53:40,160
+qui vient des écoles de journalisme,
+
+957
+00:53:40,160 --> 00:53:42,160
+tout ça. Quand je suis arrivé à l'école de journalisme,
+
+958
+00:53:42,160 --> 00:53:44,160
+le problème, c'était la presse gratuite
+
+959
+00:53:44,160 --> 00:53:46,160
+qui arrive et qui va nous mettre tous
+
+960
+00:53:46,160 --> 00:53:48,160
+sur le trottoir.
+
+961
+00:53:48,160 --> 00:53:50,160
+Après, il y a eu la deuxième vague
+
+962
+00:53:50,160 --> 00:53:52,160
+où les influenceurs concurrentent les journalistes.
+
+963
+00:53:52,160 --> 00:53:54,160
+Je me sens
+
+964
+00:53:54,160 --> 00:53:56,160
+attaqué
+
+965
+00:53:56,160 --> 00:53:58,160
+par rapport à ma profession
+
+966
+00:53:58,160 --> 00:54:00,160
+depuis des années.
+
+967
+00:54:00,160 --> 00:54:02,160
+C'est peut-être pour ça que j'ai pu avoir
+
+968
+00:54:02,160 --> 00:54:04,160
+un positionnement agressif
+
+969
+00:54:04,160 --> 00:54:06,160
+sur le sujet.
+
+970
+00:54:06,160 --> 00:54:08,160
+Le truc positif que je trouve génial,
+
+971
+00:54:08,160 --> 00:54:10,160
+c'est que ça nous force à nous réinventer,
+
+972
+00:54:10,160 --> 00:54:12,160
+nous, journalistes.
+
+973
+00:54:12,160 --> 00:54:14,160
+Parce que pendant presque 200 ans,
+
+974
+00:54:14,160 --> 00:54:16,160
+peut-être même plus,
+
+975
+00:54:16,160 --> 00:54:18,160
+les journalistes ne rendaient pas de compte,
+
+976
+00:54:18,160 --> 00:54:20,160
+ou très peu.
+
+977
+00:54:20,160 --> 00:54:22,160
+En plus, en France, le droit de la presse est extrêmement
+
+978
+00:54:22,160 --> 00:54:24,160
+protecteur. Il y a ce côté
+
+979
+00:54:24,160 --> 00:54:26,160
+un peu intouchable.
+
+980
+00:54:26,160 --> 00:54:28,160
+Aujourd'hui, les influenceurs viennent emmerder
+
+981
+00:54:28,160 --> 00:54:30,160
+les journalistes sur leur business model
+
+982
+00:54:30,160 --> 00:54:32,160
+en étant plus innovants. Certes, parfois,
+
+983
+00:54:32,160 --> 00:54:34,160
+avec des pratiques limites pour certains,
+
+984
+00:54:34,160 --> 00:54:36,160
+mais ça force les journalistes
+
+985
+00:54:36,160 --> 00:54:38,160
+à réfléchir, à se réinventer.
+
+986
+00:54:38,160 --> 00:54:40,160
+Je trouve ça très bien.
+
+987
+00:54:40,160 --> 00:54:42,160
+C'est un peu comme
+
+988
+00:54:42,160 --> 00:54:44,160
+quand il y a une innovation qui arrive
+
+989
+00:54:44,160 --> 00:54:46,160
+et le gros groupe, un peu vieillissant,
+
+990
+00:54:46,160 --> 00:54:48,160
+est obligé de se mettre un coup de pied au cul
+
+991
+00:54:48,160 --> 00:54:50,160
+pour faire en sorte
+
+992
+00:54:50,160 --> 00:54:52,160
+de survivre et surtout d'améliorer son produit,
+
+993
+00:54:52,160 --> 00:54:54,160
+d'améliorer ce qu'il fait.
+
+994
+00:54:58,160 --> 00:55:00,160
+Je pense que c'est ce qu'on essaye de faire avec le Big Web.
+
+995
+00:55:02,160 --> 00:55:04,160
+Ils attaquent
+
+996
+00:55:08,160 --> 00:55:10,160
+le système économique
+
+997
+00:55:10,160 --> 00:55:12,160
+des journalistes traditionnels,
+
+998
+00:55:12,160 --> 00:55:14,160
+mais aussi,
+
+999
+00:55:14,160 --> 00:55:16,160
+c'est un truc complètement différent dans le sens où
+
+1000
+00:55:16,160 --> 00:55:18,160
+c'est plus décentralisé,
+
+1001
+00:55:18,160 --> 00:55:20,160
+donc il y a beaucoup plus de concurrence.
+
+1002
+00:55:20,160 --> 00:55:22,160
+Si tu fais de la merde en tant qu'influenceur,
+
+1003
+00:55:22,160 --> 00:55:24,160
+éventuellement, tu vas faire
+
+1004
+00:55:24,160 --> 00:55:26,160
+de la merde qui va te rapporter
+
+1005
+00:55:26,160 --> 00:55:28,160
+beaucoup d'argent, mais à un moment donné,
+
+1006
+00:55:28,160 --> 00:55:30,160
+ce n'est pas
+
+1007
+00:55:32,160 --> 00:55:34,160
+sustainable.
+
+1008
+00:55:36,160 --> 00:55:38,160
+Ce n'est pas durable.
+
+1009
+00:55:38,160 --> 00:55:40,160
+Ce n'est pas long terme.
+
+1010
+00:55:40,160 --> 00:55:42,160
+Le problème avec le journalisme,
+
+1011
+00:55:42,160 --> 00:55:44,160
+c'est que c'est comme un serrail.
+
+1012
+00:55:46,160 --> 00:55:48,160
+Il y a la carte de journaliste,
+
+1013
+00:55:50,160 --> 00:55:52,160
+c'est des gens qui sont sélectionnés,
+
+1014
+00:55:52,160 --> 00:55:54,160
+c'est un truc un peu fermé.
+
+1015
+00:55:56,160 --> 00:55:58,160
+Comme il y a beaucoup moins de concurrence,
+
+1016
+00:55:58,160 --> 00:56:00,160
+quand tu dis de la merde,
+
+1017
+00:56:00,160 --> 00:56:02,160
+il suffit d'attendre un petit peu et tu peux continuer.
+
+1018
+00:56:02,160 --> 00:56:04,160
+Il n'y a pas le sens des responsabilités.
+
+1019
+00:56:04,160 --> 00:56:06,160
+Il y a eu un petit changement
+
+1020
+00:56:06,160 --> 00:56:08,160
+avant les influenceurs.
+
+1021
+00:56:08,160 --> 00:56:10,160
+C'est les commentaires.
+
+1022
+00:56:10,160 --> 00:56:12,160
+Juste les commentaires sur les sites internet.
+
+1023
+00:56:12,160 --> 00:56:14,160
+Pour ceux qui sont un peu plus jeunes
+
+1024
+00:56:14,160 --> 00:56:16,160
+et qui nous écoutent,
+
+1025
+00:56:16,160 --> 00:56:18,160
+les sites internet n'ont pas eu
+
+1026
+00:56:18,160 --> 00:56:20,160
+de section commentaire au tout début.
+
+1027
+00:56:20,160 --> 00:56:22,160
+À un moment, c'est arrivé
+
+1028
+00:56:22,160 --> 00:56:24,160
+et les journalistes étaient obsédés
+
+1029
+00:56:24,160 --> 00:56:26,160
+par les commentaires qu'il y avait
+
+1030
+00:56:26,160 --> 00:56:28,160
+sous leurs articles.
+
+1031
+00:56:28,160 --> 00:56:30,160
+Ils étaient obsédés par les commentaires
+
+1032
+00:56:30,160 --> 00:56:32,160
+qui étaient sous leurs articles.
+
+1033
+00:56:32,160 --> 00:56:34,160
+C'était la première fois que le lecteur,
+
+1034
+00:56:34,160 --> 00:56:36,160
+la personne qui paye,
+
+1035
+00:56:36,160 --> 00:56:38,160
+te dit que tu as fait de la merde.
+
+1036
+00:56:38,160 --> 00:56:40,160
+Les journalistes détestaient ça.
+
+1037
+00:56:40,160 --> 00:56:42,160
+Je trouvais ça génial.
+
+1038
+00:56:42,160 --> 00:56:44,160
+J'étais tout jeune quand j'ai vu ça.
+
+1039
+00:56:46,160 --> 00:56:48,160
+Encore une fois, c'est un truc qui pousse
+
+1040
+00:56:48,160 --> 00:56:50,160
+les journalistes à se confronter
+
+1041
+00:56:50,160 --> 00:56:52,160
+à la réalité, sortir de leur tour d'ivoire
+
+1042
+00:56:52,160 --> 00:56:54,160
+et se mettre un coup de pied au pied.
+
+1043
+00:56:56,160 --> 00:56:58,160
+Oui, effectivement.
+
+1044
+00:56:58,160 --> 00:57:00,160
+C'était un gros défi pour moi.
+
+1045
+00:57:00,160 --> 00:57:02,160
+C'était un gros changement.
+
+1046
+00:57:04,160 --> 00:57:06,160
+Le journalisme, c'est à ça
+
+1047
+00:57:06,160 --> 00:57:08,160
+qu'on l'associe aussi. C'est l'espèce de verticalité.
+
+1048
+00:57:08,160 --> 00:57:10,160
+Ceux qui envoient
+
+1049
+00:57:10,160 --> 00:57:12,160
+l'information et tu as les autres,
+
+1050
+00:57:12,160 --> 00:57:14,160
+ceux qui consomment l'information des journalistes
+
+1051
+00:57:14,160 --> 00:57:16,160
+qui la reçoivent. Alors que là,
+
+1052
+00:57:16,160 --> 00:57:18,160
+l'écosystème des influenceurs
+
+1053
+00:57:18,160 --> 00:57:20,160
+est vraiment différent. Tout le monde est éventuellement
+
+1054
+00:57:20,160 --> 00:57:22,160
+un producteur d'informations
+
+1055
+00:57:22,160 --> 00:57:24,160
+et un receveur d'informations.
+
+1056
+00:57:24,160 --> 00:57:26,160
+Tout le monde est éventuellement un influenceur.
+
+1057
+00:57:26,160 --> 00:57:28,160
+La dynamique est complètement différente
+
+1058
+00:57:28,160 --> 00:57:30,160
+par rapport au système
+
+1059
+00:57:30,160 --> 00:57:32,160
+plus traditionnel.
+
+1060
+00:57:32,160 --> 00:57:34,160
+Par design, un influenceur
+
+1061
+00:57:34,160 --> 00:57:36,160
+vient du monde
+
+1062
+00:57:36,160 --> 00:57:38,160
+numérique le plus avancé.
+
+1063
+00:57:38,160 --> 00:57:40,160
+Le journaliste, c'est une très
+
+1064
+00:57:40,160 --> 00:57:42,160
+vieille profession qui remonte
+
+1065
+00:57:42,160 --> 00:57:44,160
+à... je ne saurais même
+
+1066
+00:57:44,160 --> 00:57:46,160
+pas vous dire, presque à l'imprimerie.
+
+1067
+00:57:46,160 --> 00:57:48,160
+T'as naissance, au final.
+
+1068
+00:57:48,160 --> 00:57:50,160
+Oui, voilà.
+
+1069
+00:57:50,160 --> 00:57:52,160
+Je savais qu'elle allait venir s'enfuir.
+
+1070
+00:57:52,160 --> 00:57:54,160
+Je crois que ce n'est pas la dernière.
+
+1071
+00:57:54,160 --> 00:57:56,160
+C'est un très vieux métier
+
+1072
+00:57:56,160 --> 00:57:58,160
+qui a subi
+
+1073
+00:57:58,160 --> 00:58:00,160
+un choc énorme
+
+1074
+00:58:00,160 --> 00:58:02,160
+avec l'arrivée d'Internet.
+
+1075
+00:58:02,160 --> 00:58:04,160
+Depuis,
+
+1076
+00:58:04,160 --> 00:58:06,160
+ce métier-là cherche son modèle
+
+1077
+00:58:06,160 --> 00:58:08,160
+économique. Il n'est pas
+
+1078
+00:58:08,160 --> 00:58:10,160
+encore totalement trouvé.
+
+1079
+00:58:10,160 --> 00:58:12,160
+Il y a des vagues d'innovation.
+
+1080
+00:58:12,160 --> 00:58:14,160
+On parlait des commentaires,
+
+1081
+00:58:14,160 --> 00:58:16,160
+il y a l'arrivée des influenceurs,
+
+1082
+00:58:16,160 --> 00:58:18,160
+il y a tout ça.
+
+1083
+00:58:18,160 --> 00:58:20,160
+Tous les 3-4 ans, il y a un nouveau truc qui vient mettre
+
+1084
+00:58:20,160 --> 00:58:22,160
+un énorme taquet à cette vieille
+
+1085
+00:58:22,160 --> 00:58:24,160
+et honorable profession que
+
+1086
+00:58:24,160 --> 00:58:26,160
+j'adore, mais qui se débat
+
+1087
+00:58:26,160 --> 00:58:28,160
+dans ce monde qui
+
+1088
+00:58:28,160 --> 00:58:30,160
+bouge et qui devient de plus en plus
+
+1089
+00:58:30,160 --> 00:58:32,160
+numérique. C'est difficile.
+
+1090
+00:58:32,160 --> 00:58:34,160
+En tout cas, c'est
+
+1091
+00:58:34,160 --> 00:58:36,160
+très intéressant de voir tout ça
+
+1092
+00:58:36,160 --> 00:58:38,160
+bouger.
+
+1093
+00:58:38,160 --> 00:58:40,160
+Je propose de lire les commentaires suivants.
+
+1094
+00:58:40,160 --> 00:58:42,160
+Il y en a d'autres. Il y a Wonda
+
+1095
+00:58:42,160 --> 00:58:44,160
+qui a écrit, dans quelle mesure
+
+1096
+00:58:44,160 --> 00:58:46,160
+les journalistes français ne sont-ils pas
+
+1097
+00:58:46,160 --> 00:58:48,160
+les relais de news US ou Asiat?
+
+1098
+00:58:48,160 --> 00:58:50,160
+Avez-vous des sources au plus
+
+1099
+00:58:50,160 --> 00:58:52,160
+près des écosystèmes in situ?
+
+1100
+00:58:52,160 --> 00:58:54,160
+C'est une très bonne
+
+1101
+00:58:54,160 --> 00:58:56,160
+question.
+
+1102
+00:58:56,160 --> 00:58:58,160
+Quand on a lancé The Big Web,
+
+1103
+00:58:58,160 --> 00:59:00,160
+on a fait le constat
+
+1104
+00:59:00,160 --> 00:59:02,160
+que la plupart des news
+
+1105
+00:59:02,160 --> 00:59:04,160
+cryptos, les grandes news cryptos
+
+1106
+00:59:04,160 --> 00:59:06,160
+qui sont relayées en France,
+
+1107
+00:59:06,160 --> 00:59:08,160
+sont issues de sources médiatiques
+
+1108
+00:59:08,160 --> 00:59:10,160
+américaines. On peut parler de
+
+1109
+00:59:10,160 --> 00:59:12,160
+The Block par exemple, mais il y en a
+
+1110
+00:59:12,160 --> 00:59:14,160
+d'autres. Et ça, c'est
+
+1111
+00:59:14,160 --> 00:59:16,160
+un vrai problème parce que
+
+1112
+00:59:16,160 --> 00:59:18,160
+étant donné qu'il y a,
+
+1113
+00:59:18,160 --> 00:59:20,160
+je ne parle pas vraiment de la situation actuelle,
+
+1114
+00:59:20,160 --> 00:59:22,160
+mais il y a encore quelques années,
+
+1115
+00:59:22,160 --> 00:59:24,160
+on n'était pas
+
+1116
+00:59:24,160 --> 00:59:26,160
+au courant de ce qui se faisait en France
+
+1117
+00:59:26,160 --> 00:59:28,160
+parce que les médias français
+
+1118
+00:59:28,160 --> 00:59:30,160
+étaient vraiment tournés sur les US.
+
+1119
+00:59:30,160 --> 00:59:32,160
+Les médias français n'avaient pas fait assez d'interviews,
+
+1120
+00:59:32,160 --> 00:59:34,160
+n'avaient pas assez posé de questions
+
+1121
+00:59:34,160 --> 00:59:36,160
+aux gens du secteur en France,
+
+1122
+00:59:36,160 --> 00:59:38,160
+ce qui s'explique facilement
+
+1123
+00:59:38,160 --> 00:59:40,160
+parce que, par exemple, le JDC
+
+1124
+00:59:40,160 --> 00:59:42,160
+qui est vraiment le pionnier, n'avait
+
+1125
+00:59:42,160 --> 00:59:44,160
+pas les moyens d'embaucher
+
+1126
+00:59:44,160 --> 00:59:46,160
+100 journalistes pour couvrir toute l'Europe,
+
+1127
+00:59:46,160 --> 00:59:48,160
+ce qui est normal.
+
+1128
+00:59:48,160 --> 00:59:50,160
+Et en fait, il y a eu ce
+
+1129
+00:59:50,160 --> 00:59:52,160
+prisme américain tout de suite.
+
+1130
+00:59:52,160 --> 00:59:54,160
+Et nous, on se bat
+
+1131
+00:59:54,160 --> 00:59:56,160
+contre ça. Bien sûr, il y a
+
+1132
+00:59:56,160 --> 00:59:58,160
+les informations sectorielles
+
+1133
+00:59:58,160 --> 01:00:00,160
+de toute première importance
+
+1134
+01:00:00,160 --> 01:00:02,160
+type l'ETF, Bitcoin,
+
+1135
+01:00:02,160 --> 01:00:04,160
+là, on ne pourra pas
+
+1136
+01:00:04,160 --> 01:00:06,160
+avoir d'informations exclusives
+
+1137
+01:00:06,160 --> 01:00:08,160
+là-dessus, ça viendra des Etats-Unis, mais
+
+1138
+01:00:08,160 --> 01:00:10,160
+il y a énormément d'entreprises
+
+1139
+01:00:10,160 --> 01:00:12,160
+françaises, européennes
+
+1140
+01:00:12,160 --> 01:00:14,160
+qui ont besoin de faire parler d'elles,
+
+1141
+01:00:14,160 --> 01:00:16,160
+qui ont besoin de raconter ce qu'elles font, parce que c'est vital
+
+1142
+01:00:16,160 --> 01:00:18,160
+pour leur développement. Et quand on estime
+
+1143
+01:00:18,160 --> 01:00:20,160
+qu'une boîte, elle fait
+
+1144
+01:00:20,160 --> 01:00:22,160
+des trucs bien, que les gens ont
+
+1145
+01:00:22,160 --> 01:00:24,160
+une bonne vision derrière, on fait tout
+
+1146
+01:00:24,160 --> 01:00:26,160
+pour qu'ils aient de l'exposition.
+
+1147
+01:00:26,160 --> 01:00:28,160
+Et à travers ça, on a lancé une plateforme
+
+1148
+01:00:28,160 --> 01:00:30,160
+qui s'appelle The Ocean, qui référence
+
+1149
+01:00:30,160 --> 01:00:32,160
+tout, en tout cas
+
+1150
+01:00:32,160 --> 01:00:34,160
+qui a l'ambition de référencer absolument tous
+
+1151
+01:00:34,160 --> 01:00:36,160
+les projets Web3,
+
+1152
+01:00:36,160 --> 01:00:38,160
+d'abord européens
+
+1153
+01:00:38,160 --> 01:00:40,160
+et puis mondiaux, pour qu'en fait
+
+1154
+01:00:40,160 --> 01:00:42,160
+on soit tous au courant
+
+1155
+01:00:42,160 --> 01:00:44,160
+de ce qui se fait, et qu'on ne soit pas
+
+1156
+01:00:44,160 --> 01:00:46,160
+écrasé en fait par
+
+1157
+01:00:46,160 --> 01:00:48,160
+le prisme américain en permanence.
+
+1158
+01:00:48,160 --> 01:00:50,160
+Ouais, je suis complètement d'accord
+
+1159
+01:00:50,160 --> 01:00:52,160
+avec toi. C'est vrai que c'est une très bonne question.
+
+1160
+01:00:52,160 --> 01:00:54,160
+C'est vrai que c'est quasiment un cauchemar
+
+1161
+01:00:54,160 --> 01:00:56,160
+en fait. Tu vois une news, tu vois un
+
+1162
+01:00:56,160 --> 01:00:58,160
+truc, un breaking
+
+1163
+01:00:58,160 --> 01:01:00,160
+news sur un compte
+
+1164
+01:01:00,160 --> 01:01:02,160
+bien connu, genre
+
+1165
+01:01:02,160 --> 01:01:04,160
+usualways ou je sais pas trop quoi, et puis
+
+1166
+01:01:04,160 --> 01:01:06,160
+t'as tous les comptes français qui reprennent
+
+1167
+01:01:06,160 --> 01:01:08,160
+le même truc.
+
+1168
+01:01:08,160 --> 01:01:10,160
+C'est ça, c'est ça, après tu vois
+
+1169
+01:01:10,160 --> 01:01:12,160
+ça existe dans
+
+1170
+01:01:12,160 --> 01:01:14,160
+l'information financière traditionnelle aussi.
+
+1171
+01:01:14,160 --> 01:01:16,160
+Il y a ce lead des Etats-Unis
+
+1172
+01:01:16,160 --> 01:01:18,160
+et tu vois tout ce
+
+1173
+01:01:18,160 --> 01:01:20,160
+que fait The Block,
+
+1174
+01:01:20,160 --> 01:01:22,160
+c'est exactement comme tout ce que
+
+1175
+01:01:22,160 --> 01:01:24,160
+fait Bloomberg, ça a un impact
+
+1176
+01:01:24,160 --> 01:01:26,160
+énorme, énorme, énorme.
+
+1177
+01:01:26,160 --> 01:01:28,160
+Et puis pour la plupart il y a aussi
+
+1178
+01:01:28,160 --> 01:01:30,160
+pas le choix, et en fait je trouve
+
+1179
+01:01:30,160 --> 01:01:32,160
+qu'en fait on parle beaucoup de
+
+1180
+01:01:32,160 --> 01:01:34,160
+médias d'information,
+
+1181
+01:01:34,160 --> 01:01:36,160
+depuis tout à l'heure, mais il y a également d'autres
+
+1182
+01:01:36,160 --> 01:01:38,160
+médias qui font de l'éducation, il y a des médias
+
+1183
+01:01:38,160 --> 01:01:40,160
+qui peuvent faire des enquêtes
+
+1184
+01:01:40,160 --> 01:01:42,160
+et des médias qui peuvent faire d'autres choses
+
+1185
+01:01:42,160 --> 01:01:44,160
+que juste de relier l'info,
+
+1186
+01:01:44,160 --> 01:01:46,160
+et je pense qu'il y a aussi ça à prendre en compte
+
+1187
+01:01:46,160 --> 01:01:48,160
+dans le sens où des fois, oui,
+
+1188
+01:01:48,160 --> 01:01:50,160
+pour les news, on sera
+
+1189
+01:01:50,160 --> 01:01:52,160
+pratiquement toujours obligé de passer
+
+1190
+01:01:52,160 --> 01:01:54,160
+par les sources anglophones,
+
+1191
+01:01:54,160 --> 01:01:56,160
+mais ensuite sur le côté éducationnel,
+
+1192
+01:01:56,160 --> 01:01:58,160
+sur le côté vulgarisation,
+
+1193
+01:01:58,160 --> 01:02:00,160
+sur les côtés explications des projets,
+
+1194
+01:02:00,160 --> 01:02:02,160
+avoir ses propres
+
+1195
+01:02:02,160 --> 01:02:04,160
+idées sur l'écosystème, etc.
+
+1196
+01:02:04,160 --> 01:02:06,160
+Là pour le coup je trouve que les médias français sont
+
+1197
+01:02:06,160 --> 01:02:08,160
+quand même bien présents et ont quand même un bon niveau.
+
+1198
+01:02:08,160 --> 01:02:10,160
+On est totalement d'accord et en plus chacun
+
+1199
+01:02:10,160 --> 01:02:12,160
+a un peu sa spécialité.
+
+1200
+01:02:12,160 --> 01:02:14,160
+Nous,
+
+1201
+01:02:14,160 --> 01:02:16,160
+on fait quand même pas mal d'investigations,
+
+1202
+01:02:16,160 --> 01:02:18,160
+peut-être un peu moins en ce moment,
+
+1203
+01:02:18,160 --> 01:02:20,160
+mais on est vraiment,
+
+1204
+01:02:20,160 --> 01:02:22,160
+on se concentre sur des interviews
+
+1205
+01:02:22,160 --> 01:02:24,160
+de leaders,
+
+1206
+01:02:24,160 --> 01:02:26,160
+on adresse surtout
+
+1207
+01:02:26,160 --> 01:02:28,160
+les institutionnels
+
+1208
+01:02:28,160 --> 01:02:30,160
+traditionnels,
+
+1209
+01:02:30,160 --> 01:02:32,160
+on veut leur faire découvrir cet écosystème.
+
+1210
+01:02:32,160 --> 01:02:34,160
+Nous c'est notre spécificité.
+
+1211
+01:02:34,160 --> 01:02:36,160
+Cryptos par exemple, je pense qu'il n'y a pas
+
+1212
+01:02:36,160 --> 01:02:38,160
+de mieux en termes de pédagogie.
+
+1213
+01:02:38,160 --> 01:02:40,160
+C'est exceptionnel le boulot
+
+1214
+01:02:40,160 --> 01:02:42,160
+qu'ils ont abattu.
+
+1215
+01:02:42,160 --> 01:02:44,160
+Artef, je ne vais pas parler à ta place
+
+1216
+01:02:44,160 --> 01:02:46,160
+sur ce que vous faites,
+
+1217
+01:02:46,160 --> 01:02:48,160
+mais chacun sa spécificité.
+
+1218
+01:02:50,160 --> 01:02:52,160
+Oui et puis je pense qu'il y a assez de place
+
+1219
+01:02:52,160 --> 01:02:54,160
+pour tout le monde aussi. Je pense que la réalité
+
+1220
+01:02:54,160 --> 01:02:56,160
+c'est que chacun
+
+1221
+01:02:56,160 --> 01:02:58,160
+trouve là où il est le mieux
+
+1222
+01:02:58,160 --> 01:03:00,160
+et s'il arrive à se trouver
+
+1223
+01:03:00,160 --> 01:03:02,160
+une place dans ce secteur, sachant qu'il y a encore
+
+1224
+01:03:02,160 --> 01:03:04,160
+de la place aujourd'hui, on voit
+
+1225
+01:03:04,160 --> 01:03:06,160
+qu'il y a des gens qui font plutôt de l'agrégation,
+
+1226
+01:03:06,160 --> 01:03:08,160
+qui font très peu de news par eux-mêmes,
+
+1227
+01:03:08,160 --> 01:03:10,160
+qui vont reprendre les articles
+
+1228
+01:03:10,160 --> 01:03:12,160
+des différentes autres sources,
+
+1229
+01:03:12,160 --> 01:03:14,160
+que ce soit CryptoHost, JDC ou autres.
+
+1230
+01:03:14,160 --> 01:03:16,160
+Et au final, les gens ont besoin de ça
+
+1231
+01:03:16,160 --> 01:03:18,160
+et je parlais tout à l'heure des agrégateurs,
+
+1232
+01:03:18,160 --> 01:03:20,160
+mais c'est exactement la même chose.
+
+1233
+01:03:20,160 --> 01:03:22,160
+On a besoin de ces acteurs-là,
+
+1234
+01:03:22,160 --> 01:03:24,160
+on a besoin des acteurs qui vont faire des investigations,
+
+1235
+01:03:24,160 --> 01:03:26,160
+on a besoin des personnes qui vont aller tester
+
+1236
+01:03:26,160 --> 01:03:28,160
+les différents protocoles pour dire si c'est bien ou pas.
+
+1237
+01:03:28,160 --> 01:03:30,160
+On a besoin des personnes comme par exemple
+
+1238
+01:03:30,160 --> 01:03:32,160
+Oslo qui lui va aller
+
+1239
+01:03:32,160 --> 01:03:34,160
+investiguer les différents projets
+
+1240
+01:03:34,160 --> 01:03:36,160
+et mettre en avant les différentes choses qui se passent en Europe
+
+1241
+01:03:36,160 --> 01:03:38,160
+au niveau de la blockchain.
+
+1242
+01:03:38,160 --> 01:03:40,160
+Quand on fait nos dossiers,
+
+1243
+01:03:40,160 --> 01:03:42,160
+on essaie aussi d'apporter quelque chose de plus
+
+1244
+01:03:42,160 --> 01:03:44,160
+et qu'on ne retrouve pas forcément sur le paysage français.
+
+1245
+01:03:44,160 --> 01:03:46,160
+Donc en fait, je trouve que
+
+1246
+01:03:46,160 --> 01:03:48,160
+chacun a sa place dans cet écosystème-là
+
+1247
+01:03:48,160 --> 01:03:50,160
+et ensuite, il faut juste
+
+1248
+01:03:50,160 --> 01:03:52,160
+essayer de tenir cette place-là
+
+1249
+01:03:52,160 --> 01:03:54,160
+tout en faisant du bien
+
+1250
+01:03:54,160 --> 01:03:56,160
+à l'écosystème.
+
+1251
+01:03:56,160 --> 01:03:58,160
+Oui, bien sûr.
+
+1252
+01:03:58,160 --> 01:04:00,160
+Des fois,
+
+1253
+01:04:00,160 --> 01:04:02,160
+la question,
+
+1254
+01:04:02,160 --> 01:04:04,160
+ça veut dire quoi faire du bien à l'écosystème?
+
+1255
+01:04:04,160 --> 01:04:06,160
+Est-ce que des fois,
+
+1256
+01:04:06,160 --> 01:04:08,160
+ça ne veut pas dire aussi trop le protéger?
+
+1257
+01:04:08,160 --> 01:04:10,160
+Ce sont des choses que je remarque quand même
+
+1258
+01:04:10,160 --> 01:04:12,160
+dans l'écosystème
+
+1259
+01:04:12,160 --> 01:04:14,160
+et je trouve ça un peu dommage.
+
+1260
+01:04:14,160 --> 01:04:16,160
+Des fois, il y a un peu cette tendance
+
+1261
+01:04:16,160 --> 01:04:18,160
+à ce que tout le monde se protège
+
+1262
+01:04:18,160 --> 01:04:20,160
+parce que sinon, ça pourrait faire tomber
+
+1263
+01:04:20,160 --> 01:04:22,160
+le château de cartes.
+
+1264
+01:04:22,160 --> 01:04:24,160
+Donc,
+
+1265
+01:04:24,160 --> 01:04:26,160
+je pense qu'il faut que tous les médias
+
+1266
+01:04:26,160 --> 01:04:28,160
+gardent quand même
+
+1267
+01:04:28,160 --> 01:04:30,160
+cette indépendance d'esprit
+
+1268
+01:04:30,160 --> 01:04:32,160
+et des fois, si ces médias sont au courant
+
+1269
+01:04:32,160 --> 01:04:34,160
+d'un truc qui va piquer,
+
+1270
+01:04:34,160 --> 01:04:36,160
+qui va faire mal, il faut qu'ils soient
+
+1271
+01:04:36,160 --> 01:04:38,160
+capables de sortir le truc.
+
+1272
+01:04:38,160 --> 01:04:40,160
+C'est très important.
+
+1273
+01:04:40,160 --> 01:04:42,160
+D'un côté, je suis d'accord et de l'autre côté,
+
+1274
+01:04:42,160 --> 01:04:44,160
+ça peut aussi être subjectif.
+
+1275
+01:04:44,160 --> 01:04:46,160
+Il y a des informations que certains ne vont pas traiter
+
+1276
+01:04:46,160 --> 01:04:48,160
+parce que c'est un choix aussi de ne pas traiter
+
+1277
+01:04:48,160 --> 01:04:50,160
+certaines informations.
+
+1278
+01:04:50,160 --> 01:04:52,160
+Aujourd'hui, si on traitait toutes les informations,
+
+1279
+01:04:52,160 --> 01:04:54,160
+ça n'aurait aucun sens.
+
+1280
+01:04:54,160 --> 01:04:56,160
+Ensuite, si par exemple, il y a une plateforme française
+
+1281
+01:04:56,160 --> 01:04:58,160
+qui est en train de faire faillite
+
+1282
+01:04:58,160 --> 01:05:00,160
+et qu'on dit qu'on a eu
+
+1283
+01:05:00,160 --> 01:05:02,160
+les documents sur leur
+
+1284
+01:05:02,160 --> 01:05:04,160
+état de santé,
+
+1285
+01:05:04,160 --> 01:05:06,160
+on voit que ça pue la merde,
+
+1286
+01:05:06,160 --> 01:05:08,160
+pensez peut-être à retirer les fonds,
+
+1287
+01:05:08,160 --> 01:05:10,160
+je ne pense pas que les gens
+
+1288
+01:05:10,160 --> 01:05:12,160
+seraient contre ça. Mais après, je trouve
+
+1289
+01:05:12,160 --> 01:05:14,160
+qu'il y a des fois du drama
+
+1290
+01:05:14,160 --> 01:05:16,160
+et des attaques qui ne sont pas forcément
+
+1291
+01:05:16,160 --> 01:05:18,160
+légitimes
+
+1292
+01:05:18,160 --> 01:05:20,160
+ou qui sont forcément pertinentes
+
+1293
+01:05:20,160 --> 01:05:22,160
+qui ont lieu.
+
+1294
+01:05:22,160 --> 01:05:24,160
+Je peux comprendre aussi certaines personnes
+
+1295
+01:05:24,160 --> 01:05:26,160
+qui ne sont pas d'accord avec ça.
+
+1296
+01:05:26,160 --> 01:05:28,160
+Je comprends qu'il y a ce côté de protection
+
+1297
+01:05:28,160 --> 01:05:30,160
+de certains acteurs
+
+1298
+01:05:30,160 --> 01:05:32,160
+ou de certains positionnements
+
+1299
+01:05:32,160 --> 01:05:34,160
+plutôt parce qu'on ne protège pas les acteurs
+
+1300
+01:05:34,160 --> 01:05:36,160
+mais on protège plutôt le rôle
+
+1301
+01:05:36,160 --> 01:05:38,160
+qu'ils jouent dans l'écosystème
+
+1302
+01:05:38,160 --> 01:05:40,160
+et plutôt
+
+1303
+01:05:40,160 --> 01:05:42,160
+ce qu'ils...
+
+1304
+01:05:42,160 --> 01:05:44,160
+leur métier
+
+1305
+01:05:44,160 --> 01:05:46,160
+et leur façon d'exister.
+
+1306
+01:05:46,160 --> 01:05:48,160
+On protège plus ça
+
+1307
+01:05:48,160 --> 01:05:50,160
+que les acteurs en eux-mêmes.
+
+1308
+01:05:50,160 --> 01:05:52,160
+En tout cas, c'est ma vision des choses.
+
+1309
+01:05:52,160 --> 01:05:54,160
+Oui, mais qui est respectable.
+
+1310
+01:05:54,160 --> 01:05:56,160
+Après, moi, ma vision, c'est que
+
+1311
+01:05:56,160 --> 01:05:58,160
+je parle à mes lecteurs,
+
+1312
+01:05:58,160 --> 01:06:00,160
+on parle
+
+1313
+01:06:00,160 --> 01:06:02,160
+à nos lecteurs
+
+1314
+01:06:02,160 --> 01:06:04,160
+et c'est leur seul intérêt qui compte.
+
+1315
+01:06:04,160 --> 01:06:06,160
+On ne va pas
+
+1316
+01:06:06,160 --> 01:06:08,160
+protéger un acteur
+
+1317
+01:06:08,160 --> 01:06:10,160
+plus qu'un autre. C'est de quoi
+
+1318
+01:06:10,160 --> 01:06:12,160
+nos lecteurs ont besoin.
+
+1319
+01:06:12,160 --> 01:06:14,160
+Tu vois, ça, c'est le côté
+
+1320
+01:06:14,160 --> 01:06:16,160
+très journaliste à l'ancienne,
+
+1321
+01:06:16,160 --> 01:06:18,160
+parfois peut-être un peu vieux con.
+
+1322
+01:06:18,160 --> 01:06:20,160
+Mais c'est ce qu'on nous apprend
+
+1323
+01:06:20,160 --> 01:06:22,160
+à l'école, en fait. C'est l'intérêt du public
+
+1324
+01:06:22,160 --> 01:06:24,160
+qui prime surtout.
+
+1325
+01:06:24,160 --> 01:06:26,160
+Ah oui, oui, mais ça,
+
+1326
+01:06:26,160 --> 01:06:28,160
+je suis d'accord avec ça.
+
+1327
+01:06:28,160 --> 01:06:30,160
+Mais ensuite, encore une fois, je trouve
+
+1328
+01:06:30,160 --> 01:06:32,160
+que chaque média, malgré
+
+1329
+01:06:32,160 --> 01:06:34,160
+peu importe son...
+
+1330
+01:06:34,160 --> 01:06:36,160
+son business model
+
+1331
+01:06:36,160 --> 01:06:38,160
+ou peu importe son origine,
+
+1332
+01:06:38,160 --> 01:06:40,160
+aura
+
+1333
+01:06:40,160 --> 01:06:42,160
+d'une façon ou d'une autre
+
+1334
+01:06:42,160 --> 01:06:44,160
+un certain positionnement
+
+1335
+01:06:44,160 --> 01:06:46,160
+par rapport à certaines choses
+
+1336
+01:06:46,160 --> 01:06:48,160
+que les autres ne sont pas forcément capables
+
+1337
+01:06:48,160 --> 01:06:50,160
+d'accepter ou auxquelles les autres
+
+1338
+01:06:50,160 --> 01:06:52,160
+n'adhèrent pas forcément.
+
+1339
+01:06:52,160 --> 01:06:54,160
+Mais ce n'est pas pour autant que
+
+1340
+01:06:54,160 --> 01:06:56,160
+leur travail est moins bien,
+
+1341
+01:06:56,160 --> 01:06:58,160
+on va dire.
+
+1342
+01:06:58,160 --> 01:07:00,160
+Oui, c'est sûr.
+
+1343
+01:07:00,160 --> 01:07:02,160
+En fait,
+
+1344
+01:07:02,160 --> 01:07:04,160
+chaque média ne peut pas plaire à tout le monde,
+
+1345
+01:07:04,160 --> 01:07:06,160
+chaque journaliste ne peut pas plaire à tout le monde.
+
+1346
+01:07:06,160 --> 01:07:08,160
+Il y a des positionnements différents
+
+1347
+01:07:08,160 --> 01:07:10,160
+et chacun doit faire son choix
+
+1348
+01:07:10,160 --> 01:07:12,160
+et trouvera son
+
+1349
+01:07:12,160 --> 01:07:14,160
+journal préféré. Par exemple, quelqu'un
+
+1350
+01:07:14,160 --> 01:07:16,160
+qui est fan de Libération
+
+1351
+01:07:16,160 --> 01:07:18,160
+ou quelqu'un qui aime El Figaro. Et inversement,
+
+1352
+01:07:18,160 --> 01:07:20,160
+pourtant, ce sont tous les deux des excellents journaux.
+
+1353
+01:07:20,160 --> 01:07:22,160
+Et voilà, chacun fait son choix.
+
+1354
+01:07:22,160 --> 01:07:24,160
+Le problème que vous avez soulevé
+
+1355
+01:07:24,160 --> 01:07:26,160
+pour l'histoire des dramas
+
+1356
+01:07:26,160 --> 01:07:28,160
+et tout, c'est marrant
+
+1357
+01:07:28,160 --> 01:07:30,160
+parce que ça, les derniers événements,
+
+1358
+01:07:30,160 --> 01:07:32,160
+en tout cas personnellement, m'ont fait
+
+1359
+01:07:32,160 --> 01:07:34,160
+mettre un petit peu d'eau dans mon vin par rapport
+
+1360
+01:07:34,160 --> 01:07:36,160
+à la critique que j'avais sur
+
+1361
+01:07:36,160 --> 01:07:38,160
+le monde traditionnel. Je disais que
+
+1362
+01:07:38,160 --> 01:07:40,160
+je trouvais que c'était vraiment un monde vraiment
+
+1363
+01:07:40,160 --> 01:07:42,160
+clos, les mecs se protégeaient les uns les autres
+
+1364
+01:07:42,160 --> 01:07:44,160
+et que c'était vraiment
+
+1365
+01:07:44,160 --> 01:07:46,160
+justement le problème de la responsabilité,
+
+1366
+01:07:46,160 --> 01:07:48,160
+etc. Et on a vu avec les dramas
+
+1367
+01:07:48,160 --> 01:07:50,160
+récents, justement, avec les
+
+1368
+01:07:50,160 --> 01:07:52,160
+histoires pour finalement
+
+1369
+01:07:52,160 --> 01:07:54,160
+arriver au sujet
+
+1370
+01:07:54,160 --> 01:07:56,160
+du contenu payant,
+
+1371
+01:07:56,160 --> 01:07:58,160
+mentionné par Agathe,
+
+1372
+01:07:58,160 --> 01:08:00,160
+avec les histoires de promotions,
+
+1373
+01:08:00,160 --> 01:08:02,160
+de projets douteux,
+
+1374
+01:08:02,160 --> 01:08:04,160
+etc. Finalement,
+
+1375
+01:08:04,160 --> 01:08:06,160
+je me suis aperçu que c'était
+
+1376
+01:08:06,160 --> 01:08:08,160
+beaucoup plus complexe que
+
+1377
+01:08:08,160 --> 01:08:10,160
+ça en a l'air, dans la
+
+1378
+01:08:10,160 --> 01:08:12,160
+mesure où, pas forcément
+
+1379
+01:08:12,160 --> 01:08:14,160
+parce que les gens qui t'entourent
+
+1380
+01:08:14,160 --> 01:08:16,160
+sont forcément tes amis proches ou quoi,
+
+1381
+01:08:16,160 --> 01:08:18,160
+mais aussi parce que
+
+1382
+01:08:18,160 --> 01:08:20,160
+ce n'est pas qu'un univers de compétition.
+
+1383
+01:08:20,160 --> 01:08:22,160
+C'est vrai parce que c'est décentralisé
+
+1384
+01:08:22,160 --> 01:08:24,160
+que tout le monde est en train
+
+1385
+01:08:24,160 --> 01:08:26,160
+de se battre les uns contre les autres.
+
+1386
+01:08:26,160 --> 01:08:28,160
+C'est aussi un univers de coopération.
+
+1387
+01:08:28,160 --> 01:08:30,160
+Et du coup, tu n'as pas envie non plus de
+
+1388
+01:08:30,160 --> 01:08:32,160
+lyncher
+
+1389
+01:08:32,160 --> 01:08:34,160
+quelqu'un qui a fait une erreur
+
+1390
+01:08:34,160 --> 01:08:36,160
+ou même plusieurs. Déjà parce que
+
+1391
+01:08:36,160 --> 01:08:38,160
+tu as envie de
+
+1392
+01:08:38,160 --> 01:08:40,160
+continuer à coopérer dans cet écosystème,
+
+1393
+01:08:40,160 --> 01:08:42,160
+mais aussi parce que tu te rends compte que ça pourrait être toi aussi.
+
+1394
+01:08:42,160 --> 01:08:46,160
+Tu pourrais éventuellement faire les mêmes erreurs.
+
+1395
+01:08:46,160 --> 01:08:48,160
+On l'a vu avec, par exemple, FTX.
+
+1396
+01:08:48,160 --> 01:08:50,160
+Il y a beaucoup
+
+1397
+01:08:50,160 --> 01:08:52,160
+qui ont
+
+1398
+01:08:52,160 --> 01:08:54,160
+trompé dedans sans le vouloir.
+
+1399
+01:08:54,160 --> 01:08:56,160
+Et ça, c'est un gros...
+
+1400
+01:08:56,160 --> 01:08:58,160
+C'est hyper complexe.
+
+1401
+01:08:58,160 --> 01:09:00,160
+C'est très intéressant, je trouve, philosophiquement parlant aussi.
+
+1402
+01:09:00,160 --> 01:09:02,160
+Oui, c'est très intéressant.
+
+1403
+01:09:02,160 --> 01:09:04,160
+Mais
+
+1404
+01:09:04,160 --> 01:09:06,160
+malheureusement, un média ne gère
+
+1405
+01:09:06,160 --> 01:09:08,160
+pas des fonds, ne gère pas les fonds
+
+1406
+01:09:08,160 --> 01:09:10,160
+d'investisseurs.
+
+1407
+01:09:10,160 --> 01:09:12,160
+Donc, c'est très différent.
+
+1408
+01:09:12,160 --> 01:09:14,160
+Mais je pense qu'en fait, le boulot de
+
+1409
+01:09:14,160 --> 01:09:16,160
+journaliste, il doit avoir
+
+1410
+01:09:16,160 --> 01:09:18,160
+un petit pas de côté. Même s'il fait
+
+1411
+01:09:18,160 --> 01:09:20,160
+partie d'un écosystème, même s'il est dépendant
+
+1412
+01:09:20,160 --> 01:09:22,160
+d'un écosystème,
+
+1413
+01:09:22,160 --> 01:09:24,160
+il doit
+
+1414
+01:09:24,160 --> 01:09:26,160
+être différent des autres.
+
+1415
+01:09:26,160 --> 01:09:28,160
+En fait, un média
+
+1416
+01:09:28,160 --> 01:09:30,160
+Web3, c'est pas
+
+1417
+01:09:30,160 --> 01:09:32,160
+comme... C'est pas la même chose
+
+1418
+01:09:32,160 --> 01:09:34,160
+que Ledger, Saurart ou n'importe quoi.
+
+1419
+01:09:34,160 --> 01:09:36,160
+C'est autre chose.
+
+1420
+01:09:36,160 --> 01:09:38,160
+Et c'est son indépendance qui montrera,
+
+1421
+01:09:38,160 --> 01:09:40,160
+qui fera évoluer
+
+1422
+01:09:40,160 --> 01:09:42,160
+avec une plus grande
+
+1423
+01:09:42,160 --> 01:09:44,160
+maturité ce secteur.
+
+1424
+01:09:44,160 --> 01:09:46,160
+Je pense.
+
+1425
+01:09:46,160 --> 01:09:48,160
+L'indépendance du média?
+
+1426
+01:09:50,160 --> 01:09:52,160
+Comment dire?
+
+1427
+01:09:52,160 --> 01:09:54,160
+Ça fera...
+
+1428
+01:09:54,160 --> 01:09:56,160
+J'ai un peu perdu le fil, mais ça fera...
+
+1429
+01:09:56,160 --> 01:09:58,160
+Ça améliorera la maturité du secteur.
+
+1430
+01:09:58,160 --> 01:10:00,160
+C'est ça que je veux dire.
+
+1431
+01:10:00,160 --> 01:10:02,160
+Oui, c'est sûr que...
+
+1432
+01:10:02,160 --> 01:10:04,160
+D'ailleurs,
+
+1433
+01:10:04,160 --> 01:10:06,160
+pour l'histoire
+
+1434
+01:10:06,160 --> 01:10:08,160
+d'en arriver...
+
+1435
+01:10:08,160 --> 01:10:10,160
+J'ai pas fini de lire les commentaires, d'ailleurs.
+
+1436
+01:10:10,160 --> 01:10:12,160
+Pour en revenir aux moyens
+
+1437
+01:10:12,160 --> 01:10:14,160
+de subsistance,
+
+1438
+01:10:14,160 --> 01:10:16,160
+ça, c'est un sujet aussi complexe.
+
+1439
+01:10:16,160 --> 01:10:18,160
+Je sais pas trop comment...
+
+1440
+01:10:18,160 --> 01:10:20,160
+Est-ce que tu as vu, toi, des... Je sais que
+
+1441
+01:10:20,160 --> 01:10:22,160
+vous avez pris une position qui est un peu différente
+
+1442
+01:10:22,160 --> 01:10:24,160
+par rapport à celle qu'on retrouve dans le milieu
+
+1443
+01:10:24,160 --> 01:10:26,160
+traditionnel, de la presse traditionnelle.
+
+1444
+01:10:28,160 --> 01:10:30,160
+J'aime bien comment on a tracé
+
+1445
+01:10:30,160 --> 01:10:32,160
+une frontière vraiment très nette entre
+
+1446
+01:10:32,160 --> 01:10:34,160
+le monde traditionnel et le web
+
+1447
+01:10:34,160 --> 01:10:36,160
+et le monde
+
+1448
+01:10:36,160 --> 01:10:38,160
+d'Internet. Mais
+
+1449
+01:10:38,160 --> 01:10:40,160
+vous, vous êtes entièrement
+
+1450
+01:10:40,160 --> 01:10:42,160
+financé par la communauté?
+
+1451
+01:10:42,160 --> 01:10:44,160
+En fait,
+
+1452
+01:10:44,160 --> 01:10:46,160
+on est financé par nos lecteurs
+
+1453
+01:10:46,160 --> 01:10:48,160
+qui prennent un abonnement
+
+1454
+01:10:48,160 --> 01:10:50,160
+tout simplement.
+
+1455
+01:10:50,160 --> 01:10:52,160
+Et après, on a une partie
+
+1456
+01:10:52,160 --> 01:10:54,160
+événements qu'on a depuis
+
+1457
+01:10:54,160 --> 01:10:56,160
+juste quelques mois, où là, par contre,
+
+1458
+01:10:56,160 --> 01:10:58,160
+on a des sponsors
+
+1459
+01:10:58,160 --> 01:11:00,160
+qui nous aident à couvrir les frais
+
+1460
+01:11:00,160 --> 01:11:02,160
+sur
+
+1461
+01:11:02,160 --> 01:11:04,160
+l'événement. Mais la partie
+
+1462
+01:11:04,160 --> 01:11:06,160
+news est vraiment sanctuarisée.
+
+1463
+01:11:08,160 --> 01:11:10,160
+C'est un positionnement qui n'est pas parfait.
+
+1464
+01:11:10,160 --> 01:11:12,160
+Moi, je préférerais que
+
+1465
+01:11:12,160 --> 01:11:14,160
+les
+
+1466
+01:11:14,160 --> 01:11:16,160
+abonnements payants
+
+1467
+01:11:16,160 --> 01:11:18,160
+couvrent tout,
+
+1468
+01:11:18,160 --> 01:11:20,160
+permettraient d'embaucher
+
+1469
+01:11:20,160 --> 01:11:22,160
+200 journalistes. Ça, j'adorerais.
+
+1470
+01:11:22,160 --> 01:11:24,160
+On est en bear market, donc c'est compliqué
+
+1471
+01:11:24,160 --> 01:11:26,160
+pour tout le monde, même pour les médias
+
+1472
+01:11:26,160 --> 01:11:28,160
+du secteur.
+
+1473
+01:11:28,160 --> 01:11:30,160
+200 journalistes seraient dans un marché pareil.
+
+1474
+01:11:30,160 --> 01:11:32,160
+Façon de parler.
+
+1475
+01:11:36,160 --> 01:11:38,160
+Effectivement, c'est vraiment un problème.
+
+1476
+01:11:40,160 --> 01:11:42,160
+Par exemple,
+
+1477
+01:11:42,160 --> 01:11:44,160
+moi, j'ai le même souci.
+
+1478
+01:11:44,160 --> 01:11:46,160
+Ça commence à venir, parce que je l'ai fait sans frais.
+
+1479
+01:11:46,160 --> 01:11:48,160
+C'est-à-dire que j'avais zéro frais
+
+1480
+01:11:48,160 --> 01:11:50,160
+pendant très longtemps et j'avais zéro revenu aussi
+
+1481
+01:11:50,160 --> 01:11:52,160
+par rapport à l'émission. Je le faisais vraiment en mode
+
+1482
+01:11:52,160 --> 01:11:54,160
+arrache totale. Et maintenant,
+
+1483
+01:11:54,160 --> 01:11:56,160
+je commence un peu à dépenser un peu d'argent
+
+1484
+01:11:56,160 --> 01:11:58,160
+pour les outils, etc.
+
+1485
+01:11:58,160 --> 01:12:00,160
+Je passe de plus en plus de temps.
+
+1486
+01:12:00,160 --> 01:12:02,160
+Je passe de plus en plus de temps, donc je peux moins
+
+1487
+01:12:02,160 --> 01:12:04,160
+me rémunérer autrement. Du coup, je commence
+
+1488
+01:12:04,160 --> 01:12:06,160
+à chercher un peu des moyens
+
+1489
+01:12:06,160 --> 01:12:08,160
+de subsistance.
+
+1490
+01:12:08,160 --> 01:12:10,160
+D'ailleurs, pour le
+
+1491
+01:12:10,160 --> 01:12:12,160
+mercredi, j'ai
+
+1492
+01:12:12,160 --> 01:12:14,160
+un sponsor qui est MEV Capital.
+
+1493
+01:12:14,160 --> 01:12:16,160
+Ils me payent,
+
+1494
+01:12:16,160 --> 01:12:18,160
+mais ils n'ont rien
+
+1495
+01:12:18,160 --> 01:12:20,160
+à dire sur le contenu de l'émission
+
+1496
+01:12:20,160 --> 01:12:22,160
+Whatsoever.
+
+1497
+01:12:22,160 --> 01:12:24,160
+Ça s'arrête là. Je trouve que c'est
+
+1498
+01:12:24,160 --> 01:12:26,160
+un modèle sain. Il y a
+
+1499
+01:12:26,160 --> 01:12:28,160
+beaucoup de gens qui font ça. Après,
+
+1500
+01:12:28,160 --> 01:12:30,160
+il y a d'autres modèles que je trouve un peu moins
+
+1501
+01:12:30,160 --> 01:12:32,160
+sains, comme par exemple les
+
+1502
+01:12:32,160 --> 01:12:34,160
+systèmes de giveaway qui sont très
+
+1503
+01:12:34,160 --> 01:12:36,160
+populaires dans les cryptos,
+
+1504
+01:12:36,160 --> 01:12:38,160
+qui n'ont pas trop, par exemple, la presse traditionnelle.
+
+1505
+01:12:38,160 --> 01:12:40,160
+On ne voit pas ça.
+
+1506
+01:12:40,160 --> 01:12:42,160
+Mais c'est difficile de définir
+
+1507
+01:12:42,160 --> 01:12:44,160
+la frontière entre un modèle
+
+1508
+01:12:44,160 --> 01:12:46,160
+économiquement sain et un modèle
+
+1509
+01:12:46,160 --> 01:12:48,160
+économiquement malsain. Par exemple,
+
+1510
+01:12:48,160 --> 01:12:50,160
+la participation.
+
+1511
+01:12:50,160 --> 01:12:52,160
+C'est sûr. Je pense que personne
+
+1512
+01:12:52,160 --> 01:12:54,160
+va trouver la
+
+1513
+01:12:54,160 --> 01:12:56,160
+solution à l'équation.
+
+1514
+01:12:56,160 --> 01:12:58,160
+Tout le monde tâtonne avec son
+
+1515
+01:12:58,160 --> 01:13:00,160
+niveau d'éthique.
+
+1516
+01:13:00,160 --> 01:13:02,160
+Certains vont très
+
+1517
+01:13:02,160 --> 01:13:04,160
+loin, certains vont pas loin
+
+1518
+01:13:04,160 --> 01:13:06,160
+du tout, mais on ne craquera
+
+1519
+01:13:06,160 --> 01:13:08,160
+pas ça ce soir.
+
+1520
+01:13:08,160 --> 01:13:10,160
+De toute façon,
+
+1521
+01:13:10,160 --> 01:13:12,160
+tu t'es déjà arraché la tête, donc autant craquer le truc.
+
+1522
+01:13:16,160 --> 01:13:18,160
+Clairement,
+
+1523
+01:13:18,160 --> 01:13:20,160
+le problème n'est
+
+1524
+01:13:20,160 --> 01:13:22,160
+pas uniquement dans les médias. Le problème est également
+
+1525
+01:13:22,160 --> 01:13:24,160
+dans certains projets, la façon dont ils se lancent,
+
+1526
+01:13:24,160 --> 01:13:26,160
+la façon dont...
+
+1527
+01:13:26,160 --> 01:13:28,160
+Un autre débat qui est celui de
+
+1528
+01:13:28,160 --> 01:13:30,160
+Tokenomics, qui est celui de
+
+1529
+01:13:30,160 --> 01:13:32,160
+« Ok, est-ce que le projet est
+
+1530
+01:13:32,160 --> 01:13:34,160
+bon et pas bon? Est-ce que la tokenomics fait tout
+
+1531
+01:13:34,160 --> 01:13:36,160
+dans un projet? Est-ce
+
+1532
+01:13:36,160 --> 01:13:38,160
+qu'un projet a besoin
+
+1533
+01:13:38,160 --> 01:13:40,160
+d'être décentralisé pour réussir? »
+
+1534
+01:13:40,160 --> 01:13:42,160
+Aujourd'hui, la réalité, c'est
+
+1535
+01:13:42,160 --> 01:13:44,160
+que le modèle parfait n'existe nulle part,
+
+1536
+01:13:44,160 --> 01:13:46,160
+que ce soit dans les projets cryptos, dans notre écosystème
+
+1537
+01:13:46,160 --> 01:13:48,160
+ou
+
+1538
+01:13:48,160 --> 01:13:50,160
+dans
+
+1539
+01:13:50,160 --> 01:13:52,160
+l'entrepreneuriat en général.
+
+1540
+01:13:52,160 --> 01:13:54,160
+Il y en a certains qui craquent les codes,
+
+1541
+01:13:54,160 --> 01:13:56,160
+mais est-ce que c'est durable?
+
+1542
+01:13:56,160 --> 01:13:58,160
+Est-ce que c'est quelque chose
+
+1543
+01:13:58,160 --> 01:14:00,160
+de sain? Toutes les
+
+1544
+01:14:00,160 --> 01:14:02,160
+questions-là se posent également.
+
+1545
+01:14:02,160 --> 01:14:04,160
+Et je pense que...
+
+1546
+01:14:06,160 --> 01:14:08,160
+Je sais pas, juste...
+
+1547
+01:14:08,160 --> 01:14:10,160
+Je trouve qu'on a énormément de débats dans cet écosystème
+
+1548
+01:14:10,160 --> 01:14:12,160
+qui n'auront pas forcément de réponses
+
+1549
+01:14:12,160 --> 01:14:14,160
+et on ne sera pas forcément tous d'accord.
+
+1550
+01:14:14,160 --> 01:14:16,160
+Je trouve juste que
+
+1551
+01:14:16,160 --> 01:14:18,160
+aujourd'hui, chacun
+
+1552
+01:14:18,160 --> 01:14:20,160
+évolue dans sa
+
+1553
+01:14:20,160 --> 01:14:22,160
+propre lignée que
+
+1554
+01:14:22,160 --> 01:14:24,160
+lui seul a choisi.
+
+1555
+01:14:24,160 --> 01:14:26,160
+Mais je pense que juste
+
+1556
+01:14:26,160 --> 01:14:28,160
+si quelque chose d'autre ne te plaît pas,
+
+1557
+01:14:28,160 --> 01:14:30,160
+laisse faire. Les gens,
+
+1558
+01:14:30,160 --> 01:14:32,160
+je pense que c'est une bonne chose.
+
+1559
+01:14:32,160 --> 01:14:34,160
+Et ensuite, s'il y a
+
+1560
+01:14:34,160 --> 01:14:36,160
+des dérives, s'il va trop loin,
+
+1561
+01:14:36,160 --> 01:14:38,160
+ça crée des problèmes. À ce moment-là,
+
+1562
+01:14:38,160 --> 01:14:40,160
+interviens. Mais si c'est juste parce que
+
+1563
+01:14:40,160 --> 01:14:42,160
+ça ne te plaît pas et que ce n'est pas ton modèle, ce n'est pas
+
+1564
+01:14:42,160 --> 01:14:44,160
+forcément une bonne idée d'aller
+
+1565
+01:14:44,160 --> 01:14:46,160
+t'intégrer à ces personnes-là.
+
+1566
+01:14:46,160 --> 01:14:48,160
+Je suis d'accord. On en a déjà parlé plusieurs fois en privé,
+
+1567
+01:14:48,160 --> 01:14:50,160
+Artem, à ce sujet-là.
+
+1568
+01:14:50,160 --> 01:14:52,160
+Je suis d'accord.
+
+1569
+01:14:52,160 --> 01:14:54,160
+Mais sur la question...
+
+1570
+01:14:54,160 --> 01:14:56,160
+Juste pour préciser sur la
+
+1571
+01:14:56,160 --> 01:14:58,160
+question du sponsoring,
+
+1572
+01:14:58,160 --> 01:15:00,160
+en fait,
+
+1573
+01:15:00,160 --> 01:15:02,160
+la clé,
+
+1574
+01:15:02,160 --> 01:15:04,160
+en fait, c'est une vieux diligence
+
+1575
+01:15:04,160 --> 01:15:06,160
+de très très haut niveau
+
+1576
+01:15:06,160 --> 01:15:08,160
+sur le partenaire avec qui
+
+1577
+01:15:08,160 --> 01:15:10,160
+tu t'associes sur
+
+1578
+01:15:10,160 --> 01:15:12,160
+un one-shot ou sur une plus longue durée.
+
+1579
+01:15:12,160 --> 01:15:14,160
+Parce qu'en fait, si ce partenaire a un
+
+1580
+01:15:14,160 --> 01:15:16,160
+problème un jour, tu es
+
+1581
+01:15:16,160 --> 01:15:18,160
+responsable en tant que média.
+
+1582
+01:15:18,160 --> 01:15:20,160
+Tu es vraiment responsable de ce qui va se passer.
+
+1583
+01:15:20,160 --> 01:15:22,160
+Et en fait, c'est ça le risque.
+
+1584
+01:15:22,160 --> 01:15:24,160
+Un média n'est pas formaté
+
+1585
+01:15:24,160 --> 01:15:26,160
+pour faire ce
+
+1586
+01:15:26,160 --> 01:15:28,160
+genre de choses. C'est pour ça qu'il y a...
+
+1587
+01:15:30,160 --> 01:15:32,160
+Il y aura toujours de la casse.
+
+1588
+01:15:32,160 --> 01:15:34,160
+C'est exactement ce que j'allais dire.
+
+1589
+01:15:34,160 --> 01:15:36,160
+Après, je donne la parole
+
+1590
+01:15:36,160 --> 01:15:38,160
+à Laurent.
+
+1591
+01:15:38,160 --> 01:15:40,160
+Justement, c'est exactement
+
+1592
+01:15:40,160 --> 01:15:42,160
+ce que j'allais dire. La clé, c'est pas
+
+1593
+01:15:42,160 --> 01:15:44,160
+justement de...
+
+1594
+01:15:44,160 --> 01:15:46,160
+En fait, c'est ça,
+
+1595
+01:15:46,160 --> 01:15:48,160
+d'admettre qu'on n'est pas parfait.
+
+1596
+01:15:48,160 --> 01:15:50,160
+Et justement, c'est carrément
+
+1597
+01:15:50,160 --> 01:15:52,160
+la posture opposée
+
+1598
+01:15:52,160 --> 01:15:54,160
+à celle de dire je suis un journaliste,
+
+1599
+01:15:54,160 --> 01:15:56,160
+je suis accrédité, etc. Parce qu'à partir du moment
+
+1600
+01:15:56,160 --> 01:15:58,160
+où tu as cette posture-là, où tu dis genre
+
+1601
+01:15:58,160 --> 01:16:00,160
+moi, je suis
+
+1602
+01:16:00,160 --> 01:16:02,160
+infaillible, j'ai ce truc-là,
+
+1603
+01:16:02,160 --> 01:16:04,160
+j'ai le tampon de je dis la vérité,
+
+1604
+01:16:04,160 --> 01:16:06,160
+dès que tu... Parce qu'à un
+
+1605
+01:16:06,160 --> 01:16:08,160
+moment donné, il va y avoir un truc qui va arriver.
+
+1606
+01:16:08,160 --> 01:16:10,160
+C'est sûr, surtout dans le domaine des cryptos et tout,
+
+1607
+01:16:10,160 --> 01:16:12,160
+tu vas te faire niquer à un moment donné.
+
+1608
+01:16:12,160 --> 01:16:14,160
+T'es ultra dans la merde en fait, parce que t'as eu
+
+1609
+01:16:14,160 --> 01:16:16,160
+cette posture de dire moi, je suis...
+
+1610
+01:16:16,160 --> 01:16:18,160
+C'est bon, vous pouvez me faire confiance.
+
+1611
+01:16:18,160 --> 01:16:20,160
+Alors que si t'admets dès le départ
+
+1612
+01:16:20,160 --> 01:16:22,160
+et tu le dis, tu communiques là-dessus sur le fait
+
+1613
+01:16:22,160 --> 01:16:24,160
+que tu fais de ton mieux, mais
+
+1614
+01:16:24,160 --> 01:16:26,160
+il faut quand même que chacun se responsabilise.
+
+1615
+01:16:28,160 --> 01:16:30,160
+Déjà, tu te protèges un peu de justement
+
+1616
+01:16:30,160 --> 01:16:32,160
+des éventuels
+
+1617
+01:16:32,160 --> 01:16:34,160
+merdes auxquelles tu es...
+
+1618
+01:16:34,160 --> 01:16:36,160
+Parce que ta surface d'attaque, elle est
+
+1619
+01:16:36,160 --> 01:16:38,160
+énorme quoi.
+
+1620
+01:16:38,160 --> 01:16:40,160
+Ça part d'un bon sentiment, mais en fait
+
+1621
+01:16:40,160 --> 01:16:42,160
+t'as pas le droit en fait de
+
+1622
+01:16:42,160 --> 01:16:44,160
+faire de ton mieux quand t'es un média et que tu touches
+
+1623
+01:16:44,160 --> 01:16:46,160
+des milliers, des dizaines
+
+1624
+01:16:46,160 --> 01:16:48,160
+de milliers de personnes.
+
+1625
+01:16:48,160 --> 01:16:50,160
+Tu dois avoir en fait une exigence
+
+1626
+01:16:50,160 --> 01:16:52,160
+de tous les instants.
+
+1627
+01:16:52,160 --> 01:16:54,160
+Tu vois, avec ce qui s'est passé avec FTX,
+
+1628
+01:16:54,160 --> 01:16:56,160
+nous on a fait une interview
+
+1629
+01:16:56,160 --> 01:16:58,160
+de SBF,
+
+1630
+01:16:58,160 --> 01:17:00,160
+c'était juste avant, c'était trois semaines
+
+1631
+01:17:00,160 --> 01:17:02,160
+avant, et on a juste fait une interview
+
+1632
+01:17:02,160 --> 01:17:04,160
+où tout le monde a cru que...
+
+1633
+01:17:04,160 --> 01:17:06,160
+Certains ont cru que ça avait été payé
+
+1634
+01:17:06,160 --> 01:17:08,160
+et tout, mais non, quand on fait des interviews
+
+1635
+01:17:08,160 --> 01:17:10,160
+c'est pas payé. Bien sûr que non.
+
+1636
+01:17:10,160 --> 01:17:12,160
+Et en fait, juste parce qu'on avait
+
+1637
+01:17:12,160 --> 01:17:14,160
+fait ça, on avait été associés
+
+1638
+01:17:14,160 --> 01:17:16,160
+à FTX
+
+1639
+01:17:16,160 --> 01:17:18,160
+par certaines personnes, ce qui est
+
+1640
+01:17:18,160 --> 01:17:20,160
+totalement débile.
+
+1641
+01:17:22,160 --> 01:17:24,160
+Ben oui,
+
+1642
+01:17:24,160 --> 01:17:26,160
+mais à partir du moment où tu dis on est le média
+
+1643
+01:17:26,160 --> 01:17:28,160
+unique, et qu'après
+
+1644
+01:17:28,160 --> 01:17:30,160
+tu promotes
+
+1645
+01:17:30,160 --> 01:17:32,160
+un truc comme ça, c'est sûr que
+
+1646
+01:17:32,160 --> 01:17:34,160
+voilà quoi.
+
+1647
+01:17:34,160 --> 01:17:36,160
+C'est compliqué. Ouais, je comprends que cette vidéo
+
+1648
+01:17:36,160 --> 01:17:38,160
+ait fait des vagues, j'en pense, j'en pense.
+
+1649
+01:17:38,160 --> 01:17:40,160
+Bien sûr, mais après, c'est aussi
+
+1650
+01:17:40,160 --> 01:17:42,160
+donc on parle de l'utilisance
+
+1651
+01:17:42,160 --> 01:17:44,160
+en sponsoring, mais c'est également
+
+1652
+01:17:44,160 --> 01:17:46,160
+valable pour les interviews, etc.
+
+1653
+01:17:46,160 --> 01:17:48,160
+et tout ce qui va avec. Donc c'est aussi des choses
+
+1654
+01:17:48,160 --> 01:17:50,160
+qu'il faut prendre en compte, parce qu'aujourd'hui
+
+1655
+01:17:50,160 --> 01:17:52,160
+quand tu es un média, tu es une plateforme, tu donnes de la visibilité
+
+1656
+01:17:52,160 --> 01:17:54,160
+à des projets. Donc d'un côté
+
+1657
+01:17:54,160 --> 01:17:56,160
+il y a bien sûr le sponsoring d'un côté, mais
+
+1658
+01:17:56,160 --> 01:17:58,160
+de l'autre côté, si tu interviens en projet,
+
+1659
+01:17:58,160 --> 01:18:00,160
+que le projet au final, il parle de lui
+
+1660
+01:18:00,160 --> 01:18:02,160
+en bien, et que tu n'arrives pas à le challenger
+
+1661
+01:18:02,160 --> 01:18:04,160
+et lui faire dire
+
+1662
+01:18:04,160 --> 01:18:06,160
+certaines choses, ou je sais pas
+
+1663
+01:18:06,160 --> 01:18:08,160
+quoi d'autre, tu as aussi ta part de responsabilité, je trouve.
+
+1664
+01:18:08,160 --> 01:18:10,160
+Ce n'est pas uniquement valable
+
+1665
+01:18:10,160 --> 01:18:12,160
+dans le cas d'un partenariat rémunéré, parce que d'un côté
+
+1666
+01:18:12,160 --> 01:18:14,160
+oui, celui qui fait le partenariat
+
+1667
+01:18:14,160 --> 01:18:16,160
+rémunéré, il est rémunéré, c'est le principe
+
+1668
+01:18:16,160 --> 01:18:18,160
+même du partenariat.
+
+1669
+01:18:18,160 --> 01:18:20,160
+Ensuite, je trouve que la due diligence
+
+1670
+01:18:20,160 --> 01:18:22,160
+est applicable partout, et
+
+1671
+01:18:22,160 --> 01:18:24,160
+pas uniquement sur les partenariats rémunérés.
+
+1672
+01:18:24,160 --> 01:18:26,160
+Ah ouais, totalement
+
+1673
+01:18:26,160 --> 01:18:28,160
+d'accord, totalement d'accord.
+
+1674
+01:18:28,160 --> 01:18:30,160
+Juste pour un peu
+
+1675
+01:18:30,160 --> 01:18:32,160
+défendre The Big Whale là-dessus,
+
+1676
+01:18:32,160 --> 01:18:34,160
+franchement c'est un des rares médias
+
+1677
+01:18:34,160 --> 01:18:36,160
+qui aurait pu être financé mille fois
+
+1678
+01:18:36,160 --> 01:18:38,160
+de maintes manières, et qui
+
+1679
+01:18:38,160 --> 01:18:40,160
+à ma connaissance ne l'a jamais été.
+
+1680
+01:18:40,160 --> 01:18:42,160
+Et franchement, ce que pensent
+
+1681
+01:18:42,160 --> 01:18:44,160
+la masse
+
+1682
+01:18:44,160 --> 01:18:46,160
+silencieuse, c'est que
+
+1683
+01:18:46,160 --> 01:18:48,160
+on a compris qu'en fait ça a été juste
+
+1684
+01:18:48,160 --> 01:18:50,160
+un mauvais moment,
+
+1685
+01:18:50,160 --> 01:18:52,160
+en fait vous avez interviewé
+
+1686
+01:18:52,160 --> 01:18:54,160
+Sam
+
+1687
+01:18:54,160 --> 01:18:56,160
+plus ou moins au moment où tout est parti
+
+1688
+01:18:56,160 --> 01:18:58,160
+en cacahuète, et franchement sur la due
+
+1689
+01:18:58,160 --> 01:19:00,160
+deal de Sam,
+
+1690
+01:19:00,160 --> 01:19:02,160
+il y a beaucoup de gens qui s'y sont
+
+1691
+01:19:02,160 --> 01:19:04,160
+plantés, je ne pense pas qu'on peut
+
+1692
+01:19:04,160 --> 01:19:06,160
+reprocher
+
+1693
+01:19:06,160 --> 01:19:08,160
+à The Big Whale.
+
+1694
+01:19:08,160 --> 01:19:10,160
+Et je suis totalement d'accord,
+
+1695
+01:19:10,160 --> 01:19:12,160
+et en fait, le truc c'est que
+
+1696
+01:19:12,160 --> 01:19:14,160
+la due deal, tu ne pouvais pas la faire,
+
+1697
+01:19:14,160 --> 01:19:16,160
+à moins d'avoir les documents auxquels il a eu
+
+1698
+01:19:16,160 --> 01:19:18,160
+accès CoinDesk,
+
+1699
+01:19:18,160 --> 01:19:20,160
+par rapport à la situation financière
+
+1700
+01:19:20,160 --> 01:19:22,160
+de l'entreprise, et ça on est totalement d'accord,
+
+1701
+01:19:22,160 --> 01:19:24,160
+mais le débat n'a jamais été
+
+1702
+01:19:24,160 --> 01:19:26,160
+réellement là-dessus, ou en tout cas le débat
+
+1703
+01:19:26,160 --> 01:19:28,160
+qui a été mis en avant
+
+1704
+01:19:28,160 --> 01:19:30,160
+dans ces choses-là, ça ne venait
+
+1705
+01:19:30,160 --> 01:19:32,160
+pas directement du fait...
+
+1706
+01:19:32,160 --> 01:19:34,160
+ça ne venait pas directement d'Eftiqs,
+
+1707
+01:19:34,160 --> 01:19:36,160
+en tout cas moi, le débat que j'avais eu
+
+1708
+01:19:36,160 --> 01:19:38,160
+avec Raphaël, ça ne venait pas du fait
+
+1709
+01:19:38,160 --> 01:19:40,160
+qu'il y ait eu l'interview,
+
+1710
+01:19:40,160 --> 01:19:42,160
+c'est le fait qu'on vienne donner
+
+1711
+01:19:42,160 --> 01:19:44,160
+une leçon ensuite aux gens qui ont été
+
+1712
+01:19:44,160 --> 01:19:46,160
+potentiellement sponsorisés,
+
+1713
+01:19:46,160 --> 01:19:48,160
+qui auraient dû faire leur due deal, mais qui
+
+1714
+01:19:48,160 --> 01:19:50,160
+n'étaient pas forcément possibles,
+
+1715
+01:19:50,160 --> 01:19:52,160
+mais au final, la responsabilité, c'est pour ça que je le
+
+1716
+01:19:52,160 --> 01:19:54,160
+disais juste avant, c'est que tu as du deal
+
+1717
+01:19:54,160 --> 01:19:56,160
+et elle doit également être faite sur ton
+
+1718
+01:19:56,160 --> 01:19:58,160
+contenu, donc
+
+1719
+01:19:58,160 --> 01:20:00,160
+moi c'était ça le débat que j'avais,
+
+1720
+01:20:00,160 --> 01:20:02,160
+encore une fois, même quand on
+
+1721
+01:20:02,160 --> 01:20:04,160
+reliait les news, par exemple Eftiqs
+
+1722
+01:20:04,160 --> 01:20:06,160
+s'achète une ad à Superbowl,
+
+1723
+01:20:06,160 --> 01:20:08,160
+Eftiqs fait ci, Eftiqs
+
+1724
+01:20:08,160 --> 01:20:10,160
+rachète un stade, etc,
+
+1725
+01:20:10,160 --> 01:20:12,160
+forcément c'est des actualités, forcément ça donne
+
+1726
+01:20:12,160 --> 01:20:14,160
+de la visibilité à Eftiqs, et forcément
+
+1727
+01:20:14,160 --> 01:20:16,160
+Eftiqs en bénéficie,
+
+1728
+01:20:16,160 --> 01:20:18,160
+et pourtant tu n'es pas rémunéré pour ça,
+
+1729
+01:20:18,160 --> 01:20:20,160
+mais c'est aussi une part de responsabilité.
+
+1730
+01:20:20,160 --> 01:20:22,160
+Bien sûr, bien sûr, mais tu vois,
+
+1731
+01:20:22,160 --> 01:20:24,160
+sur cette interview avec SBF,
+
+1732
+01:20:24,160 --> 01:20:26,160
+moi j'ai des regrets, tu vois,
+
+1733
+01:20:26,160 --> 01:20:28,160
+quand on l'a fait, parce qu'on lui a posé la question,
+
+1734
+01:20:28,160 --> 01:20:30,160
+tu vois, est-ce que
+
+1735
+01:20:30,160 --> 01:20:32,160
+les fonds sont en sécurité,
+
+1736
+01:20:32,160 --> 01:20:34,160
+est-ce que, voilà, tu vois, il a dit, bah oui, bien sûr,
+
+1737
+01:20:34,160 --> 01:20:36,160
+il n'y a pas de problème, donc on est passé
+
+1738
+01:20:36,160 --> 01:20:38,160
+une autre question. Moi
+
+1739
+01:20:38,160 --> 01:20:40,160
+je regrette qu'on ne soit pas allé plus
+
+1740
+01:20:40,160 --> 01:20:42,160
+loin, parce que, enfin,
+
+1741
+01:20:42,160 --> 01:20:44,160
+on savait qu'il y avait des trucs chelous avec Alameda
+
+1742
+01:20:44,160 --> 01:20:46,160
+depuis un moment, je regrette
+
+1743
+01:20:46,160 --> 01:20:48,160
+vraiment qu'on n'ait pas,
+
+1744
+01:20:48,160 --> 01:20:50,160
+qu'on ne soit pas allé plus fort dessus,
+
+1745
+01:20:50,160 --> 01:20:52,160
+c'est un grand regret
+
+1746
+01:20:52,160 --> 01:20:54,160
+journalistique,
+
+1747
+01:20:54,160 --> 01:20:56,160
+mais tu vois, quand tu t'associes
+
+1748
+01:20:56,160 --> 01:20:58,160
+vraiment avec un acteur,
+
+1749
+01:20:58,160 --> 01:21:00,160
+quand il y a un partenariat commercial
+
+1750
+01:21:00,160 --> 01:21:02,160
+avec, c'est à base
+
+1751
+01:21:02,160 --> 01:21:04,160
+d'exposition, de liens d'affiliation,
+
+1752
+01:21:04,160 --> 01:21:06,160
+je veux dire,
+
+1753
+01:21:06,160 --> 01:21:08,160
+le fait d'aller
+
+1754
+01:21:08,160 --> 01:21:10,160
+loin dans ta judiaire, là c'est très très
+
+1755
+01:21:10,160 --> 01:21:12,160
+important, beaucoup plus que sur une interview
+
+1756
+01:21:12,160 --> 01:21:14,160
+où tu aurais pu relancer un peu
+
+1757
+01:21:14,160 --> 01:21:16,160
+mieux, quoi, ça, voilà, c'est, je ne dis pas
+
+1758
+01:21:16,160 --> 01:21:18,160
+que j'ai raison,
+
+1759
+01:21:18,160 --> 01:21:20,160
+mais c'est ma perception des choses.
+
+1760
+01:21:22,160 --> 01:21:24,160
+Ouais, bah, ouais,
+
+1761
+01:21:24,160 --> 01:21:26,160
+moi je suis assez d'accord avec ça,
+
+1762
+01:21:26,160 --> 01:21:28,160
+honnêtement, personnellement, je suis totalement d'accord avec ça,
+
+1763
+01:21:28,160 --> 01:21:30,160
+c'est juste que, ce que je voulais dire tout à l'heure,
+
+1764
+01:21:30,160 --> 01:21:32,160
+c'est en fait, en tant que,
+
+1765
+01:21:32,160 --> 01:21:34,160
+comment dire,
+
+1766
+01:21:34,160 --> 01:21:36,160
+auditeur, ou spectateur, ou lecteur,
+
+1767
+01:21:36,160 --> 01:21:38,160
+genre,
+
+1768
+01:21:38,160 --> 01:21:40,160
+la dissonance qu'il peut y avoir
+
+1769
+01:21:40,160 --> 01:21:42,160
+quand tu as affaire à un média,
+
+1770
+01:21:42,160 --> 01:21:44,160
+et que, qui,
+
+1771
+01:21:44,160 --> 01:21:46,160
+qui prône
+
+1772
+01:21:46,160 --> 01:21:48,160
+l'infaillibilité, en fait,
+
+1773
+01:21:48,160 --> 01:21:50,160
+et que, genre, après,
+
+1774
+01:21:50,160 --> 01:21:52,160
+il y a une preuve du contraire.
+
+1775
+01:21:52,160 --> 01:21:54,160
+Ouais, après, on ne s'est jamais présenté
+
+1776
+01:21:54,160 --> 01:21:56,160
+comme infaillible, mais je
+
+1777
+01:21:56,160 --> 01:21:58,160
+comprends que notre communication
+
+1778
+01:21:58,160 --> 01:22:00,160
+au début... Ah, mais c'est même pas
+
+1779
+01:22:00,160 --> 01:22:02,160
+vous, précisément, c'est juste en
+
+1780
+01:22:02,160 --> 01:22:04,160
+général, en fait, et en fait c'est une critique
+
+1781
+01:22:04,160 --> 01:22:06,160
+que je fais envers plus, tu sais,
+
+1782
+01:22:06,160 --> 01:22:08,160
+genre, le, en fait,
+
+1783
+01:22:08,160 --> 01:22:10,160
+le, comment dire, la posture
+
+1784
+01:22:10,160 --> 01:22:12,160
+plutôt
+
+1785
+01:22:12,160 --> 01:22:14,160
+qui vient du monde traditionnel, un peu, genre,
+
+1786
+01:22:14,160 --> 01:22:16,160
+tu vois, genre, encore, pour rester dans le débat,
+
+1787
+01:22:16,160 --> 01:22:18,160
+journalisme versus influenceurs,
+
+1788
+01:22:18,160 --> 01:22:20,160
+les influenceurs sont un peu moins comme ça,
+
+1789
+01:22:20,160 --> 01:22:22,160
+c'est pour ça aussi que c'est le bordel, tu vois, mais bon...
+
+1790
+01:22:22,160 --> 01:22:24,160
+Ouais, ouais. Il y a un côté, ouais.
+
+1791
+01:22:24,160 --> 01:22:26,160
+Non, mais c'est sûr, en tout cas, je reviendrai sur le
+
+1792
+01:22:26,160 --> 01:22:28,160
+propos introductif que j'ai fait en arrivant,
+
+1793
+01:22:28,160 --> 01:22:30,160
+il y a des très
+
+1794
+01:22:30,160 --> 01:22:32,160
+mauvais journalistes et des très bons influenceurs,
+
+1795
+01:22:32,160 --> 01:22:34,160
+il y a, tu sais, la...
+
+1796
+01:22:34,160 --> 01:22:36,160
+il n'y a pas des bons et des méchants d'un côté,
+
+1797
+01:22:36,160 --> 01:22:38,160
+enfin, tout est gris, le monde est gris,
+
+1798
+01:22:38,160 --> 01:22:40,160
+il y a de la nuance de partout.
+
+1799
+01:22:40,160 --> 01:22:42,160
+Alors,
+
+1800
+01:22:42,160 --> 01:22:44,160
+il y a eu, il y a eu
+
+1801
+01:22:44,160 --> 01:22:46,160
+d'autres commentaires qui étaient
+
+1802
+01:22:46,160 --> 01:22:48,160
+très intéressants.
+
+1803
+01:22:48,160 --> 01:22:50,160
+Encore Bonda qui disait
+
+1804
+01:22:50,160 --> 01:22:52,160
+tout à l'heure, alors c'était il y a 40 minutes,
+
+1805
+01:22:52,160 --> 01:22:54,160
+le journalisme relève
+
+1806
+01:22:54,160 --> 01:22:56,160
+plus souvent tout dès de la publicité rédactionnelle
+
+1807
+01:22:56,160 --> 01:22:58,160
+que de l'investigation, en même temps, qui a envie
+
+1808
+01:22:58,160 --> 01:23:00,160
+de tomber sous les bombes,
+
+1809
+01:23:00,160 --> 01:23:02,160
+en mesure de prendre de la hauteur
+
+1810
+01:23:02,160 --> 01:23:04,160
+par rapport à ses biais de loyauté à l'écosystème,
+
+1811
+01:23:04,160 --> 01:23:06,160
+est-ce que ça veut dire,
+
+1812
+01:23:06,160 --> 01:23:08,160
+est-ce que ça,
+
+1813
+01:23:08,160 --> 01:23:10,160
+est-ce que ça que tu veux dire,
+
+1814
+01:23:10,160 --> 01:23:12,160
+Grégory? Je n'ai pas compris.
+
+1815
+01:23:12,160 --> 01:23:14,160
+Attends, je retrouve le commentaire.
+
+1816
+01:23:14,160 --> 01:23:16,160
+Oui.
+
+1817
+01:23:16,160 --> 01:23:18,160
+Ah, parce qu'ils ont été écrits à 30 minutes d'écart,
+
+1818
+01:23:18,160 --> 01:23:20,160
+alors je les ai lus à la suite, mais...
+
+1819
+01:23:20,160 --> 01:23:22,160
+Attends, je...
+
+1820
+01:23:22,160 --> 01:23:24,160
+par rapport à ce que
+
+1821
+01:23:24,160 --> 01:23:26,160
+tu as lu au début, oui,
+
+1822
+01:23:26,160 --> 01:23:28,160
+effectivement, personne n'avait envie de lire des pubs
+
+1823
+01:23:28,160 --> 01:23:30,160
+rédactionnelles, et l'investigation,
+
+1824
+01:23:30,160 --> 01:23:32,160
+en fait, c'est la...
+
+1825
+01:23:32,160 --> 01:23:34,160
+c'est la façon, on dirait, la plus
+
+1826
+01:23:34,160 --> 01:23:36,160
+noble, en fait, d'exercer ce métier.
+
+1827
+01:23:36,160 --> 01:23:38,160
+C'est pas la seule,
+
+1828
+01:23:38,160 --> 01:23:40,160
+mais c'est celle qu'on a tous envie de faire.
+
+1829
+01:23:40,160 --> 01:23:42,160
+Mais même si on a été surnommé
+
+1830
+01:23:42,160 --> 01:23:44,160
+le Mediapart de la crypto,
+
+1831
+01:23:44,160 --> 01:23:46,160
+tu vois, quand on est passé sur le grand angle,
+
+1832
+01:23:46,160 --> 01:23:48,160
+voilà, on n'est pas
+
+1833
+01:23:48,160 --> 01:23:50,160
+que ça. Il y a une partie
+
+1834
+01:23:50,160 --> 01:23:52,160
+de notre ADN qui est
+
+1835
+01:23:52,160 --> 01:23:54,160
+sur l'investigation, bien sûr,
+
+1836
+01:23:54,160 --> 01:23:56,160
+mais on ne fait pas que ça.
+
+1837
+01:23:56,160 --> 01:23:58,160
+On est... on reste un média
+
+1838
+01:23:58,160 --> 01:24:00,160
+pro-business, qui a envie
+
+1839
+01:24:00,160 --> 01:24:02,160
+que cet écosystème se développe
+
+1840
+01:24:02,160 --> 01:24:04,160
+parce qu'on croit en ses valeurs,
+
+1841
+01:24:04,160 --> 01:24:06,160
+mais, voilà, des fois,
+
+1842
+01:24:06,160 --> 01:24:08,160
+on voit des trucs qui font que
+
+1843
+01:24:08,160 --> 01:24:10,160
+il faut y aller, quoi, parce que
+
+1844
+01:24:10,160 --> 01:24:12,160
+des fois, en fait, on sait que
+
+1845
+01:24:12,160 --> 01:24:14,160
+personne ne va le faire,
+
+1846
+01:24:14,160 --> 01:24:16,160
+donc on estime que
+
+1847
+01:24:16,160 --> 01:24:18,160
+c'est un peu notre...
+
+1848
+01:24:18,160 --> 01:24:20,160
+c'est un peu notre place dans l'écosystème.
+
+1849
+01:24:20,160 --> 01:24:22,160
+Des fois, on le fait bien, des fois, on le fait moins
+
+1850
+01:24:22,160 --> 01:24:24,160
+bien, mais en tout cas, les
+
+1851
+01:24:24,160 --> 01:24:26,160
+gens qui payent pour The Big Web
+
+1852
+01:24:26,160 --> 01:24:28,160
+payent pour ça.
+
+1853
+01:24:30,160 --> 01:24:32,160
+OK.
+
+1854
+01:24:32,160 --> 01:24:34,160
+Et puis sinon, alors...
+
+1855
+01:24:34,160 --> 01:24:36,160
+c'est pas mal fini pour les commentaires.
+
+1856
+01:24:36,160 --> 01:24:38,160
+Il y a Rapido qui a dit pas d'accord.
+
+1857
+01:24:38,160 --> 01:24:40,160
+C'était il y a une heure.
+
+1858
+01:24:40,160 --> 01:24:42,160
+C'était certainement un truc d'Artem, toi.
+
+1859
+01:24:44,160 --> 01:24:46,160
+Ouais, c'est pas grave. Je suis d'accord.
+
+1860
+01:24:46,160 --> 01:24:48,160
+Et que c'était pas forcément de mon âge, je pense,
+
+1861
+01:24:48,160 --> 01:24:50,160
+Grégory sait, pour tous les âges, les légaux.
+
+1862
+01:24:52,160 --> 01:24:54,160
+Bon, en tout cas,
+
+1863
+01:24:54,160 --> 01:24:56,160
+je pense qu'on a
+
+1864
+01:24:56,160 --> 01:24:58,160
+quand même fait le tour un petit peu de tous les sujets.
+
+1865
+01:24:58,160 --> 01:25:00,160
+Je sais pas s'il y a des gens qui veulent
+
+1866
+01:25:00,160 --> 01:25:02,160
+réagir sur...
+
+1867
+01:25:02,160 --> 01:25:04,160
+On a fait, on a navigué,
+
+1868
+01:25:04,160 --> 01:25:06,160
+on a parlé de plein de choses.
+
+1869
+01:25:06,160 --> 01:25:08,160
+Est-ce qu'il y a des gens qui veulent intervenir,
+
+1870
+01:25:08,160 --> 01:25:10,160
+qui veulent poser des questions
+
+1871
+01:25:10,160 --> 01:25:12,160
+sur des sujets?
+
+1872
+01:25:12,160 --> 01:25:14,160
+En tout cas, avant que certains
+
+1873
+01:25:14,160 --> 01:25:16,160
+prennent la parole, je voulais te remercier,
+
+1874
+01:25:16,160 --> 01:25:18,160
+c'était vraiment très très cool. Et merci aussi à Artem.
+
+1875
+01:25:18,160 --> 01:25:20,160
+Je trouve que le débat était vraiment très riche.
+
+1876
+01:25:20,160 --> 01:25:22,160
+Ça fait plaisir.
+
+1877
+01:25:22,160 --> 01:25:24,160
+Je trouve que
+
+1878
+01:25:24,160 --> 01:25:26,160
+c'est l'idée de cet époque-ci,
+
+1879
+01:25:26,160 --> 01:25:28,160
+qu'on puisse discuter,
+
+1880
+01:25:28,160 --> 01:25:30,160
+on n'est pas forcément d'accord à la fin,
+
+1881
+01:25:30,160 --> 01:25:32,160
+mais c'est, encore une fois,
+
+1882
+01:25:32,160 --> 01:25:34,160
+chacun a sa vision des choses,
+
+1883
+01:25:34,160 --> 01:25:36,160
+chacun fonctionne comme
+
+1884
+01:25:36,160 --> 01:25:38,160
+il a envie de fonctionner.
+
+1885
+01:25:38,160 --> 01:25:40,160
+Je trouve que Twitter, justement,
+
+1886
+01:25:40,160 --> 01:25:42,160
+tu disais que des fois, sur Twitter, ça peut être
+
+1887
+01:25:42,160 --> 01:25:44,160
+pris avec beaucoup d'animosité. Là, c'était très cordial.
+
+1888
+01:25:44,160 --> 01:25:46,160
+Mais au contraire.
+
+1889
+01:25:46,160 --> 01:25:48,160
+Parce qu'on est avec la voix,
+
+1890
+01:25:48,160 --> 01:25:50,160
+on n'est pas avec nos
+
+1891
+01:25:50,160 --> 01:25:52,160
+quelques petits caractères.
+
+1892
+01:25:52,160 --> 01:25:54,160
+Et c'est surtout parce que vous êtes sur Radio Chad.
+
+1893
+01:25:54,160 --> 01:25:56,160
+Vous êtes toujours très cordial.
+
+1894
+01:25:56,160 --> 01:25:58,160
+D'accord.
+
+1895
+01:26:00,160 --> 01:26:02,160
+Apparemment, il n'y a pas trop de monde.
+
+1896
+01:26:04,160 --> 01:26:06,160
+Laurent, tu n'étais pas
+
+1897
+01:26:06,160 --> 01:26:08,160
+beaucoup exprimé.
+
+1898
+01:26:08,160 --> 01:26:10,160
+Rebonjour. Je ne sais pas si tu as d'autres trucs
+
+1899
+01:26:10,160 --> 01:26:12,160
+que tu voudrais dire.
+
+1900
+01:26:16,160 --> 01:26:18,160
+Moi, je ne me concentre pas beaucoup
+
+1901
+01:26:18,160 --> 01:26:20,160
+sur les journalistes, les influenceurs. Je ne suis que
+
+1902
+01:26:20,160 --> 01:26:22,160
+les médias français, notamment vous deux.
+
+1903
+01:26:22,160 --> 01:26:24,160
+Je n'ai pas
+
+1904
+01:26:24,160 --> 01:26:26,160
+beaucoup de connaissances sur le sujet.
+
+1905
+01:26:26,160 --> 01:26:28,160
+Mais très intéressant d'un point de vue
+
+1906
+01:26:28,160 --> 01:26:30,160
+société,
+
+1907
+01:26:30,160 --> 01:26:32,160
+dans le milieu, d'écouter
+
+1908
+01:26:32,160 --> 01:26:34,160
+comment se forme
+
+1909
+01:26:34,160 --> 01:26:36,160
+la sphère médiatique autour de notre milieu.
+
+1910
+01:26:38,160 --> 01:26:40,160
+Qui est apparemment assez similaire.
+
+1911
+01:26:40,160 --> 01:26:42,160
+Oui, qui est apparemment, malheureusement,
+
+1912
+01:26:42,160 --> 01:26:44,160
+assez similaire de ce qu'on a vécu
+
+1913
+01:26:44,160 --> 01:26:46,160
+sur ce qu'on appelle les médias
+
+1914
+01:26:46,160 --> 01:26:48,160
+plus traditionnels. Et garder
+
+1915
+01:26:48,160 --> 01:26:50,160
+cette sorte d'indépendance, moi, ça,
+
+1916
+01:26:50,160 --> 01:26:52,160
+je respecte.
+
+1917
+01:26:52,160 --> 01:26:54,160
+Aussi longtemps que ça puisse durer.
+
+1918
+01:26:54,160 --> 01:26:56,160
+Je pense qu'il y a un truc qu'il faut
+
+1919
+01:26:56,160 --> 01:26:58,160
+rappeler, que les gens n'ont pas forcément
+
+1920
+01:26:58,160 --> 01:27:00,160
+conscience, c'est que c'est un
+
+1921
+01:27:00,160 --> 01:27:02,160
+tout petit milieu, la crypto
+
+1922
+01:27:02,160 --> 01:27:04,160
+en France. En fait,
+
+1923
+01:27:04,160 --> 01:27:06,160
+tout le monde se connaît. Depuis des
+
+1924
+01:27:06,160 --> 01:27:08,160
+années, souvent les gens sont jeunes, même
+
+1925
+01:27:08,160 --> 01:27:10,160
+si selon Artem, je suis un peu
+
+1926
+01:27:10,160 --> 01:27:12,160
+le papy de la bande. Mais
+
+1927
+01:27:12,160 --> 01:27:14,160
+en fait, tout le monde se connaît et c'est
+
+1928
+01:27:14,160 --> 01:27:16,160
+très, très difficile d'exercer
+
+1929
+01:27:16,160 --> 01:27:18,160
+son métier de journaliste, en fait, dans ce
+
+1930
+01:27:18,160 --> 01:27:20,160
+milieu-là. Parce qu'il y a des connivences, il y a des choses comme ça.
+
+1931
+01:27:20,160 --> 01:27:22,160
+Donc, des fois, quand on écrit
+
+1932
+01:27:22,160 --> 01:27:24,160
+un article qui ne va pas dans le sens
+
+1933
+01:27:24,160 --> 01:27:26,160
+de quelqu'un qu'on connaît bien,
+
+1934
+01:27:26,160 --> 01:27:28,160
+il va croire que c'est un coup de poignard dans le dos
+
+1935
+01:27:28,160 --> 01:27:30,160
+de la part d'un ami. C'est très,
+
+1936
+01:27:30,160 --> 01:27:32,160
+très, très difficile. Et donc,
+
+1937
+01:27:32,160 --> 01:27:34,160
+si on a des inimitiés,
+
+1938
+01:27:34,160 --> 01:27:36,160
+parfois, c'est à cause de ça.
+
+1939
+01:27:36,160 --> 01:27:38,160
+Mais, vraiment,
+
+1940
+01:27:38,160 --> 01:27:40,160
+on n'a pas créé un média
+
+1941
+01:27:40,160 --> 01:27:42,160
+pour autre chose que
+
+1942
+01:27:42,160 --> 01:27:44,160
+l'intérêt du public.
+
+1943
+01:27:44,160 --> 01:27:46,160
+Et voilà, même s'il y a plein de gens dans l'écosystème
+
+1944
+01:27:46,160 --> 01:27:48,160
+qu'on aime et qui, des fois,
+
+1945
+01:27:48,160 --> 01:27:50,160
+on tente,
+
+1946
+01:27:50,160 --> 01:27:52,160
+c'est malheureux, mais c'est pour
+
+1947
+01:27:52,160 --> 01:27:54,160
+l'intérêt du public. Et
+
+1948
+01:27:54,160 --> 01:27:56,160
+dans le milieu financier traditionnel
+
+1949
+01:27:56,160 --> 01:27:58,160
+qui est immense, il n'y a pas ce problème-là.
+
+1950
+01:27:58,160 --> 01:28:00,160
+Les journalistes du Financial Times,
+
+1951
+01:28:00,160 --> 01:28:04,160
+ils connaissent moins bien
+
+1952
+01:28:04,160 --> 01:28:06,160
+les gens de leur écosystème.
+
+1953
+01:28:06,160 --> 01:28:08,160
+Nous, on se connaît tous
+
+1954
+01:28:08,160 --> 01:28:10,160
+parce qu'on baigne dedans
+
+1955
+01:28:10,160 --> 01:28:12,160
+depuis longtemps et on est peu.
+
+1956
+01:28:12,160 --> 01:28:14,160
+Parce que dans la bourse, il n'y a pas cette notion
+
+1957
+01:28:14,160 --> 01:28:16,160
+de communauté non plus.
+
+1958
+01:28:16,160 --> 01:28:18,160
+On a créé ça toujours,
+
+1959
+01:28:18,160 --> 01:28:20,160
+que ce soit au sein des projets, que ce soit autre chose.
+
+1960
+01:28:20,160 --> 01:28:22,160
+Même vous, au sein des Émigrés, vous avez une communauté,
+
+1961
+01:28:22,160 --> 01:28:24,160
+vous avez un Discord,
+
+1962
+01:28:24,160 --> 01:28:26,160
+vous avez tout un tas de choses qui, justement,
+
+1963
+01:28:26,160 --> 01:28:28,160
+rapprochent les gens et font en sorte
+
+1964
+01:28:28,160 --> 01:28:30,160
+qu'on essaie de pousser pour la collaboration,
+
+1965
+01:28:30,160 --> 01:28:32,160
+que ce soit à travers les médias,
+
+1966
+01:28:32,160 --> 01:28:34,160
+que ce soit à travers autre chose
+
+1967
+01:28:34,160 --> 01:28:36,160
+dans ce milieu.
+
+1968
+01:28:36,160 --> 01:28:38,160
+Et je pense que c'est quelque chose
+
+1969
+01:28:38,160 --> 01:28:40,160
+aussi qui fait énormément grandir notre écosystème.
+
+1970
+01:28:40,160 --> 01:28:42,160
+Les collaborations,
+
+1971
+01:28:42,160 --> 01:28:44,160
+les connaissances,
+
+1972
+01:28:44,160 --> 01:28:46,160
+le fait qu'on se connaisse tous, absolument tous,
+
+1973
+01:28:46,160 --> 01:28:48,160
+dans ce milieu,
+
+1974
+01:28:48,160 --> 01:28:50,160
+que ce soit à travers des entreprises
+
+1975
+01:28:50,160 --> 01:28:52,160
+ou que ce soit à travers autre chose.
+
+1976
+01:28:52,160 --> 01:28:54,160
+Et je pense que ça apprêt beaucoup de bien à l'écosystème aussi.
+
+1977
+01:28:56,160 --> 01:28:58,160
+Je suis d'accord.
+
+1978
+01:28:58,160 --> 01:29:00,160
+Le côté collaboratif est ultra, ultra important.
+
+1979
+01:29:00,160 --> 01:29:02,160
+C'est clair.
+
+1980
+01:29:02,160 --> 01:29:04,160
+Mais il ne faut pas que ce soit collaboratif
+
+1981
+01:29:04,160 --> 01:29:06,160
+jusqu'à mettre des informations importantes
+
+1982
+01:29:06,160 --> 01:29:08,160
+sous le tapis.
+
+1983
+01:29:08,160 --> 01:29:10,160
+À chaque fois, il faut se poser la question là-dessus.
+
+1984
+01:29:10,160 --> 01:29:12,160
+On se la pose nous, mais je pense que tous les autres médias
+
+1985
+01:29:12,160 --> 01:29:14,160
+tous la posent.
+
+1986
+01:29:14,160 --> 01:29:16,160
+Et voilà.
+
+1987
+01:29:16,160 --> 01:29:18,160
+C'est pour ça d'ailleurs qu'on se chamaille régulièrement
+
+1988
+01:29:18,160 --> 01:29:20,160
+sur le CTFR et puis qu'on
+
+1989
+01:29:20,160 --> 01:29:22,160
+résout tout dans la discussion
+
+1990
+01:29:22,160 --> 01:29:24,160
+comme des personnes
+
+1991
+01:29:24,160 --> 01:29:26,160
+adultes responsables.
+
+1992
+01:29:26,160 --> 01:29:28,160
+On ne se débrouille pas trop mal.
+
+1993
+01:29:28,160 --> 01:29:30,160
+Franchement, on n'est pas trop mal.
+
+1994
+01:29:30,160 --> 01:29:32,160
+Adultes ou adolescentes, concernant Artem, mais oui.
+
+1995
+01:29:32,160 --> 01:29:34,160
+Avec ses légos.
+
+1996
+01:29:34,160 --> 01:29:36,160
+Je pourrais être mon père.
+
+1997
+01:29:36,160 --> 01:29:38,160
+Comment?
+
+1998
+01:29:38,160 --> 01:29:40,160
+Je n'ai pas branché mon sonotone.
+
+1999
+01:29:40,160 --> 01:29:42,160
+En tout cas,
+
+2000
+01:29:42,160 --> 01:29:44,160
+merci énormément à vous tous
+
+2001
+01:29:44,160 --> 01:29:46,160
+pour cette discussion super cool.
+
+2002
+01:29:46,160 --> 01:29:48,160
+Merci Grégory d'avoir accepté de venir
+
+2003
+01:29:48,160 --> 01:29:50,160
+et puis d'être resté
+
+2004
+01:29:50,160 --> 01:29:52,160
+plus longtemps que prévu.
+
+2005
+01:29:52,160 --> 01:29:54,160
+C'était super agréable.
+
+2006
+01:29:54,160 --> 01:29:56,160
+Ça m'a fait vraiment plaisir de parler avec toi.
+
+2007
+01:29:56,160 --> 01:29:58,160
+Très cool, très cool.
+
+2008
+01:29:58,160 --> 01:30:00,160
+C'était un échange vraiment sympa.
+
+2009
+01:30:00,160 --> 01:30:02,160
+Pourquoi pas refaire ça sous peu
+
+2010
+01:30:02,160 --> 01:30:04,160
+plutôt que s'écharper
+
+2011
+01:30:04,160 --> 01:30:06,160
+avec des tweets.
+
+2012
+01:30:06,160 --> 01:30:08,160
+Discuter, c'est toujours mieux.
+
+2013
+01:30:08,160 --> 01:30:10,160
+Je ne me suis jamais embrouillé avec toi
+
+2014
+01:30:10,160 --> 01:30:12,160
+réellement sur Twitter.
+
+2015
+01:30:12,160 --> 01:30:14,160
+Parce que tu n'as pas envie de faire chier
+
+2016
+01:30:14,160 --> 01:30:16,160
+des vieilles personnes.
+
+2017
+01:30:16,160 --> 01:30:18,160
+Déjà, oui.
+
+2018
+01:30:18,160 --> 01:30:20,160
+Les gens méritent le respect.
+
+2019
+01:30:20,160 --> 01:30:22,160
+Mais au-delà de ça,
+
+2020
+01:30:22,160 --> 01:30:24,160
+je suis tout pour la discussion.
+
+2021
+01:30:24,160 --> 01:30:26,160
+Au contraire, je veux
+
+2022
+01:30:26,160 --> 01:30:28,160
+discuter de certaines choses.
+
+2023
+01:30:28,160 --> 01:30:30,160
+Juste, je n'ai jamais eu l'occasion
+
+2024
+01:30:30,160 --> 01:30:32,160
+d'en discuter en privé.
+
+2025
+01:30:32,160 --> 01:30:34,160
+Eh bien, c'est le cas maintenant.
+
+2026
+01:30:34,160 --> 01:30:36,160
+Mais encore une fois,
+
+2027
+01:30:36,160 --> 01:30:38,160
+je ne me suis jamais pris la tête avec toi.
+
+2028
+01:30:38,160 --> 01:30:40,160
+Et c'est ce que j'ai fait.
+
+2029
+01:30:40,160 --> 01:30:42,160
+En tout cas,
+
+2030
+01:30:42,160 --> 01:30:44,160
+début de ce space.
+
+2031
+01:30:44,160 --> 01:30:46,160
+On fera beaucoup d'Affaires
+
+2032
+01:30:46,160 --> 01:30:48,160
+la prochaine fois, promis.
+
+2033
+01:30:48,160 --> 01:30:50,160
+Oui, ce serait bien que vous soyez là tous les deux,
+
+2034
+01:30:50,160 --> 01:30:52,160
+voire même tous les trois ou quatre.
+
+2035
+01:30:52,160 --> 01:30:54,160
+Parce que j'ai cru comprendre que vous étiez...
+
+2036
+01:30:54,160 --> 01:30:56,160
+Je ne me souviens plus des noms, mais il y avait Denis
+
+2037
+01:30:56,160 --> 01:30:58,160
+et un autre gars.
+
+2038
+01:30:58,160 --> 01:31:00,160
+Il y a Louis Tellier qui nous écoute.
+
+2039
+01:31:00,160 --> 01:31:02,160
+Il était chez AGI.
+
+2040
+01:31:02,160 --> 01:31:04,160
+Traditionnel.
+
+2041
+01:31:04,160 --> 01:31:06,160
+D'ailleurs, Louis, j'espère que la newsletter
+
+2042
+01:31:06,160 --> 01:31:08,160
+est bouclée, parce qu'il est tard.
+
+2043
+01:31:10,160 --> 01:31:12,160
+Bon, en tout cas...
+
+2044
+01:31:12,160 --> 01:31:14,160
+Il était traditionnel aussi, mais celui
+
+2045
+01:31:14,160 --> 01:31:16,160
+qui était le moins traditionnel de tout
+
+2046
+01:31:16,160 --> 01:31:18,160
+AGI, quand il était encore.
+
+2047
+01:31:18,160 --> 01:31:20,160
+Oui, c'est vrai.
+
+2048
+01:31:20,160 --> 01:31:22,160
+Il y a Louis
+
+2049
+01:31:22,160 --> 01:31:24,160
+qui veut...
+
+2050
+01:31:24,160 --> 01:31:26,160
+qui veut avoir un droit de réponse
+
+2051
+01:31:26,160 --> 01:31:28,160
+par rapport
+
+2052
+01:31:28,160 --> 01:31:30,160
+à certaines accusations.
+
+2053
+01:31:30,160 --> 01:31:32,160
+Salut Louis.
+
+2054
+01:31:32,160 --> 01:31:34,160
+Salut, salut.
+
+2055
+01:31:34,160 --> 01:31:36,160
+Non, ben écoutez, je ne vais pas
+
+2056
+01:31:36,160 --> 01:31:38,160
+me laisser insulter comme ça, dis donc.
+
+2057
+01:31:38,160 --> 01:31:40,160
+Non, ben,
+
+2058
+01:31:40,160 --> 01:31:42,160
+franchement, je suis arrivé... Alors Greg,
+
+2059
+01:31:42,160 --> 01:31:44,160
+oui, la newsletter est bouclée.
+
+2060
+01:31:44,160 --> 01:31:46,160
+Donc, voilà.
+
+2061
+01:31:46,160 --> 01:31:48,160
+Pour ceux qui ne sont pas abonnés, je vous invite
+
+2062
+01:31:48,160 --> 01:31:50,160
+à le faire le plus rapidement possible pour la recevoir
+
+2063
+01:31:50,160 --> 01:31:52,160
+vers 6h30 à 7h demain.
+
+2064
+01:31:52,160 --> 01:31:54,160
+Demain matin.
+
+2065
+01:31:54,160 --> 01:31:56,160
+C'est la newsletter payante.
+
+2066
+01:31:56,160 --> 01:31:58,160
+Parce qu'on a deux newsletters, une start
+
+2067
+01:31:58,160 --> 01:32:00,160
+et une dédéchante.
+
+2068
+01:32:00,160 --> 01:32:02,160
+Wesh, Louis, ça va?
+
+2069
+01:32:02,160 --> 01:32:04,160
+Ah, tu me donnes la parole, moi j'en profite.
+
+2070
+01:32:04,160 --> 01:32:06,160
+Non, en vrai, en vrai, merci beaucoup.
+
+2071
+01:32:06,160 --> 01:32:08,160
+C'était...
+
+2072
+01:32:08,160 --> 01:32:10,160
+Enfin, c'était toujours...
+
+2073
+01:32:10,160 --> 01:32:12,160
+C'était hyper intéressant et
+
+2074
+01:32:12,160 --> 01:32:14,160
+effectivement, pour revenir un petit peu
+
+2075
+01:32:14,160 --> 01:32:16,160
+sur tout ce qui a été dit,
+
+2076
+01:32:16,160 --> 01:32:18,160
+c'est agréable
+
+2077
+01:32:18,160 --> 01:32:20,160
+de discuter sereinement
+
+2078
+01:32:20,160 --> 01:32:22,160
+avec le moins de malentendus possible.
+
+2079
+01:32:22,160 --> 01:32:24,160
+Voilà, je pense. Et juste, moi,
+
+2080
+01:32:24,160 --> 01:32:26,160
+j'aurais juste un commentaire. Après, on pourra refaire
+
+2081
+01:32:26,160 --> 01:32:28,160
+notre session. Mais moi, je pense que c'est hyper important
+
+2082
+01:32:28,160 --> 01:32:30,160
+parce que c'est un retour que j'ai beaucoup
+
+2083
+01:32:30,160 --> 01:32:32,160
+avec les gens avec qui je discute. Je pense que
+
+2084
+01:32:32,160 --> 01:32:34,160
+vraiment, alors j'ai pas eu une expérience encore
+
+2085
+01:32:34,160 --> 01:32:36,160
+je pense, assez solide peut-être.
+
+2086
+01:32:36,160 --> 01:32:38,160
+Journaliste, moi ça fait 6 ans que je suis journaliste.
+
+2087
+01:32:38,160 --> 01:32:40,160
+Mais le nerf de la guerre,
+
+2088
+01:32:40,160 --> 01:32:42,160
+c'est l'argent. Et
+
+2089
+01:32:42,160 --> 01:32:44,160
+je pense que pour transmettre du mieux possible
+
+2090
+01:32:44,160 --> 01:32:46,160
+une information et d'être...
+
+2091
+01:32:46,160 --> 01:32:48,160
+pour être crédible sur le long terme sur
+
+2092
+01:32:48,160 --> 01:32:50,160
+un segment le plus large possible
+
+2093
+01:32:50,160 --> 01:32:52,160
+quand tu veux transmettre une information,
+
+2094
+01:32:52,160 --> 01:32:54,160
+mais vraiment une information,
+
+2095
+01:32:54,160 --> 01:32:56,160
+c'est-à-dire qu'il va y avoir vraiment...
+
+2096
+01:32:56,160 --> 01:32:58,160
+ça va pas être forcément de la vulgarisation, mais une information,
+
+2097
+01:32:58,160 --> 01:33:00,160
+c'est-à-dire quelque chose qu'on a pas entendu ailleurs.
+
+2098
+01:33:00,160 --> 01:33:02,160
+Je pense que la crédibilité suprême,
+
+2099
+01:33:02,160 --> 01:33:04,160
+c'est d'être
+
+2100
+01:33:04,160 --> 01:33:06,160
+le moins conflicté possible
+
+2101
+01:33:06,160 --> 01:33:08,160
+et donc avoir le moins de rapports économiques
+
+2102
+01:33:08,160 --> 01:33:10,160
+avec le moins de monde possible.
+
+2103
+01:33:10,160 --> 01:33:12,160
+Après, c'est ma conviction et ça peut aussi
+
+2104
+01:33:12,160 --> 01:33:14,160
+porter à débat, mais voilà.
+
+2105
+01:33:14,160 --> 01:33:16,160
+C'est simplement ça que je voulais rajouter.
+
+2106
+01:33:16,160 --> 01:33:18,160
+Ouais, bah t'as
+
+2107
+01:33:18,160 --> 01:33:20,160
+totalement raison. En fait, il y a...
+
+2108
+01:33:20,160 --> 01:33:22,160
+le sans-conflit d'intérêt,
+
+2109
+01:33:22,160 --> 01:33:24,160
+en fait, il est extrêmement
+
+2110
+01:33:24,160 --> 01:33:26,160
+rare. En fait, tout le monde doit
+
+2111
+01:33:26,160 --> 01:33:28,160
+naviguer avec ça et trouver
+
+2112
+01:33:28,160 --> 01:33:30,160
+la façon d'en avoir le
+
+2113
+01:33:30,160 --> 01:33:32,160
+moins possible. Et c'est vraiment
+
+2114
+01:33:32,160 --> 01:33:34,160
+très dur et c'est un combat de tous
+
+2115
+01:33:34,160 --> 01:33:36,160
+les jours. Et juste pour faire
+
+2116
+01:33:36,160 --> 01:33:38,160
+un peu de teasing sur le
+
+2117
+01:33:38,160 --> 01:33:40,160
+contenu de l'annusateur de demain...
+
+2118
+01:33:40,160 --> 01:33:42,160
+Vous m'ouvrez la fenêtre.
+
+2119
+01:33:42,160 --> 01:33:44,160
+Martin, Martin, Martin...
+
+2120
+01:33:44,160 --> 01:33:46,160
+On tue l'annusateur.
+
+2121
+01:33:46,160 --> 01:33:50,160
+Le compte arobase OAK-FR
+
+2122
+01:33:50,160 --> 01:33:52,160
+sur Twitter,
+
+2123
+01:33:52,160 --> 01:33:54,160
+OAK.invest sur Instagram,
+
+2124
+01:33:54,160 --> 01:33:56,160
+OAK.invest sur YouTube, OAK.invest
+
+2125
+01:33:56,160 --> 01:33:58,160
+sur LinkedIn, Rebus suivre également,
+
+2126
+01:33:58,160 --> 01:34:00,160
+également mon
+
+2127
+01:34:00,160 --> 01:34:02,160
+Insta perso si vous voulez.
+
+2128
+01:34:02,160 --> 01:34:04,160
+Non, non, mais ce que je voulais dire,
+
+2129
+01:34:04,160 --> 01:34:06,160
+c'est pas une incitation
+
+2130
+01:34:06,160 --> 01:34:08,160
+à s'abonner forcément, mais demain
+
+2131
+01:34:08,160 --> 01:34:10,160
+on sort un gros
+
+2132
+01:34:10,160 --> 01:34:12,160
+dossier, en fait, sur les boîtes
+
+2133
+01:34:12,160 --> 01:34:14,160
+qui ont traversé le bear market
+
+2134
+01:34:14,160 --> 01:34:16,160
+trop bien.
+
+2135
+01:34:16,160 --> 01:34:18,160
+Parce qu'on entend parler de mauvaises
+
+2136
+01:34:18,160 --> 01:34:20,160
+nouvelles tout le temps, mais il y a des boîtes qui fonctionnent
+
+2137
+01:34:20,160 --> 01:34:22,160
+super bien et il faut
+
+2138
+01:34:22,160 --> 01:34:24,160
+les mettre en lumière. Parce que celles
+
+2139
+01:34:24,160 --> 01:34:26,160
+qui performent en bear market,
+
+2140
+01:34:26,160 --> 01:34:28,160
+je pense que c'est les champions de demain.
+
+2141
+01:34:28,160 --> 01:34:30,160
+Donc voilà, on a fait le sujet là-dessus.
+
+2142
+01:34:30,160 --> 01:34:32,160
+On a interrogé tous les
+
+2143
+01:34:32,160 --> 01:34:34,160
+responsables de ces boîtes-là
+
+2144
+01:34:34,160 --> 01:34:36,160
+et c'est super intéressant.
+
+2145
+01:34:36,160 --> 01:34:38,160
+Et peut-être pour préciser aussi,
+
+2146
+01:34:38,160 --> 01:34:40,160
+c'est payant ou pas?
+
+2147
+01:34:40,160 --> 01:34:42,160
+C'est la newsletter payante.
+
+2148
+01:34:42,160 --> 01:34:44,160
+Ah ouais, mais non. On la publiera gratuitement
+
+2149
+01:34:44,160 --> 01:34:46,160
+sur OAK-FR demain, si vous voulez.
+
+2150
+01:34:46,160 --> 01:34:48,160
+D'accord, ok. Tu me donneras
+
+2151
+01:34:48,160 --> 01:34:50,160
+les coordonnées de ton avocat.
+
+2152
+01:34:50,160 --> 01:34:52,160
+Messieurs et messieurs, restons contents.
+
+2153
+01:34:56,160 --> 01:34:58,160
+Bon, en tout cas,
+
+2154
+01:34:58,160 --> 01:35:00,160
+merci à vous tous d'avoir
+
+2155
+01:35:00,160 --> 01:35:02,160
+chillé vos projets. C'était très intéressant comme émission.
+
+2156
+01:35:02,160 --> 01:35:04,160
+C'est parfait.
+
+2157
+01:35:04,160 --> 01:35:06,160
+Merci à tous d'être venus.
+
+2158
+01:35:06,160 --> 01:35:08,160
+C'était super cool. Merci
+
+2159
+01:35:08,160 --> 01:35:10,160
+Artem d'avoir été là
+
+2160
+01:35:10,160 --> 01:35:12,160
+toute l'émission. C'était
+
+2161
+01:35:12,160 --> 01:35:14,160
+une cool interaction. Ça faisait longtemps
+
+2162
+01:35:14,160 --> 01:35:16,160
+que tu n'étais pas venu.
+
+2163
+01:35:16,160 --> 01:35:18,160
+Merci à Laurent d'être passé.
+
+2164
+01:35:18,160 --> 01:35:20,160
+On se dit rendez-vous demain.
+
+2165
+01:35:20,160 --> 01:35:22,160
+Demain, c'est une émission sur la géopolitique
+
+2166
+01:35:22,160 --> 01:35:24,160
+et la géoéconomie avec Vincent
+
+2167
+01:35:24,160 --> 01:35:26,160
+comme toutes les semaines.
+
+2168
+01:35:26,160 --> 01:35:28,160
+Donc, si c'est des sujets qui vous intéressent,
+
+2169
+01:35:28,160 --> 01:35:30,160
+venez. Si ça ne vous intéresse pas,
+
+2170
+01:35:30,160 --> 01:35:32,160
+venez quand même. Mais voilà, ça va être cool.
+
+2171
+01:35:32,160 --> 01:35:34,160
+C'est à 22h et c'est toujours
+
+2172
+01:35:34,160 --> 01:35:36,160
+excessivement intéressant.
+
+2173
+01:35:36,160 --> 01:35:38,160
+Et je voudrais dire aussi que...
+
+2174
+01:35:38,160 --> 01:35:40,160
+Tout le monde chille son truc.
+
+2175
+01:35:40,160 --> 01:35:42,160
+Moi aussi je vais chiller.
+
+2176
+01:35:42,160 --> 01:35:44,160
+Oui.
+
+2177
+01:35:44,160 --> 01:35:46,160
+Cet épisode est sponsorisé par MEV Capital.
+
+2178
+01:35:46,160 --> 01:35:48,160
+Ils sont
+
+2179
+01:35:48,160 --> 01:35:50,160
+excessivement gentils avec moi. Ils m'aident
+
+2180
+01:35:50,160 --> 01:35:52,160
+énormément. Et donc,
+
+2181
+01:35:52,160 --> 01:35:54,160
+je les remercie énormément pour le
+
+2182
+01:35:54,160 --> 01:35:56,160
+soutien qu'ils m'apportent. Voilà, c'est tout ce que je voulais dire.
+
+2183
+01:35:56,160 --> 01:35:58,160
+Donc, je vous dis à tous
+
+2184
+01:35:58,160 --> 01:36:00,160
+à demain.
+
+2185
+01:36:00,160 --> 01:36:02,160
+Et puis voilà, encore merci d'être venus.
+
+2186
+01:36:02,160 --> 01:36:04,160
+Et on se quitte en musique.
+
+2187
+01:36:04,160 --> 01:36:06,160
+Allez, salut. Merci à tous.
+
+2188
+01:36:06,160 --> 01:36:08,160
+Salut, bonne soirée.
+
+2189
+01:36:08,160 --> 01:36:10,160
+OAK
+
+2190
+01:36:10,160 --> 01:36:12,160
+tiré du bifurc.
+
+2191
+01:36:12,160 --> 01:36:14,160
+Puff, ça suit cher.
+
+2192
+01:36:14,160 --> 01:36:16,160
+TheBigDwell.io
+
+2193
+01:36:16,160 --> 01:36:18,160
+Merci de l'émission.
+
+2194
+01:36:18,160 --> 01:36:20,160
+C'était génial.
+
+2195
+01:36:20,160 --> 01:36:22,160
+On fait un super événement sur les institutionnels le 30 novembre.
+
+2196
+01:36:22,160 --> 01:36:24,160
+Allez, bonne soirée.
+
+2197
+01:36:24,160 --> 01:36:26,160
+Ciao.
+
+2198
+01:36:26,160 --> 01:36:28,160
+Salut tout le monde.

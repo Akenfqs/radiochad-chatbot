@@ -1,0 +1,8559 @@
+1
+00:01:00,000 --> 00:01:20,680
+Bienvenue tout le monde, bienvenue sur Radio Shad, on est le 15 janvier 2024 maintenant
+
+2
+00:01:20,680 --> 00:01:24,200
+en fait, ça y est, j'ai eu du mal un petit peu en faisant les annonces et tout, fallait
+
+3
+00:01:24,200 --> 00:01:27,320
+que je réfléchisse pour mettre le 4 à la place du 3.
+
+4
+00:01:27,760 --> 00:01:31,560
+Bienvenue à tous, je suis super content de revenir, j'ai beaucoup plus d'énergie
+
+5
+00:01:31,560 --> 00:01:35,760
+que quand on s'est arrêté, ça m'a fait vraiment beaucoup beaucoup de bien de faire
+
+6
+00:01:35,760 --> 00:01:40,440
+une petite pause de un mois et d'ailleurs c'est un peu bizarre parce que j'ai l'impression
+
+7
+00:01:40,440 --> 00:01:43,120
+de faire l'émission pour la première fois quasiment, c'est très étrange.
+
+8
+00:01:43,120 --> 00:01:50,560
+Merci d'être là et ce soir, alors Octair Pauze, je vois que tu n'es pas encore dans
+
+9
+00:01:50,560 --> 00:01:54,040
+les gens qui peuvent parler, mais ce soir c'est ça, ce soir c'est une soirée spéciale
+
+10
+00:01:55,040 --> 00:02:03,000
+Solana parce que bon, il y a eu pendant les vacances d'hiver en fait, ça ne s'appelle
+
+11
+00:02:03,000 --> 00:02:11,400
+pas les vacances d'hiver, les vacances de fin d'année, il y a eu une espèce de mini
+
+12
+00:02:11,400 --> 00:02:15,640
+boule market, on ne sait pas si c'est vraiment un boule qui a commencé ou si ça va redescendre
+
+13
+00:02:15,640 --> 00:02:21,160
+ou quoi, mais il s'est passé que Solana a explosé et donc dans la lignée de ce truc
+
+14
+00:02:21,160 --> 00:02:24,120
+là, il y a des gens qui se sont dit peut-être qu'en fait Solana, ce n'est pas si mal que
+
+15
+00:02:24,120 --> 00:02:29,200
+ça et notamment les artistes, certains artistes dont fait partie Pierre Pauze d'ailleurs,
+
+16
+00:02:29,200 --> 00:02:33,760
+qui se sont dit tiens, si je publiais des NFT sur Solana, est-ce que c'est bien, est-ce
+
+17
+00:02:33,760 --> 00:02:37,040
+que ce n'est pas bien ça? Donc je me suis dit tiens, ça c'est intéressant, ce serait
+
+18
+00:02:37,040 --> 00:02:42,720
+pas mal de faire une émission là-dessus et donc j'ai contacté Kuga qui a accepté.
+
+19
+00:02:42,720 --> 00:02:45,640
+Donc Kuga est parmi nous ce soir.
+
+20
+00:02:45,640 --> 00:02:47,640
+Salut Kuga, ça va?
+
+21
+00:02:47,640 --> 00:02:53,280
+Salut, ça va, merci pour l'invitation, super intéressant de venir toujours parler de Solana
+
+22
+00:02:53,280 --> 00:02:57,720
+et de partager un peu des informations sur la blockchain, donc avec grand plaisir d'être ici.
+
+23
+00:02:57,720 --> 00:03:03,240
+Super, je suis très content de te recevoir et puis Pierre, est-ce que tu es parmi nous?
+
+24
+00:03:03,240 --> 00:03:06,040
+Ouais, ça y est, me voilà.
+
+25
+00:03:06,040 --> 00:03:09,040
+Ça va? Tu as passé des bonnes vacances?
+
+26
+00:03:09,040 --> 00:03:15,200
+Studiouse, j'ai beaucoup bossé, mais ouais, j'ai passé de bonnes vacances. Et toi?
+
+27
+00:03:15,200 --> 00:03:19,720
+Ouais, ça va, ça va, j'avais vraiment besoin de faire une petite pause.
+
+28
+00:03:19,720 --> 00:03:26,280
+Alors par contre, il y a peut-être ma console qui va me lâcher, je ne sais pas, on va voir.
+
+29
+00:03:26,280 --> 00:03:27,800
+Donc ouais, c'est ça.
+
+30
+00:03:27,800 --> 00:03:32,880
+Et alors j'ai préparé toutes sortes de trucs, je ne sais pas si on va faire ça ce soir,
+
+31
+00:03:32,880 --> 00:03:38,360
+mais en tout cas, juste avant qu'on commence, je voudrais dire que bienvenue déjà à tous.
+
+32
+00:03:38,360 --> 00:03:40,760
+Salut Quarl, d'ailleurs, qui est le rôle de speaker.
+
+33
+00:03:40,760 --> 00:03:44,280
+Salut Polidot, salut Petit Colibri, salut RedBud, salut Saldé.
+
+34
+00:03:44,320 --> 00:03:50,080
+Je voudrais dire que oui, il y a un Patreon que j'ai lancé dans l'indifférence la plus totale,
+
+35
+00:03:50,080 --> 00:03:56,400
+mais ce n'est pas grave, c'est là, donc je le promoterai de temps en temps pour les âmes charitables.
+
+36
+00:03:56,400 --> 00:04:04,040
+Et aussi, il y a des sponsors, donc MEV Capital, qui est toujours le sponsor du jeudi.
+
+37
+00:04:04,040 --> 00:04:11,560
+Et puis, il y a un nouveau projet qui s'est associé à RadioChat, c'est Satoship.
+
+38
+00:04:11,560 --> 00:04:14,040
+Donc tous les dimanches, on va faire un tirage au sort.
+
+39
+00:04:14,040 --> 00:04:20,280
+On va tirer au sort parmi les gens qui sont dans le live et on va offrir une carte Satoship.
+
+40
+00:04:20,280 --> 00:04:24,600
+Donc c'est un hardware wallet, chaque dimanche.
+
+41
+00:04:24,600 --> 00:04:28,360
+Donc je suis très content de faire un partenariat avec eux.
+
+42
+00:04:28,360 --> 00:04:31,640
+Et puis aussi, donc tout ça, j'en parlerai plus tard aussi.
+
+43
+00:04:31,640 --> 00:04:35,280
+Et puis aussi, c'est ça, demain, je ne vais pas faire le tout le planning de la semaine,
+
+44
+00:04:35,280 --> 00:04:36,600
+mais demain, ça va être une grosse...
+
+45
+00:04:36,600 --> 00:04:42,840
+Normalement, en fait, on devait commencer le mardi avec une émission avec la Blockchain Business School chaque semaine,
+
+46
+00:04:42,840 --> 00:04:46,360
+où ils invitent leurs étudiants, en fait, c'est la suite des cours qu'ils ont.
+
+47
+00:04:46,360 --> 00:04:50,880
+Et ils vont venir dans l'émission pour faire un genre de debrief de ce qu'ils ont appris
+
+48
+00:04:50,880 --> 00:04:52,520
+et puis essayer d'aller un petit peu plus loin.
+
+49
+00:04:52,520 --> 00:04:59,320
+Donc c'était vraiment le mardi, c'était censé être une émission tournée vers l'éducation.
+
+50
+00:04:59,320 --> 00:05:02,040
+Et en fait, cette semaine, il n'y aura pas, exceptionnellement.
+
+51
+00:05:02,040 --> 00:05:04,520
+Donc normalement, peut-être à partir de la semaine prochaine ou la semaine d'après,
+
+52
+00:05:04,760 --> 00:05:08,080
+ça dépend de comment les choses vont évoluer de leur côté.
+
+53
+00:05:08,080 --> 00:05:15,040
+Mais donc, il y a un petit désagrément et donc ça va arriver, mais pas tout de suite, pas demain.
+
+54
+00:05:15,040 --> 00:05:17,600
+Et donc demain, du coup, on va faire une émission spéciale, Intelligence Artificielle,
+
+55
+00:05:17,600 --> 00:05:21,520
+où on va en fait parler de tout ce qui s'est passé pendant les vacances.
+
+56
+00:05:21,520 --> 00:05:23,920
+Donc il y a eu un milliard de trucs qui sont sortis.
+
+57
+00:05:23,920 --> 00:05:27,040
+C'est une dinguerie, il y a eu genre beaucoup, beaucoup trop de choses qui sont passées.
+
+58
+00:05:27,040 --> 00:05:30,960
+Et donc, voilà, si vous êtes intéressé par des jeux scientifiques, c'est demain que ça se passe.
+
+59
+00:05:31,680 --> 00:05:34,880
+Voilà, c'est à peu près tout ce que j'avais à dire.
+
+60
+00:05:34,880 --> 00:05:39,680
+Je ne fais pas d'actu, il s'est passé pas mal de trucs, mais il s'est passé pas mal de trucs dans le monde.
+
+61
+00:05:39,680 --> 00:05:43,160
+Il s'est passé pas mal de trucs sur le CTFR aussi, il y a eu plein de dramas et tout.
+
+62
+00:05:43,160 --> 00:05:44,880
+On ne va pas faire une émission là-dessus.
+
+63
+00:05:44,880 --> 00:05:52,280
+Donc moi, je propose qu'on saute, qu'on se rue vers le sujet de ce soir, qui est Solana.
+
+64
+00:05:52,280 --> 00:05:58,480
+Et toi, c'est ça, Pierre, en fait, c'est toi qui m'as donné l'inspiration pour ce topique-là.
+
+65
+00:05:58,480 --> 00:06:01,360
+Parce que je t'ai vu t'intéresser à Solana.
+
+66
+00:06:01,360 --> 00:06:03,480
+Et puis j'ai commencé à regarder un peu vite fait aussi de mon côté.
+
+67
+00:06:03,480 --> 00:06:05,840
+Tu vois, je me suis dit qu'est-ce qu'il fait?
+
+68
+00:06:05,840 --> 00:06:10,160
+Est-ce qu'il y a des gens qui font ça, genre publier des NFT sur Solana?
+
+69
+00:06:10,160 --> 00:06:12,360
+Et donc, je me suis renseigné un tout petit peu.
+
+70
+00:06:12,360 --> 00:06:19,440
+Et puis, ça avait l'air d'être cool, mais en même temps, ça avait l'air d'être un peu genre comme centralisé et tout ça.
+
+71
+00:06:19,440 --> 00:06:21,400
+Et puis, je me suis dit, tiens, on retombe dans ma tête.
+
+72
+00:06:21,400 --> 00:06:26,040
+Je retombais dans un débat, un des milliers de débats qu'on a eu, nous, mais aussi d'autres personnes.
+
+73
+00:06:26,840 --> 00:06:32,560
+Le débat dans la communauté crypto, genre Solana, est-ce que c'est bien, c'est pas bien?
+
+74
+00:06:32,560 --> 00:06:33,680
+Est-ce que c'est centralisé ou pas?
+
+75
+00:06:33,680 --> 00:06:35,520
+Et tout ça, je me suis dit, il faut qu'on fasse une émission là-dessus.
+
+76
+00:06:35,520 --> 00:06:43,360
+Donc, du coup, c'est quoi ton expérience, Pierre, avec la publication de NFT sur le réseau Solana?
+
+77
+00:06:43,360 --> 00:06:43,960
+Est-ce que c'est cool?
+
+78
+00:06:46,080 --> 00:06:54,760
+Alors, ouais, en fait, moi, je bossais récemment sur des œuvres faites à partir de charts, donc de charts cryptos.
+
+79
+00:06:55,240 --> 00:06:59,600
+Enfin, à un moment que je réfléchis à ça, en fait, tous ici, un peu dans le crypto Twitter,
+
+80
+00:06:59,600 --> 00:07:04,160
+on a souvent les yeux rivés sur des sortes de graphiques avec des couleurs.
+
+81
+00:07:04,160 --> 00:07:11,040
+Et il se trouve que c'est des formes qu'on regarde et qui produisent souvent des émotions liées à leur esthétique,
+
+82
+00:07:11,040 --> 00:07:12,480
+mais surtout à leur concept qu'il y a derrière.
+
+83
+00:07:12,480 --> 00:07:16,000
+Et ça, ça me fait penser en premier lieu vraiment à une œuvre d'art, en fait.
+
+84
+00:07:16,000 --> 00:07:21,680
+Et donc, du coup, j'ai commencé à travailler avec ça et il est sorti des formes assez intéressantes.
+
+85
+00:07:22,280 --> 00:07:27,760
+Et puis, j'avais un peu de traction sur Twitter avec ça, les gens aimaient bien et tout.
+
+86
+00:07:27,760 --> 00:07:31,280
+Et je me suis dit, bon, en même temps, il y a eu le pump un peu de Solana.
+
+87
+00:07:31,280 --> 00:07:34,360
+Je me suis dit, c'est marrant, je fais des charts qui montent et puis il y a Solana qui monte.
+
+88
+00:07:36,360 --> 00:07:42,400
+Et je me suis dit, j'ai entendu pas mal de gens plus jeunes, plutôt des générations Z,
+
+89
+00:07:43,160 --> 00:07:48,080
+qui rentraient dans la crypto, en fait, et qui rentraient avec des tout petites sommes
+
+90
+00:07:49,160 --> 00:07:51,480
+et qui rentraient du coup plutôt sur des blockchains comme Solana.
+
+91
+00:07:51,800 --> 00:07:58,200
+Parce que c'était hors de question pour eux, quand tu rentres avec 30 balles, en fait, dans la crypto,
+
+92
+00:07:58,200 --> 00:08:01,480
+tu vas pas commencer à taper des frais sur Ether.
+
+93
+00:08:02,160 --> 00:08:04,440
+Et là, je me suis dit, ah ouais, mais en fait,
+
+94
+00:08:05,800 --> 00:08:10,040
+vu qu'en ce moment, je m'intéresse pas mal à des trucs plutôt d'adoption de masse lié au gaming,
+
+95
+00:08:10,040 --> 00:08:13,400
+et j'en parlerai dans un second temps.
+
+96
+00:08:14,160 --> 00:08:16,560
+Je me suis dit que quand même, c'était intéressant.
+
+97
+00:08:16,560 --> 00:08:19,760
+Et alors, même s'il y a Tezos d'un côté qui était là un petit peu pour ça,
+
+98
+00:08:20,640 --> 00:08:29,680
+avec une communauté d'artistes autour de NFT qui était entre guillemets pas cher à transporter et à stocker,
+
+99
+00:08:30,760 --> 00:08:33,640
+Tezos, ça reste quand même tout petit en termes de communauté.
+
+100
+00:08:34,320 --> 00:08:36,880
+Et c'est à ce moment-là, en fait, que je me suis dit,
+
+101
+00:08:36,880 --> 00:08:39,160
+tiens, je vais aller voir ce que c'est que de minter sur Solana.
+
+102
+00:08:39,160 --> 00:08:46,320
+Donc, je suis allé sur Exchange.org et j'ai minté 2-3 de mes charts.
+
+103
+00:08:46,560 --> 00:08:49,560
+Et en effet, bon, c'est immédiat, ça coûte rien et tout.
+
+104
+00:08:49,560 --> 00:08:52,440
+Je me suis dit, ah, c'est sympa, il faudrait se consigner un petit peu sur la tech.
+
+105
+00:08:52,440 --> 00:08:55,920
+Et puis, j'ai lu un petit peu autour et ça paraît pas moins protégé.
+
+106
+00:08:56,920 --> 00:09:03,760
+Enfin, c'est pas hors d'inoles, tu vois, mais ça paraît pas moins protégé que des NFT sur Tezos, en tout cas,
+
+107
+00:09:03,760 --> 00:09:06,280
+en termes de centralisation de la chaîne et tout.
+
+108
+00:09:08,280 --> 00:09:10,880
+Et il se trouve que voilà, il y a des gens qui en ont acheté direct, en fait,
+
+109
+00:09:10,880 --> 00:09:13,760
+qui m'ont fait des offres directes et tout, puis j'en postais.
+
+110
+00:09:14,200 --> 00:09:15,200
+Donc, voilà.
+
+111
+00:09:15,200 --> 00:09:16,200
+Donc, en fait, j'ai...
+
+112
+00:09:16,200 --> 00:09:20,520
+Et c'était en fait même des gens qui me suivaient et qui collectionnaient sur Solana,
+
+113
+00:09:20,520 --> 00:09:22,520
+mais qui collectionnaient pas sur d'autres chaînes.
+
+114
+00:09:22,520 --> 00:09:25,760
+Et pourtant, moi, dans mon esprit, c'était des gens...
+
+115
+00:09:25,760 --> 00:09:27,520
+Tu vois, Solana, c'était un peu des trucs de DGN,
+
+116
+00:09:27,520 --> 00:09:30,520
+des gens qui collectionnaient vraiment des PFP ou des choses comme ça.
+
+117
+00:09:30,520 --> 00:09:34,120
+Et là, en fait, dans les gens qui m'ont acheté, il y avait vraiment des gens qui achetaient de l'art.
+
+118
+00:09:34,120 --> 00:09:38,320
+Il y avait notamment des gens qui venaient des parcours artistiques
+
+119
+00:09:38,320 --> 00:09:40,320
+et qui m'annonçaient des trucs de l'art.
+
+120
+00:09:40,560 --> 00:09:45,080
+Qui venaient des parcours artistiques ou qui maintenant sont dans des startups.
+
+121
+00:09:45,080 --> 00:09:49,080
+Et je me suis dit, ah ouais, c'est quand même intéressant à quel point, en fait, j'ai eu...
+
+122
+00:09:49,080 --> 00:09:52,560
+J'ai eu la vision un petit peu fermée à une époque.
+
+123
+00:09:52,560 --> 00:09:55,080
+C'était même un petit peu une blague à une époque.
+
+124
+00:09:55,080 --> 00:09:58,080
+C'était presque un mème de dire Minté sur Solana pour les artistes.
+
+125
+00:09:58,080 --> 00:09:59,080
+Enfin...
+
+126
+00:10:00,320 --> 00:10:01,560
+Mais en même temps, voilà.
+
+127
+00:10:01,560 --> 00:10:06,880
+J'ai l'impression qu'il y a quelque chose parfois d'un petit peu fatigué dans Ethereum.
+
+128
+00:10:06,880 --> 00:10:08,880
+Donc là, c'est pas tant sur le point de vue de la tech,
+
+129
+00:10:08,880 --> 00:10:10,880
+mais c'est du point de vue des gens.
+
+130
+00:10:10,880 --> 00:10:12,880
+En fait, c'est toujours un peu les mêmes personnes
+
+131
+00:10:12,880 --> 00:10:16,880
+qui sont un peu les gatekeepers de leur écosystème.
+
+132
+00:10:16,880 --> 00:10:19,880
+Ils ont eu des thèses d'investissement.
+
+133
+00:10:19,880 --> 00:10:23,880
+Donc j'en sais rien sur des gros patterns comme l'argent narratif ou ce genre de choses.
+
+134
+00:10:23,880 --> 00:10:25,880
+Et en fait, ils ne changeront jamais de thèse.
+
+135
+00:10:25,880 --> 00:10:30,880
+Ils ont trop d'enjeux de stake dans les thèses d'investissement qu'ils ont fait.
+
+136
+00:10:30,880 --> 00:10:35,880
+Et donc du coup, je ne vois pas dans cinq ans vraiment de gros virages.
+
+137
+00:10:36,880 --> 00:10:39,880
+Enfin, je ne dis pas que les NFT sur Ethereum disparaîtront,
+
+138
+00:10:39,880 --> 00:10:42,880
+mais je pense que ça ressemblera à la même chose
+
+139
+00:10:42,880 --> 00:10:45,880
+et que ce sera les mêmes gens qui seront là, un peu un circuit fermé.
+
+140
+00:10:45,880 --> 00:10:47,880
+Et moi, ce qui m'intéresse en tant qu'artiste,
+
+141
+00:10:47,880 --> 00:10:49,880
+dans cinq, dix ans, je serai encore là en fait.
+
+142
+00:10:49,880 --> 00:10:51,880
+Je ferai encore des œuvres.
+
+143
+00:10:51,880 --> 00:10:55,880
+Et c'est de me dire comment ça se passera à ce moment-là.
+
+144
+00:10:55,880 --> 00:10:59,880
+Et à la lumière de ce paradigme-là, je me dis que Solana,
+
+145
+00:10:59,880 --> 00:11:01,880
+franchement, c'était une bonne expérience.
+
+146
+00:11:01,880 --> 00:11:04,880
+Donc voilà comment ça s'est passé.
+
+147
+00:11:04,880 --> 00:11:07,880
+Alors après, j'ai arrêté parce qu'il y a quand même des gens,
+
+148
+00:11:07,880 --> 00:11:10,880
+des collectionneurs sur d'autres réseaux, notamment Farcaster.
+
+149
+00:11:10,880 --> 00:11:12,880
+On en avait parlé, c'est un truc, un réseau social centralisé,
+
+150
+00:11:12,880 --> 00:11:14,880
+un peu comme Lens ou comme Noster.
+
+151
+00:11:14,880 --> 00:11:17,880
+Il y a des gens sur Farcaster qui voulaient m'acheter aussi des charts,
+
+152
+00:11:17,880 --> 00:11:19,880
+mais qui m'ont dit par contre, nous, on te les achète,
+
+153
+00:11:19,880 --> 00:11:20,880
+mais quand c'est pas sur Solana.
+
+154
+00:11:20,880 --> 00:11:24,880
+Et donc Farcaster, c'est plutôt des gens qui viennent de la tech
+
+155
+00:11:24,880 --> 00:11:28,880
+et qui sont en général des gens, des Américains,
+
+156
+00:11:28,880 --> 00:11:32,880
+et qui sont tous un peu des builders dans le Web3.
+
+157
+00:11:32,880 --> 00:11:35,880
+Et donc là, je me suis dit, quand même, il y a un blocage,
+
+158
+00:11:35,880 --> 00:11:38,880
+je ne sais pas de quelle nature, s'il est technique,
+
+159
+00:11:38,880 --> 00:11:40,880
+s'il est philosophique.
+
+160
+00:11:40,880 --> 00:11:42,880
+Voilà.
+
+161
+00:11:42,880 --> 00:11:44,880
+Et donc du coup, là, pour l'instant, j'ai arrêté de minter sur Solana.
+
+162
+00:11:44,880 --> 00:11:48,880
+Et d'ailleurs, sur ces charts, il y aura une belle actualité en février
+
+163
+00:11:48,880 --> 00:11:52,880
+autour de NFT Paris, mais j'aurai l'occasion d'en reparler.
+
+164
+00:11:52,880 --> 00:11:55,880
+Mais voilà, du coup, ma brève expérience de mine sur Solana
+
+165
+00:11:55,880 --> 00:11:58,880
+qui s'apparente d'un point de vue technique à celle de Tezos
+
+166
+00:11:58,880 --> 00:12:02,880
+et d'un point de vue, on va dire sociologique, assez étonnante,
+
+167
+00:12:02,880 --> 00:12:05,880
+puisqu'il y avait des nouveaux collectionneurs ou des gens
+
+168
+00:12:05,880 --> 00:12:09,880
+qui ne cohabitaient pas du tout avec les autres chaînes.
+
+169
+00:12:11,880 --> 00:12:14,880
+Et du coup, niveau marketing, tout ça,
+
+170
+00:12:14,880 --> 00:12:17,880
+parce que quand tu publies un truc sur Ethereum,
+
+171
+00:12:17,880 --> 00:12:19,880
+tu as des plateformes qui sont super connues,
+
+172
+00:12:19,880 --> 00:12:24,880
+genre OpenSea, Blur, puis d'autres que, d'ailleurs,
+
+173
+00:12:24,880 --> 00:12:26,880
+je ne sais plus l'autre, c'était quoi déjà?
+
+174
+00:12:26,880 --> 00:12:29,880
+Mais bref, il y en avait un aussi, un concurrent d'OpenSea à un moment donné.
+
+175
+00:12:29,880 --> 00:12:34,880
+Il y a quoi sur Solana? Il y a un truc où les gens vont
+
+176
+00:12:34,880 --> 00:12:37,880
+qui est sur Solana? Parce que je connais Magic Eden,
+
+177
+00:12:37,880 --> 00:12:39,880
+mais je ne sais pas si c'est un gros truc ou pas.
+
+178
+00:12:39,880 --> 00:12:41,880
+En plus, c'est un truc multichaine, j'ai l'impression.
+
+179
+00:12:41,880 --> 00:12:42,880
+Donc, je ne sais pas trop.
+
+180
+00:12:44,880 --> 00:12:45,880
+Bonsoir à tous.
+
+181
+00:12:46,880 --> 00:12:47,880
+Salut.
+
+182
+00:12:47,880 --> 00:12:48,880
+Salut, Kouar.
+
+183
+00:12:48,880 --> 00:12:49,880
+Salut, Pierre.
+
+184
+00:12:49,880 --> 00:12:50,880
+Salut, Kougam.
+
+185
+00:12:50,880 --> 00:12:52,880
+Alors, je ne suis pas spécialiste Solana,
+
+186
+00:12:52,880 --> 00:12:55,880
+mais en fait, on dit souvent que Solana, c'est un peu la blockchain du pauvre.
+
+187
+00:12:55,880 --> 00:12:59,880
+Donc, c'est bêtement résumé, mais les transactions sont faibles,
+
+188
+00:12:59,880 --> 00:13:02,880
+donc les volumes peuvent aller là-dessus assez facilement.
+
+189
+00:13:02,880 --> 00:13:04,880
+Donc, effectivement, tu évoquais Magic Eden,
+
+190
+00:13:04,880 --> 00:13:05,880
+mais il y a aussi Solanart.
+
+191
+00:13:06,880 --> 00:13:08,880
+Tu as la deux autres un peu plus obscure.
+
+192
+00:13:09,880 --> 00:13:11,880
+Solanart, c'est français, non, c'est Solanart qui est français,
+
+193
+00:13:11,880 --> 00:13:13,880
+qui est quand même pas mal foutu.
+
+194
+00:13:13,880 --> 00:13:16,880
+Ils ont quand même mis quelque chose comme trois ans pour mettre un forum dessus,
+
+195
+00:13:16,880 --> 00:13:17,880
+en bêta d'ailleurs.
+
+196
+00:13:19,880 --> 00:13:21,880
+Mais les deux plateformes sont assez similaires.
+
+197
+00:13:21,880 --> 00:13:24,880
+Après, c'est au niveau des royalties où ça doit changer un petit peu.
+
+198
+00:13:24,880 --> 00:13:28,880
+Mais il y a des trucs intéressants à minter sur Solanart.
+
+199
+00:13:28,880 --> 00:13:32,880
+Moi, j'en ai minté un petit peu, sans grand succès pour l'instant, ma foi.
+
+200
+00:13:33,880 --> 00:13:34,880
+Mais il y a des choses intéressantes.
+
+201
+00:13:34,880 --> 00:13:37,880
+Tu as des collections qui tiennent la durée, étonnamment,
+
+202
+00:13:37,880 --> 00:13:39,880
+qui reviennent de loin, de très loin.
+
+203
+00:13:41,880 --> 00:13:42,880
+OK, OK.
+
+204
+00:13:44,880 --> 00:13:45,880
+On t'a perdu, là.
+
+205
+00:13:45,880 --> 00:13:46,880
+Pardon, excuse-moi.
+
+206
+00:13:46,880 --> 00:13:48,880
+Et après, tu as des petits projets qui arrivent.
+
+207
+00:13:49,880 --> 00:13:51,880
+On peut qualifier ça de Ponzi, de rug,
+
+208
+00:13:51,880 --> 00:13:56,880
+comme les Banana Miner, pour faire du yield, comme ce n'est pas possible.
+
+209
+00:13:56,880 --> 00:13:59,880
+Tu as eu une distribution d'airdrop sur ça.
+
+210
+00:13:59,880 --> 00:14:00,880
+D'ailleurs, c'est un projet français.
+
+211
+00:14:00,880 --> 00:14:01,880
+Enfin, projet.
+
+212
+00:14:01,880 --> 00:14:03,880
+C'est un rug français, messieurs.
+
+213
+00:14:06,880 --> 00:14:10,880
+Et du coup, pour introduire l'invité,
+
+214
+00:14:10,880 --> 00:14:14,880
+parce qu'en fait, quand même,
+
+215
+00:14:14,880 --> 00:14:17,880
+Kuga, est-ce que tu peux nous dire qui t'es?
+
+216
+00:14:18,880 --> 00:14:22,880
+Parce que c'est marqué dans ton profil que tu es Grant Dave.
+
+217
+00:14:22,880 --> 00:14:24,880
+Qu'est-ce que ça veut dire, Grant Dave?
+
+218
+00:14:26,880 --> 00:14:28,880
+Alors, en gros, je travaille à la fondation,
+
+219
+00:14:28,880 --> 00:14:30,880
+et c'est moi qui m'occupe des grants.
+
+220
+00:14:30,880 --> 00:14:34,880
+Donc en gros, des subventions, des projets qui ont besoin pour se développer sur sol.
+
+221
+00:14:36,880 --> 00:14:40,880
+En gros, lorsqu'un projet a besoin d'un peu d'argent pour se développer,
+
+222
+00:14:40,880 --> 00:14:44,880
+pour le produit ou pour la communauté,
+
+223
+00:14:44,880 --> 00:14:47,880
+en fait, on reçoit des dossiers,
+
+224
+00:14:47,880 --> 00:14:52,880
+et on donne l'argent si on considère que c'est quelque chose qui vaut le coup.
+
+225
+00:14:52,880 --> 00:14:58,880
+Et dans ce qu'on considère comme qui vale le coup,
+
+226
+00:14:58,880 --> 00:15:00,880
+c'est tout ce qui est public good,
+
+227
+00:15:00,880 --> 00:15:06,880
+donc qui va vraiment donner un apport à la communauté en général,
+
+228
+00:15:06,880 --> 00:15:08,880
+que ce soit open source,
+
+229
+00:15:08,880 --> 00:15:12,880
+ou alors que ce soit pour d'autres projets, pour d'autres devs.
+
+230
+00:15:13,880 --> 00:15:16,880
+Voilà un petit peu, moi c'est ça dont je m'occupe à la fondation.
+
+231
+00:15:16,880 --> 00:15:19,880
+Ok, d'accord. Et il vient d'où cet argent?
+
+232
+00:15:20,880 --> 00:15:24,880
+La fondation, ça fonctionne comme n'importe quelle autre entreprise dans le monde.
+
+233
+00:15:25,880 --> 00:15:27,880
+Il y a des actionnaires, il y a des investisseurs,
+
+234
+00:15:27,880 --> 00:15:31,880
+et il y a des rentrées d'argent comme n'importe quelle autre entreprise.
+
+235
+00:15:31,880 --> 00:15:34,880
+On peut citer, ça peut être comme Amazon, Carrefour, etc.
+
+236
+00:15:34,880 --> 00:15:36,880
+L'argent, il vient d'ici.
+
+237
+00:15:36,880 --> 00:15:37,880
+Ok, d'accord.
+
+238
+00:15:37,880 --> 00:15:43,880
+Et donc, c'est ça, et c'est rattaché au développement de la blockchain Solana.
+
+239
+00:15:43,880 --> 00:15:44,880
+Ouais, exactement.
+
+240
+00:15:44,880 --> 00:15:48,880
+Tous les projets qui peuvent être aussi bien techniques que communautaires,
+
+241
+00:15:48,880 --> 00:15:51,880
+à partir du moment où ça s'apparente à du public good,
+
+242
+00:15:51,880 --> 00:15:54,880
+donc qui fait du bien à la commu,
+
+243
+00:15:54,880 --> 00:15:56,880
+pas forcément que la commu des utilisateurs,
+
+244
+00:15:56,880 --> 00:15:59,880
+mais aussi, et en particulier aussi des devs,
+
+245
+00:15:59,880 --> 00:16:02,880
+nous on va subventionner ces projets
+
+246
+00:16:02,880 --> 00:16:06,880
+pour que la majorité des gens qui utilisent la blockchain puissent en profiter
+
+247
+00:16:06,880 --> 00:16:12,880
+et grâce à surtout l'open source, puissent développer d'autres choses autour.
+
+248
+00:16:12,880 --> 00:16:15,880
+Et si je peux me permettre une question, Kouga,
+
+249
+00:16:15,880 --> 00:16:20,880
+il y a un rapport de ces public goods avec le téléphone Saga de Solana ou pas du tout?
+
+250
+00:16:20,880 --> 00:16:21,880
+Non, du tout.
+
+251
+00:16:21,880 --> 00:16:26,880
+En fait, l'équipe Solana Mobile est rattachée à Solana Labs.
+
+252
+00:16:26,880 --> 00:16:30,880
+Donc en fait, dans Solana, on a deux entités.
+
+253
+00:16:30,880 --> 00:16:32,880
+On a Solana Fondation et on a Solana Labs.
+
+254
+00:16:32,880 --> 00:16:37,880
+Et Solana Labs, en fait, eux sont rattachés à tout ce qui est l'aspect technique.
+
+255
+00:16:37,880 --> 00:16:41,880
+Donc en gros, c'est là où on va avoir tous les devs qui vont faire en sorte
+
+256
+00:16:41,880 --> 00:16:45,880
+que la blockchain s'améliore avec récemment, par exemple, le token extension
+
+257
+00:16:45,880 --> 00:16:47,880
+ou alors les compressed NFTs.
+
+258
+00:16:47,880 --> 00:16:49,880
+Et par contre, Solana Fondation, chez nous, c'est différent.
+
+259
+00:16:49,880 --> 00:16:54,880
+Nous, on va plus être axé communauté, marketing, communication.
+
+260
+00:16:54,880 --> 00:16:57,880
+On va faire en sorte que du coup, la boîte, elle fonctionne
+
+261
+00:16:57,880 --> 00:16:59,880
+parce que les gens la connaissent et l'utilisent en fait.
+
+262
+00:16:59,880 --> 00:17:00,880
+Ok.
+
+263
+00:17:00,880 --> 00:17:05,880
+Oui, parce que Korn a eu des petits problèmes avec le téléphone.
+
+264
+00:17:05,880 --> 00:17:07,880
+Il en a acheté deux, si j'ai bien compris.
+
+265
+00:17:07,880 --> 00:17:08,880
+Oui.
+
+266
+00:17:08,880 --> 00:17:09,880
+Il en a reçu un.
+
+267
+00:17:09,880 --> 00:17:13,880
+Il y a eu les deux qui ont été remboursés, entre guillemets.
+
+268
+00:17:13,880 --> 00:17:16,880
+Un que j'ai pris en carte de crédit et l'autre que j'ai payé en USDC.
+
+269
+00:17:16,880 --> 00:17:20,880
+Celui en carte de crédit m'a été refound quasiment trois jours après
+
+270
+00:17:20,880 --> 00:17:21,880
+parce que plus de téléphone.
+
+271
+00:17:21,880 --> 00:17:24,880
+Mais par contre, celui qui est en USDC n'est pas du tout refound.
+
+272
+00:17:24,880 --> 00:17:26,880
+Et pourtant, tu ne l'as pas reçu?
+
+273
+00:17:26,880 --> 00:17:28,880
+Non, non, ils sont en rupture complète.
+
+274
+00:17:28,880 --> 00:17:31,880
+J'ai reçu un mail pour ces deux commandes qui ont été annulées.
+
+275
+00:17:31,880 --> 00:17:33,880
+Donc, tu ne vas pas faire le SAV, Kuga, naturellement.
+
+276
+00:17:33,880 --> 00:17:39,880
+Mais voilà, j'ai payé une partie en carte pour un téléphone
+
+277
+00:17:39,880 --> 00:17:42,880
+et une autre partie en USDC.
+
+278
+00:17:42,880 --> 00:17:45,880
+Et l'USDC, ils m'ont dit que c'était refound, mais pour l'instant,
+
+279
+00:17:45,880 --> 00:17:46,880
+il n'y a rien de refound.
+
+280
+00:17:46,880 --> 00:17:48,880
+Voilà, c'est tout.
+
+281
+00:17:48,880 --> 00:17:50,880
+Ok, ok, je ne savais pas du tout.
+
+282
+00:17:50,880 --> 00:17:53,880
+Voilà, c'est pour ça qu'on a fait l'émission.
+
+283
+00:17:53,880 --> 00:17:55,880
+Donc, merci à tout le monde.
+
+284
+00:17:56,880 --> 00:18:01,880
+Non, mais c'est marrant parce que moi, j'ai une, comment dire,
+
+285
+00:18:01,880 --> 00:18:06,880
+une vision de Solana qui est vraiment un peu comme celle qui est décrite en ce moment.
+
+286
+00:18:06,880 --> 00:18:09,880
+Déjà, je connais très mal la blockchain, mais en plus, c'est ça,
+
+287
+00:18:09,880 --> 00:18:12,880
+pour moi, c'est comme une compagnie, en fait.
+
+288
+00:18:12,880 --> 00:18:14,880
+Ce n'est pas vraiment comme le truc décentralisé
+
+289
+00:18:14,880 --> 00:18:16,880
+où il y a des gens qui bossent pour le développer éventuellement,
+
+290
+00:18:16,880 --> 00:18:20,880
+mais il n'y a pas de, je ne sais pas comment dire,
+
+291
+00:18:20,880 --> 00:18:22,880
+il n'y a pas d'entité décentralisée qui décide
+
+292
+00:18:22,880 --> 00:18:25,880
+quels sont les features qui vont arriver, etc.
+
+293
+00:18:25,880 --> 00:18:27,880
+J'ai l'impression qu'il y a un peu plus ça sur Solana.
+
+294
+00:18:27,880 --> 00:18:29,880
+Du coup, comme tu as décrit un peu, il y a vraiment une organisation.
+
+295
+00:18:29,880 --> 00:18:32,880
+C'est un peu comme une compagnie, ils vendent des téléphones, etc.
+
+296
+00:18:32,880 --> 00:18:40,880
+Est-ce qu'il y a moyen de, comment dire,
+
+297
+00:18:40,880 --> 00:18:44,880
+je ne sais pas c'est quoi le mot, de déconstruire ce truc-là
+
+298
+00:18:44,880 --> 00:18:46,880
+ou est-ce que c'est vraiment ça, en fait?
+
+299
+00:18:46,880 --> 00:18:49,880
+En fait, la fondation, elle, elle est là.
+
+300
+00:18:50,880 --> 00:18:53,880
+Elle propose déjà une blockchain où tout le monde peut l'utiliser.
+
+301
+00:18:53,880 --> 00:18:58,880
+Et en fait, le but, c'est d'être la blockchain
+
+302
+00:18:58,880 --> 00:19:01,880
+qui va permettre à tout le monde de fonctionner dessus
+
+303
+00:19:01,880 --> 00:19:03,880
+en faisant tout ce qu'il est possible de faire.
+
+304
+00:19:03,880 --> 00:19:05,880
+Donc c'est pour ça qu'il y a pas mal d'innovations,
+
+305
+00:19:05,880 --> 00:19:06,880
+il y a pas mal de choses.
+
+306
+00:19:06,880 --> 00:19:08,880
+D'ailleurs, on a un slogan qui dit
+
+307
+00:19:08,880 --> 00:19:10,880
+« Oppose only possible on Solana »
+
+308
+00:19:10,880 --> 00:19:11,880
+parce qu'il y a des choses qui sont possibles
+
+309
+00:19:11,880 --> 00:19:13,880
+que sur notre blockchain actuellement.
+
+310
+00:19:13,880 --> 00:19:17,880
+Et en fait, le but, c'est vraiment de mettre à disposition
+
+311
+00:19:17,880 --> 00:19:21,880
+un outil où les utilisateurs peuvent faire ce qu'ils veulent avec.
+
+312
+00:19:21,880 --> 00:19:25,880
+C'est pour ça que la majorité des gros produits sur Solana
+
+313
+00:19:25,880 --> 00:19:27,880
+sont quasiment tous open source.
+
+314
+00:19:27,880 --> 00:19:32,880
+Et Sol n'hésite pas à partager des informations
+
+315
+00:19:32,880 --> 00:19:34,880
+sur la blockchain en permanence
+
+316
+00:19:34,880 --> 00:19:37,880
+pour permettre aux gens de vraiment comprendre l'essence
+
+317
+00:19:37,880 --> 00:19:40,880
+et de se dire « Ah bah, pourquoi je ne ferais pas un truc dessus moi aussi? »
+
+318
+00:19:40,880 --> 00:19:43,880
+Ouais, du coup, parce qu'il y a, comme disait Pierre tout à l'heure,
+
+319
+00:19:43,880 --> 00:19:48,880
+l'avantage par exemple d'utiliser Solana pour publier ses œuvres,
+
+320
+00:19:48,880 --> 00:19:50,880
+c'est notamment les frais qui sont vraiment réduits.
+
+321
+00:19:50,880 --> 00:19:54,880
+Qu'est-ce qui fait que les frais puissent être autant réduits
+
+322
+00:19:54,880 --> 00:19:57,880
+par rapport aux autres blockchains comme Bitcoin ou Ethereum?
+
+323
+00:19:57,880 --> 00:19:59,880
+Alors ça, ça va être vraiment de l'aspect technique.
+
+324
+00:19:59,880 --> 00:20:02,880
+Ouais, c'est vraiment...
+
+325
+00:20:02,880 --> 00:20:05,880
+En fait, ça c'est vraiment des questions...
+
+326
+00:20:05,880 --> 00:20:09,880
+Moi, je ne suis pas du tout un mec technique ou dev ou quoi que ce soit.
+
+327
+00:20:09,880 --> 00:20:12,880
+Donc je ne pourrais pas vraiment...
+
+328
+00:20:12,880 --> 00:20:14,880
+En fait, je n'ai pas envie de dire de bêtises.
+
+329
+00:20:14,880 --> 00:20:17,880
+Donc je vais passer cette question.
+
+330
+00:20:17,880 --> 00:20:19,880
+Ok, ok. C'est bien correct.
+
+331
+00:20:19,880 --> 00:20:24,880
+Et du coup, tout à l'heure, tu parlais que la Fondation,
+
+332
+00:20:24,880 --> 00:20:28,880
+ils allouaient un budget pour les gens qui font du bien à l'écosystème.
+
+333
+00:20:28,880 --> 00:20:30,880
+Comment tu définis faire du bien à l'écosystème?
+
+334
+00:20:30,880 --> 00:20:32,880
+C'est quoi le genre de critères?
+
+335
+00:20:32,880 --> 00:20:36,880
+Quels sont les projets qui sont mis en avant par la Fondation?
+
+336
+00:20:36,880 --> 00:20:38,880
+Eh bien, par exemple,
+
+337
+00:20:38,880 --> 00:20:44,880
+imaginons demain, tu as un projet qui est cool au niveau de l'infrastructure
+
+338
+00:20:44,880 --> 00:20:49,880
+parce que ça va permettre, je ne sais pas, d'une nouvelle activité sur sol.
+
+339
+00:20:49,880 --> 00:20:51,880
+Tiens, j'ai le meilleur exemple.
+
+340
+00:20:51,880 --> 00:20:54,880
+Là, il y a quelqu'un qui a construit ce qu'on appelle des EPNFT,
+
+341
+00:20:54,880 --> 00:20:57,880
+donc des NFT éphémères littéralement.
+
+342
+00:20:57,880 --> 00:21:00,880
+Il a construit ça sous le nom de Eplex.
+
+343
+00:21:00,880 --> 00:21:03,880
+Et en fait, il a complètement open source son programme.
+
+344
+00:21:03,880 --> 00:21:05,880
+Donc n'importe qui, demain, peut utiliser son programme
+
+345
+00:21:05,880 --> 00:21:10,880
+pour intégrer ces NFT éphémères dans son produit,
+
+346
+00:21:10,880 --> 00:21:13,880
+dans son projet ou dans quoi que ce soit.
+
+347
+00:21:13,880 --> 00:21:15,880
+Et donc, les gens vont de plus en plus l'utiliser.
+
+348
+00:21:15,880 --> 00:21:17,880
+Et ça va faire du bien à tout le monde
+
+349
+00:21:17,880 --> 00:21:21,880
+parce que du coup, ça introduit un nouveau mécanisme sur la blockchain
+
+350
+00:21:21,880 --> 00:21:25,880
+qui, pour l'instant, à ma connaissance, n'existe que chez nous.
+
+351
+00:21:25,880 --> 00:21:28,880
+Après, je me trompe peut-être, mais je ne crois pas l'avoir vu ailleurs.
+
+352
+00:21:28,880 --> 00:21:32,880
+Et en plus de ça, tout le monde va pouvoir continuer à build autour.
+
+353
+00:21:32,880 --> 00:21:35,880
+Et ça va permettre de nouvelles innovations derrière.
+
+354
+00:21:35,880 --> 00:21:37,880
+Donc c'est un peu ça.
+
+355
+00:21:37,880 --> 00:21:41,880
+Les NFT éphémères, c'est-à-dire que le NFT disparaît au bout d'un moment?
+
+356
+00:21:41,880 --> 00:21:43,880
+Oui, sous une condition.
+
+357
+00:21:43,880 --> 00:21:45,880
+Il va être burn sous une condition.
+
+358
+00:21:45,880 --> 00:21:46,880
+Est-ce que ça va être une condition de temps?
+
+359
+00:21:46,880 --> 00:21:53,880
+Est-ce que ça va être une condition parce que tu n'as pas payé, par exemple, un abonnement?
+
+360
+00:21:53,880 --> 00:21:56,880
+Ou parce que tu n'as pas rempli certaines conditions?
+
+361
+00:21:56,880 --> 00:22:00,880
+Oui, c'est ça, en fait. Il se fait burn sous une condition.
+
+362
+00:22:01,880 --> 00:22:03,880
+Si je peux me permettre, j'ai deux questions.
+
+363
+00:22:03,880 --> 00:22:05,880
+Ça existe déjà, ça, Guga?
+
+364
+00:22:05,880 --> 00:22:06,880
+Où ça?
+
+365
+00:22:06,880 --> 00:22:10,880
+Quand tu burn... Ah non, effectivement, tu as des potions.
+
+366
+00:22:10,880 --> 00:22:14,880
+Autant pour moi, mais à coup de pas, effectivement, je n'avais pas l'image.
+
+367
+00:22:14,880 --> 00:22:16,880
+Mais oui, c'est des potions qui te...
+
+368
+00:22:16,880 --> 00:22:20,880
+En fait, c'est comme si je te disais, demain, tu arrives devant,
+
+369
+00:22:20,880 --> 00:22:23,880
+tu as ton NFT avec un QR code dessus, devant un concert,
+
+370
+00:22:23,880 --> 00:22:26,880
+tu fais scanner le QR code et d'un seul coup, il burn.
+
+371
+00:22:26,880 --> 00:22:27,880
+Ça, c'est une condition.
+
+372
+00:22:27,880 --> 00:22:32,880
+Ça, c'est ce qui peut servir pour des NFT, pour des places, des ticketing, etc.
+
+373
+00:22:32,880 --> 00:22:33,880
+Oui, exactement.
+
+374
+00:22:33,880 --> 00:22:37,880
+Et deuxième question, il y a beaucoup de projets qui apply comme ça.
+
+375
+00:22:37,880 --> 00:22:38,880
+Tu en rejoins beaucoup.
+
+376
+00:22:38,880 --> 00:22:42,880
+Tu as eu un mou, il y a beaucoup de projets qui passent à la trappe.
+
+377
+00:22:42,880 --> 00:22:44,880
+Tu peux nous en dire plus un petit peu?
+
+378
+00:22:44,880 --> 00:22:47,880
+Oui, en fait, le seul mou qu'il y a pendant l'année, c'est pendant les fêtes,
+
+379
+00:22:47,880 --> 00:22:50,880
+les fêtes de Noël en particulier, fêtes de fin d'année,
+
+380
+00:22:50,880 --> 00:22:53,880
+parce qu'en fait, c'est commun à quasiment le monde entier.
+
+381
+00:22:53,880 --> 00:22:56,880
+Donc, tout le monde est un peu loin d'Internet, mais ça, de toute façon,
+
+382
+00:22:56,880 --> 00:22:57,880
+on le ressent un peu partout.
+
+383
+00:22:57,880 --> 00:23:01,880
+Mais sinon, non, il n'y a pas vraiment de mou.
+
+384
+00:23:01,880 --> 00:23:05,880
+Je reçois entre 5 et 10 applications par jour à review.
+
+385
+00:23:05,880 --> 00:23:08,880
+Donc, ça ne fait pas mal en vrai.
+
+386
+00:23:08,880 --> 00:23:14,880
+Mais la plupart, en fait, et surtout en ce moment, je reçois pas mal de demandes,
+
+387
+00:23:14,880 --> 00:23:17,880
+mais de gens qui veulent juste, qui se disent,
+
+388
+00:23:17,880 --> 00:23:20,880
+OK, Solana Fondation a de l'argent, bah vas-y, je vais en profiter,
+
+389
+00:23:20,880 --> 00:23:24,880
+je vais aller leur en demander et qui ne comprennent pas que ce n'est pas du tout
+
+390
+00:23:24,880 --> 00:23:27,880
+ce qu'on veut faire, quoi.
+
+391
+00:23:27,880 --> 00:23:29,880
+Enfin, donner de l'argent comme ça.
+
+392
+00:23:29,880 --> 00:23:33,880
+Ouais, mais en même temps, c'est un peu logique.
+
+393
+00:23:33,880 --> 00:23:37,880
+Parce que la question se pose, si tu fais un projet que tu ne sais pas trop,
+
+394
+00:23:37,880 --> 00:23:41,880
+tu t'es réfléchi entre les blockchains, tu es là, je vais faire peut-être un truc sur Ethereum ou quoi,
+
+395
+00:23:41,880 --> 00:23:45,880
+puis tout d'un coup, tu as eu vent que Solana, elle donne de l'argent pour faire ton projet,
+
+396
+00:23:45,880 --> 00:23:48,880
+automatiquement, tu te dis genre, OK, peut-être que ça peut être intéressant.
+
+397
+00:23:48,880 --> 00:23:51,880
+Et surtout, en plus, qu'est-ce qui empêche la personne de développer quelque chose pour Solana,
+
+398
+00:23:51,880 --> 00:23:56,880
+pour avoir les fonds, et en fait, à côté de ça, développer la même chose pour d'autres blockchains, finalement?
+
+399
+00:23:56,880 --> 00:23:58,880
+En fait, ouais, c'est ça.
+
+400
+00:23:58,880 --> 00:24:01,880
+Je ne vous tape pas dans le mille, c'est que nous, en fait, peu importe,
+
+401
+00:24:01,880 --> 00:24:03,880
+tu développes sur d'autres blockchains ou pas,
+
+402
+00:24:03,880 --> 00:24:06,880
+à partir du moment où tu remplis la condition de public good chez Solana,
+
+403
+00:24:06,880 --> 00:24:09,880
+tu peux dev sur 50 autres blockchains, nous, on s'en fiche,
+
+404
+00:24:09,880 --> 00:24:11,880
+tant que tu apportes ce que nous recherchons chez nous.
+
+405
+00:24:11,880 --> 00:24:14,880
+Mais en fait, le problème, c'est que les gens ne font pas du tout de recherche,
+
+406
+00:24:14,880 --> 00:24:18,880
+et viennent nous demander des tonnes d'argent en disant,
+
+407
+00:24:18,880 --> 00:24:20,880
+ouais, bah, moi, je veux faire ça.
+
+408
+00:24:20,880 --> 00:24:24,880
+Et en fait, ils ne font pas l'effort de faire des recherches sur comment la blockchain fonctionne.
+
+409
+00:24:24,880 --> 00:24:28,880
+Par exemple, il y a des gens qui viennent nous demander des 20 000, 15 000, 30 000 dollars
+
+410
+00:24:28,880 --> 00:24:36,880
+pour passer de ETH à Solana, parce que c'est le prix de dev.
+
+411
+00:24:36,880 --> 00:24:40,880
+Mais en fait, pas du tout, parce qu'en fait, Solana propose des outils gratos
+
+412
+00:24:40,880 --> 00:24:46,880
+pour les devs de passer de ETH à Sol en moins de, je ne sais pas combien de temps,
+
+413
+00:24:46,880 --> 00:24:48,880
+parce que je ne suis pas dev, donc je ne connais pas,
+
+414
+00:24:48,880 --> 00:24:50,880
+mais il y a des outils qui font ça automatiquement.
+
+415
+00:24:50,880 --> 00:24:52,880
+Et si ces personnes-là faisaient un tout petit peu de recherche,
+
+416
+00:24:52,880 --> 00:24:54,880
+ils pouvaient se rendre compte qu'il y avait ça.
+
+417
+00:24:54,880 --> 00:24:57,880
+Donc en fait, moi, derrière, la première pensée qui me vient à la tête quand je vois ça,
+
+418
+00:24:57,880 --> 00:24:59,880
+je me dis, ah, ce n'est pas sérieux.
+
+419
+00:24:59,880 --> 00:25:02,880
+Parce que du coup, ils n'ont pas fait de recherche et ils s'en fichent un peu.
+
+420
+00:25:02,880 --> 00:25:06,880
+Et ça ne répond pas du tout, enfin, aussi, les personnes ne répondent pas forcément
+
+421
+00:25:06,880 --> 00:25:10,880
+aux questions qu'on pose dans la demande d'application.
+
+422
+00:25:10,880 --> 00:25:13,880
+Et ça, du coup, ça pose un peu problème.
+
+423
+00:25:13,880 --> 00:25:16,880
+Je suis obligé de dire non, en fait, tout simplement.
+
+424
+00:25:16,880 --> 00:25:21,880
+Et j'ai plein de questions, mais il y a quelqu'un dans les commentaires qui a dit,
+
+425
+00:25:21,880 --> 00:25:27,880
+il y a RedBad qui dit, c'est quoi le nom du projet qui fait burn les NFT?
+
+426
+00:25:27,880 --> 00:25:30,880
+Ça s'appelle Iplex.
+
+427
+00:25:30,880 --> 00:25:33,880
+Pour l'instant, il n'y a qu'une seule condition, c'est sous timer.
+
+428
+00:25:33,880 --> 00:25:36,880
+Alors, vu que je connais la personne, je sais exactement où en est le développement,
+
+429
+00:25:36,880 --> 00:25:38,880
+c'est pour ça que je vous disais un peu plus d'informations dessus.
+
+430
+00:25:38,880 --> 00:25:41,880
+Mais ça n'a pas encore été posté publiquement, mais il y a beaucoup plus de conditions
+
+431
+00:25:41,880 --> 00:25:45,880
+qui vont faire en sorte, par exemple, scanner un QR code,
+
+432
+00:25:45,880 --> 00:25:48,880
+le fait de ne pas avoir payé un abonnement, ce qui peut être intéressant pour des boîtes,
+
+433
+00:25:48,880 --> 00:25:50,880
+ou des choses comme ça.
+
+434
+00:25:50,880 --> 00:25:56,880
+Mais pour l'instant, ce qui est axé au public, pour l'instant, c'est que le NFT éphémère
+
+435
+00:25:56,880 --> 00:25:59,880
+qui est burn sous condition de timer.
+
+436
+00:25:59,880 --> 00:26:02,880
+C'est-à-dire que, par exemple, vous vous en mintez un et vous dites que d'ici une semaine,
+
+437
+00:26:02,880 --> 00:26:05,880
+il burn, il sera burn d'ici une semaine automatiquement.
+
+438
+00:26:05,880 --> 00:26:06,880
+Ok.
+
+439
+00:26:06,880 --> 00:26:11,880
+Et genre, je ne sais pas si tu peux le dire, mais eux, ils ont levé combien du coup
+
+440
+00:26:11,880 --> 00:26:14,880
+auprès de la fondation pour développer ce projet-là?
+
+441
+00:26:14,880 --> 00:26:17,880
+Alors, la personne est toute seule, elle n'a rien levé,
+
+442
+00:26:17,880 --> 00:26:21,880
+elle a participé à deux hackathons, et pour l'instant, elle n'est pas en train du tout
+
+443
+00:26:21,880 --> 00:26:24,880
+de lever des fonds avec des VC.
+
+444
+00:26:24,880 --> 00:26:26,880
+Au contraire, elle essaie de s'en sortir toute seule.
+
+445
+00:26:26,880 --> 00:26:30,880
+Et vous, vous lui avez donné combien?
+
+446
+00:26:30,880 --> 00:26:36,880
+Elle a gagné les hackathons, elle en a gagné un à 30 000 et un autre à 5 000
+
+447
+00:26:36,880 --> 00:26:39,880
+sur les quatre derniers mois.
+
+448
+00:26:39,880 --> 00:26:40,880
+C'est pas mal.
+
+449
+00:26:40,880 --> 00:26:41,880
+Oui.
+
+450
+00:26:41,880 --> 00:26:43,880
+Après, la personne est toute seule et c'est son choix.
+
+451
+00:26:43,880 --> 00:26:45,880
+Mais moi, c'est clairement...
+
+452
+00:26:45,880 --> 00:26:48,880
+En fait, la première fois, pour vous donner un peu d'informations,
+
+453
+00:26:48,880 --> 00:26:50,880
+parce que du coup, je suis juge à certains hackathons,
+
+454
+00:26:50,880 --> 00:26:53,880
+parce que du coup, moi, je vais aller chercher ces projets public good.
+
+455
+00:26:53,880 --> 00:26:56,880
+Et en fait, quand cette personne est arrivée et a présenté son projet devant nous
+
+456
+00:26:56,880 --> 00:26:59,880
+en tant que juge, c'était à Berlin pour le hackathon,
+
+457
+00:26:59,880 --> 00:27:03,880
+je suis directement allé la voir derrière et je lui ai dit
+
+458
+00:27:03,880 --> 00:27:05,880
+« Écoute, ton projet rentre exactement dans ce qu'on recherche nous,
+
+459
+00:27:05,880 --> 00:27:08,880
+parce que c'est un public good, ça va permettre de développer sur le sol
+
+460
+00:27:08,880 --> 00:27:13,880
+et c'est un potentiel, un truc si c'est open source, c'est trop cool. »
+
+461
+00:27:13,880 --> 00:27:17,880
+Et en fait, moi, je lui ai dit « C'est rare que je fasse ça, mais je suis parti le voir. »
+
+462
+00:27:17,880 --> 00:27:20,880
+Et je lui ai dit « Faut surtout pas hésiter à demander un grant,
+
+463
+00:27:20,880 --> 00:27:23,880
+moi, je t'aiderai à faire ta demande. »
+
+464
+00:27:23,880 --> 00:27:26,880
+En fait, il faut savoir que moi, je review toutes les applications,
+
+465
+00:27:26,880 --> 00:27:29,880
+mais derrière, il y a des experts qui, en fonction du domaine,
+
+466
+00:27:29,880 --> 00:27:32,880
+que ce soit gaming, DeFi, infra, etc.,
+
+467
+00:27:32,880 --> 00:27:35,880
+eux prennent la décision si oui ou non on en a besoin.
+
+468
+00:27:35,880 --> 00:27:37,880
+Donc moi, je n'ai pas du tout le pouvoir de dire oui ou non,
+
+469
+00:27:37,880 --> 00:27:42,880
+c'est pour ça que je me permets d'aider les gens à faire leur demande de grant,
+
+470
+00:27:42,880 --> 00:27:44,880
+parce que je sais que derrière, ce n'est pas moi qui dit oui ou non
+
+471
+00:27:44,880 --> 00:27:47,880
+et il n'y a pas de problème avec ça.
+
+472
+00:27:48,880 --> 00:27:50,880
+C'est vrai que la dynamique est vraiment différente.
+
+473
+00:27:50,880 --> 00:27:53,880
+Je ne dis pas que c'est bien ou mal, je dis juste que je comprends les gens
+
+474
+00:27:53,880 --> 00:27:58,880
+qui sont dans le décentralisé, le plus gros décentralisé,
+
+475
+00:27:58,880 --> 00:28:02,880
+et qui, en fait, quand ils veulent faire un projet ou développer quelque chose,
+
+476
+00:28:02,880 --> 00:28:05,880
+soit ils le font en peine source, soit ils le font sur leur fond propre
+
+477
+00:28:05,880 --> 00:28:09,880
+et puis ensuite, ils essaient de monétiser d'une manière ou d'une autre, etc.
+
+478
+00:28:09,880 --> 00:28:12,880
+Le cheminement est quand même beaucoup plus compliqué,
+
+479
+00:28:12,880 --> 00:28:15,880
+beaucoup plus décentralisé, alors que là,
+
+480
+00:28:15,880 --> 00:28:20,880
+on est vraiment comme dans une structure qui ressemble beaucoup
+
+481
+00:28:20,880 --> 00:28:24,880
+au monde traditionnel finalement, avec ce que tu décris.
+
+482
+00:28:24,880 --> 00:28:28,880
+Après, les projets ne sont pas obligés de venir demander un grant,
+
+483
+00:28:28,880 --> 00:28:32,880
+ils peuvent rester dans leur coin et bulle comme si c'était sur une autre blockchain normale.
+
+484
+00:28:32,880 --> 00:28:35,880
+C'est juste que nous, on a un fonctionnement assez différent des autres blockchains
+
+485
+00:28:35,880 --> 00:28:39,880
+où on n'a pas du tout d'incentive, parce qu'on sait qu'il y a des personnes
+
+486
+00:28:39,880 --> 00:28:41,880
+qui vont vouloir le farmer et malheureusement,
+
+487
+00:28:41,880 --> 00:28:45,880
+en étant réaliste et en restant les pieds sur terre,
+
+488
+00:28:45,880 --> 00:28:50,880
+si on veut attirer le plus de personnes possible pour utiliser la blockchain,
+
+489
+00:28:50,880 --> 00:28:56,880
+il va falloir s'accommoder et rester un petit peu dans les clous du Web 2
+
+490
+00:28:56,880 --> 00:29:00,880
+et essayer d'avoir plutôt un Web 2.5 plutôt qu'un Web 3,
+
+491
+00:29:00,880 --> 00:29:04,880
+parce que demain, si vous voulez emmener vos parents sur le Web 3,
+
+492
+00:29:04,880 --> 00:29:06,880
+vous allez devoir leur faire comprendre ce que c'est qu'un wallet,
+
+493
+00:29:06,880 --> 00:29:09,880
+des transactions, des fees, etc.
+
+494
+00:29:09,880 --> 00:29:13,880
+Ce n'est vraiment pas incroyable en termes de reach.
+
+495
+00:29:13,880 --> 00:29:17,880
+C'est vrai que nous, on essaie d'avoir une approche,
+
+496
+00:29:17,880 --> 00:29:20,880
+moi en tout cas, je sais que pas mal de gens à la fondation ont la même approche,
+
+497
+00:29:20,880 --> 00:29:23,880
+un peu plus terre à terre pour l'instant,
+
+498
+00:29:23,880 --> 00:29:28,880
+mais au niveau des infrastructures, elle reste totalement Web 3.
+
+499
+00:29:28,880 --> 00:29:30,880
+Ça, c'est quelque chose qu'on ne peut pas nous enlever.
+
+500
+00:29:30,880 --> 00:29:32,880
+Totalement Web 3 au niveau de l'infra,
+
+501
+00:29:32,880 --> 00:29:36,880
+mais c'est vrai que notre approche est un peu plus traditionnelle.
+
+502
+00:29:37,880 --> 00:29:41,880
+Je me suis perdu un peu dans mes questions,
+
+503
+00:29:41,880 --> 00:29:42,880
+mais bonjour à ceux qui sont là.
+
+504
+00:29:42,880 --> 00:29:45,880
+D'ailleurs, ceux qui sont là, si vous voulez poser des questions
+
+505
+00:29:45,880 --> 00:29:48,880
+ou dire des choses ou quoi, n'hésitez pas à me demander le rôle de speaker.
+
+506
+00:29:48,880 --> 00:29:53,880
+Je vous le donne automatiquement, c'est pour ça que l'émission est faite.
+
+507
+00:29:53,880 --> 00:29:56,880
+C'est ça la question que je voulais te poser.
+
+508
+00:29:56,880 --> 00:30:04,880
+Est-ce qu'il y a des artistes qui se sont mis sur Solana
+
+509
+00:30:04,880 --> 00:30:08,880
+ou qui ont switché d'Ethereum vers Solana ou d'une autre blockchain vers Solana?
+
+510
+00:30:08,880 --> 00:30:13,880
+Genre des gens un peu connus qui ont adopté la tech pour une raison X ou Y.
+
+511
+00:30:13,880 --> 00:30:18,880
+Est-ce qu'il y a quelque chose comme ça qui s'est passé ou pas encore?
+
+512
+00:30:18,880 --> 00:30:21,880
+C'est un sujet assez particulier de l'art sur Solana
+
+513
+00:30:21,880 --> 00:30:24,880
+parce qu'en fait, avant les quelques derniers mois,
+
+514
+00:30:24,880 --> 00:30:27,880
+on n'avait quasiment pas de public.
+
+515
+00:30:27,880 --> 00:30:31,880
+Moi, quand j'en achetais à l'époque, parce que j'en collectionne et j'achète sur Solana,
+
+516
+00:30:31,880 --> 00:30:33,880
+même si ça peut paraître ridicule,
+
+517
+00:30:33,880 --> 00:30:36,880
+c'est là où j'ai grandi dans le Web3.
+
+518
+00:30:36,880 --> 00:30:38,880
+C'est pour ça que j'ai envie d'acheter là-bas.
+
+519
+00:30:38,880 --> 00:30:40,880
+C'est un peu là où j'ai ma personnalité.
+
+520
+00:30:40,880 --> 00:30:43,880
+J'ai envie aussi d'encourager les artistes là-bas, donc c'est ça mon choix.
+
+521
+00:30:43,880 --> 00:30:46,880
+Mais il n'y avait quasiment personne qui achetait.
+
+522
+00:30:46,880 --> 00:30:48,880
+Lorsque quelqu'un commençait à acheter,
+
+523
+00:30:48,880 --> 00:30:51,880
+t'es un nouveau collectionneur, moi quand j'ai commencé à être nouveau collectionneur,
+
+524
+00:30:51,880 --> 00:30:54,880
+j'ai eu beaucoup de personnes qui ont commencé à me suivre
+
+525
+00:30:54,880 --> 00:30:57,880
+parce qu'il y avait très peu de personnes qui achetaient, très peu de public, etc.
+
+526
+00:30:58,880 --> 00:31:03,880
+Petit à petit, il y a eu des personnes qui ont commencé à vouloir pousser ça.
+
+527
+00:31:03,880 --> 00:31:06,880
+Ça a pris énormément de temps, c'est un peu comme la defi sur Solana, on ne va pas se mentir.
+
+528
+00:31:06,880 --> 00:31:11,880
+Avant août-septembre, c'était vraiment très petit.
+
+529
+00:31:11,880 --> 00:31:16,880
+Aujourd'hui, on tape des TVL à 200 millions, voire 500 millions par certains protocoles.
+
+530
+00:31:16,880 --> 00:31:19,880
+Je ne sais pas par rapport à ETH si c'est ridicule ou pas,
+
+531
+00:31:19,880 --> 00:31:24,880
+mais chez nous, ça montre que ça grandit puisque c'est des chiffres qui font ça en deux mois.
+
+532
+00:31:25,880 --> 00:31:28,880
+Dans l'art, ça commence à se développer, surtout avec Drip.
+
+533
+00:31:28,880 --> 00:31:32,880
+C'est une application, c'est un protocole, je ne sais même pas comment on peut appeler ça,
+
+534
+00:31:32,880 --> 00:31:36,880
+mais c'est une plateforme qui distribue des NFT d'artistes gratuitement,
+
+535
+00:31:36,880 --> 00:31:38,880
+juste en s'inscrivant sur le site.
+
+536
+00:31:38,880 --> 00:31:40,880
+Il n'y a même pas à payer les fees.
+
+537
+00:31:40,880 --> 00:31:43,880
+Vous arrivez avec vos toilettes, vous vous connectez,
+
+538
+00:31:43,880 --> 00:31:46,880
+et vous vous abonnez au channel des artistes que vous voulez.
+
+539
+00:31:46,880 --> 00:31:49,880
+Toutes les semaines, l'artiste vous envoie un NFT.
+
+540
+00:31:50,880 --> 00:31:52,880
+Il y a trois niveaux de rareté.
+
+541
+00:31:52,880 --> 00:31:54,880
+Il y a normal, rare et légendaire.
+
+542
+00:31:54,880 --> 00:31:56,880
+Vous recevez un NFT gratuitement chaque semaine.
+
+543
+00:31:56,880 --> 00:31:59,880
+C'est intéressant parce que ça permet de mettre la lumière sur les artistes.
+
+544
+00:31:59,880 --> 00:32:02,880
+Ça se développe beaucoup plus parce que maintenant,
+
+545
+00:32:02,880 --> 00:32:05,880
+on a des artistes qui viennent sur le sol juste à cause de Drip.
+
+546
+00:32:05,880 --> 00:32:10,880
+C'est vraiment très récent, ou alors il y en a eu vraiment très peu avant.
+
+547
+00:32:10,880 --> 00:32:15,880
+Maintenant, les gens viennent parce que Drip permet d'avoir 30 000, 50 000 utilisateurs
+
+548
+00:32:15,880 --> 00:32:19,880
+qui vont recevoir ton art comme ça, en un claquement de doigt, en une semaine.
+
+549
+00:32:19,880 --> 00:32:24,880
+Récemment, il y a eu un jeu qui a fait une collaboration avec Drip aujourd'hui.
+
+550
+00:32:24,880 --> 00:32:28,880
+Il y a eu plus de 50 000 inscrits et 50 000 personnes
+
+551
+00:32:28,880 --> 00:32:31,880
+qui sont allées claimer leur NFT gratuit sur le site du jeu vidéo.
+
+552
+00:32:31,880 --> 00:32:34,880
+Ce n'est pas rien du tout.
+
+553
+00:32:34,880 --> 00:32:39,880
+Pour continuer à parler de l'art, on a pas mal d'artistes qui ont commencé sur le sol
+
+554
+00:32:39,880 --> 00:32:43,880
+et qui ont d'abord essayé d'évoluer en tant qu'artiste sur Solana
+
+555
+00:32:43,880 --> 00:32:46,880
+parce que ça ne coûte pas cher, ça permet de se chercher.
+
+556
+00:32:46,880 --> 00:32:49,880
+Ils sont ensuite allés sur ETH, sur Bitcoin avec les ordinales,
+
+557
+00:32:49,880 --> 00:32:54,880
+ou même sur Tezos pour ensuite avoir ce riche un peu plus élevé.
+
+558
+00:32:54,880 --> 00:32:59,880
+Parce que Tezos, Ethereum, c'est beaucoup plus intéressant en tant qu'artiste,
+
+559
+00:32:59,880 --> 00:33:04,880
+que ce soit financièrement, surtout Ethereum, ou au niveau des collectionneurs.
+
+560
+00:33:04,880 --> 00:33:09,880
+Ils sont allés là-bas en tant qu'artistes avec leurs propres pattes
+
+561
+00:33:09,880 --> 00:33:11,880
+et qui savaient du coup comment gérer là-bas.
+
+562
+00:33:11,880 --> 00:33:13,880
+Et ça, on ne peut pas du tout leur enlever,
+
+563
+00:33:13,880 --> 00:33:16,880
+parce que comme disait je crois que c'était Carl qui disait ça au début,
+
+564
+00:33:16,880 --> 00:33:25,880
+ou Pierre, sur Ethereum, les artistes et les collectionneurs, c'est autre chose.
+
+565
+00:33:25,880 --> 00:33:27,880
+C'est vraiment un autre monde.
+
+566
+00:33:27,880 --> 00:33:31,880
+Et ce n'est pas péjoratif la façon dont je vais le dire, mais c'est un peu élitiste.
+
+567
+00:33:31,880 --> 00:33:36,880
+C'est là-bas où les gens ont grandi aussi, parce que moi je suis un peu pareil dans mon côté,
+
+568
+00:33:36,880 --> 00:33:41,880
+mais c'est là où les gens ont grandi, ont fait leur début, ont commencé à collectionner.
+
+569
+00:33:41,880 --> 00:33:45,880
+Et même si les fiches sont élevées, du coup on a un autre type de personne,
+
+570
+00:33:45,880 --> 00:33:46,880
+un autre type de collectionneur.
+
+571
+00:33:46,880 --> 00:33:48,880
+Et ce n'est pas négatif la façon dont je le dis, au contraire,
+
+572
+00:33:48,880 --> 00:33:52,880
+moi je trouve ça incroyable et j'aimerais beaucoup faire partie de ces gens
+
+573
+00:33:52,880 --> 00:33:58,880
+qui dépensent des milliers sur Ethereum pour avoir des trucs.
+
+574
+00:33:58,880 --> 00:34:00,880
+Mais moi je reste dans mon coin un petit peu sur Solana,
+
+575
+00:34:00,880 --> 00:34:02,880
+parce que j'ai aussi envie de développer la communauté, etc.
+
+576
+00:34:03,880 --> 00:34:07,880
+C'était long, c'était un monologue, mais j'ai essayé d'aborder tout le sujet.
+
+577
+00:34:13,880 --> 00:34:16,880
+Et nous avons perdu Antho, qui est parti.
+
+578
+00:34:16,880 --> 00:34:17,880
+Ah, pardon, oui, excuse-moi.
+
+579
+00:34:17,880 --> 00:34:20,880
+Je parlais en livre, mais c'est cool.
+
+580
+00:34:20,880 --> 00:34:22,880
+On a pris les bonnes habitudes avant les vacances, quand même.
+
+581
+00:34:22,880 --> 00:34:24,880
+C'est intéressant.
+
+582
+00:34:24,880 --> 00:34:28,880
+Je suis désolé, j'étais totalement en train de parler tout seul avec le micro fermé.
+
+583
+00:34:29,880 --> 00:34:32,880
+J'étais en mode monologue aussi, mais avec moins de gens qui m'écoutent.
+
+584
+00:34:34,880 --> 00:34:36,880
+En gros, j'ai deux commentaires à faire là-dessus.
+
+585
+00:34:36,880 --> 00:34:38,880
+En gros, la question que je me disais, c'était
+
+586
+00:34:38,880 --> 00:34:43,880
+ça sert à quoi finalement de publier ces NFT sur Solana, par exemple?
+
+587
+00:34:43,880 --> 00:34:46,880
+Où est-ce que je vais afficher ça?
+
+588
+00:34:46,880 --> 00:34:50,880
+C'est la même question que je me posais, par exemple, avec des blockchains un peu...
+
+589
+00:34:50,880 --> 00:34:54,880
+J'ai envie de dire fermés, mais je ne sais pas si c'est vraiment le bon terme.
+
+590
+00:34:54,880 --> 00:34:56,880
+Des trucs qui sont un peu à côté, comme par exemple Ultra,
+
+591
+00:34:56,880 --> 00:34:58,880
+il va y avoir des NFT aussi dessus.
+
+592
+00:34:58,880 --> 00:35:01,880
+Mais si tu as un NFT sur Ultra, après, tu t'en fais quoi?
+
+593
+00:35:01,880 --> 00:35:05,880
+Du coup, je me suis dit, c'est quoi le futur des NFT?
+
+594
+00:35:09,880 --> 00:35:16,880
+Comment on va diffuser, afficher l'art ou je ne sais pas où les PFP,
+
+595
+00:35:16,880 --> 00:35:19,880
+si ça existe encore dans cinq ans ou bref, ce genre de trucs.
+
+596
+00:35:19,880 --> 00:35:22,880
+Et en gros, je me suis dit, peut-être l'adoption, c'est genre,
+
+597
+00:35:22,880 --> 00:35:25,880
+par exemple, les social media, si Twitter décide
+
+598
+00:35:25,880 --> 00:35:29,880
+d'afficher, de dire, vous pouvez maintenant mettre des NFT sur vos profils
+
+599
+00:35:29,880 --> 00:35:31,880
+et ce ne sera que des NFT Ethereum.
+
+600
+00:35:31,880 --> 00:35:36,880
+Là, du coup, ça va être Ethereum qui va être un petit peu plus
+
+601
+00:35:36,880 --> 00:35:38,880
+sur le devant de la scène de ce côté-là.
+
+602
+00:35:38,880 --> 00:35:42,880
+Mais, ça c'est pour le point numéro un, c'est genre, en fait,
+
+603
+00:35:42,880 --> 00:35:45,880
+l'avantage de Solana, c'est qu'il y a quand même beaucoup de jeux
+
+604
+00:35:45,880 --> 00:35:48,880
+qui sont sur Solana.
+
+605
+00:35:48,880 --> 00:35:53,880
+Et comme tu disais tout à l'heure, il y a une synergie apparemment
+
+606
+00:35:53,880 --> 00:35:56,880
+entre les NFT d'art et les jeux sur la blockchain.
+
+607
+00:35:56,880 --> 00:36:01,880
+Donc, du coup, ça peut être un élément qui fait que finalement,
+
+608
+00:36:01,880 --> 00:36:07,880
+les NFT d'art peuvent percer de cette manière-là, en fait.
+
+609
+00:36:08,880 --> 00:36:11,880
+En fait, oui, je suis d'accord d'un côté, mais en fait, moi,
+
+610
+00:36:11,880 --> 00:36:17,880
+je me pose la question, lorsqu'on achète de l'art,
+
+611
+00:36:17,880 --> 00:36:19,880
+pour quelle raison on l'achète derrière?
+
+612
+00:36:19,880 --> 00:36:21,880
+Je sais qu'il y a pas mal de gens qui ont essayé de jouer
+
+613
+00:36:21,880 --> 00:36:25,880
+sur la hype de l'art à un moment sur Sol pour se faire de l'argent, etc.
+
+614
+00:36:25,880 --> 00:36:28,880
+Mais la vraie question, c'est pourquoi on en achète?
+
+615
+00:36:28,880 --> 00:36:31,880
+Et qu'est-ce qu'on essaie de construire en tant qu'artiste?
+
+616
+00:36:31,880 --> 00:36:33,880
+Et qu'est-ce qu'on essaie de construire en tant que collectionneur?
+
+617
+00:36:33,880 --> 00:36:36,880
+En tant que collectionneur, c'est clair que vous aurez plus de visibilité
+
+618
+00:36:36,880 --> 00:36:40,880
+si vous allez sur Ethereum, parce que c'est là où tout le monde se vante.
+
+619
+00:36:40,880 --> 00:36:43,880
+D'une manière, je le dis, toujours pas péjorative, au contraire.
+
+620
+00:36:43,880 --> 00:36:46,880
+Moi, je suis très ouvert à tout et j'essaie juste de trouver
+
+621
+00:36:46,880 --> 00:36:48,880
+les bons mots pour dire ça.
+
+622
+00:36:48,880 --> 00:36:50,880
+Mais c'est là-bas où les gens se vantent de leur NFT
+
+623
+00:36:50,880 --> 00:36:53,880
+et ils ont bien raison, parce que c'est là-bas où on a des artistes intéressants.
+
+624
+00:36:53,880 --> 00:36:57,880
+Et c'est surtout là-bas où viennent les artistes un petit peu classiques du Web2,
+
+625
+00:36:57,880 --> 00:37:00,880
+vont surtout vers Ethereum, parce que c'est là-bas où on les dirige.
+
+626
+00:37:00,880 --> 00:37:03,880
+Mais Solana, elle peut être intéressante sur un autre truc,
+
+627
+00:37:03,880 --> 00:37:05,880
+et c'est pour ça que c'est là où Drip tape fort.
+
+628
+00:37:05,880 --> 00:37:07,880
+C'est que, en fait, c'est là où on va avoir plus de personnes
+
+629
+00:37:07,880 --> 00:37:10,880
+qui vont découvrir des artistes, mais pas forcément les collectionner.
+
+630
+00:37:10,880 --> 00:37:15,880
+Mais du coup, en tant qu'artiste, ce serait peut-être intéressant
+
+631
+00:37:15,880 --> 00:37:17,880
+d'aller sur Solana pour se faire un public,
+
+632
+00:37:17,880 --> 00:37:19,880
+mais tout autant aller sur d'autres blockchains
+
+633
+00:37:19,880 --> 00:37:25,880
+et mint des pièces peut-être un peu plus valueables sur Ethereum,
+
+634
+00:37:25,880 --> 00:37:29,880
+en se disant, ah, celle-là, j'ai peut-être un petit peu plus pris de temps dessus,
+
+635
+00:37:29,880 --> 00:37:33,880
+je la considère un peu plus, qui a un peu plus de valeur,
+
+636
+00:37:33,880 --> 00:37:35,880
+donc je vais la vendre un peu plus cher.
+
+637
+00:37:35,880 --> 00:37:37,880
+Alors que sur Sol, tu vas peut-être te dire,
+
+638
+00:37:37,880 --> 00:37:40,880
+là, j'ai un public qui peut être intéressant à me découvrir,
+
+639
+00:37:40,880 --> 00:37:43,880
+je vais peut-être partager des pièces qui ont un peu moins de valeur,
+
+640
+00:37:43,880 --> 00:37:46,880
+mais qui représentent ma personne, et je vais gagner une audience derrière,
+
+641
+00:37:46,880 --> 00:37:49,880
+et on sait très bien qu'aujourd'hui, avec les réseaux sociaux,
+
+642
+00:37:49,880 --> 00:37:53,880
+plus vous avez une grosse audience, plus c'est facile pour vous de faire beaucoup de choses,
+
+643
+00:37:53,880 --> 00:37:56,880
+que ce soit des projets, que ce soit vendre des pièces,
+
+644
+00:37:56,880 --> 00:38:00,880
+parce que demain, la différence entre 2000 collectionneurs sur Ethereum
+
+645
+00:38:00,880 --> 00:38:02,880
+et 15 000 collectionneurs sur Solana,
+
+646
+00:38:02,880 --> 00:38:06,880
+et collectionneurs en tout mot, que ce soit quelqu'un qui découvre ou qui ne découvre pas,
+
+647
+00:38:06,880 --> 00:38:08,880
+eh bien, vous allez mieux vendre si vous dites aux gens,
+
+648
+00:38:08,880 --> 00:38:11,880
+bah, j'ai 15 000 collectionneurs, et demain je fais un space ou j'ai un projet,
+
+649
+00:38:11,880 --> 00:38:13,880
+alors que si vous avez 2000 personnes,
+
+650
+00:38:13,880 --> 00:38:16,880
+ce sera peut-être une personne qui va être derrière vous,
+
+651
+00:38:16,880 --> 00:38:17,880
+mais qui va vous donner plus d'argent,
+
+652
+00:38:17,880 --> 00:38:21,880
+mais au final, c'est peut-être pas ce que vous cherchez sur le long terme en tant qu'artiste,
+
+653
+00:38:21,880 --> 00:38:25,880
+pour essayer d'être pérenne et de faire valoir votre art.
+
+654
+00:38:25,880 --> 00:38:29,880
+Donc je pense qu'il y a deux choses à jouer en tant qu'artiste,
+
+655
+00:38:29,880 --> 00:38:31,880
+c'est surtout de ne pas se fermer,
+
+656
+00:38:31,880 --> 00:38:34,880
+et d'aller chercher les bons points sur les blockchains,
+
+657
+00:38:34,880 --> 00:38:36,880
+en fonction de ce qui intéresse.
+
+658
+00:38:37,880 --> 00:38:38,880
+Moi, il y a...
+
+659
+00:38:40,880 --> 00:38:42,880
+Oui, vas-y Pierre.
+
+660
+00:38:42,880 --> 00:38:44,880
+Oui, ça m'évoque une chose,
+
+661
+00:38:44,880 --> 00:38:47,880
+parce qu'en fait, il y avait un post de je ne sais plus qui,
+
+662
+00:38:47,880 --> 00:38:51,880
+là, cette semaine, qui parlait de la potentielle mort d'Ether,
+
+663
+00:38:51,880 --> 00:38:55,880
+en disant, ah bah voilà, Ether c'est cher, et c'est moins décentralisé que Bitcoin,
+
+664
+00:38:55,880 --> 00:39:02,880
+enfin, le fameux truc, cette espèce de fameuse thèse qui revient tout le temps
+
+665
+00:39:02,880 --> 00:39:04,880
+dans un débat un peu éculé,
+
+666
+00:39:05,880 --> 00:39:07,880
+et d'un coup, j'ai une sorte d'illumination,
+
+667
+00:39:07,880 --> 00:39:09,880
+je me suis dit, ah mais en fait,
+
+668
+00:39:09,880 --> 00:39:18,880
+tous les gros early Ethereum qui ont fait des bagues énormes de NFT on-chain,
+
+669
+00:39:18,880 --> 00:39:19,880
+ici, je parle de hard blocks, tout ça,
+
+670
+00:39:19,880 --> 00:39:23,880
+mais qui ont utilisé en gros le smart contract comme un médium,
+
+671
+00:39:23,880 --> 00:39:25,880
+et Ether comme un storage,
+
+672
+00:39:25,880 --> 00:39:29,880
+c'était aussi une manière de se dire, on lâchera jamais la chaîne,
+
+673
+00:39:29,880 --> 00:39:37,880
+c'est-à-dire qu'on a fait notre argent avec l'ICO Ethereum,
+
+674
+00:39:37,880 --> 00:39:40,880
+on ne laissera jamais partir ça ailleurs,
+
+675
+00:39:40,880 --> 00:39:45,880
+et donc on stocke des assets, on crée des sortes de grégores autour d'œuvres,
+
+676
+00:39:45,880 --> 00:39:48,880
+c'est des ponzi finalement, d'une certaine manière,
+
+677
+00:39:48,880 --> 00:39:53,880
+parce que je prends des gros fonds d'investissement,
+
+678
+00:39:53,880 --> 00:39:54,880
+pour ne pas les nommer, j'en sais rien,
+
+679
+00:39:54,880 --> 00:39:58,880
+Cosomo, 65 Punk, 6529, tout ça,
+
+680
+00:39:58,880 --> 00:40:01,880
+ils envoient du marketing à balles,
+
+681
+00:40:01,880 --> 00:40:03,880
+et ils achètent des choses où ils font monter eux-mêmes les prix,
+
+682
+00:40:03,880 --> 00:40:05,880
+l'art contemporain fonctionne exactement de la même manière,
+
+683
+00:40:05,880 --> 00:40:13,880
+avec les fondations d'art contemporain, Louis Vuitton, fondation Pino,
+
+684
+00:40:13,880 --> 00:40:15,880
+c'est exactement la même chose,
+
+685
+00:40:15,880 --> 00:40:18,880
+et du coup je me suis fait la réflexion,
+
+686
+00:40:18,880 --> 00:40:21,880
+ah mais en fait, eux, qui sont les gros whales,
+
+687
+00:40:21,880 --> 00:40:23,880
+ne laisseront jamais tomber la chaîne,
+
+688
+00:40:23,880 --> 00:40:24,880
+ils ne vont pas migrer,
+
+689
+00:40:24,880 --> 00:40:26,880
+parce qu'ils ne pourront pas faire migrer leurs assets,
+
+690
+00:40:26,880 --> 00:40:32,880
+tu ne peux pas faire migrer un NFT qui utilise la blockchain comme médium,
+
+691
+00:40:32,880 --> 00:40:36,880
+tu ne peux pas faire migrer un NFT d'ArtBlocks vers Ordinal,
+
+692
+00:40:36,880 --> 00:40:39,880
+et après ça pose la question de,
+
+693
+00:40:39,880 --> 00:40:41,880
+et c'est ce que disait Kuga,
+
+694
+00:40:41,880 --> 00:40:43,880
+il y a certains NFT finalement,
+
+695
+00:40:43,880 --> 00:40:46,880
+qui sont de la question de pourquoi on collectionne,
+
+696
+00:40:46,880 --> 00:40:49,880
+et il y a une question finalement qu'apportent les NFT,
+
+697
+00:40:49,880 --> 00:40:51,880
+c'est une question de communauté,
+
+698
+00:40:51,880 --> 00:40:53,880
+où les gens ne vont pas se dire,
+
+699
+00:40:53,880 --> 00:40:55,880
+ah mais ça c'est une œuvre d'art hyper chère,
+
+700
+00:40:55,880 --> 00:40:57,880
+ça va être storé à jamais,
+
+701
+00:40:57,880 --> 00:41:00,880
+moi c'est un peu ce qui me gêne avec Bitcoin,
+
+702
+00:41:00,880 --> 00:41:01,880
+parce que les gens disent,
+
+703
+00:41:01,880 --> 00:41:02,880
+oui on va storer sur Bitcoin,
+
+704
+00:41:02,880 --> 00:41:03,880
+et c'est une œuvre d'art,
+
+705
+00:41:03,880 --> 00:41:04,880
+storée à jamais sur le truc,
+
+706
+00:41:04,880 --> 00:41:05,880
+oui d'accord,
+
+707
+00:41:05,880 --> 00:41:07,880
+mais tu as vu le prix que ça coûte?
+
+708
+00:41:07,880 --> 00:41:09,880
+Moi je fais des films,
+
+709
+00:41:09,880 --> 00:41:10,880
+je fais des vidéos,
+
+710
+00:41:10,880 --> 00:41:13,880
+va mettre un MP4 de 2Go dessus,
+
+711
+00:41:13,880 --> 00:41:14,880
+tu vois,
+
+712
+00:41:14,880 --> 00:41:17,880
+oui peut-être Bitcoin existera dans 10 ans,
+
+713
+00:41:17,880 --> 00:41:19,880
+et quelqu'un pourra le retrouver formidable,
+
+714
+00:41:19,880 --> 00:41:21,880
+mais mon disque dur aussi dans 10 ans,
+
+715
+00:41:21,880 --> 00:41:22,880
+il existera,
+
+716
+00:41:22,880 --> 00:41:25,880
+et je n'aurais pas payé 200 000 euros pour le storer,
+
+717
+00:41:25,880 --> 00:41:27,880
+donc il y a un truc aussi où je me dis,
+
+718
+00:41:27,880 --> 00:41:29,880
+ah j'ai quand même du mal à y voir clair là-dedans,
+
+719
+00:41:29,880 --> 00:41:31,880
+parce que d'un côté il y a un discours radical,
+
+720
+00:41:31,880 --> 00:41:33,880
+sur un truc du vraiment on-chain,
+
+721
+00:41:33,880 --> 00:41:34,880
+et je trouve ça ultra séduisant,
+
+722
+00:41:34,880 --> 00:41:35,880
+ordinaise,
+
+723
+00:41:35,880 --> 00:41:36,880
+attention,
+
+724
+00:41:36,880 --> 00:41:37,880
+d'un côté éter,
+
+725
+00:41:37,880 --> 00:41:38,880
+j'ai l'impression que,
+
+726
+00:41:38,880 --> 00:41:40,880
+tu vois c'est vrai que ça saoule,
+
+727
+00:41:40,880 --> 00:41:42,880
+quand tu commences à envoyer des 30 balles de gaz,
+
+728
+00:41:42,880 --> 00:41:44,880
+pour miner des trucs,
+
+729
+00:41:44,880 --> 00:41:45,880
+enfin 30 balles,
+
+730
+00:41:45,880 --> 00:41:46,880
+je te dis quoi,
+
+731
+00:41:46,880 --> 00:41:48,880
+100 balles quand tu mines sur Manifold,
+
+732
+00:41:48,880 --> 00:41:49,880
+ou des choses comme ça,
+
+733
+00:41:49,880 --> 00:41:51,880
+franchement tu te dis,
+
+734
+00:41:51,880 --> 00:41:53,880
+je suis en train de payer qui là?
+
+735
+00:41:53,880 --> 00:41:54,880
+Je suis en train de payer la chaîne,
+
+736
+00:41:54,880 --> 00:41:56,880
+je suis en train de payer la sécurité de quoi?
+
+737
+00:41:56,880 --> 00:41:59,880
+Et donc c'est vrai que c'est très séduisant,
+
+738
+00:41:59,880 --> 00:42:01,880
+au niveau de,
+
+739
+00:42:01,880 --> 00:42:03,880
+en fait des petites collections,
+
+740
+00:42:03,880 --> 00:42:04,880
+tu vois sur Tezos,
+
+741
+00:42:04,880 --> 00:42:05,880
+par exemple les gens qui,
+
+742
+00:42:05,880 --> 00:42:06,880
+ce qu'on reprochait à Tezos,
+
+743
+00:42:06,880 --> 00:42:07,880
+de dire,
+
+744
+00:42:07,880 --> 00:42:08,880
+oui mais ça vaut rien,
+
+745
+00:42:08,880 --> 00:42:10,880
+on t'achète des trucs 1 euro,
+
+746
+00:42:10,880 --> 00:42:11,880
+1 Tezos,
+
+747
+00:42:11,880 --> 00:42:12,880
+5 Tezos,
+
+748
+00:42:12,880 --> 00:42:14,880
+en fait c'est un peu comme des likes augmentés,
+
+749
+00:42:14,880 --> 00:42:16,880
+et c'est là où ça rejoint ce que disait Kuga,
+
+750
+00:42:16,880 --> 00:42:18,880
+c'est plus un truc communautaire,
+
+751
+00:42:18,880 --> 00:42:20,880
+où les gens en fait s'engagent,
+
+752
+00:42:20,880 --> 00:42:22,880
+à te mettre un like,
+
+753
+00:42:22,880 --> 00:42:24,880
+mais avec un peu plus d'enjeux,
+
+754
+00:42:24,880 --> 00:42:27,880
+ça existe un peu sur les réseaux sociaux décentralisés,
+
+755
+00:42:27,880 --> 00:42:28,880
+par exemple sur Farcaster,
+
+756
+00:42:28,880 --> 00:42:29,880
+tu peux mettre des warps,
+
+757
+00:42:29,880 --> 00:42:31,880
+ça équivaut à 1 euro par exemple,
+
+758
+00:42:31,880 --> 00:42:34,880
+mais tu viens grunter quelqu'un avec des warps,
+
+759
+00:42:34,880 --> 00:42:35,880
+en disant,
+
+760
+00:42:35,880 --> 00:42:36,880
+ah là j'ai bien nommé ton poste,
+
+761
+00:42:36,880 --> 00:42:38,880
+merci pour t'être impliqué là dedans,
+
+762
+00:42:38,880 --> 00:42:41,880
+et c'est une nouvelle manière d'interagir,
+
+763
+00:42:41,880 --> 00:42:43,880
+en communauté sur internet,
+
+764
+00:42:43,880 --> 00:42:44,880
+plutôt qu'un réflexe de,
+
+765
+00:42:44,880 --> 00:42:46,880
+vraiment collectionneur de quelque chose de précieux,
+
+766
+00:42:46,880 --> 00:42:47,880
+à mon sens,
+
+767
+00:42:47,880 --> 00:42:49,880
+et donc voilà,
+
+768
+00:42:49,880 --> 00:42:51,880
+c'était un petit peu cette réflexion là.
+
+769
+00:42:53,880 --> 00:42:55,880
+Ouais, bah du coup,
+
+770
+00:42:55,880 --> 00:42:59,880
+en fait tu retranscris un peu ce que j'étais en train de penser,
+
+771
+00:42:59,880 --> 00:43:00,880
+à l'instant,
+
+772
+00:43:00,880 --> 00:43:02,880
+c'est que j'ai l'impression que les gens qui sont,
+
+773
+00:43:02,880 --> 00:43:04,880
+les maxis,
+
+774
+00:43:04,880 --> 00:43:05,880
+les TH,
+
+775
+00:43:05,880 --> 00:43:08,880
+sont un peu le cul entre deux chaises en ce moment,
+
+776
+00:43:08,880 --> 00:43:10,880
+parce que tu as soit tes maxis,
+
+777
+00:43:10,880 --> 00:43:11,880
+genre maxi crypto,
+
+778
+00:43:11,880 --> 00:43:12,880
+dans ce cas tes bitcoins,
+
+779
+00:43:12,880 --> 00:43:14,880
+tes bitcoins maxi,
+
+780
+00:43:14,880 --> 00:43:16,880
+ou alors tu es un peu plus relax,
+
+781
+00:43:16,880 --> 00:43:18,880
+en mode adoption,
+
+782
+00:43:18,880 --> 00:43:20,880
+adoption facile,
+
+783
+00:43:20,880 --> 00:43:21,880
+outils,
+
+784
+00:43:21,880 --> 00:43:22,880
+smart contract et tout,
+
+785
+00:43:22,880 --> 00:43:24,880
+et jusqu'à maintenant c'était Ethereum,
+
+786
+00:43:24,880 --> 00:43:25,880
+parce que déjà,
+
+787
+00:43:25,880 --> 00:43:27,880
+historiquement c'était la tech,
+
+788
+00:43:27,880 --> 00:43:30,880
+qui était là depuis quasiment le début,
+
+789
+00:43:30,880 --> 00:43:32,880
+il y avait aussi une espèce de modularité,
+
+790
+00:43:32,880 --> 00:43:33,880
+avec Metamask,
+
+791
+00:43:33,880 --> 00:43:34,880
+etc,
+
+792
+00:43:34,880 --> 00:43:35,880
+tous les sites qui développaient sur Ethereum et tout,
+
+793
+00:43:35,880 --> 00:43:37,880
+qui faisait que tout fonctionnait un petit peu ensemble,
+
+794
+00:43:37,880 --> 00:43:38,880
+etc,
+
+795
+00:43:38,880 --> 00:43:39,880
+mais maintenant,
+
+796
+00:43:39,880 --> 00:43:41,880
+avec justement Tezos,
+
+797
+00:43:41,880 --> 00:43:42,880
+Solana,
+
+798
+00:43:42,880 --> 00:43:43,880
+et peut-être d'autres blochaines,
+
+799
+00:43:43,880 --> 00:43:45,880
+en fait on s'aperçoit que finalement,
+
+800
+00:43:46,880 --> 00:43:50,880
+si tu pars dans ce qui est facilité d'utilisation,
+
+801
+00:43:50,880 --> 00:43:51,880
+etc,
+
+802
+00:43:51,880 --> 00:43:52,880
+ou tout ce que tu viens de décrire à l'instant,
+
+803
+00:43:52,880 --> 00:43:56,880
+peut-être que des blochaines comme Solana,
+
+804
+00:43:56,880 --> 00:43:58,880
+sont en train de,
+
+805
+00:43:58,880 --> 00:44:01,880
+peut-être qu'il y a un takeover qui se profile,
+
+806
+00:44:01,880 --> 00:44:02,880
+tu vois,
+
+807
+00:44:02,880 --> 00:44:04,880
+et du coup c'était ça mon deuxième point,
+
+808
+00:44:04,880 --> 00:44:05,880
+ensuite je vais donner la parole à Captain Vincent,
+
+809
+00:44:05,880 --> 00:44:06,880
+qui a demandé depuis tout à l'heure,
+
+810
+00:44:06,880 --> 00:44:08,880
+mais mon deuxième point de tout à l'heure,
+
+811
+00:44:08,880 --> 00:44:11,880
+c'était un truc que tu as mentionné Pierre au tout début,
+
+812
+00:44:11,880 --> 00:44:14,880
+c'était l'âge des gens qui utilisent,
+
+813
+00:44:14,880 --> 00:44:16,880
+tu as mentionné les Gen Z,
+
+814
+00:44:16,880 --> 00:44:17,880
+et en gros,
+
+815
+00:44:17,880 --> 00:44:20,880
+c'est un truc qu'on avait déjà mentionné,
+
+816
+00:44:20,880 --> 00:44:21,880
+il me semble dans le passé,
+
+817
+00:44:21,880 --> 00:44:26,880
+c'est Solana attire probablement plus les nouvelles générations,
+
+818
+00:44:26,880 --> 00:44:27,880
+justement pour,
+
+819
+00:44:27,880 --> 00:44:29,880
+alors peut-être que c'est un peu moins décentralisé,
+
+820
+00:44:29,880 --> 00:44:30,880
+etc,
+
+821
+00:44:30,880 --> 00:44:31,880
+mais au moins,
+
+822
+00:44:31,880 --> 00:44:34,880
+il n'y a pas les fees,
+
+823
+00:44:34,880 --> 00:44:37,880
+c'est beaucoup plus simple d'utilisation,
+
+824
+00:44:37,880 --> 00:44:38,880
+peut-être un petit peu plus sécure aussi,
+
+825
+00:44:38,880 --> 00:44:40,880
+est-ce que,
+
+826
+00:44:40,880 --> 00:44:42,880
+c'est une question que je voulais te poser Kouya,
+
+827
+00:44:42,880 --> 00:44:43,880
+est-ce que tu,
+
+828
+00:44:43,880 --> 00:44:44,880
+est-ce que vous avez des,
+
+829
+00:44:44,880 --> 00:44:46,880
+comment des métriques par rapport à ça,
+
+830
+00:44:46,880 --> 00:44:49,880
+genre de type de gens qui utilisent Solana,
+
+831
+00:44:49,880 --> 00:44:50,880
+que ce soit,
+
+832
+00:44:50,880 --> 00:44:52,880
+je ne sais pas l'âge,
+
+833
+00:44:52,880 --> 00:44:54,880
+toutes sortes de données démographiques,
+
+834
+00:44:54,880 --> 00:44:56,880
+est-ce que vous avez ça?
+
+835
+00:44:56,880 --> 00:44:57,880
+Alors,
+
+836
+00:44:57,880 --> 00:44:58,880
+non pas du tout,
+
+837
+00:44:58,880 --> 00:45:00,880
+je n'ai pas de métrique officielle,
+
+838
+00:45:00,880 --> 00:45:02,880
+mais je sais que par exemple dans certains discords,
+
+839
+00:45:02,880 --> 00:45:03,880
+sur lesquels j'ai beaucoup traîné,
+
+840
+00:45:03,880 --> 00:45:04,880
+2021,
+
+841
+00:45:04,880 --> 00:45:05,880
+2022,
+
+842
+00:45:05,880 --> 00:45:06,880
+il y avait beaucoup,
+
+843
+00:45:06,880 --> 00:45:08,880
+beaucoup de personnes jeunes,
+
+844
+00:45:08,880 --> 00:45:09,880
+quand je dis jeunes,
+
+845
+00:45:09,880 --> 00:45:10,880
+c'est moins de 20 ans,
+
+846
+00:45:10,880 --> 00:45:11,880
+et je considère que,
+
+847
+00:45:11,880 --> 00:45:12,880
+ouais,
+
+848
+00:45:12,880 --> 00:45:13,880
+18,
+
+849
+00:45:13,880 --> 00:45:14,880
+17,
+
+850
+00:45:14,880 --> 00:45:15,880
+18 ans,
+
+851
+00:45:15,880 --> 00:45:16,880
+c'est jeune encore,
+
+852
+00:45:16,880 --> 00:45:17,880
+parce que,
+
+853
+00:45:17,880 --> 00:45:18,880
+bah,
+
+854
+00:45:18,880 --> 00:45:19,880
+en fait,
+
+855
+00:45:19,880 --> 00:45:20,880
+dépenser de l'argent,
+
+856
+00:45:20,880 --> 00:45:21,880
+comme on l'a fait en 2021,
+
+857
+00:45:21,880 --> 00:45:22,880
+2022,
+
+858
+00:45:22,880 --> 00:45:23,880
+à 18 ans,
+
+859
+00:45:23,880 --> 00:45:24,880
+c'était,
+
+860
+00:45:24,880 --> 00:45:25,880
+c'était énorme,
+
+861
+00:45:25,880 --> 00:45:26,880
+et,
+
+862
+00:45:26,880 --> 00:45:27,880
+et,
+
+863
+00:45:27,880 --> 00:45:28,880
+et je pense que Pierre a raison,
+
+864
+00:45:28,880 --> 00:45:29,880
+quand il a dit qu'il avait un public jeune,
+
+865
+00:45:29,880 --> 00:45:30,880
+mais pour rebondir là-dessus,
+
+866
+00:45:30,880 --> 00:45:33,880
+je pense qu'aussi on a quelque chose que les autres blockchains ne peuvent pas encore offrir,
+
+867
+00:45:33,880 --> 00:45:34,880
+du moins pas toutes,
+
+868
+00:45:34,880 --> 00:45:36,880
+c'est que quand vous venez chez nous,
+
+869
+00:45:36,880 --> 00:45:37,880
+vous pouvez utiliser,
+
+870
+00:45:37,880 --> 00:45:39,880
+plus de la moitié des applications,
+
+871
+00:45:39,880 --> 00:45:40,880
+ou des protocoles,
+
+872
+00:45:40,880 --> 00:45:42,880
+sans avoir un seul centime sur votre wallet,
+
+873
+00:45:42,880 --> 00:45:43,880
+voire certaines applications,
+
+874
+00:45:43,880 --> 00:45:45,880
+vous avez juste à vous connecter avec votre compte Google,
+
+875
+00:45:45,880 --> 00:45:47,880
+le wallet il est créé automatiquement,
+
+876
+00:45:47,880 --> 00:45:49,880
+et vous pouvez déjà utiliser la blockchain sans vous rendre compte,
+
+877
+00:45:49,880 --> 00:45:50,880
+tout ça,
+
+878
+00:45:50,880 --> 00:45:53,880
+c'est difficilement possible sur certaines autres blockchains,
+
+879
+00:45:53,880 --> 00:45:54,880
+et,
+
+880
+00:45:54,880 --> 00:45:55,880
+et,
+
+881
+00:45:55,880 --> 00:45:57,880
+et juste pour finir sur ces mots-là,
+
+882
+00:45:57,880 --> 00:45:59,880
+avant d'aller sur l'autre sujet,
+
+883
+00:45:59,880 --> 00:46:00,880
+pour Cryptomanciens,
+
+884
+00:46:00,880 --> 00:46:03,880
+moi je voulais juste dire que je pense pas que,
+
+885
+00:46:03,880 --> 00:46:04,880
+que Ethereum va mourir,
+
+886
+00:46:04,880 --> 00:46:06,880
+ou que quelqu'un va le tuer,
+
+887
+00:46:06,880 --> 00:46:07,880
+je pense que, en fait,
+
+888
+00:46:07,880 --> 00:46:09,880
+Bitcoin et Ethereum sont voués à rester là,
+
+889
+00:46:09,880 --> 00:46:10,880
+j'ai l'impression que pour moi c'est un peu,
+
+890
+00:46:10,880 --> 00:46:11,880
+l'or et l'argent,
+
+891
+00:46:11,880 --> 00:46:13,880
+d'internet,
+
+892
+00:46:13,880 --> 00:46:14,880
+et,
+
+893
+00:46:14,880 --> 00:46:15,880
+surtout avec leur couleur,
+
+894
+00:46:15,880 --> 00:46:16,880
+en particulier,
+
+895
+00:46:16,880 --> 00:46:17,880
+mais,
+
+896
+00:46:17,880 --> 00:46:19,880
+mais je pense qu'ils sont voués à rester là,
+
+897
+00:46:19,880 --> 00:46:21,880
+et à partager des choses encore,
+
+898
+00:46:21,880 --> 00:46:22,880
+pendant longtemps,
+
+899
+00:46:22,880 --> 00:46:23,880
+avoir d'autres utilisations,
+
+900
+00:46:23,880 --> 00:46:24,880
+autres que,
+
+901
+00:46:24,880 --> 00:46:25,880
+que certaines blockchains comme Solana,
+
+902
+00:46:25,880 --> 00:46:26,880
+Sui,
+
+903
+00:46:26,880 --> 00:46:27,880
+ou d'autres,
+
+904
+00:46:27,880 --> 00:46:28,880
+essayent de présenter.
+
+905
+00:46:28,880 --> 00:46:30,880
+Tu viens de dire un peu,
+
+906
+00:46:30,880 --> 00:46:31,880
+ce que tu penses du truc,
+
+907
+00:46:31,880 --> 00:46:33,880
+Anto,
+
+908
+00:46:33,880 --> 00:46:34,880
+et,
+
+909
+00:46:34,880 --> 00:46:36,880
+avant de céder la parole à Cryptomanciens,
+
+910
+00:46:36,880 --> 00:46:37,880
+et à Kuga,
+
+911
+00:46:37,880 --> 00:46:40,880
+tu voulais ta réponse sur la décentralisation de la blockchain Solana,
+
+912
+00:46:40,880 --> 00:46:42,880
+tu t'identifies,
+
+913
+00:46:42,880 --> 00:46:44,880
+avec ton compte Google,
+
+914
+00:46:44,880 --> 00:46:45,880
+voilà.
+
+915
+00:46:45,880 --> 00:46:47,880
+Donc on y va.
+
+916
+00:46:47,880 --> 00:46:48,880
+Ah tu peux faire ça?
+
+917
+00:46:48,880 --> 00:46:49,880
+Non,
+
+918
+00:46:49,880 --> 00:46:50,880
+en fait c'est Ninfra,
+
+919
+00:46:50,880 --> 00:46:51,880
+c'est Ninfra qu'on propose,
+
+920
+00:46:51,880 --> 00:46:52,880
+avec certains outils,
+
+921
+00:46:52,880 --> 00:46:53,880
+c'est pas Solana qu'il propose,
+
+922
+00:46:53,880 --> 00:46:54,880
+c'est des,
+
+923
+00:46:54,880 --> 00:46:55,880
+c'est des protocoles qu'il propose,
+
+924
+00:46:55,880 --> 00:46:57,880
+comme Thunderdog,
+
+925
+00:46:57,880 --> 00:46:58,880
+Wellus,
+
+926
+00:46:58,880 --> 00:46:59,880
+où en fait tu arrives,
+
+927
+00:46:59,880 --> 00:47:00,880
+tu te connectes avec ton compte,
+
+928
+00:47:00,880 --> 00:47:01,880
+ton compte Google,
+
+929
+00:47:01,880 --> 00:47:02,880
+et le wallet il est créé automatiquement,
+
+930
+00:47:02,880 --> 00:47:03,880
+et en fait,
+
+931
+00:47:03,880 --> 00:47:04,880
+bah ça en fait c'est un autre sujet,
+
+932
+00:47:04,880 --> 00:47:05,880
+ça s'appelle le Seamless,
+
+933
+00:47:05,880 --> 00:47:08,880
+et c'est comme ça que ça permet aux gens d'utiliser la blockchain,
+
+934
+00:47:08,880 --> 00:47:10,880
+sans avoir à comprendre ce que c'est qu'un wallet,
+
+935
+00:47:10,880 --> 00:47:11,880
+et surtout,
+
+936
+00:47:11,880 --> 00:47:12,880
+en fait,
+
+937
+00:47:12,880 --> 00:47:14,880
+t'as pas besoin d'envoyer de l'argent sur ce wallet,
+
+938
+00:47:14,880 --> 00:47:15,880
+pour faire des transactions,
+
+939
+00:47:15,880 --> 00:47:17,880
+ou pour utiliser la blockchain en fait,
+
+940
+00:47:17,880 --> 00:47:18,880
+et ça,
+
+941
+00:47:18,880 --> 00:47:19,880
+moi je,
+
+942
+00:47:19,880 --> 00:47:21,880
+pour avoir fait les tests avec des gens autour de moi,
+
+943
+00:47:21,880 --> 00:47:24,880
+qui étaient vraiment dubitatifs par rapport à la blockchain,
+
+944
+00:47:24,880 --> 00:47:26,880
+quand je leur ai fait télécharger une application,
+
+945
+00:47:26,880 --> 00:47:29,880
+et je l'ai fait à NFT Biarritz en workshop,
+
+946
+00:47:29,880 --> 00:47:31,880
+les gens ont téléchargé une application,
+
+947
+00:47:31,880 --> 00:47:33,880
+ils se sont connectés avec leur compte Google,
+
+948
+00:47:33,880 --> 00:47:34,880
+et en moins d'une minute,
+
+949
+00:47:34,880 --> 00:47:35,880
+ils avaient déjà un NFT,
+
+950
+00:47:35,880 --> 00:47:37,880
+et ils pouvaient déjà faire des transactions sur la blockchain,
+
+951
+00:47:37,880 --> 00:47:39,880
+et ça je pense que ça trouve,
+
+952
+00:47:39,880 --> 00:47:41,880
+pour moi ça change vraiment beaucoup la donne.
+
+953
+00:47:41,880 --> 00:47:42,880
+Ouais,
+
+954
+00:47:42,880 --> 00:47:43,880
+ouais c'est vrai,
+
+955
+00:47:43,880 --> 00:47:44,880
+sur Ethereum par exemple,
+
+956
+00:47:44,880 --> 00:47:45,880
+si on t'envoie,
+
+957
+00:47:45,880 --> 00:47:47,880
+je sais pas,
+
+958
+00:47:47,880 --> 00:47:49,880
+100 USDC,
+
+959
+00:47:49,880 --> 00:47:51,880
+sur un wallet que tu viens de créer,
+
+960
+00:47:51,880 --> 00:47:52,880
+bah tu peux plus les bouger,
+
+961
+00:47:52,880 --> 00:47:54,880
+tu peux juste pas,
+
+962
+00:47:54,880 --> 00:47:56,880
+parce que t'es obligé d'avoir du Ethereum aussi sur le wallet,
+
+963
+00:47:56,880 --> 00:47:57,880
+tu vois,
+
+964
+00:47:57,880 --> 00:47:58,880
+c'est un peu chiant.
+
+965
+00:47:58,880 --> 00:47:59,880
+C'est une question que tu poses,
+
+966
+00:47:59,880 --> 00:48:00,880
+et bonsoir à tous,
+
+967
+00:48:00,880 --> 00:48:02,880
+je vais vous apporter un petit peu mon retour d'expérience,
+
+968
+00:48:02,880 --> 00:48:03,880
+au niveau vraiment technique,
+
+969
+00:48:03,880 --> 00:48:04,880
+parce que moi j'ai bossé,
+
+970
+00:48:04,880 --> 00:48:05,880
+enfin,
+
+971
+00:48:05,880 --> 00:48:06,880
+j'ai bossé sur Ethereum et Solana,
+
+972
+00:48:06,880 --> 00:48:07,880
+au niveau un petit peu,
+
+973
+00:48:07,880 --> 00:48:08,880
+un peu technique,
+
+974
+00:48:08,880 --> 00:48:09,880
+tu vois,
+
+975
+00:48:09,880 --> 00:48:10,880
+j'ai vraiment mis les mains dans le cambouis,
+
+976
+00:48:10,880 --> 00:48:11,880
+et j'ai trouvé,
+
+977
+00:48:11,880 --> 00:48:13,880
+en fait moi je me suis beaucoup plus amusé sur Solana,
+
+978
+00:48:13,880 --> 00:48:14,880
+et je vais vous expliquer pourquoi.
+
+979
+00:48:14,880 --> 00:48:16,880
+Quand on monte une application,
+
+980
+00:48:16,880 --> 00:48:18,880
+on fait pas tout de suite sur le mainnet,
+
+981
+00:48:18,880 --> 00:48:19,880
+avec du vrai argent,
+
+982
+00:48:19,880 --> 00:48:20,880
+ça c'est juste impossible.
+
+983
+00:48:20,880 --> 00:48:21,880
+Ce qu'on fait dans un premier temps,
+
+984
+00:48:21,880 --> 00:48:24,880
+c'est qu'on fait des tests sur le réseau testnet,
+
+985
+00:48:24,880 --> 00:48:25,880
+alors là sur Ethereum,
+
+986
+00:48:25,880 --> 00:48:27,880
+les problèmes commencent,
+
+987
+00:48:27,880 --> 00:48:29,880
+parce que déjà il faut trouver le bon testnet,
+
+988
+00:48:29,880 --> 00:48:30,880
+parce qu'il y a GoAirlies,
+
+989
+00:48:30,880 --> 00:48:31,880
+Cepolia,
+
+990
+00:48:31,880 --> 00:48:32,880
+Rinbecky,
+
+991
+00:48:32,880 --> 00:48:33,880
+il y en a encore deux autres
+
+992
+00:48:33,880 --> 00:48:35,880
+que quand j'ai commencé à m'intéresser au sujet,
+
+993
+00:48:35,880 --> 00:48:37,880
+ils étaient déjà obsolètes,
+
+994
+00:48:37,880 --> 00:48:38,880
+alors que sur Solana,
+
+995
+00:48:38,880 --> 00:48:40,880
+ça marche pas comme ça,
+
+996
+00:48:40,880 --> 00:48:43,880
+il y a juste un testnet officiel,
+
+997
+00:48:43,880 --> 00:48:44,880
+celui qui est géré par l'infrastructure,
+
+998
+00:48:44,880 --> 00:48:46,880
+enfin par la fondation,
+
+999
+00:48:46,880 --> 00:48:48,880
+enfin c'est eux qui gèrent l'infrastructure,
+
+1000
+00:48:48,880 --> 00:48:50,880
+et c'est très très simple de se connecter dessus,
+
+1001
+00:48:50,880 --> 00:48:52,880
+il n'y a pas besoin de RPC,
+
+1002
+00:48:52,880 --> 00:48:56,880
+de compte sur des services externes,
+
+1003
+00:48:56,880 --> 00:48:58,880
+comment ça s'appelle,
+
+1004
+00:48:58,880 --> 00:49:00,880
+enfin vous voyez les trucs genre Alchemy,
+
+1005
+00:49:00,880 --> 00:49:02,880
+ce genre de trucs,
+
+1006
+00:49:02,880 --> 00:49:03,880
+Amirix,
+
+1007
+00:49:03,880 --> 00:49:04,880
+ouais voilà,
+
+1008
+00:49:04,880 --> 00:49:05,880
+enfin c'est des services de RPC,
+
+1009
+00:49:05,880 --> 00:49:07,880
+sur Solana ça n'existe pas,
+
+1010
+00:49:07,880 --> 00:49:09,880
+ce qui fait que le développement est beaucoup plus rapide,
+
+1011
+00:49:09,880 --> 00:49:11,880
+et il y a aussi un deuxième point,
+
+1012
+00:49:11,880 --> 00:49:13,880
+c'est sur les jetons de test,
+
+1013
+00:49:13,880 --> 00:49:15,880
+alors là Solana,
+
+1014
+00:49:15,880 --> 00:49:18,880
+écrase Ethereum sur ce point,
+
+1015
+00:49:18,880 --> 00:49:21,880
+c'est à dire que pour avoir des jetons de test sur Ethereum,
+
+1016
+00:49:21,880 --> 00:49:22,880
+c'est infernal,
+
+1017
+00:49:22,880 --> 00:49:24,880
+c'est tout bonnement infernal,
+
+1018
+00:49:24,880 --> 00:49:26,880
+il faut se connecter à des applications,
+
+1019
+00:49:26,880 --> 00:49:28,880
+il faut remplir des capchats,
+
+1020
+00:49:28,880 --> 00:49:31,880
+il y a un certain quota par jour,
+
+1021
+00:49:31,880 --> 00:49:33,880
+alors du coup avec les fizz,
+
+1022
+00:49:33,880 --> 00:49:35,880
+on fait 4 tests sur notre application,
+
+1023
+00:49:35,880 --> 00:49:37,880
+et donc là on se retrouve avec,
+
+1024
+00:49:37,880 --> 00:49:39,880
+enfin les 4 ou 5 tests,
+
+1025
+00:49:39,880 --> 00:49:43,880
+ça a bouffé tous les tokens quasiment,
+
+1026
+00:49:43,880 --> 00:49:46,880
+donc après on repart pour un cycle,
+
+1027
+00:49:46,880 --> 00:49:47,880
+demander,
+
+1028
+00:49:47,880 --> 00:49:52,880
+aller mendier des jetons de test sur le service,
+
+1029
+00:49:52,880 --> 00:49:54,880
+sur Solana ça ne marche pas comme ça,
+
+1030
+00:49:54,880 --> 00:49:55,880
+il y a une commande,
+
+1031
+00:49:55,880 --> 00:49:56,880
+une seule,
+
+1032
+00:49:56,880 --> 00:49:59,880
+et l'infrastructure t'envoie 10 Solana tests,
+
+1033
+00:49:59,880 --> 00:50:02,880
+c'est pour ça qu'il y a beaucoup de développeurs
+
+1034
+00:50:02,880 --> 00:50:05,880
+qui sont en train de migrer d'Ethereum vers Solana.
+
+1035
+00:50:07,880 --> 00:50:08,880
+Ok,
+
+1036
+00:50:08,880 --> 00:50:10,880
+je ne suis pas un pro,
+
+1037
+00:50:10,880 --> 00:50:12,880
+mais je vois exactement de quoi tu parles,
+
+1038
+00:50:12,880 --> 00:50:14,880
+parce que j'ai fait des tests,
+
+1039
+00:50:14,880 --> 00:50:15,880
+il n'y a pas longtemps,
+
+1040
+00:50:15,880 --> 00:50:16,880
+pour un smart contract,
+
+1041
+00:50:16,880 --> 00:50:18,880
+et en gros c'est pareil,
+
+1042
+00:50:18,880 --> 00:50:19,880
+j'ai eu le même truc,
+
+1043
+00:50:19,880 --> 00:50:21,880
+et en fait je me suis connecté avec un wallet,
+
+1044
+00:50:21,880 --> 00:50:23,880
+où il y avait encore des jetons de test dessus,
+
+1045
+00:50:23,880 --> 00:50:25,880
+et il y avait genre 0.1 Ethereum,
+
+1046
+00:50:25,880 --> 00:50:26,880
+et je me suis dit,
+
+1047
+00:50:26,880 --> 00:50:27,880
+oh,
+
+1048
+00:50:27,880 --> 00:50:28,880
+c'est pas beaucoup,
+
+1049
+00:50:28,880 --> 00:50:29,880
+et en fait,
+
+1050
+00:50:29,880 --> 00:50:30,880
+quand j'étais sur le truc,
+
+1051
+00:50:30,880 --> 00:50:32,880
+pour aller réclamer des Ethereum,
+
+1052
+00:50:32,880 --> 00:50:34,880
+en fait ils donnaient beaucoup moins,
+
+1053
+00:50:34,880 --> 00:50:36,880
+je pense que ça a diminué avec le temps,
+
+1054
+00:50:36,880 --> 00:50:39,880
+et donc là c'était 0.01 ou 0.01,
+
+1055
+00:50:39,880 --> 00:50:41,880
+bref c'était ridicule,
+
+1056
+00:50:41,880 --> 00:50:42,880
+et j'étais comme,
+
+1057
+00:50:42,880 --> 00:50:43,880
+oh,
+
+1058
+00:50:43,880 --> 00:50:44,880
+heureusement que j'ai fait le plein,
+
+1059
+00:50:44,880 --> 00:50:45,880
+il y a je ne sais pas de temps,
+
+1060
+00:50:45,880 --> 00:50:47,880
+et ça avait l'air effectivement assez compliqué.
+
+1061
+00:50:47,880 --> 00:50:48,880
+Et la moindre transaction,
+
+1062
+00:50:48,880 --> 00:50:49,880
+même sur un réseau de test,
+
+1063
+00:50:49,880 --> 00:50:51,880
+et c'est là où j'étais un peu surpris,
+
+1064
+00:50:51,880 --> 00:50:52,880
+même sur un réseau de test,
+
+1065
+00:50:52,880 --> 00:50:53,880
+ça bouffe tous les fils,
+
+1066
+00:50:53,880 --> 00:50:55,880
+ça te bouffe tout le wallet.
+
+1067
+00:50:57,880 --> 00:50:58,880
+Ouais.
+
+1068
+00:50:58,880 --> 00:50:59,880
+Sur Ethereum,
+
+1069
+00:50:59,880 --> 00:51:00,880
+enfin sur Solana,
+
+1070
+00:51:00,880 --> 00:51:02,880
+j'ai pas eu ce problème,
+
+1071
+00:51:02,880 --> 00:51:03,880
+je pense que cette année,
+
+1072
+00:51:03,880 --> 00:51:06,880
+j'essaierai de remonter un protocole sur Solana,
+
+1073
+00:51:06,880 --> 00:51:08,880
+bon maintenant que ça devient un peu plus à la mode,
+
+1074
+00:51:08,880 --> 00:51:10,880
+ça pourrait être intéressant,
+
+1075
+00:51:10,880 --> 00:51:11,880
+et ouais,
+
+1076
+00:51:11,880 --> 00:51:13,880
+je me dirigerai plus vers Solana qu'Ethereum.
+
+1077
+00:51:16,880 --> 00:51:17,880
+Et du coup,
+
+1078
+00:51:17,880 --> 00:51:19,880
+c'est quoi les outils,
+
+1079
+00:51:19,880 --> 00:51:21,880
+comment on développe pour Solana,
+
+1080
+00:51:21,880 --> 00:51:22,880
+c'est quoi le langage,
+
+1081
+00:51:22,880 --> 00:51:23,880
+c'est quoi les outils,
+
+1082
+00:51:23,880 --> 00:51:24,880
+comment ça se passe?
+
+1083
+00:51:24,880 --> 00:51:26,880
+Alors il y a la librairie officielle TypeScript,
+
+1084
+00:51:26,880 --> 00:51:27,880
+qui est très bien faite,
+
+1085
+00:51:27,880 --> 00:51:28,880
+très bien documentée.
+
+1086
+00:51:28,880 --> 00:51:29,880
+En fait,
+
+1087
+00:51:29,880 --> 00:51:30,880
+quand tu vas sur le site de Solana,
+
+1088
+00:51:30,880 --> 00:51:31,880
+c'est vraiment un truc pour les...
+
+1089
+00:51:31,880 --> 00:51:33,880
+enfin c'est très developer friendly,
+
+1090
+00:51:33,880 --> 00:51:35,880
+c'est-à-dire qu'il y a toute une documentation,
+
+1091
+00:51:35,880 --> 00:51:36,880
+elle est claire,
+
+1092
+00:51:36,880 --> 00:51:37,880
+elle est bien faite,
+
+1093
+00:51:37,880 --> 00:51:38,880
+c'est bien expliqué,
+
+1094
+00:51:38,880 --> 00:51:40,880
+si tu veux pas te faire chier,
+
+1095
+00:51:40,880 --> 00:51:41,880
+tu as quelques exemples,
+
+1096
+00:51:41,880 --> 00:51:43,880
+et tu as juste à copier-coller le machin.
+
+1097
+00:51:43,880 --> 00:51:45,880
+C'est très très bien fait,
+
+1098
+00:51:45,880 --> 00:51:49,880
+donc la librairie TypeScript est plutôt bien faite.
+
+1099
+00:51:49,880 --> 00:51:50,880
+Le langage,
+
+1100
+00:51:50,880 --> 00:51:53,880
+j'ai pas encore testé de coder un smart contract en Rust,
+
+1101
+00:51:53,880 --> 00:51:54,880
+j'essaie ça cette année,
+
+1102
+00:51:54,880 --> 00:51:56,880
+en ce moment je suis un peu sous l'eau,
+
+1103
+00:51:56,880 --> 00:51:59,880
+mais ça fait partie de ma to-do list de cette année 2024.
+
+1104
+00:51:59,880 --> 00:52:00,880
+Et ouais,
+
+1105
+00:52:00,880 --> 00:52:01,880
+donc en Rust,
+
+1106
+00:52:01,880 --> 00:52:04,880
+alors paraît-il que vu que c'est beaucoup plus rapide,
+
+1107
+00:52:04,880 --> 00:52:06,880
+ça consomme beaucoup moins de ressources,
+
+1108
+00:52:06,880 --> 00:52:07,880
+et par conséquent,
+
+1109
+00:52:07,880 --> 00:52:09,880
+ça consomme beaucoup moins de fees.
+
+1110
+00:52:09,880 --> 00:52:11,880
+J'ai pas testé,
+
+1111
+00:52:11,880 --> 00:52:15,880
+mais des retours que j'ai de mes collègues,
+
+1112
+00:52:15,880 --> 00:52:16,880
+c'est à peu près ça.
+
+1113
+00:52:17,880 --> 00:52:18,880
+Ok.
+
+1114
+00:52:18,880 --> 00:52:19,880
+Donc voilà,
+
+1115
+00:52:19,880 --> 00:52:23,880
+d'autres librairies très bien faites et très bien documentées,
+
+1116
+00:52:23,880 --> 00:52:26,880
+c'est vraiment ces développeurs friendly,
+
+1117
+00:52:26,880 --> 00:52:28,880
+ils ont très bien pensé à ce niveau-là.
+
+1118
+00:52:29,880 --> 00:52:30,880
+Et pour ça,
+
+1119
+00:52:30,880 --> 00:52:33,880
+n'hésitez pas à suivre la newsletter de CritOvantion,
+
+1120
+00:52:33,880 --> 00:52:34,880
+qui est vachement bien foutue.
+
+1121
+00:52:34,880 --> 00:52:35,880
+Voilà,
+
+1122
+00:52:35,880 --> 00:52:36,880
+auto-promo pour le monsieur.
+
+1123
+00:52:36,880 --> 00:52:37,880
+Merci beaucoup.
+
+1124
+00:52:37,880 --> 00:52:40,880
+J'ai reçu un mail il n'y a pas longtemps,
+
+1125
+00:52:40,880 --> 00:52:42,880
+où c'était marqué « Soyez chat ».
+
+1126
+00:52:42,880 --> 00:52:43,880
+Voilà, c'est ça,
+
+1127
+00:52:43,880 --> 00:52:44,880
+« Soyez chat ».
+
+1128
+00:52:44,880 --> 00:52:45,880
+C'est aussi une série en fait.
+
+1129
+00:52:45,880 --> 00:52:48,880
+Là, tu as peut-être reçu la partie 2 cette semaine.
+
+1130
+00:52:50,880 --> 00:52:51,880
+Oui,
+
+1131
+00:52:51,880 --> 00:52:54,880
+mais je ne me souviens pas avoir reçu la partie 1,
+
+1132
+00:52:54,880 --> 00:52:55,880
+où elle est passée,
+
+1133
+00:52:55,880 --> 00:52:56,880
+genre inaperçue.
+
+1134
+00:52:56,880 --> 00:52:57,880
+Et du coup,
+
+1135
+00:52:57,880 --> 00:52:58,880
+je pensais que c'était un message perso.
+
+1136
+00:52:58,880 --> 00:52:59,880
+Non,
+
+1137
+00:52:59,880 --> 00:53:00,880
+genre le chat,
+
+1138
+00:53:00,880 --> 00:53:03,880
+c'est l'espèce de personnage avec des grosses mâchoires carrées,
+
+1139
+00:53:03,880 --> 00:53:05,880
+le super beau gosse musclé.
+
+1140
+00:53:05,880 --> 00:53:07,880
+C'est plutôt dans ce sens-là.
+
+1141
+00:53:07,880 --> 00:53:08,880
+Oui,
+
+1142
+00:53:08,880 --> 00:53:11,880
+la newsletter que je fais depuis le mois de janvier,
+
+1143
+00:53:11,880 --> 00:53:14,880
+c'est plus dans le sens « Soyez pas dépendant d'un service externe,
+
+1144
+00:53:14,880 --> 00:53:17,880
+de Binance, de Ledger, d'un nœud externe ».
+
+1145
+00:53:17,880 --> 00:53:18,880
+Parce que ça,
+
+1146
+00:53:18,880 --> 00:53:22,880
+c'est un peu un piège en fait.
+
+1147
+00:53:22,880 --> 00:53:24,880
+C'est-à-dire qu'en tant que développeur backend,
+
+1148
+00:53:24,880 --> 00:53:27,880
+je sais toutes les datas qu'on peut collecter
+
+1149
+00:53:27,880 --> 00:53:29,880
+en faisant tourner un nœud public.
+
+1150
+00:53:29,880 --> 00:53:31,880
+Tu peux collecter les IP,
+
+1151
+00:53:31,880 --> 00:53:34,880
+tu peux faire le lien entre l'IP de la personne
+
+1152
+00:53:34,880 --> 00:53:36,880
+et son adresse réelle.
+
+1153
+00:53:36,880 --> 00:53:38,880
+C'est pour ça que moi,
+
+1154
+00:53:38,880 --> 00:53:40,880
+j'essaie cette semaine d'expliquer aux gens
+
+1155
+00:53:40,880 --> 00:53:42,880
+comment faire tourner un nœud Bitcoin
+
+1156
+00:53:42,880 --> 00:53:44,880
+et comment avoir son wallet
+
+1157
+00:53:44,880 --> 00:53:46,880
+et le connecter sur son propre nœud.
+
+1158
+00:53:46,880 --> 00:53:48,880
+De ne pas se faire snipper son IP,
+
+1159
+00:53:48,880 --> 00:53:51,880
+de ne pas être dépendant de Ledger,
+
+1160
+00:53:51,880 --> 00:53:53,880
+ou de Binance, ou de n'importe quoi.
+
+1161
+00:53:55,880 --> 00:53:56,880
+Ok, ouais.
+
+1162
+00:53:56,880 --> 00:53:59,880
+Du coup, tu ne t'adresses pas du tout
+
+1163
+00:53:59,880 --> 00:54:01,880
+à la même démographie que les utilisateurs de Solana?
+
+1164
+00:54:01,880 --> 00:54:03,880
+Alors en fait,
+
+1165
+00:54:03,880 --> 00:54:07,880
+c'est un public un peu plus militant.
+
+1166
+00:54:07,880 --> 00:54:09,880
+Le public Solana,
+
+1167
+00:54:09,880 --> 00:54:11,880
+c'est plus de la singerie.
+
+1168
+00:54:12,880 --> 00:54:14,880
+Sans être méprisant,
+
+1169
+00:54:14,880 --> 00:54:16,880
+mais c'est plus le côté
+
+1170
+00:54:16,880 --> 00:54:18,880
+« on va s'amuser, on va faire des pump and dump ».
+
+1171
+00:54:18,880 --> 00:54:20,880
+Moi, je m'adresse à un public un peu plus militant.
+
+1172
+00:54:22,880 --> 00:54:24,880
+Et du coup,
+
+1173
+00:54:24,880 --> 00:54:26,880
+juste pour continuer ou terminer
+
+1174
+00:54:26,880 --> 00:54:28,880
+sur l'aspect technique,
+
+1175
+00:54:28,880 --> 00:54:30,880
+comment ça se passe justement?
+
+1176
+00:54:30,880 --> 00:54:32,880
+Parce que souvent,
+
+1177
+00:54:32,880 --> 00:54:35,880
+on critique la centralisation de Solana.
+
+1178
+00:54:35,880 --> 00:54:37,880
+Comment ça se passe avec les nodes, etc.?
+
+1179
+00:54:37,880 --> 00:54:40,880
+C'est décentralisé à quel point Solana?
+
+1180
+00:54:40,880 --> 00:54:42,880
+Au niveau de la décentralisation,
+
+1181
+00:54:42,880 --> 00:54:44,880
+je soupçonne que ce n'est pas décentralisé.
+
+1182
+00:54:44,880 --> 00:54:47,880
+Mais mes Ethereum souffrent du même problème.
+
+1183
+00:54:47,880 --> 00:54:49,880
+C'est-à-dire qu'il y a quelques nodes.
+
+1184
+00:54:49,880 --> 00:54:51,880
+Parce qu'il faut savoir que la blockchain Solana,
+
+1185
+00:54:51,880 --> 00:54:53,880
+elle pèse à peu près,
+
+1186
+00:54:53,880 --> 00:54:57,880
+elle grossit de à peu près 160 Tera par an.
+
+1187
+00:54:57,880 --> 00:54:58,880
+Déjà, chez nous,
+
+1188
+00:54:58,880 --> 00:55:00,880
+si on a un disque dur de 1 Tera, 2 Tera,
+
+1189
+00:55:00,880 --> 00:55:02,880
+c'est déjà pas mal.
+
+1190
+00:55:02,880 --> 00:55:05,880
+4 Tera pour ceux qui font vraiment du gros téléchargement.
+
+1191
+00:55:05,880 --> 00:55:07,880
+160 Tera, c'est juste énorme.
+
+1192
+00:55:07,880 --> 00:55:10,880
+Donc je soupçonne que tout est centralisé chez Amazon
+
+1193
+00:55:10,880 --> 00:55:13,880
+au même titre qu'Ethereum.
+
+1194
+00:55:16,880 --> 00:55:18,880
+Ce n'est pas possible d'avoir un node perso.
+
+1195
+00:55:18,880 --> 00:55:20,880
+Malheureusement, ce n'est clairement pas possible.
+
+1196
+00:55:20,880 --> 00:55:22,880
+160 Tera, parce qu'en fait,
+
+1197
+00:55:22,880 --> 00:55:24,880
+vu que les autres blockchains,
+
+1198
+00:55:24,880 --> 00:55:25,880
+par exemple Bitcoin,
+
+1199
+00:55:25,880 --> 00:55:28,880
+c'est un bloc à peu près toutes les 9-10 minutes.
+
+1200
+00:55:28,880 --> 00:55:30,880
+Ethereum, c'est un bloc,
+
+1201
+00:55:30,880 --> 00:55:32,880
+je ne connais pas l'ordre de grandeur,
+
+1202
+00:55:32,880 --> 00:55:34,880
+mais c'est à peu près toutes les 3-4 minutes.
+
+1203
+00:55:34,880 --> 00:55:36,880
+Solana, pour te donner un aperçu,
+
+1204
+00:55:36,880 --> 00:55:39,880
+c'est à peu près 5 ou 6 blocs par seconde.
+
+1205
+00:55:39,880 --> 00:55:41,880
+C'est énorme.
+
+1206
+00:55:43,880 --> 00:55:44,880
+Ah ouais, d'accord.
+
+1207
+00:55:44,880 --> 00:55:46,880
+C'est vraiment différent.
+
+1208
+00:55:48,880 --> 00:55:49,880
+Ok.
+
+1209
+00:55:49,880 --> 00:55:52,880
+Du coup, j'ai perdu le fil de l'art,
+
+1210
+00:55:52,880 --> 00:55:55,880
+parce qu'on va peut-être revenir un peu sur le côté artistique,
+
+1211
+00:55:55,880 --> 00:55:57,880
+mais je vois qu'il y a un petit peu plus de monde.
+
+1212
+00:55:57,880 --> 00:55:59,880
+Si jamais les gens qui étaient là,
+
+1213
+00:55:59,880 --> 00:56:01,880
+qui sont arrivés entre-temps,
+
+1214
+00:56:01,880 --> 00:56:02,880
+bienvenue.
+
+1215
+00:56:02,880 --> 00:56:03,880
+Et puis si vous voulez participer,
+
+1216
+00:56:03,880 --> 00:56:05,880
+n'hésitez pas à me demander le rôle de speaker,
+
+1217
+00:56:05,880 --> 00:56:06,880
+je vous le donne.
+
+1218
+00:56:06,880 --> 00:56:08,880
+Salut Michous, qui a dit bonjour dans les commentaires.
+
+1219
+00:56:08,880 --> 00:56:09,880
+Il y a CypherTux,
+
+1220
+00:56:09,880 --> 00:56:10,880
+salut CypherTux,
+
+1221
+00:56:10,880 --> 00:56:11,880
+il y a dit vive Pascal Boyard,
+
+1222
+00:56:11,880 --> 00:56:13,880
+je n'ai pas compris pourquoi.
+
+1223
+00:56:13,880 --> 00:56:15,880
+Je pense que peut-être son nom a été mentionné,
+
+1224
+00:56:15,880 --> 00:56:16,880
+j'ai complètement zappé.
+
+1225
+00:56:19,880 --> 00:56:21,880
+Et puis il y a Sharpe qui est avec nous.
+
+1226
+00:56:21,880 --> 00:56:23,880
+Tiens, est-ce qu'il est encore là?
+
+1227
+00:56:23,880 --> 00:56:25,880
+Sharpe, es-tu là?
+
+1228
+00:56:25,880 --> 00:56:27,880
+Non, il n'est pas là.
+
+1229
+00:56:27,880 --> 00:56:29,880
+Oui, Sharpe, si je ne dis pas de conneries,
+
+1230
+00:56:29,880 --> 00:56:31,880
+c'est le gars qui utilise beaucoup
+
+1231
+00:56:31,880 --> 00:56:34,880
+les applications de Move to Earn.
+
+1232
+00:56:35,880 --> 00:56:37,880
+Ça, on n'entend plus beaucoup parler du Move to Earn,
+
+1233
+00:56:37,880 --> 00:56:41,880
+il y a eu une grosse hype pendant le boule précédente,
+
+1234
+00:56:41,880 --> 00:56:43,880
+mais je ne sais pas si c'est encore un truc
+
+1235
+00:56:43,880 --> 00:56:45,880
+qui a le vent en poupe.
+
+1236
+00:56:45,880 --> 00:56:47,880
+Moi, j'ai une question, Anthony,
+
+1237
+00:56:47,880 --> 00:56:50,880
+peut-être qu'on a répondu à ta question au début,
+
+1238
+00:56:50,880 --> 00:56:51,880
+mais en gros, tu disais,
+
+1239
+00:56:51,880 --> 00:56:54,880
+est-ce qu'il y a l'équivalent d'OpenSea
+
+1240
+00:56:54,880 --> 00:56:57,880
+ou un truc un petit peu inter-plateforme?
+
+1241
+00:56:57,880 --> 00:56:59,880
+Parce que moi, par exemple, j'ai mes lignes,
+
+1242
+00:56:59,880 --> 00:57:01,880
+c'était sur Exchange.Arts,
+
+1243
+00:57:01,880 --> 00:57:03,880
+mais là, en allant sur Eden et tout,
+
+1244
+00:57:03,880 --> 00:57:04,880
+je ne peux pas les trouver, tu vois.
+
+1245
+00:57:04,880 --> 00:57:07,880
+Si je connecte mon Fantôme, j'imagine que si.
+
+1246
+00:57:07,880 --> 00:57:10,880
+Mais du coup, ça, c'est peut-être une question pour Kuga,
+
+1247
+00:57:10,880 --> 00:57:13,880
+je ne sais pas si tu en sais un peu plus là-dessus.
+
+1248
+00:57:13,880 --> 00:57:15,880
+Au niveau NFT, comment ça se passe?
+
+1249
+00:57:15,880 --> 00:57:18,880
+C'est chacun sa plateforme et les pools seront bien gardés
+
+1250
+00:57:18,880 --> 00:57:23,880
+ou il y a quand même un petit peu de cross-plateforme?
+
+1251
+00:57:23,880 --> 00:57:28,880
+Et quel est le registre pour consulter un petit peu tout?
+
+1252
+00:57:28,880 --> 00:57:31,880
+Alors, c'est le gros, gros sujet du moment dans l'art,
+
+1253
+00:57:31,880 --> 00:57:32,880
+ça tombe bien.
+
+1254
+00:57:32,880 --> 00:57:36,880
+En fait, le problème actuellement, c'est que Exchange.Arts,
+
+1255
+00:57:36,880 --> 00:57:38,880
+en fait, ils ont décidé de faire un truc,
+
+1256
+00:57:38,880 --> 00:57:41,880
+c'est que quand tu mintes un NFT artistique chez eux,
+
+1257
+00:57:41,880 --> 00:57:43,880
+quasiment toutes les métadonnées
+
+1258
+00:57:43,880 --> 00:57:46,880
+et le fait que ce soit un NFT, on va dire un peu officiel,
+
+1259
+00:57:46,880 --> 00:57:48,880
+ça n'existe que chez eux.
+
+1260
+00:57:48,880 --> 00:57:50,880
+Et du coup, les gens commencent à utiliser d'autres plateformes
+
+1261
+00:57:50,880 --> 00:57:53,880
+et un peu se rebeller contre Exchange.Arts
+
+1262
+00:57:53,880 --> 00:57:57,880
+parce que nous, on aimerait voir ces NFT qu'on achète
+
+1263
+00:57:57,880 --> 00:57:59,880
+disponibles un peu partout et les mettre en vente.
+
+1264
+00:58:00,880 --> 00:58:03,880
+Et même l'API d'Exchange.Arts n'est pas encore publique
+
+1265
+00:58:03,880 --> 00:58:05,880
+et il y a pas mal de choses qu'ils ne veulent pas partager.
+
+1266
+00:58:05,880 --> 00:58:08,880
+Donc, il y a un peu ce côté où les gens commencent un petit peu
+
+1267
+00:58:08,880 --> 00:58:10,880
+à délaisser Exchange.Arts alors que c'est un peu eux
+
+1268
+00:58:10,880 --> 00:58:13,880
+qui ont quasiment tout le market share sur l'art sur le sol.
+
+1269
+00:58:13,880 --> 00:58:19,880
+Mais tout le monde se dirige vers collector.sh ou malo.art.
+
+1270
+00:58:19,880 --> 00:58:23,880
+Là, on peut mint des NFT artistiques et les collectionner
+
+1271
+00:58:23,880 --> 00:58:24,880
+sans avoir à se dire,
+
+1272
+00:58:24,880 --> 00:58:27,880
+ah, peut-être que ça ne va pas apparaître correctement
+
+1273
+00:58:27,880 --> 00:58:28,880
+chez quelqu'un d'autre.
+
+1274
+00:58:28,880 --> 00:58:31,880
+Donc oui, c'est vraiment un sujet à débat actuellement
+
+1275
+00:58:31,880 --> 00:58:33,880
+et Exchange.Arts n'est pas dans une bonne position.
+
+1276
+00:58:33,880 --> 00:58:34,880
+J'ai une petite question.
+
+1277
+00:58:34,880 --> 00:58:37,880
+Vous connaissez un petit peu Solcea?
+
+1278
+00:58:37,880 --> 00:58:41,880
+C'est quoi leur politique par rapport aux artistes,
+
+1279
+00:58:41,880 --> 00:58:43,880
+entre guillemets, IA?
+
+1280
+00:58:43,880 --> 00:58:47,880
+Parce qu'en fait, je vois qu'il y a pas mal d'images
+
+1281
+00:58:47,880 --> 00:58:50,880
+où clairement, c'est fait, c'est du midi de journée.
+
+1282
+00:58:50,880 --> 00:58:52,880
+Il n'y a pas trop de doute.
+
+1283
+00:58:52,880 --> 00:58:54,880
+Mais est-ce que par exemple, on a le droit de créer une image
+
+1284
+00:58:54,880 --> 00:58:57,880
+sur midi de journée sans être artiste,
+
+1285
+00:58:57,880 --> 00:58:58,880
+sans même pas photoshopper,
+
+1286
+00:58:58,880 --> 00:59:00,880
+et puis la balancer comme ça sur Solcea?
+
+1287
+00:59:01,880 --> 00:59:03,880
+Alors, j'ai aucune idée de comment ils fonctionnent
+
+1288
+00:59:03,880 --> 00:59:06,880
+depuis un moment parce qu'en fait, pour ne pas te mentir,
+
+1289
+00:59:06,880 --> 00:59:09,880
+il y a certaines plateformes qui étaient là tout début.
+
+1290
+00:59:09,880 --> 00:59:12,880
+Celles que tu mentionnes ou Solanart,
+
+1291
+00:59:12,880 --> 00:59:14,880
+qui en fait sont un peu des plateformes délaissées
+
+1292
+00:59:14,880 --> 00:59:16,880
+puisque quand on regarde le volume,
+
+1293
+00:59:16,880 --> 00:59:20,880
+ils ont quasiment rien, le volume journalier.
+
+1294
+00:59:20,880 --> 00:59:22,880
+Donc en fait, c'est vrai qu'on s'intéresse.
+
+1295
+00:59:22,880 --> 00:59:24,880
+Moi, je ne m'intéresse plus vraiment à ça.
+
+1296
+00:59:24,880 --> 00:59:28,880
+Je regarde plutôt les projets qui essayent d'avancer de l'avant,
+
+1297
+00:59:28,880 --> 00:59:29,880
+enfin d'aller de l'avant,
+
+1298
+00:59:29,880 --> 00:59:32,880
+et de proposer un petit peu quelque chose de différent.
+
+1299
+00:59:32,880 --> 00:59:35,880
+Donc c'est pour ça que je regarde un petit peu Malo
+
+1300
+00:59:35,880 --> 00:59:40,880
+et Collector en termes d'art.
+
+1301
+00:59:40,880 --> 00:59:42,880
+Et je pense qu'eux ont des choses à partager
+
+1302
+00:59:42,880 --> 00:59:43,880
+qui sont intéressantes.
+
+1303
+00:59:45,880 --> 00:59:46,880
+C'est qui qui a posé la question?
+
+1304
+00:59:46,880 --> 00:59:47,880
+Comment?
+
+1305
+00:59:47,880 --> 00:59:48,880
+C'est qui qui a posé la question?
+
+1306
+00:59:48,880 --> 00:59:49,880
+C'est moi, plutôt monsieur.
+
+1307
+00:59:50,880 --> 00:59:51,880
+C'est plutôt monsieur?
+
+1308
+00:59:51,880 --> 00:59:52,880
+Je trouve que c'est une question intéressante
+
+1309
+00:59:52,880 --> 00:59:57,880
+parce qu'en fait, ça ne s'applique pas qu'à Solana.
+
+1310
+00:59:57,880 --> 01:00:01,880
+C'est presque une question philosophique sur l'art à Elia,
+
+1311
+01:00:01,880 --> 01:00:04,880
+enfin sur le prompt art, finalement.
+
+1312
+01:00:05,880 --> 01:00:09,880
+Et j'avais lancé la question sur Farcaster, justement,
+
+1313
+01:00:09,880 --> 01:00:10,880
+et ça divisait vraiment.
+
+1314
+01:00:10,880 --> 01:00:11,880
+Il y avait des gens qui disaient non.
+
+1315
+01:00:13,880 --> 01:00:15,880
+En fait, la loi française, par exemple,
+
+1316
+01:00:15,880 --> 01:00:17,880
+dit qu'une œuvre d'art, c'est quelque chose
+
+1317
+01:00:17,880 --> 01:00:19,880
+avec une intervention de la main de l'artiste.
+
+1318
+01:00:19,880 --> 01:00:21,880
+C'est très archaïque et ce n'est pas appliqué.
+
+1319
+01:00:21,880 --> 01:00:23,880
+Mais en fait, vraiment, si tu as un litige,
+
+1320
+01:00:23,880 --> 01:00:26,880
+si tu n'as pas une intervention, à savoir une signature,
+
+1321
+01:00:26,880 --> 01:00:28,880
+en fait, tu peux difficilement la revendiquer.
+
+1322
+01:00:29,880 --> 01:00:31,880
+Raison pour laquelle même des NFT qui se sont vendus
+
+1323
+01:00:31,880 --> 01:00:33,880
+en maison de vente et tout, ont été vendus
+
+1324
+01:00:33,880 --> 01:00:36,880
+avec une sorte de certificat à côté signé de la main de l'artiste.
+
+1325
+01:00:36,880 --> 01:00:38,880
+Enfin bon, c'est lunaire, mais c'est comme ça.
+
+1326
+01:00:39,880 --> 01:00:42,880
+Et d'un autre côté, des gens vraiment, tu vois,
+
+1327
+01:00:42,880 --> 01:00:45,880
+un peu tech optimiste et tout, qui disaient,
+
+1328
+01:00:45,880 --> 01:00:48,880
+bien sûr que si, c'est le nouveau.
+
+1329
+01:00:48,880 --> 01:00:49,880
+C'est comme la photographie, en fait.
+
+1330
+01:00:49,880 --> 01:00:51,880
+Il y avait la peinture et puis d'un coup,
+
+1331
+01:00:51,880 --> 01:00:53,880
+il y a quelqu'un qui appuie sur un bouton,
+
+1332
+01:00:53,880 --> 01:00:54,880
+il y a une image qui sort.
+
+1333
+01:00:54,880 --> 01:00:56,880
+Et pour autant, les photographes, on les considère
+
+1334
+01:00:56,880 --> 01:00:57,880
+comme des artistes.
+
+1335
+01:00:57,880 --> 01:00:59,880
+Donc, en fait, c'est une technologie
+
+1336
+01:00:59,880 --> 01:01:00,880
+et les gens l'utilisent point barre.
+
+1337
+01:01:00,880 --> 01:01:02,880
+Maintenant, c'est vrai que vu que Midjourney
+
+1338
+01:01:02,880 --> 01:01:04,880
+utilise des bases de données d'images
+
+1339
+01:01:04,880 --> 01:01:06,880
+pour entraîner leur modèle,
+
+1340
+01:01:06,880 --> 01:01:08,880
+qui appartiennent à d'autres artistes.
+
+1341
+01:01:08,880 --> 01:01:10,880
+En fait, c'est une question qui n'est pas résolue
+
+1342
+01:01:10,880 --> 01:01:15,880
+et qui sera, je pense, discutée dans les mois
+
+1343
+01:01:15,880 --> 01:01:19,880
+et les années à venir de manière très virulente.
+
+1344
+01:01:24,880 --> 01:01:25,880
+OK, merci.
+
+1345
+01:01:27,880 --> 01:01:28,880
+C'est quoi Solcea?
+
+1346
+01:01:28,880 --> 01:01:31,880
+Solcea, c'était un truc sur lequel j'ai vendu
+
+1347
+01:01:31,880 --> 01:01:33,880
+un NFT il y a longtemps.
+
+1348
+01:01:33,880 --> 01:01:36,880
+J'avais fait, j'ai vendu quelques micro-centimes,
+
+1349
+01:01:36,880 --> 01:01:37,880
+il ne faut pas s'imaginer,
+
+1350
+01:01:37,880 --> 01:01:39,880
+des lingots d'or sur une base spatiale.
+
+1351
+01:01:39,880 --> 01:01:42,880
+C'est une galerie de NFT.
+
+1352
+01:01:42,880 --> 01:01:44,880
+Enfin, c'est une galerie d'art.
+
+1353
+01:01:44,880 --> 01:01:46,880
+En fait, tu peux créer ton image,
+
+1354
+01:01:46,880 --> 01:01:50,880
+tu connectes ton wallet et tu payes quelques fees
+
+1355
+01:01:50,880 --> 01:01:54,880
+et ça transfère l'image ou la signature de l'image
+
+1356
+01:01:54,880 --> 01:01:56,880
+dans la blockchain.
+
+1357
+01:01:56,880 --> 01:01:59,880
+Mais en fait, ce n'est pas super décentralisé.
+
+1358
+01:01:59,880 --> 01:02:01,880
+Je suppose que l'image est stockée dans une base de données,
+
+1359
+01:02:01,880 --> 01:02:03,880
+sur un serveur relié à une base de données
+
+1360
+01:02:03,880 --> 01:02:08,880
+reliée au service de Solcea.
+
+1361
+01:02:08,880 --> 01:02:13,880
+Donc voilà, c'est une très vieille marketplace de NFT.
+
+1362
+01:02:13,880 --> 01:02:14,880
+Enfin, pas très vieille,
+
+1363
+01:02:14,880 --> 01:02:16,880
+mais c'est le début en tout cas sur Solana.
+
+1364
+01:02:16,880 --> 01:02:18,880
+Mais tu écris ça comment?
+
+1365
+01:02:18,880 --> 01:02:19,880
+S-O-L-C-E-A?
+
+1366
+01:02:19,880 --> 01:02:21,880
+S-E-A.
+
+1367
+01:02:21,880 --> 01:02:23,880
+Ah, ok.
+
+1368
+01:02:23,880 --> 01:02:25,880
+Ah, ok, Solsea.
+
+1369
+01:02:25,880 --> 01:02:26,880
+Ouais, Solsea, ouais.
+
+1370
+01:02:26,880 --> 01:02:28,880
+Comme OpenSea.
+
+1371
+01:02:28,880 --> 01:02:30,880
+Ok, je vois.
+
+1372
+01:02:30,880 --> 01:02:32,880
+Je suis en train de regarder en même temps.
+
+1373
+01:02:32,880 --> 01:02:33,880
+Ok.
+
+1374
+01:02:33,880 --> 01:02:34,880
+Ouais, ils ont fait,
+
+1375
+01:02:34,880 --> 01:02:37,880
+ils ont essayé de refaire OpenSea version Solana.
+
+1376
+01:02:37,880 --> 01:02:40,880
+Ouais, ça a l'air de plutôt bien marcher.
+
+1377
+01:02:40,880 --> 01:02:43,880
+Je navigue un petit peu au niveau des prix.
+
+1378
+01:02:43,880 --> 01:02:45,880
+Ouais, ça va.
+
+1379
+01:02:45,880 --> 01:02:47,880
+Il y en a deux de Solana.
+
+1380
+01:02:47,880 --> 01:02:49,880
+C'est pas mal.
+
+1381
+01:02:51,880 --> 01:02:53,880
+Alors, c'est marrant parce que dans la liste,
+
+1382
+01:02:53,880 --> 01:02:57,880
+il y a une catégorie qui s'appelle Virtual NFT Exhibition.
+
+1383
+01:02:57,880 --> 01:03:01,880
+Et du coup, c'est marrant parce que ça m'amène à la question
+
+1384
+01:03:01,880 --> 01:03:03,880
+que je voulais poser.
+
+1385
+01:03:03,880 --> 01:03:06,880
+Est-ce qu'il y a des métaverses sur Solana?
+
+1386
+01:03:07,880 --> 01:03:09,880
+À ma connaissance, non.
+
+1387
+01:03:09,880 --> 01:03:11,880
+Ouais, il y en a.
+
+1388
+01:03:11,880 --> 01:03:13,880
+Vas-y, si tu veux y aller, si tu es plutôt mentien, si tu veux y aller, vas-y.
+
+1389
+01:03:13,880 --> 01:03:15,880
+Je vais très peu le sujet, mais à ma connaissance,
+
+1390
+01:03:15,880 --> 01:03:16,880
+j'en ai pas trouvé.
+
+1391
+01:03:16,880 --> 01:03:18,880
+Après, j'ai pas forcément beaucoup cherché.
+
+1392
+01:03:19,880 --> 01:03:21,880
+En fait, il y en a un qui s'appelle Portal
+
+1393
+01:03:21,880 --> 01:03:24,880
+et qui est un peu le monopole parce que c'est le seul
+
+1394
+01:03:24,880 --> 01:03:26,880
+qui s'est bien développé.
+
+1395
+01:03:26,880 --> 01:03:28,880
+Parce que pendant le bullrun, il a fait un très bon mint.
+
+1396
+01:03:28,880 --> 01:03:31,880
+Il y a eu beaucoup d'investissements sur ce projet.
+
+1397
+01:03:31,880 --> 01:03:33,880
+Et aujourd'hui, c'est celui qui est un peu le monopole.
+
+1398
+01:03:33,880 --> 01:03:35,880
+Les autres sont encore en développement.
+
+1399
+01:03:35,880 --> 01:03:38,880
+Et là-dessus, il y a pas mal d'exhibitions
+
+1400
+01:03:41,880 --> 01:03:44,880
+d'NFT artistiques de la part de pas mal de monde
+
+1401
+01:03:44,880 --> 01:03:48,880
+en collaboration et avec Collector en particulier.
+
+1402
+01:03:48,880 --> 01:03:50,880
+Parce que Collector, c'est vraiment un groupe et une plateforme
+
+1403
+01:03:50,880 --> 01:03:52,880
+qui met beaucoup, que ce soit les collectionneurs
+
+1404
+01:03:52,880 --> 01:03:54,880
+ou les artistes en avant.
+
+1405
+01:03:54,880 --> 01:03:58,880
+Et donc, on l'utilise pour faire des exhibitions de collections.
+
+1406
+01:04:00,880 --> 01:04:01,880
+C'est Portal.
+
+1407
+01:04:01,880 --> 01:04:04,880
+Ouais, de Portal.to.
+
+1408
+01:04:06,880 --> 01:04:08,880
+Je ne sais pas c'est quoi le site web, par contre.
+
+1409
+01:04:10,880 --> 01:04:13,880
+Je vois un truc qui s'appelle Portals avec une espèce de
+
+1410
+01:04:13,880 --> 01:04:16,880
+des squiggly, des espèces de tourbillons comme icônes.
+
+1411
+01:04:16,880 --> 01:04:17,880
+Mais je ne sais pas si c'est ça.
+
+1412
+01:04:17,880 --> 01:04:19,880
+Ouais, je pense que c'est ça. Attends, je vais trouver.
+
+1413
+01:04:26,880 --> 01:04:29,880
+Il y a un truc que je voudrais instaurer.
+
+1414
+01:04:29,880 --> 01:04:31,880
+Je ne sais pas si on va faire ça ce soir.
+
+1415
+01:04:32,880 --> 01:04:35,880
+Mais peut-être demain, je ne sais pas, demain ou après-demain.
+
+1416
+01:04:35,880 --> 01:04:38,880
+À un moment donné, quand vous êtes chaud, quand vous êtes chaud,
+
+1417
+01:04:38,880 --> 01:04:41,880
+vous le faites parce que j'ai coeur à participer
+
+1418
+01:04:44,880 --> 01:04:47,880
+aux tests qui font que maintenant, ça marche.
+
+1419
+01:04:47,880 --> 01:04:50,880
+Donc, j'ai fait des petits branchements et tout ça.
+
+1420
+01:04:50,880 --> 01:04:53,880
+Et j'ai l'intention de faire des appels téléphoniques
+
+1421
+01:04:53,880 --> 01:04:54,880
+pendant l'émission.
+
+1422
+01:04:54,880 --> 01:04:57,880
+Donc, j'aimerais appeler des gens, que ce soit des banques
+
+1423
+01:04:57,880 --> 01:05:00,880
+ou des hôtels ou peu importe, des commerces.
+
+1424
+01:05:01,880 --> 01:05:04,880
+Peut-être pas des particuliers parce qu'on ne va pas aller
+
+1425
+01:05:04,880 --> 01:05:09,880
+sur ce terrain là, mais des gens qui sont encore ouverts à cette heure-ci.
+
+1426
+01:05:09,880 --> 01:05:12,880
+Donc, probablement pas des banques, mais on verra.
+
+1427
+01:05:12,880 --> 01:05:16,880
+Et puis, leur demander, par exemple, s'ils acceptent les cryptos
+
+1428
+01:05:16,880 --> 01:05:18,880
+ou ce genre de truc.
+
+1429
+01:05:18,880 --> 01:05:22,880
+Donc, si vous êtes chaud pour ça, suivez l'émission
+
+1430
+01:05:22,880 --> 01:05:24,880
+parce que ça va arriver.
+
+1431
+01:05:24,880 --> 01:05:26,880
+Je ne sais pas, j'ai presque envie de le faire ce soir,
+
+1432
+01:05:26,880 --> 01:05:28,880
+mais ça me paraît un petit peu foufou.
+
+1433
+01:05:28,880 --> 01:05:31,880
+Surtout qu'on est sur un thème d'émission qui n'a pas vraiment
+
+1434
+01:05:31,880 --> 01:05:33,880
+de rapport avec ça, mais je pense que cette semaine,
+
+1435
+01:05:33,880 --> 01:05:35,880
+ça va se faire, quoi qu'il arrive.
+
+1436
+01:05:35,880 --> 01:05:36,880
+Je voulais juste vous dire ça.
+
+1437
+01:05:36,880 --> 01:05:39,880
+Je pense que ça va être assez drôle parce que j'ai des petites idées
+
+1438
+01:05:39,880 --> 01:05:40,880
+en tête qui vont être marrantes.
+
+1439
+01:05:40,880 --> 01:05:44,880
+Parce qu'en plus de ça, les speakers pourront parler aux gens.
+
+1440
+01:05:44,880 --> 01:05:47,880
+Donc, je pense que ça va être cool.
+
+1441
+01:05:49,880 --> 01:05:55,880
+Et donc, j'ai fait un encart publicité pour l'émission.
+
+1442
+01:05:55,880 --> 01:05:57,880
+Je ne sais pas si vous avez vu la recherche, mais c'est ça,
+
+1443
+01:05:57,880 --> 01:05:59,880
+c'est de Portal.to.
+
+1444
+01:05:59,880 --> 01:06:00,880
+On est bien d'accord.
+
+1445
+01:06:03,880 --> 01:06:04,880
+Ouais, on va dire que oui.
+
+1446
+01:06:06,880 --> 01:06:10,880
+Sinon, par rapport à Solana, je n'ai pas vraiment d'autres questions.
+
+1447
+01:06:11,880 --> 01:06:17,880
+Je ne suis pas quelqu'un qui fait des œuvres en NFT.
+
+1448
+01:06:17,880 --> 01:06:20,880
+J'ai un projet en ce moment que je commence tout juste.
+
+1449
+01:06:21,880 --> 01:06:27,880
+Quand tu as parlé, Kouya, des NFT qui ont une fin de vie,
+
+1450
+01:06:27,880 --> 01:06:30,880
+je trouve ça intéressant parce que ça ressemble au concept
+
+1451
+01:06:30,880 --> 01:06:31,880
+auquel je pensais.
+
+1452
+01:06:31,880 --> 01:06:34,880
+Mais moi, je n'ai pas envie que les NFT disparaissent.
+
+1453
+01:06:34,880 --> 01:06:36,880
+Du coup, je me suis aperçu que finalement, non,
+
+1454
+01:06:36,880 --> 01:06:38,880
+ce n'est pas une bonne idée.
+
+1455
+01:06:41,880 --> 01:06:44,880
+Mais c'est vraiment marrant parce qu'en fait, justement,
+
+1456
+01:06:44,880 --> 01:06:47,880
+j'ai un projet NFT et le premier truc qui me vient en tête,
+
+1457
+01:06:47,880 --> 01:06:49,880
+c'est je vais aller sur Ethereum.
+
+1458
+01:06:49,880 --> 01:06:52,880
+Et pas parce que, je ne sais pas, parce que ça me semble,
+
+1459
+01:06:52,880 --> 01:06:54,880
+je me dis que c'est le truc de référence,
+
+1460
+01:06:54,880 --> 01:06:57,880
+c'est la blockchain historique des NFT,
+
+1461
+01:06:57,880 --> 01:07:02,880
+c'est le truc le plus modulaire, plus accessible partout, etc.
+
+1462
+01:07:02,880 --> 01:07:04,880
+Mais c'est vrai qu'il y a plein de contraintes de merde,
+
+1463
+01:07:04,880 --> 01:07:05,880
+comme les fees, etc.
+
+1464
+01:07:05,880 --> 01:07:07,880
+La lenteur, le machin, etc.
+
+1465
+01:07:07,880 --> 01:07:08,880
+Il y a plein de contraintes.
+
+1466
+01:07:08,880 --> 01:07:11,880
+Mais il y a quand même toujours le truc de,
+
+1467
+01:07:11,880 --> 01:07:14,880
+ah ouais, mais c'est le truc historique, c'est le truc de référence,
+
+1468
+01:07:14,880 --> 01:07:17,880
+que je n'arrive pas encore à passer au travers de ça,
+
+1469
+01:07:17,880 --> 01:07:20,880
+qui va me dire, ouais, il faut que j'aille ailleurs que ça.
+
+1470
+01:07:20,880 --> 01:07:21,880
+Je ne sais pas si...
+
+1471
+01:07:21,880 --> 01:07:25,880
+Je ne sais pas si tu veux, je peux te donner un petit peu mon point de vue Web3
+
+1472
+01:07:25,880 --> 01:07:28,880
+et après mon point de vue personnel, qui est un peu des hot takes.
+
+1473
+01:07:28,880 --> 01:07:32,880
+En gros, moi, je pense qu'il faut être ouvert à tout,
+
+1474
+01:07:32,880 --> 01:07:34,880
+surtout dans l'évolution technologique,
+
+1475
+01:07:34,880 --> 01:07:36,880
+parce qu'on l'a vu avec l'histoire au début Internet,
+
+1476
+01:07:36,880 --> 01:07:39,880
+tout le monde détestait, tout le monde détestait YouTube aussi.
+
+1477
+01:07:39,880 --> 01:07:42,880
+Enfin, tout le monde prenait les gens pour des cons pour YouTube.
+
+1478
+01:07:42,880 --> 01:07:43,880
+Twitch, pareil. Tiltok, c'est pareil.
+
+1479
+01:07:43,880 --> 01:07:45,880
+Et c'est encore le cas et ça va être toujours le cas
+
+1480
+01:07:45,880 --> 01:07:47,880
+avec toute avancée technologique et tout ce qui est nouveau.
+
+1481
+01:07:47,880 --> 01:07:50,880
+Et je pense que pour rester dans l'air du temps
+
+1482
+01:07:50,880 --> 01:07:52,880
+et ne pas se perdre et ne pas devenir des boomers,
+
+1483
+01:07:52,880 --> 01:07:55,880
+même si là, ça n'a rien à voir, mais moi, je le vois un peu comme ça,
+
+1484
+01:07:55,880 --> 01:07:58,880
+de se dire, je ne vais pas aller là-bas parce que je suis bien,
+
+1485
+01:07:58,880 --> 01:07:59,880
+je suis dans ma zone de confort.
+
+1486
+01:07:59,880 --> 01:08:03,880
+Et quand tu dis ça, je pense qu'au bout d'un moment, tu te dis,
+
+1487
+01:08:03,880 --> 01:08:08,880
+ah ouais, les gens qui vont là-bas, ils sont peut-être un peu débiles ou quoi.
+
+1488
+01:08:08,880 --> 01:08:10,880
+Ce n'est peut-être pas ce que tu dis, mais je sais qu'il y a des gens qui le disent
+
+1489
+01:08:10,880 --> 01:08:13,880
+parce qu'on me l'a déjà dit en conférence, droit dans les yeux.
+
+1490
+01:08:14,880 --> 01:08:16,880
+Et maintenant, ça vient me voir en me disant,
+
+1491
+01:08:16,880 --> 01:08:17,880
+en fait, c'est peut-être intéressant.
+
+1492
+01:08:17,880 --> 01:08:20,880
+Mais je pense qu'au contraire, quand il y a quelque chose
+
+1493
+01:08:20,880 --> 01:08:22,880
+qui attire du monde ou qui fait du bruit,
+
+1494
+01:08:22,880 --> 01:08:27,880
+je pense qu'il faut, en tant que personne, pour sa culture et ses connaissances,
+
+1495
+01:08:27,880 --> 01:08:29,880
+comprendre pourquoi ça fait ça.
+
+1496
+01:08:29,880 --> 01:08:33,880
+Et comme ça, au moins, en tant que personne, vous avez toutes les clés
+
+1497
+01:08:33,880 --> 01:08:35,880
+pour comprendre si ça vous intéresse ou pas.
+
+1498
+01:08:35,880 --> 01:08:38,880
+Et après, la façon dont tu le disais, tu avais des raisons
+
+1499
+01:08:38,880 --> 01:08:42,880
+pour dire que ça ne t'intéressait pas, ce que je comprends totalement.
+
+1500
+01:08:42,880 --> 01:08:46,880
+Parce que tu as envie de rester dans ta zone, etc.
+
+1501
+01:08:46,880 --> 01:08:49,880
+Mais quand tu comprends Solana, au moins, tu te dis,
+
+1502
+01:08:49,880 --> 01:08:53,880
+ok, je loupe ça, mais ce n'est pas grave parce que je suis bien là où je suis.
+
+1503
+01:08:53,880 --> 01:08:56,880
+Donc ça, c'était par rapport à ce que tu disais maintenant.
+
+1504
+01:08:56,880 --> 01:08:58,880
+Et moi, ma vision personnelle par rapport à la blockchain
+
+1505
+01:08:58,880 --> 01:09:01,880
+et comment elle va évoluer, je pense que c'est intéressant
+
+1506
+01:09:01,880 --> 01:09:03,880
+pour les gens de venir voir un petit peu tout ce qu'on a bulle,
+
+1507
+01:09:03,880 --> 01:09:06,880
+surtout au niveau de la tech et pour les particuliers.
+
+1508
+01:09:06,880 --> 01:09:09,880
+Moi, pour moi, ma vision, la blockchain,
+
+1509
+01:09:09,880 --> 01:09:10,880
+elle n'est pas faite pour les particuliers.
+
+1510
+01:09:10,880 --> 01:09:13,880
+Et elle est faite pour les professionnels et toutes les corpos,
+
+1511
+01:09:13,880 --> 01:09:15,880
+les grosses boîtes qui veulent l'utiliser en infrastructure.
+
+1512
+01:09:15,880 --> 01:09:21,880
+Et moi, je suis un peu sceptique par rapport à pas mal de choses décentralisées.
+
+1513
+01:09:21,880 --> 01:09:24,880
+Et je sais que du coup, ça va donner des points à ceux qui disent
+
+1514
+01:09:24,880 --> 01:09:26,880
+que Solana est trop centralisée.
+
+1515
+01:09:26,880 --> 01:09:28,880
+C'est un peu ma vision de la chose parce que je pense que pour avancer
+
+1516
+01:09:28,880 --> 01:09:31,880
+et pour faire avancer le Web3, il faut avoir beaucoup de monde.
+
+1517
+01:09:31,880 --> 01:09:34,880
+Et pour avoir beaucoup de monde, il faut attirer le plus de personnes possible.
+
+1518
+01:09:34,880 --> 01:09:38,880
+Et pour trouver un point en commun, il faut ne pas trop changer l'habitude des gens,
+
+1519
+01:09:38,880 --> 01:09:40,880
+surtout au niveau de l'aspect technologique.
+
+1520
+01:09:40,880 --> 01:09:45,880
+Donc, moi, mon but et dans pas mal de monde aussi chez nous,
+
+1521
+01:09:45,880 --> 01:09:49,880
+c'est de proposer cette infra à des boîtes qui veulent l'utiliser en seamless.
+
+1522
+01:09:49,880 --> 01:09:53,880
+Par exemple, Shopify le fait parce qu'on a Shopify chez nous.
+
+1523
+01:09:53,880 --> 01:09:54,880
+Visa le fait maintenant.
+
+1524
+01:09:54,880 --> 01:09:57,880
+On a pas mal de grosses boîtes qui se joignent à nous,
+
+1525
+01:09:57,880 --> 01:09:58,880
+qui l'utilisent en tant qu'infrastructure.
+
+1526
+01:09:58,880 --> 01:10:01,880
+Et sans forcément changer l'habitude des consommateurs.
+
+1527
+01:10:01,880 --> 01:10:05,880
+Et on a de plus en plus de boîtes qui viennent nous voir exactement pour ça.
+
+1528
+01:10:05,880 --> 01:10:08,880
+Et surtout quand on leur propose des choses que vous connaissez
+
+1529
+01:10:08,880 --> 01:10:10,880
+comme le zéro knowledge proof ou des choses comme ça,
+
+1530
+01:10:10,880 --> 01:10:14,880
+qui permettent du coup de garder encore plus en interne cette infrastructure.
+
+1531
+01:10:14,880 --> 01:10:18,880
+C'est sûr et certain, et je ne dis pas le contraire,
+
+1532
+01:10:18,880 --> 01:10:22,880
+on perd beaucoup de cette décentralisation.
+
+1533
+01:10:22,880 --> 01:10:24,880
+Mais j'ai l'impression que c'est le chemin qu'on va prendre malgré tout.
+
+1534
+01:10:24,880 --> 01:10:28,880
+Parce que, bah non, on n'est que des petites personnes dans nos coins
+
+1535
+01:10:28,880 --> 01:10:31,880
+qui utilisent la blockchain parce qu'on est adeptes et on est les premiers arrivés.
+
+1536
+01:10:31,880 --> 01:10:33,880
+Mais lorsque les grosses boîtes et les corps pauvres vont commencer
+
+1537
+01:10:33,880 --> 01:10:36,880
+à mettre des millions et des milliards, on n'aura plus le choix.
+
+1538
+01:10:36,880 --> 01:10:40,880
+Et je pense que moi, je prends ce terrain là directement
+
+1539
+01:10:40,880 --> 01:10:42,880
+pour mieux appréhender ce qui nous arrive plus tard.
+
+1540
+01:10:42,880 --> 01:10:46,880
+Mais je sais que ce n'est pas forcément ce qui plaît à tous ici.
+
+1541
+01:10:46,880 --> 01:10:49,880
+Puisque le but de la blockchain, c'est de décentraliser.
+
+1542
+01:10:49,880 --> 01:10:52,880
+Mais moi, mon but, c'est vraiment de plaire au plus de monde possible
+
+1543
+01:10:52,880 --> 01:10:55,880
+et de simplifier la vie de pas mal de gens avec cette technologie.
+
+1544
+01:10:55,880 --> 01:10:58,880
+Pour toi, Kuga, je vois sur ton profil,
+
+1545
+01:10:58,880 --> 01:11:01,880
+grande dève représentative à la fondation Solana.
+
+1546
+01:11:01,880 --> 01:11:04,880
+Alors, je vois, j'ai un petit peu mes entêtes.
+
+1547
+01:11:04,880 --> 01:11:10,880
+Je sais que Solana a une relation très particulière avec les développeurs,
+
+1548
+01:11:10,880 --> 01:11:14,880
+finance beaucoup les projets et est vraiment très développeur friendly.
+
+1549
+01:11:14,880 --> 01:11:18,880
+C'est quoi tes liens avec la fondation Solana?
+
+1550
+01:11:19,880 --> 01:11:20,880
+Ah bah moi, je bosse chez eux.
+
+1551
+01:11:20,880 --> 01:11:22,880
+C'est ce que je disais tout au début.
+
+1552
+01:11:22,880 --> 01:11:23,880
+Pour ceux qui ont l'IP, tant mieux.
+
+1553
+01:11:23,880 --> 01:11:24,880
+Non, t'inquiète, t'inquiète.
+
+1554
+01:11:24,880 --> 01:11:27,880
+Pour ceux qui sont arrivés un peu après, moi, je bosse à la fondation.
+
+1555
+01:11:27,880 --> 01:11:28,880
+Donc, je m'occupe des grandes.
+
+1556
+01:11:28,880 --> 01:11:32,880
+Et en fait, lorsque les gens ont besoin de subventions pour financer leur projet,
+
+1557
+01:11:32,880 --> 01:11:39,880
+nous, on reçoit des documents, des applications qui demandent tel montant pour ça.
+
+1558
+01:11:39,880 --> 01:11:40,880
+Et moi, je les review en fait.
+
+1559
+01:11:40,880 --> 01:11:45,880
+Je regarde et je donne une notation sur est-ce que c'est intéressant?
+
+1560
+01:11:45,880 --> 01:11:46,880
+Est-ce que c'est quelque chose qu'on cherche?
+
+1561
+01:11:46,880 --> 01:11:47,880
+Est-ce que c'est quelque chose qu'on veut?
+
+1562
+01:11:47,880 --> 01:11:51,880
+Et ensuite, derrière, il y a des experts qui prennent la décision de oui ou non,
+
+1563
+01:11:51,880 --> 01:11:53,880
+on va financer ce projet.
+
+1564
+01:11:53,880 --> 01:11:56,880
+Et juste pour donner une petite précision,
+
+1565
+01:11:56,880 --> 01:12:00,880
+lorsqu'on finance un projet, que lorsqu'on leur donne 1000 euros, 10 000, 100 000,
+
+1566
+01:12:00,880 --> 01:12:02,880
+quand c'est 100 000 ou plus, c'est que c'est vraiment des très gros projets.
+
+1567
+01:12:02,880 --> 01:12:04,880
+En fait, ils ne nous doivent rien.
+
+1568
+01:12:04,880 --> 01:12:06,880
+Ils ont juste des milestones à compléter.
+
+1569
+01:12:06,880 --> 01:12:09,880
+C'est Product Development et Product Adoption.
+
+1570
+01:12:09,880 --> 01:12:14,880
+Et quand ils remplissent ces milestones, que la fondation ait donné de l'argent ou pas,
+
+1571
+01:12:14,880 --> 01:12:17,880
+le projet, il n'est plus de chez nous.
+
+1572
+01:12:17,880 --> 01:12:18,880
+Enfin, il n'est pas du tout de chez nous.
+
+1573
+01:12:18,880 --> 01:12:19,880
+Il n'a jamais été de chez nous.
+
+1574
+01:12:19,880 --> 01:12:21,880
+Tant qu'il apporte, nous, ce qu'on recherche,
+
+1575
+01:12:21,880 --> 01:12:23,880
+c'est que tant qu'il fonctionne en tant que public good,
+
+1576
+01:12:23,880 --> 01:12:25,880
+c'est très bien et c'est ce qu'on cherche.
+
+1577
+01:12:25,880 --> 01:12:27,880
+Et tant qu'il apporte du bien à la communauté,
+
+1578
+01:12:27,880 --> 01:12:31,880
+que ce soit développeur ou personne qui utilise la blockchain seul,
+
+1579
+01:12:31,880 --> 01:12:33,880
+nous, c'est parfait. C'est ce qu'on cherche.
+
+1580
+01:12:33,880 --> 01:12:36,880
+Très bien. On va rester en contact après l'émission.
+
+1581
+01:12:36,880 --> 01:12:39,880
+Je bosse justement sur un groupe de projets que j'ai presque fini,
+
+1582
+01:12:39,880 --> 01:12:43,880
+qui n'est pas exclusivement conçu, qui est conçu pour le Web 3.
+
+1583
+01:12:43,880 --> 01:12:45,880
+Ça peut être utilisé pour à peu près tout.
+
+1584
+01:12:45,880 --> 01:12:49,880
+Mais j'ai conçu le plus simplement pour le Web 3.
+
+1585
+01:12:49,880 --> 01:12:51,880
+Bon, on en discutera après.
+
+1586
+01:12:52,880 --> 01:12:55,880
+Ça pourrait beaucoup m'intéresser ce système-là.
+
+1587
+01:12:56,880 --> 01:12:57,880
+Avec plaisir.
+
+1588
+01:12:58,880 --> 01:13:01,880
+Oui, dès qu'il y a de l'argent à la clé, c'est super intéressant.
+
+1589
+01:13:03,880 --> 01:13:07,880
+Je suis vraiment la porte d'entrée de Sol pour tout le monde,
+
+1590
+01:13:07,880 --> 01:13:08,880
+et en particulier les Français,
+
+1591
+01:13:08,880 --> 01:13:11,880
+parce qu'on n'est pas beaucoup en France à travailler chez la Fondation.
+
+1592
+01:13:11,880 --> 01:13:12,880
+En vrai, on n'est que deux.
+
+1593
+01:13:12,880 --> 01:13:18,880
+Mais du coup, tout le monde vient me voir parce qu'ils savent que je distribue de l'argent.
+
+1594
+01:13:18,880 --> 01:13:21,880
+C'est normal, parce que quand on a de l'argent, on peut faire un peu plus de choses.
+
+1595
+01:13:22,880 --> 01:13:25,880
+Mais je donne beaucoup de conseils aussi, surtout pas qu'au niveau de l'argent.
+
+1596
+01:13:25,880 --> 01:13:30,880
+Mais je donne beaucoup de liens et d'informations pour se développer,
+
+1597
+01:13:30,880 --> 01:13:32,880
+avoir les meilleurs outils pour réussir.
+
+1598
+01:13:32,880 --> 01:13:34,880
+Parce que parfois, quand on a plus de contacts et d'informations,
+
+1599
+01:13:34,880 --> 01:13:37,880
+c'est plus facile que d'avoir 1000 euros, ou 2000 ou 10 000.
+
+1600
+01:13:39,880 --> 01:13:42,880
+C'est quoi le budget de la Fondation par an pour ça?
+
+1601
+01:13:42,880 --> 01:13:44,880
+Je n'ai volontairement pas les informations du budget,
+
+1602
+01:13:44,880 --> 01:13:49,880
+parce que comme ça, quand je sélectionne des dossiers, je les mets dans des pipelines.
+
+1603
+01:13:49,880 --> 01:13:52,880
+Et si jamais je n'ai pas les connaissances des budgets,
+
+1604
+01:13:52,880 --> 01:13:56,880
+parfois ça peut me donner un biais de « Ah, j'ai déjà peut-être trop sélectionné de projets DeFi,
+
+1605
+01:13:56,880 --> 01:14:01,880
+je vais peut-être refuser celui-là parce que ça va trop empiéter sur le budget qu'on a. »
+
+1606
+01:14:01,880 --> 01:14:04,880
+Donc comme ça, je peux en envoyer 10, 20,
+
+1607
+01:14:04,880 --> 01:14:05,880
+enfin, j'en envoie rarement autant,
+
+1608
+01:14:05,880 --> 01:14:08,880
+mais je peux en envoyer autant sans me soucier du budget,
+
+1609
+01:14:08,880 --> 01:14:11,880
+et me dire « Celui-là est intéressant, les experts prennent la décision derrière eux-mêmes. »
+
+1610
+01:14:12,880 --> 01:14:13,880
+Ok, d'accord.
+
+1611
+01:14:14,880 --> 01:14:15,880
+Ouais, c'est pas mal.
+
+1612
+01:14:15,880 --> 01:14:19,880
+Est-ce qu'il y a des mécanismes similaires, je ne sais pas,
+
+1613
+01:14:19,880 --> 01:14:23,880
+toi tu ne sais pas Kuga, mais peut-être les autres, vous savez, sur d'autres blockchains?
+
+1614
+01:14:23,880 --> 01:14:27,880
+Est-ce qu'il y a des initiatives similaires sur Tezos ou même sur Ethereum?
+
+1615
+01:14:27,880 --> 01:14:30,880
+Ouais, il y a sur StarkNet,
+
+1616
+01:14:31,880 --> 01:14:39,880
+j'ai un pote qui fait le même taf que Kuga sur StarkNet
+
+1617
+01:14:39,880 --> 01:14:45,880
+et qui, pareil, distribue des grants pour des gens qui veulent faire des trucs sur le protocole.
+
+1618
+01:14:45,880 --> 01:14:51,880
+Et j'imagine que la plupart des fondations liées à des blockchains font ça en fait.
+
+1619
+01:14:51,880 --> 01:14:53,880
+Exactement, la plupart des fondations le font.
+
+1620
+01:14:53,880 --> 01:14:57,880
+Le seul truc qui change par rapport aux autres, c'est qu'on n'a pas d'incentive,
+
+1621
+01:14:57,880 --> 01:15:00,880
+c'est que beaucoup de blockchains, peut-être pas les plus récentes,
+
+1622
+01:15:00,880 --> 01:15:02,880
+je ne sais pas si celui-là essaye le fond,
+
+1623
+01:15:02,880 --> 01:15:05,880
+mais je sais que par exemple sur Polygon, sur Tezos ou sur Avalanche,
+
+1624
+01:15:05,880 --> 01:15:09,880
+il y avait des propositions de « Venez chez nous, on vous donne tant d'argent »
+
+1625
+01:15:09,880 --> 01:15:13,880
+et nous je sais qu'on ne le fait pas parce qu'on n'a pas envie d'avoir des gens qui le farment
+
+1626
+01:15:13,880 --> 01:15:17,880
+et au contraire, on préfère attirer les gens lorsqu'ils ont vraiment envie de venir
+
+1627
+01:15:17,880 --> 01:15:21,880
+plutôt que de dire « Venez, on a de l'argent et on va vous distribuer ça ».
+
+1628
+01:15:21,880 --> 01:15:23,880
+C'est le seul truc qui nous diffère pour l'instant.
+
+1629
+01:15:23,880 --> 01:15:26,880
+Ok, je vais continuer.
+
+1630
+01:15:26,880 --> 01:15:31,880
+Je suis très Bitcoin et monéo maximaliste, mais dans le milieu des altcoins,
+
+1631
+01:15:32,880 --> 01:15:36,880
+il n'y a vraiment que Solana qui m'a marqué, Ethereum pas trop.
+
+1632
+01:15:36,880 --> 01:15:39,880
+Je vais candidater, je vais voir ce qui se passe par chez vous.
+
+1633
+01:15:40,880 --> 01:15:42,880
+Pas de soucis, avec plaisir.
+
+1634
+01:15:45,880 --> 01:15:50,880
+Moi aussi, j'ai toujours aimé énormément Solana, j'ai même un t-shirt.
+
+1635
+01:15:50,880 --> 01:15:56,880
+C'est pas moi qui vous s'est donné, c'est les experts qui disent que je vais s'éloigner.
+
+1636
+01:15:56,880 --> 01:15:59,880
+Je vais tenter ma chance, on verra bien.
+
+1637
+01:16:00,880 --> 01:16:07,880
+Il y a Poiscaille qui dit « Go sur StargazerZone, t'auras une réelle commu ».
+
+1638
+01:16:07,880 --> 01:16:09,880
+Je ne sais pas ce que c'est, vous connaissez?
+
+1639
+01:16:09,880 --> 01:16:12,880
+Je n'ai jamais entendu, pas du tout.
+
+1640
+01:16:14,880 --> 01:16:16,880
+Et puis il y a Frédéric à qui je vais donner la parole d'ailleurs,
+
+1641
+01:16:16,880 --> 01:16:18,880
+qui dit « Tu bosses aussi ici? ».
+
+1642
+01:16:18,880 --> 01:16:24,880
+Il a posté une photo d'un café ou un resto qui s'appelle Solana.
+
+1643
+01:16:25,880 --> 01:16:27,880
+Je viens de voir.
+
+1644
+01:16:30,880 --> 01:16:32,880
+Je crois que je t'ai donné la parole.
+
+1645
+01:16:32,880 --> 01:16:34,880
+Après je donnerai la réponse.
+
+1646
+01:16:34,880 --> 01:16:36,880
+Salut Frédéric, comment ça va?
+
+1647
+01:16:36,880 --> 01:16:38,880
+Je suis dans le métro, je suis désolé.
+
+1648
+01:16:38,880 --> 01:16:40,880
+C'est une habitude, je sors dehors le nuit.
+
+1649
+01:16:42,880 --> 01:16:45,880
+Avant c'était vrai l'histoire de Tezos, mais maintenant, pas pour Tezos,
+
+1650
+01:16:45,880 --> 01:16:49,880
+mais pour Star Wars, ce qu'a expliqué Pierre.
+
+1651
+01:16:49,880 --> 01:16:52,880
+C'est de plus en plus comme Solana, c'est-à-dire qu'il y a vraiment des bourses
+
+1652
+01:16:52,880 --> 01:16:55,880
+où on ne demande pas à délivrer, c'est vraiment d'apporter des trucs dans l'écosystème.
+
+1653
+01:16:55,880 --> 01:16:58,880
+Donc Star Wars fait ça, Abutram le fait aussi.
+
+1654
+01:16:58,880 --> 01:17:03,880
+Quasiment tous les grands DL2 à Token sont en train de le faire sur Ethereum.
+
+1655
+01:17:03,880 --> 01:17:06,880
+Avalanche, la dernière nouvelle, ne le fait pas.
+
+1656
+01:17:06,880 --> 01:17:08,880
+Avant, j'ai resté sur l'ancien modèle.
+
+1657
+01:17:10,880 --> 01:17:14,880
+Paul Cadotte, je crois que j'ai vu passer un truc avec une bourse il n'y a pas très longtemps.
+
+1658
+01:17:14,880 --> 01:17:16,880
+Et sur Cosmos, il y a aussi ça.
+
+1659
+01:17:16,880 --> 01:17:18,880
+Mais à chaque fois, c'est toujours plutôt les développeurs,
+
+1660
+01:17:18,880 --> 01:17:22,880
+les gens comme CryptoMonsant qui sont pris dans ces bourses-là.
+
+1661
+01:17:22,880 --> 01:17:25,880
+Ce n'est pas forcément un produit, c'est plutôt apporter une fonctionnalité.
+
+1662
+01:17:25,880 --> 01:17:28,880
+Les gens qui sont capables de développer une nouvelle fonctionnalité ou un nouveau langage,
+
+1663
+01:17:28,880 --> 01:17:32,880
+les DL2 sont assez friands de ça et donc donnent ces fameux grants,
+
+1664
+01:17:32,880 --> 01:17:34,880
+mais qui sont des bourses.
+
+1665
+01:17:34,880 --> 01:17:37,880
+C'est une bourse, mais pas pour que tu délivres et tout, c'est apporter un truc au système.
+
+1666
+01:17:37,880 --> 01:17:41,880
+Avant, il y avait des gens qui fermaient ça en mode hackathon,
+
+1667
+01:17:41,880 --> 01:17:46,880
+en disant « tiens, je vais faire une application à la con et il n'y aura plus personne à m'en faire. »
+
+1668
+01:17:46,880 --> 01:17:48,880
+Les projets sont opérations, ça ne servait à rien.
+
+1669
+01:17:49,880 --> 01:17:54,880
+C'était à ne rien d'avoir fait un projet que tu avais payé tant et après personne ne l'a maintient.
+
+1670
+01:17:54,880 --> 01:17:56,880
+Voilà, c'était mon compte et mon infos.
+
+1671
+01:17:56,880 --> 01:18:01,880
+Mais allez voir StarWare, Outlook.com, c'est vraiment les plus grands.
+
+1672
+01:18:01,880 --> 01:18:04,880
+ZK-Think avec ZK-RH, il y a des trucs aussi.
+
+1673
+01:18:04,880 --> 01:18:06,880
+Après, Central Langage.
+
+1674
+01:18:06,880 --> 01:18:10,880
+Et après, c'est vrai qu'en langage, pas mal de développeurs sont assez contents
+
+1675
+01:18:10,880 --> 01:18:13,880
+pour les gens de CryptoMonsant d'aller sur Solana.
+
+1676
+01:18:13,880 --> 01:18:17,880
+Moi, j'en ai qui sont à Lisbonne et qui sont sur Solana depuis un an, qui sont très contents.
+
+1677
+01:18:18,880 --> 01:18:19,880
+Merci.
+
+1678
+01:18:19,880 --> 01:18:32,880
+Du coup, est-ce que les grandes, c'est les nouveaux airdrops, mais plus mieux, qui contribuent?
+
+1679
+01:18:32,880 --> 01:18:37,880
+Ah, il y a Polidot qui voulait parler.
+
+1680
+01:18:37,880 --> 01:18:38,880
+Salut Polidot, ça va?
+
+1681
+01:18:38,880 --> 01:18:39,880
+Salut, ça va bien?
+
+1682
+01:18:39,880 --> 01:18:43,880
+Super émission, tu sais que moi, Solana, on est à fond de cadre.
+
+1683
+01:18:44,880 --> 01:18:47,880
+95% de mon temps, c'est sur Solana.
+
+1684
+01:18:47,880 --> 01:18:54,880
+Super émission, je voulais juste faire un petit coucou aussi, parce que content que tu sois de retour.
+
+1685
+01:18:54,880 --> 01:18:59,880
+Et puis voilà, je vais suivre Kuga parce que je ne le connaissais pas du tout.
+
+1686
+01:18:59,880 --> 01:19:03,880
+Et moi, ça fait vraiment un an que je suis full sur Solana.
+
+1687
+01:19:03,880 --> 01:19:07,880
+Et ben voilà, je serai à l'écoute.
+
+1688
+01:19:07,880 --> 01:19:08,880
+Merci.
+
+1689
+01:19:09,880 --> 01:19:15,880
+Moi, en fait, en vrai, je n'ai plus vraiment de questions.
+
+1690
+01:19:15,880 --> 01:19:18,880
+On s'est dit beaucoup de choses.
+
+1691
+01:19:18,880 --> 01:19:26,880
+Je ne sais pas si Pierre, tu voulais aborder un autre sujet?
+
+1692
+01:19:26,880 --> 01:19:28,880
+Ah, il y a Redbad aussi qui veut dire un truc.
+
+1693
+01:19:28,880 --> 01:19:33,880
+Mais je ne sais pas si tu avais une question à poser ou un truc à dire.
+
+1694
+01:19:33,880 --> 01:19:36,880
+Non, vas-y, les tardes, donne un truc.
+
+1695
+01:19:36,880 --> 01:19:41,880
+Non, vas-y, les tardes, donne la parole aux gens qui veulent monter.
+
+1696
+01:19:43,880 --> 01:19:45,880
+Il y a Redbad.
+
+1697
+01:19:45,880 --> 01:19:47,880
+Salut Redbad, ça va?
+
+1698
+01:19:47,880 --> 01:19:48,880
+Salut.
+
+1699
+01:19:48,880 --> 01:19:50,880
+Merci de me donner la parole.
+
+1700
+01:19:50,880 --> 01:19:55,880
+J'avais une petite question pour Kuga vu qu'il est là et que j'ai eu l'opportunité de pouvoir lui poser une question.
+
+1701
+01:19:55,880 --> 01:20:00,880
+Alors, je m'intéresse depuis pas mal de temps à Solana.
+
+1702
+01:20:00,880 --> 01:20:02,880
+J'ai toujours été dans cet écosystème.
+
+1703
+01:20:03,880 --> 01:20:08,880
+On est en train de builder un projet sur la blockchain.
+
+1704
+01:20:08,880 --> 01:20:10,880
+J'avais une petite crainte.
+
+1705
+01:20:10,880 --> 01:20:18,880
+Tout à l'heure, tu as parlé par exemple de Sol-C qui est devenu limite obsolète parce qu'il y avait beaucoup moins de volume dessus.
+
+1706
+01:20:18,880 --> 01:20:24,880
+Aujourd'hui, on voit par exemple une plateforme comme Tensor ou les autres où il y a beaucoup plus de volume.
+
+1707
+01:20:24,880 --> 01:20:28,880
+Ce qui me fait peur un peu avec Solana, c'est que j'ai peur que du jour au lendemain,
+
+1708
+01:20:28,880 --> 01:20:33,880
+si on ne fait pas partie de la communauté ou en tout cas comment faire partie de la communauté,
+
+1709
+01:20:33,880 --> 01:20:37,880
+on peut vite fait se retrouver à l'écart même si on a un super projet.
+
+1710
+01:20:37,880 --> 01:20:43,880
+Je n'ai pas l'impression que Solanart ou Sol-C soient moins bien que Tensor, avant qu'il arrive en tout cas.
+
+1711
+01:20:43,880 --> 01:20:47,880
+Et aujourd'hui, on voit toute la TVL sur Tensor.
+
+1712
+01:20:47,880 --> 01:20:49,880
+Après, je peux t'en citer d'autres.
+
+1713
+01:20:49,880 --> 01:20:54,880
+J'avais commencé à l'époque sur Tulip qui faisait du farming ou d'autres comme ça,
+
+1714
+01:20:54,880 --> 01:20:58,880
+qui était hyper Francium par exemple aussi, qui était un super produit et tout.
+
+1715
+01:20:58,880 --> 01:21:01,880
+Et aujourd'hui, on se rend compte que ces produits-là, ils ont beaucoup moins de TVL.
+
+1716
+01:21:01,880 --> 01:21:07,880
+Et aujourd'hui, les gens ont l'impression que la communauté est comme ralliée à quelque chose.
+
+1717
+01:21:07,880 --> 01:21:09,880
+Et là où vont tout le monde, tout le monde y va.
+
+1718
+01:21:09,880 --> 01:21:15,880
+Et ce n'est pas que les airdrops parce que c'était même avant toute la hype autour des airdrops.
+
+1719
+01:21:15,880 --> 01:21:20,880
+Donc, c'est pour savoir est-ce qu'en tant que dev et en tant qu'apporteur de projet,
+
+1720
+01:21:20,880 --> 01:21:27,880
+si on crée un projet sur Solanart, comment on fait déjà pour faire partie de la commune?
+
+1721
+01:21:27,880 --> 01:21:30,880
+C'est une question assez large.
+
+1722
+01:21:30,880 --> 01:21:39,880
+Mais c'est surtout comment on fait pour ne pas se faire aimer et avoir un minimum de place?
+
+1723
+01:21:39,880 --> 01:21:44,880
+Ma question, elle est un peu naïve je suppose, mais c'est juste pour savoir,
+
+1724
+01:21:44,880 --> 01:21:48,880
+et peut-être me rassurer en me disant que je fais peut-être aussi le bon choix.
+
+1725
+01:21:50,880 --> 01:21:53,880
+Alors, du coup, je vais pouvoir répondre à ta question en deux parties.
+
+1726
+01:21:53,880 --> 01:21:57,880
+Et la question n'est pas du tout naïve, au contraire, parce que c'est normal et c'est quelque chose qu'on se pose,
+
+1727
+01:21:57,880 --> 01:22:01,880
+enfin que les personnes se posent lorsqu'ils viennent en particulier chez nous.
+
+1728
+01:22:01,880 --> 01:22:03,880
+Parce qu'on voit qu'il y a beaucoup de gros mouvements qui se font.
+
+1729
+01:22:03,880 --> 01:22:07,880
+On a vu d'abord de Solanart à Magic Eden, puis de Magic Eden à Tensor.
+
+1730
+01:22:07,880 --> 01:22:12,880
+Et en fait, pour répondre juste à cette partie-là de l'obsolescence des projets,
+
+1731
+01:22:12,880 --> 01:22:15,880
+je peux te citer deux exemples qui vont être contradictoires.
+
+1732
+01:22:15,880 --> 01:22:19,880
+On a Solanart et Magic Eden qui ont perdu beaucoup, beaucoup, beaucoup de market share.
+
+1733
+01:22:19,880 --> 01:22:23,880
+Ils étaient tous les deux à 95%, ils sont tous les deux descendus jusqu'à 30%.
+
+1734
+01:22:23,880 --> 01:22:28,880
+Et Tensor qui a tout pris pour une seule et unique raison, c'est que Tensor a compris ce que recherchent les gens
+
+1735
+01:22:28,880 --> 01:22:34,880
+et comment avance Solanart, puisque eux ont commencé à intégrer tout ce qui était intéressant.
+
+1736
+01:22:34,880 --> 01:22:38,880
+Ils ont commencé par avoir des données pour des traders et des dégens,
+
+1737
+01:22:38,880 --> 01:22:41,880
+donc ça veut dire que tu pouvais choisir l'un des deux, et si tu n'étais aucun des deux,
+
+1738
+01:22:41,880 --> 01:22:42,880
+ben t'avais aussi une version lite.
+
+1739
+01:22:42,880 --> 01:22:46,880
+Donc au début pourtant, je connais Tensor depuis leur tout début,
+
+1740
+01:22:46,880 --> 01:22:49,880
+et leur début était très focus sur les traders et les dégens,
+
+1741
+01:22:49,880 --> 01:22:51,880
+et ils n'avaient pas encore beaucoup de monde qui arrivait.
+
+1742
+01:22:51,880 --> 01:22:55,880
+Et lorsqu'ils ont compris qu'il fallait qu'ils s'étendent à plus de personnes, ils ont fait ça.
+
+1743
+01:22:55,880 --> 01:22:57,880
+Ensuite, ils ont été les premiers à rajouter les compresses TNFTs,
+
+1744
+01:22:57,880 --> 01:23:03,880
+ce qui est vraiment intéressant, puisque c'est quelque chose qui est dans l'avancée logique de Solanart,
+
+1745
+01:23:03,880 --> 01:23:06,880
+puisque maintenant, quasiment tout le monde utilise des compresses TNFTs.
+
+1746
+01:23:06,880 --> 01:23:10,880
+Ils ont aussi rajouté de plus en plus de fonctionnalités qui n'étaient pas dans les autres.
+
+1747
+01:23:10,880 --> 01:23:15,880
+Les erreurs de Solanart, c'est d'avoir été délaissé par leur créateur,
+
+1748
+01:23:15,880 --> 01:23:18,880
+en particulier parce qu'ils avaient d'autres focus,
+
+1749
+01:23:18,880 --> 01:23:22,880
+et je le connais très bien, c'est vraiment pas négatif,
+
+1750
+01:23:22,880 --> 01:23:25,880
+enfin c'est pas péjoratif et je leur prends pas pour une justice.
+
+1751
+01:23:25,880 --> 01:23:27,880
+Et l'erreur de Magic Eden, c'est de se dire,
+
+1752
+01:23:27,880 --> 01:23:29,880
+ben tiens, on va aller chercher du market share ailleurs,
+
+1753
+01:23:29,880 --> 01:23:31,880
+alors qu'ils n'ont pas cherché à se développer plus loin.
+
+1754
+01:23:31,880 --> 01:23:35,880
+L'autre exemple que je peux donner qui parle d'obsolescence, c'est Jupiter.
+
+1755
+01:23:35,880 --> 01:23:37,880
+Jupiter est là depuis le tout tout tout début.
+
+1756
+01:23:37,880 --> 01:23:41,880
+Ça a été le premier swap qui ont une interface utilisateur qui est exceptionnelle,
+
+1757
+01:23:41,880 --> 01:23:44,880
+leur utilisation est tellement smooth et parfaite,
+
+1758
+01:23:44,880 --> 01:23:45,880
+eux ils ont décidé de quoi?
+
+1759
+01:23:45,880 --> 01:23:47,880
+Ben de suivre la tendance, ils ont dit,
+
+1760
+01:23:47,880 --> 01:23:50,880
+on va continuer à rajouter tout ce que les customers de Solanart recherchent.
+
+1761
+01:23:50,880 --> 01:23:54,880
+Et aujourd'hui, de qui on parle au mois de janvier pour l'air drop?
+
+1762
+01:23:54,880 --> 01:23:55,880
+Ben de Jupiter.
+
+1763
+01:23:55,880 --> 01:23:58,880
+Et pourtant, on aurait pu voir d'autres personnes qui sont arrivées.
+
+1764
+01:23:58,880 --> 01:24:01,880
+Ben y'a Radium qui a été mis un peu de côté, pourtant ils font beaucoup de volume.
+
+1765
+01:24:01,880 --> 01:24:04,880
+On a d'autres swaps qui essayent de s'en sortir,
+
+1766
+01:24:04,880 --> 01:24:08,880
+mais qui n'y arrivent pas parce que eux ont décidé de rester un swap de base,
+
+1767
+01:24:08,880 --> 01:24:11,880
+sans chercher à évoluer avec Solanart.
+
+1768
+01:24:11,880 --> 01:24:13,880
+Sauf que si tu n'évolues pas avec Solanart,
+
+1769
+01:24:13,880 --> 01:24:14,880
+tu vas être laissé de côté,
+
+1770
+01:24:14,880 --> 01:24:17,880
+puisque nous on cherche à évoluer avec.
+
+1771
+01:24:17,880 --> 01:24:20,880
+Donc moi, ça c'était pour la première question,
+
+1772
+01:24:20,880 --> 01:24:22,880
+la première partie au niveau de l'obsolescence.
+
+1773
+01:24:22,880 --> 01:24:24,880
+Au niveau de la deuxième partie, pour faire partie de la communauté,
+
+1774
+01:24:24,880 --> 01:24:25,880
+y'a plusieurs manières de le faire.
+
+1775
+01:24:25,880 --> 01:24:27,880
+Y'a ce qu'on appelle Solana Collective,
+
+1776
+01:24:27,880 --> 01:24:30,880
+juste en tapant Solana Collective tu devrais trouver,
+
+1777
+01:24:30,880 --> 01:24:33,880
+ça permet de faire partie d'un groupe de personnes qui bulle d'à fond,
+
+1778
+01:24:33,880 --> 01:24:37,880
+et surtout d'avoir du coup des contacts avec des gens chez Solana,
+
+1779
+01:24:37,880 --> 01:24:41,880
+dans l'écosystème Solana, mais aussi chez la Solana Fondation,
+
+1780
+01:24:41,880 --> 01:24:43,880
+et aussi des devs, parce que tous les vendredis soir,
+
+1781
+01:24:43,880 --> 01:24:46,880
+y'a un call qui se fait avec des gens de la Fondation,
+
+1782
+01:24:46,880 --> 01:24:48,880
+que ce soit avec des gens hyper connus,
+
+1783
+01:24:48,880 --> 01:24:51,880
+comme Tolly, qui pâche au Collectif,
+
+1784
+01:24:51,880 --> 01:24:54,880
+on a des gens de ETH qui viennent chez nous parler,
+
+1785
+01:24:54,880 --> 01:24:57,880
+qui sont super intéressants mais qui sont aussi sur Sol, etc.
+
+1786
+01:24:57,880 --> 01:24:58,880
+Ça c'est des premières communautés.
+
+1787
+01:24:58,880 --> 01:24:59,880
+Y'a aussi Superteam,
+
+1788
+01:24:59,880 --> 01:25:02,880
+Superteam qui se développe de plus en plus malheureusement,
+
+1789
+01:25:02,880 --> 01:25:04,880
+peut-être qu'en passant ici ça va faire du bruit,
+
+1790
+01:25:04,880 --> 01:25:06,880
+et ça va permettre un petit peu de partager ça,
+
+1791
+01:25:06,880 --> 01:25:09,880
+mais en fait Superteam c'est des groupes dans chaque pays,
+
+1792
+01:25:09,880 --> 01:25:14,880
+dans le monde entier, qui se regroupent pour faire des événements, etc.
+
+1793
+01:25:14,880 --> 01:25:17,880
+Nous on essaie de faire ça, de faire Superteam France,
+
+1794
+01:25:17,880 --> 01:25:19,880
+mais on a pas encore la communauté française qui est activée,
+
+1795
+01:25:19,880 --> 01:25:22,880
+c'est un peu compliqué puisque j'ai l'impression que tout le monde est un peu partout,
+
+1796
+01:25:22,880 --> 01:25:25,880
+et c'est un peu difficile, mais on voit que si tu fais partie d'un groupe
+
+1797
+01:25:25,880 --> 01:25:28,880
+comme Superteam Allemagne, Superteam Angleterre,
+
+1798
+01:25:28,880 --> 01:25:31,880
+tu peux avoir ce groupe de personnes qui va développer avec toi,
+
+1799
+01:25:31,880 --> 01:25:33,880
+vous aurez vos propres hackathons, donc vous aurez des subventions,
+
+1800
+01:25:33,880 --> 01:25:36,880
+vous aurez de l'aide de la Fondation, parce que c'est très rattaché à la Fondation,
+
+1801
+01:25:36,880 --> 01:25:39,880
+et en fait faire partie de ces petits groupes là,
+
+1802
+01:25:39,880 --> 01:25:41,880
+c'est la meilleure chose, parce qu'en fait d'une c'est gratuit,
+
+1803
+01:25:41,880 --> 01:25:43,880
+vous avez pas besoin de payer pour rentrer dedans,
+
+1804
+01:25:43,880 --> 01:25:46,880
+il suffit juste d'être actif, et vous aurez beaucoup d'avantages,
+
+1805
+01:25:46,880 --> 01:25:49,880
+vous pouvez même gagner, moi j'ai gagné un ticket pour Breakpoint,
+
+1806
+01:25:49,880 --> 01:25:51,880
+alors qu'un ticket ça coûte 1000$,
+
+1807
+01:25:51,880 --> 01:25:53,880
+bon je travaillais déjà à la Fondation,
+
+1808
+01:25:53,880 --> 01:25:56,880
+donc je l'ai donné à un pote qui lui méritait aussi de gagner,
+
+1809
+01:25:56,880 --> 01:25:59,880
+mais en fait faire partie de communautés gratuites comme ça,
+
+1810
+01:25:59,880 --> 01:26:02,880
+qui s'activent entre builders, ça va faire beaucoup de bruit,
+
+1811
+01:26:02,880 --> 01:26:04,880
+et ça va permettre déjà d'une de partager ton produit,
+
+1812
+01:26:04,880 --> 01:26:07,880
+et le Busha Aurez c'est la meilleure chose qui existe sur Solana,
+
+1813
+01:26:07,880 --> 01:26:09,880
+aujourd'hui, et surtout de rester à jour,
+
+1814
+01:26:09,880 --> 01:26:12,880
+pour te donner un petit peu des idées pour rester à jour,
+
+1815
+01:26:12,880 --> 01:26:15,880
+regarde bien le Token Extension, ça en parle beaucoup,
+
+1816
+01:26:15,880 --> 01:26:18,880
+parlez des EPNFTs, Compressed NFTs, il faut beaucoup l'utiliser,
+
+1817
+01:26:18,880 --> 01:26:25,880
+en fait le Seamless, il faut regarder par exemple le protocole Back an Underdog,
+
+1818
+01:26:25,880 --> 01:26:29,880
+qui va vraiment te donner une idée de pourquoi les projets commencent à utiliser Underdog,
+
+1819
+01:26:29,880 --> 01:26:31,880
+parce que ça leur permet de rester à jour, etc.
+
+1820
+01:26:32,880 --> 01:26:36,880
+J'ai essayé de répondre à la question concise, même si j'ai un peu divagué,
+
+1821
+01:26:36,880 --> 01:26:40,880
+mais voilà, et n'hésite pas si tu as besoin de quoi que ce soit,
+
+1822
+01:26:40,880 --> 01:26:42,880
+d'informations par rapport à ton projet ou quoi que ce soit,
+
+1823
+01:26:42,880 --> 01:26:45,880
+envoie-moi un DM, je te donnerai les liens les plus intéressants pour ça,
+
+1824
+01:26:45,880 --> 01:26:48,880
+comme ça tu te retrouveras plus facilement.
+
+1825
+01:26:51,880 --> 01:26:54,880
+Bon bah super, merci beaucoup pour cette réponse.
+
+1826
+01:26:54,880 --> 01:26:59,880
+Merci, c'était carrément hyper rassuré, hyper convaincu,
+
+1827
+01:26:59,880 --> 01:27:03,880
+mais c'est cool, c'était juste pour essayer d'en savoir un peu plus,
+
+1828
+01:27:03,880 --> 01:27:08,880
+mais tout ce que tu as dit c'est carrément la réalité,
+
+1829
+01:27:08,880 --> 01:27:11,880
+et j'en connaissais un peu quelques briques,
+
+1830
+01:27:11,880 --> 01:27:15,880
+mais c'est vrai que comme tu as dit tout à l'heure, au lieu d'avoir de l'argent,
+
+1831
+01:27:15,880 --> 01:27:17,880
+peut-être les informations sont beaucoup plus importantes,
+
+1832
+01:27:17,880 --> 01:27:22,880
+et peut-être qu'à ce niveau-là, avoir quelques infos au moment opportun,
+
+1833
+01:27:22,880 --> 01:27:24,880
+ce sera peut-être plus important que de l'avoir de l'argent,
+
+1834
+01:27:24,880 --> 01:27:26,880
+et voilà, donc je n'hésiterai pas à te dire.
+
+1835
+01:27:26,880 --> 01:27:31,880
+Et bien on a un call qui s'appelle le Solana Ecosystem Call,
+
+1836
+01:27:31,880 --> 01:27:35,880
+et on a de très grosses personnes qui viennent, en fait c'est tous les mois,
+
+1837
+01:27:35,880 --> 01:27:37,880
+et on revient sur tout ce qui s'est passé pendant le mois,
+
+1838
+01:27:37,880 --> 01:27:39,880
+et il y a vraiment de très grosses personnes,
+
+1839
+01:27:39,880 --> 01:27:42,880
+on a déjà eu le gouvernement japonais qui est venu parler dans cet Ecosystem Call,
+
+1840
+01:27:42,880 --> 01:27:45,880
+on a eu Baladjiz qui est passé deux fois aussi,
+
+1841
+01:27:45,880 --> 01:27:48,880
+enfin on a eu des grosses personnes qui viennent parler dans cet Ecosystem Call,
+
+1842
+01:27:48,880 --> 01:27:50,880
+et c'est là où on revient un petit peu sur tout ce qui s'est passé pendant le mois,
+
+1843
+01:27:50,880 --> 01:27:54,880
+et pour moi c'est un must, obligé, pour être buldeur,
+
+1844
+01:27:54,880 --> 01:27:57,880
+pour être buldeur dans Solana,
+
+1845
+01:27:57,880 --> 01:28:00,880
+si on ne regarde pas l'Ecosystem Call,
+
+1846
+01:28:00,880 --> 01:28:03,880
+on passe à côté d'énormément de choses, vraiment beaucoup beaucoup de choses.
+
+1847
+01:28:03,880 --> 01:28:05,880
+Ça ne dure qu'une heure, c'est une fois par mois,
+
+1848
+01:28:05,880 --> 01:28:08,880
+moi je fais des trade recap qui peuvent se lire en 10 minutes,
+
+1849
+01:28:08,880 --> 01:28:13,880
+donc voilà, mais pour moi c'est un must, pour ceux qui veulent suivre Solana.
+
+1850
+01:28:13,880 --> 01:28:16,880
+Est-ce que c'est des trade recap en anglais ou en français?
+
+1851
+01:28:16,880 --> 01:28:20,880
+Ouais, moi mon compte il est forcément en anglais,
+
+1852
+01:28:20,880 --> 01:28:22,880
+mais si il est en français, n'hésitez surtout pas s'il y en a qui veulent,
+
+1853
+01:28:22,880 --> 01:28:26,880
+parce qu'en fait il y a un bounty de 50$ pour ceux qui font un trade,
+
+1854
+01:28:26,880 --> 01:28:29,880
+moi je le fais tous les mois depuis un an maintenant,
+
+1855
+01:28:29,880 --> 01:28:33,880
+et je suis très proche de la team, donc je ne demande plus les 50$,
+
+1856
+01:28:33,880 --> 01:28:35,880
+mais si jamais un jour vous le faites en français,
+
+1857
+01:28:35,880 --> 01:28:39,880
+envoyez-moi un DM, je le partage et je le partagerai dans le groupe,
+
+1858
+01:28:39,880 --> 01:28:42,880
+ça vous donnera un peu de visibilité, j'essaierai de vous faire gagner les 50$.
+
+1859
+01:28:42,880 --> 01:28:45,880
+Si jamais quelqu'un veut le faire un jour.
+
+1860
+01:28:45,880 --> 01:28:46,880
+Ça se tente.
+
+1861
+01:28:46,880 --> 01:28:47,880
+C'est génial.
+
+1862
+01:28:47,880 --> 01:28:49,880
+Tu dis quoi?
+
+1863
+01:28:49,880 --> 01:28:51,880
+Je vais tenter.
+
+1864
+01:28:52,880 --> 01:28:56,880
+Vous avez juste à prendre mon trade et à le traduire, ça y est.
+
+1865
+01:28:56,880 --> 01:28:59,880
+Je t'avouerai que j'ai un peu pensé à ça.
+
+1866
+01:28:59,880 --> 01:29:03,880
+Est-ce qu'on est quand même éligible aux 50$?
+
+1867
+01:29:03,880 --> 01:29:08,880
+Si on fait un trade original pour Solana,
+
+1868
+01:29:08,880 --> 01:29:09,880
+enfin sur ce que je comptais faire,
+
+1869
+01:29:09,880 --> 01:29:12,880
+est-ce qu'on est quand même éligible aux 50$?
+
+1870
+01:29:12,880 --> 01:29:18,880
+Oui, bien sûr, à partir du moment où tu fais un trade sur l'écosystème call,
+
+1871
+01:29:18,880 --> 01:29:21,880
+il faut que ce soit un récap du call,
+
+1872
+01:29:21,880 --> 01:29:24,880
+après la manière dont tu le fais, tant que c'est un trade et que tu les cites dedans,
+
+1873
+01:29:24,880 --> 01:29:26,880
+tu peux gagner les 50$.
+
+1874
+01:29:26,880 --> 01:29:28,880
+Moi, j'ai vu qu'il y a Jackane qui a repris les photos,
+
+1875
+01:29:28,880 --> 01:29:31,880
+parce que moi je le fais en live, on m'envoie le diaporama en avance,
+
+1876
+01:29:31,880 --> 01:29:32,880
+donc j'ai un peu de chance,
+
+1877
+01:29:32,880 --> 01:29:36,880
+donc je le fais en live et il y a des gens qui ont pris mes screenshots
+
+1878
+01:29:36,880 --> 01:29:38,880
+pour faire le trade et qui ont gagné les 50$,
+
+1879
+01:29:38,880 --> 01:29:40,880
+mais ils l'ont fait d'une autre manière.
+
+1880
+01:29:40,880 --> 01:29:43,880
+Et puis moi je suis open source aussi, donc vous pouvez prendre mes screens.
+
+1881
+01:29:46,880 --> 01:29:47,880
+C'est cool.
+
+1882
+01:29:48,880 --> 01:29:50,880
+D'ailleurs, pour repartir sur la langue,
+
+1883
+01:29:50,880 --> 01:29:53,880
+est-ce que le fait que tu parles français, c'est un hasard
+
+1884
+01:29:53,880 --> 01:29:57,880
+ou ils cherchaient quelqu'un dans l'équipe qui parlait français?
+
+1885
+01:29:58,880 --> 01:30:00,880
+Non, ils ne cherchaient personne qui parlait français,
+
+1886
+01:30:00,880 --> 01:30:02,880
+moi ça a été vraiment de la chance pour Antoine,
+
+1887
+01:30:02,880 --> 01:30:05,880
+parce que pour être très rapide, j'ai été frappé par FTX très très fort,
+
+1888
+01:30:05,880 --> 01:30:07,880
+j'ai vraiment perdu beaucoup beaucoup d'argent,
+
+1889
+01:30:07,880 --> 01:30:10,880
+et du coup j'ai dû chercher une stabilité,
+
+1890
+01:30:10,880 --> 01:30:14,880
+et en fait ils cherchaient quelqu'un qui connaissait bien l'écosystème,
+
+1891
+01:30:14,880 --> 01:30:16,880
+et ça a vérité que, pour être honnête,
+
+1892
+01:30:16,880 --> 01:30:20,880
+je pense que je suis une des personnes qui connaît le plus Solana dans son intégrité,
+
+1893
+01:30:20,880 --> 01:30:22,880
+enfin normal parce que c'est aussi mon taf,
+
+1894
+01:30:22,880 --> 01:30:25,880
+mais du coup ils m'ont mis là-dedans et il n'y a pas mieux.
+
+1895
+01:30:25,880 --> 01:30:28,880
+Et en France, on est deux à travailler à la fondation
+
+1896
+01:30:28,880 --> 01:30:30,880
+et un qui travaille chez Solana Labs.
+
+1897
+01:30:30,880 --> 01:30:32,880
+Mais ils sont très discrets.
+
+1898
+01:30:33,880 --> 01:30:35,880
+Je suis le seul à ouvrir ma gueule, voilà.
+
+1899
+01:30:37,880 --> 01:30:39,880
+C'est cool, merci beaucoup d'être venu.
+
+1900
+01:30:40,880 --> 01:30:41,880
+J'avais aussi une autre question.
+
+1901
+01:30:41,880 --> 01:30:43,880
+Une autre question un petit peu au niveau technique.
+
+1902
+01:30:43,880 --> 01:30:46,880
+Par exemple je sais que sur Ethereum, quand on construit un smart contract,
+
+1903
+01:30:46,880 --> 01:30:49,880
+le code source du smart contract est visible.
+
+1904
+01:30:49,880 --> 01:30:51,880
+Est-ce qu'il y a la même chose sur Solana?
+
+1905
+01:30:51,880 --> 01:30:53,880
+Parce que je me suis un petit peu renseigné,
+
+1906
+01:30:53,880 --> 01:30:56,880
+j'ai cru comprendre qu'il y a la signature du smart contract
+
+1907
+01:30:56,880 --> 01:30:59,880
+qui est visible sur la blockchain, mais pas le code source.
+
+1908
+01:30:59,880 --> 01:31:02,880
+Est-ce que tu as des informations là-dessus?
+
+1909
+01:31:03,880 --> 01:31:06,880
+Normalement tu me poses une question, je ne pourrais pas répondre, je suis désolé.
+
+1910
+01:31:06,880 --> 01:31:09,880
+Vraiment tout ce qui est niveau tech en détail,
+
+1911
+01:31:09,880 --> 01:31:10,880
+j'ai vraiment pas...
+
+1912
+01:31:10,880 --> 01:31:12,880
+J'essaie des fois de résumer certaines choses, mais ça c'est trop...
+
+1913
+01:31:12,880 --> 01:31:19,880
+Je ne sais pas si tu veux me poser la question à ton collègue qui bosse à la fondation.
+
+1914
+01:31:22,880 --> 01:31:24,880
+J'avais une question qui était un peu similaire,
+
+1915
+01:31:24,880 --> 01:31:26,880
+donc si tu ne sais pas, ce n'est pas grave.
+
+1916
+01:31:26,880 --> 01:31:28,880
+Je me demandais justement pour les NFT,
+
+1917
+01:31:28,880 --> 01:31:31,880
+comment ça se passe pour le metadata, les images et tout?
+
+1918
+01:31:31,880 --> 01:31:34,880
+Est-ce que c'est stocké sur les services usuels,
+
+1919
+01:31:34,880 --> 01:31:38,880
+comme IPFS ou Airwave?
+
+1920
+01:31:38,880 --> 01:31:41,880
+Ou est-ce que c'est un autre système?
+
+1921
+01:31:41,880 --> 01:31:44,880
+Et ma deuxième question, est-ce qu'il y a des inscriptions sur Solana?
+
+1922
+01:31:45,880 --> 01:31:47,880
+Tiens, j'allais répondre les deux en même temps.
+
+1923
+01:31:47,880 --> 01:31:50,880
+Alors pour la première, par rapport aux images,
+
+1924
+01:31:50,880 --> 01:31:52,880
+les images ne sont pas stockées sur la blockchain.
+
+1925
+01:31:52,880 --> 01:31:54,880
+Les metadata, oui.
+
+1926
+01:31:54,880 --> 01:31:57,880
+Après l'aspect technique, je ne peux pas t'en parler, je sais juste que c'est ça.
+
+1927
+01:31:57,880 --> 01:31:59,880
+Et oui, il y a des inscriptions sur Solana,
+
+1928
+01:31:59,880 --> 01:32:03,880
+c'est fait par LibrePlex, donc LibrePlex tout simplement.
+
+1929
+01:32:04,880 --> 01:32:08,880
+Il y a eu une hype d'inscriptions il y a trois mois sur Sol,
+
+1930
+01:32:08,880 --> 01:32:11,880
+suite à ceux sur Ordinal.
+
+1931
+01:32:13,880 --> 01:32:15,880
+Mais honnêtement, moi comme j'ai dit,
+
+1932
+01:32:17,880 --> 01:32:19,880
+c'était juste une hype, je ne sais pas.
+
+1933
+01:32:19,880 --> 01:32:21,880
+Est-ce que c'est vraiment fonctionnel?
+
+1934
+01:32:21,880 --> 01:32:24,880
+Est-ce que ça apporte quelque chose d'autre, à part la décentralisation?
+
+1935
+01:32:24,880 --> 01:32:26,880
+Après, c'est mon point de vue.
+
+1936
+01:32:26,880 --> 01:32:28,880
+On peut surfer sur la vague, etc.
+
+1937
+01:32:28,880 --> 01:32:32,880
+Ça ne m'a pas trop changé de grand-chose, j'avoue.
+
+1938
+01:32:32,880 --> 01:32:34,880
+Ça ne fait pas augmenter les fees?
+
+1939
+01:32:34,880 --> 01:32:37,880
+Si, ça fait augmenter les fees, mais que pour les inscriptions.
+
+1940
+01:32:37,880 --> 01:32:39,880
+Que pour les inscriptions.
+
+1941
+01:32:39,880 --> 01:32:43,880
+Tous les fees de la blockchain sont restés normaux.
+
+1942
+01:32:43,880 --> 01:32:45,880
+Normales, une fee.
+
+1943
+01:32:46,880 --> 01:32:49,880
+Du coup, c'est les fees normaux.
+
+1944
+01:32:49,880 --> 01:32:53,880
+J'avoue, vu que c'est un mot anglais, tu peux dire ce que tu veux.
+
+1945
+01:32:53,880 --> 01:32:56,880
+Merci beaucoup pour toutes tes réponses.
+
+1946
+01:32:56,880 --> 01:33:00,880
+Je ne sais pas si parmi ceux qui ont le rôle de speaker,
+
+1947
+01:33:00,880 --> 01:33:03,880
+ou même ceux qui ne l'ont pas, si vous avez encore des choses à dire,
+
+1948
+01:33:03,880 --> 01:33:05,880
+ou des questions à poser.
+
+1949
+01:33:05,880 --> 01:33:08,880
+Je pense qu'on peut terminer l'émission là-dessus.
+
+1950
+01:33:08,880 --> 01:33:10,880
+C'était vraiment intéressant.
+
+1951
+01:33:10,880 --> 01:33:12,880
+C'était vraiment super cool.
+
+1952
+01:33:12,880 --> 01:33:14,880
+Merci énormément d'être venu.
+
+1953
+01:33:14,880 --> 01:33:17,880
+N'hésitez pas si un jour vous voulez repartir sur un autre sujet.
+
+1954
+01:33:17,880 --> 01:33:20,880
+Moi, ça me fait plaisir de partager un peu des infos,
+
+1955
+01:33:20,880 --> 01:33:23,880
+et surtout de diriger les personnes vers les bonnes informations.
+
+1956
+01:33:23,880 --> 01:33:27,880
+Parce que c'est vrai que nous, on a subi beaucoup de fausses informations.
+
+1957
+01:33:27,880 --> 01:33:31,880
+Le matin, on se lève, il y a un article qui raconte quelque chose qui est faux,
+
+1958
+01:33:31,880 --> 01:33:33,880
+juste parce qu'un tweet ça a mis quelque chose.
+
+1959
+01:33:33,880 --> 01:33:35,880
+Mon but, c'est vraiment...
+
+1960
+01:33:35,880 --> 01:33:39,880
+Moi, j'essaie le moins possible de parler d'aspects financiers.
+
+1961
+01:33:39,880 --> 01:33:41,880
+Je ne promets surtout pas de faire de l'argent, etc.
+
+1962
+01:33:41,880 --> 01:33:44,880
+J'essaie d'apporter ce côté éducation.
+
+1963
+01:33:44,880 --> 01:33:47,880
+Parce que c'est ce que je préfère.
+
+1964
+01:33:47,880 --> 01:33:50,880
+Si je peux vous aider à mieux comprendre,
+
+1965
+01:33:50,880 --> 01:33:53,880
+et à avoir tous les outils, c'est la meilleure chose.
+
+1966
+01:33:53,880 --> 01:33:54,880
+Superbe.
+
+1967
+01:33:54,880 --> 01:33:56,880
+C'est vraiment l'esprit de l'émission aussi.
+
+1968
+01:33:56,880 --> 01:33:59,880
+On ne parle pas vraiment du prix des cryptos,
+
+1969
+01:33:59,880 --> 01:34:02,880
+mais c'est plus, effectivement, ça l'idée.
+
+1970
+01:34:02,880 --> 01:34:08,880
+C'est trouver des moyens de faire de ces projets,
+
+1971
+01:34:08,880 --> 01:34:11,880
+de faire des choses qui sont intéressantes.
+
+1972
+01:34:11,880 --> 01:34:13,880
+En tout cas, merci beaucoup pour toutes tes réponses.
+
+1973
+01:34:13,880 --> 01:34:15,880
+Tu reviens quand tu veux.
+
+1974
+01:34:15,880 --> 01:34:20,880
+Si jamais je trouve un angle d'attaque intéressant sur Solana ou dans le futur,
+
+1975
+01:34:20,880 --> 01:34:22,880
+je vais t'envoyer un message.
+
+1976
+01:34:22,880 --> 01:34:25,880
+Il y a Windy qui veut parler.
+
+1977
+01:34:25,880 --> 01:34:27,880
+Je pense que ce sera la dernière intervention.
+
+1978
+01:34:27,880 --> 01:34:30,880
+Sauf si vous avez encore plein de trucs à dire.
+
+1979
+01:34:30,880 --> 01:34:33,880
+Windy, ça va?
+
+1980
+01:34:33,880 --> 01:34:34,880
+Oui, ça va et toi?
+
+1981
+01:34:34,880 --> 01:34:35,880
+Oui, ça va.
+
+1982
+01:34:35,880 --> 01:34:39,880
+J'avais juste une question pour Kuga.
+
+1983
+01:34:39,880 --> 01:34:40,880
+C'est ça.
+
+1984
+01:34:40,880 --> 01:34:44,880
+Tu penses quoi des SLP?
+
+1985
+01:34:44,880 --> 01:34:46,880
+Je crois que c'est comme ça, les SLP.
+
+1986
+01:34:46,880 --> 01:34:49,880
+Les sortes de tokens, enfin les NFT plutôt,
+
+1987
+01:34:49,880 --> 01:34:51,880
+qui ont une forme liquide aussi, en parallèle.
+
+1988
+01:34:52,880 --> 01:34:56,880
+Est-ce que vous en avez parlé dans l'écosystème Call?
+
+1989
+01:34:56,880 --> 01:35:01,880
+Et ma deuxième question, c'est l'écosystème Call,
+
+1990
+01:35:01,880 --> 01:35:04,880
+il est fait en collaboration avec Superteam.
+
+1991
+01:35:04,880 --> 01:35:08,880
+Mais c'est quoi Superteam?
+
+1992
+01:35:08,880 --> 01:35:11,880
+C'est quoi?
+
+1993
+01:35:11,880 --> 01:35:15,880
+Pour la première question, elle va être super simple et rapide
+
+1994
+01:35:15,880 --> 01:35:17,880
+parce que la réponse, moi aussi au début, je me demandais pourquoi.
+
+1995
+01:35:17,880 --> 01:35:21,880
+Les tokens liquides, les NFT sous forme liquide
+
+1996
+01:35:21,880 --> 01:35:23,880
+sont super intéressants pour le gaming.
+
+1997
+01:35:23,880 --> 01:35:25,880
+Et en fait, on l'a vu avec Aurori.
+
+1998
+01:35:25,880 --> 01:35:28,880
+Aurori qui est un leader jeu vidéo sur Sol,
+
+1999
+01:35:28,880 --> 01:35:33,880
+qui aujourd'hui permet de t'envoyer des tokens liquides de jeux vidéo.
+
+2000
+01:35:33,880 --> 01:35:37,880
+Comme ça, ça permet de ne pas avoir des frais trop énormes
+
+2001
+01:35:37,880 --> 01:35:39,880
+pour mint des milliers de NFT.
+
+2002
+01:35:39,880 --> 01:35:41,880
+Parce que c'est ça en fait qui est intéressant,
+
+2003
+01:35:41,880 --> 01:35:44,880
+c'est ne pas avoir à payer des milliers de dollars
+
+2004
+01:35:44,880 --> 01:35:46,880
+pour mint un million de NFT.
+
+2005
+01:35:46,880 --> 01:35:49,880
+Donc voilà, c'est la partie intéressante pour la première question.
+
+2006
+01:35:49,880 --> 01:35:52,880
+Et pour la deuxième question, en fait, Superteam,
+
+2007
+01:35:52,880 --> 01:35:55,880
+c'est une initiative d'un groupe de personnes
+
+2008
+01:35:55,880 --> 01:35:59,880
+qui voulait faire des groupes...
+
+2009
+01:35:59,880 --> 01:36:03,880
+Enfin, ce groupe voulait faire des événements entre eux, etc.
+
+2010
+01:36:03,880 --> 01:36:05,880
+Mais ouvert à tout le monde.
+
+2011
+01:36:05,880 --> 01:36:07,880
+Et en fait, ça a été financé par la fondation.
+
+2012
+01:36:07,880 --> 01:36:10,880
+Et en fait, du coup, Superteam, tout simplement,
+
+2013
+01:36:10,880 --> 01:36:12,880
+c'est une DAO gratuite,
+
+2014
+01:36:12,880 --> 01:36:15,880
+où si vous êtes actif dedans,
+
+2015
+01:36:15,880 --> 01:36:17,880
+en fait, vous avez accès à tout.
+
+2016
+01:36:17,880 --> 01:36:20,880
+Mais si vous êtes actif, vous avez accès à plus de choses
+
+2017
+01:36:20,880 --> 01:36:22,880
+en fonction du pays dans lequel vous êtes.
+
+2018
+01:36:22,880 --> 01:36:25,880
+Et de plus en plus, Superteam commence à être partout dans le monde.
+
+2019
+01:36:25,880 --> 01:36:28,880
+Que ce soit, en fait, les premières ont été Inde,
+
+2020
+01:36:28,880 --> 01:36:31,880
+Allemagne, Angleterre, il y a Mexique, il y a Brésil récemment,
+
+2021
+01:36:31,880 --> 01:36:34,880
+il y a l'Emirat Arabe Unie, il y a Turquie,
+
+2022
+01:36:34,880 --> 01:36:36,880
+je peux en citer encore d'autres.
+
+2023
+01:36:36,880 --> 01:36:40,880
+Et en fait, ces Superteam là, entre eux,
+
+2024
+01:36:40,880 --> 01:36:43,880
+sont des sub-DAO de la grande DAO.
+
+2025
+01:36:43,880 --> 01:36:44,880
+Mais tout ça, c'est gratuit.
+
+2026
+01:36:44,880 --> 01:36:46,880
+Et vous pouvez participer à des événements dans vos pays.
+
+2027
+01:36:46,880 --> 01:36:50,880
+Et dans ces pays là, il y a ce qu'on appelle par exemple une Build Station.
+
+2028
+01:36:50,880 --> 01:36:52,880
+En Allemagne, ils ont fait ça deux fois.
+
+2029
+01:36:52,880 --> 01:36:55,880
+Ils ont fait le Build Stop en Angleterre.
+
+2030
+01:36:55,880 --> 01:36:57,880
+Et il y a des mini hackathons.
+
+2031
+01:36:57,880 --> 01:36:59,880
+Tout ça, c'est financé par Superteam.
+
+2032
+01:36:59,880 --> 01:37:01,880
+Et derrière, il y a pas mal d'opportunités.
+
+2033
+01:37:01,880 --> 01:37:05,880
+Et eux aussi distribuent des grants.
+
+2034
+01:37:05,880 --> 01:37:07,880
+Il y a vraiment pas mal de choses, en fait.
+
+2035
+01:37:07,880 --> 01:37:09,880
+Quand vous voulez participer activement à la communauté Solana,
+
+2036
+01:37:09,880 --> 01:37:12,880
+que vous soyez dev ou juste quelqu'un qui veut découvrir ou comprendre,
+
+2037
+01:37:12,880 --> 01:37:17,880
+franchement, pour moi, c'est le meilleur endroit pour tout comprendre
+
+2038
+01:37:17,880 --> 01:37:20,880
+sans avoir à passer trop de temps sur les réseaux ou quoi.
+
+2039
+01:37:20,880 --> 01:37:22,880
+Juste un écosystème call une fois par mois.
+
+2040
+01:37:22,880 --> 01:37:26,880
+Vous avez un recap du mois entier avec tout ce qui se passe.
+
+2041
+01:37:26,880 --> 01:37:32,880
+Et franchement, le résumé en une heure, ça passe hyper rapidement.
+
+2042
+01:37:32,880 --> 01:37:33,880
+C'est un stream d'une heure.
+
+2043
+01:37:33,880 --> 01:37:34,880
+Et c'est vraiment cool.
+
+2044
+01:37:34,880 --> 01:37:36,880
+Moi, je fais le trade en live.
+
+2045
+01:37:37,880 --> 01:37:39,880
+Mais je sais que parfois, quand je veux réécouter,
+
+2046
+01:37:39,880 --> 01:37:41,880
+parce que vu que je suis en train de faire le trade,
+
+2047
+01:37:41,880 --> 01:37:43,880
+je le mets en fond, en podcast.
+
+2048
+01:37:43,880 --> 01:37:45,880
+Et c'est vraiment cool.
+
+2049
+01:37:47,880 --> 01:37:48,880
+OK.
+
+2050
+01:37:48,880 --> 01:37:50,880
+Mais du coup, au niveau de la communauté,
+
+2051
+01:37:50,880 --> 01:37:52,880
+il n'y a pas un Discord ou quelque chose comme ça?
+
+2052
+01:37:53,880 --> 01:37:54,880
+Si, si.
+
+2053
+01:37:54,880 --> 01:37:56,880
+Je ne sais pas si on peut partager quelque chose ici ou quoi.
+
+2054
+01:37:56,880 --> 01:37:59,880
+Oui, tu peux dans les commentaires du Space.
+
+2055
+01:37:59,880 --> 01:38:01,880
+Si c'est sur ton mobile, c'est en bas à droite.
+
+2056
+01:38:01,880 --> 01:38:03,880
+Tu as l'espèce de truc commentaire.
+
+2057
+01:38:03,880 --> 01:38:05,880
+Ou sinon, comme d'hab.
+
+2058
+01:38:05,880 --> 01:38:07,880
+Et en fait, tu peux poster tout ce que tu veux.
+
+2059
+01:38:07,880 --> 01:38:08,880
+Si tu as un ami, tu peux même…
+
+2060
+01:38:08,880 --> 01:38:14,880
+Je vais te taper le nom du Twitter super-sum.
+
+2061
+01:38:14,880 --> 01:38:16,880
+Oui, j'ai un Twitter, mais il n'y a pas le lien vers le Discord.
+
+2062
+01:38:16,880 --> 01:38:19,880
+Juste une reddit de l'éco-sitem-call.
+
+2063
+01:38:22,880 --> 01:38:24,880
+C'est bizarre, parce que normalement…
+
+2064
+01:38:24,880 --> 01:38:25,880
+Attends, ils ne l'ont pas mis?
+
+2065
+01:38:25,880 --> 01:38:27,880
+Ah, mais il faut aller sur leur site, je crois.
+
+2066
+01:38:27,880 --> 01:38:28,880
+Parce qu'il n'y a que le lien du site.
+
+2067
+01:38:28,880 --> 01:38:33,880
+Tu vois, en plus, quand tu vas sur leur page Twitter,
+
+2068
+01:38:33,880 --> 01:38:37,880
+le dernier truc qui va arriver, c'est Super Team et Mirara Buny.
+
+2069
+01:38:37,880 --> 01:38:39,880
+Ils vont faire une Founders Villa.
+
+2070
+01:38:39,880 --> 01:38:44,880
+Un mois où tu peux aller là-bas et builder avec des gens de sol.
+
+2071
+01:38:44,880 --> 01:38:47,880
+Donc voilà encore une initiative, un exemple plutôt cool.
+
+2072
+01:38:47,880 --> 01:38:48,880
+Et ce n'est pas très cher.
+
+2073
+01:38:48,880 --> 01:38:51,880
+J'ai vu les prix pour une personne, c'est 15 euros par nuit.
+
+2074
+01:38:51,880 --> 01:38:54,880
+Un mois, je ne trouve pas ça si cher.
+
+2075
+01:38:54,880 --> 01:38:55,880
+Dans une villa, c'est pas mal.
+
+2076
+01:38:55,880 --> 01:38:57,880
+Pour le coup, c'est vraiment rien du tout.
+
+2077
+01:38:57,880 --> 01:39:00,880
+Mais je ne trouve pas le Discord, même sur leur site.
+
+2078
+01:39:00,880 --> 01:39:02,880
+Je suis un peu insistant, mais c'est pas en pire.
+
+2079
+01:39:02,880 --> 01:39:05,880
+Envoie-moi un DM, je t'envoie le Discord, je t'invite.
+
+2080
+01:39:07,880 --> 01:39:09,880
+Il y en a 50 en fonction des pays,
+
+2081
+01:39:09,880 --> 01:39:14,880
+mais il y en a un qui est officiel, je te l'enverrai.
+
+2082
+01:39:17,880 --> 01:39:21,880
+En tout cas, ça paraît vraiment sexy, les initiatives sur Solana.
+
+2083
+01:39:21,880 --> 01:39:23,880
+On essaie de vendre quelque chose de cool.
+
+2084
+01:39:23,880 --> 01:39:27,880
+Et comme l'a dit un de nos Founders, Vibou, qui est Founder de Drip,
+
+2085
+01:39:27,880 --> 01:39:32,880
+qui a dit que les gens sont plus attirés par l'expérience qu'autre chose.
+
+2086
+01:39:32,880 --> 01:39:34,880
+En fait, quand tu passes un bon moment, une bonne expérience,
+
+2087
+01:39:34,880 --> 01:39:36,880
+tu as envie de réitérer la chose.
+
+2088
+01:39:36,880 --> 01:39:41,880
+Et c'est pour ça que chez Sol, le focus, c'est l'interface utilisateur
+
+2089
+01:39:41,880 --> 01:39:42,880
+et l'expérience utilisateur.
+
+2090
+01:39:42,880 --> 01:39:45,880
+Plus vous passez du bon moment avec nous, plus vous avez envie de rester avec nous.
+
+2091
+01:39:45,880 --> 01:39:47,880
+Et c'est ça qui est le plus cool.
+
+2092
+01:39:47,880 --> 01:39:48,880
+C'est un gros focus.
+
+2093
+01:39:48,880 --> 01:39:52,880
+Et c'est pour ça qu'on focus sur ça.
+
+2094
+01:39:52,880 --> 01:39:56,880
+Et c'est avec plaisir de vous accueillir, bras ouverts.
+
+2095
+01:39:57,880 --> 01:39:58,880
+C'est cool.
+
+2096
+01:39:58,880 --> 01:40:01,880
+Merci beaucoup pour ton intervention ce soir.
+
+2097
+01:40:01,880 --> 01:40:02,880
+Tu reviens quand tu veux.
+
+2098
+01:40:02,880 --> 01:40:04,880
+Paris pour tout le monde.
+
+2099
+01:40:04,880 --> 01:40:10,880
+Et puis, pour ceux qui aiment l'art et la blockchain, l'art et la technologie,
+
+2100
+01:40:10,880 --> 01:40:11,880
+c'est tous les lundis.
+
+2101
+01:40:11,880 --> 01:40:14,880
+Et la semaine prochaine, on va parler de la blockchain.
+
+2102
+01:40:15,880 --> 01:40:18,880
+C'est une émission sensuelle.
+
+2103
+01:40:18,880 --> 01:40:20,880
+Ne ratez pas cette émission.
+
+2104
+01:40:20,880 --> 01:40:24,880
+Et sinon, toute la semaine, on va avoir une émission chaque soir,
+
+2105
+01:40:24,880 --> 01:40:27,880
+comme avant qu'on s'arrête pour les vacances.
+
+2106
+01:40:27,880 --> 01:40:30,880
+Donc, demain, ça va être une émission sensuelle.
+
+2107
+01:40:30,880 --> 01:40:32,880
+Et je vais vous parler de la blockchain.
+
+2108
+01:40:32,880 --> 01:40:35,880
+Et je vais vous parler de la blockchain et de la blockchain.
+
+2109
+01:40:35,880 --> 01:40:37,880
+Et je vais vous parler de la blockchain.
+
+2110
+01:40:37,880 --> 01:40:39,880
+Je vais vous parler de la blockchain.
+
+2111
+01:40:39,880 --> 01:40:41,880
+Et je vais vous parler de la blockchain.
+
+2112
+01:40:41,880 --> 01:40:43,880
+Comme avant qu'on s'arrête pour les vacances.
+
+2113
+01:40:43,880 --> 01:40:46,880
+Donc, demain, ça va être spécial, l'intelligence artificielle.
+
+2114
+01:40:46,880 --> 01:40:47,880
+Et demain, ça va être…
+
+2115
+01:40:47,880 --> 01:40:48,880
+Il y aura beaucoup de choses.
+
+2116
+01:40:48,880 --> 01:40:50,880
+Vraiment beaucoup, beaucoup de choses.
+
+2117
+01:40:50,880 --> 01:40:52,880
+Donc, si vous avez un peu loupé des trucs ou tout…
+
+2118
+01:40:52,880 --> 01:40:53,880
+Enfin, j'arrive plus à parler.
+
+2119
+01:40:53,880 --> 01:40:57,880
+Mais si vous avez loupé des trucs en IA et que ça vous intéresse un petit peu,
+
+2120
+01:40:57,880 --> 01:40:58,880
+venez demain soir, ça va être cool.
+
+2121
+01:40:58,880 --> 01:41:01,880
+Et peut-être que je vais instaurer le truc du jeu, mais je ne sais pas encore.
+
+2122
+01:41:01,880 --> 01:41:04,880
+En tout cas, pas ce soir, parce que voilà.
+
+2123
+01:41:04,880 --> 01:41:07,880
+Mais à un moment donné, on va faire cette histoire d'appel téléphonique.
+
+2124
+01:41:07,880 --> 01:41:09,880
+Je pense que ça va être bien cool.
+
+2125
+01:41:09,880 --> 01:41:10,880
+Voilà.
+
+2126
+01:41:10,880 --> 01:41:11,880
+Bonne soirée à tous.
+
+2127
+01:41:11,880 --> 01:41:12,880
+Merci d'être venus.
+
+2128
+01:41:12,880 --> 01:41:13,880
+C'était vraiment cool.
+
+2129
+01:41:13,880 --> 01:41:15,880
+Je suis très content de reprendre l'émission.
+
+2130
+01:41:15,880 --> 01:41:17,880
+Et puis, on se dit rendez-vous demain à 22h.
+
+2131
+01:41:17,880 --> 01:41:18,880
+Et voilà.
+
+2132
+01:41:18,880 --> 01:41:21,880
+Si vous avez des questions supplémentaires à poser à Kouka,
+
+2133
+01:41:21,880 --> 01:41:25,880
+j'imagine genre par PM, est-ce que c'est cool que tu réponds au PM?
+
+2134
+01:41:25,880 --> 01:41:27,880
+Oui, très facilement, oui.
+
+2135
+01:41:27,880 --> 01:41:28,880
+OK.
+
+2136
+01:41:28,880 --> 01:41:29,880
+Bon, super.
+
+2137
+01:41:29,880 --> 01:41:30,880
+Merci.
+
+2138
+01:41:30,880 --> 01:41:31,880
+Et puis, bonne soirée à tous.
+
+2139
+01:41:31,880 --> 01:41:32,880
+Merci.
+
+2140
+01:41:32,880 --> 01:41:33,880
+Ciao.

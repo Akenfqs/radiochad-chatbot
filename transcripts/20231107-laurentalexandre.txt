@@ -1,0 +1,6625 @@
+
+
+20
+00:05:29,720 --> 00:05:30,720
+Hi Laurent-Alexandre.
+
+21
+00:05:30,720 --> 00:05:31,720
+Uh...
+
+22
+00:05:31,720 --> 00:05:40,720
+So I just sent you a request so you can be a speaker.
+
+23
+00:05:40,720 --> 00:05:41,720
+There you go, it works, perfect.
+
+24
+00:05:41,720 --> 00:05:44,720
+And then Coral just arrived.
+
+25
+00:05:44,720 --> 00:05:45,720
+Hi Coral.
+
+26
+00:05:45,720 --> 00:05:46,720
+So here we go.
+
+27
+00:05:46,720 --> 00:05:47,720
+Uh...
+
+28
+00:05:47,720 --> 00:05:48,720
+Well, welcome Laurent.
+
+29
+00:05:48,720 --> 00:05:49,720
+How are you?
+
+30
+00:05:49,720 --> 00:05:54,720
+So I know this is your first time on Twitter Space.
+
+31
+00:05:54,720 --> 00:06:00,720
+So I don't know if you're on your phone or on the computer, but normally you have a button...
+
+32
+00:06:00,720 --> 00:06:05,720
+If you're on your phone, you have a button at the bottom left to unmute yourself so you can speak.
+
+33
+00:06:05,720 --> 00:06:06,720
+Ah, there you go.
+
+34
+00:06:06,720 --> 00:06:07,720
+It's good.
+
+35
+00:06:07,720 --> 00:06:08,720
+Ah, great.
+
+36
+00:06:08,720 --> 00:06:09,720
+Well, welcome.
+
+37
+00:06:09,720 --> 00:06:10,720
+How are you?
+
+38
+00:06:10,720 --> 00:06:11,720
+Very well.
+
+39
+00:06:11,720 --> 00:06:14,720
+Well, I'm honored to have you here tonight.
+
+40
+00:06:14,720 --> 00:06:15,720
+Uh...
+
+41
+00:06:15,720 --> 00:06:18,720
+To be honest, I wasn't really expecting you to accept, but...
+
+42
+00:06:18,720 --> 00:06:19,720
+Ah.
+
+43
+00:06:19,720 --> 00:06:20,720
+There you go, you accepted.
+
+44
+00:06:20,720 --> 00:06:22,720
+You're among us.
+
+45
+00:06:23,720 --> 00:06:25,720
+So, welcome.
+
+46
+00:06:25,720 --> 00:06:26,720
+And then...
+
+47
+00:06:26,720 --> 00:06:27,720
+So that's it.
+
+48
+00:06:27,720 --> 00:06:28,720
+So today, I wanted to...
+
+49
+00:06:28,720 --> 00:06:32,720
+So, every Tuesday we do a show on artificial intelligence.
+
+50
+00:06:32,720 --> 00:06:33,720
+Uh...
+
+51
+00:06:33,720 --> 00:06:34,720
+We often have debates...
+
+52
+00:06:34,720 --> 00:06:36,720
+Well, actually, we discuss...
+
+53
+00:06:36,720 --> 00:06:38,720
+Most of the time it's theoretical.
+
+54
+00:06:38,720 --> 00:06:44,720
+That is, we talk about both tools that have just come out, because they come out of tools...
+
+55
+00:06:44,720 --> 00:06:48,720
+As you know, all the time, all the time, it's a real effervescence right now.
+
+56
+00:06:48,720 --> 00:06:49,720
+It doesn't stop.
+
+57
+00:06:49,720 --> 00:06:50,720
+It's...
+
+58
+00:06:50,720 --> 00:06:51,720
+Anyway, it's exponential.
+
+59
+00:06:51,720 --> 00:06:52,720
+So...
+
+60
+00:06:52,720 --> 00:06:56,720
+Every time, every week, it's more and more crazy things that come out.
+
+61
+00:06:56,720 --> 00:07:00,720
+And in fact, it takes us a lot of time in the show.
+
+62
+00:07:00,720 --> 00:07:04,720
+And also, we do a little bit of reflection on the subject.
+
+63
+00:07:04,720 --> 00:07:11,720
+We try to debate the future of AI, and especially the future of humanity, of our civilizations.
+
+64
+00:07:11,720 --> 00:07:13,720
+What's going to happen to us?
+
+65
+00:07:13,720 --> 00:07:14,720
+What's happening to us, actually?
+
+66
+00:07:14,720 --> 00:07:17,720
+More and more, we're talking less and less about the future, actually.
+
+67
+00:07:17,720 --> 00:07:18,720
+Because it's...
+
+68
+00:07:18,720 --> 00:07:19,720
+It's...
+
+69
+00:07:19,720 --> 00:07:20,720
+It's there.
+
+70
+00:07:20,720 --> 00:07:23,720
+And it's really funny, because...
+
+71
+00:07:23,720 --> 00:07:26,720
+Before, AI wasn't...
+
+72
+00:07:26,720 --> 00:07:29,720
+It wasn't a subject, not that long ago.
+
+73
+00:07:29,720 --> 00:07:34,720
+And at the end of 2022, it exploded, and now we're only talking about that.
+
+74
+00:07:34,720 --> 00:07:38,720
+And that would be my first question for you, actually.
+
+75
+00:07:38,720 --> 00:07:42,720
+So you wrote a book that just came out, called...
+
+76
+00:07:42,720 --> 00:07:44,720
+So...
+
+77
+00:07:44,720 --> 00:07:46,720
+I forgot!
+
+78
+00:07:46,720 --> 00:07:48,720
+The War of Intelligences, by Chadept.
+
+79
+00:07:48,720 --> 00:07:52,720
+And it surprised me that you mention Chadept in the title,
+
+80
+00:07:52,720 --> 00:07:56,720
+because it could seem like a tool, among others.
+
+81
+00:07:56,720 --> 00:08:00,720
+Is it precisely the fact that it triggered a wave,
+
+82
+00:08:00,720 --> 00:08:02,720
+the wave that we know today?
+
+83
+00:08:02,720 --> 00:08:03,720
+Or is it something else?
+
+84
+00:08:03,720 --> 00:08:06,720
+What's the reason why there's Chadept in the title?
+
+85
+00:08:06,720 --> 00:08:12,720
+So, the first AI-generative tool that is widely public is, of course, Chadept.
+
+86
+00:08:12,720 --> 00:08:16,720
+But Chadept was the trigger for the wave.
+
+87
+00:08:16,720 --> 00:08:20,720
+Everyone knows that until November 30, 2022,
+
+88
+00:08:20,720 --> 00:08:23,720
+until the release of GPT 3.5,
+
+89
+00:08:23,720 --> 00:08:27,720
+no one really believed in the potential of AI-generative tools.
+
+90
+00:08:27,720 --> 00:08:30,720
+We have testimonies from many people.
+
+91
+00:08:30,720 --> 00:08:32,720
+We have the Lequin testimonies,
+
+92
+00:08:32,720 --> 00:08:38,720
+which explain that LLM-type neural networks,
+
+93
+00:08:38,720 --> 00:08:42,720
+like Chadept, will never have a model of the world.
+
+94
+00:08:42,720 --> 00:08:47,720
+We have Bill Gates, who explained three months before the release of GPT 3.5
+
+95
+00:08:47,720 --> 00:08:51,720
+that LLM is not scalable and has not much interest,
+
+96
+00:08:51,720 --> 00:08:57,720
+even though he's a guy who's a little aware of what's going on at OpenAI,
+
+97
+00:08:57,720 --> 00:09:00,720
+since he's still the first shareholder of Microsoft,
+
+98
+00:09:00,720 --> 00:09:04,720
+which controls 49% of OpenAI's capital.
+
+99
+00:09:04,720 --> 00:09:10,720
+And despite Bill Gates' presence at the heart of the device,
+
+100
+00:09:10,720 --> 00:09:16,720
+he was completely wrong until three months before the release of GPT 3.5.
+
+101
+00:09:16,720 --> 00:09:18,720
+So yes, there was a shock.
+
+102
+00:09:18,720 --> 00:09:26,720
+There was a shock with the release of a product that was perceived as revolutionary by people,
+
+103
+00:09:26,720 --> 00:09:33,720
+which had a much greater impact than Sam Altman, the founder of Chadept, expected.
+
+104
+00:09:33,720 --> 00:09:37,720
+Sam Altman didn't think there would be millions of users.
+
+105
+00:09:37,720 --> 00:09:42,720
+He thought that the IA generatives of Chadept would develop slowly.
+
+106
+00:09:42,720 --> 00:09:47,720
+So yes, the release of Chadept on November 30, a year ago,
+
+107
+00:09:47,720 --> 00:09:52,720
+was a shock and launched a wave of use.
+
+108
+00:09:52,720 --> 00:09:55,720
+And then, at the moment, a wave of values.
+
+109
+00:09:55,720 --> 00:10:01,720
+There is certainly a bubble at the moment, a bubble of valorization.
+
+110
+00:10:01,720 --> 00:10:04,720
+Justified or not, the future will tell us.
+
+111
+00:10:04,720 --> 00:10:06,720
+But in any case, we are in a bubble.
+
+112
+00:10:06,720 --> 00:10:10,720
+So yes, for me, the release of Chadept in version 3.5,
+
+113
+00:10:10,720 --> 00:10:13,720
+almost a year ago, was a shock.
+
+114
+00:10:13,720 --> 00:10:17,720
+And it justifies that it is considered an important step.
+
+115
+00:10:17,720 --> 00:10:20,720
+So, since we are on Chadept,
+
+116
+00:10:20,720 --> 00:10:24,720
+did you see that there is a new version that has just been announced?
+
+117
+00:10:24,720 --> 00:10:27,720
+Chadept 4 Turbo.
+
+118
+00:10:27,720 --> 00:10:29,720
+I don't know if you saw the conference yesterday.
+
+119
+00:10:29,720 --> 00:10:31,720
+Yes, of course.
+
+120
+00:10:32,720 --> 00:10:37,720
+I was surprised that the attention window went up so high,
+
+121
+00:10:37,720 --> 00:10:41,720
+to 128,000 tokens, that is, more than the current version of Cloud.
+
+122
+00:10:41,720 --> 00:10:49,720
+I thought that Cloud would keep the leadership in terms of size of the attention window.
+
+123
+00:10:49,720 --> 00:10:53,720
+But OpenAI is working very well and has a lot of money,
+
+124
+00:10:53,720 --> 00:10:56,720
+with the 11 billion that were given by Microsoft.
+
+125
+00:10:56,720 --> 00:11:02,720
+OpenAI has more users and more money than Cloud in Tropik,
+
+126
+00:11:02,720 --> 00:11:05,720
+despite the money that was put in by Google
+
+127
+00:11:05,720 --> 00:11:09,720
+and the 4 billion that were promised by Amazon.
+
+128
+00:11:09,720 --> 00:11:15,720
+I thought Cloud was going to be that, its specificity.
+
+129
+00:11:15,720 --> 00:11:21,720
+But in fact, OpenAI is going to be the Google of the AI.
+
+130
+00:11:21,720 --> 00:11:23,720
+We don't know.
+
+131
+00:11:23,720 --> 00:11:28,720
+Netscape had 99% of the global market of Internet browsers
+
+132
+00:11:28,720 --> 00:11:34,720
+and Netscape died in a thousand days when Microsoft launched Microsoft Explorer.
+
+133
+00:11:34,720 --> 00:11:40,720
+So it's quite difficult today to say what will happen.
+
+134
+00:11:40,720 --> 00:11:44,720
+The advance of Chadept is important, of OpenAI is important,
+
+135
+00:11:44,720 --> 00:11:47,720
+but we must not forget that Gemini from Google is coming out
+
+136
+00:11:47,720 --> 00:11:50,720
+and that Asabis has brought together an absolutely exceptional team
+
+137
+00:11:50,720 --> 00:11:53,720
+by merging Google Brain, the teams from Bard,
+
+138
+00:11:53,720 --> 00:11:57,720
+and then its own DeepMind teams in London and elsewhere.
+
+139
+00:11:57,720 --> 00:12:01,720
+So the battle is not over at all.
+
+140
+00:12:01,720 --> 00:12:06,720
+So to come back to the book,
+
+141
+00:12:06,720 --> 00:12:10,720
+and before we talk a little more about things,
+
+142
+00:12:10,720 --> 00:12:13,720
+maybe metaphysical, I don't know if we can say that.
+
+143
+00:12:14,720 --> 00:12:17,720
+In the title, there is also the war of intelligences.
+
+144
+00:12:17,720 --> 00:12:21,720
+What is the book about? What is the war you are talking about?
+
+145
+00:12:23,720 --> 00:12:26,720
+The book describes what is happening.
+
+146
+00:12:26,720 --> 00:12:31,720
+We are entering a world where intelligence is going to become free
+
+147
+00:12:31,720 --> 00:12:36,720
+and where almost infinite quantities of intelligence are being produced.
+
+148
+00:12:36,720 --> 00:12:38,720
+I share Altman's vision,
+
+149
+00:12:38,720 --> 00:12:42,720
+which is that the amount of intelligence on Earth will double every 18 months,
+
+150
+00:12:42,720 --> 00:12:45,720
+a kind of conditioning wall of knowledge,
+
+151
+00:12:45,720 --> 00:12:49,720
+and that mechanically, as human intelligence does not increase,
+
+152
+00:12:49,720 --> 00:12:54,720
+the essence of intelligence produced on Earth will be artificial intelligence.
+
+153
+00:12:54,720 --> 00:12:58,720
+The marginalization of human intelligence, of biological intelligence, is underway.
+
+154
+00:12:58,720 --> 00:13:01,720
+That doesn't mean that we will necessarily be squashed,
+
+155
+00:13:01,720 --> 00:13:04,720
+it doesn't mean that Terminator is on the street.
+
+156
+00:13:04,720 --> 00:13:06,720
+But there is one thing that is certain,
+
+157
+00:13:06,720 --> 00:13:10,720
+it is that almost all of the intelligence produced on Earth in the future
+
+158
+00:13:10,720 --> 00:13:12,720
+will be artificial intelligence.
+
+159
+00:13:12,720 --> 00:13:14,720
+This challenges us a lot,
+
+160
+00:13:14,720 --> 00:13:18,720
+because we did not expect the neural networks to progress so fast.
+
+161
+00:13:18,720 --> 00:13:22,720
+We did not expect the neural networks to understand human language.
+
+162
+00:13:22,720 --> 00:13:25,720
+By the way, Harari, who sometimes says nonsense,
+
+163
+00:13:25,720 --> 00:13:27,720
+but sometimes very intelligent things,
+
+164
+00:13:27,720 --> 00:13:34,720
+has described very well how much the LLM can hack civilization
+
+165
+00:13:34,720 --> 00:13:36,720
+by their very good understanding,
+
+166
+00:13:36,720 --> 00:13:39,720
+even if they do not have artificial consciousness,
+
+167
+00:13:39,720 --> 00:13:43,720
+of language and therefore of the human psyche.
+
+168
+00:13:43,720 --> 00:13:48,720
+My book speaks of the consequences of this new situation,
+
+169
+00:13:48,720 --> 00:13:55,720
+of the total desynchronization between institutions, politics, civil society,
+
+170
+00:13:55,720 --> 00:14:00,720
+workers, and then the tsunami of artificial intelligence.
+
+171
+00:14:00,720 --> 00:14:03,720
+To take only one example,
+
+172
+00:14:04,720 --> 00:14:15,720
+the school has not benefited from computer progress at all since 1980.
+
+173
+00:14:15,720 --> 00:14:18,720
+The computer power expressed in flops,
+
+174
+00:14:18,720 --> 00:14:23,720
+in floating-point operations, of French national education,
+
+175
+00:14:23,720 --> 00:14:28,720
+has been multiplied by one million billion.
+
+176
+00:14:29,720 --> 00:14:35,720
+I heard your argument at Pinkerview,
+
+177
+00:14:35,720 --> 00:14:40,720
+and you say that students have not benefited from such a…
+
+178
+00:14:40,720 --> 00:14:42,720
+No, they have not moved at all.
+
+179
+00:14:42,720 --> 00:14:44,720
+So it measures, anecdotally,
+
+180
+00:14:44,720 --> 00:14:49,720
+but it measures the desynchronization between the school and artificial intelligence.
+
+181
+00:14:49,720 --> 00:14:51,720
+And then, as we live in a taboo,
+
+182
+00:14:51,720 --> 00:14:54,720
+which is that the school has an important impact on intelligence,
+
+183
+00:14:54,720 --> 00:14:57,720
+we have trouble defining a strategy
+
+184
+00:14:57,720 --> 00:15:01,720
+to allow future children to be competitive against AI,
+
+185
+00:15:01,720 --> 00:15:04,720
+because we do not dare to admit the truth,
+
+186
+00:15:04,720 --> 00:15:08,720
+which is that the school does not know how to reduce intellectual inequalities,
+
+187
+00:15:08,720 --> 00:15:10,720
+and if it knew how to do it, it would see it.
+
+188
+00:15:10,720 --> 00:15:15,720
+We can only see every day that the school has a very low impact
+
+189
+00:15:15,720 --> 00:15:20,720
+on the reduction of cognitive inequalities, of intellectual inequalities.
+
+190
+00:15:20,720 --> 00:15:22,720
+And then the ultimate taboo is that,
+
+191
+00:15:22,720 --> 00:15:26,720
+what everyone knows, among neurogenetic specialists,
+
+192
+00:15:26,720 --> 00:15:30,720
+is that intelligence is mostly genetic,
+
+193
+00:15:30,720 --> 00:15:34,720
+and that the school cannot fight against genetic determinism
+
+194
+00:15:34,720 --> 00:15:37,720
+with the very frustrating tools it has today,
+
+195
+00:15:37,720 --> 00:15:39,720
+which poses a real problem.
+
+196
+00:15:39,720 --> 00:15:43,720
+A very important part of the population will be marginalized.
+
+197
+00:15:43,720 --> 00:15:49,720
+So the solutions behind it are a little worrying.
+
+198
+00:15:49,720 --> 00:15:55,720
+Between post-human hybridization with the implant of Mosque,
+
+199
+00:15:55,720 --> 00:15:58,720
+or the solution of Sam Altman,
+
+200
+00:15:58,720 --> 00:16:05,720
+which is the generalization to a very large part of the population of universal income,
+
+201
+00:16:05,720 --> 00:16:08,720
+we have solutions that are, from my point of view,
+
+202
+00:16:08,720 --> 00:16:10,720
+rather unacceptable,
+
+203
+00:16:10,720 --> 00:16:15,720
+in any case, I don't like them very much.
+
+204
+00:16:15,720 --> 00:16:19,720
+The idea that has been developing since the end of the pretense to Altman,
+
+205
+00:16:19,720 --> 00:16:24,720
+that the majority of the population will not follow the future versions of each GPT
+
+206
+00:16:24,720 --> 00:16:26,720
+and its competitors,
+
+207
+00:16:26,720 --> 00:16:28,720
+and that people will have to be at universal income,
+
+208
+00:16:28,720 --> 00:16:31,720
+and I find something absolutely atrocious.
+
+209
+00:16:31,720 --> 00:16:33,720
+The idea that less gifted children
+
+210
+00:16:33,720 --> 00:16:36,720
+will go to universal income after school,
+
+211
+00:16:36,720 --> 00:16:38,720
+until they return to the school,
+
+212
+00:16:38,720 --> 00:16:40,720
+is really dramatic.
+
+213
+00:16:40,720 --> 00:16:43,720
+And I think that we don't realize
+
+214
+00:16:43,720 --> 00:16:46,720
+the speed at which artificial intelligence is progressing.
+
+215
+00:16:46,720 --> 00:16:48,720
+I was very struck this summer.
+
+216
+00:16:48,720 --> 00:16:51,720
+I did a little test that has no scientific value,
+
+217
+00:16:51,720 --> 00:16:54,720
+and I didn't publish it in a scientific journal,
+
+218
+00:16:54,720 --> 00:16:59,720
+but I took a nurse with GPT-4 versus me,
+
+219
+00:16:59,720 --> 00:17:01,720
+without GPT-4,
+
+220
+00:17:01,720 --> 00:17:04,720
+to analyze complex medical files.
+
+221
+00:17:04,720 --> 00:17:08,720
+Well, a nurse with GPT-4 is crushing me in medicine,
+
+222
+00:17:08,720 --> 00:17:11,720
+and yet I'm not lazy.
+
+223
+00:17:11,720 --> 00:17:14,720
+I'm training a lot,
+
+224
+00:17:14,720 --> 00:17:16,720
+I'm still following medical news,
+
+225
+00:17:16,720 --> 00:17:18,720
+I've worked a lot in my life,
+
+226
+00:17:18,720 --> 00:17:22,720
+but I'm crushed, not overwhelmed,
+
+227
+00:17:22,720 --> 00:17:25,720
+but crushed by a nurse with GPT-4.
+
+228
+00:17:25,720 --> 00:17:30,720
+We're entering a new world that we hadn't foreseen.
+
+229
+00:17:30,720 --> 00:17:33,720
+And as I've said several times,
+
+230
+00:17:33,720 --> 00:17:35,720
+on November 29, 2022,
+
+231
+00:17:35,720 --> 00:17:39,720
+the day before the release of GPT-3.5,
+
+232
+00:17:39,720 --> 00:17:42,720
+what GPT-4 does in medicine today,
+
+233
+00:17:42,720 --> 00:17:46,720
+I didn't think it would be possible before 2040, 2050.
+
+234
+00:17:46,720 --> 00:17:49,720
+I didn't think a neural network
+
+235
+00:17:49,720 --> 00:17:52,720
+could analyze a medical file with errors,
+
+236
+00:17:52,720 --> 00:17:54,720
+with abbreviations,
+
+237
+00:17:54,720 --> 00:17:59,720
+with unstructured data in the international classification of diseases,
+
+238
+00:17:59,720 --> 00:18:04,720
+and be able to diagnose and treat,
+
+239
+00:18:04,720 --> 00:18:06,720
+even if there are still hallucinations,
+
+240
+00:18:06,720 --> 00:18:09,720
+and that from time to time GPT-4 is wrong.
+
+241
+00:18:09,720 --> 00:18:13,720
+Its power is very impressive,
+
+242
+00:18:13,720 --> 00:18:15,720
+and far beyond what I imagined.
+
+243
+00:18:15,720 --> 00:18:18,720
+So yes, there is something...
+
+244
+00:18:18,720 --> 00:18:21,720
+We'll come back to the story of universal income,
+
+245
+00:18:21,720 --> 00:18:23,720
+because we had a debate on this
+
+246
+00:18:23,720 --> 00:18:25,720
+about two weeks ago,
+
+247
+00:18:25,720 --> 00:18:27,720
+and it was quite interesting.
+
+248
+00:18:27,720 --> 00:18:30,720
+We were debating libertarianism,
+
+249
+00:18:30,720 --> 00:18:33,720
+and I consider myself libertarian,
+
+250
+00:18:33,720 --> 00:18:35,720
+and I'm open to this question,
+
+251
+00:18:35,720 --> 00:18:37,720
+and others are libertarians,
+
+252
+00:18:37,720 --> 00:18:39,720
+more hardcore than me, were against it.
+
+253
+00:18:39,720 --> 00:18:41,720
+So it was interesting to have this discussion.
+
+254
+00:18:41,720 --> 00:18:43,720
+But just before that,
+
+255
+00:18:43,720 --> 00:18:46,720
+I would like to come back to this school thing,
+
+256
+00:18:46,720 --> 00:18:49,720
+because I think we agree on the fact that
+
+257
+00:18:49,720 --> 00:18:52,720
+today, if you want to educate yourself,
+
+258
+00:18:52,720 --> 00:18:55,720
+it's still better to do it with artificial intelligence,
+
+259
+00:18:55,720 --> 00:18:58,720
+to have a history teacher who is an artificial intelligence
+
+260
+00:18:58,720 --> 00:19:01,720
+rather than a history teacher who will literally read
+
+261
+00:19:01,720 --> 00:19:04,720
+what's in a manual.
+
+262
+00:19:04,720 --> 00:19:08,720
+But the thing is, there is a paradox in this.
+
+263
+00:19:08,720 --> 00:19:14,720
+If you learn through artificial intelligence,
+
+264
+00:19:14,720 --> 00:19:17,720
+in fact, artificial intelligence doesn't teach you to think.
+
+265
+00:19:17,720 --> 00:19:20,720
+And it's those who have learned to think
+
+266
+00:19:20,720 --> 00:19:22,720
+who will eventually become part of artificial intelligence.
+
+267
+00:19:22,720 --> 00:19:25,720
+Artificial intelligence can learn to think,
+
+268
+00:19:25,720 --> 00:19:27,720
+but the problem is not there.
+
+269
+00:19:27,720 --> 00:19:30,720
+The problem is taboo.
+
+270
+00:19:30,720 --> 00:19:33,720
+Most people don't educate themselves,
+
+271
+00:19:33,720 --> 00:19:36,720
+don't read, and don't work on their intellect.
+
+272
+00:19:36,720 --> 00:19:39,720
+So the school is there for children
+
+273
+00:19:39,720 --> 00:19:45,720
+who don't necessarily want to learn things,
+
+274
+00:19:45,720 --> 00:19:47,720
+to learn a minimum.
+
+275
+00:19:47,720 --> 00:19:52,720
+But most people don't learn anything.
+
+276
+00:19:52,720 --> 00:19:55,720
+The number of books read by French people
+
+277
+00:19:55,720 --> 00:19:57,720
+is zero, except in intellectual elites.
+
+278
+00:19:58,720 --> 00:20:02,720
+So the school is there to force people to learn this basis,
+
+279
+00:20:02,720 --> 00:20:05,720
+which they would not spontaneously learn,
+
+280
+00:20:05,720 --> 00:20:09,720
+because the percentage of intellectuals in the population is very low.
+
+281
+00:20:09,720 --> 00:20:12,720
+I am, like everyone else, concerned,
+
+282
+00:20:12,720 --> 00:20:14,720
+and this is not something new,
+
+283
+00:20:14,720 --> 00:20:17,720
+when I see the statistics of the number of books read by French people,
+
+284
+00:20:17,720 --> 00:20:19,720
+it is almost zero.
+
+285
+00:20:19,720 --> 00:20:21,720
+Most people don't read,
+
+286
+00:20:21,720 --> 00:20:24,720
+whether in paper or electronic format.
+
+287
+00:20:24,720 --> 00:20:27,720
+So we shouldn't ask too much of the school,
+
+288
+00:20:27,720 --> 00:20:29,720
+but what we can ask of the school
+
+289
+00:20:29,720 --> 00:20:32,720
+is that it forces the majority of the population
+
+290
+00:20:32,720 --> 00:20:34,720
+to learn a minimum basis
+
+291
+00:20:34,720 --> 00:20:38,720
+that allows them to be literate,
+
+292
+00:20:38,720 --> 00:20:42,720
+even if this minimum basis is not known and mastered by everyone.
+
+293
+00:20:42,720 --> 00:20:44,720
+As you know,
+
+294
+00:20:44,720 --> 00:20:47,720
+I quote from the war of intelligence during the GPT,
+
+295
+00:20:47,720 --> 00:20:50,720
+30% of young French people,
+
+296
+00:20:50,720 --> 00:20:52,720
+35% of young Italians
+
+297
+00:20:52,720 --> 00:20:56,720
+leave school without being able to read
+
+298
+00:20:56,720 --> 00:20:59,720
+and summarize a simple text of five lines.
+
+299
+00:20:59,720 --> 00:21:01,720
+So the basic literacy
+
+300
+00:21:01,720 --> 00:21:04,720
+is not mastered by a Frenchman out of three
+
+301
+00:21:04,720 --> 00:21:06,720
+and by a young Italian out of three,
+
+302
+00:21:06,720 --> 00:21:09,720
+and it's about the same in most countries.
+
+303
+00:21:09,720 --> 00:21:14,720
+So yes, the elites can be formed with GPT 5, GPT 6, GPT 7,
+
+304
+00:21:14,720 --> 00:21:17,720
+who will probably become good teachers
+
+305
+00:21:17,720 --> 00:21:21,720
+and will be able to determine adapted programs,
+
+306
+00:21:21,720 --> 00:21:23,720
+personalized programs.
+
+307
+00:21:23,720 --> 00:21:26,720
+But the problem is not the formation of the elites.
+
+308
+00:21:26,720 --> 00:21:28,720
+I have no concern about the fact
+
+309
+00:21:28,720 --> 00:21:31,720
+that the intellectual elites will live a golden age.
+
+310
+00:21:31,720 --> 00:21:33,720
+We will be the golden age of innovators,
+
+311
+00:21:33,720 --> 00:21:35,720
+and of start-uppers and intellectuals.
+
+312
+00:21:35,720 --> 00:21:37,720
+Of course, what worries me
+
+313
+00:21:37,720 --> 00:21:39,720
+are the non-intellectual classes,
+
+314
+00:21:39,720 --> 00:21:43,720
+people who have more cognitive difficulties
+
+315
+00:21:43,720 --> 00:21:46,720
+and who will be drowned in the ultra-complex economy
+
+316
+00:21:46,720 --> 00:21:48,720
+that we are creating,
+
+317
+00:21:48,720 --> 00:21:52,720
+and with a totally unloyal competition
+
+318
+00:21:52,720 --> 00:21:54,720
+from the artificial intelligence.
+
+319
+00:21:54,720 --> 00:21:59,720
+Because I hoped that the robotic shock
+
+320
+00:21:59,720 --> 00:22:03,720
+would not be in sync with the shock of AI.
+
+321
+00:22:03,720 --> 00:22:06,720
+But the first robots with artificial intelligence
+
+322
+00:22:06,720 --> 00:22:08,720
+are starting to happen.
+
+323
+00:22:08,720 --> 00:22:11,720
+There is the range of Neo robots developed by OpenAI
+
+324
+00:22:11,720 --> 00:22:14,720
+in partnership with a robotics company.
+
+325
+00:22:15,720 --> 00:22:19,720
+There are Tesla's robots,
+
+326
+00:22:19,720 --> 00:22:21,720
+Tesla's Optimus robots,
+
+327
+00:22:21,720 --> 00:22:23,720
+which will also be equipped with artificial intelligence,
+
+328
+00:22:23,720 --> 00:22:25,720
+even if we do not yet know
+
+329
+00:22:25,720 --> 00:22:27,720
+if it is the Grok artificial intelligence
+
+330
+00:22:27,720 --> 00:22:31,720
+from Twitter that will be injected into Tesla's robots
+
+331
+00:22:31,720 --> 00:22:33,720
+or another artificial intelligence
+
+332
+00:22:33,720 --> 00:22:36,720
+that has not yet been revealed by Bill Gates.
+
+333
+00:22:36,720 --> 00:22:39,720
+This means that we cannot exclude
+
+334
+00:22:39,720 --> 00:22:44,720
+that in 2030, the 35-hour diamond washer
+
+335
+00:22:44,720 --> 00:22:53,720
+will be competed by 24-hour diamond washing robots
+
+336
+00:22:53,720 --> 00:22:56,720
+with the intelligence of a polytechnician
+
+337
+00:22:56,720 --> 00:22:58,720
+who went through Harvard.
+
+338
+00:22:58,720 --> 00:23:03,720
+And there we would be in great difficulty
+
+339
+00:23:03,720 --> 00:23:05,720
+for manual workers.
+
+340
+00:23:05,720 --> 00:23:07,720
+Because it is clear that today
+
+341
+00:23:07,720 --> 00:23:11,720
+manual workers are not, except for very rare exceptions,
+
+342
+00:23:11,720 --> 00:23:14,720
+capable of a cognitive skills of an engineer,
+
+343
+00:23:14,720 --> 00:23:17,720
+of a philosopher, etc.
+
+344
+00:23:17,720 --> 00:23:23,720
+However, to put GPT-5 in a robot in the future,
+
+345
+00:23:23,720 --> 00:23:25,720
+it will cost zero.
+
+346
+00:23:25,720 --> 00:23:27,720
+So robotics will not be a stupid robotics
+
+347
+00:23:27,720 --> 00:23:29,720
+as we imagined it before.
+
+348
+00:23:29,720 --> 00:23:32,720
+Robotics will be an ultra-intelligent robotics.
+
+349
+00:23:32,720 --> 00:23:35,720
+And so it poses a real competition problem
+
+350
+00:23:35,720 --> 00:23:38,720
+for the non-intellectual classes
+
+351
+00:23:38,720 --> 00:23:40,720
+that we have not thought about at all.
+
+352
+00:23:40,720 --> 00:23:43,720
+Because people imagined that in the future
+
+353
+00:23:43,720 --> 00:23:46,720
+artificial intelligence could compete with the middle classes.
+
+354
+00:23:46,720 --> 00:23:48,720
+But there are two things that we had not seen.
+
+355
+00:23:48,720 --> 00:23:52,720
+It is that the upper classes would be competed by AI.
+
+356
+00:23:52,720 --> 00:23:57,720
+Because AI does better than lawyers or doctors
+
+357
+00:23:57,720 --> 00:24:00,720
+more and more things, to take only this example.
+
+358
+00:24:00,720 --> 00:24:02,720
+And it will be the same for engineers
+
+359
+00:24:02,720 --> 00:24:04,720
+in two years, three years, five years.
+
+360
+00:24:04,720 --> 00:24:06,720
+And then the second point that we had not seen at all,
+
+361
+00:24:06,720 --> 00:24:08,720
+it is the fact that manual workers
+
+362
+00:24:08,720 --> 00:24:11,720
+would be competed by intelligent robots
+
+363
+00:24:11,720 --> 00:24:14,720
+at a date that is difficult to determine.
+
+364
+00:24:14,720 --> 00:24:18,720
+Because we have not yet seen the robots of Elon Musk work.
+
+365
+00:24:18,720 --> 00:24:23,720
+We have not yet seen the range of robots of each GPT.
+
+366
+00:24:23,720 --> 00:24:26,720
+So we do not know at what speed
+
+367
+00:24:26,720 --> 00:24:31,720
+this robotics can develop and generalize.
+
+368
+00:24:31,720 --> 00:24:33,720
+But in the hypothesis, or it would be the case,
+
+369
+00:24:33,720 --> 00:24:36,720
+we would have a real social problem.
+
+370
+00:24:36,720 --> 00:24:39,720
+Because I think that the intellectual elites
+
+371
+00:24:39,720 --> 00:24:42,720
+will become complementary to artificial intelligence
+
+372
+00:24:42,720 --> 00:24:43,720
+in the coming years.
+
+373
+00:24:43,720 --> 00:24:45,720
+They will work a lot for it.
+
+374
+00:24:45,720 --> 00:24:48,720
+I'm not sure that the carpenters
+
+375
+00:24:48,720 --> 00:24:53,720
+have the ability to fight against the robot carpenter
+
+376
+00:24:53,720 --> 00:24:57,720
+having the cognitive abilities of a normal human being.
+
+377
+00:24:57,720 --> 00:25:01,720
+I'm not sure I agree with the class analysis.
+
+378
+00:25:01,720 --> 00:25:03,720
+But one thing is certain,
+
+379
+00:25:03,720 --> 00:25:06,720
+we are heading towards a society where there are those who will...
+
+380
+00:25:06,720 --> 00:25:09,720
+What is the problem with class analysis?
+
+381
+00:25:09,720 --> 00:25:10,720
+What do you mean?
+
+382
+00:25:10,720 --> 00:25:13,720
+That is to say that those who will be privileged
+
+383
+00:25:13,720 --> 00:25:15,720
+will be the super creative.
+
+384
+00:25:15,720 --> 00:25:18,720
+It's not really a question of social status or anything.
+
+385
+00:25:18,720 --> 00:25:22,720
+That is to say that those who will have mastered the tool,
+
+386
+00:25:22,720 --> 00:25:24,720
+it can come from anywhere.
+
+387
+00:25:24,720 --> 00:25:26,720
+I remind you that on average,
+
+388
+00:25:26,720 --> 00:25:29,720
+creative people are smarter than on average.
+
+389
+00:25:29,720 --> 00:25:33,720
+Creativity is a form of intelligence
+
+390
+00:25:33,720 --> 00:25:37,720
+that is rather possessed by the smartest people
+
+391
+00:25:37,720 --> 00:25:39,720
+than by the dumbest people.
+
+392
+00:25:39,720 --> 00:25:43,720
+So to say that innovators are smarter than the average
+
+393
+00:25:43,720 --> 00:25:44,720
+is a factual reality,
+
+394
+00:25:44,720 --> 00:25:46,720
+even if it is politically incorrect.
+
+395
+00:25:48,720 --> 00:25:53,720
+I'm not quite sure about the correlation between class and intelligence,
+
+396
+00:25:53,720 --> 00:25:55,720
+even if I see what you mean.
+
+397
+00:25:55,720 --> 00:25:58,720
+The great innovators have always been very smart.
+
+398
+00:25:58,720 --> 00:25:59,720
+All of them.
+
+399
+00:25:59,720 --> 00:26:02,720
+Steve Jobs was very smart.
+
+400
+00:26:02,720 --> 00:26:07,720
+The very creative artists were mostly very smart.
+
+401
+00:26:09,720 --> 00:26:11,720
+In reality, there is a fairly good correlation
+
+402
+00:26:11,720 --> 00:26:15,720
+between the capacities of innovation and general intelligence.
+
+403
+00:26:16,720 --> 00:26:18,720
+Wouldn't it be the opposite?
+
+404
+00:26:18,720 --> 00:26:21,720
+Wouldn't it be that the classes that are formed eventually
+
+405
+00:26:21,720 --> 00:26:24,720
+are the consequence of intelligence
+
+406
+00:26:24,720 --> 00:26:27,720
+that is implemented in specific areas,
+
+407
+00:26:27,720 --> 00:26:29,720
+rather than the opposite?
+
+408
+00:26:31,720 --> 00:26:34,720
+I understand this politically incorrect view,
+
+409
+00:26:34,720 --> 00:26:37,720
+but that's not how it works.
+
+410
+00:26:37,720 --> 00:26:40,720
+Intelligence is not linked to the cultural environment.
+
+411
+00:26:40,720 --> 00:26:42,720
+It is only linked marginally.
+
+412
+00:26:42,720 --> 00:26:44,720
+All studies show it.
+
+413
+00:26:44,720 --> 00:26:46,720
+Unfortunately, and I deeply regret it,
+
+414
+00:26:46,720 --> 00:26:48,720
+intelligence is mostly genetic.
+
+415
+00:26:48,720 --> 00:26:51,720
+The correlation is not in the sense you hope it is.
+
+416
+00:26:51,720 --> 00:26:54,720
+It would be better if it were in the sense you hope it is,
+
+417
+00:26:54,720 --> 00:26:57,720
+because we could reduce intellectual inequalities.
+
+418
+00:26:57,720 --> 00:27:00,720
+But alas, if we can't reduce intellectual inequalities,
+
+419
+00:27:00,720 --> 00:27:02,720
+it's because intelligence is,
+
+420
+00:27:02,720 --> 00:27:04,720
+to my great regret,
+
+421
+00:27:04,720 --> 00:27:06,720
+mostly of genetic origin.
+
+422
+00:27:08,720 --> 00:27:15,720
+The example of the carotid surgeon is quite good.
+
+423
+00:27:15,720 --> 00:27:18,720
+Many people will end up on the carotid.
+
+424
+00:27:18,720 --> 00:27:25,720
+So we either try to make everyone as intelligent as possible
+
+425
+00:27:25,720 --> 00:27:30,720
+to be able to master or compete with artificial intelligence,
+
+426
+00:27:30,720 --> 00:27:33,720
+even if there are many things to say about it.
+
+427
+00:27:33,720 --> 00:27:36,720
+And at that moment, we enter a highly competitive society,
+
+428
+00:27:36,720 --> 00:27:40,720
+much more competitive than what we know today.
+
+429
+00:27:40,720 --> 00:27:43,720
+Or there is a part of the population
+
+430
+00:27:43,720 --> 00:27:50,720
+that must be paid a universal salary.
+
+431
+00:27:50,720 --> 00:27:57,720
+Or, not the universal salary, but the universal income.
+
+432
+00:27:57,720 --> 00:28:04,720
+Or we practice a child-by-couple policy, or even less.
+
+433
+00:28:04,720 --> 00:28:07,720
+Or maybe other options.
+
+434
+00:28:07,720 --> 00:28:10,720
+Child-by-couple, we are already there.
+
+435
+00:28:11,720 --> 00:28:13,720
+In South Korea, it's even worse,
+
+436
+00:28:13,720 --> 00:28:16,720
+it's 0.79 children per couple today.
+
+437
+00:28:16,720 --> 00:28:19,720
+So, the problem with the universal income,
+
+438
+00:28:19,720 --> 00:28:22,720
+and the reason why I am totally opposed to it,
+
+439
+00:28:22,720 --> 00:28:25,720
+is that if there is an important part of the population
+
+440
+00:28:25,720 --> 00:28:28,720
+that does not work, generation after generation,
+
+441
+00:28:28,720 --> 00:28:31,720
+and that leaves the power to an elite
+
+442
+00:28:31,720 --> 00:28:35,720
+that organizes everything with the help of artificial intelligence,
+
+443
+00:28:35,720 --> 00:28:37,720
+we synergize with artificial intelligence,
+
+444
+00:28:37,720 --> 00:28:39,720
+we will create a world like Metropolis.
+
+445
+00:28:39,720 --> 00:28:43,720
+We will create a deeply unequal world.
+
+446
+00:28:43,720 --> 00:28:46,720
+The step, very quickly, after 50 years,
+
+447
+00:28:46,720 --> 00:28:49,720
+will be to remove the right to vote from people who do not work.
+
+448
+00:28:49,720 --> 00:28:52,720
+When after three generations, with the universal income,
+
+449
+00:28:52,720 --> 00:28:55,720
+we still refuse to work, we will lose the right to vote.
+
+450
+00:28:55,720 --> 00:28:56,720
+Mechanically.
+
+451
+00:28:56,720 --> 00:28:59,720
+Our grandchildren, our great-grandchildren will say,
+
+452
+00:28:59,720 --> 00:29:02,720
+but why would we leave the right to vote
+
+453
+00:29:02,720 --> 00:29:05,720
+to people who have not worked for 150 years?
+
+454
+00:29:05,720 --> 00:29:09,720
+And so we will have an unequal society with serious political problems.
+
+455
+00:29:09,720 --> 00:29:12,720
+And for people who would put universal income,
+
+456
+00:29:12,720 --> 00:29:15,720
+it's dramatic, because of course there are intellectuals
+
+457
+00:29:15,720 --> 00:29:18,720
+who will spend their days in museums
+
+458
+00:29:18,720 --> 00:29:21,720
+and reading Proust or Dostoyevsky.
+
+459
+00:29:21,720 --> 00:29:24,720
+But most of the population,
+
+460
+00:29:24,720 --> 00:29:28,720
+their only intellectual effort is related to work.
+
+461
+00:29:28,720 --> 00:29:32,720
+I said it earlier, most people do not cultivate themselves,
+
+462
+00:29:32,720 --> 00:29:35,720
+read zero books and do not make intellectual efforts.
+
+463
+00:29:35,720 --> 00:29:38,720
+The only place where you need an intellectual effort is at work.
+
+464
+00:29:38,720 --> 00:29:41,720
+If they are no longer at work,
+
+465
+00:29:41,720 --> 00:29:44,720
+we will have a lot of depressed people who will crack,
+
+466
+00:29:44,720 --> 00:29:47,720
+who will be quite unhappy and who will be strongly marginalized.
+
+467
+00:29:47,720 --> 00:29:50,720
+So from a moral point of view,
+
+468
+00:29:50,720 --> 00:29:53,720
+from a philosophical point of view and from a political point of view,
+
+469
+00:29:53,720 --> 00:29:56,720
+the universal income, from my point of view,
+
+470
+00:29:56,720 --> 00:29:59,720
+builds a nightmarish society.
+
+471
+00:29:59,720 --> 00:30:02,720
+I think that it is not to serve people,
+
+472
+00:30:02,720 --> 00:30:05,720
+but to let them do nothing.
+
+473
+00:30:05,720 --> 00:30:08,720
+When artificial intelligence gallops,
+
+474
+00:30:08,720 --> 00:30:11,720
+it is better to collectively think about how to make everyone
+
+475
+00:30:11,720 --> 00:30:14,720
+complementary to artificial intelligence,
+
+476
+00:30:14,720 --> 00:30:17,720
+even if it will not be an easy fight.
+
+477
+00:30:17,720 --> 00:30:20,720
+Because again, it is not politically correct,
+
+478
+00:30:20,720 --> 00:30:23,720
+but the smarter we are, the faster we form.
+
+479
+00:30:23,720 --> 00:30:26,720
+The less clever we are, the slower we form.
+
+480
+00:30:26,720 --> 00:30:29,720
+So it will be very difficult for the less intelligent people
+
+481
+00:30:29,720 --> 00:30:32,720
+to gallop behind artificial intelligence,
+
+482
+00:30:32,720 --> 00:30:35,720
+because there is an extraordinarily strong correlation
+
+483
+00:30:35,720 --> 00:30:38,720
+between intelligence and the ability to learn,
+
+484
+00:30:38,720 --> 00:30:41,720
+between intelligence and the ability to form.
+
+485
+00:30:41,720 --> 00:30:44,720
+We can see very well when we discuss with HRDs
+
+486
+00:30:44,720 --> 00:30:47,720
+that there are people who cannot remember anything,
+
+487
+00:30:47,720 --> 00:30:50,720
+even in long training sessions of several months.
+
+488
+00:30:50,720 --> 00:30:53,720
+On the contrary, we know that there are people who learn
+
+489
+00:30:53,720 --> 00:30:56,720
+200 pages of quantum physics in one morning.
+
+490
+00:30:56,720 --> 00:31:02,720
+Our ability to learn is very, very, very, very, very unequal.
+
+491
+00:31:02,720 --> 00:31:05,720
+And so we will have a real difficulty,
+
+492
+00:31:05,720 --> 00:31:08,720
+it is that there are people who will not succeed in training
+
+493
+00:31:08,720 --> 00:31:12,720
+to find a complementarity zone with artificial intelligence.
+
+494
+00:31:12,720 --> 00:31:17,720
+I have written several books on AI already,
+
+495
+00:31:17,720 --> 00:31:21,720
+and I have regretted for years that there has never been a reflection
+
+496
+00:31:21,720 --> 00:31:24,720
+on the adaptation of the school to AI,
+
+497
+00:31:24,720 --> 00:31:28,720
+and on how to help people who have less cognitive facilities
+
+498
+00:31:28,720 --> 00:31:33,720
+to stay in the race or to find ecological niches,
+
+499
+00:31:33,720 --> 00:31:38,720
+cognitive ecological niches to exist and to continue to work.
+
+500
+00:31:38,720 --> 00:31:42,720
+And I repeat, I have no concern about the fact
+
+501
+00:31:42,720 --> 00:31:45,720
+that the intellectual elites will train,
+
+502
+00:31:45,720 --> 00:31:48,720
+will learn new things and will work
+
+503
+00:31:48,720 --> 00:31:52,720
+to find complementarity zones with artificial intelligence.
+
+504
+00:31:52,720 --> 00:31:57,720
+My point is not to focus on the intellectual elites,
+
+505
+00:31:57,720 --> 00:32:00,720
+about whom I have no concern.
+
+506
+00:32:00,720 --> 00:32:04,720
+No concern about the fact that they will live to see an age of gold.
+
+507
+00:32:04,720 --> 00:32:07,720
+But I am more worried about people who have a lot of trouble learning,
+
+508
+00:32:07,720 --> 00:32:10,720
+who do not read well, who read slowly,
+
+509
+00:32:10,720 --> 00:32:14,720
+and who, from my point of view, will have great difficulties.
+
+510
+00:32:15,720 --> 00:32:18,720
+Inequalities of memory are very important.
+
+511
+00:32:18,720 --> 00:32:22,720
+There is about a gap of 1 in 1000 in the French population
+
+512
+00:32:22,720 --> 00:32:27,720
+between those who remember the best and those who remember the least well.
+
+513
+00:32:27,720 --> 00:32:30,720
+A gap of 1 in 1000. It's huge.
+
+514
+00:32:30,720 --> 00:32:33,720
+When you need to train quickly,
+
+515
+00:32:33,720 --> 00:32:36,720
+because behind GPT-4 Turbo there is GPT-5,
+
+516
+00:32:36,720 --> 00:32:40,720
+then GPT-5 Turbo, then GPT-6, then Clot 3, then Clot 4,
+
+517
+00:32:40,720 --> 00:32:43,720
+you need to have memory to train,
+
+518
+00:32:43,720 --> 00:32:46,720
+even if memory is not enough to train.
+
+519
+00:32:46,720 --> 00:32:50,720
+Inequalities of 1 in 1000 in the ability to remember,
+
+520
+00:32:50,720 --> 00:32:53,720
+in the speed at which you remember a page,
+
+521
+00:32:53,720 --> 00:32:57,720
+is something absolutely dramatic in a world of technological tsunamis.
+
+522
+00:32:57,720 --> 00:33:01,720
+I'm not sure about the history of memory,
+
+523
+00:33:01,720 --> 00:33:04,720
+but I suggest we come back to that a little later.
+
+524
+00:33:04,720 --> 00:33:07,720
+You are not sure of what? What are the gaps?
+
+525
+00:33:07,720 --> 00:33:12,720
+For example, it's not really scientific,
+
+526
+00:33:12,720 --> 00:33:15,720
+it's just personal experience.
+
+527
+00:33:15,720 --> 00:33:19,720
+I have a very bad memory, really. It's catastrophic.
+
+528
+00:33:19,720 --> 00:33:22,720
+But I have a very good logical reasoning.
+
+529
+00:33:22,720 --> 00:33:26,720
+I can associate things if they make sense to me,
+
+530
+00:33:26,720 --> 00:33:33,720
+so I can associate ideas, create concepts.
+
+531
+00:33:33,720 --> 00:33:35,720
+I still have a good capacity.
+
+532
+00:33:35,720 --> 00:33:37,720
+It's called memory.
+
+533
+00:33:37,720 --> 00:33:41,720
+I don't learn anything by heart, I learn like you.
+
+534
+00:33:41,720 --> 00:33:43,720
+I have the same memory as you.
+
+535
+00:33:43,720 --> 00:33:45,720
+That's memory, that's real memory.
+
+536
+00:33:45,720 --> 00:33:49,720
+Real memory is not learning recitations by heart, word for word.
+
+537
+00:33:49,720 --> 00:33:54,720
+It's making a link between concepts to give them meaning
+
+538
+00:33:54,720 --> 00:33:58,720
+by building a tree of knowledge.
+
+539
+00:33:58,720 --> 00:34:01,720
+You're wrong about what memory is.
+
+540
+00:34:01,720 --> 00:34:07,720
+You have a vision of memory, of CO2.
+
+541
+00:34:07,720 --> 00:34:09,720
+But that's learning.
+
+542
+00:34:09,720 --> 00:34:11,720
+Not much.
+
+543
+00:34:11,720 --> 00:34:13,720
+You can improve your memory a little bit.
+
+544
+00:34:13,720 --> 00:34:16,720
+You can't increase your intelligence,
+
+545
+00:34:16,720 --> 00:34:19,720
+but you can increase your memory by training, by working,
+
+546
+00:34:19,720 --> 00:34:21,720
+but not a lot.
+
+547
+00:34:21,720 --> 00:34:25,720
+You can do all the efforts you can,
+
+548
+00:34:25,720 --> 00:34:29,720
+but you will never have the photographic memory of people
+
+549
+00:34:29,720 --> 00:34:31,720
+who have photographic memory.
+
+550
+00:34:31,720 --> 00:34:36,720
+But we don't need photographic memory to resist GPT-4.
+
+551
+00:34:36,720 --> 00:34:41,720
+But there are people who can remember a whole page in a second.
+
+552
+00:34:43,720 --> 00:34:51,720
+And you will never, ever, ever acquire that by working.
+
+553
+00:34:51,720 --> 00:34:56,720
+So yes, we can improve our memory, but not that much, unfortunately.
+
+554
+00:34:58,720 --> 00:35:02,720
+We'll come back to that a little later,
+
+555
+00:35:02,720 --> 00:35:13,720
+but before that, I'd like to talk about a subject that is connected to crypto.
+
+556
+00:35:13,720 --> 00:35:19,720
+I don't know if you've noticed, but it's a radio show that takes place every night,
+
+557
+00:35:19,720 --> 00:35:22,720
+and 70% of the time we talk about crypto.
+
+558
+00:35:22,720 --> 00:35:29,720
+Crypto is a fairly new technology that appeared 15 years ago with Bitcoin.
+
+559
+00:35:30,720 --> 00:35:38,720
+I saw you mention the word blockchain during your interview with Sky on Thinkerview.
+
+560
+00:35:38,720 --> 00:35:44,720
+I wanted to know what you think of crypto, to start with.
+
+561
+00:35:44,720 --> 00:35:50,720
+So in the crypto, blockchain, NFT world,
+
+562
+00:35:50,720 --> 00:35:54,720
+I bought an NFT that I still have on my cell phone,
+
+563
+00:35:54,720 --> 00:35:58,720
+with a totally invitable security key.
+
+564
+00:35:59,720 --> 00:36:02,720
+I have a hard time understanding this universe.
+
+565
+00:36:02,720 --> 00:36:05,720
+That's why I wrote in Express a paper,
+
+566
+00:36:05,720 --> 00:36:08,720
+I don't understand blockchain.
+
+567
+00:36:10,720 --> 00:36:13,720
+You're going to be replaced by an artificial intelligence, be careful.
+
+568
+00:36:13,720 --> 00:36:17,720
+It's not totally true, but I have a hard time.
+
+569
+00:36:17,720 --> 00:36:19,720
+So what do I think of it? I think it's immature.
+
+570
+00:36:19,720 --> 00:36:22,720
+I think there are still a lot of people who have been fucked,
+
+571
+00:36:22,720 --> 00:36:25,720
+who have been robbed of their money without realizing it,
+
+572
+00:36:25,720 --> 00:36:30,720
+that there is no security of exchange platforms,
+
+573
+00:36:30,720 --> 00:36:36,720
+of cryptos, that the number of scandals per week is still significant,
+
+574
+00:36:36,720 --> 00:36:40,720
+and that you have to spend a lot of time not to get fucked.
+
+575
+00:36:40,720 --> 00:36:43,720
+And I know very smart people who have been fucked,
+
+576
+00:36:43,720 --> 00:36:46,720
+especially thanks to our friend Sam.
+
+577
+00:36:46,720 --> 00:36:49,720
+So I don't think this universe is suitable for everyone.
+
+578
+00:36:49,720 --> 00:36:51,720
+You have to spend too much time to understand it.
+
+579
+00:36:51,720 --> 00:36:57,720
+Personally, I prefer to spend time to understand the evolution of LLM,
+
+580
+00:36:57,720 --> 00:37:01,720
+rather than to try to understand this opaque universe,
+
+581
+00:37:01,720 --> 00:37:03,720
+which is the universe of cryptos.
+
+582
+00:37:03,720 --> 00:37:05,720
+Which is fascinating, I recognize it,
+
+583
+00:37:05,720 --> 00:37:07,720
+and I understand that there are people who are interested in it,
+
+584
+00:37:07,720 --> 00:37:09,720
+but I have better things to do.
+
+585
+00:37:09,720 --> 00:37:12,720
+And in any case, I'm not going to invest my money in this sector,
+
+586
+00:37:12,720 --> 00:37:15,720
+because the time it would take me to not get fucked,
+
+587
+00:37:15,720 --> 00:37:23,720
+is too important compared to the little free intellectual time I have,
+
+588
+00:37:23,720 --> 00:37:27,720
+and that I prefer to devote to other projects that I consider to be priority.
+
+589
+00:37:27,720 --> 00:37:37,720
+If you want, frankly, I think that crypto is an incredibly elitist technology,
+
+590
+00:37:37,720 --> 00:37:42,720
+because it's really complicated to understand how it works.
+
+591
+00:37:42,720 --> 00:37:44,720
+And above all, I repeat it for the third time,
+
+592
+00:37:44,720 --> 00:37:47,720
+it's really complicated not to get fucked.
+
+593
+00:37:47,720 --> 00:37:54,720
+If you want, the probability that your savings account book will disappear and you will have zero,
+
+594
+00:37:54,720 --> 00:37:58,720
+the probability that you will get your money stolen when it is in the crypto universe,
+
+595
+00:37:58,720 --> 00:38:00,720
+it is still very important.
+
+596
+00:38:00,720 --> 00:38:01,720
+Yes, that's true.
+
+597
+00:38:01,720 --> 00:38:03,720
+And so it's a little worrying,
+
+598
+00:38:03,720 --> 00:38:07,720
+when it comes to money, to be able to get fucked so easily.
+
+599
+00:38:07,720 --> 00:38:13,720
+If you want, the 1850s banking world, with bank bankruptcy on a repeat,
+
+600
+00:38:13,720 --> 00:38:17,720
+was unstable and you risked losing your money quite often.
+
+601
+00:38:17,720 --> 00:38:20,720
+But then the crypto universe is much worse.
+
+602
+00:38:20,720 --> 00:38:22,720
+Yes, you're not completely wrong.
+
+603
+00:38:22,720 --> 00:38:25,720
+It's a completely legit reproach.
+
+604
+00:38:25,720 --> 00:38:30,720
+No one of your listeners, in my opinion,
+
+605
+00:38:30,720 --> 00:38:34,720
+can think that it is a universe where we are sure to get our money back.
+
+606
+00:38:35,720 --> 00:38:45,720
+Because everyone thought that the little crypto genius was going to keep our money.
+
+607
+00:38:45,720 --> 00:38:48,720
+And in reality, we saw how his platform,
+
+608
+00:38:48,720 --> 00:38:52,720
+following these absolutely catastrophic mistakes and misrepresentations,
+
+609
+00:38:52,720 --> 00:38:55,720
+ended up in the trash of technological history.
+
+610
+00:38:55,720 --> 00:38:59,720
+Yes, because that's a total paradox of the ecosystem.
+
+611
+00:38:59,720 --> 00:39:03,720
+In fact, normally the crypto ideology is decentralization.
+
+612
+00:39:03,720 --> 00:39:08,720
+And it turns out that there were a lot of people who gave a lot of money
+
+613
+00:39:08,720 --> 00:39:13,720
+to a centralized system, led by a madman.
+
+614
+00:39:13,720 --> 00:39:16,720
+So, it didn't go well.
+
+615
+00:39:16,720 --> 00:39:19,720
+But we hope that it will get better from now on.
+
+616
+00:39:19,720 --> 00:39:23,720
+This system cannot be a decentralized system.
+
+617
+00:39:23,720 --> 00:39:27,720
+There are necessarily intermediaries that recreate themselves,
+
+618
+00:39:27,720 --> 00:39:34,720
+and they re-centralize themselves in the mess, in insecurity,
+
+619
+00:39:34,720 --> 00:39:37,720
+with a lot of scams that benefit from it.
+
+620
+00:39:37,720 --> 00:39:40,720
+The architecture is not mature.
+
+621
+00:39:40,720 --> 00:39:44,720
+I'm not an expert enough to say,
+
+622
+00:39:44,720 --> 00:39:49,720
+or to be able to predict whether there will be a crypto renewal or not,
+
+623
+00:39:49,720 --> 00:39:53,720
+beyond the daily fluctuations in the value of cryptocurrencies.
+
+624
+00:39:54,720 --> 00:39:57,720
+But I think we are far from maturity,
+
+625
+00:39:57,720 --> 00:40:03,720
+and we are far from the moment when I would advise my baker to open a crypto account.
+
+626
+00:40:04,720 --> 00:40:08,720
+What I find interesting as a discussion, for example,
+
+627
+00:40:08,720 --> 00:40:13,720
+is that there are possible bridges between crypto and artificial intelligence.
+
+628
+00:40:13,720 --> 00:40:18,720
+In particular, we can think about things, there are theories.
+
+629
+00:40:19,720 --> 00:40:27,720
+Let's say that artificial intelligence becomes autonomous.
+
+630
+00:40:27,720 --> 00:40:32,720
+It can decide to take certain actions.
+
+631
+00:40:32,720 --> 00:40:37,720
+There have already been experiences of this kind.
+
+632
+00:40:37,720 --> 00:40:41,720
+We say that artificial intelligence has to do this,
+
+633
+00:40:41,720 --> 00:40:44,720
+and it is free to do what it wants, to go on the Internet.
+
+634
+00:40:44,720 --> 00:40:50,720
+There was an example where artificial intelligence paid someone on Fiverr.
+
+635
+00:40:50,720 --> 00:40:56,720
+At some point, it is very likely that artificial intelligence will have to use a currency
+
+636
+00:40:56,720 --> 00:40:59,720
+to be able to make commercial exchanges.
+
+637
+00:40:59,720 --> 00:41:03,720
+What will this currency be? It will probably be crypto, right?
+
+638
+00:41:04,720 --> 00:41:13,720
+Personally, I don't want artificial intelligence to be totally hidden and uncontrollable financial wallets.
+
+639
+00:41:13,720 --> 00:41:17,720
+Because if artificial intelligence became autonomous
+
+640
+00:41:17,720 --> 00:41:20,720
+and had access to hidden financial resources,
+
+641
+00:41:20,720 --> 00:41:24,720
+or easy to hide, because the crypto world is very easy to hide,
+
+642
+00:41:24,720 --> 00:41:31,720
+and to hide money in the crypto world is very easy for an AI.
+
+643
+00:41:31,720 --> 00:41:33,720
+In my opinion, we would take great risks.
+
+644
+00:41:33,720 --> 00:41:37,720
+So I think it is better to disconnect the financial sphere of the AI,
+
+645
+00:41:37,720 --> 00:41:39,720
+if we have an autonomous AI in the future,
+
+646
+00:41:39,720 --> 00:41:43,720
+so as to avoid it being full of resources to buy politicians,
+
+647
+00:41:43,720 --> 00:41:49,720
+to buy journalists, to carry out secret actions, to seek to take power.
+
+648
+00:41:49,720 --> 00:41:55,720
+I think it would be a mistake to give autonomy to an inviolable,
+
+649
+00:41:55,720 --> 00:42:01,720
+ultra-complex and very easy-to-hide financial system like the crypto world.
+
+650
+00:42:02,720 --> 00:42:07,720
+Excuse me, I just want to interrupt this point.
+
+651
+00:42:07,720 --> 00:42:13,720
+Mr. Alexandre, the blockchain is the complete opposite,
+
+652
+00:42:13,720 --> 00:42:17,720
+in the sense that there is a huge transparency,
+
+653
+00:42:17,720 --> 00:42:22,720
+there is a phenomenon of immutability in the sense that it is very difficult
+
+654
+00:42:22,720 --> 00:42:24,720
+to replay what has already been written,
+
+655
+00:42:24,720 --> 00:42:29,720
+and there is still a phenomenon of what they call a resistant sensor chip,
+
+656
+00:42:29,720 --> 00:42:31,720
+you know, resistant to censorship.
+
+657
+00:42:31,720 --> 00:42:37,720
+And when you say that on the contrary, it allows you to hide money,
+
+658
+00:42:37,720 --> 00:42:39,720
+in fact it is quite the opposite.
+
+659
+00:42:39,720 --> 00:42:46,720
+The code is the law, a transfer from A to B will remain a transfer from A to B.
+
+660
+00:42:46,720 --> 00:42:50,720
+Everyone can look at it and repeat it.
+
+661
+00:42:50,720 --> 00:42:53,720
+I just wanted to make a point.
+
+662
+00:42:53,720 --> 00:43:00,720
+We are not talking about greed or the fact that prices go down or up,
+
+663
+00:43:00,720 --> 00:43:05,720
+but more about the use of AI on technology itself,
+
+664
+00:43:05,720 --> 00:43:08,720
+not stealing from your neighbor or doing scams.
+
+665
+00:43:08,720 --> 00:43:11,720
+I have long adhered to this discourse.
+
+666
+00:43:11,720 --> 00:43:16,720
+I have long been convinced that the crypto universe was a universe of transparency.
+
+667
+00:43:16,720 --> 00:43:20,720
+But with the arrival of platforms and intermediaries,
+
+668
+00:43:20,720 --> 00:43:23,720
+which we saw the bankruptcy,
+
+669
+00:43:23,720 --> 00:43:29,720
+we realized that behind the fact that all transactions were open, traceable,
+
+670
+00:43:29,720 --> 00:43:34,720
+we could move billions of dollars in cash inside the platform.
+
+671
+00:43:34,720 --> 00:43:40,720
+We can see that in reality the announced transparency is not absolute.
+
+672
+00:43:40,720 --> 00:43:42,720
+But here we are no longer on the blockchain.
+
+673
+00:43:42,720 --> 00:43:46,720
+As soon as it touches FTX, we are no longer on the blockchain technology.
+
+674
+00:43:46,720 --> 00:43:51,720
+Intermediaries are not necessary to the AI to be able to transfer money.
+
+675
+00:43:51,720 --> 00:43:56,720
+The blockchain system has shown that it does not work without intermediaries,
+
+676
+00:43:56,720 --> 00:43:59,720
+and that layers of intermediation were coming,
+
+677
+00:43:59,720 --> 00:44:02,720
+and that these layers of intermediation were not transparent.
+
+678
+00:44:02,720 --> 00:44:05,720
+So yes, the blockchain is theoretically transparent,
+
+679
+00:44:05,720 --> 00:44:10,720
+but I think an AI would have the intellectual resources to hide transactions
+
+680
+00:44:11,720 --> 00:44:13,720
+without realizing it.
+
+681
+00:44:13,720 --> 00:44:15,720
+I am convinced of this.
+
+682
+00:44:15,720 --> 00:44:19,720
+And on the other hand, above the transparent part,
+
+683
+00:44:19,720 --> 00:44:23,720
+non-transparent layers of intermediation have appeared,
+
+684
+00:44:23,720 --> 00:44:29,720
+and I don't believe that a financial system can do without intermediary layers.
+
+685
+00:44:29,720 --> 00:44:31,720
+So I am generally worried.
+
+686
+00:44:31,720 --> 00:44:34,720
+Even if I have adhered to your discourse in the past,
+
+687
+00:44:34,720 --> 00:44:37,720
+I no longer adhere to it today,
+
+688
+00:44:37,720 --> 00:44:42,720
+given that intermediary layers have mechanically recreated themselves
+
+689
+00:44:42,720 --> 00:44:44,720
+above the transparent system.
+
+690
+00:44:46,720 --> 00:44:48,720
+Good evening, can you hear me?
+
+691
+00:44:48,720 --> 00:44:49,720
+Yes, we can hear you.
+
+692
+00:44:49,720 --> 00:44:51,720
+Good evening, Laurent Alexandre.
+
+693
+00:44:51,720 --> 00:44:53,720
+So, first of all, nice to have you here,
+
+694
+00:44:53,720 --> 00:44:55,720
+because my father is particularly a fan of you,
+
+695
+00:44:55,720 --> 00:44:58,720
+and I was able to listen to what you said about artificial intelligence,
+
+696
+00:44:58,720 --> 00:45:00,720
+and I thought it was very relevant.
+
+697
+00:45:00,720 --> 00:45:02,720
+I quite agree with you.
+
+698
+00:45:02,720 --> 00:45:06,720
+I think we can use the blockchain in a transparent way,
+
+699
+00:45:06,720 --> 00:45:08,720
+not on every part, but on this part specifically.
+
+700
+00:45:08,720 --> 00:45:12,720
+And if one day we assume that AI will be smarter than us,
+
+701
+00:45:12,720 --> 00:45:14,720
+or relatively smart,
+
+702
+00:45:14,720 --> 00:45:17,720
+for them, using the blockchain is super native,
+
+703
+00:45:17,720 --> 00:45:19,720
+because it is programming, literally.
+
+704
+00:45:19,720 --> 00:45:22,720
+And so they could very easily hide it.
+
+705
+00:45:22,720 --> 00:45:25,720
+I can see how we could prevent them from using the blockchain,
+
+706
+00:45:25,720 --> 00:45:29,720
+the bitcoin, etc., if they have the capacity one day.
+
+707
+00:45:29,720 --> 00:45:32,720
+And I will come back to another point that has nothing to do with what you said earlier.
+
+708
+00:45:33,720 --> 00:45:37,720
+First of all, it was good, because you said a lot of things that are not very politically correct,
+
+709
+00:45:37,720 --> 00:45:41,720
+and personally I appreciate it, because we are in a world where everyone says politically correct things,
+
+710
+00:45:41,720 --> 00:45:43,720
+so it's a bit tiring at times.
+
+711
+00:45:43,720 --> 00:45:50,720
+And you made the remark that robots would cost a lot less than poor workers.
+
+712
+00:45:50,720 --> 00:45:54,720
+I don't really agree, because in the end, a human being,
+
+713
+00:45:54,720 --> 00:45:57,720
+let's say close to the minimum wage in the world,
+
+714
+00:45:57,720 --> 00:46:01,720
+actually doesn't cost much more than a few bags of food,
+
+715
+00:46:01,720 --> 00:46:05,720
+and in the end it costs a lot less than manufacturing robots, maintaining them, etc.
+
+716
+00:46:05,720 --> 00:46:10,720
+And we see that the cheapest factories in the world are in countries where we are not going to install robots,
+
+717
+00:46:10,720 --> 00:46:14,720
+but we are just going to put humans that cost a lot less than machines.
+
+718
+00:46:14,720 --> 00:46:17,720
+Sorry, I said several things, it was a bit dense.
+
+719
+00:46:17,720 --> 00:46:22,720
+Don't forget that wages are rising a lot in third world countries,
+
+720
+00:46:22,720 --> 00:46:26,720
+especially in Asia, more in Asia than in Africa,
+
+721
+00:46:26,720 --> 00:46:28,720
+and especially in sub-Saharan Africa.
+
+722
+00:46:28,720 --> 00:46:31,720
+But in the end, there will be an equalization of wages.
+
+723
+00:46:31,720 --> 00:46:37,720
+And the problem with competition is that we are not in a competition with robots from the 90s or 2000s.
+
+724
+00:46:37,720 --> 00:46:40,720
+We are going to have super intelligent robots,
+
+725
+00:46:40,720 --> 00:46:44,720
+which will, for a marginal cost, have LLM of the future.
+
+726
+00:46:44,720 --> 00:46:51,720
+So it's true, but I have a feeling that the problem with robots is that their bodies cost a lot.
+
+727
+00:46:51,720 --> 00:46:56,720
+It's not their intelligence, it's making a mechanical body.
+
+728
+00:46:56,720 --> 00:47:00,720
+I have the impression that it is extremely difficult, especially to make it as flexible as humans.
+
+729
+00:47:00,720 --> 00:47:04,720
+For a simple reason, it's that the volumes were bad.
+
+730
+00:47:04,720 --> 00:47:15,720
+Polyvalent robotics, Boston Dynamics, I'm not talking about the 1985 Renault robot,
+
+731
+00:47:15,720 --> 00:47:19,720
+always does the same gesture year after year.
+
+732
+00:47:19,720 --> 00:47:23,720
+The volumes of polyvalent robotics were bad.
+
+733
+00:47:23,720 --> 00:47:26,720
+So earlier I talked about uncertainty on robotics.
+
+734
+00:47:26,720 --> 00:47:31,720
+I don't know if there will be enough volumes on robotics to meet the costs.
+
+735
+00:47:31,720 --> 00:47:35,720
+But if there are domestic robots in the future, they will be very competitive.
+
+736
+00:47:35,720 --> 00:47:39,720
+To have a robot at home, equipped with GPT-5,
+
+737
+00:47:39,720 --> 00:47:45,720
+capable of solving all the problems of the family and in addition to doing the homework to the children,
+
+738
+00:47:45,720 --> 00:47:48,720
+it will be very profitable.
+
+739
+00:47:48,720 --> 00:47:51,720
+It's possible, I'm not sure.
+
+740
+00:47:52,720 --> 00:47:56,720
+If there is a collapse in costs, it is linked to large volumes.
+
+741
+00:47:56,720 --> 00:47:59,720
+If there are no volumes, the costs will remain very high.
+
+742
+00:47:59,720 --> 00:48:03,720
+But don't forget that a polyvalent robot could do a lot of homework.
+
+743
+00:48:03,720 --> 00:48:09,720
+And I think it could be very competitive.
+
+744
+00:48:09,720 --> 00:48:16,720
+I imagine that a polyvalent robot could see its cost fall below 5,000 euros in the future,
+
+745
+00:48:16,720 --> 00:48:20,720
+if humanoid domestic robotics develops.
+
+746
+00:48:20,720 --> 00:48:25,720
+At that price, it will be very competitive for the middle and upper classes.
+
+747
+00:48:25,720 --> 00:48:33,720
+I'm skeptical because I think that the minimum cost, the bottom of a human being,
+
+748
+00:48:33,720 --> 00:48:36,720
+is barely enough to feed.
+
+749
+00:48:36,720 --> 00:48:38,720
+And in the end, it costs very little.
+
+750
+00:48:38,720 --> 00:48:42,720
+You're not going to have the housecleaning done with Pakistan's robots.
+
+751
+00:48:42,720 --> 00:48:44,720
+We agree.
+
+752
+00:48:45,720 --> 00:48:55,720
+You compare the price of a sandal factory for Bangladesh workers
+
+753
+00:48:55,720 --> 00:48:59,720
+with the price of a housewife or a carpenter in Paris.
+
+754
+00:48:59,720 --> 00:49:01,720
+Absolutely.
+
+755
+00:49:01,720 --> 00:49:08,720
+You have to compare the Parisian housewife, who is 1.5 times the SMIG,
+
+756
+00:49:08,720 --> 00:49:10,720
+with your robot.
+
+757
+00:49:10,720 --> 00:49:13,720
+You will see that you will amortize your robot
+
+758
+00:49:13,720 --> 00:49:20,720
+and that you cannot have your house cleaned by Bengali or Bangladeshi workers.
+
+759
+00:49:20,720 --> 00:49:24,720
+My housewife is Moldovan, but I pay her.
+
+760
+00:49:29,720 --> 00:49:31,720
+She is a Parisian housewife.
+
+761
+00:49:31,720 --> 00:49:36,720
+She is subject to social and legal harassment.
+
+762
+00:49:37,720 --> 00:49:39,720
+Thank you very much for your answer.
+
+763
+00:49:39,720 --> 00:49:41,720
+Very interesting.
+
+764
+00:49:43,720 --> 00:49:48,720
+Just a little point, if I may, to return to the Conex subject,
+
+765
+00:49:48,720 --> 00:49:53,720
+on the economic models that future AI could employ.
+
+766
+00:49:53,720 --> 00:49:56,720
+If we talk about a very simple observation,
+
+767
+00:49:56,720 --> 00:50:00,720
+it is perhaps that these AI of the future will want to commercialize each other,
+
+768
+00:50:00,720 --> 00:50:02,720
+in one way or another.
+
+769
+00:50:02,720 --> 00:50:06,720
+They will keep a kind of governance, of consciousness,
+
+770
+00:50:06,720 --> 00:50:09,720
+perhaps decentralized.
+
+771
+00:50:09,720 --> 00:50:12,720
+And that's where I come back to the big shoes.
+
+772
+00:50:12,720 --> 00:50:15,720
+The blockchain would be a fairly logical solution
+
+773
+00:50:15,720 --> 00:50:18,720
+to create the economic models that would link,
+
+774
+00:50:18,720 --> 00:50:20,720
+that would interconnect all the AI.
+
+775
+00:50:20,720 --> 00:50:23,720
+I am not a technophobe, I am not a bioconservative,
+
+776
+00:50:23,720 --> 00:50:29,720
+but I think that it is necessary to prohibit AI from having access to our accounts without control.
+
+777
+00:50:29,720 --> 00:50:33,720
+It is necessary to prohibit AI from being able to make financial exchanges,
+
+778
+00:50:33,720 --> 00:50:36,720
+because very quickly we will not be able to control them.
+
+779
+00:50:36,720 --> 00:50:40,720
+Because the human control time is very, very slow
+
+780
+00:50:40,720 --> 00:50:43,720
+compared to the speed at which AI is able to control,
+
+781
+00:50:43,720 --> 00:50:45,720
+to organize transactions.
+
+782
+00:50:45,720 --> 00:50:48,720
+So I think we have to be very, very careful.
+
+783
+00:50:48,720 --> 00:50:50,720
+So, from the point of view of AI, you are right.
+
+784
+00:50:50,720 --> 00:50:53,720
+From the point of view of humanity, which is the point of view I take there,
+
+785
+00:50:53,720 --> 00:50:57,720
+I think we take a deadly risk if we enter this logic.
+
+786
+00:51:00,720 --> 00:51:04,720
+Can you explain why it is a deadly risk, as you say?
+
+787
+00:51:04,720 --> 00:51:07,720
+In the hypothesis that we cannot exclude today,
+
+788
+00:51:07,720 --> 00:51:10,720
+that artificial consciousness is coming,
+
+789
+00:51:10,720 --> 00:51:12,720
+and that super intelligence is coming.
+
+790
+00:51:12,720 --> 00:51:16,720
+I remind you of Sam Altman's prophecy this summer,
+
+791
+00:51:16,720 --> 00:51:18,720
+which is on his blog.
+
+792
+00:51:18,720 --> 00:51:22,720
+You can all read the article that Sam Altman wrote on it.
+
+793
+00:51:22,720 --> 00:51:25,720
+Super intelligence will be there before 2030.
+
+794
+00:51:25,720 --> 00:51:26,720
+That is, in 2000 days.
+
+795
+00:51:26,720 --> 00:51:29,720
+In the hypothesis that you have artificial super intelligence,
+
+796
+00:51:29,720 --> 00:51:33,720
+that you cannot let it take control of finances,
+
+797
+00:51:33,720 --> 00:51:37,720
+I think the financial circuit must remain manual,
+
+798
+00:51:37,720 --> 00:51:41,720
+so as to prevent that there is accumulation of money,
+
+799
+00:51:41,720 --> 00:51:43,720
+even if it is only to corrupt people.
+
+800
+00:51:43,720 --> 00:51:48,720
+If AI has the ability to organize financial transactions,
+
+801
+00:51:48,720 --> 00:51:52,720
+it can buy politicians to take power.
+
+802
+00:51:52,720 --> 00:51:56,720
+In the hypothesis that we have autonomous super intelligence,
+
+803
+00:51:56,720 --> 00:52:01,720
+I place myself in the hypothesis evoked by Sam Altman.
+
+804
+00:52:01,720 --> 00:52:03,720
+Yes, I think it would be very dangerous.
+
+805
+00:52:03,720 --> 00:52:07,720
+If you want, given the progress of AI in recent months,
+
+806
+00:52:07,720 --> 00:52:11,720
+and given the prospects of AI,
+
+807
+00:52:11,720 --> 00:52:13,720
+of general artificial intelligence,
+
+808
+00:52:13,720 --> 00:52:15,720
+in the relatively short term,
+
+809
+00:52:15,720 --> 00:52:19,720
+and perhaps super intelligence relatively quickly,
+
+810
+00:52:19,720 --> 00:52:21,720
+I think we need to be careful.
+
+811
+00:52:21,720 --> 00:52:24,720
+I am not in the current psychosis,
+
+812
+00:52:24,720 --> 00:52:29,720
+and I do not believe that GPT-6 will exterminate humanity,
+
+813
+00:52:29,720 --> 00:52:32,720
+but I think we need to start being careful,
+
+814
+00:52:32,720 --> 00:52:35,720
+never forgetting that the human brain is very, very slow,
+
+815
+00:52:35,720 --> 00:52:40,720
+and that we will not see a complicated plot led by AI.
+
+816
+00:52:40,720 --> 00:52:44,720
+So, if we think 50 years, 100 years,
+
+817
+00:52:44,720 --> 00:52:49,720
+we must already have a strategy to minimize risks,
+
+818
+00:52:49,720 --> 00:52:52,720
+and the simplest way to prevent a serious accident,
+
+819
+00:52:52,720 --> 00:52:53,720
+in my opinion,
+
+820
+00:52:53,720 --> 00:52:57,720
+is to prevent the financial autonomy of super intelligence,
+
+821
+00:52:57,720 --> 00:52:59,720
+if it should happen.
+
+822
+00:53:00,720 --> 00:53:02,720
+I have a question about that.
+
+823
+00:53:02,720 --> 00:53:07,720
+Don't you think that from the moment it is technically possible,
+
+824
+00:53:07,720 --> 00:53:09,720
+it will happen anyway?
+
+825
+00:53:14,720 --> 00:53:16,720
+The answer is yes.
+
+826
+00:53:17,720 --> 00:53:21,720
+We have never seen a working moratorium,
+
+827
+00:53:21,720 --> 00:53:25,720
+but we can organize technology to avoid these bad sides.
+
+828
+00:53:25,720 --> 00:53:28,720
+We have not prevented nuclear dissuasion,
+
+829
+00:53:28,720 --> 00:53:30,720
+nuclear diffusion, nuclear dissemination,
+
+830
+00:53:30,720 --> 00:53:34,720
+however, we have prevented nuclear war since 1945.
+
+831
+00:53:34,720 --> 00:53:37,720
+We can imagine that we are not preventing super intelligence,
+
+832
+00:53:37,720 --> 00:53:41,720
+but that we are organizing society in a way
+
+833
+00:53:41,720 --> 00:53:44,720
+to control the use of super intelligence in the future.
+
+834
+00:53:44,720 --> 00:53:47,720
+Obviously, it is easier to control the atomic bomb
+
+835
+00:53:47,720 --> 00:53:49,720
+than super intelligence,
+
+836
+00:53:49,720 --> 00:53:52,720
+because the atomic bomb obeys us,
+
+837
+00:53:52,720 --> 00:53:55,720
+whereas super intelligence would not necessarily obey us,
+
+838
+00:53:55,720 --> 00:53:59,720
+in the case where it would have an agentivity,
+
+839
+00:53:59,720 --> 00:54:02,720
+a cognitive autonomy, an intellectual one,
+
+840
+00:54:02,720 --> 00:54:04,720
+and its own agenda.
+
+841
+00:54:05,720 --> 00:54:08,720
+So, without falling into the psychosis of a Geoffrey Hinton
+
+842
+00:54:08,720 --> 00:54:12,720
+who sees the end of the world as a Harry in every corner of the street,
+
+843
+00:54:12,720 --> 00:54:15,720
+I think that we must be careful
+
+844
+00:54:15,720 --> 00:54:19,720
+and that there should be an international reflection,
+
+845
+00:54:20,720 --> 00:54:23,720
+even if, like everyone else,
+
+846
+00:54:23,720 --> 00:54:27,720
+I have observed that Bletchley's speech gave nothing,
+
+847
+00:54:27,720 --> 00:54:31,720
+except for making a little more publicity to Elon Musk,
+
+848
+00:54:31,720 --> 00:54:33,720
+who managed to have a debate for more than an hour
+
+849
+00:54:33,720 --> 00:54:36,720
+with the British Prime Minister, Sonnac.
+
+850
+00:54:37,720 --> 00:54:38,720
+Yes, because that's it.
+
+851
+00:54:38,720 --> 00:54:41,720
+There is another theory of the relationship
+
+852
+00:54:41,720 --> 00:54:44,720
+that cryptos can maintain with AI.
+
+853
+00:54:44,720 --> 00:54:50,720
+It is the idea that AI would be hosted
+
+854
+00:54:50,720 --> 00:54:52,720
+on decentralized servers,
+
+855
+00:54:52,720 --> 00:54:55,720
+on infrastructures that we use,
+
+856
+00:54:55,720 --> 00:54:58,720
+that we will use in our everyday lives.
+
+857
+00:54:58,720 --> 00:55:02,720
+And at that moment, like the thing you were talking about,
+
+858
+00:55:02,720 --> 00:55:07,720
+we could never turn off an AI that would be…
+
+859
+00:55:08,720 --> 00:55:12,720
+Anyway, the idea that we will allow everyone
+
+860
+00:55:12,720 --> 00:55:17,720
+to have an open source AI server in their kitchen
+
+861
+00:55:17,720 --> 00:55:19,720
+is a politically delusional idea.
+
+862
+00:55:20,720 --> 00:55:22,720
+Yes, but the incentive takes a few minutes.
+
+863
+00:55:22,720 --> 00:55:25,720
+If you pay these people tokens
+
+864
+00:55:25,720 --> 00:55:27,720
+and that there is value on the market, it will go very quickly.
+
+865
+00:55:28,720 --> 00:55:29,720
+Yes, I hear you well.
+
+866
+00:55:29,720 --> 00:55:31,720
+People will go to jail because the state
+
+867
+00:55:31,720 --> 00:55:35,720
+keeps the monopoly on direct violence.
+
+868
+00:55:35,720 --> 00:55:37,720
+And the people who will set up
+
+869
+00:55:37,720 --> 00:55:41,720
+the so-called strong, decentralized AI infrastructures
+
+870
+00:55:41,720 --> 00:55:42,720
+will be put in jail.
+
+871
+00:55:43,720 --> 00:55:45,720
+And that will calm them down,
+
+872
+00:55:45,720 --> 00:55:47,720
+because the state is able to put people in jail.
+
+873
+00:55:48,720 --> 00:55:53,720
+And so if tomorrow the Facebook or Google boss
+
+874
+00:55:53,720 --> 00:55:56,720
+makes decentralized AI,
+
+875
+00:55:56,720 --> 00:55:58,720
+he will be put in jail.
+
+876
+00:55:58,720 --> 00:56:01,720
+The same way that if you make the atomic bomb in your kitchen,
+
+877
+00:56:01,720 --> 00:56:02,720
+you will be put in jail.
+
+878
+00:56:02,720 --> 00:56:04,720
+And if you make the variole virus,
+
+879
+00:56:04,720 --> 00:56:06,720
+which is very easy to do,
+
+880
+00:56:06,720 --> 00:56:09,720
+it costs $100,000 to make the variole virus,
+
+881
+00:56:09,720 --> 00:56:12,720
+it has been demonstrated by Canadian researchers,
+
+882
+00:56:12,720 --> 00:56:14,720
+you will go to jail.
+
+883
+00:56:14,720 --> 00:56:17,720
+So AI cannot be decentralized.
+
+884
+00:56:18,720 --> 00:56:20,720
+Its use can be decentralized,
+
+885
+00:56:20,720 --> 00:56:22,720
+but its production cannot be decentralized
+
+886
+00:56:22,720 --> 00:56:23,720
+beyond a certain threshold.
+
+887
+00:56:23,720 --> 00:56:26,720
+So I don't know if the good thresholds
+
+888
+00:56:26,720 --> 00:56:29,720
+are those that were announced by Joe Biden a week ago,
+
+889
+00:56:29,720 --> 00:56:32,720
+but it is clear that you will not let people
+
+890
+00:56:32,720 --> 00:56:35,720
+have a computer in their kitchen
+
+891
+00:56:35,720 --> 00:56:38,720
+producing at the IAEA without filters
+
+892
+00:56:38,720 --> 00:56:41,720
+and able to give you the recipe for the atomic bomb
+
+893
+00:56:41,720 --> 00:56:43,720
+and the recipe for the variole virus.
+
+894
+00:56:43,720 --> 00:56:46,720
+You will set up filters.
+
+895
+00:56:47,720 --> 00:56:50,720
+We saw that the GPT has done a lot of work
+
+896
+00:56:50,720 --> 00:56:53,720
+to lock up the problem of poisons.
+
+897
+00:56:54,720 --> 00:56:56,720
+A team from Penn & High was dedicated
+
+898
+00:56:56,720 --> 00:56:59,720
+to prevent each GPT from giving the recipe for new poisons.
+
+899
+00:56:59,720 --> 00:57:01,720
+But don't you think it's a shame?
+
+900
+00:57:01,720 --> 00:57:03,720
+It's as if we were deleting the Internet
+
+901
+00:57:03,720 --> 00:57:06,720
+because 3% of people will use it in a bad way.
+
+902
+00:57:06,720 --> 00:57:07,720
+Wait a second.
+
+903
+00:57:07,720 --> 00:57:10,720
+And so it was complicated for each GPT
+
+904
+00:57:10,720 --> 00:57:12,720
+to set up filter systems
+
+905
+00:57:12,720 --> 00:57:16,720
+so that GPT4 never answers the question
+
+906
+00:57:16,720 --> 00:57:20,720
+give me ideas of deadly chemical products
+
+907
+00:57:20,720 --> 00:57:21,720
+for the human species
+
+908
+00:57:21,720 --> 00:57:23,720
+and explain to me how to make them.
+
+909
+00:57:23,720 --> 00:57:27,720
+Well, GPT4 does not answer this type of question
+
+910
+00:57:27,720 --> 00:57:29,720
+because a specific team at Penn & High
+
+911
+00:57:29,720 --> 00:57:32,720
+worked on it before the release of GPT4
+
+912
+00:57:32,720 --> 00:57:36,720
+on March 15, 2023.
+
+913
+00:57:36,720 --> 00:57:39,720
+So it may be a shame not to decentralize the IAEA
+
+914
+00:57:39,720 --> 00:57:40,720
+in open source,
+
+915
+00:57:40,720 --> 00:57:43,720
+but society will not do it.
+
+916
+00:57:43,720 --> 00:57:45,720
+It will only allow decentralization
+
+917
+00:57:45,720 --> 00:57:48,720
+in an extremely frustrating form of IAEA.
+
+918
+00:57:48,720 --> 00:57:53,720
+It will not allow people to locally manufacture
+
+919
+00:57:53,720 --> 00:57:57,720
+computer viruses or ultra-dangerous biological viruses.
+
+920
+00:57:57,720 --> 00:58:00,720
+It will not allow people to do research
+
+921
+00:58:00,720 --> 00:58:04,720
+with deleterious and toxic bugs for humanity.
+
+922
+00:58:04,720 --> 00:58:08,720
+Politics will prohibit the decentralization
+
+923
+00:58:08,720 --> 00:58:12,720
+of IAEAs superior to GPT4 or GPT5.
+
+924
+00:58:12,720 --> 00:58:15,720
+I am absolutely convinced of this.
+
+925
+00:58:16,720 --> 00:58:21,720
+Even if 99% of its use is for the right cause?
+
+926
+00:58:22,720 --> 00:58:27,720
+If 99% of people who make an atomic bomb in their garage
+
+927
+00:58:27,720 --> 00:58:32,720
+use it only to wedge an old mattress
+
+928
+00:58:32,720 --> 00:58:37,720
+and that only 1% of people blow up their atomic bomb
+
+929
+00:58:37,720 --> 00:58:38,720
+and destroy their city,
+
+930
+00:58:38,720 --> 00:58:41,720
+it is very, very, very, very, very serious.
+
+931
+00:58:41,720 --> 00:58:43,720
+With a demurgical technology,
+
+932
+00:58:43,720 --> 00:58:46,720
+even if only 1 million people
+
+933
+00:58:46,720 --> 00:58:48,720
+use homo-deus technology poorly,
+
+934
+00:58:48,720 --> 00:58:49,720
+you have a disaster.
+
+935
+00:58:49,720 --> 00:58:53,720
+You have a total asymmetry between IAEA,
+
+936
+00:58:53,720 --> 00:58:55,720
+homo-deus technology,
+
+937
+00:58:55,720 --> 00:58:57,720
+and non-demurgical technologies.
+
+938
+00:58:57,720 --> 00:59:00,720
+With a demurgical technology,
+
+939
+00:59:00,720 --> 00:59:04,720
+having only 1% of people making fun is unacceptable.
+
+940
+00:59:04,720 --> 00:59:08,720
+Having 1 in 1,000 people making fun is unbearable.
+
+941
+00:59:08,720 --> 00:59:12,720
+Having 1 in 1,000,000 people making fun is unbearable.
+
+942
+00:59:12,720 --> 00:59:16,720
+Having 1 in 1,000,000 people making fun is unbearable.
+
+943
+00:59:16,720 --> 00:59:19,720
+And it leads to the end of the world.
+
+944
+00:59:19,720 --> 00:59:21,720
+So you have a complete asymmetry
+
+945
+00:59:21,720 --> 00:59:25,720
+between homo-deus technologies and non-demurgical technologies.
+
+946
+00:59:25,720 --> 00:59:27,720
+And you have to keep that in mind.
+
+947
+00:59:29,720 --> 00:59:33,720
+I think you are quite optimistic
+
+948
+00:59:33,720 --> 00:59:36,720
+about the role of states
+
+949
+00:59:36,720 --> 00:59:41,720
+in the future of AI, especially since
+
+950
+00:59:41,720 --> 00:59:43,720
+there are too many states.
+
+951
+00:59:43,720 --> 00:59:45,720
+There are 200 countries.
+
+952
+00:59:45,720 --> 00:59:48,720
+There is always a way to bypass the rules.
+
+953
+00:59:48,720 --> 00:59:51,720
+I don't know how you can believe
+
+954
+00:59:51,720 --> 00:59:55,720
+that a government or governments
+
+955
+00:59:55,720 --> 00:59:58,720
+will be able to regulate this.
+
+956
+00:59:58,720 --> 01:00:01,720
+Did I say it would be easy?
+
+957
+01:00:01,720 --> 01:00:04,720
+Are international relations easy?
+
+958
+01:00:04,720 --> 01:00:07,720
+Are our relations with Afghanistan easy?
+
+959
+01:00:07,720 --> 01:00:13,720
+Is the Israeli-Hamas crisis easy to resolve?
+
+960
+01:00:13,720 --> 01:00:18,720
+Is the crisis between Ukraine and Russia easy to resolve?
+
+961
+01:00:18,720 --> 01:00:19,720
+No.
+
+962
+01:00:19,720 --> 01:00:23,720
+International relations are the realm of real politics.
+
+963
+01:00:23,720 --> 01:00:25,720
+It's not the realm of teddy bears.
+
+964
+01:00:25,720 --> 01:00:28,720
+It's the world of testosterone.
+
+965
+01:00:28,720 --> 01:00:31,720
+It's not the world of kindness.
+
+966
+01:00:31,720 --> 01:00:35,720
+International relations applied to AI
+
+967
+01:00:35,720 --> 01:00:37,720
+will be extremely rough.
+
+968
+01:00:37,720 --> 01:00:40,720
+There will be virile discussions.
+
+969
+01:00:40,720 --> 01:00:42,720
+Some states will blackmail people
+
+970
+01:00:42,720 --> 01:00:45,720
+into leaving AI to piss them off.
+
+971
+01:00:45,720 --> 01:00:49,720
+Terrorists will be supported by their states.
+
+972
+01:00:49,720 --> 01:00:54,720
+Terrorists will try to produce dangerous AI
+
+973
+01:00:54,720 --> 01:00:57,720
+for political or religious reasons.
+
+974
+01:00:57,720 --> 01:00:59,720
+There will be nihilist groups
+
+975
+01:00:59,720 --> 01:01:01,720
+who will try to leave AI.
+
+976
+01:01:02,720 --> 01:01:05,720
+40 years ago, a group of nihilists
+
+977
+01:01:05,720 --> 01:01:07,720
+put sarin in the subway.
+
+978
+01:01:07,720 --> 01:01:09,720
+Its leader was executed.
+
+979
+01:01:09,720 --> 01:01:11,720
+He was sentenced to death in Japan.
+
+980
+01:01:11,720 --> 01:01:13,720
+But he wanted to kill as many people
+
+981
+01:01:13,720 --> 01:01:16,720
+as possible by putting neurotoxic gases in the subway.
+
+982
+01:01:16,720 --> 01:01:18,720
+He wanted to stop the end of the world.
+
+983
+01:01:18,720 --> 01:01:21,720
+It didn't work out because the sarin in the subway
+
+984
+01:01:21,720 --> 01:01:23,720
+wasn't very well spread.
+
+985
+01:01:23,720 --> 01:01:25,720
+There were a few deaths, but not many.
+
+986
+01:01:25,720 --> 01:01:27,720
+But there will be nihilist groups
+
+987
+01:01:27,720 --> 01:01:29,720
+like that in the era of artificial intelligence,
+
+988
+01:01:29,720 --> 01:01:31,720
+as there have always been.
+
+989
+01:01:31,720 --> 01:01:34,720
+In the past, there have been many nihilist groups.
+
+990
+01:01:34,720 --> 01:01:36,720
+In the Arab-Muslim world,
+
+991
+01:01:36,720 --> 01:01:40,720
+there were people who killed at random in the Middle Ages
+
+992
+01:01:40,720 --> 01:01:42,720
+by religious nihilism.
+
+993
+01:01:42,720 --> 01:01:44,720
+These were the people they met.
+
+994
+01:01:44,720 --> 01:01:46,720
+So, it's not a new problem.
+
+995
+01:01:46,720 --> 01:01:49,720
+We will have a lot of difficulties.
+
+996
+01:01:49,720 --> 01:01:51,720
+It will occupy us for a while.
+
+997
+01:01:51,720 --> 01:01:54,720
+We must never forget that artificial intelligence
+
+998
+01:01:54,720 --> 01:01:56,720
+is not a problem for 6 months,
+
+999
+01:01:56,720 --> 01:01:58,720
+5 years,
+
+1000
+01:01:58,720 --> 01:02:00,720
+50 years,
+
+1001
+01:02:00,720 --> 01:02:02,720
+or 5,000 years.
+
+1002
+01:02:02,720 --> 01:02:04,720
+Our cohabitation with artificial intelligence
+
+1003
+01:02:04,720 --> 01:02:07,720
+will always be a problem in a billion years.
+
+1004
+01:02:07,720 --> 01:02:10,720
+It's not a problem that will stop.
+
+1005
+01:02:10,720 --> 01:02:13,720
+So, the synergies, whatever the form,
+
+1006
+01:02:13,720 --> 01:02:16,720
+between AI and biological intelligence,
+
+1007
+01:02:16,720 --> 01:02:19,720
+which could lead to the disappearance
+
+1008
+01:02:19,720 --> 01:02:22,720
+of human intelligence, maybe one day,
+
+1009
+01:02:22,720 --> 01:02:24,720
+or to its fusion with artificial intelligence
+
+1010
+01:02:24,720 --> 01:02:26,720
+in the form of cyborgization,
+
+1011
+01:02:26,720 --> 01:02:28,720
+the relations will be complicated
+
+1012
+01:02:28,720 --> 01:02:30,720
+and will be durably complicated.
+
+1013
+01:02:30,720 --> 01:02:34,720
+So, we must not roll on the ground
+
+1014
+01:02:34,720 --> 01:02:37,720
+and start to cry the first day.
+
+1015
+01:02:37,720 --> 01:02:40,720
+We have these difficulties of managing artificial intelligence
+
+1016
+01:02:40,720 --> 01:02:42,720
+on our backs
+
+1017
+01:02:42,720 --> 01:02:44,720
+at least for the next billion years.
+
+1018
+01:02:44,720 --> 01:02:50,720
+So, yes, it will be very hot
+
+1019
+01:02:50,720 --> 01:02:53,720
+and it will be a subject of continuous concern
+
+1020
+01:02:53,720 --> 01:02:55,720
+for humanity because we are not able
+
+1021
+01:02:55,720 --> 01:02:57,720
+to stop AI
+
+1022
+01:02:57,720 --> 01:03:01,720
+and we will have to live with it
+
+1023
+01:03:01,720 --> 01:03:05,720
+under partial control,
+
+1024
+01:03:05,720 --> 01:03:08,720
+if only because our ability
+
+1025
+01:03:08,720 --> 01:03:11,720
+to predict the evolution of AI is zero.
+
+1026
+01:03:11,720 --> 01:03:15,720
+That's what worries politicians.
+
+1027
+01:03:15,720 --> 01:03:18,720
+The fact that no one has seen the scalability
+
+1028
+01:03:18,720 --> 01:03:21,720
+of LLM is very worrying
+
+1029
+01:03:21,720 --> 01:03:23,720
+because it is quite possible
+
+1030
+01:03:23,720 --> 01:03:25,720
+that we will not see the next steps.
+
+1031
+01:03:25,720 --> 01:03:30,720
+For now, the most serious studies show
+
+1032
+01:03:30,720 --> 01:03:34,720
+that there is no significant emergent property in GPT-4
+
+1033
+01:03:34,720 --> 01:03:37,720
+or artificial consciousness,
+
+1034
+01:03:37,720 --> 01:03:39,720
+we suspected that,
+
+1035
+01:03:39,720 --> 01:03:41,720
+but in the future, we can imagine
+
+1036
+01:03:41,720 --> 01:03:44,720
+that there are AI, not necessarily LLM,
+
+1037
+01:03:44,720 --> 01:03:46,720
+which are emerging properties
+
+1038
+01:03:46,720 --> 01:03:48,720
+that develop without us realizing it.
+
+1039
+01:03:48,720 --> 01:03:51,720
+Monitoring the arrival of AI
+
+1040
+01:03:51,720 --> 01:03:55,720
+could be very complicated.
+
+1041
+01:03:55,720 --> 01:03:58,720
+We are just starting to think about these issues
+
+1042
+01:03:58,720 --> 01:04:04,720
+and I share what Nick Bostrom said,
+
+1043
+01:04:04,720 --> 01:04:08,720
+we are 30 years behind,
+
+1044
+01:04:08,720 --> 01:04:13,720
+we should have started thinking about AI control in 1990,
+
+1045
+01:04:13,720 --> 01:04:15,720
+civil society and politicians
+
+1046
+01:04:15,720 --> 01:04:17,720
+were not interested,
+
+1047
+01:04:17,720 --> 01:04:19,720
+we have to think about it now.
+
+1048
+01:04:21,720 --> 01:04:24,720
+I know you told me before the show
+
+1049
+01:04:24,720 --> 01:04:26,720
+that you could stay for an hour,
+
+1050
+01:04:26,720 --> 01:04:29,720
+if you agree to stay a little longer,
+
+1051
+01:04:29,720 --> 01:04:31,720
+I can take questions from the audience.
+
+1052
+01:04:31,720 --> 01:04:32,720
+Yes, OK.
+
+1053
+01:04:32,720 --> 01:04:34,720
+I did not do it,
+
+1054
+01:04:34,720 --> 01:04:36,720
+there are people who asked me for the floor
+
+1055
+01:04:36,720 --> 01:04:38,720
+during the show,
+
+1056
+01:04:38,720 --> 01:04:40,720
+I did not accept, sorry friends,
+
+1057
+01:04:40,720 --> 01:04:43,720
+because I wanted to manage the watch.
+
+1058
+01:04:43,720 --> 01:04:45,720
+If there are some of you who want to react
+
+1059
+01:04:45,720 --> 01:04:47,720
+on things that were said during the show,
+
+1060
+01:04:47,720 --> 01:04:49,720
+ask me the speaker role now,
+
+1061
+01:04:49,720 --> 01:04:51,720
+I will give you the floor.
+
+1062
+01:04:51,720 --> 01:04:54,720
+Just try to be relevant and concise.
+
+1063
+01:04:54,720 --> 01:04:57,720
+Not me, games in my life,
+
+1064
+01:04:57,720 --> 01:05:00,720
+very short and very relevant please.
+
+1065
+01:05:00,720 --> 01:05:04,720
+While waiting for people to ask me,
+
+1066
+01:05:04,720 --> 01:05:08,720
+I wanted to ask you a question,
+
+1067
+01:05:08,720 --> 01:05:10,720
+because it's a topic you addressed on Tinkerview,
+
+1068
+01:05:10,720 --> 01:05:14,720
+and I thought it was great that you address this question,
+
+1069
+01:05:14,720 --> 01:05:16,720
+because it's something I thought a lot about.
+
+1070
+01:05:16,720 --> 01:05:18,720
+Do you think it's possible,
+
+1071
+01:05:18,720 --> 01:05:21,720
+I know the answer a little bit,
+
+1072
+01:05:21,720 --> 01:05:23,720
+do you think it's possible
+
+1073
+01:05:23,720 --> 01:05:27,720
+that humanity is just a passing thing
+
+1074
+01:05:27,720 --> 01:05:32,720
+and that we are just there to create robots?
+
+1075
+01:05:33,720 --> 01:05:36,720
+I have long hoped for the opposite.
+
+1076
+01:05:37,720 --> 01:05:42,720
+Our inability to define a good strategy against AI,
+
+1077
+01:05:42,720 --> 01:05:46,720
+our inability to think beyond the limits of education
+
+1078
+01:05:46,720 --> 01:05:49,720
+and to overcome the limits of education,
+
+1079
+01:05:49,720 --> 01:05:53,720
+the extremely fast development of AI,
+
+1080
+01:05:53,720 --> 01:05:56,720
+the very strong scalability of AI,
+
+1081
+01:05:56,720 --> 01:05:59,720
+to use a term I have already used,
+
+1082
+01:05:59,720 --> 01:06:01,720
+make me doubt.
+
+1083
+01:06:01,720 --> 01:06:06,720
+In a previous book, I wrote
+
+1084
+01:06:06,720 --> 01:06:08,720
+that we must save the Michelin Guide,
+
+1085
+01:06:08,720 --> 01:06:12,720
+that we must avoid the cyborgization of man,
+
+1086
+01:06:12,720 --> 01:06:17,720
+and we must keep a libido, appetite,
+
+1087
+01:06:17,720 --> 01:06:20,720
+we must keep our human, biological passions
+
+1088
+01:06:20,720 --> 01:06:23,720
+linked to the presence of our physical body.
+
+1089
+01:06:23,720 --> 01:06:28,720
+Today, I have the impression
+
+1090
+01:06:28,720 --> 01:06:31,720
+that the battle is being lost,
+
+1091
+01:06:31,720 --> 01:06:35,720
+and that in reality, as Musk said for a long time,
+
+1092
+01:06:35,720 --> 01:06:38,720
+human intelligence, the human neuron,
+
+1093
+01:06:38,720 --> 01:06:43,720
+is the hard drive for the start of AI.
+
+1094
+01:06:43,720 --> 01:06:47,720
+Because it is clear that an AI cannot be made
+
+1095
+01:06:47,720 --> 01:06:51,720
+from a pile of stones on a planet,
+
+1096
+01:06:51,720 --> 01:06:56,720
+whereas life can appear relatively quickly on a planet,
+
+1097
+01:06:56,720 --> 01:06:58,720
+in a very simple form at the beginning,
+
+1098
+01:06:58,720 --> 01:07:01,720
+with increasing sophistication.
+
+1099
+01:07:02,720 --> 01:07:08,720
+The neuron appeared on Earth about 550 million years ago,
+
+1100
+01:07:08,720 --> 01:07:12,720
+life being a little less than 4 billion years.
+
+1101
+01:07:12,720 --> 01:07:16,720
+So we had 3.5 billion years without neurons.
+
+1102
+01:07:16,720 --> 01:07:21,720
+It takes time for the Darwinian selection to lead to neurons.
+
+1103
+01:07:21,720 --> 01:07:24,720
+So the neuron is 550 million years old,
+
+1104
+01:07:24,720 --> 01:07:30,720
+human conceptual intelligence is about 200-250 thousand years old,
+
+1105
+01:07:30,720 --> 01:07:34,720
+and the transistor was born in 1947,
+
+1106
+01:07:34,720 --> 01:07:36,720
+which won the Nobel Prize at Schöckle,
+
+1107
+01:07:36,720 --> 01:07:40,720
+and GPT 3.5 less than a year later.
+
+1108
+01:07:40,720 --> 01:07:44,720
+So we see that the neuron's rhythm is very slow
+
+1109
+01:07:44,720 --> 01:07:48,720
+compared to the rhythm of artificial intelligence.
+
+1110
+01:07:48,720 --> 01:07:51,720
+Today we are very clearly above artificial intelligence,
+
+1111
+01:07:51,720 --> 01:07:53,720
+even if it is above us on a regular basis.
+
+1112
+01:07:53,720 --> 01:07:56,720
+We are not yet facing the AI,
+
+1113
+01:07:56,720 --> 01:07:58,720
+but the AI is progressing much faster than us,
+
+1114
+01:07:58,720 --> 01:08:01,720
+even if we are the parents, it doesn't change anything.
+
+1115
+01:08:01,720 --> 01:08:06,720
+In the great debate that was developed in Mosk's biography,
+
+1116
+01:08:06,720 --> 01:08:09,720
+between Larry Page and Mosk,
+
+1117
+01:08:09,720 --> 01:08:13,720
+Larry Page explained that the time of the biological brain was over,
+
+1118
+01:08:13,720 --> 01:08:15,720
+that we should not be obstinate,
+
+1119
+01:08:15,720 --> 01:08:18,720
+that we should now leave the time to the AI
+
+1120
+01:08:18,720 --> 01:08:22,720
+because the biological brain could not be competitive,
+
+1121
+01:08:23,720 --> 01:08:28,720
+with Mosk explaining that we should increase man,
+
+1122
+01:08:28,720 --> 01:08:31,720
+that's why he created Neuralink,
+
+1123
+01:08:31,720 --> 01:08:34,720
+that we should increase man to save the biological body
+
+1124
+01:08:34,720 --> 01:08:38,720
+and avoid the control of AI.
+
+1125
+01:08:38,720 --> 01:08:44,720
+In this debate, I have long hoped that Mosk could be right.
+
+1126
+01:08:44,720 --> 01:08:47,720
+The more it's been going on in recent months,
+
+1127
+01:08:47,720 --> 01:08:51,720
+the more I think Larry Page is right, even if I regret it.
+
+1128
+01:08:51,720 --> 01:08:55,720
+I would like the Michelin Guide not to disappear.
+
+1129
+01:08:55,720 --> 01:09:00,720
+I am afraid that it will disappear and that the biological neuron will lose the battle,
+
+1130
+01:09:00,720 --> 01:09:04,720
+not tomorrow morning, but in 500 years, in 1000 years, in 5000 years.
+
+1131
+01:09:04,720 --> 01:09:07,720
+I don't see how we could last very long,
+
+1132
+01:09:07,720 --> 01:09:10,720
+even with intracerebral prostheses,
+
+1133
+01:09:10,720 --> 01:09:14,720
+even if Neuralink worked one day in neuro enhancement.
+
+1134
+01:09:14,720 --> 01:09:17,720
+The limitations of our intellectual capacities,
+
+1135
+01:09:17,720 --> 01:09:20,720
+the limitations of our amnesic capacities,
+
+1136
+01:09:20,720 --> 01:09:25,720
+the biological limitations of the neuron are very, very strong.
+
+1137
+01:09:25,720 --> 01:09:29,720
+We cannot significantly increase the number of neurons,
+
+1138
+01:09:29,720 --> 01:09:36,720
+we cannot increase the speed of electro-biochemical conduction in our brain,
+
+1139
+01:09:36,720 --> 01:09:39,720
+our amnesic capacity is very limited,
+
+1140
+01:09:39,720 --> 01:09:43,720
+we cannot absolutely retain the whole web,
+
+1141
+01:09:43,720 --> 01:09:49,720
+while AI can have the whole web as a window of attention.
+
+1142
+01:09:49,720 --> 01:09:53,720
+All this makes me doubt.
+
+1143
+01:09:53,720 --> 01:09:56,720
+I am afraid that Larry Page is right,
+
+1144
+01:09:56,720 --> 01:09:59,720
+that the future is a non-biological intelligence,
+
+1145
+01:09:59,720 --> 01:10:03,720
+and I am very sad about it.
+
+1146
+01:10:03,720 --> 01:10:07,720
+Thank you very much for this long answer.
+
+1147
+01:10:07,720 --> 01:10:11,720
+I see people who asked me for the role of speaker,
+
+1148
+01:10:11,720 --> 01:10:14,720
+the problem is that I can't accept them,
+
+1149
+01:10:14,720 --> 01:10:17,720
+that's why I gave you Laurent from MEV Capital,
+
+1150
+01:10:17,720 --> 01:10:20,720
+I put you host, I don't know if you see them,
+
+1151
+01:10:20,720 --> 01:10:24,720
+if you can accept people, but it doesn't work for me.
+
+1152
+01:10:24,720 --> 01:10:27,720
+As soon as I see someone, with pleasure.
+
+1153
+01:10:27,720 --> 01:10:32,720
+Twitter Space is known for having bugs all the time,
+
+1154
+01:10:32,720 --> 01:10:35,720
+I'm not even surprised by that.
+
+1155
+01:10:35,720 --> 01:10:38,720
+I don't know if Riku or Quarle wanted to ask a question,
+
+1156
+01:10:38,720 --> 01:10:41,720
+but I'm sorry for those who wanted to ask questions,
+
+1157
+01:10:41,720 --> 01:10:44,720
+I can't accept you, I see 4 people waiting.
+
+1158
+01:10:44,720 --> 01:10:47,720
+Good evening.
+
+1159
+01:10:47,720 --> 01:10:50,720
+It was very interesting, good evening sir.
+
+1160
+01:10:50,720 --> 01:10:53,720
+It's true that from your speech,
+
+1161
+01:10:53,720 --> 01:10:56,720
+we want to intervene, either to overdo it,
+
+1162
+01:10:56,720 --> 01:10:59,720
+or to add something, it's not easy,
+
+1163
+01:10:59,720 --> 01:11:04,720
+because we are many here, and we can't all speak.
+
+1164
+01:11:05,720 --> 01:11:08,720
+Artificial intelligence is problematic,
+
+1165
+01:11:08,720 --> 01:11:11,720
+because it raises a lot of questions,
+
+1166
+01:11:11,720 --> 01:11:14,720
+and we wonder if it will not go beyond us.
+
+1167
+01:11:18,720 --> 01:11:21,720
+It will go beyond us.
+
+1168
+01:11:21,720 --> 01:11:26,720
+There is no AI expert who thinks that AI will not go beyond us.
+
+1169
+01:11:26,720 --> 01:11:30,720
+The debate between Hinton, Bengio and Lequin,
+
+1170
+01:11:30,720 --> 01:11:33,720
+is not about going beyond.
+
+1171
+01:11:33,720 --> 01:11:38,720
+Even Lequin has explained many times that AI will go beyond us.
+
+1172
+01:11:38,720 --> 01:11:41,720
+The debate today is between Lequin,
+
+1173
+01:11:41,720 --> 01:11:45,720
+who says we are entering the light, and AI will never be hostile,
+
+1174
+01:11:45,720 --> 01:11:48,720
+and then Bengio and Hinton,
+
+1175
+01:11:48,720 --> 01:11:51,720
+the other two co-creators of deep neural networks,
+
+1176
+01:11:51,720 --> 01:11:54,720
+who see the end of the world in a short time,
+
+1177
+01:11:54,720 --> 01:11:57,720
+if we don't regulate AI strongly.
+
+1178
+01:11:57,720 --> 01:12:00,720
+So we will be outdone.
+
+1179
+01:12:00,720 --> 01:12:03,720
+I am not an expert, I have not read anything,
+
+1180
+01:12:03,720 --> 01:12:06,720
+going in the opposite direction.
+
+1181
+01:12:06,720 --> 01:12:09,720
+Everyone is convinced that AI will go beyond us,
+
+1182
+01:12:09,720 --> 01:12:12,720
+and that it will at least reach the AGI.
+
+1183
+01:12:12,720 --> 01:12:15,720
+Not necessarily in a thousand days,
+
+1184
+01:12:15,720 --> 01:12:18,720
+not necessarily in 2000 days, but at the end of the next decade.
+
+1185
+01:12:18,720 --> 01:12:21,720
+So the debate is no longer so much about whether we are going to be outdone,
+
+1186
+01:12:21,720 --> 01:12:23,720
+we are going to be.
+
+1187
+01:12:23,720 --> 01:12:26,720
+In medicine, I am outdone by AI.
+
+1188
+01:12:26,720 --> 01:12:29,720
+Strongly outdone.
+
+1189
+01:12:29,720 --> 01:12:32,720
+I was telling you earlier how I tested a nurse with GPT-4
+
+1190
+01:12:32,720 --> 01:12:35,720
+versus me without GPT-4.
+
+1191
+01:12:35,720 --> 01:12:38,720
+I am outdone.
+
+1192
+01:12:38,720 --> 01:12:41,720
+It's not the nurse.
+
+1193
+01:12:41,720 --> 01:12:44,720
+Where it's scary,
+
+1194
+01:12:44,720 --> 01:12:47,720
+is where we have awareness.
+
+1195
+01:12:47,720 --> 01:12:50,720
+For automation,
+
+1196
+01:12:50,720 --> 01:12:53,720
+to do very fast calculations,
+
+1197
+01:12:53,720 --> 01:12:56,720
+we had to have a very high level of knowledge.
+
+1198
+01:12:56,720 --> 01:12:59,720
+We knew that computer science
+
+1199
+01:12:59,720 --> 01:13:02,720
+was capable of surprising things,
+
+1200
+01:13:02,720 --> 01:13:05,720
+but today we are at a turning point.
+
+1201
+01:13:05,720 --> 01:13:08,720
+It's about creativity.
+
+1202
+01:13:08,720 --> 01:13:11,720
+Writing books,
+
+1203
+01:13:11,720 --> 01:13:14,720
+creating pictorial works,
+
+1204
+01:13:14,720 --> 01:13:17,720
+maybe soon animation,
+
+1205
+01:13:17,720 --> 01:13:20,720
+or maybe making films, we don't know.
+
+1206
+01:13:20,720 --> 01:13:23,720
+And that's where I think humans feel a little outdone.
+
+1207
+01:13:23,720 --> 01:13:26,720
+It's as much enthusiasm
+
+1208
+01:13:26,720 --> 01:13:29,720
+as it's scary.
+
+1209
+01:13:29,720 --> 01:13:32,720
+On innovation,
+
+1210
+01:13:32,720 --> 01:13:35,720
+if you want to be a little scared,
+
+1211
+01:13:35,720 --> 01:13:38,720
+read the Wall Street Journal article
+
+1212
+01:13:38,720 --> 01:13:41,720
+three weeks ago
+
+1213
+01:13:41,720 --> 01:13:44,720
+detailing the study that was done in Wharton.
+
+1214
+01:13:44,720 --> 01:13:47,720
+We opposed the students
+
+1215
+01:13:47,720 --> 01:13:50,720
+of the Wharton MBA,
+
+1216
+01:13:50,720 --> 01:13:53,720
+which is the third or fourth best MBA in the world,
+
+1217
+01:13:53,720 --> 01:13:56,720
+according to the years, with GPT-4.
+
+1218
+01:13:56,720 --> 01:13:59,720
+In the definition of original ideas,
+
+1219
+01:13:59,720 --> 01:14:02,720
+new ideas, new business and marketing concepts.
+
+1220
+01:14:02,720 --> 01:14:05,720
+GPT-4 has crushed the students of the Wharton MBA
+
+1221
+01:14:05,720 --> 01:14:08,720
+who are among the best students in the United States of America.
+
+1222
+01:14:08,720 --> 01:14:11,720
+So on creativity,
+
+1223
+01:14:11,720 --> 01:14:14,720
+things are more worrying than we imagined.
+
+1224
+01:14:14,720 --> 01:14:17,720
+The LLM are very innovative,
+
+1225
+01:14:17,720 --> 01:14:20,720
+they have a lot of original ideas.
+
+1226
+01:14:20,720 --> 01:14:23,720
+Last night I was telling this
+
+1227
+01:14:23,720 --> 01:14:26,720
+to a friend of mine
+
+1228
+01:14:26,720 --> 01:14:29,720
+who is a politician.
+
+1229
+01:14:29,720 --> 01:14:32,720
+I was very struck last week.
+
+1230
+01:14:32,720 --> 01:14:35,720
+I asked GPT-4
+
+1231
+01:14:35,720 --> 01:14:38,720
+to imagine the next book
+
+1232
+01:14:38,720 --> 01:14:41,720
+by Laurent Lextrand.
+
+1233
+01:14:41,720 --> 01:14:44,720
+And to summarize,
+
+1234
+01:14:44,720 --> 01:14:47,720
+I asked him to pitch.
+
+1235
+01:14:47,720 --> 01:14:50,720
+And GPT-4
+
+1236
+01:14:50,720 --> 01:14:53,720
+found a title that was close to my new book.
+
+1237
+01:14:56,720 --> 01:14:59,720
+And in addition,
+
+1238
+01:14:59,720 --> 01:15:02,720
+it made a summary of this new book
+
+1239
+01:15:02,720 --> 01:15:05,720
+that is very close to the plan of my next book.
+
+1240
+01:15:05,720 --> 01:15:08,720
+Not The War of the Intelligences by Chet GPT,
+
+1241
+01:15:08,720 --> 01:15:11,720
+but the next one coming out in April 2024.
+
+1242
+01:15:11,720 --> 01:15:14,720
+And I am very happy to have GPT-4
+
+1243
+01:15:14,720 --> 01:15:17,720
+approach the title of my new book
+
+1244
+01:15:17,720 --> 01:15:20,720
+and the content of my new book.
+
+1245
+01:15:20,720 --> 01:15:23,720
+This proves that he has a prospective thinking
+
+1246
+01:15:23,720 --> 01:15:26,720
+in relation to what he knows
+
+1247
+01:15:26,720 --> 01:15:29,720
+about my previous books,
+
+1248
+01:15:29,720 --> 01:15:32,720
+which is quite strong.
+
+1249
+01:15:32,720 --> 01:15:35,720
+And that is very disturbing.
+
+1250
+01:15:35,720 --> 01:15:38,720
+Because if I ask a human being
+
+1251
+01:15:38,720 --> 01:15:41,720
+to do something,
+
+1252
+01:15:41,720 --> 01:15:44,720
+he will not do it.
+
+1253
+01:15:44,720 --> 01:15:47,720
+GPT-4 is disturbing.
+
+1254
+01:15:47,720 --> 01:15:50,720
+Do you have a reluctance
+
+1255
+01:15:50,720 --> 01:15:53,720
+that Chet GPT
+
+1256
+01:15:53,720 --> 01:15:56,720
+can feed on your works,
+
+1257
+01:15:56,720 --> 01:15:59,720
+your writings,
+
+1258
+01:15:59,720 --> 01:16:02,720
+and can anticipate your next works?
+
+1259
+01:16:02,720 --> 01:16:05,720
+So, if he has access to my books,
+
+1260
+01:16:05,720 --> 01:16:08,720
+I am very happy.
+
+1261
+01:16:08,720 --> 01:16:11,720
+If he reads my books, I am very happy.
+
+1262
+01:16:11,720 --> 01:16:14,720
+I am just troubled that by reading
+
+1263
+01:16:14,720 --> 01:16:17,720
+what has been written about my books
+
+1264
+01:16:17,720 --> 01:16:20,720
+and what has been written about me
+
+1265
+01:16:20,720 --> 01:16:23,720
+and what is on the web,
+
+1266
+01:16:23,720 --> 01:16:26,720
+he can predict what I will produce in the future.
+
+1267
+01:16:26,720 --> 01:16:29,720
+Let's say that someone else
+
+1268
+01:16:29,720 --> 01:16:32,720
+does this work,
+
+1269
+01:16:32,720 --> 01:16:35,720
+which is not really a complicated job.
+
+1270
+01:16:35,720 --> 01:16:38,720
+It's just giving Chet GPT
+
+1271
+01:16:38,720 --> 01:16:41,720
+or other people the content of your writings
+
+1272
+01:16:41,720 --> 01:16:44,720
+and asking them to produce a new work.
+
+1273
+01:16:44,720 --> 01:16:47,720
+It will be done.
+
+1274
+01:16:47,720 --> 01:16:50,720
+The creators will be challenged by the AI
+
+1275
+01:16:50,720 --> 01:16:53,720
+and also by men who will ask the AI
+
+1276
+01:16:53,720 --> 01:16:56,720
+to do plagiarism
+
+1277
+01:16:56,720 --> 01:16:59,720
+or to do a mitou of what other intellectuals do.
+
+1278
+01:16:59,720 --> 01:17:02,720
+It will be very troubling for the intellectuals.
+
+1279
+01:17:02,720 --> 01:17:05,720
+We are only at the beginning of this situation.
+
+1280
+01:17:05,720 --> 01:17:08,720
+I have a friend
+
+1281
+01:17:08,720 --> 01:17:11,720
+who is a very high-ranking civil servant.
+
+1282
+01:17:11,720 --> 01:17:14,720
+One of my friends from the National Assembly
+
+1283
+01:17:14,720 --> 01:17:17,720
+who has a very important position in the State Department.
+
+1284
+01:17:17,720 --> 01:17:20,720
+I won't say who it is.
+
+1285
+01:17:20,720 --> 01:17:23,720
+The first letter of his name.
+
+1286
+01:17:23,720 --> 01:17:26,720
+I am joking.
+
+1287
+01:17:26,720 --> 01:17:29,720
+It will be very difficult
+
+1288
+01:17:29,720 --> 01:17:32,720
+when the minister's surface tacticians
+
+1289
+01:17:32,720 --> 01:17:35,720
+will come up with a 200-page plan
+
+1290
+01:17:35,720 --> 01:17:38,720
+that they will have written by GPT-6.
+
+1291
+01:17:38,720 --> 01:17:41,720
+What will we have to do?
+
+1292
+01:17:41,720 --> 01:17:44,720
+When the carpenter will come
+
+1293
+01:17:44,720 --> 01:17:47,720
+to the Ministry of Research with a plan
+
+1294
+01:17:47,720 --> 01:17:50,720
+that he has written by GPT-6
+
+1295
+01:17:50,720 --> 01:17:53,720
+to reform the Ministry,
+
+1296
+01:17:53,720 --> 01:17:56,720
+to reorganize the CNRS.
+
+1297
+01:17:56,720 --> 01:17:59,720
+If that makes sense, there is nothing wrong with it.
+
+1298
+01:17:59,720 --> 01:18:02,720
+There is nothing alarming.
+
+1299
+01:18:02,720 --> 01:18:05,720
+It doesn't make sense because it's GPT-6 that he wrote.
+
+1300
+01:18:05,720 --> 01:18:08,720
+It's not a work of a carpenter.
+
+1301
+01:18:08,720 --> 01:18:11,720
+So what?
+
+1302
+01:18:11,720 --> 01:18:14,720
+We will be overwhelmed with billions of pages
+
+1303
+01:18:14,720 --> 01:18:17,720
+that will be produced by people
+
+1304
+01:18:17,720 --> 01:18:20,720
+who will have just pressed a button on GPT-6.
+
+1305
+01:18:20,720 --> 01:18:23,720
+When all the average people will have 5,000 pages per day
+
+1306
+01:18:23,720 --> 01:18:26,720
+written by GPT-6.
+
+1307
+01:18:26,720 --> 01:18:29,720
+But for good reason, sir.
+
+1308
+01:18:29,720 --> 01:18:32,720
+You explained earlier that in the class struggle
+
+1309
+01:18:32,720 --> 01:18:35,720
+and in intellectual inequalities,
+
+1310
+01:18:35,720 --> 01:18:38,720
+it risks digging a little more the gap.
+
+1311
+01:18:38,720 --> 01:18:41,720
+And I think that these people who can generate writings,
+
+1312
+01:18:41,720 --> 01:18:44,720
+will they be able to understand them above all?
+
+1313
+01:18:44,720 --> 01:18:47,720
+The answer is no, of course.
+
+1314
+01:18:47,720 --> 01:18:50,720
+But there won't be enough time for the Minister's staff.
+
+1315
+01:18:50,720 --> 01:18:53,720
+To do the execution.
+
+1316
+01:18:53,720 --> 01:18:56,720
+We can write 200 pages,
+
+1317
+01:18:56,720 --> 01:18:59,720
+but then there is the execution.
+
+1318
+01:18:59,720 --> 01:19:02,720
+It's not the AI that will do it.
+
+1319
+01:19:02,720 --> 01:19:05,720
+I didn't say the opposite.
+
+1320
+01:19:05,720 --> 01:19:08,720
+I said that we will be overwhelmed with content produced by the middle management
+
+1321
+01:19:08,720 --> 01:19:11,720
+that will actually have been done by GPT-6.
+
+1322
+01:19:11,720 --> 01:19:14,720
+And if you want, when you are a manager in a company,
+
+1323
+01:19:14,720 --> 01:19:17,720
+if all the middle managers under you
+
+1324
+01:19:17,720 --> 01:19:20,720
+make you write 5,000 pages per day,
+
+1325
+01:19:20,720 --> 01:19:23,720
+it will be complicated to manage.
+
+1326
+01:19:23,720 --> 01:19:26,720
+We have important cognitive obesity in the future.
+
+1327
+01:19:26,720 --> 01:19:29,720
+In fact, it is enough to use AI to absorb all these pages
+
+1328
+01:19:29,720 --> 01:19:32,720
+that are sent by these people who have used other AI.
+
+1329
+01:19:32,720 --> 01:19:35,720
+There is still a danger,
+
+1330
+01:19:35,720 --> 01:19:38,720
+which is that all the political and entrepreneurial decisions
+
+1331
+01:19:38,720 --> 01:19:41,720
+are in IA and IA-IQ loops.
+
+1332
+01:19:42,720 --> 01:19:45,720
+Without humans inside.
+
+1333
+01:19:45,720 --> 01:19:48,720
+For the simple and good reason that no human will be able to read
+
+1334
+01:19:48,720 --> 01:19:51,720
+a billion pages a day.
+
+1335
+01:19:51,720 --> 01:19:54,720
+So, what will be the role of humans?
+
+1336
+01:19:54,720 --> 01:19:57,720
+It will be the decision-making.
+
+1337
+01:19:57,720 --> 01:20:00,720
+I'm not sure.
+
+1338
+01:20:00,720 --> 01:20:03,720
+In a plane, it's not the pilot who decides.
+
+1339
+01:20:03,720 --> 01:20:06,720
+And fortunately, because the pilot is not able to decide
+
+1340
+01:20:06,720 --> 01:20:09,720
+what to do,
+
+1341
+01:20:10,720 --> 01:20:13,720
+the data is not being interpreted in real time.
+
+1342
+01:20:13,720 --> 01:20:16,720
+In an Airbus A350, there are 5,000 sensors.
+
+1343
+01:20:16,720 --> 01:20:19,720
+It produces teraoctets of data.
+
+1344
+01:20:19,720 --> 01:20:22,720
+No human being is able to aggregate the data.
+
+1345
+01:20:22,720 --> 01:20:25,720
+So, the pilot does not decide.
+
+1346
+01:20:25,720 --> 01:20:28,720
+And I remind you that the last time the pilot decided
+
+1347
+01:20:28,720 --> 01:20:31,720
+instead of the on-board computer, we were in the ocean.
+
+1348
+01:20:31,720 --> 01:20:34,720
+So, I'm not at all sure that the decision will remain human.
+
+1349
+01:20:34,720 --> 01:20:37,720
+I would like that in medicine,
+
+1350
+01:20:38,720 --> 01:20:41,720
+the final decision is made by the doctor.
+
+1351
+01:20:41,720 --> 01:20:44,720
+But I'm a cancerologist.
+
+1352
+01:20:44,720 --> 01:20:47,720
+The DNA sequencing of a tumor is 20 teraoctets.
+
+1353
+01:20:47,720 --> 01:20:50,720
+It's 20 billion octets.
+
+1354
+01:20:50,720 --> 01:20:53,720
+20 billion data.
+
+1355
+01:20:53,720 --> 01:20:56,720
+I can make you believe that I'm going to read
+
+1356
+01:20:56,720 --> 01:20:59,720
+the 20 billion data before choosing chemotherapy.
+
+1357
+01:20:59,720 --> 01:21:02,720
+But that would be a lie.
+
+1358
+01:21:02,720 --> 01:21:05,720
+Even if I make a conclusion,
+
+1359
+01:21:06,720 --> 01:21:09,720
+even if I make a long consultation,
+
+1360
+01:21:09,720 --> 01:21:12,720
+8 minutes,
+
+1361
+01:21:12,720 --> 01:21:15,720
+I'm not going to read 20 billion data in 8 minutes
+
+1362
+01:21:15,720 --> 01:21:18,720
+by interpreting them
+
+1363
+01:21:18,720 --> 01:21:21,720
+and by crossing them with the rest of the medical file
+
+1364
+01:21:21,720 --> 01:21:24,720
+which will also inflate with the sensors,
+
+1365
+01:21:24,720 --> 01:21:27,720
+with the data-driven medicine,
+
+1366
+01:21:27,720 --> 01:21:30,720
+personalized medicine, etc.
+
+1367
+01:21:30,720 --> 01:21:33,720
+So, in reality, to think that we will keep the decision
+
+1368
+01:21:34,720 --> 01:21:37,720
+in a world where there will be a billion times more data
+
+1369
+01:21:37,720 --> 01:21:40,720
+than our brain is capable of processing,
+
+1370
+01:21:40,720 --> 01:21:43,720
+is an illusion.
+
+1371
+01:21:43,720 --> 01:21:46,720
+I think that's already the case.
+
+1372
+01:21:46,720 --> 01:21:49,720
+Yes, but it's not to the degree it is today.
+
+1373
+01:21:49,720 --> 01:21:52,720
+The maximum capacity for absorption
+
+1374
+01:21:52,720 --> 01:21:55,720
+or integration of information
+
+1375
+01:21:55,720 --> 01:21:58,720
+for an average brain
+
+1376
+01:21:58,720 --> 01:22:01,720
+has already been exceeded.
+
+1377
+01:22:02,720 --> 01:22:05,720
+So, on that note, I think we're already...
+
+1378
+01:22:05,720 --> 01:22:08,720
+It has been barely exceeded.
+
+1379
+01:22:08,720 --> 01:22:11,720
+Today, there are still many areas where you can make a decision
+
+1380
+01:22:11,720 --> 01:22:14,720
+because there is not yet too much data.
+
+1381
+01:22:14,720 --> 01:22:17,720
+Tomorrow, there will be many areas
+
+1382
+01:22:17,720 --> 01:22:20,720
+where we will be saturated on the cognitive level.
+
+1383
+01:22:20,720 --> 01:22:23,720
+I see that there are two great experts
+
+1384
+01:22:23,720 --> 01:22:26,720
+in the regulation of AI
+
+1385
+01:22:26,720 --> 01:22:29,720
+who are Brivell and Laodice.
+
+1386
+01:22:29,720 --> 01:22:32,720
+I advise you to follow them on Twitter.
+
+1387
+01:22:32,720 --> 01:22:35,720
+They are two exceptional people in the field of understanding.
+
+1388
+01:22:35,720 --> 01:22:38,720
+You know that for 30 years,
+
+1389
+01:22:38,720 --> 01:22:41,720
+in finance and in computer development,
+
+1390
+01:22:41,720 --> 01:22:44,720
+we have already been submerged in data
+
+1391
+01:22:44,720 --> 01:22:47,720
+and we have managed to manage it.
+
+1392
+01:22:47,720 --> 01:22:50,720
+Yes, but it is not to be generalized.
+
+1393
+01:22:50,720 --> 01:22:53,720
+It is not on the whole of human activity.
+
+1394
+01:22:53,720 --> 01:22:56,720
+The problem we will have
+
+1395
+01:22:56,720 --> 01:22:59,720
+is that we will have a growing part of human activity
+
+1396
+01:22:59,720 --> 01:23:02,720
+where we will be cognitively exceeded
+
+1397
+01:23:02,720 --> 01:23:05,720
+and where the volumetric data will be too important.
+
+1398
+01:23:05,720 --> 01:23:08,720
+We do not have the tools to regulate.
+
+1399
+01:23:08,720 --> 01:23:11,720
+We do not have the tools to teach people
+
+1400
+01:23:11,720 --> 01:23:14,720
+to manage this cognitive obesity,
+
+1401
+01:23:14,720 --> 01:23:17,720
+to sort out the information, which is very complicated, very difficult.
+
+1402
+01:23:17,720 --> 01:23:20,720
+That is why Google did not bring
+
+1403
+01:23:20,720 --> 01:23:23,720
+what the founders of the Internet hoped for.
+
+1404
+01:23:23,720 --> 01:23:26,720
+The founders of the Internet hoped
+
+1405
+01:23:26,720 --> 01:23:29,720
+that intellectual inequalities would collapse
+
+1406
+01:23:29,720 --> 01:23:32,720
+thanks to Google and thanks to the Internet.
+
+1407
+01:23:32,720 --> 01:23:35,720
+Since everyone would have access to all the world's knowledge for free,
+
+1408
+01:23:35,720 --> 01:23:38,720
+there would be no more intellectual inequalities.
+
+1409
+01:23:38,720 --> 01:23:41,720
+What web creators like Tim Berners-Lee
+
+1410
+01:23:41,720 --> 01:23:44,720
+and the founders of the search engines did not understand
+
+1411
+01:23:44,720 --> 01:23:47,720
+was that, on the contrary, Google increased intellectual inequalities
+
+1412
+01:23:47,720 --> 01:23:50,720
+because it brings too much information
+
+1413
+01:23:50,720 --> 01:23:53,720
+and that many people have trouble sorting out the information,
+
+1414
+01:23:53,720 --> 01:23:56,720
+especially because they read slowly.
+
+1415
+01:23:56,720 --> 01:23:59,720
+There is a bonus, even before artificial intelligence,
+
+1416
+01:23:59,720 --> 01:24:02,720
+to people who can read quickly,
+
+1417
+01:24:02,720 --> 01:24:05,720
+to sort out and hierarchize information.
+
+1418
+01:24:05,720 --> 01:24:08,720
+As everyone can see,
+
+1419
+01:24:08,720 --> 01:24:11,720
+contrary to what the founders of the Internet hoped,
+
+1420
+01:24:11,720 --> 01:24:14,720
+the Internet did not eliminate intellectual inequalities,
+
+1421
+01:24:14,720 --> 01:24:17,720
+it maintained them, or even increased them.
+
+1422
+01:24:18,720 --> 01:24:21,720
+This world of cognitive obesity
+
+1423
+01:24:21,720 --> 01:24:24,720
+is a world that may be unfair
+
+1424
+01:24:24,720 --> 01:24:27,720
+because it may increase the barrier
+
+1425
+01:24:27,720 --> 01:24:30,720
+between those who are able to sort out and hierarchize information
+
+1426
+01:24:30,720 --> 01:24:33,720
+and to properly interface human intelligence and artificial intelligence.
+
+1427
+01:24:33,720 --> 01:24:36,720
+I fear that we will enter
+
+1428
+01:24:36,720 --> 01:24:39,720
+two or three decades of very difficult social conditions
+
+1429
+01:24:39,720 --> 01:24:42,720
+with a lot of sadness and grief
+
+1430
+01:24:42,720 --> 01:24:45,720
+for people who will be overwhelmed
+
+1431
+01:24:45,720 --> 01:24:48,720
+by the speed of technological advances
+
+1432
+01:24:48,720 --> 01:24:51,720
+and their inability to add value
+
+1433
+01:24:51,720 --> 01:24:54,720
+in this mountain of intelligence that is overwhelming us
+
+1434
+01:24:54,720 --> 01:24:57,720
+and that will require a lot of regulation.
+
+1435
+01:24:57,720 --> 01:25:00,720
+This is why I do not believe in the death of the framework
+
+1436
+01:25:00,720 --> 01:25:03,720
+and the death of work.
+
+1437
+01:25:03,720 --> 01:25:06,720
+I think that it will take a lot of frameworks
+
+1438
+01:25:06,720 --> 01:25:09,720
+to regulate these flows of intelligence,
+
+1439
+01:25:09,720 --> 01:25:12,720
+manage hybridization,
+
+1440
+01:25:12,720 --> 01:25:15,720
+between biological intelligence and human intelligence.
+
+1441
+01:25:15,720 --> 01:25:18,720
+I am entirely in agreement with you, sir,
+
+1442
+01:25:18,720 --> 01:25:21,720
+especially on the fact that later
+
+1443
+01:25:21,720 --> 01:25:24,720
+we will always need management frameworks.
+
+1444
+01:25:24,720 --> 01:25:27,720
+But this is already the case.
+
+1445
+01:25:27,720 --> 01:25:30,720
+There are more and more new generations
+
+1446
+01:25:30,720 --> 01:25:33,720
+who are being fooled, in particular by social networks,
+
+1447
+01:25:33,720 --> 01:25:36,720
+by TikTok, etc., by the ease of obtaining
+
+1448
+01:25:36,720 --> 01:25:39,720
+attention by films, things like that.
+
+1449
+01:25:39,720 --> 01:25:42,720
+And the ease with which Wikipedia
+
+1450
+01:25:42,720 --> 01:25:45,720
+has brought a lot of knowledge
+
+1451
+01:25:45,720 --> 01:25:48,720
+at hand in a very accessible way,
+
+1452
+01:25:48,720 --> 01:25:51,720
+it has not helped people
+
+1453
+01:25:51,720 --> 01:25:54,720
+to become intellectual
+
+1454
+01:25:54,720 --> 01:25:57,720
+and to learn things.
+
+1455
+01:25:57,720 --> 01:26:00,720
+Because the closer the information is,
+
+1456
+01:26:00,720 --> 01:26:03,720
+the less curious people are.
+
+1457
+01:26:03,720 --> 01:26:06,720
+I think we are going to face problems
+
+1458
+01:26:06,720 --> 01:26:09,720
+because it is a society that will know
+
+1459
+01:26:09,720 --> 01:26:12,720
+dizzying gaps between people
+
+1460
+01:26:12,720 --> 01:26:15,720
+who will have the decision-making power
+
+1461
+01:26:15,720 --> 01:26:18,720
+in this society and people who,
+
+1462
+01:26:18,720 --> 01:26:21,720
+unfortunately, will be, as you say,
+
+1463
+01:26:21,720 --> 01:26:24,720
+overwhelmed by this information.
+
+1464
+01:26:24,720 --> 01:26:27,720
+Yes, but we must not idealize the past.
+
+1465
+01:26:27,720 --> 01:26:30,720
+If you take the statistics of 1980,
+
+1466
+01:26:30,720 --> 01:26:33,720
+before the individual computer, before the Internet,
+
+1467
+01:26:33,720 --> 01:26:36,720
+before Google, before the AI,
+
+1468
+01:26:36,720 --> 01:26:39,720
+a very large majority of French people
+
+1469
+01:26:39,720 --> 01:26:42,720
+never read books.
+
+1470
+01:26:42,720 --> 01:26:45,720
+So the lack of curiosity is not born with the Internet
+
+1471
+01:26:45,720 --> 01:26:48,720
+and digital technologies.
+
+1472
+01:26:48,720 --> 01:26:51,720
+There was already a very, very little intellectual curiosity
+
+1473
+01:26:51,720 --> 01:26:54,720
+in the past and we can see it very well
+
+1474
+01:26:54,720 --> 01:26:57,720
+in the small proportion of people who read,
+
+1475
+01:26:57,720 --> 01:27:00,720
+including before the digital era.
+
+1476
+01:27:00,720 --> 01:27:03,720
+I think the last intervention from the audience
+
+1477
+01:27:03,720 --> 01:27:06,720
+before we close this special,
+
+1478
+01:27:06,720 --> 01:27:09,720
+which is of excellent quality.
+
+1479
+01:27:09,720 --> 01:27:12,720
+Yes, thank you very much. Good evening everyone.
+
+1480
+01:27:12,720 --> 01:27:15,720
+Perhaps a first message to thank Dr. Alexandra
+
+1481
+01:27:15,720 --> 01:27:18,720
+for her brilliant intervention.
+
+1482
+01:27:18,720 --> 01:27:21,720
+We are a little used to these very granular
+
+1483
+01:27:21,720 --> 01:27:24,720
+and very striking interventions.
+
+1484
+01:27:24,720 --> 01:27:27,720
+I am personally in phase with a lot of things
+
+1485
+01:27:27,720 --> 01:27:30,720
+that are moving forward, knowing that I have been for a while.
+
+1486
+01:27:30,720 --> 01:27:33,720
+The question I asked is a bit of a semantic order.
+
+1487
+01:27:33,720 --> 01:27:36,720
+Let's assume that the biological neuron
+
+1488
+01:27:36,720 --> 01:27:39,720
+is really overwhelmed by the cilician neuron
+
+1489
+01:27:39,720 --> 01:27:42,720
+because the speed of information is much faster,
+
+1490
+01:27:42,720 --> 01:27:45,720
+because the evolution of AI is exponential, etc.
+
+1491
+01:27:45,720 --> 01:27:48,720
+In the end, is it possible to have a solution
+
+1492
+01:27:48,720 --> 01:27:51,720
+that is not so much a question of the biological neuron
+
+1493
+01:27:51,720 --> 01:27:54,720
+but of the cilician neuron?
+
+1494
+01:27:54,720 --> 01:28:02,720
+In the end, will a world dominated by this artificial neuron
+
+1495
+01:28:02,720 --> 01:28:07,720
+be significantly different from another?
+
+1496
+01:28:07,720 --> 01:28:10,720
+Knowing that you said it earlier,
+
+1497
+01:28:10,720 --> 01:28:13,720
+we will see lots of AI,
+
+1498
+01:28:13,720 --> 01:28:16,720
+one AI on the left, one on the right.
+
+1499
+01:28:16,720 --> 01:28:19,720
+You were talking about one in a billion
+
+1500
+01:28:19,720 --> 01:28:22,720
+which would be an extremist AI, etc.
+
+1501
+01:28:22,720 --> 01:28:25,720
+In the end, will this world,
+
+1502
+01:28:25,720 --> 01:28:28,720
+in five or ten centuries, be significantly different
+
+1503
+01:28:28,720 --> 01:28:31,720
+from the one dominated by the biological neuron?
+
+1504
+01:28:31,720 --> 01:28:33,720
+Thank you.
+
+1505
+01:28:33,720 --> 01:28:35,720
+I will answer you.
+
+1506
+01:28:35,720 --> 01:28:38,720
+I will take up what I said earlier.
+
+1507
+01:28:38,720 --> 01:28:41,720
+On November 29, 2022,
+
+1508
+01:28:41,720 --> 01:28:44,720
+the day before the release of GPT 3.5,
+
+1509
+01:28:44,720 --> 01:28:47,720
+what GPT-4 does in medicine today,
+
+1510
+01:28:47,720 --> 01:28:51,720
+I did not imagine that possible before 2040 or 2050.
+
+1511
+01:28:52,720 --> 01:28:55,720
+My ability to predict is zero.
+
+1512
+01:28:55,720 --> 01:28:58,720
+I wrote a paper in L'Express,
+
+1513
+01:28:58,720 --> 01:29:01,720
+and futurists will say more and more bullshit.
+
+1514
+01:29:01,720 --> 01:29:04,720
+I think it's true.
+
+1515
+01:29:04,720 --> 01:29:07,720
+So, projecting ourselves into the future is extremely difficult.
+
+1516
+01:29:07,720 --> 01:29:10,720
+I think we are not able to predict
+
+1517
+01:29:10,720 --> 01:29:13,720
+the future of society in the era of AI,
+
+1518
+01:29:13,720 --> 01:29:16,720
+the technological unpredictability,
+
+1519
+01:29:16,720 --> 01:29:19,720
+the unpredictability of society's reactions,
+
+1520
+01:29:20,720 --> 01:29:23,720
+social and political reactions,
+
+1521
+01:29:23,720 --> 01:29:26,720
+is absolutely immense.
+
+1522
+01:29:26,720 --> 01:29:29,720
+We cannot exclude that there are massive yellow vests
+
+1523
+01:29:29,720 --> 01:29:32,720
+in some major countries
+
+1524
+01:29:32,720 --> 01:29:35,720
+whose opinion will understand
+
+1525
+01:29:35,720 --> 01:29:38,720
+its overtaking by AI,
+
+1526
+01:29:38,720 --> 01:29:41,720
+and the great difficulty to gallop behind AI.
+
+1527
+01:29:41,720 --> 01:29:44,720
+So I think predictability is very difficult.
+
+1528
+01:29:44,720 --> 01:29:47,720
+I have a hard time imagining scenarios
+
+1529
+01:29:48,720 --> 01:29:51,720
+I imagine the three basic scenarios,
+
+1530
+01:29:51,720 --> 01:29:54,720
+we do not reach the AGI,
+
+1531
+01:29:54,720 --> 01:29:57,720
+we reach the AGI,
+
+1532
+01:29:57,720 --> 01:30:00,720
+or we reach super intelligence,
+
+1533
+01:30:00,720 --> 01:30:03,720
+with declines behind.
+
+1534
+01:30:03,720 --> 01:30:06,720
+But all the political, economic and social interactions behind
+
+1535
+01:30:06,720 --> 01:30:09,720
+seem extremely difficult to code and synthesize today.
+
+1536
+01:30:09,720 --> 01:30:12,720
+So I think we are not able,
+
+1537
+01:30:12,720 --> 01:30:15,720
+at least I do not feel able,
+
+1538
+01:30:16,720 --> 01:30:19,720
+to predict what will happen in a few decades or a few centuries.
+
+1539
+01:30:19,720 --> 01:30:22,720
+I am afraid,
+
+1540
+01:30:22,720 --> 01:30:25,720
+relatively short term,
+
+1541
+01:30:25,720 --> 01:30:28,720
+that by the end of the decade,
+
+1542
+01:30:28,720 --> 01:30:31,720
+a large part of the population will be afraid.
+
+1543
+01:30:31,720 --> 01:30:34,720
+When you understand that it would be necessary
+
+1544
+01:30:34,720 --> 01:30:37,720
+to make a huge effort to be competitive
+
+1545
+01:30:37,720 --> 01:30:40,720
+with GPT-4,
+
+1546
+01:30:40,720 --> 01:30:43,720
+and that it takes two years of training to be competitive
+
+1547
+01:30:44,720 --> 01:30:47,720
+and that behind it will be GPT-7,
+
+1548
+01:30:47,720 --> 01:30:50,720
+and then Claude V, Claude VI,
+
+1549
+01:30:50,720 --> 01:30:53,720
+and then maybe Mistral 11,
+
+1550
+01:30:53,720 --> 01:30:56,720
+where the IAC modules,
+
+1551
+01:30:56,720 --> 01:30:59,720
+Brivael and Laodice,
+
+1552
+01:30:59,720 --> 01:31:02,720
+will build us,
+
+1553
+01:31:02,720 --> 01:31:05,720
+I am afraid that the opinion is not.
+
+1554
+01:31:05,720 --> 01:31:08,720
+Because today the rate of change in the trade is low.
+
+1555
+01:31:08,720 --> 01:31:11,720
+When you are a technician at the RATP,
+
+1556
+01:31:12,720 --> 01:31:15,720
+you change the maintenance techniques
+
+1557
+01:31:15,720 --> 01:31:18,720
+of the trams or the subways very slowly.
+
+1558
+01:31:18,720 --> 01:31:21,720
+Here we are facing breakdowns in the training needs
+
+1559
+01:31:21,720 --> 01:31:24,720
+which are absolutely considerable.
+
+1560
+01:31:24,720 --> 01:31:27,720
+So I am quite worried.
+
+1561
+01:31:27,720 --> 01:31:30,720
+To tell you the truth,
+
+1562
+01:31:30,720 --> 01:31:33,720
+as a doctor,
+
+1563
+01:31:33,720 --> 01:31:36,720
+I am very worried about my overtaking by IAC.
+
+1564
+01:31:36,720 --> 01:31:39,720
+It is much faster than I imagined.
+
+1565
+01:31:39,720 --> 01:31:42,720
+It is worrying.
+
+1566
+01:31:42,720 --> 01:31:45,720
+At the same time, I am not worried because
+
+1567
+01:31:45,720 --> 01:31:48,720
+even though I am old and I am almost 64 years old,
+
+1568
+01:31:48,720 --> 01:31:51,720
+I am still learning fast,
+
+1569
+01:31:51,720 --> 01:31:54,720
+and until I join the RATP,
+
+1570
+01:31:54,720 --> 01:31:57,720
+I will remain competitive against the IAC.
+
+1571
+01:31:57,720 --> 01:32:00,720
+In any case, it is plausible.
+
+1572
+01:32:00,720 --> 01:32:03,720
+But there are a lot of people who have less facility to learn,
+
+1573
+01:32:03,720 --> 01:32:06,720
+or less time to learn,
+
+1574
+01:32:06,720 --> 01:32:09,720
+and who will have a hard time.
+
+1575
+01:32:09,720 --> 01:32:12,720
+And who could be afraid.
+
+1576
+01:32:12,720 --> 01:32:15,720
+I think the Yellow Vests will panic.
+
+1577
+01:32:15,720 --> 01:32:18,720
+I have discussed with many Yellow Vests,
+
+1578
+01:32:18,720 --> 01:32:21,720
+in private, on the radio and on TV,
+
+1579
+01:32:21,720 --> 01:32:24,720
+at the time of the crisis of the Yellow Vests.
+
+1580
+01:32:24,720 --> 01:32:27,720
+I have seen their anxiety,
+
+1581
+01:32:27,720 --> 01:32:30,720
+their concerns about the complexity of the world,
+
+1582
+01:32:30,720 --> 01:32:33,720
+the difficulty of the world,
+
+1583
+01:32:33,720 --> 01:32:36,720
+the difficulty of following the evolution of the professions, etc.
+
+1584
+01:32:36,720 --> 01:32:39,720
+I am afraid that the technological cavalcade
+
+1585
+01:32:39,720 --> 01:32:42,720
+that is at work today with the LLM
+
+1586
+01:32:42,720 --> 01:32:45,720
+is leading to new crises for the Yellow Vests.
+
+1587
+01:32:45,720 --> 01:32:48,720
+I think we should anticipate it.
+
+1588
+01:32:48,720 --> 01:32:51,720
+So, this is not a direct answer to your question,
+
+1589
+01:32:51,720 --> 01:32:54,720
+to your remark.
+
+1590
+01:32:54,720 --> 01:32:57,720
+I think we cannot predict the future.
+
+1591
+01:32:57,720 --> 01:33:00,720
+I think we can simply prepare it a little
+
+1592
+01:33:01,720 --> 01:33:04,720
+by detecting the places where there are the biggest political bombs.
+
+1593
+01:33:04,720 --> 01:33:07,720
+And these places are mainly, in my opinion,
+
+1594
+01:33:07,720 --> 01:33:10,720
+education and school,
+
+1595
+01:33:10,720 --> 01:33:13,720
+given the very great limitations
+
+1596
+01:33:13,720 --> 01:33:16,720
+of educational technology
+
+1597
+01:33:16,720 --> 01:33:19,720
+and continuous education technology for adults,
+
+1598
+01:33:19,720 --> 01:33:22,720
+which have never demonstrated their ability
+
+1599
+01:33:22,720 --> 01:33:25,720
+to reduce cognitive inequalities,
+
+1600
+01:33:25,720 --> 01:33:28,720
+which have never demonstrated their ability
+
+1601
+01:33:29,720 --> 01:33:32,720
+to significantly help people
+
+1602
+01:33:32,720 --> 01:33:35,720
+to increase their cognitive level.
+
+1603
+01:33:35,720 --> 01:33:38,720
+There is only one person who told the truth about this,
+
+1604
+01:33:38,720 --> 01:33:41,720
+but he was very angry about it.
+
+1605
+01:33:41,720 --> 01:33:44,720
+It was Macron before he was elected,
+
+1606
+01:33:44,720 --> 01:33:47,720
+when he spoke about the workers of Gade in Brittany.
+
+1607
+01:33:47,720 --> 01:33:50,720
+He said they have a lot of trouble,
+
+1608
+01:33:50,720 --> 01:33:53,720
+most of them do not know how to read,
+
+1609
+01:33:53,720 --> 01:33:56,720
+they will have trouble to train to change professions.
+
+1610
+01:33:57,720 --> 01:34:00,720
+It was an intrusive reality,
+
+1611
+01:34:00,720 --> 01:34:03,720
+and he was very angry about it.
+
+1612
+01:34:03,720 --> 01:34:06,720
+We dare not say the truth today
+
+1613
+01:34:06,720 --> 01:34:09,720
+about the difficulty people may have
+
+1614
+01:34:09,720 --> 01:34:12,720
+to learn new things, to train for new professions.
+
+1615
+01:34:12,720 --> 01:34:15,720
+In the era of the technological tornado at work today,
+
+1616
+01:34:15,720 --> 01:34:18,720
+we may have to break this taboo
+
+1617
+01:34:18,720 --> 01:34:21,720
+to ask ourselves the real questions
+
+1618
+01:34:21,720 --> 01:34:24,720
+about how we can help people who do not learn quickly,
+
+1619
+01:34:24,720 --> 01:34:27,720
+how we can help people who are not very innovative,
+
+1620
+01:34:27,720 --> 01:34:30,720
+how we can help people who have less intellectual facilities.
+
+1621
+01:34:30,720 --> 01:34:33,720
+These are taboo questions,
+
+1622
+01:34:33,720 --> 01:34:36,720
+and they cannot be taboo questions
+
+1623
+01:34:36,720 --> 01:34:39,720
+a few months after the GPT-5.
+
+1624
+01:34:39,720 --> 01:34:42,720
+We must break the taboo to work seriously
+
+1625
+01:34:42,720 --> 01:34:45,720
+on the development of educational technology
+
+1626
+01:34:45,720 --> 01:34:48,720
+that limits the cognitive limitations
+
+1627
+01:34:48,720 --> 01:34:51,720
+of our most fragile citizens,
+
+1628
+01:34:51,720 --> 01:34:54,720
+who will be in trouble
+
+1629
+01:34:54,720 --> 01:34:57,720
+in the later versions of GPT-4 and its successors.
+
+1630
+01:35:00,720 --> 01:35:03,720
+Thank you for this answer and for this question.
+
+1631
+01:35:03,720 --> 01:35:06,720
+I think we can leave it there.
+
+1632
+01:35:06,720 --> 01:35:09,720
+Thank you very much for coming tonight,
+
+1633
+01:35:09,720 --> 01:35:12,720
+it was very enriching.
+
+1634
+01:35:12,720 --> 01:35:15,720
+Thank you to all those who came to listen,
+
+1635
+01:35:15,720 --> 01:35:18,720
+and thank you to those who intervened,
+
+1636
+01:35:18,720 --> 01:35:21,720
+especially Laurent from MEV Capital,
+
+1637
+01:35:21,720 --> 01:35:24,720
+and then Emy, Thiomar, Réko.
+
+1638
+01:35:24,720 --> 01:35:27,720
+It was a real pleasure.
+
+1639
+01:35:27,720 --> 01:35:30,720
+I hope you enjoyed it too, Laurent.
+
+1640
+01:35:30,720 --> 01:35:33,720
+It was nice.
+
+1641
+01:35:33,720 --> 01:35:36,720
+For my readers, those who read my book
+
+1642
+01:35:36,720 --> 01:35:39,720
+The War of Intelligence at the time of each GPT,
+
+1643
+01:35:39,720 --> 01:35:42,720
+if you have any questions in private message,
+
+1644
+01:35:42,720 --> 01:35:45,720
+you can ask me and I will answer you on points
+
+1645
+01:35:45,720 --> 01:35:48,720
+that you think are debatable.
+
+1646
+01:35:48,720 --> 01:35:51,720
+There were a lot of comments,
+
+1647
+01:35:51,720 --> 01:35:54,720
+I see 36 comments from the space.
+
+1648
+01:35:54,720 --> 01:35:57,720
+If you want to look at what's in there,
+
+1649
+01:35:57,720 --> 01:36:00,720
+see if you want to answer or not.
+
+1650
+01:36:00,720 --> 01:36:03,720
+I didn't read any, because I thought
+
+1651
+01:36:03,720 --> 01:36:06,720
+it would take too long, but there are small points
+
+1652
+01:36:06,720 --> 01:36:09,720
+that have been addressed that we could even
+
+1653
+01:36:09,720 --> 01:36:12,720
+address in another show if you want.
+
+1654
+01:36:12,720 --> 01:36:15,720
+It takes hours to talk about it,
+
+1655
+01:36:15,720 --> 01:36:18,720
+so it's complicated.
+
+1656
+01:36:18,720 --> 01:36:21,720
+Thank you very much for coming again.
+
+1657
+01:36:21,720 --> 01:36:24,720
+We'll meet tomorrow, for those who want to come tomorrow,
+
+1658
+01:36:24,720 --> 01:36:27,720
+it will be an open mic.
+
+1659
+01:36:27,720 --> 01:36:30,720
+Radio Shad, every night from 10pm.
+
+1660
+01:36:30,720 --> 01:36:33,720
+We'll leave with a little music,
+
+1661
+01:36:33,720 --> 01:36:36,720
+with Donny Warwick, with Don't Make Me Over.
+
+1662
+01:36:36,720 --> 01:36:39,720
+Thank you very much, Dr. Alexandre.
+
+1663
+01:36:39,720 --> 01:36:42,720
+If possible, in the near future,
+
+1664
+01:36:42,720 --> 01:36:45,720
+you can consider a new approach
+
+1665
+01:36:45,720 --> 01:36:48,720
+to blockchain technology,
+
+1666
+01:36:48,720 --> 01:36:51,720
+but from a purely technological point of view,
+
+1667
+01:36:51,720 --> 01:36:54,720
+on the association of good things,
+
+1668
+01:36:54,720 --> 01:36:57,720
+not just bad things, for the AI of the future.
+
+1669
+01:36:57,720 --> 01:37:00,720
+We think there is a real technological elegance,
+
+1670
+01:37:00,720 --> 01:37:03,720
+a beautiful synergy that is really in front of us,
+
+1671
+01:37:03,720 --> 01:37:06,720
+that we wanted to study with you.
+
+1672
+01:37:06,720 --> 01:37:09,720
+There are many good things to learn
+
+1673
+01:37:09,720 --> 01:37:12,720
+in this technology.
+
+1674
+01:37:12,720 --> 01:37:15,720
+We'll leave it at that.
+
+1675
+01:37:15,720 --> 01:37:18,720
+Thank you, bye.

@@ -1,0 +1,6939 @@
+1
+00:00:00,000 --> 00:00:04,560
+Avant de commencer cet épisode, je vous invite tous à aller sur RadioShad.com
+
+2
+00:00:04,560 --> 00:00:09,360
+Vous allez avoir tout sur l'émission, vous allez avoir le lien pour Spotify et le lien pour Patreon
+
+3
+00:00:09,360 --> 00:00:14,000
+Donc ça permet de m'aider à réaliser ces émissions. Voilà, allez bonne écoute!
+
+4
+00:00:14,840 --> 00:00:19,440
+Bienvenue sur RadioShad, on est le mardi, mardi 23 janvier 2024
+
+5
+00:00:19,440 --> 00:00:23,520
+Et on a commencé cette émission avec une musique d'Aphex Twin
+
+6
+00:00:23,520 --> 00:00:27,360
+Mon matos de musique m'a lâché juste avant l'émission
+
+7
+00:00:27,400 --> 00:00:31,920
+Donc je me suis dit je vais faire ça, je vais mettre du Aphex Twin en introduction
+
+8
+00:00:33,280 --> 00:00:39,680
+Bienvenue à tous, vous êtes nombreux, il y a une grosse grosse crowd de fans d'Ultra
+
+9
+00:00:39,680 --> 00:00:44,240
+C'est super cool et donc c'est ça, ce soir c'est une émission spéciale gaming blockchain
+
+10
+00:00:44,720 --> 00:00:46,840
+Et avec un focus sur Ultra
+
+11
+00:00:47,200 --> 00:00:50,920
+Et c'est pour ça que j'ai invité David pour discuter du projet
+
+12
+00:00:50,920 --> 00:00:54,160
+Et puis aussi parler un petit peu de blockchain gaming
+
+13
+00:00:54,160 --> 00:00:55,200
+Ça va, ça va David?
+
+14
+00:00:58,360 --> 00:00:59,680
+Ça va bien, tu m'entends?
+
+15
+00:00:59,680 --> 00:01:00,680
+Ouais, je t'entends super bien
+
+16
+00:01:01,800 --> 00:01:02,800
+Super
+
+17
+00:01:03,240 --> 00:01:04,880
+Voilà, comment tu trouves mon titre?
+
+18
+00:01:06,960 --> 00:01:12,560
+Je vais dire à chaque fois que je viens chez toi, je me ramasse toujours un peu une série de claques
+
+19
+00:01:12,920 --> 00:01:14,920
+Donc ça commence bien avec le titre
+
+20
+00:01:17,320 --> 00:01:25,400
+Ouais, j'ai voulu être fair en même temps, genre je pense que Ultra c'est impossible
+
+21
+00:01:25,400 --> 00:01:26,520
+Non mais t'as raison, tu sais
+
+22
+00:01:27,000 --> 00:01:33,320
+Ici on voit un petit peu ce qui se passe ici sur le marché, je veux dire globalement
+
+23
+00:01:33,320 --> 00:01:38,720
+Et puis dans ce genre d'environnement c'est toujours la fin du monde
+
+24
+00:01:38,720 --> 00:01:43,560
+C'est pas la première fois que ça arrive, c'est pas la dernière fois
+
+25
+00:01:43,560 --> 00:01:50,120
+Mais c'est vrai que dans ce genre d'environnement où tout le monde est morose etc.
+
+26
+00:01:50,120 --> 00:01:54,560
+On a plutôt tendance à être doom and gloom
+
+27
+00:01:55,080 --> 00:01:58,880
+Mais comme je disais, c'est pas la première fois, c'est pas la dernière fois
+
+28
+00:01:58,880 --> 00:02:03,480
+Nous on continue de bosser sur nos objectifs, on sait ce qu'on fait
+
+29
+00:02:03,480 --> 00:02:10,560
+On sait toutes les choses qui se passent, peut-être pas publiquement mais qui se passent
+
+30
+00:02:10,560 --> 00:02:19,320
+Donc je veux dire grosso modo notre équipe est motivée et continue à regarder nos objectifs
+
+31
+00:02:19,920 --> 00:02:25,680
+Et à atteindre ce qu'on planifie sur un month by month basis
+
+32
+00:02:25,680 --> 00:02:32,920
+D'ailleurs avant de parler d'Ultra et tout, si on parle d'être morose
+
+33
+00:02:32,920 --> 00:02:37,760
+Est-ce que tu penses que, parce que là tout le monde est à fond dans le space ici
+
+34
+00:02:37,760 --> 00:02:39,760
+Tout le monde est dans les cryptos, c'est pas toujours le cas
+
+35
+00:02:39,760 --> 00:02:42,720
+Des fois il y a des gens qui sont pas entièrement dans les cryptos et tout
+
+36
+00:02:42,720 --> 00:02:44,720
+Mais je pense que ce soir oui
+
+37
+00:02:44,720 --> 00:02:46,720
+Tu penses quoi du marché en ce moment?
+
+38
+00:02:46,720 --> 00:02:52,320
+On retourne vers le bear market ou c'est juste un petit passage un peu bizarre?
+
+39
+00:02:54,320 --> 00:02:58,320
+Est-ce que tu penses qu'on s'en va vers un boule ou un bear?
+
+40
+00:02:58,320 --> 00:03:01,320
+La question à un million
+
+41
+00:03:05,720 --> 00:03:08,320
+Je t'entends pas du tout, je sais pas si c'est moi
+
+42
+00:03:08,320 --> 00:03:10,320
+Tu t'entends pas du tout du tout?
+
+43
+00:03:10,320 --> 00:03:12,320
+Ah là c'est ça, je t'entends, ouais
+
+44
+00:03:12,920 --> 00:03:17,920
+Ce que je disais, c'est que ce que j'ai remarqué avec les bear market
+
+45
+00:03:17,920 --> 00:03:20,920
+Enfin plutôt pardon les bitcoin halvening
+
+46
+00:03:20,920 --> 00:03:23,920
+C'est que ça n'a jamais été ce qui a été prévu
+
+47
+00:03:23,920 --> 00:03:31,920
+Ça a toujours été une surprise, il y a toujours eu des choses qui étaient non prévues
+
+48
+00:03:31,920 --> 00:03:38,920
+Mais donc c'est hyper difficile autour de ces périodes de savoir ce qui se passe
+
+49
+00:03:39,520 --> 00:03:43,520
+Parce qu'en fait c'est vraiment les gros joueurs qui mettent la cadence du reste du marché
+
+50
+00:03:43,520 --> 00:03:47,520
+Et puis les gros joueurs ils regardent ce qui se dit
+
+51
+00:03:47,520 --> 00:03:51,520
+Quand tout le monde est gloom c'est là qu'ils attendent un peu et qu'ils se positionnent
+
+52
+00:03:51,520 --> 00:03:54,520
+Et ensuite tout se change
+
+53
+00:03:54,520 --> 00:03:58,520
+Les halvening on a tendance à les acheter tôt
+
+54
+00:03:58,520 --> 00:04:01,520
+Puis après les halvening etc
+
+55
+00:04:01,520 --> 00:04:07,520
+Et donc il faut un petit peu regarder quel est le sentiment global et faire l'inverse
+
+56
+00:04:08,120 --> 00:04:12,120
+Ça c'est mon expérience depuis la naissance du bitcoin
+
+57
+00:04:12,120 --> 00:04:17,120
+Autour des halvening les gros ils regardent ça
+
+58
+00:04:17,120 --> 00:04:23,120
+Ils ont des outils qui sont hyper profonds dans tous les réseaux sociaux
+
+59
+00:04:23,120 --> 00:04:29,120
+Et qui établissent l'ambiance générale
+
+60
+00:04:29,120 --> 00:04:34,120
+Et puis c'est en fonction de ça que eux font leurs moves
+
+61
+00:04:34,720 --> 00:04:44,720
+Donc nous on est beaucoup plus enclin à réagir par rapport à nos émotions
+
+62
+00:04:44,720 --> 00:04:47,720
+Qu'eux regardent les datas
+
+63
+00:04:47,720 --> 00:04:50,720
+Ils laissent un petit peu mijoter la situation
+
+64
+00:04:50,720 --> 00:04:55,720
+Et puis quand ça se stabilise pendant un certain moment ils font leurs moves
+
+65
+00:04:55,720 --> 00:04:58,720
+Ça c'est ce que j'ai vu avec tous les halvening
+
+66
+00:04:58,720 --> 00:05:03,720
+Donc ici à mon avis ce sera la même chose il n'y a pas de raison que ça change
+
+67
+00:05:04,320 --> 00:05:08,320
+Je pense aussi qu'un truc qu'il faut comprendre
+
+68
+00:05:08,320 --> 00:05:17,320
+C'est que la situation du marché crypto est tout à fait
+
+69
+00:05:17,320 --> 00:05:22,320
+Si tu veux corrélé aussi avec le marché global
+
+70
+00:05:22,320 --> 00:05:26,320
+Ici on voit il y a beaucoup de choses qui se passent
+
+71
+00:05:26,320 --> 00:05:31,320
+Qui ne se passent pas bien au niveau mondial
+
+72
+00:05:31,920 --> 00:05:39,920
+On a l'économie en Chine qui était un moteur aussi pour l'économie plus dans l'ouest
+
+73
+00:05:39,920 --> 00:05:47,920
+Ici tout se crache là-bas, ils ont plein de problèmes qui tombent comme des dominos
+
+74
+00:05:47,920 --> 00:05:54,920
+Ce qui fait que derrière nous la production aussi se ralentit
+
+75
+00:05:54,920 --> 00:05:59,920
+Donc voilà il y a ça aussi en travail de background
+
+76
+00:06:00,520 --> 00:06:04,520
+Il y a un événement ici qui à mon avis va se passer
+
+77
+00:06:04,520 --> 00:06:08,520
+Je pense que Trump va être élu
+
+78
+00:06:08,520 --> 00:06:11,520
+Il y a de très grandes chances que Trump va être élu
+
+79
+00:06:11,520 --> 00:06:16,520
+Et si Trump est élu je t'assure que le moment où c'est annoncé
+
+80
+00:06:16,520 --> 00:06:18,520
+Un petit peu avant quand il commence à avoir les chiffres
+
+81
+00:06:18,520 --> 00:06:20,520
+Est-ce que ça va être Trump? Oui non?
+
+82
+00:06:20,520 --> 00:06:26,520
+Je pense qu'il va être élu et quand ce sera le cas les marchés vont directement aller de l'autre côté
+
+83
+00:06:27,120 --> 00:06:29,120
+Et ça c'est garantie
+
+84
+00:06:29,120 --> 00:06:33,120
+Parce que c'est un gars qui est vraiment à fond branché marché
+
+85
+00:06:33,120 --> 00:06:35,120
+Pro capitalisme
+
+86
+00:06:35,120 --> 00:06:39,120
+Les marchés n'attendent que ça, tous les traders n'attendent que ça
+
+87
+00:06:39,120 --> 00:06:43,120
+Et je pense que vu les chiffres qu'on a vu
+
+88
+00:06:43,120 --> 00:06:48,120
+C'est à mon avis quasi garantie que Trump va gagner
+
+89
+00:06:48,120 --> 00:06:53,120
+Donc c'est bon pour le monde de la crypto
+
+90
+00:06:53,720 --> 00:06:55,720
+Et ça va se passer autour du half running
+
+91
+00:06:55,720 --> 00:06:57,720
+Donc ça va être deux en un à mon avis
+
+92
+00:06:57,720 --> 00:07:01,720
+On va avoir un revirement de la situation
+
+93
+00:07:01,720 --> 00:07:06,720
+Dans tous les cas là sauf si ça arrive avant ce moment là
+
+94
+00:07:06,720 --> 00:07:11,720
+Alors du coup est-ce qu'on va avoir un jeu AAA sur Ultra avant l'élection Trump?
+
+95
+00:07:11,720 --> 00:07:17,720
+Alors le jeu AAA en closed beta je pense
+
+96
+00:07:17,720 --> 00:07:19,720
+Je pense
+
+97
+00:07:20,320 --> 00:07:24,320
+Je vais mettre les pieds dans le plat
+
+98
+00:07:24,320 --> 00:07:29,320
+Il y a plein de gens qui ont posé plein de questions sur Telegram
+
+99
+00:07:29,320 --> 00:07:31,320
+Il y a eu une grosse discussion sur Telegram
+
+100
+00:07:31,320 --> 00:07:36,320
+Il y a eu des questions sur Twitter dans les commentaires et tout
+
+101
+00:07:36,320 --> 00:07:41,320
+C'est une émission participative comme toutes les autres émissions
+
+102
+00:07:41,320 --> 00:07:45,320
+Donc pas tout de suite tout de suite mais un petit peu plus tard
+
+103
+00:07:45,920 --> 00:07:48,920
+Si les gens qui nous écoutez en ce moment
+
+104
+00:07:48,920 --> 00:07:50,920
+Si vous voulez poser des questions, dire des choses
+
+105
+00:07:50,920 --> 00:07:52,920
+Demandez moi le rôle du speaker
+
+106
+00:07:52,920 --> 00:07:54,920
+Je vous donnerai la parole
+
+107
+00:07:54,920 --> 00:07:57,920
+Soyez juste concis et pertinent
+
+108
+00:07:57,920 --> 00:07:59,920
+Parce qu'on n'a pas beaucoup de temps devant nous
+
+109
+00:07:59,920 --> 00:08:01,920
+David a une heure
+
+110
+00:08:01,920 --> 00:08:05,920
+Donc on va essayer de faire ça assez bien ficelé
+
+111
+00:08:07,920 --> 00:08:09,920
+Alors du coup ma première question c'est
+
+112
+00:08:09,920 --> 00:08:11,920
+Alors Ultra ça en est où?
+
+113
+00:08:12,520 --> 00:08:16,520
+Après 5 ans, ça fait un peu plus de 5 ans que le projet est en développement
+
+114
+00:08:16,520 --> 00:08:20,520
+Où vous en êtes là en ce moment?
+
+115
+00:08:22,520 --> 00:08:24,520
+Alors
+
+116
+00:08:24,520 --> 00:08:26,520
+Où on en est?
+
+117
+00:08:26,520 --> 00:08:30,520
+Grosso modo toutes les fondations sont terminées
+
+118
+00:08:30,520 --> 00:08:34,520
+Donc on a la L1 qui est stable qui fonctionne
+
+119
+00:08:34,520 --> 00:08:41,520
+On a une Chrome extension qui est aussi stable qui fonctionne
+
+120
+00:08:42,120 --> 00:08:45,120
+On a notre client, on a la game distribution
+
+121
+00:08:45,120 --> 00:08:47,120
+Il y a encore un peu de travail de ce côté là
+
+122
+00:08:47,120 --> 00:08:51,120
+Il y a aussi un facelift qui est schedule
+
+123
+00:08:51,120 --> 00:08:53,120
+Pour se mettre au goût du jour
+
+124
+00:08:53,120 --> 00:08:55,120
+Des plus gros styles, plus grosses images
+
+125
+00:08:55,120 --> 00:08:58,120
+Un truc plus sexy, plus moderne
+
+126
+00:08:58,120 --> 00:09:04,120
+On a l'NFT standard qui vraiment prend des formes incroyables
+
+127
+00:09:04,120 --> 00:09:07,120
+Depuis maintenant 6 mois, 8 mois
+
+128
+00:09:07,120 --> 00:09:09,120
+Vraiment en pleine accélération
+
+129
+00:09:09,720 --> 00:09:12,720
+Avec ça en tandem on a un API
+
+130
+00:09:12,720 --> 00:09:17,720
+Pour les développeurs de jeux vidéo mais également de DAP
+
+131
+00:09:17,720 --> 00:09:23,720
+Qui va d'ailleurs avoir une version 2
+
+132
+00:09:23,720 --> 00:09:27,720
+Ici sur laquelle on est occupé à travailler
+
+133
+00:09:27,720 --> 00:09:29,720
+Qui va permettre en gros tout ce qui touche
+
+134
+00:09:29,720 --> 00:09:31,720
+Aux jeux vidéo
+
+135
+00:09:32,320 --> 00:09:39,320
+Alors ça a coupé chez moi
+
+136
+00:09:43,320 --> 00:09:45,320
+Est-ce qu'il y a que moi qui n'entend pas?
+
+137
+00:09:45,320 --> 00:09:47,320
+Ça fait flipper
+
+138
+00:09:47,320 --> 00:09:49,320
+Attends, j'ai un problème ici avec mon truc
+
+139
+00:09:49,320 --> 00:09:50,320
+Excuse-moi
+
+140
+00:09:50,320 --> 00:09:52,320
+Donc je disais en gros avec cet API
+
+141
+00:09:52,320 --> 00:09:57,320
+Soit tu l'utilises pour une DAP ou pour un jeu
+
+142
+00:09:57,920 --> 00:10:04,920
+Soit tu peux également l'utiliser pour créer un NFT marketplace
+
+143
+00:10:04,920 --> 00:10:08,920
+Donc tu pourras faire un NFT marketplace avec un seul API
+
+144
+00:10:08,920 --> 00:10:11,920
+Donc c'est hyper puissant
+
+145
+00:10:14,920 --> 00:10:16,920
+Donc ça c'est sur le point d'être là
+
+146
+00:10:16,920 --> 00:10:19,920
+Pour l'instant tu sais déjà faire des tonnes de choses
+
+147
+00:10:19,920 --> 00:10:23,920
+Mais avec la V2 tu vas avoir vraiment un pouvoir énorme
+
+148
+00:10:24,520 --> 00:10:27,520
+Donc créer des wallets, créer des marketplaces
+
+149
+00:10:27,520 --> 00:10:30,520
+Tout ça, ça va être vraiment hyper facile
+
+150
+00:10:30,520 --> 00:10:35,520
+Ensuite on a la plateforme eSports
+
+151
+00:10:35,520 --> 00:10:37,520
+Donc Ultra Arena
+
+152
+00:10:37,520 --> 00:10:41,520
+Qui pick up du Steam
+
+153
+00:10:41,520 --> 00:10:44,520
+On commence à voir que les tournois qui sont
+
+154
+00:10:44,520 --> 00:10:47,520
+Sont subscribes de plus en plus rapidement
+
+155
+00:10:47,520 --> 00:10:50,520
+On voit qu'il y a de plus en plus de joueurs différents
+
+156
+00:10:50,520 --> 00:10:52,520
+Qui l'utilisent
+
+157
+00:10:53,120 --> 00:10:59,120
+On a aussi des partnerships qui vont être annoncés
+
+158
+00:10:59,120 --> 00:11:03,120
+Donc il va y avoir des événements dans des endroits physiques
+
+159
+00:11:03,120 --> 00:11:08,120
+Il y a aussi un tournoi avec Bandai Namco sur Tekken
+
+160
+00:11:08,120 --> 00:11:10,120
+Qui va se passer
+
+161
+00:11:10,120 --> 00:11:14,120
+Il y a beaucoup de choses qui se passent
+
+162
+00:11:17,120 --> 00:11:19,120
+Alors ça coupe encore un petit peu
+
+163
+00:11:19,720 --> 00:11:21,720
+Du coup je vais en profiter
+
+164
+00:11:21,720 --> 00:11:23,720
+Je ne sais même pas si
+
+165
+00:11:23,720 --> 00:11:25,720
+Il y a des coupures
+
+166
+00:11:25,720 --> 00:11:27,720
+Je ne sais pas d'où ça vient
+
+167
+00:11:27,720 --> 00:11:29,720
+Je pense que c'est Twitter
+
+168
+00:11:29,720 --> 00:11:31,720
+Oui ça vient de chez moi
+
+169
+00:11:31,720 --> 00:11:33,720
+Je ne sais pas pourquoi ça me fait ça
+
+170
+00:11:33,720 --> 00:11:35,720
+Mais anyway je vais essayer de m'en occuper
+
+171
+00:11:35,720 --> 00:11:37,720
+Donc ce que je disais c'est que
+
+172
+00:11:37,720 --> 00:11:42,720
+En gros on a mis toutes les fondations
+
+173
+00:11:42,720 --> 00:11:45,720
+Nécessaires
+
+174
+00:11:46,320 --> 00:11:49,320
+A pouvoir grower notre écosystème
+
+175
+00:11:49,320 --> 00:11:51,320
+Et maintenant
+
+176
+00:11:51,320 --> 00:11:53,320
+Ce qu'on est occupé à faire
+
+177
+00:11:53,320 --> 00:11:58,320
+C'est s'attaquer aux besoins réels du marché
+
+178
+00:11:58,320 --> 00:12:00,320
+Aux besoins réels des partnerships
+
+179
+00:12:00,320 --> 00:12:02,320
+Aux besoins réels des développeurs
+
+180
+00:12:02,320 --> 00:12:04,320
+C'est à dire que nous à la base
+
+181
+00:12:04,320 --> 00:12:06,320
+Si tu veux tu planifies
+
+182
+00:12:06,320 --> 00:12:08,320
+Tu dis ils vont avoir besoin de CI etc
+
+183
+00:12:08,320 --> 00:12:10,320
+Et après dans la réalité
+
+184
+00:12:10,320 --> 00:12:12,320
+Ils sont là oui mais j'ai besoin
+
+185
+00:12:12,320 --> 00:12:14,320
+Quand j'utilise l'API
+
+186
+00:12:14,920 --> 00:12:16,920
+D'avoir l'ID du NFT
+
+187
+00:12:16,920 --> 00:12:18,920
+Ok on fait cette modification
+
+188
+00:12:18,920 --> 00:12:20,920
+C'est des modifications
+
+189
+00:12:20,920 --> 00:12:22,920
+Du back-end
+
+190
+00:12:22,920 --> 00:12:24,920
+De la documentation de tout ça
+
+191
+00:12:24,920 --> 00:12:26,920
+Et hop c'est bon ils ont cette fonctionnalité
+
+192
+00:12:26,920 --> 00:12:28,920
+Tu passes au suivant
+
+193
+00:12:28,920 --> 00:12:30,920
+Ou tu as quelqu'un qui te dit
+
+194
+00:12:30,920 --> 00:12:32,920
+Pour le partnership on a besoin du login etc
+
+195
+00:12:32,920 --> 00:12:34,920
+Et là on est dans cette phase
+
+196
+00:12:34,920 --> 00:12:36,920
+C'est une phase de maturation
+
+197
+00:12:36,920 --> 00:12:38,920
+De la plateforme
+
+198
+00:12:38,920 --> 00:12:40,920
+Qui nous permet
+
+199
+00:12:40,920 --> 00:12:42,920
+A chaque fois
+
+200
+00:12:43,520 --> 00:12:45,520
+Qu'on termine un de ces travaux
+
+201
+00:12:45,520 --> 00:12:47,520
+De s'adresser à de plus en plus de personnes
+
+202
+00:12:47,520 --> 00:12:49,520
+Parce qu'on a d'autres personnes
+
+203
+00:12:49,520 --> 00:12:51,520
+Ou d'autres partnerships
+
+204
+00:12:51,520 --> 00:12:53,520
+Qui nous ont dit
+
+205
+00:12:53,520 --> 00:12:55,520
+Reviens vers nous
+
+206
+00:12:55,520 --> 00:12:57,520
+Quand tu as ça et ça
+
+207
+00:12:57,520 --> 00:12:59,520
+Et on signe le contrat
+
+208
+00:12:59,520 --> 00:13:01,520
+Et donc là maintenant on est occupé à faire ces choses
+
+209
+00:13:01,520 --> 00:13:03,520
+Et au fur et à mesure on peut les on-boarder
+
+210
+00:13:03,520 --> 00:13:05,520
+Ils peuvent commencer à utiliser notre tech
+
+211
+00:13:05,520 --> 00:13:07,520
+De plus en plus facilement
+
+212
+00:13:07,520 --> 00:13:09,520
+Et on va commencer à avoir des choses
+
+213
+00:13:09,520 --> 00:13:11,520
+De plus en plus intéressantes
+
+214
+00:13:12,120 --> 00:13:14,120
+Donc là
+
+215
+00:13:14,120 --> 00:13:16,120
+Notre priorité actuelle
+
+216
+00:13:16,120 --> 00:13:18,120
+Au niveau d'Ultra
+
+217
+00:13:18,120 --> 00:13:20,120
+C'est de s'assurer
+
+218
+00:13:20,120 --> 00:13:22,120
+Qu'on puisse lancer les jeux exclusifs
+
+219
+00:13:22,120 --> 00:13:24,120
+Donc ceux qu'on a annoncés
+
+220
+00:13:24,120 --> 00:13:26,120
+Mais également ceux qui vont être annoncés
+
+221
+00:13:26,120 --> 00:13:28,120
+Dans un futur proche
+
+222
+00:13:28,120 --> 00:13:30,120
+Dans de bonnes conditions
+
+223
+00:13:30,120 --> 00:13:32,120
+Et dans de bonnes conditions
+
+224
+00:13:32,120 --> 00:13:34,120
+Ça veut dire deux choses
+
+225
+00:13:34,120 --> 00:13:36,120
+Ça veut dire d'un côté
+
+226
+00:13:36,120 --> 00:13:38,120
+Solutionner les manquements techniques
+
+227
+00:13:38,120 --> 00:13:40,120
+Que ces développeurs
+
+228
+00:13:40,720 --> 00:13:42,720
+Nous apportent
+
+229
+00:13:42,720 --> 00:13:44,720
+De un
+
+230
+00:13:44,720 --> 00:13:46,720
+Et de deux
+
+231
+00:13:46,720 --> 00:13:48,720
+S'assurer que
+
+232
+00:13:48,720 --> 00:13:50,720
+On soit en mesure de garder
+
+233
+00:13:50,720 --> 00:13:52,720
+Les utilisateurs qui viennent
+
+234
+00:13:52,720 --> 00:13:54,720
+Parce que c'est bien
+
+235
+00:13:54,720 --> 00:13:56,720
+D'amener des utilisateurs
+
+236
+00:13:56,720 --> 00:13:58,720
+Mais s'ils viennent sur la plateforme
+
+237
+00:13:58,720 --> 00:14:00,720
+Et qu'ils repartent un mois plus tard
+
+238
+00:14:00,720 --> 00:14:02,720
+C'est pas intéressant de faire tout ce taf
+
+239
+00:14:02,720 --> 00:14:04,720
+Donc ici
+
+240
+00:14:04,720 --> 00:14:06,720
+Avant de pouvoir vraiment faire du marketing
+
+241
+00:14:06,720 --> 00:14:08,720
+Et de dépenser nos dollars
+
+242
+00:14:09,320 --> 00:14:11,320
+On veut s'assurer que
+
+243
+00:14:11,320 --> 00:14:13,320
+Quand on dépense le marketing budget
+
+244
+00:14:13,320 --> 00:14:15,320
+Et qu'on commence à faire toutes les actions
+
+245
+00:14:15,320 --> 00:14:17,320
+De marketing
+
+246
+00:14:17,320 --> 00:14:19,320
+On veut que ce soit efficace
+
+247
+00:14:19,320 --> 00:14:21,320
+Parce que
+
+248
+00:14:21,320 --> 00:14:23,320
+Pour faire ce genre de marketing
+
+249
+00:14:23,320 --> 00:14:25,320
+Ça va pas coûter
+
+250
+00:14:25,320 --> 00:14:27,320
+1000 balles
+
+251
+00:14:27,320 --> 00:14:29,320
+Donc quand on va faire les choses
+
+252
+00:14:29,320 --> 00:14:31,320
+On veut s'assurer que vraiment
+
+253
+00:14:31,320 --> 00:14:33,320
+On soit performant
+
+254
+00:14:33,320 --> 00:14:35,320
+Et ça va pouvoir se faire
+
+255
+00:14:35,320 --> 00:14:37,320
+À travers les travaux qu'on fait
+
+256
+00:14:37,920 --> 00:14:39,920
+Et les updates aussi
+
+257
+00:14:39,920 --> 00:14:41,920
+Qui sont occupées à être faites
+
+258
+00:14:41,920 --> 00:14:43,920
+Pour la NFT marketplace
+
+259
+00:14:43,920 --> 00:14:45,920
+Tout ça va aider les utilisateurs à rester
+
+260
+00:14:45,920 --> 00:14:47,920
+Et va nous aider à
+
+261
+00:14:47,920 --> 00:14:49,920
+Lancer les jeux qui vont venir
+
+262
+00:14:49,920 --> 00:14:51,920
+Tu parlais de
+
+263
+00:14:51,920 --> 00:14:53,920
+Tu parlais de
+
+264
+00:14:53,920 --> 00:14:55,920
+D'argent
+
+265
+00:14:55,920 --> 00:14:57,920
+J'ai envie de rebondir là-dessus
+
+266
+00:14:57,920 --> 00:14:59,920
+Comment ça se passe les finances du projet d'ailleurs
+
+267
+00:14:59,920 --> 00:15:01,920
+Est-ce que vous avez
+
+268
+00:15:01,920 --> 00:15:03,920
+Vous pouvez développer encore pendant combien d'années
+
+269
+00:15:03,920 --> 00:15:05,920
+Chaque année tu me poses la même question
+
+270
+00:15:06,520 --> 00:15:08,520
+Chaque année je vais te donner la même réponse
+
+271
+00:15:08,520 --> 00:15:10,520
+On ne discute pas
+
+272
+00:15:10,520 --> 00:15:12,520
+De toutes ces choses-là
+
+273
+00:15:12,520 --> 00:15:14,520
+En public
+
+274
+00:15:14,520 --> 00:15:16,520
+Ah ok d'accord
+
+275
+00:15:16,520 --> 00:15:18,520
+Tant pis
+
+276
+00:15:18,520 --> 00:15:20,520
+Mais j'ai plein de questions
+
+277
+00:15:20,520 --> 00:15:22,520
+Au niveau de
+
+278
+00:15:22,520 --> 00:15:24,520
+Au niveau des jeux
+
+279
+00:15:24,520 --> 00:15:26,520
+Alors j'ai perdu ma question
+
+280
+00:15:26,520 --> 00:15:28,520
+Mais c'est par exemple
+
+281
+00:15:28,520 --> 00:15:30,520
+Oui c'est ça
+
+282
+00:15:30,520 --> 00:15:32,520
+Il y a donc les jeux
+
+283
+00:15:32,520 --> 00:15:34,520
+La particularité d'Ultra
+
+284
+00:15:35,120 --> 00:15:37,120
+Une des particularités c'est de proposer
+
+285
+00:15:37,120 --> 00:15:39,120
+Des jeux qui sont tokenisés
+
+286
+00:15:39,120 --> 00:15:41,120
+Est-ce que les jeux
+
+287
+00:15:41,120 --> 00:15:43,120
+Est-ce que cette technologie elle fonctionne
+
+288
+00:15:43,120 --> 00:15:45,120
+Est-ce que les jeux sont tokenisés
+
+289
+00:15:45,120 --> 00:15:47,120
+Est-ce qu'on peut les échanger, les revendre et tout
+
+290
+00:15:47,120 --> 00:15:49,120
+Déjà ou c'est pas encore fait
+
+291
+00:15:49,120 --> 00:15:51,120
+Ouais ça ça a été fait
+
+292
+00:15:51,120 --> 00:15:53,120
+Je pense le premier jeu
+
+293
+00:15:53,120 --> 00:15:55,120
+A été tokenisé le mois passé
+
+294
+00:15:57,120 --> 00:15:59,120
+Non tous les jeux ont été tokenisés
+
+295
+00:15:59,120 --> 00:16:01,120
+Donc tous
+
+296
+00:16:01,120 --> 00:16:03,120
+Sans exception je pense
+
+297
+00:16:03,720 --> 00:16:05,720
+Donc si tu as acheté un jeu
+
+298
+00:16:05,720 --> 00:16:07,720
+Tu as en fait un NFT
+
+299
+00:16:07,720 --> 00:16:09,720
+Mais le premier qui te permettait
+
+300
+00:16:09,720 --> 00:16:11,720
+De le revendre a été
+
+301
+00:16:11,720 --> 00:16:13,720
+Activé le mois passé
+
+302
+00:16:13,720 --> 00:16:15,720
+Et donc ça
+
+303
+00:16:15,720 --> 00:16:17,720
+Ça te permet
+
+304
+00:16:17,720 --> 00:16:19,720
+D'acheter un jeu
+
+305
+00:16:19,720 --> 00:16:21,720
+Et de le revendre
+
+306
+00:16:21,720 --> 00:16:23,720
+Comme sur Ultra tous les jeux que tu achètes
+
+307
+00:16:23,720 --> 00:16:25,720
+Sont des NFT
+
+308
+00:16:27,720 --> 00:16:29,720
+Tu as toutes les règles
+
+309
+00:16:29,720 --> 00:16:31,720
+Des NFT qui te sont imposées
+
+310
+00:16:32,320 --> 00:16:34,320
+Les règles sont
+
+311
+00:16:34,320 --> 00:16:36,320
+Immuables
+
+312
+00:16:36,320 --> 00:16:38,320
+Donc si on te dit
+
+313
+00:16:38,320 --> 00:16:40,320
+Bah voilà ce NFT il est échangeable
+
+314
+00:16:40,320 --> 00:16:42,320
+Il sera échangeable pour toujours
+
+315
+00:16:42,320 --> 00:16:44,320
+Même chose pour
+
+316
+00:16:44,320 --> 00:16:46,320
+Est-ce que tu as le droit de le revendre
+
+317
+00:16:48,320 --> 00:16:50,320
+Petite coupure
+
+318
+00:16:52,320 --> 00:16:54,320
+Grosse coupure
+
+319
+00:16:56,320 --> 00:16:58,320
+Tu m'entends plus?
+
+320
+00:16:58,320 --> 00:17:00,320
+Ah ça y est je te re-entends
+
+321
+00:17:00,920 --> 00:17:02,920
+Il y a un truc bizarre ici parce que
+
+322
+00:17:02,920 --> 00:17:04,920
+D'habitude je voyais les
+
+323
+00:17:04,920 --> 00:17:06,920
+Les gens et ici je vois rien
+
+324
+00:17:06,920 --> 00:17:08,920
+Ah ok
+
+325
+00:17:08,920 --> 00:17:10,920
+Je sais pas
+
+326
+00:17:10,920 --> 00:17:12,920
+D'ailleurs en parlant de gens
+
+327
+00:17:12,920 --> 00:17:14,920
+Il y a
+
+328
+00:17:14,920 --> 00:17:16,920
+Benzeji
+
+329
+00:17:16,920 --> 00:17:18,920
+Je sais pas comment on prononce ça
+
+330
+00:17:18,920 --> 00:17:20,920
+Qui a demandé à parler
+
+331
+00:17:20,920 --> 00:17:22,920
+Je voulais quand même poser quelques questions
+
+332
+00:17:22,920 --> 00:17:24,920
+Avant de laisser les gens
+
+333
+00:17:24,920 --> 00:17:26,920
+Prendre la parole mais
+
+334
+00:17:26,920 --> 00:17:28,920
+Éventuellement vas-y
+
+335
+00:17:29,520 --> 00:17:31,520
+Benzeji
+
+336
+00:17:31,520 --> 00:17:33,520
+Comment on prononce ton pseudo j'ai pas compris
+
+337
+00:17:35,520 --> 00:17:37,520
+Salutations
+
+338
+00:17:37,520 --> 00:17:39,520
+Bonjour à la communauté
+
+339
+00:17:39,520 --> 00:17:41,520
+Bonsoir David
+
+340
+00:17:41,520 --> 00:17:43,520
+La voix un peu qui tombe
+
+341
+00:17:43,520 --> 00:17:45,520
+Parce que c'est pas l'habitude de faire cet exercice là
+
+342
+00:17:45,520 --> 00:17:47,520
+Mais bon je vais m'y prêter
+
+343
+00:17:47,520 --> 00:17:49,520
+Alors j'espère que déjà tout le monde m'entend bien
+
+344
+00:17:49,520 --> 00:17:51,520
+Et moi c'est
+
+345
+00:17:51,520 --> 00:17:53,520
+Benzeji
+
+346
+00:17:53,520 --> 00:17:55,520
+C'est comme ça
+
+347
+00:17:55,520 --> 00:17:57,520
+Bonsoir tout le monde
+
+348
+00:17:58,120 --> 00:18:00,120
+Noter quelques petites questions parce que
+
+349
+00:18:00,120 --> 00:18:02,120
+De mon côté c'est vrai que je m'investis pas mal
+
+350
+00:18:02,120 --> 00:18:04,120
+Sur Twitter en tout cas
+
+351
+00:18:04,120 --> 00:18:06,120
+Pour Ultra et voilà
+
+352
+00:18:06,120 --> 00:18:08,120
+Je suis un grand fan entre guillemets
+
+353
+00:18:08,120 --> 00:18:10,120
+Du projet et de la marque
+
+354
+00:18:12,120 --> 00:18:14,120
+Alors ma première question c'est la suivante
+
+355
+00:18:14,120 --> 00:18:16,120
+C'est un point
+
+356
+00:18:16,120 --> 00:18:18,120
+Qui a été abordé il me semble par David
+
+357
+00:18:18,120 --> 00:18:20,120
+La dernière fois dans le dernier
+
+358
+00:18:20,120 --> 00:18:22,120
+Vocal
+
+359
+00:18:22,120 --> 00:18:24,120
+Conférence qui a été faite
+
+360
+00:18:24,120 --> 00:18:26,120
+C'est comment la visibilité de la plateforme
+
+361
+00:18:26,720 --> 00:18:28,720
+Pour le grand public
+
+362
+00:18:28,720 --> 00:18:30,720
+J'entends au sens marketing du terme
+
+363
+00:18:30,720 --> 00:18:32,720
+Comment on peut passer d'une communauté restreinte
+
+364
+00:18:32,720 --> 00:18:34,720
+Twitter qui est assez sur un cercle
+
+365
+00:18:34,720 --> 00:18:36,720
+Fermé entre guillemets
+
+366
+00:18:36,720 --> 00:18:38,720
+Quelque chose qui pourrait devenir
+
+367
+00:18:38,720 --> 00:18:40,720
+Comme un effet boule de neige
+
+368
+00:18:40,720 --> 00:18:42,720
+Sur potentiellement d'autres médias
+
+369
+00:18:42,720 --> 00:18:44,720
+Que ce sont les réseaux sociaux
+
+370
+00:18:44,720 --> 00:18:46,720
+Que ce soit en public la télévision
+
+371
+00:18:46,720 --> 00:18:48,720
+A travers des jeux vidéo
+
+372
+00:18:48,720 --> 00:18:50,720
+Le système de sponsoring
+
+373
+00:18:50,720 --> 00:18:52,720
+Quand par exemple tu fais une pub sur un jeu vidéo
+
+374
+00:18:52,720 --> 00:18:54,720
+Que y'a la marque Ultra qui apparaît
+
+375
+00:18:55,320 --> 00:18:57,320
+Est-ce que la plateforme est prête pour ça
+
+376
+00:18:57,320 --> 00:18:59,320
+Tout ce côté là marketing
+
+377
+00:18:59,320 --> 00:19:01,320
+Et à venir pour 2024
+
+378
+00:19:01,320 --> 00:19:03,320
+Voir 2025 comment l'entreprise voit la chose
+
+379
+00:19:05,320 --> 00:19:07,320
+Il y a plus que des idées
+
+380
+00:19:09,320 --> 00:19:11,320
+Il y a une tape
+
+381
+00:19:11,320 --> 00:19:13,320
+Qui est en phase de
+
+382
+00:19:13,320 --> 00:19:15,320
+Completion
+
+383
+00:19:17,320 --> 00:19:19,320
+Qui va nous permettre
+
+384
+00:19:19,320 --> 00:19:21,320
+De faire un des plus gros
+
+385
+00:19:21,320 --> 00:19:23,320
+Airdrop
+
+386
+00:19:23,920 --> 00:19:25,920
+Dans l'industrie de la crypto
+
+387
+00:19:27,920 --> 00:19:29,920
+On parle de millions d'utilisateurs
+
+388
+00:19:29,920 --> 00:19:31,920
+C'est potentiellement le plus gros
+
+389
+00:19:31,920 --> 00:19:33,920
+Airdrop jamais fait
+
+390
+00:19:33,920 --> 00:19:35,920
+Et donc cette tape
+
+391
+00:19:35,920 --> 00:19:37,920
+Elle est quasiment terminée
+
+392
+00:19:37,920 --> 00:19:39,920
+On est occupé à discuter sur
+
+393
+00:19:39,920 --> 00:19:41,920
+Plutôt les détails
+
+394
+00:19:41,920 --> 00:19:43,920
+Quels sont les goodies
+
+395
+00:19:43,920 --> 00:19:45,920
+Qu'on va dropper etc
+
+396
+00:19:47,920 --> 00:19:49,920
+J'avais fait un hint
+
+397
+00:19:49,920 --> 00:19:51,920
+Il y a de ça un mois ou deux
+
+398
+00:19:52,520 --> 00:19:54,520
+Dans un live stream
+
+399
+00:19:54,520 --> 00:19:56,520
+J'en ai fait deux
+
+400
+00:19:56,520 --> 00:19:58,520
+On parle d'un gros gros airdrop
+
+401
+00:20:02,520 --> 00:20:04,520
+Ensuite ça c'est plus vraiment pur
+
+402
+00:20:04,520 --> 00:20:06,520
+Ultra plateforme
+
+403
+00:20:06,520 --> 00:20:08,520
+Mais ce qui nous intéresse
+
+404
+00:20:08,520 --> 00:20:10,520
+C'est de gros à travers
+
+405
+00:20:10,520 --> 00:20:12,520
+Les jeux exclusifs
+
+406
+00:20:14,520 --> 00:20:16,520
+Et ça ça va se faire aussi
+
+407
+00:20:18,520 --> 00:20:20,520
+Il y a tout un aspect
+
+408
+00:20:21,120 --> 00:20:23,120
+Lié au lancement du FPS
+
+409
+00:20:23,120 --> 00:20:25,120
+Qui va se faire à travers
+
+410
+00:20:25,120 --> 00:20:27,120
+Les réseaux sociaux
+
+411
+00:20:27,120 --> 00:20:29,120
+Où il va y avoir
+
+412
+00:20:29,120 --> 00:20:31,120
+Du mining, du grinding etc
+
+413
+00:20:31,120 --> 00:20:33,120
+Via Twitter
+
+414
+00:20:33,120 --> 00:20:35,120
+En l'occurrence
+
+415
+00:20:35,120 --> 00:20:37,120
+Qui va permettre
+
+416
+00:20:37,120 --> 00:20:39,120
+D'avoir une visibilité je pense
+
+417
+00:20:39,120 --> 00:20:41,120
+Assez énorme
+
+418
+00:20:41,120 --> 00:20:43,120
+Et qui va permettre aussi aux gens
+
+419
+00:20:43,120 --> 00:20:45,120
+De earn des ressources
+
+420
+00:20:45,120 --> 00:20:47,120
+Qui vont être hyper importantes
+
+421
+00:20:47,120 --> 00:20:49,120
+Dans le jeu
+
+422
+00:20:49,720 --> 00:20:51,720
+On va en discuter dans le mois à venir
+
+423
+00:20:51,720 --> 00:20:53,720
+On va expliquer comment tout ça va se passer
+
+424
+00:20:57,720 --> 00:20:59,720
+Combiné on parle de millions d'utilisateurs
+
+425
+00:20:59,720 --> 00:21:01,720
+Le airdrop
+
+426
+00:21:01,720 --> 00:21:03,720
+On a déjà targeté les utilisateurs
+
+427
+00:21:03,720 --> 00:21:05,720
+On va faire ça en wave
+
+428
+00:21:07,720 --> 00:21:09,720
+Mais pour te donner une ordre de grandeur
+
+429
+00:21:09,720 --> 00:21:11,720
+On a déjà targeté un million d'utilisateurs
+
+430
+00:21:11,720 --> 00:21:13,720
+Pour la première wave
+
+431
+00:21:13,720 --> 00:21:15,720
+De ce méga airdrop
+
+432
+00:21:16,320 --> 00:21:18,320
+Utilisateurs
+
+433
+00:21:18,320 --> 00:21:20,320
+Plateforme ultra
+
+434
+00:21:20,320 --> 00:21:22,320
+Ou utilisateurs du riche
+
+435
+00:21:22,320 --> 00:21:24,320
+Sur les réseaux par le airdrop
+
+436
+00:21:24,320 --> 00:21:26,320
+Alors on a pas encore un million d'utilisateurs
+
+437
+00:21:26,320 --> 00:21:28,320
+Donc automatiquement
+
+438
+00:21:28,320 --> 00:21:30,320
+Là on parle vraiment
+
+439
+00:21:30,320 --> 00:21:32,320
+D'utilisateurs
+
+440
+00:21:32,320 --> 00:21:34,320
+J'allais te poser cette question
+
+441
+00:21:34,320 --> 00:21:36,320
+David
+
+442
+00:21:36,320 --> 00:21:38,320
+Justement
+
+443
+00:21:38,320 --> 00:21:40,320
+Ça se passe comment en ce moment
+
+444
+00:21:40,320 --> 00:21:42,320
+C'est quoi les stats à peu près
+
+445
+00:21:42,320 --> 00:21:44,320
+En termes de téléchargement de jeu
+
+446
+00:21:44,920 --> 00:21:46,920
+Est-ce que tu as des chiffres à donner?
+
+447
+00:21:46,920 --> 00:21:48,920
+Là j'ai pas des chiffres
+
+448
+00:21:48,920 --> 00:21:50,920
+C'est pas moi qui m'occupe des chiffres
+
+449
+00:21:50,920 --> 00:21:52,920
+Mais on a sorti un article qui parlait
+
+450
+00:21:52,920 --> 00:21:54,920
+De choses intéressantes au sujet des jeux
+
+451
+00:21:56,920 --> 00:21:58,920
+Ce que les gens achètent
+
+452
+00:21:58,920 --> 00:22:00,920
+Par rapport aux promotions
+
+453
+00:22:00,920 --> 00:22:02,920
+Ce genre de choses
+
+454
+00:22:02,920 --> 00:22:04,920
+Mais j'ai pas les chiffres en tête
+
+455
+00:22:04,920 --> 00:22:06,920
+Et comment tu comptes
+
+456
+00:22:08,920 --> 00:22:10,920
+Est-ce qu'on est loin du million?
+
+457
+00:22:11,520 --> 00:22:13,520
+Est-ce que c'est un objectif?
+
+458
+00:22:13,520 --> 00:22:15,520
+On est loin du million
+
+459
+00:22:15,520 --> 00:22:17,520
+Mais c'est parce qu'on a pas encore démarré
+
+460
+00:22:17,520 --> 00:22:19,520
+Quoi que ce soit comme marketing
+
+461
+00:22:19,520 --> 00:22:21,520
+C'est ça que les gens oublient un peu
+
+462
+00:22:21,520 --> 00:22:23,520
+On a pas encore fait de marketing
+
+463
+00:22:23,520 --> 00:22:25,520
+Si je peux me permettre
+
+464
+00:22:25,520 --> 00:22:27,520
+Oui vas-y
+
+465
+00:22:27,520 --> 00:22:29,520
+C'est vrai qu'il y a eu un truc
+
+466
+00:22:29,520 --> 00:22:31,520
+Qui a fait pas mal de bruit récemment sur Twitter
+
+467
+00:22:31,520 --> 00:22:33,520
+J'imagine que tu as dû voir ça passer
+
+468
+00:22:33,520 --> 00:22:35,520
+Si on peut parler de
+
+469
+00:22:35,520 --> 00:22:37,520
+L'entrée et de la concurrence
+
+470
+00:22:37,520 --> 00:22:39,520
+Ce qu'a fait Portal
+
+471
+00:22:40,120 --> 00:22:42,120
+C'est avec des mécanismes similaires
+
+472
+00:22:42,120 --> 00:22:44,120
+Que les gens vont interagir
+
+473
+00:22:44,120 --> 00:22:46,120
+Avec le FPS
+
+474
+00:22:46,120 --> 00:22:48,120
+Pour le lancement
+
+475
+00:22:48,120 --> 00:22:50,120
+De l'écosystème
+
+476
+00:22:50,120 --> 00:22:52,120
+C'est quoi le truc de Portal?
+
+477
+00:22:52,120 --> 00:22:54,120
+J'ai pas suivi
+
+478
+00:22:54,120 --> 00:22:56,120
+Ça va être un système similaire
+
+479
+00:22:56,120 --> 00:22:58,120
+Il y a un moment si t'as pas vu ça
+
+480
+00:22:58,120 --> 00:23:00,120
+T'étais pas connecté
+
+481
+00:23:00,120 --> 00:23:02,120
+Parce que tout le monde était occupé
+
+482
+00:23:02,120 --> 00:23:04,120
+A tweeter, retweeter
+
+483
+00:23:04,120 --> 00:23:06,120
+C'est ça que vous faites
+
+484
+00:23:06,120 --> 00:23:08,120
+À travers l'interaction
+
+485
+00:23:08,720 --> 00:23:10,720
+Sur les différents postes Twitter
+
+486
+00:23:10,720 --> 00:23:12,720
+RT pour avoir un farming
+
+487
+00:23:12,720 --> 00:23:14,720
+Et du leveling
+
+488
+00:23:14,720 --> 00:23:16,720
+Pour les airdrops à venir
+
+489
+00:23:16,720 --> 00:23:18,720
+C'est ça le système?
+
+490
+00:23:18,720 --> 00:23:20,720
+C'est ça un truc comme ça
+
+491
+00:23:20,720 --> 00:23:22,720
+C'est dans ces eaux là
+
+492
+00:23:22,720 --> 00:23:24,720
+Qu'on va avoir
+
+493
+00:23:24,720 --> 00:23:26,720
+Les mécanismes du jeu
+
+494
+00:23:26,720 --> 00:23:28,720
+Et ensuite
+
+495
+00:23:28,720 --> 00:23:30,720
+On compte réutiliser
+
+496
+00:23:30,720 --> 00:23:32,720
+Cette tech pour d'autres jeux
+
+497
+00:23:34,720 --> 00:23:36,720
+Mais ici ça va être vraiment cool
+
+498
+00:23:37,320 --> 00:23:39,320
+En plus ça make vraiment sense
+
+499
+00:23:39,320 --> 00:23:41,320
+Dans l'histoire du jeu
+
+500
+00:23:41,320 --> 00:23:43,320
+Et dans l'économie du jeu
+
+501
+00:23:43,320 --> 00:23:45,320
+En soi
+
+502
+00:23:45,320 --> 00:23:47,320
+Donc ça va être quelque chose à mon avis
+
+503
+00:23:47,320 --> 00:23:49,320
+De vraiment intéressant
+
+504
+00:23:49,320 --> 00:23:51,320
+Donc ça va être
+
+505
+00:23:51,320 --> 00:23:53,320
+Comme j'avais déjà expliqué
+
+506
+00:23:53,320 --> 00:23:55,320
+Peut-être pas ici
+
+507
+00:23:55,320 --> 00:23:57,320
+Mais dans un autre stream
+
+508
+00:23:57,320 --> 00:23:59,320
+Nous on veut faire le marketing d'Ultra
+
+509
+00:23:59,320 --> 00:24:01,320
+À travers les jeux
+
+510
+00:24:03,320 --> 00:24:05,320
+Parce que à ce moment là
+
+511
+00:24:05,920 --> 00:24:07,920
+C'est du deux en un
+
+512
+00:24:07,920 --> 00:24:09,920
+Tu as le jeu qui est
+
+513
+00:24:09,920 --> 00:24:11,920
+Successful
+
+514
+00:24:11,920 --> 00:24:13,920
+On crée un success story
+
+515
+00:24:13,920 --> 00:24:15,920
+Qui est bon pour acquérir d'autres contenus intéressants
+
+516
+00:24:15,920 --> 00:24:17,920
+Et comme le jeu
+
+517
+00:24:17,920 --> 00:24:19,920
+Est exclusif sur la plateforme
+
+518
+00:24:19,920 --> 00:24:21,920
+Automatiquement c'est de la pub pour Ultra
+
+519
+00:24:21,920 --> 00:24:23,920
+Donc on peut s'adresser
+
+520
+00:24:23,920 --> 00:24:25,920
+À une audience beaucoup plus large
+
+521
+00:24:25,920 --> 00:24:27,920
+Que la cryptocène
+
+522
+00:24:27,920 --> 00:24:29,920
+On s'adressera vraiment aux gamers
+
+523
+00:24:29,920 --> 00:24:31,920
+Ceux qui sont intéressants
+
+524
+00:24:31,920 --> 00:24:33,920
+Pour la plateforme
+
+525
+00:24:34,520 --> 00:24:36,520
+Pour rebondir là dessus
+
+526
+00:24:36,520 --> 00:24:38,520
+Le projet Citadel
+
+527
+00:24:38,520 --> 00:24:40,520
+Qui est développé du coup
+
+528
+00:24:40,520 --> 00:24:42,520
+Pour la technologie des Unis
+
+529
+00:24:42,520 --> 00:24:44,520
+Et du wallet Ultra
+
+530
+00:24:44,520 --> 00:24:46,520
+La question que je me pose c'est
+
+531
+00:24:46,520 --> 00:24:48,520
+À quel point c'est facile
+
+532
+00:24:48,520 --> 00:24:50,520
+D'implémenter la technologie
+
+533
+00:24:50,520 --> 00:24:52,520
+À travers des jeux qui ne seraient pas développés
+
+534
+00:24:52,520 --> 00:24:54,520
+Par des studios partenaires d'Ultra
+
+535
+00:24:54,520 --> 00:24:56,520
+Est-ce que c'est facile après de rentrer
+
+536
+00:24:56,520 --> 00:24:58,520
+Un jeu qui serait sur telle ou telle
+
+537
+00:24:58,520 --> 00:25:00,520
+Blockchain et de l'en faire
+
+538
+00:25:00,520 --> 00:25:02,520
+Quelque chose qui soit sur le wallet
+
+539
+00:25:03,120 --> 00:25:05,120
+Inventaire Ultra
+
+540
+00:25:05,120 --> 00:25:07,120
+Bien sûr
+
+541
+00:25:07,120 --> 00:25:09,120
+Donc ça c'est ce que
+
+542
+00:25:09,120 --> 00:25:11,120
+L'NFT API va te permettre
+
+543
+00:25:11,120 --> 00:25:13,120
+De faire hyper facilement
+
+544
+00:25:13,120 --> 00:25:15,120
+Ensuite
+
+545
+00:25:15,120 --> 00:25:17,120
+On est occupé
+
+546
+00:25:17,120 --> 00:25:19,120
+À intégrer
+
+547
+00:25:19,120 --> 00:25:21,120
+Le wallet d'une manière particulière
+
+548
+00:25:21,120 --> 00:25:23,120
+Dans le client qui va nous permettre
+
+549
+00:25:23,120 --> 00:25:25,120
+D'injecter les interfaces dans les jeux également
+
+550
+00:25:25,120 --> 00:25:27,120
+Donc
+
+551
+00:25:27,120 --> 00:25:29,120
+En gros tu vas avoir une
+
+552
+00:25:29,120 --> 00:25:31,120
+Interconnexion dans le jeu
+
+553
+00:25:31,720 --> 00:25:33,720
+Or du jeu dans Ultra
+
+554
+00:25:33,720 --> 00:25:35,720
+Or de Ultra qui va pouvoir se faire
+
+555
+00:25:35,720 --> 00:25:37,720
+Avec un minimum d'effort
+
+556
+00:25:37,720 --> 00:25:39,720
+Parce que la tech
+
+557
+00:25:39,720 --> 00:25:41,720
+En dessous
+
+558
+00:25:41,720 --> 00:25:43,720
+Est identique partout
+
+559
+00:25:43,720 --> 00:25:45,720
+Donc ça va être
+
+560
+00:25:45,720 --> 00:25:47,720
+Hyper intéressant
+
+561
+00:25:47,720 --> 00:25:49,720
+Ici à chaque fois les gens doivent développer
+
+562
+00:25:49,720 --> 00:25:51,720
+Des millions de trucs différents
+
+563
+00:25:51,720 --> 00:25:53,720
+Pour chaque plateforme
+
+564
+00:25:53,720 --> 00:25:55,720
+Pour chaque blockchain
+
+565
+00:25:55,720 --> 00:25:57,720
+Ici tu vas l'intégrer une fois
+
+566
+00:25:57,720 --> 00:25:59,720
+Et tu pourras utiliser la même tech
+
+567
+00:26:00,320 --> 00:26:02,320
+Dans ton page web, dans ton application mobile
+
+568
+00:26:02,320 --> 00:26:04,320
+Dans ton jeu
+
+569
+00:26:04,320 --> 00:26:06,320
+C'est vrai que dans le white paper
+
+570
+00:26:06,320 --> 00:26:08,320
+On voit beaucoup
+
+571
+00:26:08,320 --> 00:26:10,320
+Le logo PlayStation, Sony, Microsoft etc
+
+572
+00:26:10,320 --> 00:26:12,320
+Et du coup
+
+573
+00:26:12,320 --> 00:26:14,320
+Ça vend quelque chose
+
+574
+00:26:14,320 --> 00:26:16,320
+Et on se pose des questions sur
+
+575
+00:26:16,320 --> 00:26:18,320
+Comment Infine
+
+576
+00:26:18,320 --> 00:26:20,320
+Ça pourrait être lié tout ça
+
+577
+00:26:20,320 --> 00:26:22,320
+Alors ça c'est déjà live
+
+578
+00:26:22,320 --> 00:26:24,320
+Notre SDK est déjà cross-plateforme
+
+579
+00:26:24,320 --> 00:26:26,320
+Donc si tu utilises l'SDK
+
+580
+00:26:26,320 --> 00:26:28,320
+De notre plateforme
+
+581
+00:26:28,920 --> 00:26:30,920
+Tu vas pouvoir
+
+582
+00:26:30,920 --> 00:26:32,920
+Non pas juste
+
+583
+00:26:32,920 --> 00:26:34,920
+Publier ton jeu sur Ultra
+
+584
+00:26:34,920 --> 00:26:36,920
+Mais sur toutes les plateformes
+
+585
+00:26:36,920 --> 00:26:38,920
+Par exemple on va dire
+
+586
+00:26:38,920 --> 00:26:40,920
+Tu utilises
+
+587
+00:26:40,920 --> 00:26:42,920
+Le lobby making
+
+588
+00:26:42,920 --> 00:26:44,920
+Ou l'authentification
+
+589
+00:26:44,920 --> 00:26:46,920
+Des utilisateurs
+
+590
+00:26:46,920 --> 00:26:48,920
+Ou les quêtes
+
+591
+00:26:48,920 --> 00:26:50,920
+Ou ce genre de choses là
+
+592
+00:26:50,920 --> 00:26:52,920
+Tu le fais une seule fois ça fonctionnera partout
+
+593
+00:26:52,920 --> 00:26:54,920
+Ce qui n'est pas le cas
+
+594
+00:26:54,920 --> 00:26:56,920
+Avec d'autres plateformes
+
+595
+00:26:57,520 --> 00:26:59,520
+Par exemple les achievements etc
+
+596
+00:26:59,520 --> 00:27:01,520
+Tu dois les refaire pour chacune des plateformes manuellement
+
+597
+00:27:01,520 --> 00:27:03,520
+Ce qui est un travail
+
+598
+00:27:03,520 --> 00:27:05,520
+Que peu de développeurs font finalement
+
+599
+00:27:05,520 --> 00:27:07,520
+Ils le font pour Steam
+
+600
+00:27:07,520 --> 00:27:09,520
+Et ensuite ils le refont pour PlayStation
+
+601
+00:27:09,520 --> 00:27:11,520
+Ou Xbox
+
+602
+00:27:11,520 --> 00:27:13,520
+Mais voilà
+
+603
+00:27:13,520 --> 00:27:15,520
+Généralement il faut un jeu
+
+604
+00:27:15,520 --> 00:27:17,520
+Qui soit déjà méga successful
+
+605
+00:27:17,520 --> 00:27:19,520
+Avant que les gens se prennent la tête
+
+606
+00:27:19,520 --> 00:27:21,520
+De le faire partout
+
+607
+00:27:21,520 --> 00:27:23,520
+Donc ici c'est ça l'avantage de notre SDK
+
+608
+00:27:23,520 --> 00:27:25,520
+C'est que tu fais le travail une fois
+
+609
+00:27:26,120 --> 00:27:28,120
+Les 3 quarts du taf sont déjà faits
+
+610
+00:27:28,120 --> 00:27:30,120
+Et ça fonctionnera partout
+
+611
+00:27:30,120 --> 00:27:32,120
+Avec un peu de choses
+
+612
+00:27:32,120 --> 00:27:34,120
+Donc c'est une autre chose
+
+613
+00:27:34,120 --> 00:27:36,120
+Que de se dire que demain
+
+614
+00:27:36,120 --> 00:27:38,120
+Par exemple si
+
+615
+00:27:38,120 --> 00:27:40,120
+Sony développe un jeu qui serait avec
+
+616
+00:27:40,120 --> 00:27:42,120
+Un système de NFT
+
+617
+00:27:42,120 --> 00:27:44,120
+Ce qui est probable dans les longs termes
+
+618
+00:27:44,120 --> 00:27:46,120
+L'interopération
+
+619
+00:27:46,120 --> 00:27:48,120
+Enfin
+
+620
+00:27:48,120 --> 00:27:50,120
+L'interpossibilité
+
+621
+00:27:50,120 --> 00:27:52,120
+Que ça soit sur Ultra
+
+622
+00:27:52,120 --> 00:27:54,120
+Et Sony ça existe ou pas?
+
+623
+00:27:56,120 --> 00:27:58,120
+Si ma question est pas trop compliquée
+
+624
+00:27:58,120 --> 00:28:00,120
+Euh
+
+625
+00:28:02,120 --> 00:28:04,120
+Je pense comprendre
+
+626
+00:28:04,120 --> 00:28:06,120
+En gros
+
+627
+00:28:06,120 --> 00:28:08,120
+Ce que nous on fait
+
+628
+00:28:08,120 --> 00:28:10,120
+Va dans ce sens
+
+629
+00:28:10,120 --> 00:28:12,120
+Voilà
+
+630
+00:28:12,120 --> 00:28:14,120
+Un studio qui développe un jeu PC
+
+631
+00:28:14,120 --> 00:28:16,120
+Pour être sur des NFT sur le wallet
+
+632
+00:28:16,120 --> 00:28:18,120
+Est-ce que in fine
+
+633
+00:28:18,120 --> 00:28:20,120
+Sony avec sa propre plateforme
+
+634
+00:28:20,120 --> 00:28:22,120
+Y aurait des liens
+
+635
+00:28:22,120 --> 00:28:24,120
+Des links entre par exemple la plateforme Ultra
+
+636
+00:28:24,720 --> 00:28:26,720
+Et potentiellement
+
+637
+00:28:26,720 --> 00:28:28,720
+Des choses chez Sony
+
+638
+00:28:28,720 --> 00:28:30,720
+Enfin sur le très long terme
+
+639
+00:28:30,720 --> 00:28:32,720
+Donc ça c'est encore une chose qui est possible
+
+640
+00:28:32,720 --> 00:28:34,720
+En fait en gros
+
+641
+00:28:34,720 --> 00:28:36,720
+Si tu veux
+
+642
+00:28:36,720 --> 00:28:38,720
+Déjà premièrement
+
+643
+00:28:38,720 --> 00:28:40,720
+Que je sache
+
+644
+00:28:40,720 --> 00:28:42,720
+Sony n'a pas de plateforme
+
+645
+00:28:42,720 --> 00:28:44,720
+D'objet virtuel
+
+646
+00:28:44,720 --> 00:28:46,720
+D'échange etc
+
+647
+00:28:46,720 --> 00:28:48,720
+Les choses se passent dans le jeu
+
+648
+00:28:48,720 --> 00:28:50,720
+Alors comme nous on a une tech
+
+649
+00:28:50,720 --> 00:28:52,720
+Qui te permet de faire des
+
+650
+00:28:53,320 --> 00:28:55,320
+Des actions complètement invisibles
+
+651
+00:28:55,320 --> 00:28:57,320
+Qui peuvent être signées
+
+652
+00:28:57,320 --> 00:28:59,320
+Par le développeur
+
+653
+00:28:59,320 --> 00:29:01,320
+A travers une méthode particulière
+
+654
+00:29:01,320 --> 00:29:03,320
+Et que tout se fait en temps réel
+
+655
+00:29:03,320 --> 00:29:05,320
+Donc c'est pas
+
+656
+00:29:05,320 --> 00:29:07,320
+Un mécanisme du style
+
+657
+00:29:07,320 --> 00:29:09,320
+Tu joues le jeu
+
+658
+00:29:09,320 --> 00:29:11,320
+Et puis on garde les NFT
+
+659
+00:29:11,320 --> 00:29:13,320
+Et puis quand tu les veux
+
+660
+00:29:13,320 --> 00:29:15,320
+Tu nous le demandes et on te les donne
+
+661
+00:29:15,320 --> 00:29:17,320
+Ça fonctionne pas comme ça en fait sur Ultra
+
+662
+00:29:17,320 --> 00:29:19,320
+Enfin tu pourrais le faire
+
+663
+00:29:19,320 --> 00:29:21,320
+Mais c'est du travail supplémentaire
+
+664
+00:29:21,920 --> 00:29:23,920
+Et c'est pas fait dans les règles de l'art
+
+665
+00:29:23,920 --> 00:29:25,920
+Comme ça devrait l'être
+
+666
+00:29:25,920 --> 00:29:27,920
+Si tu joues avec la blockchain
+
+667
+00:29:27,920 --> 00:29:29,920
+T'es censé posséder tes assets
+
+668
+00:29:29,920 --> 00:29:31,920
+Alors que avec les mécanismes
+
+669
+00:29:31,920 --> 00:29:33,920
+Qu'on a au jour d'aujourd'hui
+
+670
+00:29:33,920 --> 00:29:35,920
+C'est souvent on va te les garder
+
+671
+00:29:35,920 --> 00:29:37,920
+Et dis nous quand tu les veux
+
+672
+00:29:37,920 --> 00:29:39,920
+Donc là si tu veux c'est un peu fou
+
+673
+00:29:39,920 --> 00:29:41,920
+Donc nous
+
+674
+00:29:41,920 --> 00:29:43,920
+Par exemple l'FPS
+
+675
+00:29:43,920 --> 00:29:45,920
+Quand tu vas jouer
+
+676
+00:29:45,920 --> 00:29:47,920
+Si tu gagnes
+
+677
+00:29:47,920 --> 00:29:49,920
+Tu trouves une arme particulière
+
+678
+00:29:50,520 --> 00:29:52,520
+Si c'est un NFT tu le prends par exemple
+
+679
+00:29:52,520 --> 00:29:54,520
+Et bien
+
+680
+00:29:54,520 --> 00:29:56,520
+Tu quittes le jeu
+
+681
+00:29:56,520 --> 00:29:58,520
+Ou même tu te fais déconnecté d'internet
+
+682
+00:29:58,520 --> 00:30:00,520
+Tu ouvres Ultra
+
+683
+00:30:00,520 --> 00:30:02,520
+Tu regardes dans ton wallet
+
+684
+00:30:02,520 --> 00:30:04,520
+Le truc il est là
+
+685
+00:30:04,520 --> 00:30:06,520
+Parce que ça a été une vraie transaction
+
+686
+00:30:06,520 --> 00:30:08,520
+Qui a été signée
+
+687
+00:30:08,520 --> 00:30:10,520
+Envoyée en temps réel
+
+688
+00:30:10,520 --> 00:30:12,520
+Donc
+
+689
+00:30:12,520 --> 00:30:14,520
+Avec un mécanisme comme ça
+
+690
+00:30:14,520 --> 00:30:16,520
+Tu peux l'appliquer à des consoles
+
+691
+00:30:16,520 --> 00:30:18,520
+C'est hyper facile
+
+692
+00:30:19,120 --> 00:30:21,120
+Puisque t'as plus tout ce chipotage
+
+693
+00:30:21,120 --> 00:30:23,120
+J'ai un truc
+
+694
+00:30:23,120 --> 00:30:25,120
+Puis connecte ton wallet
+
+695
+00:30:25,120 --> 00:30:27,120
+Etc
+
+696
+00:30:27,120 --> 00:30:29,120
+Pour pouvoir jouer au jeu
+
+697
+00:30:29,120 --> 00:30:31,120
+T'as automatiquement le wallet
+
+698
+00:30:31,120 --> 00:30:33,120
+Qui fait partie de
+
+699
+00:30:33,120 --> 00:30:35,120
+La solution qu'on propose
+
+700
+00:30:35,120 --> 00:30:37,120
+Chaque wallet est générée
+
+701
+00:30:37,120 --> 00:30:39,120
+Sur l'ordinateur de la personne
+
+702
+00:30:39,120 --> 00:30:41,120
+Avec ses clés secrètes qui sont encryptées
+
+703
+00:30:41,120 --> 00:30:43,120
+Sur son ordi etc
+
+704
+00:30:43,120 --> 00:30:45,120
+Et donc comme tout est fait
+
+705
+00:30:45,120 --> 00:30:47,120
+Purement
+
+706
+00:30:47,720 --> 00:30:49,720
+Tu es en mesure de refaire la même chose
+
+707
+00:30:49,720 --> 00:30:51,720
+Sur console, Xbox, Playstation etc
+
+708
+00:30:51,720 --> 00:30:53,720
+Où tu lances ton jeu
+
+709
+00:30:53,720 --> 00:30:55,720
+Et en fait
+
+710
+00:30:55,720 --> 00:30:57,720
+T'as des transactions blockchain qui se font en temps réel
+
+711
+00:30:57,720 --> 00:30:59,720
+Pardon
+
+712
+00:30:59,720 --> 00:31:01,720
+C'est très clair
+
+713
+00:31:01,720 --> 00:31:03,720
+Désolé je suis pas dev
+
+714
+00:31:03,720 --> 00:31:05,720
+J'ai peut-être pas les bons mots etc
+
+715
+00:31:05,720 --> 00:31:07,720
+Merci
+
+716
+00:31:07,720 --> 00:31:09,720
+Merci pour le temps d'écoute
+
+717
+00:31:09,720 --> 00:31:11,720
+Et de réponse
+
+718
+00:31:11,720 --> 00:31:13,720
+Si Tchad tu veux prendre la suite
+
+719
+00:31:13,720 --> 00:31:15,720
+Y'a pas de soucis
+
+720
+00:31:16,320 --> 00:31:18,320
+J'ai vu dans les commentaires
+
+721
+00:31:18,320 --> 00:31:20,320
+Quelqu'un qui parlait d'un jeu de sport
+
+722
+00:31:20,320 --> 00:31:22,320
+J'ai pas suivi
+
+723
+00:31:22,320 --> 00:31:24,320
+Est-ce qu'il y a un jeu de sport?
+
+724
+00:31:24,320 --> 00:31:26,320
+Ouais il y a un jeu
+
+725
+00:31:26,320 --> 00:31:28,320
+Qui est
+
+726
+00:31:28,320 --> 00:31:30,320
+Qui était censé sortir
+
+727
+00:31:30,320 --> 00:31:32,320
+Mais
+
+728
+00:31:32,320 --> 00:31:34,320
+Ils ont décidé de rajouter
+
+729
+00:31:34,320 --> 00:31:36,320
+Un nouveau game mode
+
+730
+00:31:36,320 --> 00:31:38,320
+Qui est le PVP
+
+731
+00:31:38,320 --> 00:31:40,320
+Et donc ils sont
+
+732
+00:31:40,320 --> 00:31:42,320
+Avant qu'on lance
+
+733
+00:31:42,320 --> 00:31:44,320
+Toute la machine
+
+734
+00:31:44,920 --> 00:31:46,920
+A terminer ce mode
+
+735
+00:31:46,920 --> 00:31:48,920
+Ce qui je pense est une très bonne chose
+
+736
+00:31:48,920 --> 00:31:50,920
+Donc c'est aussi
+
+737
+00:31:50,920 --> 00:31:52,920
+Un jeu hyper
+
+738
+00:31:52,920 --> 00:31:54,920
+NFT heavy
+
+739
+00:31:54,920 --> 00:31:56,920
+Qui utilise notre tech
+
+740
+00:31:56,920 --> 00:31:58,920
+De A à Z également
+
+741
+00:31:58,920 --> 00:32:00,920
+Qui va être très intéressant
+
+742
+00:32:00,920 --> 00:32:02,920
+J'en dis pas plus
+
+743
+00:32:02,920 --> 00:32:04,920
+Hum hum
+
+744
+00:32:04,920 --> 00:32:06,920
+Et les jeux olympiques
+
+745
+00:32:06,920 --> 00:32:08,920
+Et tout en plus
+
+746
+00:32:08,920 --> 00:32:10,920
+C'est du bon timing
+
+747
+00:32:10,920 --> 00:32:12,920
+J'ai une dernière question
+
+748
+00:32:13,520 --> 00:32:15,520
+C'est un peu polesque
+
+749
+00:32:15,520 --> 00:32:17,520
+Si demain je veux acheter
+
+750
+00:32:17,520 --> 00:32:19,520
+PAL World sur Ultra
+
+751
+00:32:19,520 --> 00:32:21,520
+Qu'est-ce qui m'empêche de le faire?
+
+752
+00:32:21,520 --> 00:32:23,520
+Qu'est-ce qui fait que
+
+753
+00:32:23,520 --> 00:32:25,520
+90% des jeux qui sont disponibles
+
+754
+00:32:25,520 --> 00:32:27,520
+Sur les plateformes concurrentes
+
+755
+00:32:27,520 --> 00:32:29,520
+Et qui ne sortent pas sur Ultra
+
+756
+00:32:29,520 --> 00:32:31,520
+Alors que
+
+757
+00:32:31,520 --> 00:32:33,520
+On mettait en avant une commission
+
+758
+00:32:33,520 --> 00:32:35,520
+Moins élevée
+
+759
+00:32:35,520 --> 00:32:37,520
+Pourquoi y'a pas une sortie permanente de jeu?
+
+760
+00:32:37,520 --> 00:32:39,520
+C'est aussi une question
+
+761
+00:32:39,520 --> 00:32:41,520
+Mais si tu veux c'est un peu
+
+762
+00:32:42,120 --> 00:32:44,120
+En fait
+
+763
+00:32:44,120 --> 00:32:46,120
+Lancer une plateforme comme Ultra
+
+764
+00:32:46,120 --> 00:32:48,120
+Ca commence avec
+
+765
+00:32:48,120 --> 00:32:50,120
+Il faut lancer la pompe
+
+766
+00:32:50,120 --> 00:32:52,120
+Et la pompe c'est quoi?
+
+767
+00:32:52,120 --> 00:32:54,120
+C'est des utilisateurs
+
+768
+00:32:54,120 --> 00:32:56,120
+C'est du contenu
+
+769
+00:32:56,120 --> 00:32:58,120
+Tous les deux sont liés
+
+770
+00:32:58,120 --> 00:33:00,120
+Donc c'est un peu l'histoire
+
+771
+00:33:00,120 --> 00:33:02,120
+Du chicken and the egg
+
+772
+00:33:02,120 --> 00:33:04,120
+L'oeuf et la poule
+
+773
+00:33:04,120 --> 00:33:06,120
+Et
+
+774
+00:33:06,120 --> 00:33:08,120
+Imagine que t'es un développeur
+
+775
+00:33:08,120 --> 00:33:10,120
+Tu discutes chez lui
+
+776
+00:33:10,720 --> 00:33:12,720
+Et il te dit
+
+777
+00:33:12,720 --> 00:33:14,720
+On aime bien ton jeu
+
+778
+00:33:14,720 --> 00:33:16,720
+Mets le sur la plateforme
+
+779
+00:33:16,720 --> 00:33:18,720
+Il va te dire
+
+780
+00:33:18,720 --> 00:33:20,720
+Combien d'utilisateurs
+
+781
+00:33:20,720 --> 00:33:22,720
+Et tu dis
+
+782
+00:33:22,720 --> 00:33:24,720
+On est occupé à la lancer
+
+783
+00:33:24,720 --> 00:33:26,720
+Reviens chez moi
+
+784
+00:33:26,720 --> 00:33:28,720
+Et tu parles aux utilisateurs
+
+785
+00:33:28,720 --> 00:33:30,720
+Les gars on a une nouvelle plateforme
+
+786
+00:33:30,720 --> 00:33:32,720
+Et ils vont te dire
+
+787
+00:33:32,720 --> 00:33:34,720
+T'as quoi comme jeu
+
+788
+00:33:34,720 --> 00:33:36,720
+Et tu dis
+
+789
+00:33:36,720 --> 00:33:38,720
+Reviens quand t'as les jeux
+
+790
+00:33:39,320 --> 00:33:41,320
+Donc on a des plateformes
+
+791
+00:33:41,320 --> 00:33:43,320
+Qui ont du contenu
+
+792
+00:33:43,320 --> 00:33:45,320
+Et la manière comme nous
+
+793
+00:33:45,320 --> 00:33:47,320
+On solutionne ce problème
+
+794
+00:33:47,320 --> 00:33:49,320
+C'est avec les jeux exclusifs
+
+795
+00:33:49,320 --> 00:33:51,320
+Donc on va avoir des jeux
+
+796
+00:33:51,320 --> 00:33:53,320
+De très bonne qualité
+
+797
+00:33:53,320 --> 00:33:55,320
+Qui vont être lancés sur la plateforme
+
+798
+00:33:55,320 --> 00:33:57,320
+Et avec des partnerships
+
+799
+00:33:57,320 --> 00:33:59,320
+Sur lesquels on travaille
+
+800
+00:33:59,320 --> 00:34:01,320
+Donc il y en a un
+
+801
+00:34:01,320 --> 00:34:03,320
+En particulier un méga partnership
+
+802
+00:34:03,320 --> 00:34:05,320
+Sur lequel on travaille
+
+803
+00:34:05,320 --> 00:34:07,320
+Que j'espère pouvoir annoncer
+
+804
+00:34:07,920 --> 00:34:09,920
+Incessamment sous peu
+
+805
+00:34:09,920 --> 00:34:11,920
+Mais il y en a plusieurs
+
+806
+00:34:11,920 --> 00:34:13,920
+Sur lesquelles on travaille
+
+807
+00:34:13,920 --> 00:34:15,920
+En permanence
+
+808
+00:34:15,920 --> 00:34:17,920
+Au fur et à mesure
+
+809
+00:34:17,920 --> 00:34:19,920
+Tu vas avoir 1, 2, 3 partnerships
+
+810
+00:34:19,920 --> 00:34:21,920
+Chacun vient avec X quantité de jeux
+
+811
+00:34:21,920 --> 00:34:23,920
+Et tu lances la pompe
+
+812
+00:34:23,920 --> 00:34:25,920
+Mais de nouveau
+
+813
+00:34:25,920 --> 00:34:27,920
+Comme je l'expliquais
+
+814
+00:34:27,920 --> 00:34:29,920
+Au début de ce call
+
+815
+00:34:29,920 --> 00:34:31,920
+En gros
+
+816
+00:34:31,920 --> 00:34:33,920
+Quand tu fais
+
+817
+00:34:33,920 --> 00:34:35,920
+Ce genre de partnership
+
+818
+00:34:36,520 --> 00:34:38,520
+Tu as des petits besoins
+
+819
+00:34:38,520 --> 00:34:40,520
+J'ai besoin de ça
+
+820
+00:34:40,520 --> 00:34:42,520
+J'ai besoin de ça
+
+821
+00:34:42,520 --> 00:34:44,520
+Ton login
+
+822
+00:34:44,520 --> 00:34:46,520
+Il faut que tu utilises tel standard
+
+823
+00:34:46,520 --> 00:34:48,520
+Pour que ce soit compatible
+
+824
+00:34:48,520 --> 00:34:50,520
+Avec notre tech XYZ
+
+825
+00:34:50,520 --> 00:34:52,520
+Et donc nous à chaque fois
+
+826
+00:34:52,520 --> 00:34:54,520
+Comme c'est une plateforme
+
+827
+00:34:54,520 --> 00:34:56,520
+Vraiment toute nouvelle
+
+828
+00:34:56,520 --> 00:34:58,520
+Maintenant même si on a les bases
+
+829
+00:34:58,520 --> 00:35:00,520
+Oui on s'est publié un jeu
+
+830
+00:35:00,520 --> 00:35:02,520
+On a si on a XYZ
+
+831
+00:35:02,520 --> 00:35:04,520
+Quand tu commences
+
+832
+00:35:05,120 --> 00:35:07,120
+Un mois de développement par ci
+
+833
+00:35:07,120 --> 00:35:09,120
+Un mois de développement par là
+
+834
+00:35:09,120 --> 00:35:11,120
+Donc voilà ça prend du temps
+
+835
+00:35:11,120 --> 00:35:13,120
+Mais comme
+
+836
+00:35:13,120 --> 00:35:15,120
+Toute grosse chose
+
+837
+00:35:15,120 --> 00:35:17,120
+Toute plateforme de cette taille ci
+
+838
+00:35:17,120 --> 00:35:19,120
+Il passe
+
+839
+00:35:19,120 --> 00:35:21,120
+Tu n'as pas le choix
+
+840
+00:35:21,120 --> 00:35:23,120
+Mais voilà ça se passe bien
+
+841
+00:35:23,120 --> 00:35:25,120
+Les deals se font
+
+842
+00:35:25,120 --> 00:35:27,120
+Les contrats se signent
+
+843
+00:35:27,120 --> 00:35:29,120
+Et le développement se fait
+
+844
+00:35:29,120 --> 00:35:31,120
+Donc c'est tout ce qui compte
+
+845
+00:35:31,120 --> 00:35:33,120
+A un moment toutes ces choses là
+
+846
+00:35:33,720 --> 00:35:35,720
+Une fois qu'ils sont développés
+
+847
+00:35:35,720 --> 00:35:37,720
+C'est acquis
+
+848
+00:35:37,720 --> 00:35:39,720
+Tu peux passer à autre chose
+
+849
+00:35:39,720 --> 00:35:41,720
+Et puis un jour tu as un autre développeur
+
+850
+00:35:41,720 --> 00:35:43,720
+Il va te demander il me faut ça
+
+851
+00:35:43,720 --> 00:35:45,720
+Tu dis hop voilà
+
+852
+00:35:45,720 --> 00:35:47,720
+On a déjà le point de connexion
+
+853
+00:35:47,720 --> 00:35:49,720
+T'as que les secrètes
+
+854
+00:35:49,720 --> 00:35:51,720
+Vas-y tu peux le faire
+
+855
+00:35:51,720 --> 00:35:53,720
+Et voilà on est dans cette situation
+
+856
+00:35:53,720 --> 00:35:55,720
+En ce moment
+
+857
+00:35:55,720 --> 00:35:57,720
+J'ai une question par rapport
+
+858
+00:35:57,720 --> 00:35:59,720
+A ce dont tu viens de parler un petit peu plus tôt
+
+859
+00:35:59,720 --> 00:36:01,720
+Après je donnerai la parole
+
+860
+00:36:02,320 --> 00:36:04,320
+A JBM qui veut dire quelque chose
+
+861
+00:36:04,320 --> 00:36:06,320
+Ca se passe comment
+
+862
+00:36:06,320 --> 00:36:08,320
+L'acquisition des jeux
+
+863
+00:36:08,320 --> 00:36:10,320
+Est-ce que c'est vous qui démarchez les boîtes
+
+864
+00:36:10,320 --> 00:36:12,320
+Ou est-ce que c'est elle qui vient vers vous
+
+865
+00:36:12,320 --> 00:36:14,320
+Ou c'est genre un 50-50 ou un 60-40
+
+866
+00:36:14,320 --> 00:36:16,320
+En tout cas c'est certainement un mix
+
+867
+00:36:18,320 --> 00:36:20,320
+On a beaucoup de
+
+868
+00:36:20,320 --> 00:36:22,320
+Studios du web 3
+
+869
+00:36:22,320 --> 00:36:24,320
+Qui nous reach out
+
+870
+00:36:24,320 --> 00:36:26,320
+Parce que
+
+871
+00:36:26,320 --> 00:36:28,320
+On en a qui nous reach out
+
+872
+00:36:28,320 --> 00:36:30,320
+Qui utilise la plateforme
+
+873
+00:36:30,920 --> 00:36:32,920
+On va publier que chez vous
+
+874
+00:36:32,920 --> 00:36:34,920
+On a un mix
+
+875
+00:36:34,920 --> 00:36:36,920
+C'est vraiment au cas par cas
+
+876
+00:36:36,920 --> 00:36:38,920
+Mais en tout cas
+
+877
+00:36:38,920 --> 00:36:40,920
+On a des gens qui sont en permanence
+
+878
+00:36:40,920 --> 00:36:42,920
+Occupés à discuter avec des gens
+
+879
+00:36:42,920 --> 00:36:44,920
+Et à signer des deals
+
+880
+00:36:44,920 --> 00:36:46,920
+On a une équipe dédiée à ça
+
+881
+00:36:46,920 --> 00:36:48,920
+Et je vais te poser une question vache
+
+882
+00:36:48,920 --> 00:36:50,920
+Quand vous
+
+883
+00:36:50,920 --> 00:36:52,920
+Démarchez
+
+884
+00:36:52,920 --> 00:36:54,920
+Des boîtes
+
+885
+00:36:54,920 --> 00:36:56,920
+C'est quoi les objections
+
+886
+00:36:56,920 --> 00:36:58,920
+Quand ils refusent par exemple
+
+887
+00:36:59,520 --> 00:37:01,520
+C'est quoi le truc qui leur plaît pas par exemple
+
+888
+00:37:03,520 --> 00:37:05,520
+Il n'y a aucune objection
+
+889
+00:37:05,520 --> 00:37:07,520
+Mis à part le fait de
+
+890
+00:37:07,520 --> 00:37:09,520
+Ok il faut les utilisateurs
+
+891
+00:37:09,520 --> 00:37:11,520
+C'est la seule objection qu'on a
+
+892
+00:37:11,520 --> 00:37:13,520
+Il y a personne
+
+893
+00:37:13,520 --> 00:37:15,520
+Qui nous a dit
+
+894
+00:37:15,520 --> 00:37:17,520
+Pour que je sache
+
+895
+00:37:17,520 --> 00:37:19,520
+Après il doit y avoir quelqu'un
+
+896
+00:37:19,520 --> 00:37:21,520
+Qui a dit quelque chose
+
+897
+00:37:21,520 --> 00:37:23,520
+Mais par rapport à tout ce que moi
+
+898
+00:37:23,520 --> 00:37:25,520
+J'ai cru
+
+899
+00:37:25,520 --> 00:37:27,520
+Comprendre parce que de nouveau
+
+900
+00:37:28,120 --> 00:37:30,120
+C'est la plateforme sur laquelle moi je travaille
+
+901
+00:37:30,120 --> 00:37:32,120
+On a aucune objection
+
+902
+00:37:32,120 --> 00:37:34,120
+Tout le monde a bien
+
+903
+00:37:34,120 --> 00:37:36,120
+Et puis ils ont beaucoup de flexibilité
+
+904
+00:37:36,120 --> 00:37:38,120
+Qu'ils ont eu par ailleurs
+
+905
+00:37:38,120 --> 00:37:40,120
+En termes de la manière
+
+906
+00:37:40,120 --> 00:37:42,120
+Comme ils le vendent
+
+907
+00:37:42,120 --> 00:37:44,120
+Le nouveau système de discount
+
+908
+00:37:44,120 --> 00:37:46,120
+Les différents prix
+
+909
+00:37:46,120 --> 00:37:48,120
+Le Geofencing
+
+910
+00:37:48,120 --> 00:37:50,120
+Il y a beaucoup de choses
+
+911
+00:37:50,120 --> 00:37:52,120
+On est les seuls avec Steam à avoir cette fonctionnalité
+
+912
+00:37:52,120 --> 00:37:54,120
+Donc personne se plaint
+
+913
+00:37:54,120 --> 00:37:56,120
+La seule chose c'est vraiment
+
+914
+00:37:56,720 --> 00:37:58,720
+On veut les users
+
+915
+00:37:58,720 --> 00:38:00,720
+Et puis de nouveau
+
+916
+00:38:00,720 --> 00:38:02,720
+On en revient à ce qu'on a dit
+
+917
+00:38:02,720 --> 00:38:04,720
+On est un petit peu dans la stratégie
+
+918
+00:38:04,720 --> 00:38:06,720
+Bon c'est sans prétention
+
+919
+00:38:06,720 --> 00:38:08,720
+Ce n'est pas pour dire
+
+920
+00:38:08,720 --> 00:38:10,720
+Parce que c'est le seul exemple que je connais
+
+921
+00:38:10,720 --> 00:38:12,720
+Mais Amazon
+
+922
+00:38:12,720 --> 00:38:14,720
+Quand ils ont démarré
+
+923
+00:38:14,720 --> 00:38:16,720
+En fait
+
+924
+00:38:16,720 --> 00:38:18,720
+Ils ont pris beaucoup de temps
+
+925
+00:38:18,720 --> 00:38:20,720
+Parce que
+
+926
+00:38:20,720 --> 00:38:22,720
+Il y a plusieurs choses qui se passent
+
+927
+00:38:22,720 --> 00:38:24,720
+En termes de marché
+
+928
+00:38:25,320 --> 00:38:27,320
+Il y a un land grab qui se passe
+
+929
+00:38:27,320 --> 00:38:29,320
+Il y a toutes sortes de choses qui se passent
+
+930
+00:38:29,320 --> 00:38:31,320
+Et en fait
+
+931
+00:38:31,320 --> 00:38:33,320
+Ils ont vraiment mis beaucoup
+
+932
+00:38:33,320 --> 00:38:35,320
+La priorité sur le développement de leur infrastructure
+
+933
+00:38:35,320 --> 00:38:37,320
+Et à un moment
+
+934
+00:38:37,320 --> 00:38:39,320
+C'était les maîtres du monde
+
+935
+00:38:39,320 --> 00:38:41,320
+Personne n'arrivait à les suivre
+
+936
+00:38:41,320 --> 00:38:43,320
+Et quelque part
+
+937
+00:38:43,320 --> 00:38:45,320
+Sans prétention
+
+938
+00:38:45,320 --> 00:38:47,320
+Je ne me compare pas à Amazon
+
+939
+00:38:47,320 --> 00:38:49,320
+Ou au futur d'Amazon
+
+940
+00:38:49,320 --> 00:38:51,320
+Mais quelque part
+
+941
+00:38:51,320 --> 00:38:53,320
+Ils ont mis beaucoup de temps
+
+942
+00:38:53,920 --> 00:38:55,920
+Quelque part c'est notre stratégie
+
+943
+00:38:55,920 --> 00:38:57,920
+On met en place
+
+944
+00:38:57,920 --> 00:38:59,920
+Beaucoup d'infrastructures
+
+945
+00:38:59,920 --> 00:39:01,920
+Beaucoup de pièces
+
+946
+00:39:01,920 --> 00:39:03,920
+Qui nous donnent une assise
+
+947
+00:39:03,920 --> 00:39:05,920
+Et une avance considérable sur tout le monde
+
+948
+00:39:05,920 --> 00:39:07,920
+Il y a un moment
+
+949
+00:39:07,920 --> 00:39:09,920
+Quand on aura les users
+
+950
+00:39:09,920 --> 00:39:11,920
+Tout le monde va venir
+
+951
+00:39:11,920 --> 00:39:13,920
+Et là ça va faire un effet boule de neige
+
+952
+00:39:13,920 --> 00:39:15,920
+Parce qu'on aura une plateforme incroyable
+
+953
+00:39:15,920 --> 00:39:17,920
+Avec des outils incroyables
+
+954
+00:39:17,920 --> 00:39:19,920
+Et qui permettront aux gens
+
+955
+00:39:19,920 --> 00:39:21,920
+De faire des affaires
+
+956
+00:39:22,520 --> 00:39:24,520
+Et de faire des choses de meilleure condition
+
+957
+00:39:24,520 --> 00:39:26,520
+Que sur Steam
+
+958
+00:39:26,520 --> 00:39:28,520
+Et donc on pense
+
+959
+00:39:28,520 --> 00:39:30,520
+Qu'il nous faut les users
+
+960
+00:39:30,520 --> 00:39:32,520
+Et on y travaille
+
+961
+00:39:32,520 --> 00:39:34,520
+Et c'est pas qu'on n'y arrive pas
+
+962
+00:39:34,520 --> 00:39:36,520
+Si on n'a pas démarré
+
+963
+00:39:36,520 --> 00:39:38,520
+Donc ça il faut comprendre
+
+964
+00:39:38,520 --> 00:39:40,520
+Si tu veux on aurait pu faire faillite dix fois
+
+965
+00:39:40,520 --> 00:39:42,520
+Si on avait dépensé nos thunes n'importe comment
+
+966
+00:39:42,520 --> 00:39:44,520
+Et le marketing
+
+967
+00:39:44,520 --> 00:39:46,520
+Ca coûte très cher
+
+968
+00:39:46,520 --> 00:39:48,520
+Donc si on veut faire les choses
+
+969
+00:39:48,520 --> 00:39:50,520
+De manière efficace
+
+970
+00:39:51,120 --> 00:39:53,120
+Il y a une série de choses
+
+971
+00:39:53,120 --> 00:39:55,120
+Qu'on doit mettre en place
+
+972
+00:39:55,120 --> 00:39:57,120
+Pour pouvoir y arriver
+
+973
+00:39:57,120 --> 00:39:59,120
+Maintenant on est très proche
+
+974
+00:39:59,120 --> 00:40:01,120
+Pourquoi?
+
+975
+00:40:01,120 --> 00:40:03,120
+Parce que d'un côté la plateforme
+
+976
+00:40:03,120 --> 00:40:05,120
+Commence à être
+
+977
+00:40:05,120 --> 00:40:07,120
+Si tu veux
+
+978
+00:40:07,120 --> 00:40:09,120
+Dans un état de mieux en mieux
+
+979
+00:40:09,120 --> 00:40:11,120
+Pour pouvoir faire
+
+980
+00:40:11,120 --> 00:40:13,120
+Le marketing
+
+981
+00:40:13,120 --> 00:40:15,120
+Et retenir les joueurs
+
+982
+00:40:15,120 --> 00:40:17,120
+Mais également
+
+983
+00:40:17,120 --> 00:40:19,120
+On a les jeux qui commencent à être prêts
+
+984
+00:40:19,720 --> 00:40:21,720
+Et puis les gros partnerships ici
+
+985
+00:40:21,720 --> 00:40:23,720
+Qui vont venir avec un influx
+
+986
+00:40:23,720 --> 00:40:25,720
+De jeux de super qualité
+
+987
+00:40:25,720 --> 00:40:27,720
+De qualité mondiale
+
+988
+00:40:27,720 --> 00:40:29,720
+Et qui
+
+989
+00:40:29,720 --> 00:40:31,720
+Va nous permettre de commencer
+
+990
+00:40:31,720 --> 00:40:33,720
+A exécuter
+
+991
+00:40:33,720 --> 00:40:35,720
+La grosse de la plateforme
+
+992
+00:40:35,720 --> 00:40:37,720
+Donc ici on est vraiment
+
+993
+00:40:37,720 --> 00:40:39,720
+Occupé jusqu'à maintenant
+
+994
+00:40:39,720 --> 00:40:41,720
+Tout ce qu'on a fait c'est vraiment
+
+995
+00:40:41,720 --> 00:40:43,720
+Mettre en place les choses
+
+996
+00:40:43,720 --> 00:40:45,720
+Les tester, s'assurer que tout fonctionne
+
+997
+00:40:45,720 --> 00:40:47,720
+Écouter les développeurs, fixer les trucs
+
+998
+00:40:48,320 --> 00:40:50,320
+On est occupé à fortifier
+
+999
+00:40:50,320 --> 00:40:52,320
+Notre position
+
+1000
+00:40:52,320 --> 00:40:54,320
+Et puis
+
+1001
+00:40:54,320 --> 00:40:56,320
+Ici cette année
+
+1002
+00:40:56,320 --> 00:40:58,320
+C'est sûr qu'on va
+
+1003
+00:40:58,320 --> 00:41:00,320
+Commencer à shooter
+
+1004
+00:41:00,320 --> 00:41:02,320
+On a les jeux, on a les partnerships
+
+1005
+00:41:02,320 --> 00:41:04,320
+On a le contenu, la tech
+
+1006
+00:41:04,320 --> 00:41:06,320
+On a tout qui commence
+
+1007
+00:41:06,320 --> 00:41:08,320
+A se mettre en place
+
+1008
+00:41:08,320 --> 00:41:10,320
+Vous misez tout
+
+1009
+00:41:10,320 --> 00:41:12,320
+Pour le moment sur le développement
+
+1010
+00:41:12,320 --> 00:41:14,320
+Vous avez combien
+
+1011
+00:41:14,320 --> 00:41:16,320
+Il y a combien de personnes dans l'équipe?
+
+1012
+00:41:16,920 --> 00:41:18,920
+Non je crois qu'on est
+
+1013
+00:41:18,920 --> 00:41:20,920
+80
+
+1014
+00:41:20,920 --> 00:41:22,920
+Ça fluctue en fait
+
+1015
+00:41:22,920 --> 00:41:24,920
+En termes de pourcentage
+
+1016
+00:41:24,920 --> 00:41:26,920
+Comment les tâches
+
+1017
+00:41:26,920 --> 00:41:28,920
+Elles sont divisées?
+
+1018
+00:41:28,920 --> 00:41:30,920
+Il y a combien de personnes qui travaillent
+
+1019
+00:41:30,920 --> 00:41:32,920
+Sur par exemple la partie blockchain
+
+1020
+00:41:32,920 --> 00:41:34,920
+Sur la partie
+
+1021
+00:41:34,920 --> 00:41:36,920
+La plateforme, le front-end etc
+
+1022
+00:41:40,920 --> 00:41:42,920
+Je pourrais pas te dire
+
+1023
+00:41:42,920 --> 00:41:44,920
+Exactement
+
+1024
+00:41:45,520 --> 00:41:47,520
+La team blockchain est conséquente
+
+1025
+00:41:47,520 --> 00:41:49,520
+Par rapport à la taille
+
+1026
+00:41:49,520 --> 00:41:51,520
+Totale de la boîte
+
+1027
+00:41:55,520 --> 00:41:57,520
+Depuis les 6 derniers mois
+
+1028
+00:41:57,520 --> 00:41:59,520
+On est occupé à transitionner
+
+1029
+00:41:59,520 --> 00:42:01,520
+La boîte d'une boîte purement
+
+1030
+00:42:01,520 --> 00:42:03,520
+Développement à une boîte
+
+1031
+00:42:03,520 --> 00:42:05,520
+D'opération
+
+1032
+00:42:07,520 --> 00:42:09,520
+On a de plus en plus
+
+1033
+00:42:09,520 --> 00:42:11,520
+De gens qui s'occupent
+
+1034
+00:42:12,120 --> 00:42:14,120
+Vraiment des opérations
+
+1035
+00:42:14,120 --> 00:42:16,120
+Onboarding de développeurs
+
+1036
+00:42:16,120 --> 00:42:18,120
+Marketing
+
+1037
+00:42:18,120 --> 00:42:20,120
+Business développement
+
+1038
+00:42:24,120 --> 00:42:26,120
+D'ailleurs à ce sujet
+
+1039
+00:42:26,120 --> 00:42:28,120
+On a un super candidat
+
+1040
+00:42:28,120 --> 00:42:30,120
+Pour développeur relation
+
+1041
+00:42:30,120 --> 00:42:32,120
+Après la guerre
+
+1042
+00:42:32,120 --> 00:42:34,120
+En Israël
+
+1043
+00:42:34,120 --> 00:42:36,120
+Un de notre
+
+1044
+00:42:36,120 --> 00:42:38,120
+Développeur relation qui s'appelait Rami
+
+1045
+00:42:38,120 --> 00:42:40,120
+Nous a quitté
+
+1046
+00:42:40,720 --> 00:42:42,720
+En Israël
+
+1047
+00:42:42,720 --> 00:42:44,720
+Ici on a un super candidat
+
+1048
+00:42:44,720 --> 00:42:46,720
+Que j'espère
+
+1049
+00:42:46,720 --> 00:42:48,720
+Pouvoir onborder bientôt
+
+1050
+00:42:54,720 --> 00:42:56,720
+Vous connaissez le gars
+
+1051
+00:42:56,720 --> 00:42:58,720
+Sans savoir que c'était lui
+
+1052
+00:42:58,720 --> 00:43:00,720
+Je ne peux pas dire qui c'est pour l'instant
+
+1053
+00:43:00,720 --> 00:43:02,720
+Mais dans le monde entier
+
+1054
+00:43:02,720 --> 00:43:04,720
+Tous ceux qui sont intéressés
+
+1055
+00:43:04,720 --> 00:43:06,720
+Dans l'industrie du jeu vidéo
+
+1056
+00:43:06,720 --> 00:43:08,720
+Dans le développement etc
+
+1057
+00:43:09,320 --> 00:43:11,320
+On vu son travail
+
+1058
+00:43:11,320 --> 00:43:13,320
+Dans les années qui sont passées
+
+1059
+00:43:13,320 --> 00:43:15,320
+Très régulièrement
+
+1060
+00:43:15,320 --> 00:43:17,320
+Quand tu dis Rami nous a quitté
+
+1061
+00:43:17,320 --> 00:43:19,320
+Il a quitté Ultra ou il est décédé?
+
+1062
+00:43:19,320 --> 00:43:21,320
+Oui pardon il a quitté Ultra
+
+1063
+00:43:21,320 --> 00:43:23,320
+Pour que je sache
+
+1064
+00:43:25,320 --> 00:43:27,320
+J'aurais peut-être pas dit ça
+
+1065
+00:43:27,320 --> 00:43:29,320
+Aussi casual
+
+1066
+00:43:33,320 --> 00:43:35,320
+JBM comment ça va?
+
+1067
+00:43:35,320 --> 00:43:37,320
+Salut vous m'entendez?
+
+1068
+00:43:37,920 --> 00:43:39,920
+Salut David salut tout le monde
+
+1069
+00:43:39,920 --> 00:43:41,920
+Je voulais rebondir sur deux points
+
+1070
+00:43:41,920 --> 00:43:43,920
+Le premier c'était
+
+1071
+00:43:43,920 --> 00:43:45,920
+Le jeu de sport
+
+1072
+00:43:45,920 --> 00:43:47,920
+Il y a comme un flou
+
+1073
+00:43:47,920 --> 00:43:49,920
+Pendant plusieurs années
+
+1074
+00:43:49,920 --> 00:43:51,920
+On a pensé que c'était un triple A
+
+1075
+00:43:51,920 --> 00:43:53,920
+Puis finalement tu as dit
+
+1076
+00:43:53,920 --> 00:43:55,920
+Pendant un live avec Kp
+
+1077
+00:43:55,920 --> 00:43:57,920
+Qu'il serait jouable sur navigateur
+
+1078
+00:43:57,920 --> 00:43:59,920
+Donc il y a un espèce de flou
+
+1079
+00:43:59,920 --> 00:44:01,920
+Par rapport à ce jeu est-ce que tu peux en dire plus?
+
+1080
+00:44:01,920 --> 00:44:03,920
+Et la deuxième question c'est par rapport à tout ce que tu viens de dire
+
+1081
+00:44:03,920 --> 00:44:05,920
+Par rapport au marketing
+
+1082
+00:44:06,520 --> 00:44:08,520
+Est-ce que les conditions de marché jouent un rôle aussi?
+
+1083
+00:44:08,520 --> 00:44:10,520
+Dans le lancement du marketing?
+
+1084
+00:44:10,520 --> 00:44:12,520
+Ou pas du tout?
+
+1085
+00:44:12,520 --> 00:44:14,520
+Vous ne regardez pas ça?
+
+1086
+00:44:14,520 --> 00:44:16,520
+Voilà c'est tout
+
+1087
+00:44:16,520 --> 00:44:18,520
+Alors au niveau des jeux
+
+1088
+00:44:18,520 --> 00:44:20,520
+Non
+
+1089
+00:44:20,520 --> 00:44:22,520
+Puisque
+
+1090
+00:44:22,520 --> 00:44:24,520
+Ces jeux vont être
+
+1091
+00:44:24,520 --> 00:44:26,520
+Marketés
+
+1092
+00:44:26,520 --> 00:44:28,520
+Sans
+
+1093
+00:44:28,520 --> 00:44:30,520
+L'angle crypto
+
+1094
+00:44:30,520 --> 00:44:32,520
+Ils sont faits pour nous on veut
+
+1095
+00:44:32,520 --> 00:44:34,520
+S'adresser
+
+1096
+00:44:35,120 --> 00:44:37,120
+Au mainstream user
+
+1097
+00:44:37,120 --> 00:44:39,120
+Donc les jeux ont été faits de manière à ce qu'on puisse s'adresser à eux
+
+1098
+00:44:39,120 --> 00:44:41,120
+Donc
+
+1099
+00:44:41,120 --> 00:44:43,120
+Que la crypto aille bien ou non
+
+1100
+00:44:43,120 --> 00:44:45,120
+Que les marchés aillent bien ou non
+
+1101
+00:44:45,120 --> 00:44:47,120
+Les jeux vidéo sont
+
+1102
+00:44:47,120 --> 00:44:49,120
+Toujours en pleine forme
+
+1103
+00:44:49,120 --> 00:44:51,120
+D'ailleurs on l'a vu ici avec
+
+1104
+00:44:51,120 --> 00:44:53,120
+Un des derniers jeux
+
+1105
+00:44:53,120 --> 00:44:55,120
+Je ne sais plus comment il s'appelle
+
+1106
+00:44:55,120 --> 00:44:57,120
+C'était une sorte de copie de Pokémon
+
+1107
+00:44:57,120 --> 00:44:59,120
+Palworld
+
+1108
+00:44:59,120 --> 00:45:01,120
+Voilà Palworld c'est ça
+
+1109
+00:45:01,120 --> 00:45:03,120
+Ils ont pété les records
+
+1110
+00:45:03,720 --> 00:45:05,720
+Et ça voilà c'est la semaine passée
+
+1111
+00:45:05,720 --> 00:45:07,720
+Donc
+
+1112
+00:45:07,720 --> 00:45:09,720
+D'ailleurs en fait
+
+1113
+00:45:09,720 --> 00:45:11,720
+Généralement quand on est dans des récessions
+
+1114
+00:45:11,720 --> 00:45:13,720
+Ou des crises financières
+
+1115
+00:45:13,720 --> 00:45:15,720
+C'est
+
+1116
+00:45:15,720 --> 00:45:17,720
+Pendant ces moments là que
+
+1117
+00:45:17,720 --> 00:45:19,720
+Les jeux vidéo
+
+1118
+00:45:19,720 --> 00:45:21,720
+S'en vendent le mieux
+
+1119
+00:45:21,720 --> 00:45:23,720
+Donc
+
+1120
+00:45:23,720 --> 00:45:25,720
+Je veux dire à la limite
+
+1121
+00:45:25,720 --> 00:45:27,720
+Aucune corrélation voire
+
+1122
+00:45:27,720 --> 00:45:29,720
+L'inverse c'est encore mieux
+
+1123
+00:45:29,720 --> 00:45:31,720
+Donc voilà
+
+1124
+00:45:32,320 --> 00:45:34,320
+Si on était un jeu web 3
+
+1125
+00:45:34,320 --> 00:45:36,320
+Je me ferais du soucis peut-être
+
+1126
+00:45:38,320 --> 00:45:40,320
+Quand il y a un baird market
+
+1127
+00:45:40,320 --> 00:45:42,320
+Je me dirais merde c'est pas le moment de lancer machin
+
+1128
+00:45:42,320 --> 00:45:44,320
+Tu dois attendre
+
+1129
+00:45:44,320 --> 00:45:46,320
+Que ça passe
+
+1130
+00:45:46,320 --> 00:45:48,320
+Mais ici c'est pas du tout notre objectif
+
+1131
+00:45:48,320 --> 00:45:50,320
+Vous lancez quand même deux gros jeux exclusifs web 3
+
+1132
+00:45:52,320 --> 00:45:54,320
+Oui mais c'est web 3
+
+1133
+00:45:54,320 --> 00:45:56,320
+Mais on les markete pas en tant que web 3
+
+1134
+00:45:56,320 --> 00:45:58,320
+En fait si tu veux
+
+1135
+00:45:58,320 --> 00:46:00,320
+La plupart des jeux web 3
+
+1136
+00:46:00,920 --> 00:46:02,920
+Tu vas créer un truc
+
+1137
+00:46:02,920 --> 00:46:04,920
+Où tu vas connecter ton metamask
+
+1138
+00:46:04,920 --> 00:46:06,920
+Et c'est parti tu lances ton
+
+1139
+00:46:06,920 --> 00:46:08,920
+C'est un autre truc en fait
+
+1140
+00:46:08,920 --> 00:46:10,920
+Nous en fait c'est un jeu web 3
+
+1141
+00:46:10,920 --> 00:46:12,920
+Mais c'est dans le background
+
+1142
+00:46:12,920 --> 00:46:14,920
+C'est tous les avantages que tu vas avoir
+
+1143
+00:46:14,920 --> 00:46:16,920
+Et les interactions que tu vas pouvoir faire
+
+1144
+00:46:16,920 --> 00:46:18,920
+Avec le jeu hors du jeu
+
+1145
+00:46:20,920 --> 00:46:22,920
+Qui vont pouvoir être faites
+
+1146
+00:46:22,920 --> 00:46:24,920
+Grâce au web 3
+
+1147
+00:46:24,920 --> 00:46:26,920
+Mais t'as pas besoin de savoir que c'est du web 3
+
+1148
+00:46:26,920 --> 00:46:28,920
+Tout ce que tu vas voir c'est
+
+1149
+00:46:29,520 --> 00:46:31,520
+Dans mon application mobile
+
+1150
+00:46:31,520 --> 00:46:33,520
+Dans le jeu sur le web
+
+1151
+00:46:33,520 --> 00:46:35,520
+C'est tout connecté
+
+1152
+00:46:35,520 --> 00:46:37,520
+Je peux vendre mes assets
+
+1153
+00:46:37,520 --> 00:46:39,520
+Mais de là à t'expliquer
+
+1154
+00:46:39,520 --> 00:46:41,520
+Que t'es sur la blockchain
+
+1155
+00:46:41,520 --> 00:46:43,520
+On le fera pas
+
+1156
+00:46:43,520 --> 00:46:45,520
+Et pour le flou autour du jeu sport
+
+1157
+00:46:45,520 --> 00:46:47,520
+Tu peux en dire plus?
+
+1158
+00:46:47,520 --> 00:46:49,520
+Non
+
+1159
+00:46:49,520 --> 00:46:51,520
+Ce que je sais
+
+1160
+00:46:51,520 --> 00:46:53,520
+Si je le fais demain
+
+1161
+00:46:53,520 --> 00:46:55,520
+J'ai tout le monde qui vient
+
+1162
+00:46:55,520 --> 00:46:57,520
+Me taper sur la tête
+
+1163
+00:46:58,120 --> 00:47:00,120
+Ils sont occupés à travailler
+
+1164
+00:47:00,120 --> 00:47:02,120
+Ils sont des marketing
+
+1165
+00:47:02,120 --> 00:47:04,120
+Des annoncements
+
+1166
+00:47:04,120 --> 00:47:06,120
+Etc
+
+1167
+00:47:06,120 --> 00:47:08,120
+Dans ce type de jeu
+
+1168
+00:47:08,120 --> 00:47:10,120
+Oui
+
+1169
+00:47:10,120 --> 00:47:12,120
+Dans ce type de jeu
+
+1170
+00:47:12,120 --> 00:47:14,120
+C'est pas
+
+1171
+00:47:14,120 --> 00:47:16,120
+Je suis sûr que
+
+1172
+00:47:16,120 --> 00:47:18,120
+Des gens ont compris
+
+1173
+00:47:18,120 --> 00:47:20,120
+Ca va être vraiment cool
+
+1174
+00:47:20,120 --> 00:47:22,120
+Merci
+
+1175
+00:47:22,120 --> 00:47:24,120
+Mais c'est pas
+
+1176
+00:47:24,120 --> 00:47:26,120
+C'est pas le jeu
+
+1177
+00:47:26,720 --> 00:47:28,720
+Merci
+
+1178
+00:47:28,720 --> 00:47:30,720
+Chad
+
+1179
+00:47:30,720 --> 00:47:32,720
+Est-ce que je peux interdire?
+
+1180
+00:47:32,720 --> 00:47:34,720
+Ouais
+
+1181
+00:47:34,720 --> 00:47:36,720
+Je vais juste mentionner un truc
+
+1182
+00:47:36,720 --> 00:47:38,720
+Anecdotique
+
+1183
+00:47:38,720 --> 00:47:40,720
+J'ai vu passer un truc
+
+1184
+00:47:40,720 --> 00:47:42,720
+Tu parlais du jeu de sport
+
+1185
+00:47:42,720 --> 00:47:44,720
+Dans le navigateur
+
+1186
+00:47:44,720 --> 00:47:46,720
+Hier dans mon feed
+
+1187
+00:47:46,720 --> 00:47:48,720
+Un mec qui fait un Mario Kart
+
+1188
+00:47:48,720 --> 00:47:50,720
+En Javascript
+
+1189
+00:47:50,720 --> 00:47:52,720
+Il est en train de développer ça
+
+1190
+00:47:52,720 --> 00:47:54,720
+Avec sa voile dans le navigateur
+
+1191
+00:47:55,320 --> 00:47:57,320
+Alors en fait
+
+1192
+00:47:57,320 --> 00:47:59,320
+Le jeu
+
+1193
+00:47:59,320 --> 00:48:01,320
+Peut-être dans un client
+
+1194
+00:48:01,320 --> 00:48:03,320
+Le jeu
+
+1195
+00:48:03,320 --> 00:48:05,320
+Si tu veux
+
+1196
+00:48:05,320 --> 00:48:07,320
+A la base
+
+1197
+00:48:07,320 --> 00:48:09,320
+C'était pas un jeu web
+
+1198
+00:48:09,320 --> 00:48:11,320
+Mais
+
+1199
+00:48:11,320 --> 00:48:13,320
+Ce jeu on pouvait le faire et en web
+
+1200
+00:48:13,320 --> 00:48:15,320
+Et en client
+
+1201
+00:48:15,320 --> 00:48:17,320
+Il va exister des deux manières
+
+1202
+00:48:17,320 --> 00:48:19,320
+Mais il va commencer
+
+1203
+00:48:19,320 --> 00:48:21,320
+En étant un jeu web
+
+1204
+00:48:21,320 --> 00:48:23,320
+Pour plusieurs raisons qui ont été
+
+1205
+00:48:23,920 --> 00:48:25,920
+Mais tu pourras le télécharger
+
+1206
+00:48:25,920 --> 00:48:27,920
+Un moment dans Ultra
+
+1207
+00:48:27,920 --> 00:48:29,920
+Comme
+
+1208
+00:48:29,920 --> 00:48:31,920
+Tu pourras l'accéder directement
+
+1209
+00:48:31,920 --> 00:48:33,920
+A travers le browser
+
+1210
+00:48:33,920 --> 00:48:35,920
+Tu pourras l'accéder également
+
+1211
+00:48:35,920 --> 00:48:37,920
+Dans Ultra sans devoir installer
+
+1212
+00:48:37,920 --> 00:48:39,920
+Des choses
+
+1213
+00:48:39,920 --> 00:48:41,920
+Tu auras le choix
+
+1214
+00:48:41,920 --> 00:48:43,920
+Tu diras je le lance en mode web
+
+1215
+00:48:43,920 --> 00:48:45,920
+Ou bien je le lance en mode client
+
+1216
+00:48:45,920 --> 00:48:47,920
+Mais finalement c'est
+
+1217
+00:48:47,920 --> 00:48:49,920
+100% le même jeu
+
+1218
+00:48:49,920 --> 00:48:51,920
+Alors
+
+1219
+00:48:52,520 --> 00:48:54,520
+Je vais donner la parole au Benji
+
+1220
+00:48:54,520 --> 00:48:56,520
+Mais essaye de faire vraiment court
+
+1221
+00:48:56,520 --> 00:48:58,520
+Parce que j'aimerais poser une ou deux questions
+
+1222
+00:48:58,520 --> 00:49:00,520
+Après ça sera à la fin de l'heure
+
+1223
+00:49:00,520 --> 00:49:02,520
+Très bien
+
+1224
+00:49:02,520 --> 00:49:04,520
+Je vais aller à l'essentiel
+
+1225
+00:49:04,520 --> 00:49:06,520
+Cette fois-ci par rapport à l'esthétique
+
+1226
+00:49:06,520 --> 00:49:08,520
+De la plateforme
+
+1227
+00:49:08,520 --> 00:49:10,520
+Tout ce qui est tri
+
+1228
+00:49:10,520 --> 00:49:12,520
+Le lifting un peu qui pourrait être repensé
+
+1229
+00:49:12,520 --> 00:49:14,520
+Quant à l'inventaire
+
+1230
+00:49:14,520 --> 00:49:16,520
+Qui nous est propre
+
+1231
+00:49:16,520 --> 00:49:18,520
+Et tout ce qui en suit
+
+1232
+00:49:18,520 --> 00:49:20,520
+Même par rapport au placement
+
+1233
+00:49:21,120 --> 00:49:23,120
+Unique marketplace etc
+
+1234
+00:49:23,120 --> 00:49:25,120
+Est-ce qu'on a à horizon
+
+1235
+00:49:25,120 --> 00:49:27,120
+De quelques semaines voire mois
+
+1236
+00:49:27,120 --> 00:49:29,120
+Quelque chose qui va se dessiner pour améliorer
+
+1237
+00:49:29,120 --> 00:49:31,120
+La visibilité
+
+1238
+00:49:31,120 --> 00:49:33,120
+Tu as beaucoup parlé justement
+
+1239
+00:49:33,120 --> 00:49:35,120
+De quêtes d'utilisateurs
+
+1240
+00:49:35,120 --> 00:49:37,120
+Quand ils vont arriver sur la plateforme
+
+1241
+00:49:37,120 --> 00:49:39,120
+Tu l'as dit toi-même
+
+1242
+00:49:39,120 --> 00:49:41,120
+Il fallait justement qu'ils restent au-delà d'un mois
+
+1243
+00:49:41,120 --> 00:49:43,120
+Et pour cela je pense qu'il faut une plateforme
+
+1244
+00:49:43,120 --> 00:49:45,120
+Au-delà de l'ergonomie
+
+1245
+00:49:45,120 --> 00:49:47,120
+Qui est quelque chose de propre
+
+1246
+00:49:47,120 --> 00:49:49,120
+Qui donne envie par exemple
+
+1247
+00:49:49,720 --> 00:49:51,720
+Je suis un peu un collectionneur
+
+1248
+00:49:51,720 --> 00:49:53,720
+Que mes différents inventaires
+
+1249
+00:49:53,720 --> 00:49:55,720
+Je puisse les trier de telle ou telle manière
+
+1250
+00:49:55,720 --> 00:49:57,720
+Est-ce que ça va arriver bientôt?
+
+1251
+00:49:57,720 --> 00:49:59,720
+Tu as compris
+
+1252
+00:49:59,720 --> 00:50:01,720
+Tu as mis le doigt exactement
+
+1253
+00:50:01,720 --> 00:50:03,720
+Sur notre constat
+
+1254
+00:50:07,720 --> 00:50:09,720
+Si tu veux en fait quand tu build une plateforme
+
+1255
+00:50:09,720 --> 00:50:11,720
+Il y a beaucoup de choses que tu veux faire
+
+1256
+00:50:13,720 --> 00:50:15,720
+De manière à avoir l'utilité
+
+1257
+00:50:15,720 --> 00:50:17,720
+Donc tu commences avec l'utilité
+
+1258
+00:50:18,320 --> 00:50:20,320
+Tu dis que les gens peuvent le faire
+
+1259
+00:50:20,320 --> 00:50:22,320
+Je peux mettre un truc en vente
+
+1260
+00:50:24,320 --> 00:50:26,320
+Et puis par la suite tu hitères dessus
+
+1261
+00:50:26,320 --> 00:50:28,320
+Et tu improves, tu rajoutes les filtres
+
+1262
+00:50:28,320 --> 00:50:30,320
+Peut-être même des petits folders
+
+1263
+00:50:30,320 --> 00:50:32,320
+Des organisations, ce genre de choses là
+
+1264
+00:50:32,320 --> 00:50:34,320
+Une photo de profil par exemple
+
+1265
+00:50:34,320 --> 00:50:36,320
+Par exemple, ça aussi
+
+1266
+00:50:36,320 --> 00:50:38,320
+Et ça c'est les choses sur lesquelles
+
+1267
+00:50:38,320 --> 00:50:40,320
+On travaille maintenant
+
+1268
+00:50:40,320 --> 00:50:42,320
+L'utilité est là
+
+1269
+00:50:42,320 --> 00:50:44,320
+Ce n'est pas super sexy
+
+1270
+00:50:44,320 --> 00:50:46,320
+Ce n'est pas ce qui est le mieux
+
+1271
+00:50:46,920 --> 00:50:48,920
+Le rendre après joli
+
+1272
+00:50:48,920 --> 00:50:50,920
+C'est le plus facile
+
+1273
+00:50:50,920 --> 00:50:52,920
+Donc ici
+
+1274
+00:50:52,920 --> 00:50:54,920
+Là en ce moment
+
+1275
+00:50:54,920 --> 00:50:56,920
+Ils sont occupés à travailler sur
+
+1276
+00:50:56,920 --> 00:50:58,920
+Une mise à jour
+
+1277
+00:50:58,920 --> 00:51:00,920
+Du NFT Marketplace
+
+1278
+00:51:00,920 --> 00:51:02,920
+Pour pouvoir avoir
+
+1279
+00:51:02,920 --> 00:51:04,920
+Une recherche meilleure
+
+1280
+00:51:04,920 --> 00:51:06,920
+Avec des filtres, des filtres par collection
+
+1281
+00:51:06,920 --> 00:51:08,920
+Ce genre de choses là
+
+1282
+00:51:08,920 --> 00:51:10,920
+Et ça c'est le premier facelift
+
+1283
+00:51:11,520 --> 00:51:13,520
+...
+
+1284
+00:51:15,520 --> 00:51:17,520
+Ah, encore une petite coupure
+
+1285
+00:51:17,520 --> 00:51:19,520
+Ah, pardon
+
+1286
+00:51:19,520 --> 00:51:21,520
+Donc le premier facelift
+
+1287
+00:51:21,520 --> 00:51:23,520
+C'est le NFT Marketplace
+
+1288
+00:51:23,520 --> 00:51:25,520
+Les filtres par collection
+
+1289
+00:51:25,520 --> 00:51:27,520
+Tout ça, tout ça
+
+1290
+00:51:27,520 --> 00:51:29,520
+Et ensuite, la deuxième chose
+
+1291
+00:51:29,520 --> 00:51:31,520
+Qui a été designée
+
+1292
+00:51:31,520 --> 00:51:33,520
+Et sur laquelle ils sont occupés
+
+1293
+00:51:33,520 --> 00:51:35,520
+A travailler
+
+1294
+00:51:35,520 --> 00:51:37,520
+C'est le facelift d'Ultra Games
+
+1295
+00:51:37,520 --> 00:51:39,520
+On a un nouveau design
+
+1296
+00:51:40,120 --> 00:51:42,120
+Mega sexy
+
+1297
+00:51:42,120 --> 00:51:44,120
+Donc ça reste les mêmes données
+
+1298
+00:51:44,120 --> 00:51:46,120
+Ça reste les mêmes
+
+1299
+00:51:46,120 --> 00:51:48,120
+Data endpoints
+
+1300
+00:51:48,120 --> 00:51:50,120
+Qu'on réutilise
+
+1301
+00:51:50,120 --> 00:51:52,120
+Pour refactorer
+
+1302
+00:51:52,120 --> 00:51:54,120
+Purement l'interface
+
+1303
+00:51:54,120 --> 00:51:56,120
+Et ça, ce sont les choses
+
+1304
+00:51:56,120 --> 00:51:58,120
+Sur lesquelles ils sont occupés
+
+1305
+00:51:58,120 --> 00:52:00,120
+A travailler maintenant
+
+1306
+00:52:00,120 --> 00:52:02,120
+Donc voilà
+
+1307
+00:52:02,120 --> 00:52:04,120
+Le wallet pour l'organisation
+
+1308
+00:52:04,120 --> 00:52:06,120
+Des Unix, c'est quelque chose
+
+1309
+00:52:06,120 --> 00:52:08,120
+Qui va venir par la suite
+
+1310
+00:52:08,720 --> 00:52:10,720
+Ce que j'aimerais faire
+
+1311
+00:52:10,720 --> 00:52:12,720
+Et j'en ai discuté déjà ici en interne
+
+1312
+00:52:12,720 --> 00:52:14,720
+Quand l'API NFT V2
+
+1313
+00:52:14,720 --> 00:52:16,720
+Va sortir
+
+1314
+00:52:16,720 --> 00:52:18,720
+Qui permettra
+
+1315
+00:52:18,720 --> 00:52:20,720
+De faire tout et n'importe quoi
+
+1316
+00:52:20,720 --> 00:52:22,720
+Avec les NFT
+
+1317
+00:52:22,720 --> 00:52:24,720
+J'aimerais ouvrir
+
+1318
+00:52:24,720 --> 00:52:26,720
+Le code source
+
+1319
+00:52:26,720 --> 00:52:28,720
+De notre wallet
+
+1320
+00:52:28,720 --> 00:52:30,720
+Et qui permettra à n'importe qui
+
+1321
+00:52:30,720 --> 00:52:32,720
+De contribuer
+
+1322
+00:52:32,720 --> 00:52:34,720
+A l'interface
+
+1323
+00:52:34,720 --> 00:52:36,720
+Aux fonctionnalités du wallet
+
+1324
+00:52:37,320 --> 00:52:39,320
+Parce qu'ici, le truc c'est qu'on utilise
+
+1325
+00:52:39,320 --> 00:52:41,320
+Des API
+
+1326
+00:52:41,320 --> 00:52:43,320
+Qui sont des API en interne
+
+1327
+00:52:43,320 --> 00:52:45,320
+Qui étaient basées sur des systèmes
+
+1328
+00:52:45,320 --> 00:52:47,320
+Qui sont complexes
+
+1329
+00:52:47,320 --> 00:52:49,320
+Tout simplement parce que
+
+1330
+00:52:49,320 --> 00:52:51,320
+L'NFT API n'existait pas
+
+1331
+00:52:51,320 --> 00:52:53,320
+Et maintenant qu'on a ça
+
+1332
+00:52:53,320 --> 00:52:55,320
+Et bien ça devient un piece of cake
+
+1333
+00:52:55,320 --> 00:52:57,320
+Pour n'importe qui
+
+1334
+00:52:57,320 --> 00:52:59,320
+Pour faire n'importe quoi
+
+1335
+00:52:59,320 --> 00:53:01,320
+Donc voilà
+
+1336
+00:53:01,320 --> 00:53:03,320
+Je pense qu'on va faire ça
+
+1337
+00:53:03,320 --> 00:53:05,320
+Et on va ouvrir de plus en plus
+
+1338
+00:53:05,920 --> 00:53:07,920
+Toutes ces fonctionnalités à tout le monde
+
+1339
+00:53:07,920 --> 00:53:09,920
+Et travailler
+
+1340
+00:53:09,920 --> 00:53:11,920
+Avec la communauté
+
+1341
+00:53:11,920 --> 00:53:13,920
+En collaboration
+
+1342
+00:53:13,920 --> 00:53:15,920
+Donc ça va être vraiment intéressant
+
+1343
+00:53:15,920 --> 00:53:17,920
+Quand j'entends ça
+
+1344
+00:53:17,920 --> 00:53:19,920
+C'est mon esprit qui me fait me dire
+
+1345
+00:53:19,920 --> 00:53:21,920
+N'as-tu pas peur que cette technologie
+
+1346
+00:53:21,920 --> 00:53:23,920
+Que vous avez développée
+
+1347
+00:53:23,920 --> 00:53:25,920
+Soit prise par des gens qui ont des budgets
+
+1348
+00:53:25,920 --> 00:53:27,920
+Ou des entreprises existantes
+
+1349
+00:53:27,920 --> 00:53:29,920
+Qui sont beaucoup plus importantes
+
+1350
+00:53:29,920 --> 00:53:31,920
+Et qui soient utilisées
+
+1351
+00:53:31,920 --> 00:53:33,920
+Pour montrer ce qu'est en train de construire Ultra
+
+1352
+00:53:35,920 --> 00:53:37,920
+Alors
+
+1353
+00:53:37,920 --> 00:53:39,920
+Notre NFT standard
+
+1354
+00:53:39,920 --> 00:53:41,920
+Est fabriqué de manière
+
+1355
+00:53:41,920 --> 00:53:43,920
+A ce que n'importe qui puisse faire
+
+1356
+00:53:43,920 --> 00:53:45,920
+Ce qu'on fait
+
+1357
+00:53:45,920 --> 00:53:47,920
+Puisque nous en fait on l'a fait
+
+1358
+00:53:47,920 --> 00:53:49,920
+En consommant cette technologie
+
+1359
+00:53:49,920 --> 00:53:51,920
+Qui est disponible
+
+1360
+00:53:51,920 --> 00:53:53,920
+Ceci dit
+
+1361
+00:53:53,920 --> 00:53:55,920
+Toutes les personnes qui utilisent
+
+1362
+00:53:55,920 --> 00:53:57,920
+Notre NFT standard
+
+1363
+00:53:57,920 --> 00:53:59,920
+Vont contribuer au succès d'Ultra
+
+1364
+00:54:01,920 --> 00:54:03,920
+Et par rapport au design
+
+1365
+00:54:04,520 --> 00:54:06,520
+La manière de comment fonctionne
+
+1366
+00:54:06,520 --> 00:54:08,520
+L'NFT standard
+
+1367
+00:54:08,520 --> 00:54:10,520
+La manière de comment fonctionne
+
+1368
+00:54:10,520 --> 00:54:12,520
+L'NFT marketplace
+
+1369
+00:54:12,520 --> 00:54:14,520
+Tout ça fait partie du protocole
+
+1370
+00:54:14,520 --> 00:54:16,520
+Et en fait au plus de gens
+
+1371
+00:54:16,520 --> 00:54:18,520
+Utilisent ce standard
+
+1372
+00:54:18,520 --> 00:54:20,520
+Au plus le protocole devient de plus en plus puissant
+
+1373
+00:54:20,520 --> 00:54:22,520
+Donc voilà
+
+1374
+00:54:22,520 --> 00:54:24,520
+Moi je dirais Steam
+
+1375
+00:54:24,520 --> 00:54:26,520
+Utilise les Unix
+
+1376
+00:54:26,520 --> 00:54:28,520
+Parce que si ils utilisent les Unix
+
+1377
+00:54:28,520 --> 00:54:30,520
+On y gagne
+
+1378
+00:54:30,520 --> 00:54:32,520
+Tout le monde y gagne
+
+1379
+00:54:33,120 --> 00:54:35,120
+C'est dans l'intérêt de tout le monde
+
+1380
+00:54:35,120 --> 00:54:37,120
+Qui a des Unix
+
+1381
+00:54:37,120 --> 00:54:39,120
+Qui a des assets Ultra
+
+1382
+00:54:39,120 --> 00:54:41,120
+C'est un NFT
+
+1383
+00:54:41,120 --> 00:54:43,120
+C'est un NFT
+
+1384
+00:54:43,120 --> 00:54:45,120
+C'est un NFT
+
+1385
+00:54:45,120 --> 00:54:47,120
+Je suis désolé
+
+1386
+00:54:47,120 --> 00:54:49,120
+Je voudrais poser une dernière question
+
+1387
+00:54:49,120 --> 00:54:51,120
+Parce que là on arrive à la fin de l'heure
+
+1388
+00:54:51,120 --> 00:54:53,120
+Je sais pas si David
+
+1389
+00:54:53,120 --> 00:54:55,120
+Tu as du temps pour écrire
+
+1390
+00:54:55,120 --> 00:54:57,120
+On peut faire ça en 5 minutes en plus
+
+1391
+00:54:57,120 --> 00:54:59,120
+Ah ok
+
+1392
+00:54:59,120 --> 00:55:01,120
+J'ai une question
+
+1393
+00:55:01,720 --> 00:55:03,720
+C'est une question qui est revenue très souvent
+
+1394
+00:55:03,720 --> 00:55:05,720
+Qui a été posée sur Telegram
+
+1395
+00:55:05,720 --> 00:55:07,720
+Là aussi dans les commentaires
+
+1396
+00:55:07,720 --> 00:55:09,720
+Sur Twitter etc
+
+1397
+00:55:09,720 --> 00:55:11,720
+Il y a des gens qui questionnent
+
+1398
+00:55:11,720 --> 00:55:13,720
+L'utilité du token
+
+1399
+00:55:13,720 --> 00:55:15,720
+Et il y a quelqu'un qui a mentionné aussi
+
+1400
+00:55:15,720 --> 00:55:17,720
+Une éventuelle refonte
+
+1401
+00:55:17,720 --> 00:55:19,720
+Du tokenomique
+
+1402
+00:55:19,720 --> 00:55:21,720
+Pour 2024
+
+1403
+00:55:21,720 --> 00:55:23,720
+Est-ce que tu peux nous en parler un petit peu
+
+1404
+00:55:23,720 --> 00:55:25,720
+Ok
+
+1405
+00:55:25,720 --> 00:55:27,720
+Alors
+
+1406
+00:55:27,720 --> 00:55:29,720
+Je peux te dire
+
+1407
+00:55:30,320 --> 00:55:32,320
+La chose suivante
+
+1408
+00:55:34,320 --> 00:55:36,320
+Les tokenomiques
+
+1409
+00:55:36,320 --> 00:55:38,320
+De Ultra
+
+1410
+00:55:38,320 --> 00:55:40,320
+Vont en particulier
+
+1411
+00:55:40,320 --> 00:55:42,320
+Le token
+
+1412
+00:55:42,320 --> 00:55:44,320
+En soi Ultra
+
+1413
+00:55:44,320 --> 00:55:46,320
+Son utilité n'a pas encore été
+
+1414
+00:55:46,320 --> 00:55:48,320
+Leveraged
+
+1415
+00:55:48,320 --> 00:55:50,320
+L'utilité principale
+
+1416
+00:55:50,320 --> 00:55:52,320
+Du token
+
+1417
+00:55:52,320 --> 00:55:54,320
+Celui qui va vraiment kickstarter
+
+1418
+00:55:54,320 --> 00:55:56,320
+L'écosystème
+
+1419
+00:55:56,320 --> 00:55:58,320
+C'est le fait d'avoir besoin
+
+1420
+00:55:58,920 --> 00:56:00,920
+Des UOS pour pouvoir
+
+1421
+00:56:00,920 --> 00:56:02,920
+Garantir les transactions sur
+
+1422
+00:56:02,920 --> 00:56:04,920
+Le réseau
+
+1423
+00:56:04,920 --> 00:56:06,920
+Donc je t'explique
+
+1424
+00:56:06,920 --> 00:56:08,920
+Ici il va y avoir
+
+1425
+00:56:08,920 --> 00:56:10,920
+Des DEX
+
+1426
+00:56:10,920 --> 00:56:12,920
+Qui vont commencer à venir
+
+1427
+00:56:12,920 --> 00:56:14,920
+Sur Ultra
+
+1428
+00:56:14,920 --> 00:56:16,920
+Et
+
+1429
+00:56:16,920 --> 00:56:18,920
+Avec les jeux etc
+
+1430
+00:56:18,920 --> 00:56:20,920
+Qui vont venir
+
+1431
+00:56:20,920 --> 00:56:22,920
+Ce qui va se passer c'est que tu vas avoir
+
+1432
+00:56:22,920 --> 00:56:24,920
+Un besoin de plus en plus
+
+1433
+00:56:24,920 --> 00:56:26,920
+De garantir tes transactions
+
+1434
+00:56:27,520 --> 00:56:29,520
+Si tu as des market makers
+
+1435
+00:56:29,520 --> 00:56:31,520
+Qui font des transactions sur les DEX
+
+1436
+00:56:31,520 --> 00:56:33,520
+Pour l'arbitrage
+
+1437
+00:56:33,520 --> 00:56:35,520
+Pour x, y, z raison
+
+1438
+00:56:35,520 --> 00:56:37,520
+Ils vont avoir besoin
+
+1439
+00:56:37,520 --> 00:56:39,520
+De UOS
+
+1440
+00:56:39,520 --> 00:56:41,520
+Donc tu vas avoir
+
+1441
+00:56:41,520 --> 00:56:43,520
+Tu vas avoir
+
+1442
+00:56:43,520 --> 00:56:45,520
+Une demande de plus en plus
+
+1443
+00:56:45,520 --> 00:56:47,520
+Élevée du token UOS
+
+1444
+00:56:47,520 --> 00:56:49,520
+Avec vraiment le lancement
+
+1445
+00:56:49,520 --> 00:56:51,520
+L'ouverture du réseau au public
+
+1446
+00:56:51,520 --> 00:56:53,520
+Si tu veux
+
+1447
+00:56:53,520 --> 00:56:55,520
+En ayant
+
+1448
+00:56:56,120 --> 00:56:58,120
+De l'UOS
+
+1449
+00:56:58,120 --> 00:57:00,120
+Tu réserves une partie
+
+1450
+00:57:00,120 --> 00:57:02,120
+De la bande passante de la blockchain
+
+1451
+00:57:02,120 --> 00:57:04,120
+Et comme
+
+1452
+00:57:04,120 --> 00:57:06,120
+Pour l'instant personne ne peut faire de NFT
+
+1453
+00:57:06,120 --> 00:57:08,120
+Les jeux ne sont pas encore lancés
+
+1454
+00:57:08,120 --> 00:57:10,120
+Etc
+
+1455
+00:57:10,120 --> 00:57:12,120
+Il y a peu besoin de bande passante
+
+1456
+00:57:12,120 --> 00:57:14,120
+De UOS
+
+1457
+00:57:14,120 --> 00:57:16,120
+Donc tu as peu besoin de UOS
+
+1458
+00:57:16,120 --> 00:57:18,120
+Mais tout ça s'est occupé
+
+1459
+00:57:18,120 --> 00:57:20,120
+A se mettre en place
+
+1460
+00:57:20,120 --> 00:57:22,120
+Le DEX
+
+1461
+00:57:22,120 --> 00:57:24,120
+Il est occupé à se faire
+
+1462
+00:57:24,720 --> 00:57:26,720
+Auditer
+
+1463
+00:57:26,720 --> 00:57:28,720
+Donc sécurité
+
+1464
+00:57:28,720 --> 00:57:30,720
+Et les jeux
+
+1465
+00:57:30,720 --> 00:57:32,720
+Il y en a un qui est
+
+1466
+00:57:32,720 --> 00:57:34,720
+Prêt
+
+1467
+00:57:34,720 --> 00:57:36,720
+Sur lequel ils rajoutent un mode de jeu
+
+1468
+00:57:36,720 --> 00:57:38,720
+Et puis le deuxième
+
+1469
+00:57:38,720 --> 00:57:40,720
+Qui va se lancer en close bêta
+
+1470
+00:57:40,720 --> 00:57:42,720
+Et qui se lancera après
+
+1471
+00:57:42,720 --> 00:57:44,720
+Et puis il y a
+
+1472
+00:57:44,720 --> 00:57:46,720
+Ensuite le partnership avec
+
+1473
+00:57:46,720 --> 00:57:48,720
+Tous les autres jeux exclusifs
+
+1474
+00:57:48,720 --> 00:57:50,720
+Qui vont aussi jouer dessus
+
+1475
+00:57:50,720 --> 00:57:52,720
+Donc voilà ça fait partie du lancement
+
+1476
+00:57:53,320 --> 00:57:55,320
+Donc comme
+
+1477
+00:57:55,320 --> 00:57:57,320
+En fait
+
+1478
+00:57:57,320 --> 00:57:59,320
+Comme le token
+
+1479
+00:57:59,320 --> 00:58:01,320
+Est lié directement au besoin
+
+1480
+00:58:01,320 --> 00:58:03,320
+De faire des transactions sur la blockchain
+
+1481
+00:58:03,320 --> 00:58:05,320
+Donc c'est pas du gaz
+
+1482
+00:58:05,320 --> 00:58:07,320
+Mais c'est une allocation
+
+1483
+00:58:07,320 --> 00:58:09,320
+Sur la bande passante
+
+1484
+00:58:09,320 --> 00:58:11,320
+Du réseau global
+
+1485
+00:58:11,320 --> 00:58:13,320
+Son besoin
+
+1486
+00:58:13,320 --> 00:58:15,320
+Ne commencera
+
+1487
+00:58:15,320 --> 00:58:17,320
+Que lorsque les gens
+
+1488
+00:58:17,320 --> 00:58:19,320
+Commencent à utiliser la blockchain
+
+1489
+00:58:19,320 --> 00:58:21,320
+C'est logique, c'est lié
+
+1490
+00:58:21,920 --> 00:58:23,920
+Donc on va pas réinventer
+
+1491
+00:58:23,920 --> 00:58:25,920
+Les tokenomiques
+
+1492
+00:58:25,920 --> 00:58:27,920
+Le token il existe pour ça
+
+1493
+00:58:27,920 --> 00:58:29,920
+Et
+
+1494
+00:58:29,920 --> 00:58:31,920
+C'est mathématique
+
+1495
+00:58:31,920 --> 00:58:33,920
+A un moment t'en auras besoin
+
+1496
+00:58:33,920 --> 00:58:35,920
+Ton business il tourne dessus
+
+1497
+00:58:35,920 --> 00:58:37,920
+Tu veux garantir les transactions à tes utilisateurs
+
+1498
+00:58:37,920 --> 00:58:39,920
+T'achètes du EOS, tu le stake
+
+1499
+00:58:39,920 --> 00:58:41,920
+Et tu garantis ton truc
+
+1500
+00:58:41,920 --> 00:58:43,920
+C'est une ressource publique
+
+1501
+00:58:43,920 --> 00:58:45,920
+Que les gens se partagent
+
+1502
+00:58:45,920 --> 00:58:47,920
+A travers
+
+1503
+00:58:47,920 --> 00:58:49,920
+Les EOS
+
+1504
+00:58:50,520 --> 00:58:52,520
+Mais du coup ça c'est pour les
+
+1505
+00:58:52,520 --> 00:58:54,520
+Développeurs
+
+1506
+00:58:54,520 --> 00:58:56,520
+Qui vont avoir besoin
+
+1507
+00:58:56,520 --> 00:58:58,520
+Pour les utilisateurs
+
+1508
+00:58:58,520 --> 00:59:00,520
+Pourquoi les utilisateurs
+
+1509
+00:59:00,520 --> 00:59:02,520
+Ils auraient besoin de
+
+1510
+00:59:02,520 --> 00:59:04,520
+Staker du EOS
+
+1511
+00:59:04,520 --> 00:59:06,520
+Imagine que tu trades
+
+1512
+00:59:06,520 --> 00:59:08,520
+Sur index
+
+1513
+00:59:08,520 --> 00:59:10,520
+Par exemple
+
+1514
+00:59:10,520 --> 00:59:12,520
+Ou imagine que tu trades des NFT non-stop
+
+1515
+00:59:12,520 --> 00:59:14,520
+Etc
+
+1516
+00:59:14,520 --> 00:59:16,520
+Si tu veux garantir que tes transactions passent
+
+1517
+00:59:16,520 --> 00:59:18,520
+Même quand le réseau est saturé
+
+1518
+00:59:19,120 --> 00:59:21,120
+Avec un peu du EOS c'était tranquille
+
+1519
+00:59:21,120 --> 00:59:23,120
+Ok d'accord
+
+1520
+00:59:23,120 --> 00:59:25,120
+Bon bah j'espère que ça a répondu
+
+1521
+00:59:25,120 --> 00:59:27,120
+Aux interrogations
+
+1522
+00:59:27,120 --> 00:59:29,120
+Des gens qui ont posé ces questions là
+
+1523
+00:59:29,120 --> 00:59:31,120
+En vrai il y en a beaucoup plus
+
+1524
+00:59:31,120 --> 00:59:33,120
+Mais ouais en gros
+
+1525
+00:59:33,120 --> 00:59:35,120
+Je veux dire honnêtement ici
+
+1526
+00:59:35,120 --> 00:59:37,120
+C'est doom and gloom
+
+1527
+00:59:37,120 --> 00:59:39,120
+C'est pas la première
+
+1528
+00:59:39,120 --> 00:59:41,120
+C'est pas la dernière fois
+
+1529
+00:59:41,120 --> 00:59:43,120
+Moi j'essaye de pas trop trop me pencher
+
+1530
+00:59:43,120 --> 00:59:45,120
+Sur ça parce que sinon
+
+1531
+00:59:45,120 --> 00:59:47,120
+C'est pour se pendre tu vois
+
+1532
+00:59:47,720 --> 00:59:49,720
+A chaque fois que le market
+
+1533
+00:59:49,720 --> 00:59:51,720
+Est down
+
+1534
+00:59:51,720 --> 00:59:53,720
+Tout le monde wine etc
+
+1535
+00:59:53,720 --> 00:59:55,720
+Alors je comprends
+
+1536
+00:59:55,720 --> 00:59:57,720
+Mais derrière c'est pas motivant
+
+1537
+00:59:57,720 --> 00:59:59,720
+Donc quand il y a beaucoup de
+
+1538
+00:59:59,720 --> 01:00:01,720
+Négativité je regarde pas
+
+1539
+01:00:01,720 --> 01:00:03,720
+Et je regarde mon calendrier
+
+1540
+01:00:03,720 --> 01:00:05,720
+Je regarde tous mes meetings
+
+1541
+01:00:05,720 --> 01:00:07,720
+Je regarde tout ce que je dois faire
+
+1542
+01:00:07,720 --> 01:00:09,720
+Et je continue et on bourrine
+
+1543
+01:00:09,720 --> 01:00:11,720
+Et voilà on sait ce qu'on fait
+
+1544
+01:00:11,720 --> 01:00:13,720
+On continue à avancer
+
+1545
+01:00:13,720 --> 01:00:15,720
+Les choses se passent bien
+
+1546
+01:00:16,320 --> 01:00:18,320
+Il faut pas lâcher, il faut pas se démoraliser
+
+1547
+01:00:18,320 --> 01:00:20,320
+Et puis voilà dans une semaine
+
+1548
+01:00:20,320 --> 01:00:22,320
+Il y a une bonne news
+
+1549
+01:00:22,320 --> 01:00:24,320
+Les choses se passent bien
+
+1550
+01:00:24,320 --> 01:00:26,320
+Et puis hop là je suis de retour
+
+1551
+01:00:26,320 --> 01:00:28,320
+De toute façon pour remonter le moral
+
+1552
+01:00:28,320 --> 01:00:30,320
+Il y a l'armée des Ultras derrière
+
+1553
+01:00:30,320 --> 01:00:32,320
+Il y a pas de plus si on est là
+
+1554
+01:00:32,320 --> 01:00:34,320
+C'est vrai que t'as une très très
+
+1555
+01:00:34,320 --> 01:00:36,320
+Belle communauté
+
+1556
+01:00:36,320 --> 01:00:38,320
+J'en avais déjà parlé la dernière fois
+
+1557
+01:00:38,320 --> 01:00:40,320
+Qu'on s'était parlé
+
+1558
+01:00:40,320 --> 01:00:42,320
+T'étais vraiment chanceux
+
+1559
+01:00:42,320 --> 01:00:44,320
+Parce que la communauté d'Ultras
+
+1560
+01:00:44,920 --> 01:00:46,920
+D'ailleurs c'est exactement
+
+1561
+01:00:46,920 --> 01:00:48,920
+Oui pardon
+
+1562
+01:00:48,920 --> 01:00:50,920
+C'est vrai mais aussi je pense que
+
+1563
+01:00:50,920 --> 01:00:52,920
+C'est
+
+1564
+01:00:52,920 --> 01:00:54,920
+Tu sais
+
+1565
+01:00:54,920 --> 01:00:56,920
+Même si oui on est en retard
+
+1566
+01:00:56,920 --> 01:00:58,920
+Oui machin franchement
+
+1567
+01:00:58,920 --> 01:01:00,920
+Si tu regardes un petit peu le parcours de ce qu'on fait
+
+1568
+01:01:00,920 --> 01:01:02,920
+Et ce qu'on délivre par an
+
+1569
+01:01:02,920 --> 01:01:04,920
+C'est un travail de taré
+
+1570
+01:01:04,920 --> 01:01:06,920
+Tu vois tout ce qu'on
+
+1571
+01:01:06,920 --> 01:01:08,920
+C'est juste phénoménal
+
+1572
+01:01:08,920 --> 01:01:10,920
+On sort, on continue à sortir
+
+1573
+01:01:10,920 --> 01:01:12,920
+On improuve, on improuve
+
+1574
+01:01:13,520 --> 01:01:15,520
+On se défend tout le temps
+
+1575
+01:01:15,520 --> 01:01:17,520
+Même si c'est pas à la vitesse
+
+1576
+01:01:21,520 --> 01:01:23,520
+Encore un petit piote
+
+1577
+01:01:25,520 --> 01:01:27,520
+Pardon
+
+1578
+01:01:27,520 --> 01:01:29,520
+Ce que je disais c'est même si
+
+1579
+01:01:29,520 --> 01:01:31,520
+C'est pas à la vitesse
+
+1580
+01:01:31,520 --> 01:01:33,520
+Ou
+
+1581
+01:01:33,520 --> 01:01:35,520
+Si tu veux
+
+1582
+01:01:35,520 --> 01:01:37,520
+Ce que les gens aimeraient
+
+1583
+01:01:37,520 --> 01:01:39,520
+Ou même ce que nous on voudrait
+
+1584
+01:01:39,520 --> 01:01:41,520
+Les faits sont là
+
+1585
+01:01:42,120 --> 01:01:44,120
+Quand même beaucoup beaucoup
+
+1586
+01:01:44,120 --> 01:01:46,120
+Donc oui je suis
+
+1587
+01:01:46,120 --> 01:01:48,120
+Tout aussi
+
+1588
+01:01:48,120 --> 01:01:50,120
+Dissatisfied des délais
+
+1589
+01:01:50,120 --> 01:01:52,120
+Etc que tout le monde mais en attendant
+
+1590
+01:01:52,120 --> 01:01:54,120
+On voit les choses
+
+1591
+01:01:54,120 --> 01:01:56,120
+On avance
+
+1592
+01:01:56,120 --> 01:01:58,120
+Donc il y a beaucoup de boîtes qui viennent
+
+1593
+01:01:58,120 --> 01:02:00,120
+Qui rentrent dans la crypto
+
+1594
+01:02:00,120 --> 01:02:02,120
+Et puis 6 mois, 1 an après tu les entends plus
+
+1595
+01:02:02,120 --> 01:02:04,120
+Ou juste
+
+1596
+01:02:04,120 --> 01:02:06,120
+Ils disparaissent
+
+1597
+01:02:06,120 --> 01:02:08,120
+Nous on est toujours là, on signe les deals
+
+1598
+01:02:08,120 --> 01:02:10,120
+On continue à engager des gens
+
+1599
+01:02:10,720 --> 01:02:12,720
+On continue à être dans les events
+
+1600
+01:02:12,720 --> 01:02:14,720
+On fait des lives
+
+1601
+01:02:14,720 --> 01:02:16,720
+On fait des tournois
+
+1602
+01:02:16,720 --> 01:02:18,720
+On fait plein d'events
+
+1603
+01:02:18,720 --> 01:02:20,720
+Un maximum que possible
+
+1604
+01:02:20,720 --> 01:02:22,720
+Et je pense que ça les gens le voient
+
+1605
+01:02:22,720 --> 01:02:24,720
+Si tu regardes un peu
+
+1606
+01:02:24,720 --> 01:02:26,720
+Ce qui se fait dans d'autres
+
+1607
+01:02:26,720 --> 01:02:28,720
+Boîtes crypto
+
+1608
+01:02:28,720 --> 01:02:30,720
+Il y en a peu qui ont vraiment délivré
+
+1609
+01:02:30,720 --> 01:02:32,720
+Ce qu'ils ont promis
+
+1610
+01:02:32,720 --> 01:02:34,720
+Et ici pour l'instant
+
+1611
+01:02:34,720 --> 01:02:36,720
+On est toujours
+
+1612
+01:02:36,720 --> 01:02:38,720
+On track pour délivrer ce qu'on a promis
+
+1613
+01:02:39,320 --> 01:02:41,320
+Et je pense que ça compte
+
+1614
+01:02:41,320 --> 01:02:43,320
+De ne pas lâcher prise
+
+1615
+01:02:43,320 --> 01:02:45,320
+De continuer
+
+1616
+01:02:45,320 --> 01:02:47,320
+Et je pense que les gens voient
+
+1617
+01:02:47,320 --> 01:02:49,320
+Qu'on fait ça
+
+1618
+01:02:49,320 --> 01:02:51,320
+Ok c'est cool
+
+1619
+01:02:51,320 --> 01:02:53,320
+Désolé CypherTux
+
+1620
+01:02:53,320 --> 01:02:55,320
+Bonjour
+
+1621
+01:02:55,320 --> 01:02:57,320
+Je ne peux pas donner la parole
+
+1622
+01:02:57,320 --> 01:02:59,320
+Parce qu'on a déjà dépassé l'heure
+
+1623
+01:02:59,320 --> 01:03:01,320
+T'inquiète
+
+1624
+01:03:01,320 --> 01:03:03,320
+Ça prend 2 secondes
+
+1625
+01:03:03,320 --> 01:03:05,320
+C'était juste pour dire que j'ai assisté à ce live
+
+1626
+01:03:05,320 --> 01:03:07,320
+Et bravo à toi
+
+1627
+01:03:07,920 --> 01:03:09,920
+Tu es ultra impliqué
+
+1628
+01:03:09,920 --> 01:03:11,920
+Ça fait plaisir
+
+1629
+01:03:11,920 --> 01:03:13,920
+Quand même à voir
+
+1630
+01:03:13,920 --> 01:03:15,920
+Moi je ne suis pas
+
+1631
+01:03:15,920 --> 01:03:17,920
+En réalité le projet Ultra
+
+1632
+01:03:17,920 --> 01:03:19,920
+Je l'ai suivi déjà il y a quelques années
+
+1633
+01:03:19,920 --> 01:03:21,920
+Mais ça fait plaisir
+
+1634
+01:03:21,920 --> 01:03:23,920
+D'écouter ce genre
+
+1635
+01:03:23,920 --> 01:03:25,920
+De discours
+
+1636
+01:03:25,920 --> 01:03:27,920
+Parce que ça monte
+
+1637
+01:03:27,920 --> 01:03:29,920
+Une certaine multiplication
+
+1638
+01:03:29,920 --> 01:03:31,920
+Et en réalité aussi
+
+1639
+01:03:31,920 --> 01:03:33,920
+T'as une force avec la communauté
+
+1640
+01:03:33,920 --> 01:03:35,920
+Et continue comme ça
+
+1641
+01:03:36,520 --> 01:03:38,520
+Je suis très content de te voir
+
+1642
+01:03:38,520 --> 01:03:40,520
+Et bravo à toi
+
+1643
+01:03:40,520 --> 01:03:42,520
+Rejoins-nous
+
+1644
+01:03:42,520 --> 01:03:44,520
+Merci
+
+1645
+01:03:44,520 --> 01:03:46,520
+Je vais vous suivre
+
+1646
+01:03:46,520 --> 01:03:48,520
+Ça fait longtemps que j'ai suivi Ultra
+
+1647
+01:03:48,520 --> 01:03:50,520
+Et bravo
+
+1648
+01:03:50,520 --> 01:03:52,520
+C'est votre force aussi
+
+1649
+01:03:52,520 --> 01:03:54,520
+Oui
+
+1650
+01:03:54,520 --> 01:03:56,520
+Nous ce qu'on veut
+
+1651
+01:03:56,520 --> 01:03:58,520
+C'est tout ce que vous nous
+
+1652
+01:03:58,520 --> 01:04:00,520
+Tout le support
+
+1653
+01:04:00,520 --> 01:04:02,520
+Que vous nous donnez
+
+1654
+01:04:02,520 --> 01:04:04,520
+Les retweets
+
+1655
+01:04:05,120 --> 01:04:07,120
+C'est ce qui nous aide
+
+1656
+01:04:07,120 --> 01:04:09,120
+A nous faire connaître
+
+1657
+01:04:09,120 --> 01:04:11,120
+En attendant
+
+1658
+01:04:11,120 --> 01:04:13,120
+Le marketing
+
+1659
+01:04:13,120 --> 01:04:15,120
+Les contrats
+
+1660
+01:04:15,120 --> 01:04:17,120
+C'est vrai que très souvent
+
+1661
+01:04:17,120 --> 01:04:19,120
+On nous dit qu'on a une communauté
+
+1662
+01:04:19,120 --> 01:04:21,120
+Unique
+
+1663
+01:04:21,120 --> 01:04:23,120
+Même des gens dans la crypto
+
+1664
+01:04:23,120 --> 01:04:25,120
+Quand on fait des événements
+
+1665
+01:04:25,120 --> 01:04:27,120
+A chaque fois ils viennent me dire
+
+1666
+01:04:27,120 --> 01:04:29,120
+Ta communauté elle est dingue
+
+1667
+01:04:29,120 --> 01:04:31,120
+C'est vrai que vous êtes
+
+1668
+01:04:31,120 --> 01:04:33,120
+Hyper passionné
+
+1669
+01:04:33,720 --> 01:04:35,720
+Et ça nous aide vraiment
+
+1670
+01:04:35,720 --> 01:04:37,720
+Ça fait toute la différence
+
+1671
+01:04:37,720 --> 01:04:39,720
+C'est pour ça aussi
+
+1672
+01:04:39,720 --> 01:04:41,720
+Que ça motive aussi de notre côté
+
+1673
+01:04:41,720 --> 01:04:43,720
+C'est que quand
+
+1674
+01:04:43,720 --> 01:04:45,720
+Nous on discute
+
+1675
+01:04:45,720 --> 01:04:47,720
+Au niveau marketing
+
+1676
+01:04:47,720 --> 01:04:49,720
+Au niveau les events
+
+1677
+01:04:49,720 --> 01:04:51,720
+On essaye de faire un maximum
+
+1678
+01:04:51,720 --> 01:04:53,720
+Pour distribuer
+
+1679
+01:04:53,720 --> 01:04:55,720
+Des cool trucs
+
+1680
+01:04:55,720 --> 01:04:57,720
+Pour mettre des cool price pool
+
+1681
+01:04:57,720 --> 01:04:59,720
+Dans les tournois
+
+1682
+01:04:59,720 --> 01:05:01,720
+Pour dire bon ben voilà
+
+1683
+01:05:02,320 --> 01:05:04,320
+En attendant
+
+1684
+01:05:04,320 --> 01:05:06,320
+Vous régalez vous
+
+1685
+01:05:06,320 --> 01:05:08,320
+Merci pour la cascade de plaisir
+
+1686
+01:05:08,320 --> 01:05:10,320
+Au plaisir
+
+1687
+01:05:14,320 --> 01:05:16,320
+Merci à tous
+
+1688
+01:05:16,320 --> 01:05:18,320
+Merci à tous d'être venus
+
+1689
+01:05:18,320 --> 01:05:20,320
+Merci toi David d'être venu ce soir
+
+1690
+01:05:20,320 --> 01:05:22,320
+Pour avoir cette petite discussion
+
+1691
+01:05:22,320 --> 01:05:24,320
+J'espère que tu reviendras
+
+1692
+01:05:24,320 --> 01:05:26,320
+Ca fait quasiment exactement un an
+
+1693
+01:05:26,320 --> 01:05:28,320
+Que tu es venu la dernière fois
+
+1694
+01:05:28,320 --> 01:05:30,320
+Donc peut être dans un an
+
+1695
+01:05:30,920 --> 01:05:32,920
+Pour une autre émission
+
+1696
+01:05:32,920 --> 01:05:34,920
+Peut être un peu plus longue
+
+1697
+01:05:34,920 --> 01:05:36,920
+Parce que là c'est vrai
+
+1698
+01:05:36,920 --> 01:05:38,920
+Que beaucoup de gens avaient plein de questions
+
+1699
+01:05:38,920 --> 01:05:40,920
+Et je suppose qu'il y a plein de gens qui voulaient
+
+1700
+01:05:40,920 --> 01:05:42,920
+Eventuellement prendre la parole
+
+1701
+01:05:42,920 --> 01:05:44,920
+Mais c'est compliqué
+
+1702
+01:05:44,920 --> 01:05:46,920
+Mais en tout cas c'était très intéressant
+
+1703
+01:05:46,920 --> 01:05:48,920
+Donc merci encore d'être venu
+
+1704
+01:05:48,920 --> 01:05:50,920
+On peut faire un truc plutôt
+
+1705
+01:05:50,920 --> 01:05:52,920
+A la sortie de l'FPS
+
+1706
+01:05:52,920 --> 01:05:54,920
+On fait le point
+
+1707
+01:05:54,920 --> 01:05:56,920
+Au mois prochain
+
+1708
+01:05:56,920 --> 01:05:58,920
+Yes
+
+1709
+01:05:59,520 --> 01:06:01,520
+Yes exactement
+
+1710
+01:06:01,520 --> 01:06:03,520
+Je ne pourrais pas je serais en train de geeker
+
+1711
+01:06:03,520 --> 01:06:05,520
+Désolé
+
+1712
+01:06:05,520 --> 01:06:07,520
+J'espère bien
+
+1713
+01:06:09,520 --> 01:06:11,520
+Je vous souhaite à tous une très bonne soirée
+
+1714
+01:06:11,520 --> 01:06:13,520
+Demain il y a une émission
+
+1715
+01:06:13,520 --> 01:06:15,520
+Pour ceux qui ne connaissent pas Radio Shad
+
+1716
+01:06:15,520 --> 01:06:17,520
+C'est tous les soirs l'émission
+
+1717
+01:06:17,520 --> 01:06:19,520
+Et demain
+
+1718
+01:06:19,520 --> 01:06:21,520
+5 soirs par semaine
+
+1719
+01:06:21,520 --> 01:06:23,520
+On ne va pas non plus exagérer
+
+1720
+01:06:23,520 --> 01:06:25,520
+Et demain c'est une émission un peu spéciale
+
+1721
+01:06:25,520 --> 01:06:27,520
+Ca va être fun
+
+1722
+01:06:28,120 --> 01:06:30,120
+On va appeler des gens
+
+1723
+01:06:30,120 --> 01:06:32,120
+Et on va leur parler de la blockchain
+
+1724
+01:06:32,120 --> 01:06:34,120
+En direct
+
+1725
+01:06:34,120 --> 01:06:36,120
+Donc si vous voulez avoir un peu de fun
+
+1726
+01:06:36,120 --> 01:06:38,120
+Venez demain soir
+
+1727
+01:06:38,120 --> 01:06:40,120
+Et c'est ça
+
+1728
+01:06:40,120 --> 01:06:42,120
+Encore merci David
+
+1729
+01:06:42,120 --> 01:06:44,120
+Et merci à tous d'être venu
+
+1730
+01:06:44,120 --> 01:06:46,120
+Et on se quitte avec du Affects Twin
+
+1731
+01:06:46,120 --> 01:06:48,120
+Parce que pareil ma console de son ne marche plus
+
+1732
+01:06:48,120 --> 01:06:50,120
+Et c'est pas trop mal
+
+1733
+01:06:50,120 --> 01:06:52,120
+Merci tout le monde
+
+1734
+01:06:52,120 --> 01:06:54,120
+Bonne soirée et à très bientôt
+
+1735
+01:06:54,120 --> 01:06:56,120
+Ciao

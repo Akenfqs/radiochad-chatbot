@@ -1,0 +1,7115 @@
+1
+00:02:00,000 --> 00:02:18,400
+Salut, bienvenue sur Radio Shad, on est le mercredi 29 novembre et ce soir c'est une
+
+2
+00:02:18,400 --> 00:02:24,240
+semaine, une semaine, une soirée spéciale éducation et pour cette soirée on va parler
+
+3
+00:02:24,240 --> 00:02:29,640
+justement de l'éducation dans le domaine des nouvelles technologies, notamment la blockchain
+
+4
+00:02:29,640 --> 00:02:38,800
+et l'intelligence artificielle, les deux gros trends pour la blockchain on va dire
+
+5
+00:02:38,800 --> 00:02:42,880
+dix dernières années et puis pour l'IA de ces deux dernières semaines.
+
+6
+00:02:42,880 --> 00:02:52,520
+Et puis donc j'ai invité la blockchain business school et notamment Bilal qui est déjà parmi
+
+7
+00:02:52,520 --> 00:02:53,520
+nous.
+
+8
+00:02:53,520 --> 00:02:54,520
+Salut Bilal, ça va?
+
+9
+00:02:54,520 --> 00:02:55,520
+Hello, ça va merci.
+
+10
+00:02:55,520 --> 00:02:58,400
+C'était très ambiançant la musique au début.
+
+11
+00:02:58,400 --> 00:03:06,560
+Merci beaucoup, c'était un truc que j'ai fait comme tous les jours en fait, à chaque
+
+12
+00:03:06,560 --> 00:03:09,160
+fois je mets un truc différent mais en ce moment je n'ai pas le temps trop de faire
+
+13
+00:03:09,160 --> 00:03:12,640
+de la musique alors je mets des trucs que j'ai déjà passé dans le passé.
+
+14
+00:03:12,640 --> 00:03:14,640
+C'est pas mal du tout.
+
+15
+00:03:14,640 --> 00:03:19,520
+Merci beaucoup, ça fait super plaisir que tu sois là parce que ça fait longtemps qu'on
+
+16
+00:03:19,520 --> 00:03:23,680
+ne s'est pas parlé, la dernière fois on s'était vu c'était à Biarritz.
+
+17
+00:03:23,680 --> 00:03:25,000
+Oui, ça passe vite.
+
+18
+00:03:26,000 --> 00:03:35,240
+Et donc avant qu'on entame le vif du sujet, d'ailleurs c'est ça, j'ai vu que tu allais
+
+19
+00:03:35,240 --> 00:03:44,680
+aller à Auxerre à la fin janvier et puis j'organise à la fin janvier donc aux crypto
+
+20
+00:03:44,680 --> 00:03:51,160
+auxerre, j'organise la deuxième édition du chat battle et je me suis souvenu que tu m'avais
+
+21
+00:03:51,160 --> 00:03:55,880
+dit que tu serais intéressé de venir alors je voulais profiter de l'émission pour te
+
+22
+00:03:55,880 --> 00:04:01,400
+demander est-ce que tu serais intéressé d'être un des joueurs du chat battle pendant
+
+23
+00:04:01,400 --> 00:04:02,400
+que l'époque auxerre?
+
+24
+00:04:02,400 --> 00:04:04,840
+Ouais carrément, carrément, carrément, ça serait super fun.
+
+25
+00:04:04,840 --> 00:04:07,480
+Bon bah c'est cool, c'est noté.
+
+26
+00:04:07,480 --> 00:04:12,200
+J'ai un temps de réaction à deux à l'heure mais en tout cas je m'amuserai bien.
+
+27
+00:04:12,200 --> 00:04:15,720
+Ouais ouais t'inquiète, c'est pas grave, tu perdras, tant pis.
+
+28
+00:04:15,720 --> 00:04:16,720
+C'est la vie.
+
+29
+00:04:16,720 --> 00:04:24,080
+J'aime bien comment je t'ai pris en otage du live pour te poser la question, ça fait
+
+30
+00:04:24,080 --> 00:04:27,280
+un peu comme les demandes en mariage.
+
+31
+00:04:27,280 --> 00:04:30,280
+Pour se forcer.
+
+32
+00:04:30,280 --> 00:04:37,360
+Le pire c'est que j'ai vraiment toujours un peu pensé que les demandes en mariage que
+
+33
+00:04:37,360 --> 00:04:41,040
+tu vois les vidéos sur internet où les mecs, les trucs traditionnels genre le mec pose
+
+34
+00:04:41,040 --> 00:04:45,800
+un pied à terre, enfin un genou à terre et puis il monte le truc avec la bague et
+
+35
+00:04:45,880 --> 00:04:46,880
+le beau paysage derrière.
+
+36
+00:04:46,880 --> 00:04:50,680
+J'ai toujours eu un petit feeling négatif par rapport à ça, tu sais ça fait vraiment
+
+37
+00:04:50,680 --> 00:04:54,240
+genre comme si le mec n'est pas sûr qu'elle va accepter donc il le fait de cette manière
+
+38
+00:04:54,240 --> 00:04:55,240
+là, tu vois.
+
+39
+00:04:55,240 --> 00:04:56,240
+Je trouve ça un peu bizarre.
+
+40
+00:04:56,240 --> 00:05:01,920
+Oh c'est assez pessimiste, tu peux le voir aussi, l'idée est d'embellir le moment et
+
+41
+00:05:01,920 --> 00:05:06,680
+d'en faire le moment de la femme quoi, donc je sais pas.
+
+42
+00:05:06,680 --> 00:05:09,680
+Ouais c'est vrai, c'est vrai, c'est vrai.
+
+43
+00:05:09,680 --> 00:05:12,680
+C'est plutôt positif du coup.
+
+44
+00:05:13,560 --> 00:05:18,560
+Ouais non mais j'essaie juste de trouver une excuse au fait que je le ferais jamais.
+
+45
+00:05:18,560 --> 00:05:21,560
+Ouais faut jamais le dire jamais.
+
+46
+00:05:21,560 --> 00:05:23,560
+Ouais non c'est vrai, raison.
+
+47
+00:05:23,560 --> 00:05:27,560
+Non mais en plus moi c'est juste que j'aime pas trop les trucs tradis en fait.
+
+48
+00:05:27,560 --> 00:05:31,800
+Je crois que j'ai tellement vu de vidéos de gens qui font des trucs comme ça que je
+
+49
+00:05:31,800 --> 00:05:36,080
+me dis que ça ferait genre un peu ringard et tout.
+
+50
+00:05:36,080 --> 00:05:37,360
+Mais on sait jamais.
+
+51
+00:05:37,360 --> 00:05:40,360
+Des fois faut faire ce qu'il faut.
+
+52
+00:05:41,040 --> 00:05:46,040
+Et puis qu'est-ce que je voulais dire?
+
+53
+00:05:46,040 --> 00:05:49,040
+Bah oui en fait, c'est ça.
+
+54
+00:05:49,040 --> 00:05:57,040
+Donc en fait, normalement tu devais être accompagné de Nathan et Fabien.
+
+55
+00:05:57,040 --> 00:06:06,040
+Nathan m'a dit qu'il était un petit peu crevé ce soir, donc c'était pas dit forcément
+
+56
+00:06:06,720 --> 00:06:12,120
+qu'il viendrait mais qu'il allait peut-être piquer un peu du nez parce qu'il a été très
+
+57
+00:06:12,120 --> 00:06:13,120
+surchargé en ce moment.
+
+58
+00:06:13,120 --> 00:06:15,120
+Donc je comprends un petit peu s'il n'est pas là.
+
+59
+00:06:15,120 --> 00:06:17,120
+Mais c'est très bien s'il n'y a que toi.
+
+60
+00:06:17,120 --> 00:06:20,120
+Pas de soucis, je vais essayer d'assurer.
+
+61
+00:06:20,120 --> 00:06:23,120
+Et donc c'est ça.
+
+62
+00:06:23,120 --> 00:06:33,120
+Et en fait, j'avais déjà invité, on avait déjà parlé de la BBS il y a six mois à
+
+63
+00:06:33,120 --> 00:06:34,120
+peu près.
+
+64
+00:06:34,120 --> 00:06:35,120
+C'était Carlita qui était venue.
+
+65
+00:06:35,200 --> 00:06:36,200
+C'était trop cool.
+
+66
+00:06:36,200 --> 00:06:37,200
+En mars.
+
+67
+00:06:37,200 --> 00:06:38,200
+Ouais.
+
+68
+00:06:38,200 --> 00:06:43,200
+Et on avait la question, attend je me souviens plus de la question, mais je l'ai foutue quelque
+
+69
+00:06:43,200 --> 00:06:44,200
+part.
+
+70
+00:06:44,200 --> 00:06:47,200
+À l'époque, la question c'était l'éducation était-elle une priorité pour l'adoption
+
+71
+00:06:47,200 --> 00:06:48,200
+de blockchain?
+
+72
+00:06:48,200 --> 00:06:52,200
+Donc si vous voulez la réponse à cette question, je ne sais pas si on a répondu, mais en tout
+
+73
+00:06:52,200 --> 00:06:53,200
+cas, l'épisode...
+
+74
+00:06:53,200 --> 00:06:55,200
+Elle est vite répondue comme tu dirais.
+
+75
+00:06:58,200 --> 00:07:04,200
+C'est clair que oui, l'éducation est une priorité pour l'adoption de la blockchain.
+
+76
+00:07:04,280 --> 00:07:10,280
+D'ailleurs, j'ai fait un petit, comment dire, une petite intro dans mon annonce.
+
+77
+00:07:10,280 --> 00:07:13,280
+Je vais vous la lire comme ça.
+
+78
+00:07:13,280 --> 00:07:18,280
+Comme ça, ça fera une belle introduction pour l'émission en attendant que les gens
+
+79
+00:07:18,280 --> 00:07:19,280
+rejoignent petit à petit.
+
+80
+00:07:19,280 --> 00:07:22,280
+Ah, puis il y a Frédéric qui est parmi nous.
+
+81
+00:07:22,280 --> 00:07:23,280
+Je vais lui donner la parole.
+
+82
+00:07:23,280 --> 00:07:25,280
+Ah yes, hello Fred.
+
+83
+00:07:27,280 --> 00:07:28,280
+Maitre Yoda.
+
+84
+00:07:28,280 --> 00:07:29,280
+Salut Fred, ça va?
+
+85
+00:07:29,280 --> 00:07:30,280
+Moi je l'appelle maître Yoda.
+
+86
+00:07:34,280 --> 00:07:36,280
+Comment ça va maître Yoda?
+
+87
+00:07:39,280 --> 00:07:40,280
+Par contre, on t'entend pas.
+
+88
+00:07:40,280 --> 00:07:41,280
+Non, mais il ne veut pas rejoindre.
+
+89
+00:07:41,280 --> 00:07:42,280
+Laissons-le écouter.
+
+90
+00:07:44,280 --> 00:07:45,280
+Ah ok.
+
+91
+00:07:45,280 --> 00:07:46,280
+Mais c'est lui qui a demandé la parole.
+
+92
+00:07:46,280 --> 00:07:48,280
+Non, mais je pense que c'est un bug, non?
+
+93
+00:07:49,280 --> 00:07:50,280
+Bon, en tout cas.
+
+94
+00:07:51,280 --> 00:07:52,280
+Oui, alors mon annonce.
+
+95
+00:07:52,280 --> 00:07:55,280
+Je suis perdu dans mes choses.
+
+96
+00:07:55,280 --> 00:07:56,280
+Attendez.
+
+97
+00:07:57,280 --> 00:07:58,280
+Voilà.
+
+98
+00:08:00,280 --> 00:08:01,280
+Alors.
+
+99
+00:08:01,360 --> 00:08:04,360
+Ah, mais il est carrément parti.
+
+100
+00:08:04,360 --> 00:08:08,360
+Est-ce que tu crois qu'il a été perturbé par le fait que tu l'appelles maître Yoda?
+
+101
+00:08:08,360 --> 00:08:09,360
+Ah non, je le vois.
+
+102
+00:08:10,360 --> 00:08:11,360
+Ok.
+
+103
+00:08:11,360 --> 00:08:14,360
+Je pense que c'est Twitter qui bug un peu.
+
+104
+00:08:15,360 --> 00:08:16,360
+Alors voilà.
+
+105
+00:08:16,360 --> 00:08:18,360
+Mon intro, c'était le monde avance vite.
+
+106
+00:08:18,360 --> 00:08:22,360
+Les dernières tendances technologiques sont en train de bouleverser notre rapport à l'autre
+
+107
+00:08:22,360 --> 00:08:23,360
+et à la réalité.
+
+108
+00:08:24,360 --> 00:08:27,360
+Un seul moyen d'engager le virage paradigmatique, apprendre.
+
+109
+00:08:27,440 --> 00:08:30,440
+Quelles sont ces technologies qui révolutionnent déjà notre quotidien?
+
+110
+00:08:31,440 --> 00:08:33,440
+A-t-on assez de recul pour les appréhender?
+
+111
+00:08:33,440 --> 00:08:36,440
+Et quelles sont les méthodes pour les faire, pour le faire efficacement?
+
+112
+00:08:36,440 --> 00:08:39,440
+En somme, comment se former pour le monde de demain?
+
+113
+00:08:40,440 --> 00:08:43,440
+Et donc, Frédéric redemande la parole, je vais lui donner.
+
+114
+00:08:43,440 --> 00:08:44,440
+Et donc voilà.
+
+115
+00:08:44,440 --> 00:08:46,440
+Et vous répondez un petit peu à ces questions.
+
+116
+00:08:46,440 --> 00:08:49,440
+Alors c'est marrant parce que vous avez commencé la BBS.
+
+117
+00:08:49,440 --> 00:08:52,440
+Ça a commencé comme une formation blockchain et vous avez intégré l'intelligence artificielle
+
+118
+00:08:52,440 --> 00:08:54,440
+il n'y a pas si longtemps que ça.
+
+119
+00:08:54,440 --> 00:08:55,440
+Exactement.
+
+120
+00:08:55,520 --> 00:09:06,520
+En fait, on voulait que le nom clarifie assez bien ce qu'on allait proposer.
+
+121
+00:09:07,520 --> 00:09:11,520
+Et en fait, on était...
+
+122
+00:09:14,520 --> 00:09:15,520
+Comment dire?
+
+123
+00:09:17,520 --> 00:09:20,520
+On était vraiment tellement focus sur ce qu'on voulait faire.
+
+124
+00:09:20,600 --> 00:09:25,600
+On était vraiment tellement focus sur ce qu'on voulait faire au début
+
+125
+00:09:25,600 --> 00:09:28,600
+qu'on n'avait pas pensé que...
+
+126
+00:09:31,600 --> 00:09:33,600
+Enfin, en tout cas, on a trouvé ça super pertinent
+
+127
+00:09:33,600 --> 00:09:38,600
+de rajouter des bootcamps d'intelligence artificielle.
+
+128
+00:09:40,600 --> 00:09:42,600
+En fait, l'histoire c'est que...
+
+129
+00:09:42,600 --> 00:09:43,600
+Ouais, c'est ça.
+
+130
+00:09:43,600 --> 00:09:46,600
+On voulait vraiment être clair sur le naming
+
+131
+00:09:46,680 --> 00:09:50,680
+pour pouvoir acquérir des utilisateurs et rentrer dans le marché
+
+132
+00:09:50,680 --> 00:09:54,680
+qui était quand même assez monopolisé par la Lyra.
+
+133
+00:09:55,680 --> 00:09:57,680
+On avait toujours l'ambition en fait
+
+134
+00:09:57,680 --> 00:10:01,680
+d'élargir le spectre des curriculums
+
+135
+00:10:05,680 --> 00:10:07,680
+et des thématiques,
+
+136
+00:10:07,680 --> 00:10:10,680
+toujours autour de la tech et du produit.
+
+137
+00:10:10,680 --> 00:10:13,680
+Mais voilà.
+
+138
+00:10:13,760 --> 00:10:15,760
+Au début, c'était un peu étrange
+
+139
+00:10:15,760 --> 00:10:17,760
+parce que c'est vrai qu'il y a quand même le mot blockchain
+
+140
+00:10:17,760 --> 00:10:21,760
+dans le titre en fait de Blockchain Business School.
+
+141
+00:10:21,760 --> 00:10:23,760
+Donc du coup, tout d'un coup,
+
+142
+00:10:23,760 --> 00:10:25,760
+l'intelligence artificielle s'invite et tout,
+
+143
+00:10:25,760 --> 00:10:27,760
+ça faisait un peu étrange.
+
+144
+00:10:27,760 --> 00:10:29,760
+Ouais, mais en fait, autre chose,
+
+145
+00:10:29,760 --> 00:10:32,760
+si tu veux que je te partage vraiment le fond du truc,
+
+146
+00:10:32,760 --> 00:10:36,760
+c'est que quand on a nommé l'école la Blockchain Business School,
+
+147
+00:10:36,760 --> 00:10:39,760
+c'était pas tant blockchain pour la technologie,
+
+148
+00:10:39,760 --> 00:10:41,760
+c'était plus pour...
+
+149
+00:10:41,840 --> 00:10:43,840
+Il y a un peu une private joke dedans
+
+150
+00:10:43,840 --> 00:10:45,840
+parce que blockchain, quand tu l'entends,
+
+151
+00:10:45,840 --> 00:10:47,840
+ça fait vraiment singularité.
+
+152
+00:10:47,840 --> 00:10:51,840
+C'était plutôt genre la Business School de la singularité.
+
+153
+00:10:52,840 --> 00:10:54,840
+Ah ouais.
+
+154
+00:10:54,840 --> 00:10:57,840
+Mais en même temps, il n'y aurait pas eu deux fois le mot B
+
+155
+00:10:57,840 --> 00:11:00,840
+et ça faisait un petit peu moins s'ils de film de cul.
+
+156
+00:11:00,840 --> 00:11:02,840
+Donc du coup, vous vous êtes dit...
+
+157
+00:11:04,840 --> 00:11:06,840
+C'est moins intéressant.
+
+158
+00:11:06,840 --> 00:11:08,840
+Non, pas du tout.
+
+159
+00:11:08,840 --> 00:11:10,840
+C'était le premier à faire la fière de l'école.
+
+160
+00:11:10,920 --> 00:11:12,920
+C'était le premier à faire référence à ça.
+
+161
+00:11:12,920 --> 00:11:14,920
+On y avait jamais pensé.
+
+162
+00:11:15,920 --> 00:11:18,920
+Il y a une référence sur Internet, surtout.
+
+163
+00:11:18,920 --> 00:11:20,920
+Les Bullshimbole System.
+
+164
+00:11:20,920 --> 00:11:22,920
+C'est un jeu de terme, en fin d'université.
+
+165
+00:11:23,920 --> 00:11:24,920
+BBS.
+
+166
+00:11:25,920 --> 00:11:27,920
+Ah ouais, non, je ne suis pas geek comme ça, en rapport à Jean.
+
+167
+00:11:29,920 --> 00:11:31,920
+Désolé pour les films de cul.
+
+168
+00:11:31,920 --> 00:11:33,920
+T'as perdu.
+
+169
+00:11:35,920 --> 00:11:37,920
+Bon alors, ouais, et puis donc...
+
+170
+00:11:37,920 --> 00:11:39,920
+Mais sinon, à part le fait que ce n'est pas dans le titre,
+
+171
+00:11:40,000 --> 00:11:42,000
+c'est quand même super smart en fait.
+
+172
+00:11:42,000 --> 00:11:44,000
+Parce que, effectivement,
+
+173
+00:11:46,000 --> 00:11:48,000
+par exemple, ici, on en parle,
+
+174
+00:11:48,000 --> 00:11:50,000
+au début, on a commencé à en parler aussi un petit peu
+
+175
+00:11:50,000 --> 00:11:53,000
+parce que je me suis dit, c'est quand même important.
+
+176
+00:11:54,000 --> 00:11:56,000
+C'est un peu un truc de fou quand même.
+
+177
+00:11:57,000 --> 00:11:59,000
+Et puis en fait, ça va tellement vite
+
+178
+00:11:59,000 --> 00:12:02,000
+que c'est obligé d'en parler.
+
+179
+00:12:02,000 --> 00:12:05,000
+Et surtout que ça s'invite dans tous les domaines.
+
+180
+00:12:05,000 --> 00:12:07,000
+C'est à dire que ce soit
+
+181
+00:12:07,080 --> 00:12:10,080
+la blockchain un petit peu moins de manière hardcore,
+
+182
+00:12:10,080 --> 00:12:12,080
+mais ça s'invite dans l'art de ouf.
+
+183
+00:12:12,080 --> 00:12:14,080
+Et l'art, c'est lié au NFT, etc.
+
+184
+00:12:14,080 --> 00:12:16,080
+Donc, quand on fait beaucoup d'émissions sur
+
+185
+00:12:16,080 --> 00:12:18,080
+le rapport entre justement
+
+186
+00:12:18,080 --> 00:12:20,080
+l'art et le numérique
+
+187
+00:12:20,080 --> 00:12:22,080
+et le NFT, la blockchain
+
+188
+00:12:22,080 --> 00:12:24,080
+et donc la E,
+
+189
+00:12:24,080 --> 00:12:26,080
+tout ça se rejoint un peu.
+
+190
+00:12:26,080 --> 00:12:28,080
+Du coup, maintenant, on a une émission par semaine.
+
+191
+00:12:28,080 --> 00:12:30,080
+Clament, clament, clament, clament.
+
+192
+00:12:31,080 --> 00:12:33,080
+Notre ADN, voilà, que ce soit à la BBS
+
+193
+00:12:33,080 --> 00:12:35,080
+ou chez Pirates,
+
+194
+00:12:35,160 --> 00:12:37,160
+c'est qu'on est des entrepreneurs
+
+195
+00:12:37,160 --> 00:12:39,160
+qui aimons, on va dire,
+
+196
+00:12:39,160 --> 00:12:41,160
+les technologies avancées,
+
+197
+00:12:41,160 --> 00:12:43,160
+les nouvelles technologies,
+
+198
+00:12:43,160 --> 00:12:45,160
+et qu'on aime bien expérimenter avec tout
+
+199
+00:12:45,160 --> 00:12:47,160
+et qu'on a aussi envie de partager notre savoir.
+
+200
+00:12:49,160 --> 00:12:51,160
+Et je ne dis pas ça de manière philanthropique,
+
+201
+00:12:51,160 --> 00:12:53,160
+en fait, ça nous permet aussi
+
+202
+00:12:53,160 --> 00:12:55,160
+de recruter des talents
+
+203
+00:12:55,160 --> 00:12:57,160
+et de nous aider
+
+204
+00:12:57,160 --> 00:12:59,160
+à construire des boîtes.
+
+205
+00:13:01,160 --> 00:13:03,160
+Ouais.
+
+206
+00:13:03,240 --> 00:13:05,240
+Donc, c'est essentiellement des
+
+207
+00:13:05,240 --> 00:13:07,240
+formations qui sont
+
+208
+00:13:07,240 --> 00:13:09,240
+diplômantes?
+
+209
+00:13:09,240 --> 00:13:11,240
+Alors, certifiantes,
+
+210
+00:13:11,240 --> 00:13:13,240
+parce qu'il y a différents types
+
+211
+00:13:13,240 --> 00:13:15,240
+de certification. C'est pour ça que
+
+212
+00:13:15,240 --> 00:13:17,240
+je parlais, je disais tout à l'heure qu'on avait
+
+213
+00:13:17,240 --> 00:13:19,240
+toujours l'ambition d'avoir une diversité
+
+214
+00:13:19,240 --> 00:13:21,240
+de curriculum.
+
+215
+00:13:25,240 --> 00:13:27,240
+Il y a des certificats associés à ces
+
+216
+00:13:27,240 --> 00:13:29,240
+curriculum, il y a les bootcamps de 3 mois,
+
+217
+00:13:29,240 --> 00:13:31,240
+un peu type Le Wagon
+
+218
+00:13:31,320 --> 00:13:33,320
+qui est assez connu,
+
+219
+00:13:33,320 --> 00:13:35,320
+qui se font
+
+220
+00:13:35,320 --> 00:13:37,320
+full online
+
+221
+00:13:37,320 --> 00:13:39,320
+avec un fil conducteur de
+
+222
+00:13:39,320 --> 00:13:41,320
+rendez-vous physique,
+
+223
+00:13:41,320 --> 00:13:43,320
+où on fait des espèces de masterclass,
+
+224
+00:13:43,320 --> 00:13:45,320
+donc c'est l'espèce de présentation du nerf
+
+225
+00:13:45,320 --> 00:13:47,320
+qui permet de deep dive sur
+
+226
+00:13:47,320 --> 00:13:49,320
+un sujet spécifique avec un expert donné,
+
+227
+00:13:49,320 --> 00:13:51,320
+genre quelqu'un d'Ubisoft qui vient
+
+228
+00:13:51,320 --> 00:13:53,320
+t'expliquer comment faire un studio jeu vidéo
+
+229
+00:13:53,320 --> 00:13:55,320
+ou quelqu'un
+
+230
+00:13:55,320 --> 00:13:57,320
+de Ledger qui vient t'expliquer
+
+231
+00:13:57,320 --> 00:13:59,320
+la sécurité hardware
+
+232
+00:13:59,400 --> 00:14:01,400
+ou des avocats
+
+233
+00:14:01,400 --> 00:14:03,400
+qui viennent te parler d'un sujet spécifique.
+
+234
+00:14:03,400 --> 00:14:05,400
+Donc ça c'est
+
+235
+00:14:05,400 --> 00:14:07,400
+un peu la première typologie de programme,
+
+236
+00:14:07,400 --> 00:14:09,400
+le bootcamp de 3 mois.
+
+237
+00:14:09,400 --> 00:14:11,400
+Et on a aussi des masters
+
+238
+00:14:11,400 --> 00:14:13,400
+en alternance
+
+239
+00:14:13,400 --> 00:14:15,400
+et ça
+
+240
+00:14:15,400 --> 00:14:17,400
+c'est des gens qui viennent d'avoir leur licence
+
+241
+00:14:17,400 --> 00:14:19,400
+et qui peuvent faire ce master.
+
+242
+00:14:19,400 --> 00:14:21,400
+Et ce master d'ailleurs il n'est pas pure blockchain,
+
+243
+00:14:21,400 --> 00:14:23,400
+c'est un master
+
+244
+00:14:23,400 --> 00:14:25,400
+d'ingénieur d'affaires, un peu
+
+245
+00:14:25,400 --> 00:14:27,400
+innovation et nouvelles technologies.
+
+246
+00:14:27,480 --> 00:14:29,480
+Donc voilà.
+
+247
+00:14:31,480 --> 00:14:33,480
+Ah ouais alors d'accord, alors du coup
+
+248
+00:14:33,480 --> 00:14:35,480
+j'allais dire,
+
+249
+00:14:35,480 --> 00:14:37,480
+de toute façon, pour que ça soit
+
+250
+00:14:37,480 --> 00:14:39,480
+un master et tout, vous êtes obligé
+
+251
+00:14:39,480 --> 00:14:41,480
+de ne pas parler de blockchain, enfin pas que ça soit
+
+252
+00:14:41,480 --> 00:14:43,480
+le tronc commun à blockchain quoi.
+
+253
+00:14:43,480 --> 00:14:45,480
+En fait il n'y a pas de certificat
+
+254
+00:14:45,480 --> 00:14:47,480
+qu'on peut utiliser pour les étudiants
+
+255
+00:14:47,480 --> 00:14:49,480
+en blockchain.
+
+256
+00:14:49,480 --> 00:14:51,480
+Donc ça ne peut pas être un master blockchain.
+
+257
+00:14:51,480 --> 00:14:53,480
+Et donc en fait, comment ça marche
+
+258
+00:14:53,480 --> 00:14:55,480
+l'éducation, tu peux
+
+259
+00:14:55,560 --> 00:14:57,560
+tu choppes des certifications où tu as
+
+260
+00:14:57,560 --> 00:14:59,560
+de manière assez standardisée
+
+261
+00:14:59,560 --> 00:15:01,560
+les
+
+262
+00:15:01,560 --> 00:15:03,560
+thématiques de cours que tu dois donner
+
+263
+00:15:03,560 --> 00:15:05,560
+sauf que il y a 60%
+
+264
+00:15:05,560 --> 00:15:07,560
+que tu dois respecter et 40%
+
+265
+00:15:07,560 --> 00:15:09,560
+qui sont un peu ouverts
+
+266
+00:15:09,560 --> 00:15:11,560
+à l'ADN que tu veux donner à ce parcours.
+
+267
+00:15:11,560 --> 00:15:13,560
+Et donc du coup on utilise
+
+268
+00:15:13,560 --> 00:15:15,560
+ces 40% pour
+
+269
+00:15:15,560 --> 00:15:17,560
+le customiser avec
+
+270
+00:15:17,560 --> 00:15:19,560
+cet aspect un peu nouvelles technologies.
+
+271
+00:15:19,560 --> 00:15:21,560
+C'est là où c'est un peu aberrant.
+
+272
+00:15:21,560 --> 00:15:23,560
+Autant tu pourrais avoir des masters
+
+273
+00:15:23,640 --> 00:15:25,640
+maintenant en IA, et sur plein de domaines.
+
+274
+00:15:25,640 --> 00:15:27,640
+Même la Sorbonne commence à faire
+
+275
+00:15:27,640 --> 00:15:29,640
+un signe de vente sur l'IA.
+
+276
+00:15:29,640 --> 00:15:31,640
+Autant en maths on a déjà, autant en blockchain
+
+277
+00:15:31,640 --> 00:15:33,640
+t'as rien qui est reconnu par l'État
+
+278
+00:15:33,640 --> 00:15:35,640
+qui peut être le corps principal.
+
+279
+00:15:35,640 --> 00:15:37,640
+Plusieurs choses, déjà
+
+280
+00:15:37,640 --> 00:15:39,640
+je sais que il y a plusieurs
+
+281
+00:15:39,640 --> 00:15:41,640
+parcours
+
+282
+00:15:41,640 --> 00:15:43,640
+Alors si
+
+283
+00:15:43,640 --> 00:15:45,640
+déjà il y a le master blockchain
+
+284
+00:15:45,640 --> 00:15:47,640
+je crois chez Polytechnique
+
+285
+00:15:47,640 --> 00:15:49,640
+mais
+
+286
+00:15:49,640 --> 00:15:51,640
+je pense qu'il y en a
+
+287
+00:15:51,720 --> 00:15:53,720
+plusieurs qui vont être créées
+
+288
+00:15:53,720 --> 00:15:55,720
+très bientôt, ou qui sont en train d'être créées
+
+289
+00:15:55,720 --> 00:15:57,720
+et quand on parle d'IA, encore une fois
+
+290
+00:15:57,720 --> 00:15:59,720
+il faut préciser qu'il y a l'IA
+
+291
+00:15:59,720 --> 00:16:01,720
+oui si tu parles de machine learning
+
+292
+00:16:01,720 --> 00:16:03,720
+ça fait 10 ans que c'est mainstream
+
+293
+00:16:03,720 --> 00:16:05,720
+et donc oui il y a des certifications
+
+294
+00:16:05,720 --> 00:16:07,720
+la blockchain
+
+295
+00:16:07,720 --> 00:16:09,720
+ça fait pas 10 ans que c'est mainstream
+
+296
+00:16:09,720 --> 00:16:11,720
+et je suis pas sûr qu'il y ait des masters en Gen AI
+
+297
+00:16:11,720 --> 00:16:13,720
+tu vois
+
+298
+00:16:13,720 --> 00:16:15,720
+qui soient certifiants
+
+299
+00:16:15,720 --> 00:16:17,720
+Les mecs vont faire des masters en intelligence artificielle
+
+300
+00:16:17,720 --> 00:16:19,720
+avec des stages en Gen AI
+
+301
+00:16:19,800 --> 00:16:21,800
+c'est le meilleur qu'ils pourront justifier
+
+302
+00:16:23,800 --> 00:16:25,800
+Mais blockchain
+
+303
+00:16:25,800 --> 00:16:27,800
+est-ce qu'il y a un stigma encore par rapport à ça
+
+304
+00:16:27,800 --> 00:16:29,800
+ou c'est juste qu'ils mettent du temps
+
+305
+00:16:29,800 --> 00:16:31,800
+à installer ça
+
+306
+00:16:31,800 --> 00:16:33,800
+à proposer des trucs
+
+307
+00:16:33,800 --> 00:16:35,800
+si tu veux par exemple toi
+
+308
+00:16:35,800 --> 00:16:37,800
+je sais pas comment ça marche le circuit
+
+309
+00:16:37,800 --> 00:16:39,800
+des formations certifiantes ou diplômantes
+
+310
+00:16:39,800 --> 00:16:41,800
+est-ce que tu dois faire une demande quelque part
+
+311
+00:16:41,800 --> 00:16:43,800
+et puis si tu mets blockchain dans le nom
+
+312
+00:16:43,800 --> 00:16:45,800
+ils te disent ah bah non c'est pas possible
+
+313
+00:16:45,800 --> 00:16:47,800
+bon déjà un
+
+314
+00:16:47,880 --> 00:16:49,880
+je vais pas mentir
+
+315
+00:16:49,880 --> 00:16:51,880
+c'est sûr que les gens froncent des sourcils
+
+316
+00:16:53,880 --> 00:16:55,880
+après j'en ai convaincu plus d'un
+
+317
+00:16:55,880 --> 00:16:57,880
+mais j'en ai aussi pas convaincu
+
+318
+00:16:57,880 --> 00:16:59,880
+plus d'un
+
+319
+00:16:59,880 --> 00:17:01,880
+donc c'est pas non plus
+
+320
+00:17:01,880 --> 00:17:03,880
+ça se navigue
+
+321
+00:17:03,880 --> 00:17:05,880
+mais voilà
+
+322
+00:17:05,880 --> 00:17:07,880
+c'est pas contraignant mais almost
+
+323
+00:17:07,880 --> 00:17:09,880
+et
+
+324
+00:17:11,880 --> 00:17:13,880
+et puis voilà en fait comme je le disais
+
+325
+00:17:13,880 --> 00:17:15,880
+le knowledge
+
+326
+00:17:15,960 --> 00:17:17,960
+le marché est encore jeune
+
+327
+00:17:17,960 --> 00:17:19,960
+petit et il faut qu'il y ait des gens
+
+328
+00:17:19,960 --> 00:17:21,960
+qui se bougent les fesses pour faire ces trucs là
+
+329
+00:17:21,960 --> 00:17:23,960
+et jusqu'à présent il y avait que deux écoles
+
+330
+00:17:23,960 --> 00:17:25,960
+enfin jusqu'à présent
+
+331
+00:17:25,960 --> 00:17:27,960
+il y a que deux écoles
+
+332
+00:17:27,960 --> 00:17:29,960
+qui essayent d'enseigner sur ces thématiques
+
+333
+00:17:29,960 --> 00:17:31,960
+et donc
+
+334
+00:17:31,960 --> 00:17:33,960
+s'il n'y a pas d'école personne peut
+
+335
+00:17:33,960 --> 00:17:35,960
+initier ce genre de
+
+336
+00:17:35,960 --> 00:17:37,960
+certification parce qu'il faut une certaine expérience
+
+337
+00:17:37,960 --> 00:17:39,960
+puis après créer ce programme
+
+338
+00:17:39,960 --> 00:17:41,960
+puis après le faire certifier
+
+339
+00:17:41,960 --> 00:17:43,960
+on est en train de le faire avec la BBS
+
+340
+00:17:44,040 --> 00:17:46,040
+ça prend une sorte de délai d'un an
+
+341
+00:17:46,040 --> 00:17:48,040
+pour l'avoir
+
+342
+00:17:48,040 --> 00:17:50,040
+et
+
+343
+00:17:50,040 --> 00:17:52,040
+et donc voilà
+
+344
+00:17:52,040 --> 00:17:54,040
+c'est juste que
+
+345
+00:17:54,040 --> 00:17:56,040
+la Lyra
+
+346
+00:17:56,040 --> 00:17:58,040
+je crois qu'ils sont en train de le faire également
+
+347
+00:17:58,040 --> 00:18:00,040
+donc
+
+348
+00:18:00,040 --> 00:18:02,040
+c'est des choses qui sont en création
+
+349
+00:18:04,040 --> 00:18:06,040
+Il y a Wanda qui voulait dire quelque chose
+
+350
+00:18:06,040 --> 00:18:08,040
+Salut Wanda
+
+351
+00:18:08,040 --> 00:18:10,040
+Salut à tous
+
+352
+00:18:10,040 --> 00:18:12,040
+excuse moi mon chat
+
+353
+00:18:12,120 --> 00:18:14,120
+j'ai du monde impromptu à la maison
+
+354
+00:18:14,120 --> 00:18:16,120
+je suis en train de dîner
+
+355
+00:18:16,120 --> 00:18:18,120
+je me permets d'intervenir
+
+356
+00:18:18,120 --> 00:18:20,120
+parce qu'effectivement j'ai pas mal étudié la question
+
+357
+00:18:20,120 --> 00:18:22,120
+monsieur Formato sur
+
+358
+00:18:22,120 --> 00:18:24,120
+le thème notamment de la formation
+
+359
+00:18:24,120 --> 00:18:26,120
+professionnelle continue
+
+360
+00:18:26,120 --> 00:18:28,120
+quand je me suis inscrite à Lyra
+
+361
+00:18:28,120 --> 00:18:30,120
+je me suis aperçu que ce n'était pas un organisme
+
+362
+00:18:30,120 --> 00:18:32,120
+de formation mais bien
+
+363
+00:18:32,120 --> 00:18:34,120
+une école
+
+364
+00:18:34,120 --> 00:18:36,120
+alors effectivement pour réussir
+
+365
+00:18:36,120 --> 00:18:38,120
+à
+
+366
+00:18:38,120 --> 00:18:40,120
+proposer des contenus
+
+367
+00:18:40,200 --> 00:18:42,200
+qui relèvent des financements
+
+368
+00:18:42,200 --> 00:18:44,200
+publics notamment du CPF
+
+369
+00:18:44,200 --> 00:18:46,200
+ils sont obligés de passer par
+
+370
+00:18:46,200 --> 00:18:48,200
+un autre organisme qui lui est bien
+
+371
+00:18:48,200 --> 00:18:50,200
+organisme de formation
+
+372
+00:18:50,200 --> 00:18:52,200
+avec un Caliopi
+
+373
+00:18:52,200 --> 00:18:54,200
+et à l'époque
+
+374
+00:18:54,200 --> 00:18:56,200
+c'était Saint-Plon
+
+375
+00:18:56,200 --> 00:18:58,200
+mais avant c'était Cameo
+
+376
+00:18:58,200 --> 00:19:00,200
+si mes souvenirs sont bons, je n'ai plus tous les détails
+
+377
+00:19:00,200 --> 00:19:02,200
+par contre il y a quelque chose vraiment qui vient de changer
+
+378
+00:19:02,200 --> 00:19:04,200
+j'en avais
+
+379
+00:19:04,200 --> 00:19:06,200
+parlé à Pascal Duval
+
+380
+00:19:06,200 --> 00:19:08,200
+qui
+
+381
+00:19:08,280 --> 00:19:10,280
+a remonté un contenu sur
+
+382
+00:19:10,280 --> 00:19:12,280
+les Tokenomics via
+
+383
+00:19:12,280 --> 00:19:14,280
+à Lyra
+
+384
+00:19:14,280 --> 00:19:16,280
+et c'est tout chaud puisque ça date de
+
+385
+00:19:16,280 --> 00:19:18,280
+cet été
+
+386
+00:19:18,280 --> 00:19:20,280
+en effet un format code blockchain
+
+387
+00:19:20,280 --> 00:19:22,280
+est apparu
+
+388
+00:19:22,280 --> 00:19:24,280
+dans ce thésaurus de
+
+389
+00:19:24,280 --> 00:19:26,280
+format code c'est à dire c'est une liste de
+
+390
+00:19:26,280 --> 00:19:28,280
+codes reconnus
+
+391
+00:19:28,280 --> 00:19:30,280
+comme pouvant
+
+392
+00:19:30,280 --> 00:19:32,280
+être
+
+393
+00:19:32,280 --> 00:19:34,280
+valorisé dans le cadre
+
+394
+00:19:34,280 --> 00:19:36,280
+d'un parcours certifiant
+
+395
+00:19:36,360 --> 00:19:38,360
+Alors là il y a énormément de
+
+396
+00:19:38,360 --> 00:19:40,360
+travail à faire, ça veut dire qu'il faut monter
+
+397
+00:19:40,360 --> 00:19:42,360
+des contenus pédagogiques
+
+398
+00:19:42,360 --> 00:19:44,360
+qui se rattachent
+
+399
+00:19:44,360 --> 00:19:46,360
+à la blockchain
+
+400
+00:19:46,360 --> 00:19:48,360
+mais pas uniquement du coup sur le sens IT
+
+401
+00:19:48,360 --> 00:19:50,360
+c'est à dire qu'avant c'était relié
+
+402
+00:19:50,360 --> 00:19:52,360
+à un format code
+
+403
+00:19:52,360 --> 00:19:54,360
+informatique qui ne contenait
+
+404
+00:19:54,360 --> 00:19:56,360
+pas le mot blockchain
+
+405
+00:19:56,360 --> 00:19:58,360
+à proprement parler
+
+406
+00:19:58,360 --> 00:20:00,360
+mais où
+
+407
+00:20:00,360 --> 00:20:02,360
+il me semble que c'était ingénierie des systèmes
+
+408
+00:20:02,360 --> 00:20:04,360
+d'information
+
+409
+00:20:04,440 --> 00:20:06,440
+RNCP ça s'appelle
+
+410
+00:20:06,440 --> 00:20:08,440
+Alors le RNCP
+
+411
+00:20:08,440 --> 00:20:10,440
+oui le répertoire
+
+412
+00:20:10,440 --> 00:20:12,440
+pour être effectivement reconnu au RNCP
+
+413
+00:20:12,440 --> 00:20:14,440
+il faut avoir un code
+
+414
+00:20:14,440 --> 00:20:16,440
+rom associé à un format code
+
+415
+00:20:16,440 --> 00:20:18,440
+et c'est pour ça que je me permettais d'intervenir
+
+416
+00:20:18,440 --> 00:20:20,440
+puisque ce format code
+
+417
+00:20:20,440 --> 00:20:22,440
+vient de sortir en gros
+
+418
+00:20:22,440 --> 00:20:24,440
+avant
+
+419
+00:20:24,440 --> 00:20:26,440
+pour être au RNCP
+
+420
+00:20:26,440 --> 00:20:28,440
+il y a eu la petite période où il y a un
+
+421
+00:20:28,440 --> 00:20:30,440
+répertoire spécifique
+
+422
+00:20:30,440 --> 00:20:32,440
+donc il y a effectivement le répertoire RNCP
+
+423
+00:20:32,520 --> 00:20:34,520
+et puis il y a ce qu'on appelle le RS
+
+424
+00:20:34,520 --> 00:20:36,520
+c'est un répertoire spécifique
+
+425
+00:20:36,520 --> 00:20:38,520
+associé qui là
+
+426
+00:20:38,520 --> 00:20:40,520
+va contenir
+
+427
+00:20:40,520 --> 00:20:42,520
+ces fameux codes
+
+428
+00:20:42,520 --> 00:20:44,520
+ces fameux formats codes
+
+429
+00:20:44,520 --> 00:20:46,520
+qui sont dits innovants
+
+430
+00:20:46,520 --> 00:20:48,520
+donc en fin de compte leur durée de validité est très très courte
+
+431
+00:20:48,520 --> 00:20:50,520
+puisqu'en fin de compte
+
+432
+00:20:50,520 --> 00:20:52,520
+il me semble que c'est 3 ans
+
+433
+00:20:52,520 --> 00:20:54,520
+et tu dois refaire ta demande
+
+434
+00:20:54,520 --> 00:20:56,520
+un an avant la fin
+
+435
+00:20:56,520 --> 00:20:58,520
+des 36 mois donc 12 mois avant
+
+436
+00:20:58,520 --> 00:21:00,520
+et bon
+
+437
+00:21:00,600 --> 00:21:02,600
+c'est très administratif en fait
+
+438
+00:21:02,600 --> 00:21:04,600
+pour dire que c'est très technique
+
+439
+00:21:04,600 --> 00:21:06,600
+très administratif
+
+440
+00:21:06,600 --> 00:21:08,600
+et moi j'étais très surprise que Calera
+
+441
+00:21:08,600 --> 00:21:10,600
+ne soit entre guillemets qu'une
+
+442
+00:21:10,600 --> 00:21:12,600
+école
+
+443
+00:21:12,600 --> 00:21:14,600
+de formation
+
+444
+00:21:14,600 --> 00:21:16,600
+qu'une école
+
+445
+00:21:16,600 --> 00:21:18,600
+en fin de compte tout court justement
+
+446
+00:21:18,600 --> 00:21:20,600
+et en fin de compte c'est vrai que sur leur site comme
+
+447
+00:21:20,600 --> 00:21:22,600
+j'avais vu la mention Caliopi
+
+448
+00:21:22,600 --> 00:21:24,600
+j'étais persuadée que c'était un
+
+449
+00:21:24,600 --> 00:21:26,600
+organisme de formation
+
+450
+00:21:26,600 --> 00:21:28,600
+mais en faisant ma petite enquête
+
+451
+00:21:28,680 --> 00:21:30,680
+j'ai compris qu'il passait du coup par
+
+452
+00:21:30,680 --> 00:21:32,680
+une école mère
+
+453
+00:21:32,680 --> 00:21:34,680
+un peu une maison mère là c'était Saint-Plon
+
+454
+00:21:34,680 --> 00:21:36,680
+en espèce
+
+455
+00:21:36,680 --> 00:21:38,680
+et qui leur permettait justement
+
+456
+00:21:38,680 --> 00:21:40,680
+de pouvoir avoir un contenu
+
+457
+00:21:40,680 --> 00:21:42,680
+RNCP que les gens
+
+458
+00:21:42,680 --> 00:21:44,680
+pouvaient trouver
+
+459
+00:21:44,680 --> 00:21:46,680
+dans les applications reliées à
+
+460
+00:21:46,680 --> 00:21:48,680
+leur CPF et du coup
+
+461
+00:21:48,680 --> 00:21:50,680
+qui était finançable avec
+
+462
+00:21:50,680 --> 00:21:52,680
+des fonds publics
+
+463
+00:21:52,680 --> 00:21:54,680
+parce que c'est bien là le nerf de la guerre
+
+464
+00:21:54,680 --> 00:21:56,680
+j'ai évoqué aussi
+
+465
+00:21:56,760 --> 00:21:58,760
+cette thématique
+
+466
+00:21:58,760 --> 00:22:00,760
+avec Samuel Dumas
+
+467
+00:22:00,760 --> 00:22:02,760
+que j'ai rencontré à Troyes sur le
+
+468
+00:22:02,760 --> 00:22:04,760
+forum IA Web 3
+
+469
+00:22:04,760 --> 00:22:06,760
+et c'est vrai que
+
+470
+00:22:06,760 --> 00:22:08,760
+lui aussi il m'expliquait que
+
+471
+00:22:08,760 --> 00:22:10,760
+en fonction des stagiaires puisque
+
+472
+00:22:10,760 --> 00:22:12,760
+effectivement il y a des contenus en remote
+
+473
+00:22:12,760 --> 00:22:14,760
+et bien les prises en charge
+
+474
+00:22:14,760 --> 00:22:16,760
+en fonction du lieu géographique
+
+475
+00:22:16,760 --> 00:22:18,760
+de chaque stagiaire
+
+476
+00:22:18,760 --> 00:22:20,760
+les prises en charge état n'étaient absolument pas les mêmes
+
+477
+00:22:20,760 --> 00:22:22,760
+voire étaient
+
+478
+00:22:22,760 --> 00:22:24,760
+inexistantes pour certains
+
+479
+00:22:24,840 --> 00:22:26,840
+donc là au niveau
+
+480
+00:22:26,840 --> 00:22:28,840
+équité ça pose
+
+481
+00:22:28,840 --> 00:22:30,840
+un réel problème
+
+482
+00:22:30,840 --> 00:22:32,840
+et moi
+
+483
+00:22:32,840 --> 00:22:34,840
+en vrai ça peut m'intéresser
+
+484
+00:22:34,840 --> 00:22:36,840
+d'investir
+
+485
+00:22:36,840 --> 00:22:38,840
+ces nouvelles capacités
+
+486
+00:22:38,840 --> 00:22:40,840
+c'est à dire
+
+487
+00:22:40,840 --> 00:22:42,840
+se baser sur le format
+
+488
+00:22:42,840 --> 00:22:44,840
+code, c'est à dire que c'est inscrit dans le marbre
+
+489
+00:22:44,840 --> 00:22:46,840
+pas besoin de répertoire
+
+490
+00:22:46,840 --> 00:22:48,840
+spécifique, c'est RNCP
+
+491
+00:22:48,840 --> 00:22:50,840
+mais pour en relever il faut
+
+492
+00:22:50,840 --> 00:22:52,840
+bien avoir un organisme de formation
+
+493
+00:22:52,920 --> 00:22:54,920
+et ensuite en effet il suffit des démarches
+
+494
+00:22:54,920 --> 00:22:56,920
+qui peuvent durer de 12 à 24 mois
+
+495
+00:22:56,920 --> 00:22:58,920
+ensuite ça peut aller très vite
+
+496
+00:22:58,920 --> 00:23:00,920
+aussi il y a des appuis
+
+497
+00:23:00,920 --> 00:23:02,920
+qui peuvent aller très vite
+
+498
+00:23:02,920 --> 00:23:04,920
+On va peut-être pas faire
+
+499
+00:23:04,920 --> 00:23:06,920
+un full documentaire
+
+500
+00:23:06,920 --> 00:23:08,920
+sur le parcours administratif
+
+501
+00:23:10,920 --> 00:23:12,920
+mais c'est intéressant quand même
+
+502
+00:23:14,920 --> 00:23:16,920
+c'est une casquette que je connaissais
+
+503
+00:23:16,920 --> 00:23:18,920
+pas, genre je connaissais
+
+504
+00:23:18,920 --> 00:23:20,920
+Wanda Flyer mais je connaissais pas
+
+505
+00:23:21,000 --> 00:23:23,000
+je suis pas agent administratif
+
+506
+00:23:23,000 --> 00:23:25,000
+mais en tout cas merci
+
+507
+00:23:25,000 --> 00:23:27,000
+je m'occupe de relations entreprise et de formation professionnelle
+
+508
+00:23:27,000 --> 00:23:29,000
+je forme des gens
+
+509
+00:23:29,000 --> 00:23:31,000
+mais c'est surtout pas ça
+
+510
+00:23:31,000 --> 00:23:33,000
+j'ai plutôt la casquette CREA
+
+511
+00:23:33,000 --> 00:23:35,000
+mais c'est pas grave
+
+512
+00:23:35,000 --> 00:23:37,000
+y'a pas de souci
+
+513
+00:23:39,000 --> 00:23:41,000
+Bilal pour
+
+514
+00:23:41,000 --> 00:23:43,000
+la BBS
+
+515
+00:23:43,000 --> 00:23:45,000
+est-ce que
+
+516
+00:23:45,000 --> 00:23:47,000
+on peut en parler maintenant
+
+517
+00:23:47,000 --> 00:23:49,000
+je voulais semi rebondir sur ce qu'il venait de dire
+
+518
+00:23:49,080 --> 00:23:51,080
+il y a un truc que j'avais vu quand j'ai regardé les formations
+
+519
+00:23:51,080 --> 00:23:53,080
+il me semblait que licence et master
+
+520
+00:23:53,080 --> 00:23:55,080
+c'était pas là avant
+
+521
+00:23:55,080 --> 00:23:57,080
+je sais pas si je dis n'importe quoi
+
+522
+00:23:57,080 --> 00:23:59,080
+mais ce qui m'avait fait marrer
+
+523
+00:23:59,080 --> 00:24:01,080
+c'est que j'ai vu le mot master écrit
+
+524
+00:24:01,080 --> 00:24:03,080
+avec un E accent grave
+
+525
+00:24:03,080 --> 00:24:05,080
+R E
+
+526
+00:24:05,080 --> 00:24:07,080
+mais qu'est-ce que c'est que cet orthographe
+
+527
+00:24:07,080 --> 00:24:09,080
+pour moi c'était soit master en anglais
+
+528
+00:24:09,080 --> 00:24:11,080
+et soit maîtrise
+
+529
+00:24:11,080 --> 00:24:13,080
+et en fait j'ai regardé
+
+530
+00:24:13,080 --> 00:24:15,080
+sur internet
+
+531
+00:24:15,080 --> 00:24:17,080
+et apparemment
+
+532
+00:24:17,160 --> 00:24:19,160
+quand t'écris master comme ça
+
+533
+00:24:19,160 --> 00:24:21,160
+c'est considéré comme un diplôme
+
+534
+00:24:21,160 --> 00:24:23,160
+post-grade
+
+535
+00:24:23,160 --> 00:24:25,160
+c'est un truc que tu passes après avoir un master
+
+536
+00:24:25,160 --> 00:24:27,160
+anglais
+
+537
+00:24:27,160 --> 00:24:29,160
+donc là j'ai perdu le truc
+
+538
+00:24:29,160 --> 00:24:31,160
+est-ce que tu peux
+
+539
+00:24:31,160 --> 00:24:33,160
+peut-être expliquer
+
+540
+00:24:33,160 --> 00:24:35,160
+à quoi ça te respond justement les formations
+
+541
+00:24:35,160 --> 00:24:37,160
+je pense juste que c'est l'écriture française et qu'il te faut
+
+542
+00:24:37,160 --> 00:24:39,160
+une licence
+
+543
+00:24:39,160 --> 00:24:41,160
+et en fait
+
+544
+00:24:41,160 --> 00:24:43,160
+le bachelor, l'équivalent de la licence
+
+545
+00:24:43,160 --> 00:24:45,160
+aux U.S. et dans l'équivalent anglo-saxon
+
+546
+00:24:45,240 --> 00:24:47,240
+c'est le bachelor
+
+547
+00:24:47,240 --> 00:24:49,240
+et quand tu finis ton bachelor
+
+548
+00:24:49,240 --> 00:24:51,240
+ils disent que t'es graduated
+
+549
+00:24:51,240 --> 00:24:53,240
+donc le master c'est post-graduation
+
+550
+00:24:53,240 --> 00:24:55,240
+ok d'accord
+
+551
+00:24:55,240 --> 00:24:57,240
+et donc ça
+
+552
+00:24:57,240 --> 00:24:59,240
+pour tout ce qui est
+
+553
+00:24:59,240 --> 00:25:01,240
+désolé j'ai des petites
+
+554
+00:25:01,240 --> 00:25:03,240
+des trucs de appel, je sais pas d'où ça vient
+
+555
+00:25:03,240 --> 00:25:05,240
+je sais pas si vous les entendez
+
+556
+00:25:05,240 --> 00:25:07,240
+mais en tout cas ouais
+
+557
+00:25:07,240 --> 00:25:09,240
+pour ce qui est
+
+558
+00:25:09,240 --> 00:25:11,240
+c'est ça les formations
+
+559
+00:25:11,240 --> 00:25:13,240
+toutes les formations
+
+560
+00:25:13,320 --> 00:25:15,320
+chez la BBS en fait
+
+561
+00:25:15,320 --> 00:25:17,320
+c'est un peu le même, c'est quoi
+
+562
+00:25:17,320 --> 00:25:19,320
+c'est des parcours différents avec des différents types de
+
+563
+00:25:19,320 --> 00:25:21,320
+de certification
+
+564
+00:25:21,320 --> 00:25:23,320
+et aussi différents types de financement
+
+565
+00:25:23,320 --> 00:25:25,320
+comment ça se passe, est-ce que tu peux expliquer ça
+
+566
+00:25:25,320 --> 00:25:27,320
+en fait les financements
+
+567
+00:25:27,320 --> 00:25:29,320
+il y en a trois, soit c'est ton entreprise
+
+568
+00:25:29,320 --> 00:25:31,320
+qui paye, soit c'est le CPF qui paye
+
+569
+00:25:31,320 --> 00:25:33,320
+soit c'est toi qui paye avec ta propre argent
+
+570
+00:25:33,320 --> 00:25:35,320
+donc ça c'est commun
+
+571
+00:25:35,320 --> 00:25:37,320
+à toutes les formations
+
+572
+00:25:37,320 --> 00:25:39,320
+et après l'idée c'est d'avoir de la diversité
+
+573
+00:25:39,320 --> 00:25:41,320
+dans les sujets
+
+574
+00:25:41,400 --> 00:25:43,400
+et dans les durées
+
+575
+00:25:43,400 --> 00:25:45,400
+il y a des formations qui durent deux jours
+
+576
+00:25:45,400 --> 00:25:47,400
+qui sont plus B2B pour les entreprises
+
+577
+00:25:47,400 --> 00:25:49,400
+et il y a des formations qui durent trois mois
+
+578
+00:25:49,400 --> 00:25:51,400
+où c'est plus des gens qui veulent upskill
+
+579
+00:25:51,400 --> 00:25:53,400
+améliorer
+
+580
+00:25:53,400 --> 00:25:55,400
+apprendre, découvrir un nouveau sujet
+
+581
+00:25:55,400 --> 00:25:57,400
+pour
+
+582
+00:25:57,400 --> 00:25:59,400
+je sais pas, rejoindre, passer de la division
+
+583
+00:25:59,400 --> 00:26:01,400
+tech à la division
+
+584
+00:26:01,400 --> 00:26:03,400
+blockchain
+
+585
+00:26:03,400 --> 00:26:05,400
+si ça peut intéresser la personne
+
+586
+00:26:05,400 --> 00:26:07,400
+ou une personne marketing, une personne juridique
+
+587
+00:26:07,400 --> 00:26:09,400
+qui vient comprendre certains sujets
+
+588
+00:26:09,480 --> 00:26:11,480
+il y a une diversité de formations
+
+589
+00:26:11,480 --> 00:26:13,480
+pour une diversité de profils
+
+590
+00:26:13,480 --> 00:26:15,480
+le bout de camp produit
+
+591
+00:26:15,480 --> 00:26:17,480
+ne nécessite pas forcément
+
+592
+00:26:17,480 --> 00:26:19,480
+de bagarre en technique
+
+593
+00:26:19,480 --> 00:26:21,480
+alors que le bout de camp
+
+594
+00:26:21,480 --> 00:26:23,480
+tech lead
+
+595
+00:26:23,480 --> 00:26:25,480
+lui nécessite quand même un petit bagage
+
+596
+00:26:25,480 --> 00:26:27,480
+technique pour pouvoir se débrouiller
+
+597
+00:26:29,480 --> 00:26:31,480
+ok ouais
+
+598
+00:26:31,480 --> 00:26:33,480
+et oui donc
+
+599
+00:26:33,480 --> 00:26:35,480
+du coup c'est des formations
+
+600
+00:26:35,480 --> 00:26:37,480
+comment ça se passe, est-ce que c'est des formations qui sont
+
+601
+00:26:37,560 --> 00:26:39,560
+t'en parlais un petit peu tout à l'heure
+
+602
+00:26:39,560 --> 00:26:41,560
+t'avais fait allusion au fait que
+
+603
+00:26:41,560 --> 00:26:43,560
+par exemple
+
+604
+00:26:43,560 --> 00:26:45,560
+il y avait au moins une partie en présentiel
+
+605
+00:26:45,560 --> 00:26:47,560
+où il y avait des gens qui étaient
+
+606
+00:26:47,560 --> 00:26:49,560
+des professionnels qui étaient invités
+
+607
+00:26:49,560 --> 00:26:51,560
+comme les mecs de lecture etc
+
+608
+00:26:51,560 --> 00:26:53,560
+est-ce qu'il y a une partie en
+
+609
+00:26:53,560 --> 00:26:55,560
+j'imagine qu'il y a aussi une partie en ligne
+
+610
+00:26:55,560 --> 00:26:57,560
+comment c'est articulé justement pour
+
+611
+00:26:57,560 --> 00:26:59,560
+les différentes formations
+
+612
+00:26:59,560 --> 00:27:01,560
+très bonne question alors quand on dit en ligne
+
+613
+00:27:01,560 --> 00:27:03,560
+on pense souvent au moc
+
+614
+00:27:03,560 --> 00:27:05,560
+qu'on commence et qu'on finit pas
+
+615
+00:27:05,640 --> 00:27:07,640
+là justement
+
+616
+00:27:07,640 --> 00:27:09,640
+pendant les... alors déjà comment se décompose
+
+617
+00:27:09,640 --> 00:27:11,560
+les trois mois, il y a un premier mois de tronc
+
+618
+00:27:11,560 --> 00:27:13,560
+commun entre différents
+
+619
+00:27:13,560 --> 00:27:15,560
+bout de camp de trois mois parce que
+
+620
+00:27:15,560 --> 00:27:17,560
+on veut vraiment pousser
+
+621
+00:27:17,560 --> 00:27:19,560
+à la mixité
+
+622
+00:27:19,560 --> 00:27:21,560
+des connaissances
+
+623
+00:27:21,560 --> 00:27:23,560
+ensuite
+
+624
+00:27:23,560 --> 00:27:25,560
+pour que les personnes se rencontrent
+
+625
+00:27:25,560 --> 00:27:27,560
+qui ont différents profils, ensuite
+
+626
+00:27:27,560 --> 00:27:29,560
+il y a un deuxième mois de spécialisation
+
+627
+00:27:31,560 --> 00:27:33,560
+et ensuite il y a un troisième mois de
+
+628
+00:27:33,560 --> 00:27:35,560
+projet où là
+
+629
+00:27:35,560 --> 00:27:37,560
+certains bout de camp se re-retrouvent
+
+630
+00:27:37,560 --> 00:27:39,560
+pour travailler sur des projets
+
+631
+00:27:39,560 --> 00:27:41,560
+en commun
+
+632
+00:27:41,560 --> 00:27:43,560
+donc ça c'est déjà les trois grandes phases
+
+633
+00:27:45,560 --> 00:27:47,560
+ensuite
+
+634
+00:27:47,560 --> 00:27:49,560
+c'était quoi ta question?
+
+635
+00:27:49,560 --> 00:27:51,560
+je me suis perdu dans la pensée
+
+636
+00:27:51,560 --> 00:27:53,560
+c'est pas grave
+
+637
+00:27:55,560 --> 00:27:57,560
+comment c'est articulé autour
+
+638
+00:27:57,560 --> 00:27:59,560
+du
+
+639
+00:27:59,560 --> 00:28:01,560
+truc, du choix
+
+640
+00:28:01,560 --> 00:28:03,560
+entre le présentiel
+
+641
+00:28:03,560 --> 00:28:05,560
+et le propositionnement
+
+642
+00:28:07,560 --> 00:28:09,560
+déjà il y a ces trois phases
+
+643
+00:28:09,560 --> 00:28:11,560
+et en fait ça nécessite
+
+644
+00:28:11,560 --> 00:28:13,560
+que toutes ces personnes qui suivent ces bout de camp
+
+645
+00:28:15,560 --> 00:28:17,560
+travaillent de manière synchrone
+
+646
+00:28:17,560 --> 00:28:19,560
+entre elles, donc en fait toutes les semaines
+
+647
+00:28:21,560 --> 00:28:23,560
+il y a environ six heures de cours vidéo
+
+648
+00:28:25,560 --> 00:28:27,560
+qui est mis à disposition des étudiants
+
+649
+00:28:27,560 --> 00:28:29,560
+qui peuvent suivre ces cours vidéo
+
+650
+00:28:29,560 --> 00:28:31,560
+et puis il y a deux
+
+651
+00:28:31,560 --> 00:28:33,560
+rendez-vous visuaux
+
+652
+00:28:33,560 --> 00:28:35,560
+dans la semaine en live
+
+653
+00:28:35,560 --> 00:28:37,560
+pour faire le point, travailler sur des exercices
+
+654
+00:28:37,560 --> 00:28:39,560
+échangés, des sortes de
+
+655
+00:28:39,560 --> 00:28:41,560
+fees hour et de TD
+
+656
+00:28:43,560 --> 00:28:45,560
+pour
+
+657
+00:28:45,560 --> 00:28:47,560
+que ce soit plus concret
+
+658
+00:28:47,560 --> 00:28:49,560
+et donc voilà ça permet vraiment de mettre
+
+659
+00:28:49,560 --> 00:28:51,560
+tout le monde en rythme
+
+660
+00:28:51,560 --> 00:28:53,560
+et de garder tout le monde
+
+661
+00:28:53,560 --> 00:28:55,560
+assidu
+
+662
+00:28:55,560 --> 00:28:57,560
+sur le long terme
+
+663
+00:28:59,560 --> 00:29:01,560
+et c'est ça en fait
+
+664
+00:29:01,560 --> 00:29:03,560
+le truc
+
+665
+00:29:05,560 --> 00:29:07,560
+où est-ce que je veux en venir
+
+666
+00:29:07,560 --> 00:29:09,560
+c'est à dire qu'au début
+
+667
+00:29:09,560 --> 00:29:11,560
+on avait discuté
+
+668
+00:29:11,560 --> 00:29:13,560
+à un moment donné, je crois que c'est Carlita qui m'avait
+
+669
+00:29:13,560 --> 00:29:15,560
+approché en premier
+
+670
+00:29:15,560 --> 00:29:17,560
+par rapport à proposer un partenariat
+
+671
+00:29:17,560 --> 00:29:19,560
+avec vous à un moment donné, que j'ai jamais
+
+672
+00:29:19,560 --> 00:29:21,560
+activé, je me suis vraiment
+
+673
+00:29:21,560 --> 00:29:23,560
+j'en ai parlé vite fait, etc.
+
+674
+00:29:23,560 --> 00:29:25,560
+j'ai jamais trouvé l'angle en fait
+
+675
+00:29:25,560 --> 00:29:27,560
+comment amener ce truc là, alors que
+
+676
+00:29:27,560 --> 00:29:29,560
+moi j'ai toujours dit en fait
+
+677
+00:29:29,560 --> 00:29:31,560
+pour moi un peu la BBL c'est
+
+678
+00:29:31,560 --> 00:29:33,560
+un peu le partenariat idéal parce qu'en fait on fait
+
+679
+00:29:33,560 --> 00:29:35,560
+vraiment un peu la même chose
+
+680
+00:29:35,560 --> 00:29:37,560
+mais d'une différente manière, c'est à dire qu'on
+
+681
+00:29:37,560 --> 00:29:39,560
+vous faites de l'éducation
+
+682
+00:29:39,560 --> 00:29:41,560
+sur les thèmes de la blockchain
+
+683
+00:29:41,560 --> 00:29:43,560
+et de l'IA, moi je ne fais pas vraiment de l'éducation
+
+684
+00:29:43,560 --> 00:29:45,560
+mais ça reste du contenu informatif
+
+685
+00:29:45,560 --> 00:29:47,560
+en fait, on fait des débats
+
+686
+00:29:47,560 --> 00:29:49,560
+sur ces thèmes là, et donc en fait
+
+687
+00:29:49,560 --> 00:29:51,560
+vous c'est un peu le truc
+
+688
+00:29:51,560 --> 00:29:53,560
+un peu l'apprentissage comme je dirais
+
+689
+00:29:53,560 --> 00:29:55,560
+classique, qui est un petit peu
+
+690
+00:29:55,560 --> 00:29:57,560
+en deux temps finalement
+
+691
+00:29:57,560 --> 00:29:59,560
+t'as une partie où t'écoutes
+
+692
+00:29:59,560 --> 00:30:01,560
+tu prends des notes et tout, puis une partie après
+
+693
+00:30:01,560 --> 00:30:03,560
+d'analyse synthèse à froid
+
+694
+00:30:03,560 --> 00:30:05,560
+où tu fais, tu bosses
+
+695
+00:30:05,560 --> 00:30:07,560
+et puis etc, il y a une espèce d'échange
+
+696
+00:30:07,560 --> 00:30:09,560
+comme ça, alors que par exemple le format
+
+697
+00:30:09,560 --> 00:30:11,560
+le format de débat
+
+698
+00:30:11,560 --> 00:30:13,560
+c'est un peu différent, il y a
+
+699
+00:30:13,560 --> 00:30:15,560
+tu fais tout à chaud, donc tu fais une analyse en direct
+
+700
+00:30:15,560 --> 00:30:17,560
+du contenu
+
+701
+00:30:17,560 --> 00:30:19,560
+qui t'est délivré, puis ensuite toujours en direct
+
+702
+00:30:19,560 --> 00:30:21,560
+tu apprends à formuler
+
+703
+00:30:21,560 --> 00:30:23,560
+de manière claire et pertinente
+
+704
+00:30:23,560 --> 00:30:25,560
+les idées que tu veux
+
+705
+00:30:25,560 --> 00:30:27,560
+mettre pour alimenter la discussion
+
+706
+00:30:27,560 --> 00:30:29,560
+et puis aussi, il y a un truc aussi
+
+707
+00:30:29,560 --> 00:30:31,560
+avec le débat, c'est que t'as
+
+708
+00:30:31,560 --> 00:30:33,560
+l'espèce de, comment dire
+
+709
+00:30:33,560 --> 00:30:35,560
+t'essayes de
+
+710
+00:30:35,560 --> 00:30:37,560
+bouger tout ça au sein d'une expérience sociale
+
+711
+00:30:37,560 --> 00:30:39,560
+genre il peut se passer plein de choses
+
+712
+00:30:39,560 --> 00:30:41,560
+et puis ça met à l'épreuve
+
+713
+00:30:41,560 --> 00:30:43,560
+ta capacité à écouter, aussi
+
+714
+00:30:43,560 --> 00:30:45,560
+ta capacité à t'exprimer
+
+715
+00:30:45,560 --> 00:30:47,560
+tout en laissant
+
+716
+00:30:47,560 --> 00:30:49,560
+de côté un peu ton ego
+
+717
+00:30:49,560 --> 00:30:51,560
+dans les cas les plus difficiles
+
+718
+00:30:51,560 --> 00:30:53,560
+c'est à la fois
+
+719
+00:30:53,560 --> 00:30:55,560
+les mêmes thèmes, mais
+
+720
+00:30:55,560 --> 00:30:57,560
+ça met en jeu
+
+721
+00:30:57,560 --> 00:30:59,560
+pas forcément les mêmes aptitudes
+
+722
+00:30:59,560 --> 00:31:01,560
+mais qui sont complémentaires
+
+723
+00:31:01,560 --> 00:31:03,560
+et c'est pour ça
+
+724
+00:31:03,560 --> 00:31:05,560
+qu'on a discuté
+
+725
+00:31:05,560 --> 00:31:07,560
+t'as vu le pont?
+
+726
+00:31:07,560 --> 00:31:09,560
+c'est pour ça qu'on a beaucoup discuté
+
+727
+00:31:11,560 --> 00:31:13,560
+non, tout simplement
+
+728
+00:31:13,560 --> 00:31:15,560
+j'allais dire, non mais exactement, ils sont complémentaires
+
+729
+00:31:15,560 --> 00:31:17,560
+nous ce qu'on apporte
+
+730
+00:31:17,560 --> 00:31:19,560
+c'est un peu de standardisation
+
+731
+00:31:21,560 --> 00:31:23,560
+dans des schémas
+
+732
+00:31:23,560 --> 00:31:25,560
+pour que les gens comprennent
+
+733
+00:31:25,560 --> 00:31:27,560
+dans des terminologies
+
+734
+00:31:27,560 --> 00:31:29,560
+pour que les gens utilisent les mêmes mots
+
+735
+00:31:29,560 --> 00:31:31,560
+qui ont les mêmes définitions
+
+736
+00:31:31,560 --> 00:31:33,560
+des choses typiquement qu'un Twitter Space
+
+737
+00:31:33,560 --> 00:31:35,560
+ne peut pas donner
+
+738
+00:31:35,560 --> 00:31:37,560
+c'est aussi
+
+739
+00:31:37,560 --> 00:31:39,560
+accès à des experts du milieu
+
+740
+00:31:41,560 --> 00:31:43,560
+et c'est aussi, au-delà de la discussion
+
+741
+00:31:43,560 --> 00:31:45,560
+travailler dans le temps
+
+742
+00:31:45,560 --> 00:31:47,560
+sur un projet
+
+743
+00:31:47,560 --> 00:31:49,560
+pour essayer de le faire passer de l'idée
+
+744
+00:31:49,560 --> 00:31:51,560
+à la matérialisation
+
+745
+00:31:51,560 --> 00:31:53,560
+donc c'est un peu tout ça qu'on apporte
+
+746
+00:31:55,560 --> 00:31:57,560
+et évidemment, les débats
+
+747
+00:31:57,560 --> 00:31:59,560
+sont aussi ouverts
+
+748
+00:31:59,560 --> 00:32:01,560
+et c'est aussi
+
+749
+00:32:01,560 --> 00:32:03,560
+le fil conducteur de la formation
+
+750
+00:32:03,560 --> 00:32:05,560
+notamment quand
+
+751
+00:32:05,560 --> 00:32:07,560
+les étudiants se retrouvent
+
+752
+00:32:07,560 --> 00:32:09,560
+pour discuter des sujets
+
+753
+00:32:09,560 --> 00:32:11,560
+des projets qu'ils vont choisir
+
+754
+00:32:11,560 --> 00:32:13,560
+de quels technos ils vont utiliser
+
+755
+00:32:13,560 --> 00:32:15,560
+de quelles propositions de valeur
+
+756
+00:32:15,560 --> 00:32:17,560
+ils vont mettre en avant
+
+757
+00:32:17,560 --> 00:32:19,560
+de quels binos modèles
+
+758
+00:32:21,560 --> 00:32:23,560
+ils vont implémenter, etc.
+
+759
+00:32:25,560 --> 00:32:27,560
+ça d'ailleurs c'est un truc
+
+760
+00:32:27,560 --> 00:32:29,560
+que j'ai trouvé
+
+761
+00:32:29,560 --> 00:32:31,560
+complètement absent
+
+762
+00:32:31,560 --> 00:32:33,560
+de l'enseignement supérieur
+
+763
+00:32:33,560 --> 00:32:35,560
+en France et que tu trouves
+
+764
+00:32:35,560 --> 00:32:37,560
+dans l'enseignement supérieur anglo-saxon
+
+765
+00:32:37,560 --> 00:32:39,560
+le fait d'avoir un projet, même si c'est
+
+766
+00:32:39,560 --> 00:32:41,560
+du pur théorique
+
+767
+00:32:41,560 --> 00:32:43,560
+t'as quand même un projet
+
+768
+00:32:43,560 --> 00:32:45,560
+un truc à faire pour la fin de l'année
+
+769
+00:32:45,560 --> 00:32:47,560
+et puis on te donne les clés petit à petit
+
+770
+00:32:47,560 --> 00:32:49,560
+au fur et à mesure de l'année
+
+771
+00:32:49,560 --> 00:32:51,560
+pour mener à bien ce projet, c'est-à-dire à la fois
+
+772
+00:32:51,560 --> 00:32:53,560
+la base théorique mais aussi tous les éléments pratiques
+
+773
+00:32:53,560 --> 00:32:55,560
+et tout rentrant compte
+
+774
+00:32:57,560 --> 00:32:59,560
+comment justement le pitcher
+
+775
+00:32:59,560 --> 00:33:01,560
+ce genre de trucs, tout
+
+776
+00:33:01,560 --> 00:33:03,560
+tout ce qui te sert dans la vie
+
+777
+00:33:03,560 --> 00:33:05,560
+fait partie du truc
+
+778
+00:33:07,560 --> 00:33:09,560
+on a eu beaucoup de discussions
+
+779
+00:33:09,560 --> 00:33:11,560
+avec notamment Nathan, Nicolas, Fabien
+
+780
+00:33:11,560 --> 00:33:13,560
+on s'est dit qu'on allait faire
+
+781
+00:33:13,560 --> 00:33:15,560
+un truc ensemble
+
+782
+00:33:15,560 --> 00:33:17,560
+et donc à partir de la rentrée
+
+783
+00:33:17,560 --> 00:33:19,560
+à partir de janvier
+
+784
+00:33:19,560 --> 00:33:21,560
+va y avoir une émission
+
+785
+00:33:21,560 --> 00:33:23,560
+par semaine
+
+786
+00:33:23,560 --> 00:33:25,560
+qui sera
+
+787
+00:33:25,560 --> 00:33:27,560
+Radiochad X BBS
+
+788
+00:33:27,560 --> 00:33:29,560
+et je crois que c'est Nicolas
+
+789
+00:33:29,560 --> 00:33:31,560
+qui sera avec moi, qui va co-animer avec moi
+
+790
+00:33:31,560 --> 00:33:33,560
+comme je fais déjà avec Vincent
+
+791
+00:33:33,560 --> 00:33:35,560
+tous les jeudis
+
+792
+00:33:35,560 --> 00:33:37,560
+qui a une résidence ici
+
+793
+00:33:37,560 --> 00:33:39,560
+tous les jeudis on fait une émission
+
+794
+00:33:39,560 --> 00:33:41,560
+géoéconomie, géopolitique
+
+795
+00:33:41,560 --> 00:33:43,560
+et puis
+
+796
+00:33:43,560 --> 00:33:45,560
+là ce sera
+
+797
+00:33:45,560 --> 00:33:47,560
+tous les mardis
+
+798
+00:33:47,560 --> 00:33:49,560
+on fera une émission
+
+799
+00:33:49,560 --> 00:33:51,560
+éducation, Blockchain
+
+800
+00:33:51,560 --> 00:33:53,560
+chaque semaine
+
+801
+00:33:53,560 --> 00:33:55,560
+ce sera un thème différent mais toujours sur ce thème là
+
+802
+00:33:55,560 --> 00:33:57,560
+et donc
+
+803
+00:33:57,560 --> 00:33:59,560
+je suis super content qu'on fasse ça
+
+804
+00:33:59,560 --> 00:34:01,560
+c'est vraiment complémentaire
+
+805
+00:34:05,560 --> 00:34:07,560
+c'était
+
+806
+00:34:07,560 --> 00:34:09,560
+l'annonce de la soirée
+
+807
+00:34:09,560 --> 00:34:11,560
+et puis
+
+808
+00:34:11,560 --> 00:34:13,560
+je la case complètement au milieu de l'émission
+
+809
+00:34:13,560 --> 00:34:15,560
+comme ça c'est cool
+
+810
+00:34:15,560 --> 00:34:17,560
+alors c'est marrant parce que j'avais un peu préparé
+
+811
+00:34:17,560 --> 00:34:19,560
+je me suis dit tant je vais faire
+
+812
+00:34:19,560 --> 00:34:21,560
+je vais essayer de faire ça bien
+
+813
+00:34:21,560 --> 00:34:23,560
+tisser l'annonce et tout alors j'avais commencé à écrire des choses
+
+814
+00:34:23,560 --> 00:34:25,560
+sur un bout de papier et ce qu'il faut savoir
+
+815
+00:34:25,560 --> 00:34:27,560
+c'est qu'en général
+
+816
+00:34:27,560 --> 00:34:29,560
+je prépare
+
+817
+00:34:29,560 --> 00:34:31,560
+peu ou prou mes émissions
+
+818
+00:34:31,560 --> 00:34:33,560
+en tout cas des fois je fais ça dépend
+
+819
+00:34:33,560 --> 00:34:35,560
+des fois j'écris un peu les questions ou quoi, des fois rien du tout
+
+820
+00:34:35,560 --> 00:34:37,560
+et là du coup je me suis dit je vais faire un effort
+
+821
+00:34:37,560 --> 00:34:39,560
+en termes de structure et j'ai commencé à écrire
+
+822
+00:34:39,560 --> 00:34:41,560
+des choses et comme je le fais pas assez souvent
+
+823
+00:34:41,560 --> 00:34:43,560
+je commençais à déplacer des choses alors j'ai entouré des trucs
+
+824
+00:34:43,560 --> 00:34:45,560
+j'ai mis des flèches, j'ai mis
+
+825
+00:34:45,560 --> 00:34:47,560
+des trucs écrits en travers
+
+826
+00:34:47,560 --> 00:34:49,560
+c'est ton brouillon alors
+
+827
+00:34:49,560 --> 00:34:51,560
+je ne pouvais plus me relire
+
+828
+00:34:51,560 --> 00:34:53,560
+c'était juste plus possible
+
+829
+00:34:53,560 --> 00:34:55,560
+j'ai fait ok laisse
+
+830
+00:34:55,560 --> 00:34:57,560
+je vais faire ça comme d'habitude
+
+831
+00:34:57,560 --> 00:34:59,560
+en tout cas moi j'adore
+
+832
+00:34:59,560 --> 00:35:01,560
+j'adore le concept
+
+833
+00:35:01,560 --> 00:35:03,560
+de la Bessant, en plus vous êtes tous cool
+
+834
+00:35:03,560 --> 00:35:05,560
+pour vrai
+
+835
+00:35:05,560 --> 00:35:07,560
+le contexte
+
+836
+00:35:07,560 --> 00:35:09,560
+il n'y a pas de raison de ne pas l'être
+
+837
+00:35:09,560 --> 00:35:11,560
+franchement nous notre mentalité c'est que
+
+838
+00:35:11,560 --> 00:35:13,560
+on est très humble
+
+839
+00:35:13,560 --> 00:35:15,560
+dans notre approche, on est là pour expérimenter
+
+840
+00:35:15,560 --> 00:35:17,560
+on n'a pas la prétention d'avoir dit
+
+841
+00:35:17,560 --> 00:35:19,560
+qu'on a réalisé que ce soit extraordinaire
+
+842
+00:35:19,560 --> 00:35:21,560
+au contraire
+
+843
+00:35:21,560 --> 00:35:23,560
+on pense qu'il y a encore beaucoup de boulot
+
+844
+00:35:23,560 --> 00:35:25,560
+pour en arriver là
+
+845
+00:35:25,560 --> 00:35:27,560
+et la BBS
+
+846
+00:35:27,560 --> 00:35:29,560
+c'est
+
+847
+00:35:29,560 --> 00:35:31,560
+une brique
+
+848
+00:35:31,560 --> 00:35:33,560
+dans ce qu'on essaie de construire
+
+849
+00:35:33,560 --> 00:35:35,560
+des piliers pour l'écosystème
+
+850
+00:35:35,560 --> 00:35:37,560
+et il faut
+
+851
+00:35:37,560 --> 00:35:39,560
+des écoles qui puissent fournir des talents
+
+852
+00:35:39,560 --> 00:35:41,560
+qui puissent entreprendre ou rejoindre
+
+853
+00:35:41,560 --> 00:35:43,560
+les boîtes
+
+854
+00:35:43,560 --> 00:35:45,560
+il faut des incubateurs qui
+
+855
+00:35:45,560 --> 00:35:47,560
+accompagnent des entrepreneurs
+
+856
+00:35:47,560 --> 00:35:49,560
+il faut mettre en relation tous les partenaires
+
+857
+00:35:49,560 --> 00:35:51,560
+de la chaîne de valeur
+
+858
+00:35:51,560 --> 00:35:53,560
+de l'investissement
+
+859
+00:35:53,560 --> 00:35:55,560
+aux fournisseurs d'infrastructures
+
+860
+00:35:57,560 --> 00:35:59,560
+etc
+
+861
+00:35:59,560 --> 00:36:01,560
+c'est un peu tout ça le travail qu'on
+
+862
+00:36:01,560 --> 00:36:03,560
+essaie de faire et
+
+863
+00:36:03,560 --> 00:36:05,560
+de notre humilité
+
+864
+00:36:05,560 --> 00:36:07,560
+D'ailleurs c'est quoi le profil
+
+865
+00:36:07,560 --> 00:36:09,560
+des gens qui
+
+866
+00:36:09,560 --> 00:36:11,560
+s'inscrivent à la BBS
+
+867
+00:36:11,560 --> 00:36:13,560
+pour la Cursus?
+
+868
+00:36:13,560 --> 00:36:15,560
+Est-ce qu'il y a un truc qui se dégage?
+
+869
+00:36:15,560 --> 00:36:17,560
+Il y a trois
+
+870
+00:36:17,560 --> 00:36:19,560
+profils qui se dégagent
+
+871
+00:36:19,560 --> 00:36:21,560
+il y a le profil de la personne qui travaille
+
+872
+00:36:21,560 --> 00:36:23,560
+dans un grand groupe
+
+873
+00:36:23,560 --> 00:36:25,560
+et
+
+874
+00:36:25,560 --> 00:36:27,560
+qui veut upskill
+
+875
+00:36:27,560 --> 00:36:29,560
+avoir une certification
+
+876
+00:36:29,560 --> 00:36:31,560
+sur le sujet
+
+877
+00:36:31,560 --> 00:36:33,560
+comme je le disais tout à l'heure pour rejoindre
+
+878
+00:36:33,560 --> 00:36:35,560
+l'équipe ou pour contribuer
+
+879
+00:36:35,560 --> 00:36:37,560
+à un projet
+
+880
+00:36:37,560 --> 00:36:39,560
+ou juste pour
+
+881
+00:36:39,560 --> 00:36:41,560
+emmagasiner des certifications
+
+882
+00:36:41,560 --> 00:36:43,560
+tu as un tiers
+
+883
+00:36:43,560 --> 00:36:45,560
+qui sont
+
+884
+00:36:45,560 --> 00:36:47,560
+des étudiants
+
+885
+00:36:47,560 --> 00:36:49,560
+qui viennent compléter
+
+886
+00:36:49,560 --> 00:36:51,560
+leur formation
+
+887
+00:36:51,560 --> 00:36:53,560
+en vue d'avoir une spécialisation
+
+888
+00:36:53,560 --> 00:36:55,560
+parce qu'ils tardent à trouver
+
+889
+00:36:55,560 --> 00:36:57,560
+un travail ou quelque chose
+
+890
+00:36:57,560 --> 00:36:59,560
+comme ça
+
+891
+00:36:59,560 --> 00:37:01,560
+et puis tu as un autre tiers qui est plutôt
+
+892
+00:37:01,560 --> 00:37:03,560
+en reconversion
+
+893
+00:37:03,560 --> 00:37:05,560
+mais je dirais pas reconversion
+
+894
+00:37:05,560 --> 00:37:07,560
+violente
+
+895
+00:37:07,560 --> 00:37:09,560
+mais plutôt quelqu'un
+
+896
+00:37:09,560 --> 00:37:11,560
+qui était développeur
+
+897
+00:37:11,560 --> 00:37:13,560
+et qui a plus envie de faire
+
+898
+00:37:13,560 --> 00:37:15,560
+du produit par exemple
+
+899
+00:37:19,560 --> 00:37:21,560
+Ça n'a rien à voir
+
+900
+00:37:21,560 --> 00:37:23,560
+mais j'en ai déjà réussi
+
+901
+00:37:23,560 --> 00:37:25,560
+je crois il y a deux semaines
+
+902
+00:37:25,560 --> 00:37:27,560
+deux ou trois semaines
+
+903
+00:37:27,560 --> 00:37:29,560
+j'avais vu une pub parce que je suis à Berlin
+
+904
+00:37:29,560 --> 00:37:31,560
+depuis quelques semaines
+
+905
+00:37:31,560 --> 00:37:33,560
+c'est super
+
+906
+00:37:33,560 --> 00:37:35,560
+comme ville
+
+907
+00:37:35,560 --> 00:37:37,560
+j'ai pas eu le temps d'explorer que ça
+
+908
+00:37:37,560 --> 00:37:39,560
+parce que j'ai beaucoup de trucs à faire
+
+909
+00:37:39,560 --> 00:37:41,560
+mais pour le coup que j'ai vu
+
+910
+00:37:41,560 --> 00:37:43,560
+je suis super à l'aise
+
+911
+00:37:43,560 --> 00:37:45,560
+L'été c'est encore meilleur
+
+912
+00:37:45,560 --> 00:37:47,560
+Ouais c'est ce qu'on m'a dit
+
+913
+00:37:47,560 --> 00:37:49,560
+Ouais parce que du coup
+
+914
+00:37:49,560 --> 00:37:51,560
+moi ce que je veux c'est aussi
+
+915
+00:37:51,560 --> 00:37:53,560
+jouer un peu dehors
+
+916
+00:37:53,560 --> 00:37:55,560
+avec mon setup de musique
+
+917
+00:37:55,560 --> 00:37:57,560
+et là c'est compliqué avec l'hiver
+
+918
+00:37:57,560 --> 00:37:59,560
+mais apparemment on m'a dit
+
+919
+00:37:59,560 --> 00:38:01,560
+qu'il y a des choses à faire l'été
+
+920
+00:38:01,560 --> 00:38:03,560
+dans les parcs et tout ça a l'air cool
+
+921
+00:38:03,560 --> 00:38:05,560
+Ouais il y a des lacs aussi c'est trop cool
+
+922
+00:38:05,560 --> 00:38:07,560
+Ah ça j'ai pas vu encore
+
+923
+00:38:07,560 --> 00:38:09,560
+Dans le nord
+
+924
+00:38:09,560 --> 00:38:11,560
+Nord-Est pardon
+
+925
+00:38:11,560 --> 00:38:13,560
+Ouais en fait c'est ça
+
+926
+00:38:13,560 --> 00:38:15,560
+j'étais sur Instagram et puis il y a une pub qui est apparu
+
+927
+00:38:15,560 --> 00:38:17,560
+c'était la pub pour École 42
+
+928
+00:38:17,560 --> 00:38:19,560
+à Berlin
+
+929
+00:38:19,560 --> 00:38:21,560
+et donc du coup
+
+930
+00:38:21,560 --> 00:38:23,560
+j'ai cliqué et c'était genre
+
+931
+00:38:23,560 --> 00:38:25,560
+allez-y passez deux tests pour voir si vous êtes éligible
+
+932
+00:38:25,560 --> 00:38:27,560
+donc je les ai passés
+
+933
+00:38:27,560 --> 00:38:29,560
+ça m'a dit que c'était ok
+
+934
+00:38:29,560 --> 00:38:31,560
+après j'ai reçu une réponse positive
+
+935
+00:38:31,560 --> 00:38:33,560
+du coup je vais faire la piscine à partir du
+
+936
+00:38:33,560 --> 00:38:35,560
+29 janvier
+
+937
+00:38:35,560 --> 00:38:37,560
+C'est un très bon exercice
+
+938
+00:38:37,560 --> 00:38:39,560
+C'est un très bon exercice
+
+939
+00:38:39,560 --> 00:38:41,560
+ça va être drôle je pense
+
+940
+00:38:41,560 --> 00:38:43,560
+Non c'est un très bon exercice
+
+941
+00:38:43,560 --> 00:38:45,560
+c'est pas si difficile que ça
+
+942
+00:38:45,560 --> 00:38:47,560
+il suffit juste de faire tous les exos
+
+943
+00:38:47,560 --> 00:38:49,560
+et pas abandonner
+
+944
+00:38:49,560 --> 00:38:51,560
+et ça donne une bonne vision
+
+945
+00:38:51,560 --> 00:38:53,560
+de qu'est-ce que c'est l'informatique
+
+946
+00:38:53,560 --> 00:38:55,560
+les gens qui sont plutôt commerciaux
+
+947
+00:38:55,560 --> 00:38:57,560
+qui n'ont jamais touché
+
+948
+00:38:57,560 --> 00:38:59,560
+à la techno, à l'innovation, au produit
+
+949
+00:38:59,560 --> 00:39:01,560
+plus que ça
+
+950
+00:39:01,560 --> 00:39:03,560
+ils comprennent pas que l'informatique c'est de la mécanique
+
+951
+00:39:03,560 --> 00:39:05,560
+soit ça marche, soit ça marche pas
+
+952
+00:39:05,560 --> 00:39:07,560
+quand ça casse il faut y passer des heures
+
+953
+00:39:07,560 --> 00:39:09,560
+pour le réparer
+
+954
+00:39:09,560 --> 00:39:11,560
+donc
+
+955
+00:39:11,560 --> 00:39:13,560
+c'est bien de
+
+956
+00:39:13,560 --> 00:39:15,560
+tu deviendras pas
+
+957
+00:39:15,560 --> 00:39:17,560
+freelance dev tout de suite
+
+958
+00:39:17,560 --> 00:39:19,560
+mais je pense que c'est une bonne
+
+959
+00:39:19,560 --> 00:39:21,560
+base
+
+960
+00:39:21,560 --> 00:39:23,560
+Ouais carrément
+
+961
+00:39:23,560 --> 00:39:25,560
+moi j'ai toujours aimé coder
+
+962
+00:39:25,560 --> 00:39:27,560
+on the side
+
+963
+00:39:27,560 --> 00:39:29,560
+et je pense que c'est une formation que tout le monde
+
+964
+00:39:29,560 --> 00:39:31,560
+devrait savoir coder
+
+965
+00:39:31,560 --> 00:39:33,560
+je pense, un petit peu
+
+966
+00:39:33,560 --> 00:39:35,560
+Je sais pas ce que t'en penses
+
+967
+00:39:35,560 --> 00:39:37,560
+mais
+
+968
+00:39:37,560 --> 00:39:39,560
+que ce soit pour
+
+969
+00:39:39,560 --> 00:39:41,560
+tu sais genre quand t'as envie de
+
+970
+00:39:41,560 --> 00:39:43,560
+tous les outils, en plus on en parle de plus en plus
+
+971
+00:39:43,560 --> 00:39:45,560
+avec l'IA, même les trucs d'IA
+
+972
+00:39:45,560 --> 00:39:47,560
+c'est bien de savoir gérer les
+
+973
+00:39:47,560 --> 00:39:49,560
+API pour pouvoir faire des trucs et tout
+
+974
+00:39:49,560 --> 00:39:51,560
+pour automatiser tes tâches
+
+975
+00:39:51,560 --> 00:39:53,560
+linker les applications
+
+976
+00:39:53,560 --> 00:39:55,560
+entre elles, genre t'as un truc
+
+977
+00:39:55,560 --> 00:39:57,560
+t'as envie de faire, mais non avec l'IA
+
+978
+00:39:57,560 --> 00:39:59,560
+laisse tomber les possibilités
+
+979
+00:39:59,560 --> 00:40:01,560
+c'est fou quoi, et ça donne encore plus
+
+980
+00:40:01,560 --> 00:40:03,560
+envie de coder, et alors pour la blockchain
+
+981
+00:40:03,560 --> 00:40:05,560
+aussi
+
+982
+00:40:05,560 --> 00:40:07,560
+si tu sais coder, tu peux ensuite
+
+983
+00:40:07,560 --> 00:40:09,560
+te dire bon ok maintenant j'attaque
+
+984
+00:40:09,560 --> 00:40:11,560
+j'attaque Solidity
+
+985
+00:40:11,560 --> 00:40:13,560
+ou j'attaque
+
+986
+00:40:13,560 --> 00:40:15,560
+d'ailleurs, très bonne question
+
+987
+00:40:15,560 --> 00:40:17,560
+je suis en tout cas en gratuit
+
+988
+00:40:17,560 --> 00:40:19,560
+très bonne question Anthony, c'est quoi
+
+989
+00:40:19,560 --> 00:40:21,560
+les langages qu'il faut connaître pour
+
+990
+00:40:21,560 --> 00:40:23,560
+être développeur de blockchain?
+
+991
+00:40:27,560 --> 00:40:29,560
+C'est à moi que tu parles?
+
+992
+00:40:29,560 --> 00:40:31,560
+Ah oui oui
+
+993
+00:40:31,560 --> 00:40:33,560
+Oui c'est à moi que ça touche, je parle
+
+994
+00:40:37,560 --> 00:40:39,560
+Je te posais la question, j'étais en train de me faire
+
+995
+00:40:39,560 --> 00:40:41,560
+un mini sketch
+
+996
+00:40:41,560 --> 00:40:43,560
+mais ouais ouais c'est à toi que je posais la question
+
+997
+00:40:45,560 --> 00:40:47,560
+Alors attends je crois que ça bug, je vais partir et me reconnecter
+
+998
+00:40:57,560 --> 00:40:59,560
+En attendant, bienvenue à ceux qui sont là
+
+999
+00:40:59,560 --> 00:41:01,560
+salut à ceux qui sont habitués
+
+1000
+00:41:01,560 --> 00:41:03,560
+et ceux qui ne sont pas, salut quoi
+
+1001
+00:41:05,560 --> 00:41:07,560
+Et puis
+
+1002
+00:41:07,560 --> 00:41:09,560
+Hop, il va revenir
+
+1003
+00:41:09,560 --> 00:41:11,560
+Sur du métro je peux répondre
+
+1004
+00:41:13,560 --> 00:41:15,560
+ça dépend ce que tu veux coder en blockchain
+
+1005
+00:41:15,560 --> 00:41:17,560
+aussi
+
+1006
+00:41:17,560 --> 00:41:19,560
+il y a de plus en plus de notifications, il y a de plus en plus
+
+1007
+00:41:19,560 --> 00:41:21,560
+de notions de compte comme des fonctions back
+
+1008
+00:41:21,560 --> 00:41:23,560
+t'as pas que la partie
+
+1009
+00:41:23,560 --> 00:41:25,560
+on-chain à coder que tu vois
+
+1010
+00:41:25,560 --> 00:41:27,560
+mais en gros, déjà de base
+
+1011
+00:41:27,560 --> 00:41:29,560
+Solidity, si tu veux rentrer dans l'écosystème
+
+1012
+00:41:29,560 --> 00:41:31,560
+Ethereum, c'est plus facile
+
+1013
+00:41:31,560 --> 00:41:33,560
+et là
+
+1014
+00:41:33,560 --> 00:41:35,560
+même apprendre sur le côté zombie que dans un niveau
+
+1015
+00:41:35,560 --> 00:41:37,560
+qui est tout à fait acceptable
+
+1016
+00:41:37,560 --> 00:41:39,560
+après la partie
+
+1017
+00:41:39,560 --> 00:41:41,560
+compte de plus en plus
+
+1018
+00:41:41,560 --> 00:41:43,560
+on est sur les standards qui sont les rust
+
+1019
+00:41:43,560 --> 00:41:45,560
+de base
+
+1020
+00:41:45,560 --> 00:41:47,560
+mais toi par exemple pour la piscine
+
+1021
+00:41:47,560 --> 00:41:49,560
+j'irais déjà à prendre que dans Python
+
+1022
+00:41:49,560 --> 00:41:51,560
+on va reparler
+
+1023
+00:41:51,560 --> 00:41:53,560
+Ouais la piscine je crois que c'est en C
+
+1024
+00:41:53,560 --> 00:41:55,560
+c'est plus luge
+
+1025
+00:41:55,560 --> 00:41:57,560
+ça dépend ce qu'ils demandent
+
+1026
+00:41:57,560 --> 00:41:59,560
+mais en fait il y a le niveau de base dans les exercices
+
+1027
+00:41:59,560 --> 00:42:01,560
+c'est la programmation basique
+
+1028
+00:42:01,560 --> 00:42:03,560
+tu peux le faire aussi en Python
+
+1029
+00:42:03,560 --> 00:42:05,560
+tu peux le faire aussi en Python
+
+1030
+00:42:05,560 --> 00:42:07,560
+tu peux le réducer
+
+1031
+00:42:07,560 --> 00:42:09,560
+à côté en Bluechain
+
+1032
+00:42:09,560 --> 00:42:11,560
+ou en Python
+
+1033
+00:42:11,560 --> 00:42:13,560
+ça peut être aussi utile
+
+1034
+00:42:13,560 --> 00:42:15,560
+ça dépend
+
+1035
+00:42:15,560 --> 00:42:17,560
+le framework
+
+1036
+00:42:17,560 --> 00:42:19,560
+dans lequel tu vas coder
+
+1037
+00:42:19,560 --> 00:42:21,560
+mais c'est quasiment
+
+1038
+00:42:21,560 --> 00:42:23,560
+les plus grands langages actuellement
+
+1039
+00:42:23,560 --> 00:42:25,560
+que tu as dispo
+
+1040
+00:42:25,560 --> 00:42:27,560
+en termes de zone
+
+1041
+00:42:27,560 --> 00:42:29,560
+React, Rust, Go
+
+1042
+00:42:29,560 --> 00:42:31,560
+et puis Red
+
+1043
+00:42:31,560 --> 00:42:33,560
+1000% d'accord avec Fred
+
+1044
+00:42:33,560 --> 00:42:35,560
+désolé quelqu'un m'a appelé
+
+1045
+00:42:35,560 --> 00:42:37,560
+du coup ça m'a fait bugger
+
+1046
+00:42:37,560 --> 00:42:39,560
+ouais
+
+1047
+00:42:39,560 --> 00:42:41,560
+la partie Smart Contra c'est vraiment
+
+1048
+00:42:41,560 --> 00:42:43,560
+5% du boulot
+
+1049
+00:42:43,560 --> 00:42:45,560
+d'un produit
+
+1050
+00:42:45,560 --> 00:42:47,560
+qui est shippé
+
+1051
+00:42:47,560 --> 00:42:49,560
+et
+
+1052
+00:42:49,560 --> 00:42:51,560
+voilà
+
+1053
+00:42:51,560 --> 00:42:53,560
+et en effet ce qui est important
+
+1054
+00:42:53,560 --> 00:42:55,560
+dans la piscine c'est vraiment la logique
+
+1055
+00:42:55,560 --> 00:42:57,560
+qu'on comprend et le fonctionnement
+
+1056
+00:42:57,560 --> 00:42:59,560
+d'un ordinateur
+
+1057
+00:42:59,560 --> 00:43:01,560
+de comment interagir avec
+
+1058
+00:43:03,560 --> 00:43:05,560
+et pour les formations
+
+1059
+00:43:05,560 --> 00:43:07,560
+Blockchain Business School
+
+1060
+00:43:07,560 --> 00:43:09,560
+je vais poser
+
+1061
+00:43:09,560 --> 00:43:11,560
+la question inverse mais
+
+1062
+00:43:11,560 --> 00:43:13,560
+qu'est-ce que tu fais
+
+1063
+00:43:13,560 --> 00:43:15,560
+quel genre de formation tu suis
+
+1064
+00:43:15,560 --> 00:43:17,560
+si tu as envie d'être dans le game
+
+1065
+00:43:17,560 --> 00:43:19,560
+mais que tu n'es pas vraiment un développeur
+
+1066
+00:43:19,560 --> 00:43:21,560
+ou que tu n'as pas vraiment spécifiquement envie d'être un développeur
+
+1067
+00:43:21,560 --> 00:43:23,560
+si tu n'as pas envie d'être un développeur
+
+1068
+00:43:23,560 --> 00:43:25,560
+ou plus envie d'être un développeur
+
+1069
+00:43:25,560 --> 00:43:27,560
+c'est plutôt
+
+1070
+00:43:27,560 --> 00:43:29,560
+la partie produit
+
+1071
+00:43:29,560 --> 00:43:31,560
+et la partie produit elle est assez généraliste
+
+1072
+00:43:31,560 --> 00:43:33,560
+pour que tu puisses soit devenir
+
+1073
+00:43:33,560 --> 00:43:35,560
+Product Owner c'est à dire faire le lien
+
+1074
+00:43:35,560 --> 00:43:37,560
+entre les développeurs
+
+1075
+00:43:37,560 --> 00:43:39,560
+soit être Product Manager c'est à dire faire le lien
+
+1076
+00:43:39,560 --> 00:43:41,560
+entre les développeurs
+
+1077
+00:43:41,560 --> 00:43:43,560
+et les clients
+
+1078
+00:43:43,560 --> 00:43:45,560
+soit être
+
+1079
+00:43:45,560 --> 00:43:47,560
+UI UX Designer
+
+1080
+00:43:47,560 --> 00:43:49,560
+soit être plutôt
+
+1081
+00:43:49,560 --> 00:43:51,560
+Sales et bien comprendre
+
+1082
+00:43:51,560 --> 00:43:53,560
+le produit pour pouvoir bien le défendre
+
+1083
+00:43:53,560 --> 00:43:55,560
+et le vendre
+
+1084
+00:43:55,560 --> 00:43:57,560
+à la différence de la formation Tech Lead
+
+1085
+00:43:57,560 --> 00:43:59,560
+où là justement
+
+1086
+00:43:59,560 --> 00:44:01,560
+l'idée c'est plutôt
+
+1087
+00:44:01,560 --> 00:44:03,560
+comme on le disait à l'instant
+
+1088
+00:44:03,560 --> 00:44:05,560
+faire une formation
+
+1089
+00:44:05,560 --> 00:44:07,560
+développeur solidity pour moi ça n'apporte
+
+1090
+00:44:07,560 --> 00:44:09,560
+rien les développeurs sont habitués à
+
+1091
+00:44:09,560 --> 00:44:11,560
+apprendre des frameworks
+
+1092
+00:44:11,560 --> 00:44:13,560
+ils peuvent très bien apprendre le solidity tout seul
+
+1093
+00:44:13,560 --> 00:44:15,560
+on fait une formation Tech Lead
+
+1094
+00:44:15,560 --> 00:44:17,560
+c'est à dire c'est le développeur
+
+1095
+00:44:17,560 --> 00:44:19,560
+qui va comprendre
+
+1096
+00:44:19,560 --> 00:44:21,560
+la vue d'ensemble entre la couche
+
+1097
+00:44:21,560 --> 00:44:23,560
+Smart Contract, la couche Backend, la couche
+
+1098
+00:44:23,560 --> 00:44:25,560
+Frontend et l'espèce de
+
+1099
+00:44:25,560 --> 00:44:27,560
+capsule infrastructure ou
+
+1100
+00:44:27,560 --> 00:44:29,560
+architecture qu'on appelle
+
+1101
+00:44:29,560 --> 00:44:31,560
+et on trouve ça beaucoup plus pertinent
+
+1102
+00:44:31,560 --> 00:44:33,560
+que de faire une
+
+1103
+00:44:33,560 --> 00:44:35,560
+formation développeur solidity
+
+1104
+00:44:37,560 --> 00:44:39,560
+Ok ouais
+
+1105
+00:44:39,560 --> 00:44:41,560
+c'est un truc qui est de
+
+1106
+00:44:41,560 --> 00:44:43,560
+moins en moins demandé ça développeur solidity
+
+1107
+00:44:43,560 --> 00:44:45,560
+c'est un truc je sais
+
+1108
+00:44:45,560 --> 00:44:47,560
+est-ce que c'est en train d'être assez obsolète?
+
+1109
+00:44:47,560 --> 00:44:49,560
+je sais pas si c'est intelligent de dire ça mais
+
+1110
+00:44:49,560 --> 00:44:51,560
+est-ce que de plus en plus vu que
+
+1111
+00:44:51,560 --> 00:44:53,560
+c'est pas le truc le plus demandé
+
+1112
+00:44:53,560 --> 00:44:55,560
+maintenant pour un projet
+
+1113
+00:44:55,560 --> 00:44:57,560
+quand il va y avoir un projet à construire
+
+1114
+00:44:57,560 --> 00:44:59,560
+il pourrait le trouver en finance
+
+1115
+00:44:59,560 --> 00:45:01,560
+après c'est bien de sourcer ça
+
+1116
+00:45:01,560 --> 00:45:03,560
+et c'est même après bien de le diter
+
+1117
+00:45:03,560 --> 00:45:05,560
+mais c'est pas la ressource qui va te bloquer
+
+1118
+00:45:05,560 --> 00:45:07,560
+le truc aussi qui est important en effet
+
+1119
+00:45:07,560 --> 00:45:09,560
+pourquoi c'est pas la ressource qui te
+
+1120
+00:45:09,560 --> 00:45:11,560
+non seulement c'est 5% du job
+
+1121
+00:45:11,560 --> 00:45:13,560
+mais en plus une fois que tu développe
+
+1122
+00:45:13,560 --> 00:45:15,560
+un Smart Contract
+
+1123
+00:45:15,560 --> 00:45:17,560
+t'es pas amené à le mettre
+
+1124
+00:45:17,560 --> 00:45:19,560
+à jour ou l'améliorer
+
+1125
+00:45:19,560 --> 00:45:21,560
+énormément
+
+1126
+00:45:21,560 --> 00:45:23,560
+ça peut vite devenir
+
+1127
+00:45:23,560 --> 00:45:25,560
+un job de freelance où tu viens, tu fais la mission
+
+1128
+00:45:25,560 --> 00:45:27,560
+et après c'est plutôt le back-end
+
+1129
+00:45:27,560 --> 00:45:29,560
+la manière dont tu vas indexer l'information
+
+1130
+00:45:29,560 --> 00:45:31,560
+l'hébergement
+
+1131
+00:45:31,560 --> 00:45:33,560
+l'infrastructure
+
+1132
+00:45:33,560 --> 00:45:35,560
+que tu vas mettre à jour, maintenir
+
+1133
+00:45:35,560 --> 00:45:37,560
+superviser, etc.
+
+1134
+00:45:37,560 --> 00:45:39,560
+c'est plus la notion
+
+1135
+00:45:39,560 --> 00:45:41,560
+qui est définie qui est peut-être pas claire
+
+1136
+00:45:41,560 --> 00:45:43,560
+pour toi, Chad, c'est le Product Manager
+
+1137
+00:45:43,560 --> 00:45:45,560
+c'est qu'après ton produit
+
+1138
+00:45:45,560 --> 00:45:47,560
+c'est un produit vivant et donc
+
+1139
+00:45:47,560 --> 00:45:49,560
+tu vas le faire vivre dessus aussi bien la frac
+
+1140
+00:45:49,560 --> 00:45:51,560
+la data, les appels des oracles
+
+1141
+00:45:51,560 --> 00:45:53,560
+mais le corps du truc
+
+1142
+00:45:53,560 --> 00:45:55,560
+le Smart Contract principal va quasiment
+
+1143
+00:45:55,560 --> 00:45:57,560
+pas bouger, même si on a des solutions
+
+1144
+00:45:57,560 --> 00:45:59,560
+avec des OIP différents et tout
+
+1145
+00:45:59,560 --> 00:46:01,560
+mais c'est une sorte de galaxie
+
+1146
+00:46:01,560 --> 00:46:03,560
+et le centre de la galaxie
+
+1147
+00:46:03,560 --> 00:46:05,560
+il bouge pas trop
+
+1148
+00:46:05,560 --> 00:46:07,560
+Est-ce que le Product Manager
+
+1149
+00:46:07,560 --> 00:46:09,560
+c'est aussi
+
+1150
+00:46:09,560 --> 00:46:11,560
+il gère aussi un petit peu
+
+1151
+00:46:11,560 --> 00:46:13,560
+les aspects tels que
+
+1152
+00:46:13,560 --> 00:46:15,560
+la prise en main genre, l'UX
+
+1153
+00:46:15,560 --> 00:46:17,560
+donc je sais pas
+
+1154
+00:46:17,560 --> 00:46:19,560
+si c'est votre avis mais
+
+1155
+00:46:19,560 --> 00:46:21,560
+on parle de plus en plus de ça comme étant
+
+1156
+00:46:21,560 --> 00:46:23,560
+le prochain truc
+
+1157
+00:46:23,560 --> 00:46:25,560
+de l'écosystème parce que
+
+1158
+00:46:25,560 --> 00:46:27,560
+on a des trucs, on a des blockchains
+
+1159
+00:46:27,560 --> 00:46:29,560
+qui fonctionnent, on a des standards et tout
+
+1160
+00:46:29,560 --> 00:46:31,560
+mais en fait l'UX
+
+1161
+00:46:31,560 --> 00:46:33,560
+elle est toujours à l'échiquant, c'est toujours un cauchemar
+
+1162
+00:46:33,560 --> 00:46:35,560
+d'utiliser
+
+1163
+00:46:35,560 --> 00:46:37,560
+des NFT
+
+1164
+00:46:37,560 --> 00:46:39,560
+des jeux, etc. Il n'y a rien qui va
+
+1165
+00:46:39,560 --> 00:46:41,560
+en termes d'expérience utilisateur, on va pas
+
+1166
+00:46:41,560 --> 00:46:43,560
+se mentir, c'est compliqué
+
+1167
+00:46:43,560 --> 00:46:45,560
+Est-ce que
+
+1168
+00:46:45,560 --> 00:46:47,560
+ça a l'air d'être un défi à venir
+
+1169
+00:46:47,560 --> 00:46:49,560
+est-ce que les Product Managers
+
+1170
+00:46:49,560 --> 00:46:51,560
+s'occupent un peu de ça
+
+1171
+00:46:51,560 --> 00:46:53,560
+éventuellement?
+
+1172
+00:46:53,560 --> 00:46:55,560
+Oui, maintenant il y a des bonnes pratiques qui sont
+
+1173
+00:46:55,560 --> 00:46:57,560
+assez connues. En fait
+
+1174
+00:46:57,560 --> 00:46:59,560
+la bonne pratique c'est du pragmatisme
+
+1175
+00:46:59,560 --> 00:47:01,560
+déjà il faut laisser
+
+1176
+00:47:01,560 --> 00:47:03,560
+il faut avoir différentes
+
+1177
+00:47:03,560 --> 00:47:05,560
+options de connexion
+
+1178
+00:47:05,560 --> 00:47:07,560
+maintenant sur la plupart des sites un peu stylés
+
+1179
+00:47:07,560 --> 00:47:09,560
+tu peux te connecter avec ton Google
+
+1180
+00:47:09,560 --> 00:47:11,560
+ton Facebook, ton Discord
+
+1181
+00:47:11,560 --> 00:47:13,560
+ton Mail ou ton
+
+1182
+00:47:13,560 --> 00:47:15,560
+Wallet en mode full décentralisé
+
+1183
+00:47:15,560 --> 00:47:17,560
+et puis
+
+1184
+00:47:17,560 --> 00:47:19,560
+après la plus grosse
+
+1185
+00:47:19,560 --> 00:47:21,560
+friction encore
+
+1186
+00:47:21,560 --> 00:47:23,560
+donc le Wallet c'est plus ou moins
+
+1187
+00:47:23,560 --> 00:47:25,560
+géré depuis deux ans
+
+1188
+00:47:25,560 --> 00:47:27,560
+l'autre friction
+
+1189
+00:47:27,560 --> 00:47:29,560
+c'est ce qu'on appelle
+
+1190
+00:47:29,560 --> 00:47:31,560
+le On Off Ramp, c'est à dire
+
+1191
+00:47:31,560 --> 00:47:33,560
+changer des euros en crypto ou des cryptos en euros
+
+1192
+00:47:33,560 --> 00:47:35,560
+parce que
+
+1193
+00:47:35,560 --> 00:47:37,560
+quand on interagit avec la blockchain
+
+1194
+00:47:37,560 --> 00:47:39,560
+bon des fois il y a des relayeurs
+
+1195
+00:47:39,560 --> 00:47:41,560
+qui payent le gaz pour vous
+
+1196
+00:47:41,560 --> 00:47:43,560
+vous achetez quelque chose
+
+1197
+00:47:43,560 --> 00:47:45,560
+vous holdez quelque chose
+
+1198
+00:47:45,560 --> 00:47:47,560
+vous envoyez quelque chose
+
+1199
+00:47:47,560 --> 00:47:49,560
+donc
+
+1200
+00:47:49,560 --> 00:47:51,560
+il y a une valeur qu'il faut transvaser
+
+1201
+00:47:51,560 --> 00:47:53,560
+on-chain et aujourd'hui
+
+1202
+00:47:53,560 --> 00:47:55,560
+c'est ça qui coûte excessivement cher
+
+1203
+00:47:55,560 --> 00:47:57,560
+qui nécessite aussi des KYC
+
+1204
+00:47:57,560 --> 00:47:59,560
+mais en réalité des KYC
+
+1205
+00:47:59,560 --> 00:48:01,560
+on a dans la plupart des applications financières traditionnelles
+
+1206
+00:48:01,560 --> 00:48:03,560
+donc ça je n'appelle pas ça
+
+1207
+00:48:03,560 --> 00:48:05,560
+forcément
+
+1208
+00:48:05,560 --> 00:48:07,560
+une mauvaise expérience
+
+1209
+00:48:07,560 --> 00:48:09,560
+et le dernier problème
+
+1210
+00:48:09,560 --> 00:48:11,560
+pour moi c'est les fees
+
+1211
+00:48:11,560 --> 00:48:13,560
+qui sont payés
+
+1212
+00:48:13,560 --> 00:48:15,560
+je suis en train de tordre le bras à un mec
+
+1213
+00:48:15,560 --> 00:48:17,560
+pour avoir même du 0%
+
+1214
+00:48:17,560 --> 00:48:19,560
+donc je pense que
+
+1215
+00:48:19,560 --> 00:48:21,560
+dans 6 mois
+
+1216
+00:48:21,560 --> 00:48:23,560
+tout le monde arrivera à
+
+1217
+00:48:23,560 --> 00:48:25,560
+avoir ça
+
+1218
+00:48:25,560 --> 00:48:27,560
+Qu'est-ce que tu veux dire
+
+1219
+00:48:27,560 --> 00:48:29,560
+par dans 6 mois on va réussir à avoir ça?
+
+1220
+00:48:29,560 --> 00:48:31,560
+ça veut dire que
+
+1221
+00:48:31,560 --> 00:48:33,560
+la plupart des
+
+1222
+00:48:33,560 --> 00:48:35,560
+solutions de On Off Ramp vont s'aligner
+
+1223
+00:48:35,560 --> 00:48:37,560
+sur un business model
+
+1224
+00:48:37,560 --> 00:48:39,560
+qui a 0% de fees
+
+1225
+00:48:39,560 --> 00:48:41,560
+ou quasiment 0% de fees
+
+1226
+00:48:41,560 --> 00:48:43,560
+et que du coup
+
+1227
+00:48:43,560 --> 00:48:45,560
+la dernière friction pour moi
+
+1228
+00:48:45,560 --> 00:48:47,560
+du Web3 va se résoudre
+
+1229
+00:48:47,560 --> 00:48:49,560
+parce que tout le monde
+
+1230
+00:48:49,560 --> 00:48:51,560
+va l'implémenter
+
+1231
+00:48:51,560 --> 00:48:53,560
+comme tout le monde a implémenté des trucs comme
+
+1232
+00:48:53,560 --> 00:48:55,560
+Magic Link ou Web3 Auth
+
+1233
+00:48:55,560 --> 00:48:57,560
+qui permettent de se faire un compte
+
+1234
+00:48:57,560 --> 00:48:59,560
+avec un mail
+
+1235
+00:48:59,560 --> 00:49:01,560
+Ok d'accord
+
+1236
+00:49:01,560 --> 00:49:03,560
+Ok
+
+1237
+00:49:03,560 --> 00:49:05,560
+Ok
+
+1238
+00:49:05,560 --> 00:49:07,560
+À un moment donné j'avais
+
+1239
+00:49:07,560 --> 00:49:09,560
+une question mais je l'ai perdue en cours de route
+
+1240
+00:49:09,560 --> 00:49:11,560
+ça m'arrive tout le temps
+
+1241
+00:49:13,560 --> 00:49:15,560
+D'ailleurs si il y a des gens
+
+1242
+00:49:15,560 --> 00:49:17,560
+qui sont dans l'audience et qui veulent poser des questions
+
+1243
+00:49:17,560 --> 00:49:19,560
+ou dire des choses n'hésitez pas
+
+1244
+00:49:19,560 --> 00:49:21,560
+Ah oui c'est ça
+
+1245
+00:49:21,560 --> 00:49:23,560
+il y a une formation
+
+1246
+00:49:23,560 --> 00:49:25,560
+DeFi
+
+1247
+00:49:25,560 --> 00:49:27,560
+ça consiste en quoi?
+
+1248
+00:49:27,560 --> 00:49:29,560
+Il y a une formation DeFi chez nous
+
+1249
+00:49:29,560 --> 00:49:31,560
+Celle-ci est assez généraliste
+
+1250
+00:49:33,560 --> 00:49:35,560
+L'idée c'est un peu de comprendre
+
+1251
+00:49:35,560 --> 00:49:37,560
+les mécanismes
+
+1252
+00:49:39,560 --> 00:49:41,560
+Ce que chacun a de spécial
+
+1253
+00:49:41,560 --> 00:49:43,560
+ses avantages
+
+1254
+00:49:43,560 --> 00:49:45,560
+ses inconvénients
+
+1255
+00:49:45,560 --> 00:49:47,560
+Il y a des notions aussi d'éducation financière
+
+1256
+00:49:47,560 --> 00:49:49,560
+qui est très importante
+
+1257
+00:49:49,560 --> 00:49:51,560
+parce que
+
+1258
+00:49:53,560 --> 00:49:55,560
+beaucoup de gens
+
+1259
+00:49:55,560 --> 00:49:57,560
+vont faire ça en pensant
+
+1260
+00:49:57,560 --> 00:49:59,560
+qu'ils vont gagner de la thune
+
+1261
+00:49:59,560 --> 00:50:01,560
+mais la vérité c'est que
+
+1262
+00:50:01,560 --> 00:50:03,560
+il y a des gens beaucoup plus éduqués
+
+1263
+00:50:03,560 --> 00:50:05,560
+que pour faire de l'argent
+
+1264
+00:50:05,560 --> 00:50:07,560
+sur ce territoire-là
+
+1265
+00:50:07,560 --> 00:50:09,560
+et qu'ils le font déjà
+
+1266
+00:50:09,560 --> 00:50:11,560
+et ils peuvent vite se faire
+
+1267
+00:50:11,560 --> 00:50:13,560
+faire des erreurs
+
+1268
+00:50:13,560 --> 00:50:15,560
+et du coup on essaye de les éduquer
+
+1269
+00:50:15,560 --> 00:50:17,560
+sur
+
+1270
+00:50:17,560 --> 00:50:19,560
+les risques
+
+1271
+00:50:19,560 --> 00:50:21,560
+et comment
+
+1272
+00:50:21,560 --> 00:50:23,560
+d'autres acteurs
+
+1273
+00:50:23,560 --> 00:50:25,560
+interagissent
+
+1274
+00:50:27,560 --> 00:50:29,560
+avec eux quand ils font des trades
+
+1275
+00:50:31,560 --> 00:50:33,560
+Est-ce que vous apprenez à faire des attaques sandwich?
+
+1276
+00:50:33,560 --> 00:50:35,560
+On leur apprend qu'ils peuvent se faire sandwicher
+
+1277
+00:50:39,560 --> 00:50:41,560
+Ok
+
+1278
+00:50:41,560 --> 00:50:43,560
+Il faut mieux que ça soit généraliste
+
+1279
+00:50:43,560 --> 00:50:45,560
+parce que moi je vois pour un pote
+
+1280
+00:50:45,560 --> 00:50:47,560
+qui fait la formation dans l'autre école
+
+1281
+00:50:47,560 --> 00:50:49,560
+sa formation
+
+1282
+00:50:49,560 --> 00:50:51,560
+elle avait 3 ans et là il a dit
+
+1283
+00:50:51,560 --> 00:50:53,560
+bon cette année je ne la refais pas la formation
+
+1284
+00:50:53,560 --> 00:50:55,560
+j'en ai marre d'être prof et tout
+
+1285
+00:50:55,560 --> 00:50:57,560
+même que sa formation ait duré 3 ans
+
+1286
+00:50:57,560 --> 00:50:59,560
+c'était un miracle
+
+1287
+00:50:59,560 --> 00:51:01,560
+tu peux plus rien suivre en défi
+
+1288
+00:51:01,560 --> 00:51:03,560
+tu peux plus vraiment expliquer tous les détails
+
+1289
+00:51:03,560 --> 00:51:05,560
+que ce soit le type d'attaque
+
+1290
+00:51:05,560 --> 00:51:07,560
+que la construction même
+
+1291
+00:51:07,560 --> 00:51:09,560
+d'un produit un peu construit
+
+1292
+00:51:09,560 --> 00:51:11,560
+que ce soit sur curve et tout
+
+1293
+00:51:11,560 --> 00:51:13,560
+c'est trop compliqué pour suivre
+
+1294
+00:51:13,560 --> 00:51:15,560
+il faut mieux être généraliste et expliquer les principes de la défi
+
+1295
+00:51:15,560 --> 00:51:17,560
+les principes comment ça marche
+
+1296
+00:51:17,560 --> 00:51:19,560
+je pense que Manu en parlera mieux que moi
+
+1297
+00:51:19,560 --> 00:51:21,560
+que de faire un cours dessus
+
+1298
+00:51:21,560 --> 00:51:23,560
+et encore pour quelques années à venir
+
+1299
+00:51:23,560 --> 00:51:25,560
+la définition de la défi c'est juste vendre du vent
+
+1300
+00:51:25,560 --> 00:51:27,560
+si tu veux au moins être spécialisé
+
+1301
+00:51:27,560 --> 00:51:29,560
+ouais exactement
+
+1302
+00:51:29,560 --> 00:51:31,560
+de manière très pragmatique c'est généraliste
+
+1303
+00:51:31,560 --> 00:51:33,560
+pour qu'on puisse appréhender les risques
+
+1304
+00:51:33,560 --> 00:51:35,560
+savoir
+
+1305
+00:51:35,560 --> 00:51:37,560
+où se référer en fonction de ce qu'on veut
+
+1306
+00:51:37,560 --> 00:51:39,560
+si on veut faire de l'argent
+
+1307
+00:51:39,560 --> 00:51:41,560
+on est obligé de trader tout seul
+
+1308
+00:51:41,560 --> 00:51:43,560
+il y a certaines applications qu'on peut recommander
+
+1309
+00:51:45,560 --> 00:51:47,560
+et voilà
+
+1310
+00:51:47,560 --> 00:51:49,560
+c'est pareil sur d'autres sujets
+
+1311
+00:51:49,560 --> 00:51:51,560
+ça me paraît long 3 ans
+
+1312
+00:51:51,560 --> 00:51:53,560
+pour une formation surtout sur la défi
+
+1313
+00:51:53,560 --> 00:51:55,560
+c'est comme si tu faisais une formation de 3 ans sur les LLM
+
+1314
+00:51:55,560 --> 00:51:57,560
+c'est pas une formation de 3 ans
+
+1315
+00:51:57,560 --> 00:51:59,560
+c'est pendant 3 ans
+
+1316
+00:51:59,560 --> 00:52:01,560
+il l'a fait sa formation
+
+1317
+00:52:01,560 --> 00:52:03,560
+c'est tout
+
+1318
+00:52:03,560 --> 00:52:05,560
+je crois que au début il avait quand même un peu modifié
+
+1319
+00:52:05,560 --> 00:52:07,560
+mais après au fur et à mesure
+
+1320
+00:52:07,560 --> 00:52:09,560
+elle avait 3 ans d'âge
+
+1321
+00:52:09,560 --> 00:52:11,560
+il avait quasiment bougé
+
+1322
+00:52:11,560 --> 00:52:13,560
+que quelques parties du cours
+
+1323
+00:52:13,560 --> 00:52:15,560
+mais là il s'est arrivé à un mur
+
+1324
+00:52:15,560 --> 00:52:17,560
+où il disait c'est impossible tu peux tenir le truc
+
+1325
+00:52:17,560 --> 00:52:19,560
+parce que autant à l'époque
+
+1326
+00:52:19,560 --> 00:52:21,560
+c'était très facile sur les petits stable coins
+
+1327
+00:52:21,560 --> 00:52:23,560
+au moment où on est protocol sur des stable coins
+
+1328
+00:52:23,560 --> 00:52:25,560
+c'est juste un enfer
+
+1329
+00:52:25,560 --> 00:52:27,560
+je pense que c'est ce qu'a dit
+
+1330
+00:52:27,560 --> 00:52:29,560
+Bilal
+
+1331
+00:52:29,560 --> 00:52:31,560
+le plus important
+
+1332
+00:52:31,560 --> 00:52:33,560
+dans la défi
+
+1333
+00:52:33,560 --> 00:52:35,560
+c'est de savoir trouver les bons outils
+
+1334
+00:52:35,560 --> 00:52:37,560
+pratiquer les bons outils
+
+1335
+00:52:37,560 --> 00:52:39,560
+et pour trouver la data
+
+1336
+00:52:39,560 --> 00:52:41,560
+qui t'intéresse à faire ta stratégie
+
+1337
+00:52:41,560 --> 00:52:43,560
+après le reste c'est du pipo
+
+1338
+00:52:43,560 --> 00:52:45,560
+ou juste de l'expérience
+
+1339
+00:52:45,560 --> 00:52:47,560
+C'est dommage que Laurent ne soit pas là
+
+1340
+00:52:47,560 --> 00:52:49,560
+c'est mon expert
+
+1341
+00:52:49,560 --> 00:52:51,560
+c'est mon expert DeFi
+
+1342
+00:52:51,560 --> 00:52:53,560
+qui d'ailleurs
+
+1343
+00:52:53,560 --> 00:52:55,560
+qui bosse pour MEV Capital
+
+1344
+00:52:55,560 --> 00:52:57,560
+qui sponsorise cette société
+
+1345
+00:52:57,560 --> 00:52:59,560
+J'aurais bien aimé lui parler en live
+
+1346
+00:52:59,560 --> 00:53:01,560
+je ne l'ai jamais rencontré
+
+1347
+00:53:01,560 --> 00:53:03,560
+je lui ai parlé sur Telegram
+
+1348
+00:53:03,560 --> 00:53:05,560
+ce mec est très très très fort
+
+1349
+00:53:05,560 --> 00:53:07,560
+paraît-il
+
+1350
+00:53:07,560 --> 00:53:09,560
+et tout le monde le respecte
+
+1351
+00:53:09,560 --> 00:53:11,560
+du coup j'avais hâte de lui parler
+
+1352
+00:53:11,560 --> 00:53:13,560
+et je regrette
+
+1353
+00:53:13,560 --> 00:53:15,560
+dommage que tu ne sois pas là
+
+1354
+00:53:15,560 --> 00:53:17,560
+c'est vrai il est très fort
+
+1355
+00:53:17,560 --> 00:53:19,560
+et super cool aussi
+
+1356
+00:53:19,560 --> 00:53:21,560
+tout le monde me dit ça
+
+1357
+00:53:23,560 --> 00:53:25,560
+bon bah tant pis, une prochaine fois
+
+1358
+00:53:25,560 --> 00:53:27,560
+va falloir me réinventer
+
+1359
+00:53:27,560 --> 00:53:29,560
+ouais c'est ça
+
+1360
+00:53:29,560 --> 00:53:31,560
+exactement
+
+1361
+00:53:31,560 --> 00:53:33,560
+on se fera une autre émission
+
+1362
+00:53:33,560 --> 00:53:35,560
+mais de toute façon
+
+1363
+00:53:35,560 --> 00:53:37,560
+ça me fait un pont
+
+1364
+00:53:37,560 --> 00:53:39,560
+tout ce dont on est en train de parler
+
+1365
+00:53:39,560 --> 00:53:41,560
+c'est des choses dont on va reparler
+
+1366
+00:53:41,560 --> 00:53:43,560
+forcément à la rentrée
+
+1367
+00:53:43,560 --> 00:53:45,560
+parce que c'est ça, il y a Nico qui va venir
+
+1368
+00:53:45,560 --> 00:53:47,560
+avec des étudiants
+
+1369
+00:53:47,560 --> 00:53:49,560
+de la BBS
+
+1370
+00:53:49,560 --> 00:53:51,560
+on va aborder ces sujets là
+
+1371
+00:53:51,560 --> 00:53:53,560
+c'est encore un peu un mystère pour moi
+
+1372
+00:53:53,560 --> 00:53:55,560
+de comment on va organiser
+
+1373
+00:53:55,560 --> 00:53:57,560
+mais c'est un peu le but aussi
+
+1374
+00:53:57,560 --> 00:53:59,560
+si tu apportes des TLS dans le space
+
+1375
+00:53:59,560 --> 00:54:01,560
+pour savoir s'ils sont présents ou pas
+
+1376
+00:54:01,560 --> 00:54:03,560
+est-ce que tu leur poses des questions
+
+1377
+00:54:03,560 --> 00:54:05,560
+pour savoir s'ils écoutent
+
+1378
+00:54:05,560 --> 00:54:07,560
+ça ce serait vraiment drôle
+
+1379
+00:54:07,560 --> 00:54:09,560
+ça fait le café
+
+1380
+00:54:09,560 --> 00:54:11,560
+pas sur un space
+
+1381
+00:54:11,560 --> 00:54:13,560
+mais sur des zooms
+
+1382
+00:54:13,560 --> 00:54:15,560
+des profs qui font des questions
+
+1383
+00:54:15,560 --> 00:54:17,560
+à leurs élèves et qui regardent s'ils sont en vie ou pas
+
+1384
+00:54:19,560 --> 00:54:21,560
+ouais mais on va essayer de trouver des méthodes
+
+1385
+00:54:21,560 --> 00:54:23,560
+c'est ça pour
+
+1386
+00:54:23,560 --> 00:54:25,560
+et à la fin, moi je vais tout écrire
+
+1387
+00:54:25,560 --> 00:54:27,560
+on va faire genre on est détendu
+
+1388
+00:54:27,560 --> 00:54:29,560
+on est potes et tout
+
+1389
+00:54:29,560 --> 00:54:31,560
+je vais tout écrire sur un papier, ensuite je vais les donner
+
+1390
+00:54:31,560 --> 00:54:33,560
+et y'en a qui vont avoir des mauvaises surprises
+
+1391
+00:54:33,560 --> 00:54:35,560
+genre toi alors toi
+
+1392
+00:54:35,560 --> 00:54:37,560
+à la fin de l'année tu le donnes pas à l'acclimatation
+
+1393
+00:54:37,560 --> 00:54:39,560
+et tu te dis que t'es nul de frère
+
+1394
+00:54:39,560 --> 00:54:41,560
+non mais je sais pas trop
+
+1395
+00:54:41,560 --> 00:54:43,560
+comment on va articuler le truc
+
+1396
+00:54:43,560 --> 00:54:45,560
+mais je pense que ça va être bien cool
+
+1397
+00:54:45,560 --> 00:54:47,560
+et en plus de ça
+
+1398
+00:54:47,560 --> 00:54:49,560
+comme je disais tout à l'heure
+
+1399
+00:54:49,560 --> 00:54:51,560
+y'a vraiment des synergies au niveau des thèmes
+
+1400
+00:54:51,560 --> 00:54:53,560
+et notamment le fait que vous avez intégré l'IA
+
+1401
+00:54:53,560 --> 00:54:55,560
+ça c'est cool
+
+1402
+00:54:55,560 --> 00:54:57,560
+mais du coup j'ai vraiment une question par rapport à ça
+
+1403
+00:54:57,560 --> 00:54:59,560
+de quoi vous parlez
+
+1404
+00:54:59,560 --> 00:55:01,560
+c'est ce dont t'as fait
+
+1405
+00:55:01,560 --> 00:55:03,560
+ce à quoi t'as fait référence
+
+1406
+00:55:03,560 --> 00:55:05,560
+tout à l'heure
+
+1407
+00:55:05,560 --> 00:55:07,560
+c'est genre
+
+1408
+00:55:07,560 --> 00:55:09,560
+vous vous enseignez en fait
+
+1409
+00:55:09,560 --> 00:55:11,560
+en gros les fondements de l'IA
+
+1410
+00:55:11,560 --> 00:55:13,560
+c'est à dire le machine learning etc
+
+1411
+00:55:13,560 --> 00:55:15,560
+ou est-ce que vous allez un peu plus loin, vous parlez des outils
+
+1412
+00:55:15,560 --> 00:55:17,560
+qui sont utilisés en ce moment par exemple
+
+1413
+00:55:17,560 --> 00:55:19,560
+comme les LLM, les LDM
+
+1414
+00:55:19,560 --> 00:55:21,560
+etc tous les nouvelles
+
+1415
+00:55:21,560 --> 00:55:23,560
+des impôts
+
+1416
+00:55:23,560 --> 00:55:25,560
+alors oui on parle un petit peu
+
+1417
+00:55:25,560 --> 00:55:27,560
+sur la formation l'IA
+
+1418
+00:55:27,560 --> 00:55:29,560
+tu veux dire
+
+1419
+00:55:29,560 --> 00:55:31,560
+ouais ouais ouais
+
+1420
+00:55:31,560 --> 00:55:33,560
+en fait là déjà
+
+1421
+00:55:33,560 --> 00:55:35,560
+c'est là ce qu'il faut
+
+1422
+00:55:35,560 --> 00:55:37,560
+que je vais en parler tout à l'heure
+
+1423
+00:55:37,560 --> 00:55:39,560
+et c'est la source de la plupart des
+
+1424
+00:55:39,560 --> 00:55:41,560
+problèmes de communication
+
+1425
+00:55:41,560 --> 00:55:43,560
+dans une équipe
+
+1426
+00:55:43,560 --> 00:55:45,560
+qui ralentit tout
+
+1427
+00:55:45,560 --> 00:55:47,560
+c'est la définition des mots
+
+1428
+00:55:47,560 --> 00:55:49,560
+et on commence déjà par expliquer
+
+1429
+00:55:49,560 --> 00:55:51,560
+les différents types d'algorithmes
+
+1430
+00:55:51,560 --> 00:55:53,560
+hum
+
+1431
+00:55:53,560 --> 00:55:55,560
+qu'on met sous la famille
+
+1432
+00:55:55,560 --> 00:55:57,560
+de l'intelligence artificielle
+
+1433
+00:55:57,560 --> 00:55:59,560
+il y a une différence entre
+
+1434
+00:55:59,560 --> 00:56:01,560
+le machine learning, le deep learning
+
+1435
+00:56:01,560 --> 00:56:03,560
+et là maintenant la gen AI
+
+1436
+00:56:03,560 --> 00:56:05,560
+c'est pas la même manière
+
+1437
+00:56:05,560 --> 00:56:07,560
+de construire des
+
+1438
+00:56:07,560 --> 00:56:09,560
+use case
+
+1439
+00:56:09,560 --> 00:56:11,560
+et déjà on essaie de donner de la perspective
+
+1440
+00:56:11,560 --> 00:56:13,560
+ensuite
+
+1441
+00:56:13,560 --> 00:56:15,560
+hum on essaye
+
+1442
+00:56:15,560 --> 00:56:17,560
+plutôt de
+
+1443
+00:56:17,560 --> 00:56:19,560
+c'est pas technique
+
+1444
+00:56:19,560 --> 00:56:21,560
+on essaye plutôt de
+
+1445
+00:56:21,560 --> 00:56:23,560
+rendre les gens experts
+
+1446
+00:56:23,560 --> 00:56:25,560
+de chat GPT ou d'outils
+
+1447
+00:56:25,560 --> 00:56:27,560
+comme chat GPT c'est à dire du prompting
+
+1448
+00:56:27,560 --> 00:56:29,560
+et c'est assez marrant moi
+
+1449
+00:56:29,560 --> 00:56:31,560
+le prompting ça me rappelle beaucoup le shell
+
+1450
+00:56:31,560 --> 00:56:33,560
+c'est le langage de programmation
+
+1451
+00:56:33,560 --> 00:56:35,560
+les instructions
+
+1452
+00:56:35,560 --> 00:56:37,560
+le lexique
+
+1453
+00:56:37,560 --> 00:56:39,560
+d'instruction pour interagir
+
+1454
+00:56:39,560 --> 00:56:41,560
+avec un ordinateur
+
+1455
+00:56:41,560 --> 00:56:43,560
+ça peut être du shell, c'est ce qu'on tape
+
+1456
+00:56:43,560 --> 00:56:45,560
+sur un terminal noir, je sais pas si vous avez déjà vu ça
+
+1457
+00:56:45,560 --> 00:56:47,560
+et donc on
+
+1458
+00:56:47,560 --> 00:56:49,560
+donne des instructions à l'ordinateur
+
+1459
+00:56:49,560 --> 00:56:51,560
+et là
+
+1460
+00:56:51,560 --> 00:56:53,560
+le prompting c'est un peu la même chose
+
+1461
+00:56:53,560 --> 00:56:55,560
+avec une couche un peu plus intelligente
+
+1462
+00:56:55,560 --> 00:56:57,560
+hum
+
+1463
+00:56:57,560 --> 00:56:59,560
+et qui croise plusieurs typologies
+
+1464
+00:56:59,560 --> 00:57:01,560
+de données et donc
+
+1465
+00:57:01,560 --> 00:57:03,560
+tout comme on apprend le shell pour pouvoir
+
+1466
+00:57:03,560 --> 00:57:05,560
+quand on apprend à coder on essaye de leur apprendre
+
+1467
+00:57:05,560 --> 00:57:07,560
+un petit peu le
+
+1468
+00:57:07,560 --> 00:57:09,560
+le prompting et comment
+
+1469
+00:57:09,560 --> 00:57:11,560
+maximiser ce qu'ils peuvent sortir
+
+1470
+00:57:11,560 --> 00:57:13,560
+du prompting
+
+1471
+00:57:13,560 --> 00:57:15,560
+pour s'augmenter
+
+1472
+00:57:15,560 --> 00:57:17,560
+eux même en fait
+
+1473
+00:57:17,560 --> 00:57:19,560
+et là on peut...
+
+1474
+00:57:19,560 --> 00:57:21,560
+c'est marrant
+
+1475
+00:57:21,560 --> 00:57:23,560
+le prompting
+
+1476
+00:57:23,560 --> 00:57:25,560
+par défaut
+
+1477
+00:57:25,560 --> 00:57:27,560
+on prend le truc un peu
+
+1478
+00:57:27,560 --> 00:57:29,560
+comme si c'était genre
+
+1479
+00:57:29,560 --> 00:57:31,560
+ah ouais mais c'est facile
+
+1480
+00:57:31,560 --> 00:57:33,560
+tu lui parles en fait
+
+1481
+00:57:33,560 --> 00:57:35,560
+comme si c'était une simplification alors qu'en fait
+
+1482
+00:57:35,560 --> 00:57:37,560
+du vrai bon prompting
+
+1483
+00:57:37,560 --> 00:57:39,560
+en fait c'est l'inverse
+
+1484
+00:57:39,560 --> 00:57:41,560
+c'est un peu comme ce que tu viens de dire
+
+1485
+00:57:41,560 --> 00:57:43,560
+c'est comme du langage shell
+
+1486
+00:57:43,560 --> 00:57:45,560
+mais genre augmenté
+
+1487
+00:57:45,560 --> 00:57:47,560
+avec toute la
+
+1488
+00:57:47,560 --> 00:57:49,560
+toute la sémantique du langage
+
+1489
+00:57:49,560 --> 00:57:51,560
+du langage en fait
+
+1490
+00:57:51,560 --> 00:57:53,560
+toutes les définitions de mots
+
+1491
+00:57:53,560 --> 00:57:55,560
+que tu peux utiliser pour pouvoir
+
+1492
+00:57:55,560 --> 00:57:57,560
+exactement préciser
+
+1493
+00:57:57,560 --> 00:57:59,560
+avoir une très grande précision dans ce que tu veux
+
+1494
+00:57:59,560 --> 00:58:01,560
+que le truc te donne en sortie
+
+1495
+00:58:01,560 --> 00:58:03,560
+c'est comme ça que je le vois maintenant
+
+1496
+00:58:03,560 --> 00:58:05,560
+puisque on a la définition de base
+
+1497
+00:58:05,560 --> 00:58:07,560
+oui
+
+1498
+00:58:07,560 --> 00:58:09,560
+c'est une manière très
+
+1499
+00:58:09,560 --> 00:58:11,560
+mainstream de le voir
+
+1500
+00:58:11,560 --> 00:58:13,560
+ouais
+
+1501
+00:58:13,560 --> 00:58:15,560
+mais en tout cas
+
+1502
+00:58:15,560 --> 00:58:17,560
+on a eu une discussion hier
+
+1503
+00:58:17,560 --> 00:58:19,560
+là dessus parce que hier c'était une journée
+
+1504
+00:58:19,560 --> 00:58:21,560
+c'était une soirée IA et je me suis
+
+1505
+00:58:21,560 --> 00:58:23,560
+énervé contre
+
+1506
+00:58:23,560 --> 00:58:25,560
+j'expliquais que je m'étais énervé contre
+
+1507
+00:58:25,560 --> 00:58:27,560
+chaque GPT parce que il y a le
+
+1508
+00:58:27,560 --> 00:58:29,560
+nouveau truc là
+
+1509
+00:58:29,560 --> 00:58:31,560
+comment ça s'appelle?
+
+1510
+00:58:31,560 --> 00:58:33,560
+GPT
+
+1511
+00:58:33,560 --> 00:58:35,560
+ouais exactement les GPT
+
+1512
+00:58:35,560 --> 00:58:37,560
+et j'essaye de lui donner des instructions pour qu'il me
+
+1513
+00:58:37,560 --> 00:58:39,560
+fasse
+
+1514
+00:58:39,560 --> 00:58:41,560
+pour qu'il crée le GPT que
+
+1515
+00:58:41,560 --> 00:58:43,560
+je veux qu'il crée c'est à dire un truc qui fait
+
+1516
+00:58:43,560 --> 00:58:45,560
+des résumés d'épisodes
+
+1517
+00:58:45,560 --> 00:58:47,560
+de podcast parce que ça me sert
+
+1518
+00:58:47,560 --> 00:58:49,560
+et d'habitude
+
+1519
+00:58:49,560 --> 00:58:51,560
+ce que j'ai l'habitude de faire c'est que j'utilise
+
+1520
+00:58:51,560 --> 00:58:53,560
+Claude et en fait je lui balance
+
+1521
+00:58:53,560 --> 00:58:55,560
+la transcription parce que lui il peut gérer
+
+1522
+00:58:55,560 --> 00:58:57,560
+les transcriptions d'épisodes
+
+1523
+00:58:57,560 --> 00:58:59,560
+et je lui fais un prompt
+
+1524
+00:58:59,560 --> 00:59:01,560
+mon prompt il fait quand même une bonne
+
+1525
+00:59:01,560 --> 00:59:03,560
+une ou deux pages
+
+1526
+00:59:03,560 --> 00:59:05,560
+un prompt bien mais il m'interprète
+
+1527
+00:59:05,560 --> 00:59:07,560
+ça parfaitement il fait la bonne structure
+
+1528
+00:59:07,560 --> 00:59:09,560
+il fait le bon truc et tout et moi je me suis dit
+
+1529
+00:59:09,560 --> 00:59:11,560
+tiens je vais utiliser
+
+1530
+00:59:11,560 --> 00:59:13,560
+je vais expérimenter avec les GPT
+
+1531
+00:59:13,560 --> 00:59:15,560
+de chaque GPT vu que maintenant
+
+1532
+00:59:15,560 --> 00:59:17,560
+ça peut prendre plus de texte en entrée
+
+1533
+00:59:17,560 --> 00:59:19,560
+etc et
+
+1534
+00:59:19,560 --> 00:59:21,560
+je vais lui donner ce prompt là
+
+1535
+00:59:21,560 --> 00:59:23,560
+et en fait comme tu dois
+
+1536
+00:59:23,560 --> 00:59:25,560
+le configurer un peu tu dois discuter
+
+1537
+00:59:25,560 --> 00:59:27,560
+avec lui pour qu'il te fasse
+
+1538
+00:59:27,560 --> 00:59:29,560
+pour pouvoir en faire un truc plus
+
+1539
+00:59:29,560 --> 00:59:31,560
+ou moins général
+
+1540
+00:59:31,560 --> 00:59:33,560
+en gros au bout d'un moment il pétait un câble
+
+1541
+00:59:33,560 --> 00:59:35,560
+il respectait plus du tout
+
+1542
+00:59:35,560 --> 00:59:37,560
+les trucs que je lui avais dit au début tout ça et ça me rendait fou
+
+1543
+00:59:37,560 --> 00:59:39,560
+et Geek
+
+1544
+00:59:39,560 --> 00:59:41,560
+qui est spécialiste de l'émission
+
+1545
+00:59:41,560 --> 00:59:43,560
+il a dit mais en fait c'est parce que tu lui parles trop longtemps
+
+1546
+00:59:43,560 --> 00:59:45,560
+en fait il a une fenêtre de
+
+1547
+00:59:45,560 --> 00:59:47,560
+il a une fenêtre de je sais plus
+
+1548
+00:59:47,560 --> 00:59:49,560
+comment on appelle ça
+
+1549
+00:59:49,560 --> 00:59:51,560
+où il comprend ce que tu lui dis
+
+1550
+00:59:51,560 --> 00:59:53,560
+et il prend pas tout en compte
+
+1551
+00:59:53,560 --> 00:59:55,560
+à l'infini en fait
+
+1552
+00:59:55,560 --> 00:59:57,560
+et donc en fait si jamais
+
+1553
+00:59:57,560 --> 00:59:59,560
+tu vas plus loin que sa capacité
+
+1554
+00:59:59,560 --> 01:00:01,560
+à retenir
+
+1555
+01:00:01,560 --> 01:00:03,560
+à prendre en compte ce que tu lui dis
+
+1556
+01:00:03,560 --> 01:00:05,560
+il oublie le début en fait et t'es obligé de recommencer
+
+1557
+01:00:05,560 --> 01:00:07,560
+donc en fait t'es obligé d'avoir une discussion
+
+1558
+01:00:07,560 --> 01:00:09,560
+qui fait que t'es obligé de lui répéter les choses
+
+1559
+01:00:09,560 --> 01:00:11,560
+ou alors recommencer un truc
+
+1560
+01:00:11,560 --> 01:00:13,560
+c'est toute une histoire
+
+1561
+01:00:13,560 --> 01:00:15,560
+voilà
+
+1562
+01:00:15,560 --> 01:00:17,560
+tout à fait
+
+1563
+01:00:17,560 --> 01:00:19,560
+je dois commenter
+
+1564
+01:00:19,560 --> 01:00:21,560
+c'est pas obligé de commenter
+
+1565
+01:00:21,560 --> 01:00:23,560
+mais tu peux pas
+
+1566
+01:00:23,560 --> 01:00:25,560
+non mais en fait ce que tu dis
+
+1567
+01:00:25,560 --> 01:00:27,560
+c'est plusieurs choses
+
+1568
+01:00:27,560 --> 01:00:29,560
+déjà un
+
+1569
+01:00:29,560 --> 01:00:31,560
+le nerf de la guerre c'est l'hébergement
+
+1570
+01:00:31,560 --> 01:00:33,560
+et la puissance de calcul
+
+1571
+01:00:33,560 --> 01:00:35,560
+et l'énergie
+
+1572
+01:00:35,560 --> 01:00:37,560
+et ça c'est limité
+
+1573
+01:00:37,560 --> 01:00:39,560
+et c'est aussi pour ça que
+
+1574
+01:00:39,560 --> 01:00:41,560
+des fois on se fait éjecter de chat JPT
+
+1575
+01:00:41,560 --> 01:00:43,560
+3.5
+
+1576
+01:00:43,560 --> 01:00:45,560
+ou qui t'arrive ce que tu viens de décrire
+
+1577
+01:00:45,560 --> 01:00:47,560
+et voilà
+
+1578
+01:00:47,560 --> 01:00:49,560
+c'est la loi de Moore
+
+1579
+01:00:49,560 --> 01:00:51,560
+il faut encore qu'on améliore nos puissances de calcul
+
+1580
+01:00:51,560 --> 01:00:53,560
+pour pouvoir décupler
+
+1581
+01:00:53,560 --> 01:00:55,560
+cette
+
+1582
+01:00:55,560 --> 01:00:57,560
+la puissance
+
+1583
+01:00:57,560 --> 01:00:59,560
+de cette intelligence artificielle
+
+1584
+01:00:59,560 --> 01:01:01,560
+et
+
+1585
+01:01:01,560 --> 01:01:03,560
+voilà peut-être sur Claude
+
+1586
+01:01:03,560 --> 01:01:05,560
+avoir la limite
+
+1587
+01:01:05,560 --> 01:01:07,560
+et en fait l'autre morale
+
+1588
+01:01:07,560 --> 01:01:09,560
+que ça ressort c'est que
+
+1589
+01:01:09,560 --> 01:01:11,560
+voilà l'IA générative
+
+1590
+01:01:11,560 --> 01:01:13,560
+c'est super
+
+1591
+01:01:13,560 --> 01:01:15,560
+bien productisé et bien marketé
+
+1592
+01:01:15,560 --> 01:01:17,560
+à l'américaine avec chat JPT
+
+1593
+01:01:17,560 --> 01:01:19,560
+mais ça a encore
+
+1594
+01:01:19,560 --> 01:01:21,560
+beaucoup beaucoup de limites
+
+1595
+01:01:21,560 --> 01:01:23,560
+c'est pas du tout parfait
+
+1596
+01:01:23,560 --> 01:01:25,560
+et je pense
+
+1597
+01:01:25,560 --> 01:01:27,560
+qu'il y a encore de la place
+
+1598
+01:01:27,560 --> 01:01:29,560
+pour beaucoup d'innovation
+
+1599
+01:01:29,560 --> 01:01:31,560
+ouais
+
+1600
+01:01:31,560 --> 01:01:33,560
+en tout cas bon choix de l'avoir intégré même si
+
+1601
+01:01:33,560 --> 01:01:35,560
+c'est un peu contre-institutif dans blockchain
+
+1602
+01:01:35,560 --> 01:01:37,560
+business school
+
+1603
+01:01:37,560 --> 01:01:39,560
+ouais bon choix de l'avoir intégré
+
+1604
+01:01:39,560 --> 01:01:41,560
+surtout qu'en plus ça va servir même
+
+1605
+01:01:41,560 --> 01:01:43,560
+en rapport avec la blockchain
+
+1606
+01:01:43,560 --> 01:01:45,560
+pour tout ce qui est
+
+1607
+01:01:45,560 --> 01:01:47,560
+dans la sécurité
+
+1608
+01:01:47,560 --> 01:01:49,560
+ouais il y a un petit passage où ça connecte un petit peu les deux
+
+1609
+01:01:49,560 --> 01:01:51,560
+parce que ce qui est intéressant avec la blockchain c'est que
+
+1610
+01:01:51,560 --> 01:01:53,560
+la donnée est publique
+
+1611
+01:01:53,560 --> 01:01:55,560
+et elle est accessible
+
+1612
+01:01:55,560 --> 01:01:57,560
+à quiconque à un noeud
+
+1613
+01:01:57,560 --> 01:01:59,560
+donc
+
+1614
+01:01:59,560 --> 01:02:01,560
+il n'y a pas meilleur endroit
+
+1615
+01:02:01,560 --> 01:02:03,560
+pour commencer à expérimenter
+
+1616
+01:02:03,560 --> 01:02:05,560
+ça apporte aussi de la donnée qui est
+
+1617
+01:02:05,560 --> 01:02:07,560
+certifiée
+
+1618
+01:02:07,560 --> 01:02:09,560
+donc c'est aussi rare
+
+1619
+01:02:09,560 --> 01:02:11,560
+dans le monde réel d'avoir
+
+1620
+01:02:11,560 --> 01:02:13,560
+une donnée certifiée
+
+1621
+01:02:13,560 --> 01:02:15,560
+en fait quand on manipule des bases de données
+
+1622
+01:02:15,560 --> 01:02:17,560
+on se rend compte qu'il y a beaucoup de doublons
+
+1623
+01:02:17,560 --> 01:02:19,560
+beaucoup de cellules
+
+1624
+01:02:19,560 --> 01:02:21,560
+vides
+
+1625
+01:02:21,560 --> 01:02:23,560
+et voilà comme on disait
+
+1626
+01:02:23,560 --> 01:02:25,560
+l'informatique c'est de la mécanique
+
+1627
+01:02:25,560 --> 01:02:27,560
+des fois il y a des trucs qui sautent
+
+1628
+01:02:27,560 --> 01:02:29,560
+c'est pas parce que
+
+1629
+01:02:29,560 --> 01:02:31,560
+ça a marché une fois que ça va marcher
+
+1630
+01:02:31,560 --> 01:02:33,560
+tout le temps de la même manière
+
+1631
+01:02:33,560 --> 01:02:35,560
+et c'est ça qui est fou
+
+1632
+01:02:37,560 --> 01:02:39,560
+ça va servir beaucoup pour les audits
+
+1633
+01:02:41,560 --> 01:02:43,560
+il y avait
+
+1634
+01:02:43,560 --> 01:02:45,560
+une perspective que
+
+1635
+01:02:45,560 --> 01:02:47,560
+l'IA utilise
+
+1636
+01:02:47,560 --> 01:02:49,560
+la blockchain pour
+
+1637
+01:02:49,560 --> 01:02:51,560
+faire des paiements
+
+1638
+01:02:51,560 --> 01:02:53,560
+pour se payer des services entre elles
+
+1639
+01:02:53,560 --> 01:02:55,560
+ou payer des humains pour faire des choses
+
+1640
+01:02:55,560 --> 01:02:57,560
+il y a déjà des mecs qui ont fait des
+
+1641
+01:02:57,560 --> 01:02:59,560
+GPT's qui
+
+1642
+01:02:59,560 --> 01:03:01,560
+interagissent avec la blockchain apparemment
+
+1643
+01:03:01,560 --> 01:03:03,560
+excellent
+
+1644
+01:03:03,560 --> 01:03:05,560
+ça m'étonne pas
+
+1645
+01:03:05,560 --> 01:03:07,560
+après je pense pas
+
+1646
+01:03:07,560 --> 01:03:09,560
+qu'il déclenche des transactions
+
+1647
+01:03:09,560 --> 01:03:11,560
+mais c'est possible qu'il surveille
+
+1648
+01:03:11,560 --> 01:03:13,560
+que des transactions soient déclenchées
+
+1649
+01:03:13,560 --> 01:03:15,560
+à Xapier et
+
+1650
+01:03:15,560 --> 01:03:17,560
+il déclenche des envois de messages
+
+1651
+01:03:17,560 --> 01:03:19,560
+pour faire des notifications des trucs comme ça
+
+1652
+01:03:19,560 --> 01:03:21,560
+alors justement
+
+1653
+01:03:21,560 --> 01:03:23,560
+je crois que si
+
+1654
+01:03:23,560 --> 01:03:25,560
+je crois que les mecs ont fait des paiements
+
+1655
+01:03:25,560 --> 01:03:27,560
+je regarde
+
+1656
+01:03:27,560 --> 01:03:29,560
+il me semble que si
+
+1657
+01:03:29,560 --> 01:03:31,560
+il y a eu des paiements qui ont été faits
+
+1658
+01:03:31,560 --> 01:03:33,560
+mais j'ai pas envie de dire de conneries
+
+1659
+01:03:33,560 --> 01:03:35,560
+c'est un sujet
+
+1660
+01:03:35,560 --> 01:03:37,560
+partage le si tu le retrouves
+
+1661
+01:03:37,560 --> 01:03:39,560
+ça m'intéresse
+
+1662
+01:03:39,560 --> 01:03:41,560
+ok je regarderai ça
+
+1663
+01:03:41,560 --> 01:03:43,560
+il me semble que j'ai vu deux liens différents
+
+1664
+01:03:43,560 --> 01:03:45,560
+sur des trucs mais ils utilisent
+
+1665
+01:03:45,560 --> 01:03:47,560
+ça interagit pas directement avec la blockchain
+
+1666
+01:03:47,560 --> 01:03:49,560
+mais ça utilise des services
+
+1667
+01:03:49,560 --> 01:03:51,560
+qui font des transactions
+
+1668
+01:03:51,560 --> 01:03:53,560
+bref
+
+1669
+01:03:53,560 --> 01:03:55,560
+bon en tout cas tout ça pour dire
+
+1670
+01:03:55,560 --> 01:03:57,560
+bien cool
+
+1671
+01:03:57,560 --> 01:03:59,560
+c'était mon ending
+
+1672
+01:03:59,560 --> 01:04:01,560
+de l'émission
+
+1673
+01:04:01,560 --> 01:04:03,560
+bien cool la BBS
+
+1674
+01:04:03,560 --> 01:04:05,560
+très content
+
+1675
+01:04:05,560 --> 01:04:07,560
+de vous côtoyer
+
+1676
+01:04:07,560 --> 01:04:09,560
+et de travailler avec vous
+
+1677
+01:04:09,560 --> 01:04:11,560
+comme on va faire dans le futur proche
+
+1678
+01:04:11,560 --> 01:04:13,560
+après les fêtes
+
+1679
+01:04:13,560 --> 01:04:15,560
+voilà
+
+1680
+01:04:15,560 --> 01:04:17,560
+on se rejoue aussi
+
+1681
+01:04:17,560 --> 01:04:19,560
+et on t'aime
+
+1682
+01:04:19,560 --> 01:04:21,560
+le feeling is mutual
+
+1683
+01:04:21,560 --> 01:04:23,560
+comme disent les américains
+
+1684
+01:04:23,560 --> 01:04:25,560
+et ouais
+
+1685
+01:04:25,560 --> 01:04:27,560
+comme je le disais l'objectif
+
+1686
+01:04:27,560 --> 01:04:29,560
+est de continuer
+
+1687
+01:04:29,560 --> 01:04:31,560
+à essayer d'apporter
+
+1688
+01:04:31,560 --> 01:04:33,560
+un peu de connaissance, de légitimité
+
+1689
+01:04:35,560 --> 01:04:37,560
+à l'écosystème
+
+1690
+01:04:37,560 --> 01:04:39,560
+et voilà on est le genre pragmatique
+
+1691
+01:04:39,560 --> 01:04:41,560
+on est ouvert aux critiques
+
+1692
+01:04:41,560 --> 01:04:43,560
+aux améliorations
+
+1693
+01:04:43,560 --> 01:04:45,560
+et évidemment aussi aux opportunités
+
+1694
+01:04:47,560 --> 01:04:49,560
+et bien en tout cas merci beaucoup d'être venu
+
+1695
+01:04:49,560 --> 01:04:51,560
+on se voit
+
+1696
+01:04:51,560 --> 01:04:53,560
+aussi à Cryptoxère
+
+1697
+01:04:53,560 --> 01:04:55,560
+parce que
+
+1698
+01:04:55,560 --> 01:04:57,560
+c'est ça il va y avoir des choses
+
+1699
+01:04:57,560 --> 01:04:59,560
+alors c'est ça Cryptoxère je vais avoir
+
+1700
+01:04:59,560 --> 01:05:01,560
+accès à un plateau télé pendant
+
+1701
+01:05:01,560 --> 01:05:03,560
+3 heures le samedi
+
+1702
+01:05:03,560 --> 01:05:05,560
+27 donc on va faire, je suis en train de réfléchir
+
+1703
+01:05:05,560 --> 01:05:07,560
+et de parler à toutes sortes de
+
+1704
+01:05:07,560 --> 01:05:09,560
+personnes pour faire un truc
+
+1705
+01:05:09,560 --> 01:05:11,560
+pour faire des trucs super cool
+
+1706
+01:05:11,560 --> 01:05:13,560
+donc on va voir comment ça va se passer
+
+1707
+01:05:13,560 --> 01:05:15,560
+j'espère que je vais réussir à trouver des formules
+
+1708
+01:05:15,560 --> 01:05:17,560
+qui font
+
+1709
+01:05:17,560 --> 01:05:19,560
+plaisir
+
+1710
+01:05:19,560 --> 01:05:21,560
+et si il y en a parmi vous qui ne savent pas quoi faire
+
+1711
+01:05:21,560 --> 01:05:23,560
+le dernier week-end
+
+1712
+01:05:23,560 --> 01:05:25,560
+de janvier venez à Oxford
+
+1713
+01:05:25,560 --> 01:05:27,560
+ça va être fun
+
+1714
+01:05:27,560 --> 01:05:29,560
+vous allez voir
+
+1715
+01:05:29,560 --> 01:05:31,560
+moi, vous allez voir Bilal
+
+1716
+01:05:31,560 --> 01:05:33,560
+vous allez voir toutes sortes de gens, il y aura tout
+
+1717
+01:05:33,560 --> 01:05:35,560
+c'est à faire en fait je pense là-bas
+
+1718
+01:05:35,560 --> 01:05:37,560
+on va voir du vent avec modération
+
+1719
+01:05:37,560 --> 01:05:39,560
+oui il y aura Intercellar qui sera là aussi
+
+1720
+01:05:39,560 --> 01:05:41,560
+d'ailleurs
+
+1721
+01:05:43,560 --> 01:05:45,560
+j'espère qu'il y aura une soirée aussi cool
+
+1722
+01:05:45,560 --> 01:05:47,560
+que celle qu'il y avait à Biarritz
+
+1723
+01:05:47,560 --> 01:05:49,560
+c'est un peu bourré
+
+1724
+01:05:51,560 --> 01:05:53,560
+en tout cas, bonne soirée
+
+1725
+01:05:53,560 --> 01:05:55,560
+à toi, bonne soirée à ceux qui sont
+
+1726
+01:05:55,560 --> 01:05:57,560
+venus ce soir
+
+1727
+01:05:57,560 --> 01:05:59,560
+et puis on se dit rendez-vous demain
+
+1728
+01:05:59,560 --> 01:06:01,560
+demain 22h c'est une émission spéciale
+
+1729
+01:06:01,560 --> 01:06:03,560
+Argentine
+
+1730
+01:06:03,560 --> 01:06:05,560
+en fait il va y avoir deux émissions sur l'Argentine
+
+1731
+01:06:05,560 --> 01:06:07,560
+cette semaine, il y en a une
+
+1732
+01:06:07,560 --> 01:06:09,560
+c'est demain avec Vincent
+
+1733
+01:06:09,560 --> 01:06:11,560
+donc on va parler de l'Argentine, le pays
+
+1734
+01:06:11,560 --> 01:06:13,560
+et faire un peu
+
+1735
+01:06:13,560 --> 01:06:15,560
+parler de son histoire, sa relation
+
+1736
+01:06:15,560 --> 01:06:17,560
+avec les autres pays
+
+1737
+01:06:17,560 --> 01:06:19,560
+regarder un petit peu le côté économique des choses
+
+1738
+01:06:19,560 --> 01:06:21,560
+aussi les événements
+
+1739
+01:06:21,560 --> 01:06:23,560
+politiques, mais on va essayer d'être le plus neutre
+
+1740
+01:06:23,560 --> 01:06:25,560
+possible, factuel, tout ça
+
+1741
+01:06:25,560 --> 01:06:27,560
+juste pour poser les bases
+
+1742
+01:06:27,560 --> 01:06:29,560
+et ensuite dimanche, on va attaquer le sujet
+
+1743
+01:06:29,560 --> 01:06:31,560
+de Bilal
+
+1744
+01:06:31,560 --> 01:06:33,560
+on va parler de libertarianisme
+
+1745
+01:06:33,560 --> 01:06:35,560
+et puis voilà, on va parler de toutes sortes de choses
+
+1746
+01:06:35,560 --> 01:06:37,560
+mais ça va être évidemment
+
+1747
+01:06:37,560 --> 01:06:39,560
+un petit peu moins neutre
+
+1748
+01:06:39,560 --> 01:06:41,560
+et puis ça va être un petit peu plus foufou aussi
+
+1749
+01:06:41,560 --> 01:06:43,560
+mais ça va être tout aussi intéressant
+
+1750
+01:06:43,560 --> 01:06:45,560
+n'hésitez pas si le sujet vous intéresse
+
+1751
+01:06:45,560 --> 01:06:47,560
+connectez-vous jeudi
+
+1752
+01:06:47,560 --> 01:06:49,560
+t'as demandé qui dimanche?
+
+1753
+01:06:49,560 --> 01:06:51,560
+personne, pour l'instant
+
+1754
+01:06:51,560 --> 01:06:53,560
+j'ai juste
+
+1755
+01:06:53,560 --> 01:06:55,560
+placé le... j'ai mis des graines
+
+1756
+01:06:55,560 --> 01:06:57,560
+j'en ai parlé
+
+1757
+01:06:57,560 --> 01:06:59,560
+un peu autour, mais j'ai pas invité
+
+1758
+01:06:59,560 --> 01:07:01,560
+à Théomo G
+
+1759
+01:07:01,560 --> 01:07:03,560
+à qui ça? Ah Théomo G
+
+1760
+01:07:03,560 --> 01:07:05,560
+j'avais proposé
+
+1761
+01:07:05,560 --> 01:07:07,560
+à Seb Brouspillou
+
+1762
+01:07:07,560 --> 01:07:09,560
+mais
+
+1763
+01:07:09,560 --> 01:07:11,560
+il est assez bon dans le libertarian
+
+1764
+01:07:11,560 --> 01:07:13,560
+après tu peux aussi aller voir Yorick
+
+1765
+01:07:13,560 --> 01:07:15,560
+mais après ça sera l'expérimentation des Autrichiens
+
+1766
+01:07:15,560 --> 01:07:17,560
+sur l'Amérique Latine
+
+1767
+01:07:17,560 --> 01:07:19,560
+je pense que Théo, dans ce qui parle
+
+1768
+01:07:19,560 --> 01:07:21,560
+français, peut être qu'on est pas mal
+
+1769
+01:07:21,560 --> 01:07:23,560
+j'ai demandé tiens
+
+1770
+01:07:23,560 --> 01:07:25,560
+ouais, merci
+
+1771
+01:07:25,560 --> 01:07:27,560
+ok, bon
+
+1772
+01:07:27,560 --> 01:07:29,560
+et puis merci, et puis on se dit rendez-vous
+
+1773
+01:07:29,560 --> 01:07:31,560
+demain et puis
+
+1774
+01:07:31,560 --> 01:07:33,560
+tous les sauts de jour, bonne soirée à tous
+
+1775
+01:07:33,560 --> 01:07:35,560
+et on se quitte avec
+
+1776
+01:07:35,560 --> 01:07:37,560
+la musique
+
+1777
+01:07:37,560 --> 01:07:39,560
+la même musique qu'en entrée
+
+1778
+01:07:39,560 --> 01:07:41,560
+allez salut, merci beaucoup, ciao
+
+1779
+01:07:41,560 --> 01:07:43,560
+ciao

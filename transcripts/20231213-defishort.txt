@@ -1,0 +1,4932 @@
+
+89
+00:04:51,960 --> 00:04:53,880
+Salut Laurent, ça va ?
+
+90
+00:04:54,600 --> 00:04:55,880
+Bien et toi ?
+
+91
+00:04:55,880 --> 00:04:56,460
+Ça va super.
+
+92
+00:04:57,640 --> 00:04:58,880
+Donc, voilà, j'étais en train de faire
+
+93
+00:04:59,880 --> 00:05:01,920
+le récap de la semaine
+
+94
+00:05:01,920 --> 00:05:03,900
+à venir. Et voilà, c'est
+
+95
+00:05:03,900 --> 00:05:05,900
+un petit peu... C'est une semaine
+
+96
+00:05:05,900 --> 00:05:08,200
+où on se demande, on se fait des récaps
+
+97
+00:05:08,200 --> 00:05:09,940
+de l'année
+
+98
+00:05:09,940 --> 00:05:11,400
+par thème.
+
+99
+00:05:11,880 --> 00:05:13,680
+Et c'est ça. Et aujourd'hui,
+
+100
+00:05:13,760 --> 00:05:15,800
+j'aurais voulu faire ça avec toi sur
+
+101
+00:05:15,800 --> 00:05:17,180
+évidemment la DeFi.
+
+102
+00:05:17,760 --> 00:05:19,720
+Parce que la question que je me posais,
+
+103
+00:05:19,880 --> 00:05:21,980
+c'était, en fait, c'est quoi le genre
+
+104
+00:05:21,980 --> 00:05:23,940
+d'année...
+
+105
+00:05:24,640 --> 00:05:25,560
+Moi, j'attaque direct.
+
+106
+00:05:27,560 --> 00:05:29,600
+Je t'agresse
+
+107
+00:05:29,600 --> 00:05:29,680
+directement.
+
+108
+00:05:29,880 --> 00:05:31,360
+Direct, tu n'es même pas encore installé.
+
+109
+00:05:31,740 --> 00:05:33,000
+Je pars avec mes questions, mais
+
+110
+00:05:33,000 --> 00:05:35,680
+je serais content que tu sois là,
+
+111
+00:05:35,760 --> 00:05:37,700
+déjà. Et puis,
+
+112
+00:05:39,160 --> 00:05:39,800
+la question
+
+113
+00:05:39,800 --> 00:05:41,780
+que je voulais poser, c'est quoi...
+
+114
+00:05:41,780 --> 00:05:43,380
+Est-ce que tu considères que 2023,
+
+115
+00:05:43,660 --> 00:05:45,840
+ça a été une bonne année pour la DeFi
+
+116
+00:05:45,840 --> 00:05:47,880
+ou pas ?
+
+117
+00:05:49,060 --> 00:05:51,840
+Du point de vue de la DeFi, d'accord.
+
+118
+00:05:52,320 --> 00:05:53,720
+Parce que 2023,
+
+119
+00:05:53,920 --> 00:05:54,940
+du point de vue crypto,
+
+120
+00:05:55,220 --> 00:05:57,940
+je pense qu'on a tout vu. C'était rollercoaster,
+
+121
+00:05:57,940 --> 00:05:59,180
+on a tout vu.
+
+122
+00:05:59,880 --> 00:06:01,380
+2023, si on regarde, on a eu
+
+123
+00:06:01,380 --> 00:06:02,920
+les folies
+
+124
+00:06:02,920 --> 00:06:06,360
+et jusqu'à la destruction
+
+125
+00:06:06,360 --> 00:06:07,740
+de toute la trade-fee.
+
+126
+00:06:08,780 --> 00:06:10,040
+On a eu un wipe-out.
+
+127
+00:06:10,220 --> 00:06:11,600
+Quand je dis wipe-out, c'est quand
+
+128
+00:06:11,600 --> 00:06:14,160
+il y a eu une sorte d'effacement
+
+129
+00:06:14,160 --> 00:06:16,020
+de tout le podium, là où il y avait toutes les
+
+130
+00:06:16,020 --> 00:06:18,200
+têtes d'affiches sur les trois dernières années.
+
+131
+00:06:19,960 --> 00:06:20,280
+Machinsky,
+
+132
+00:06:21,000 --> 00:06:22,220
+SBF,
+
+133
+00:06:22,660 --> 00:06:23,660
+Free Arrow Capital,
+
+134
+00:06:25,040 --> 00:06:25,660
+Celsius,
+
+135
+00:06:26,740 --> 00:06:28,220
+même Binance qui commence à trembler.
+
+136
+00:06:29,880 --> 00:06:31,460
+Et pendant l'année, on a vu
+
+137
+00:06:31,460 --> 00:06:34,580
+la disparition des grands joueurs
+
+138
+00:06:34,580 --> 00:06:36,520
+qui a baigné
+
+139
+00:06:36,520 --> 00:06:38,600
+notre enfance en DeFi.
+
+140
+00:06:39,160 --> 00:06:40,060
+Donc ça, c'était quand même
+
+141
+00:06:40,060 --> 00:06:40,980
+un truc de fou.
+
+142
+00:06:43,120 --> 00:06:44,240
+Il y a eu le NFT,
+
+143
+00:06:44,460 --> 00:06:45,980
+enfin, il y a eu la destruction d'NFT, tout ça.
+
+144
+00:06:46,160 --> 00:06:48,600
+D'un point de vue crypto dans l'ensemble,
+
+145
+00:06:49,240 --> 00:06:50,340
+c'était incroyable à voir.
+
+146
+00:06:50,420 --> 00:06:52,500
+C'était un feu d'artifice, on voit
+
+147
+00:06:52,500 --> 00:06:54,320
+vraiment ça. Ensuite,
+
+148
+00:06:54,540 --> 00:06:55,440
+propre à la DeFi,
+
+149
+00:06:56,560 --> 00:06:57,420
+elle n'est pas morte.
+
+150
+00:06:58,220 --> 00:06:59,440
+On est passé de 170 000...
+
+151
+00:06:59,880 --> 00:07:02,660
+milliards à 37 milliards
+
+152
+00:07:02,660 --> 00:07:04,740
+quand on était au plus bas de TVL.
+
+153
+00:07:04,860 --> 00:07:06,440
+Ça, c'est un key performance
+
+154
+00:07:06,440 --> 00:07:08,280
+indicateur. Voilà de combien d'argent est bloqué
+
+155
+00:07:08,280 --> 00:07:10,300
+sur la DeFi. Juste pour
+
+156
+00:07:10,300 --> 00:07:12,500
+redéfinir la DeFi, mais je pense que tout le monde est au courant
+
+157
+00:07:12,500 --> 00:07:14,600
+ici. C'est ces contrats qui sont
+
+158
+00:07:14,600 --> 00:07:16,360
+déployés notamment sur
+
+159
+00:07:16,360 --> 00:07:18,000
+Ethereum L1 et d'autres
+
+160
+00:07:18,000 --> 00:07:20,460
+chaînes qui vous permettent de faire des emprunts,
+
+161
+00:07:20,620 --> 00:07:22,520
+un petit peu de la finance décentralisée,
+
+162
+00:07:23,260 --> 00:07:24,380
+du yield,
+
+163
+00:07:24,860 --> 00:07:26,440
+etc. Et là, on est passé
+
+164
+00:07:26,440 --> 00:07:28,420
+de 170 à 37.
+
+165
+00:07:28,420 --> 00:07:30,160
+La DeFi a été
+
+166
+00:07:30,160 --> 00:07:32,140
+mise en disant, voilà, est-ce que
+
+167
+00:07:32,140 --> 00:07:34,260
+tu vas survivre ou est-ce que tu n'es qu'un
+
+168
+00:07:34,260 --> 00:07:36,320
+pump and dump éphémère
+
+169
+00:07:36,320 --> 00:07:37,940
+ou est-ce que tu es innovant pour la
+
+170
+00:07:37,940 --> 00:07:40,120
+crypto ? Et vu qu'elle n'est pas
+
+171
+00:07:40,120 --> 00:07:42,200
+morte, vu qu'elle est
+
+172
+00:07:42,200 --> 00:07:43,940
+repassée de 37, 40,
+
+173
+00:07:44,080 --> 00:07:46,140
+50, ça repart, les devs
+
+174
+00:07:46,140 --> 00:07:48,180
+sont là, les innovations reviennent,
+
+175
+00:07:49,080 --> 00:07:50,220
+il y a des outils
+
+176
+00:07:50,220 --> 00:07:52,080
+qui font de plus en plus sens, qui sont de plus en plus
+
+177
+00:07:52,080 --> 00:07:54,120
+contrôlés. On voit à l'arrivée
+
+178
+00:07:54,120 --> 00:07:56,040
+la narrative des RWA, vous allez me dire
+
+179
+00:07:56,040 --> 00:07:57,760
+qu'on se fait bassiner par ça depuis un an et demi,
+
+180
+00:07:58,420 --> 00:08:00,060
+mais là, on commence à voir,
+
+181
+00:08:00,720 --> 00:08:02,440
+nous, on yield sur du RWA
+
+182
+00:08:02,440 --> 00:08:04,240
+à 15% sur curve
+
+183
+00:08:04,240 --> 00:08:06,360
+maintenant, sur des bons américains
+
+184
+00:08:06,360 --> 00:08:08,340
+qui sont émis
+
+185
+00:08:08,340 --> 00:08:10,280
+par Backed Finance
+
+186
+00:08:10,280 --> 00:08:11,900
+et les iShares de BlackRock.
+
+187
+00:08:12,240 --> 00:08:12,860
+Donc, on y est.
+
+188
+00:08:13,880 --> 00:08:16,260
+Pour finir, je dirais que la DeFi a tout vu
+
+189
+00:08:16,260 --> 00:08:18,240
+aussi, on a testé, est-ce que
+
+190
+00:08:18,240 --> 00:08:20,040
+vraiment la DeFi est nécessaire ou est-ce que
+
+191
+00:08:20,040 --> 00:08:22,340
+elle sera détruite
+
+192
+00:08:22,340 --> 00:08:24,320
+sur 2023 ? Ça n'a pas
+
+193
+00:08:24,320 --> 00:08:26,000
+été le cas. Donc, je suis
+
+194
+00:08:26,000 --> 00:08:28,280
+super content, ils ont passé le stress test,
+
+195
+00:08:28,420 --> 00:08:29,980
+la DeFi a passé le stress test
+
+196
+00:08:29,980 --> 00:08:32,140
+et je la vois très belle pour
+
+197
+00:08:32,140 --> 00:08:32,580
+2024.
+
+198
+00:08:34,860 --> 00:08:35,880
+Ça, c'est
+
+199
+00:08:35,880 --> 00:08:37,500
+une cool
+
+200
+00:08:37,500 --> 00:08:40,120
+analyse, mais est-ce que tu penses que
+
+201
+00:08:40,120 --> 00:08:44,380
+en plus d'avoir
+
+202
+00:08:44,380 --> 00:08:46,480
+résisté au nettoyage
+
+203
+00:08:46,480 --> 00:08:48,260
+dont tu as parlé, qui était effectivement
+
+204
+00:08:48,260 --> 00:08:50,240
+assez intense en termes
+
+205
+00:08:50,240 --> 00:08:52,280
+économique, politique, etc.
+
+206
+00:08:53,420 --> 00:08:54,120
+Ça a été
+
+207
+00:08:54,120 --> 00:08:55,300
+quand même une année de fou, c'est vrai.
+
+208
+00:08:56,140 --> 00:08:58,120
+Est-ce que tu penses que
+
+209
+00:08:58,420 --> 00:08:59,640
+est-ce qu'on a vu des trucs
+
+210
+00:08:59,640 --> 00:09:01,980
+apparaître dans la DeFi qui
+
+211
+00:09:01,980 --> 00:09:03,740
+pourraient, par exemple,
+
+212
+00:09:04,540 --> 00:09:06,260
+bénéficier à la DeFi ou
+
+213
+00:09:06,260 --> 00:09:08,000
+carrément à tout l'écosystème crypto
+
+214
+00:09:08,000 --> 00:09:11,000
+en 2024, par exemple ?
+
+215
+00:09:11,000 --> 00:09:12,380
+Genre un truc qui est apparu, qui n'est pas
+
+216
+00:09:12,380 --> 00:09:14,940
+trop...
+
+217
+00:09:14,940 --> 00:09:16,680
+Mais oui, mais on a vu...
+
+218
+00:09:16,680 --> 00:09:18,080
+Mais attendez, c'est merveilleux ce qu'on a vu.
+
+219
+00:09:18,500 --> 00:09:19,060
+On a vu
+
+220
+00:09:19,060 --> 00:09:22,820
+sur 100 milliards,
+
+221
+00:09:23,100 --> 00:09:24,320
+un montant colossal,
+
+222
+00:09:24,400 --> 00:09:25,920
+on a vu que quand
+
+223
+00:09:25,920 --> 00:09:28,340
+il y avait des milliards à rembourser et que
+
+224
+00:09:28,340 --> 00:09:30,220
+tout le monde avait les poches vides mais que personne
+
+225
+00:09:30,220 --> 00:09:32,020
+osait le... Enfin, que personne ne le savait encore,
+
+226
+00:09:32,120 --> 00:09:33,480
+vous savez, Terra Luna,
+
+227
+00:09:34,460 --> 00:09:35,780
+FTX,
+
+228
+00:09:36,260 --> 00:09:37,900
+on parle quand même de 30 milliards, les mecs,
+
+229
+00:09:38,040 --> 00:09:40,160
+c'est des grosses sommes. Et quand il a fallu
+
+230
+00:09:40,160 --> 00:09:42,320
+rappeler tous les loans
+
+231
+00:09:42,320 --> 00:09:44,420
+« Attends, est-ce que tu as ta thune et toi ça va ?
+
+232
+00:09:44,420 --> 00:09:46,040
+Il te reste de la thune ou pas ? Ah merde, en fait,
+
+233
+00:09:46,120 --> 00:09:48,180
+tu étais en train de nous scammer. » Et quand on a rappelé
+
+234
+00:09:48,180 --> 00:09:49,760
+tous les loans et qu'il y a eu des liquidations,
+
+235
+00:09:50,640 --> 00:09:53,140
+qui a été remboursé en premier ?
+
+236
+00:09:53,140 --> 00:09:54,020
+Mais c'est les contrats
+
+237
+00:09:54,020 --> 00:09:56,080
+surcollatéralisés de
+
+238
+00:09:56,080 --> 00:09:57,840
+AVE, de Morpho,
+
+239
+00:09:58,340 --> 00:10:00,340
+de Campang, de Mercurdeo,
+
+240
+00:10:01,400 --> 00:10:01,960
+parce que
+
+241
+00:10:01,960 --> 00:10:04,380
+il y a des contrats et là, on ne peut pas appeler son copain
+
+242
+00:10:04,380 --> 00:10:06,360
+en disant « Merde, en fait, je n'ai pas le milliard,
+
+243
+00:10:06,480 --> 00:10:07,660
+est-ce qu'on peut restructurer
+
+244
+00:10:07,660 --> 00:10:10,420
+sur six mois ? Attends, on ne va pas le dire à tout le monde
+
+245
+00:10:10,420 --> 00:10:12,140
+mais on va trouver une solution. » Non, non, non, non, non.
+
+246
+00:10:12,640 --> 00:10:14,280
+La DeFi, ce n'est pas ça. Tu n'as pas ton
+
+247
+00:10:14,280 --> 00:10:16,380
+fric, je ne veux pas
+
+248
+00:10:16,380 --> 00:10:17,680
+savoir qui tu es, tu rembourses.
+
+249
+00:10:18,320 --> 00:10:19,940
+Et là, on a vu quand même la DeFi,
+
+250
+00:10:20,360 --> 00:10:22,120
+une preuve ultime que
+
+251
+00:10:22,120 --> 00:10:24,260
+quand tout se passe mal, les premiers qui sont remboursés,
+
+252
+00:10:24,320 --> 00:10:26,240
+c'est les contrats intelligents, c'est les smart contracts.
+
+253
+00:10:26,660 --> 00:10:28,100
+Donc ça, déjà, c'est une preuve quand même
+
+254
+00:10:28,100 --> 00:10:30,100
+de l'efficience de la DeFi
+
+255
+00:10:30,100 --> 00:10:31,300
+par rapport à la trade fee
+
+256
+00:10:31,300 --> 00:10:33,540
+où on essaie de cacher les choses,
+
+257
+00:10:34,080 --> 00:10:36,280
+il y a des morts dans les placards
+
+258
+00:10:36,280 --> 00:10:38,200
+mais vu que je te connais, ça va peut-être passer,
+
+259
+00:10:38,340 --> 00:10:39,740
+tu vois, ces conneries
+
+260
+00:10:39,740 --> 00:10:41,180
+de Madoff, tout ça.
+
+261
+00:10:42,100 --> 00:10:43,220
+Tu sais, quand le marché remonte,
+
+262
+00:10:43,480 --> 00:10:46,160
+si le marché était remonté, si tu fais un scam
+
+263
+00:10:46,160 --> 00:10:48,220
+et qu'ensuite tu fais un bon trade,
+
+264
+00:10:48,340 --> 00:10:50,020
+hop, ça ne se voit pas. Bon, là, sur la DeFi,
+
+265
+00:10:50,100 --> 00:10:52,120
+tu ne peux pas faire ça. Donc je trouve que la DeFi a quand même
+
+266
+00:10:52,120 --> 00:10:54,400
+bien prouvé son utilité
+
+267
+00:10:54,400 --> 00:10:56,140
+déjà sur la transparence
+
+268
+00:10:56,140 --> 00:10:57,420
+des remboursements en finance
+
+269
+00:10:57,420 --> 00:10:59,900
+et ensuite, il y a des choses
+
+270
+00:10:59,900 --> 00:11:02,360
+extraordinaires que j'ai remarquées sur la DeFi,
+
+271
+00:11:02,540 --> 00:11:04,520
+des flash loans, des systèmes
+
+272
+00:11:04,520 --> 00:11:05,600
+d'autocampant,
+
+273
+00:11:05,900 --> 00:11:07,960
+vous savez, les intérêts composés qui sont
+
+274
+00:11:07,960 --> 00:11:10,220
+beaucoup plus, ils sont mieux faits, il y a moins de friction
+
+275
+00:11:10,220 --> 00:11:12,020
+en DeFi que dans la finance traditionnelle.
+
+276
+00:11:12,780 --> 00:11:14,200
+Non, non, non, moi je pense qu'il y a un cas
+
+277
+00:11:14,200 --> 00:11:15,940
+d'usage sur la DeFi qui a été prouvé.
+
+278
+00:11:17,980 --> 00:11:19,920
+Ok, ouais, ça fait complètement du sens.
+
+279
+00:11:20,980 --> 00:11:21,120
+Et,
+
+280
+00:11:21,220 --> 00:11:23,640
+ouais, ok. Et donc,
+
+281
+00:11:23,800 --> 00:11:26,060
+comment tu le sens ?
+
+282
+00:11:26,060 --> 00:11:26,960
+Bon, je sais que ça fait un peu,
+
+283
+00:11:27,420 --> 00:11:29,580
+normalement, c'est censé être la question finale,
+
+284
+00:11:29,740 --> 00:11:31,600
+mais genre, j'ai vraiment envie de te la poser,
+
+285
+00:11:31,720 --> 00:11:34,540
+en fait, comment tu le sens, 2024 ?
+
+286
+00:11:34,540 --> 00:11:35,180
+Genre, tu penses que,
+
+287
+00:11:35,460 --> 00:11:37,520
+évidemment, c'est de la spéculation, tu vois,
+
+288
+00:11:37,660 --> 00:11:39,960
+mais genre, est-ce que tu penses que
+
+289
+00:11:39,960 --> 00:11:41,640
+ça va continuer sur cette lancée
+
+290
+00:11:41,640 --> 00:11:42,720
+ou est-ce qu'on n'est pas à l'abri
+
+291
+00:11:42,720 --> 00:11:44,860
+d'un nouveau test
+
+292
+00:11:44,860 --> 00:11:47,960
+des dieux de la crypto ?
+
+293
+00:11:50,140 --> 00:11:51,100
+Je pense que
+
+294
+00:11:51,100 --> 00:11:53,640
+mon avis est un peu celui de tout le monde ici,
+
+295
+00:11:53,920 --> 00:11:55,740
+j'ai l'impression, c'est-à-dire que
+
+296
+00:11:55,740 --> 00:11:56,860
+je pense que les plus bas sont derrière.
+
+297
+00:11:57,420 --> 00:11:59,040
+Voilà, les plus bas sont derrière,
+
+298
+00:11:59,160 --> 00:12:00,820
+si je dois poser, voilà,
+
+299
+00:12:01,180 --> 00:12:02,200
+les plus bas sont derrière.
+
+300
+00:12:02,520 --> 00:12:04,440
+Évidemment qu'on n'est pas à un risque de, je ne sais pas,
+
+301
+00:12:04,580 --> 00:12:06,640
+bah tiens, il n'y aura pas d'ETF Bitcoin, c'était une blague,
+
+302
+00:12:07,180 --> 00:12:08,900
+ou, je ne sais pas,
+
+303
+00:12:08,960 --> 00:12:10,280
+il y a une crise dans le monde et
+
+304
+00:12:10,280 --> 00:12:13,060
+le S&P ou le CAC 40 fait moins 40%.
+
+305
+00:12:13,060 --> 00:12:14,580
+Ouais, c'est clair, là, on boufferait.
+
+306
+00:12:15,280 --> 00:12:16,800
+Mais, ouais, je suis
+
+307
+00:12:16,800 --> 00:12:18,220
+bullish, le plus bas est derrière, quoi.
+
+308
+00:12:18,820 --> 00:12:20,980
+Il y a un encadrement
+
+309
+00:12:20,980 --> 00:12:22,840
+juridique
+
+310
+00:12:22,840 --> 00:12:24,380
+qui arrive
+
+311
+00:12:24,380 --> 00:12:26,720
+sur MiK2,
+
+312
+00:12:26,960 --> 00:12:27,220
+sur
+
+313
+00:12:27,420 --> 00:12:30,300
+beaucoup de
+
+314
+00:12:30,300 --> 00:12:31,800
+documentations qui sont faites au niveau
+
+315
+00:12:31,800 --> 00:12:33,540
+des Américains, de la SEC aussi.
+
+316
+00:12:34,100 --> 00:12:36,220
+Donc, voilà, une fois que ça se sera calmé,
+
+317
+00:12:36,640 --> 00:12:37,220
+moi, je suis bullish.
+
+318
+00:12:38,320 --> 00:12:40,080
+Les cadavres sont sortis des placards,
+
+319
+00:12:40,700 --> 00:12:42,400
+la réglementation est en train
+
+320
+00:12:42,400 --> 00:12:43,140
+de prendre le dessus,
+
+321
+00:12:43,980 --> 00:12:45,200
+Binance est mise sous tutelle.
+
+322
+00:12:47,900 --> 00:12:49,540
+Ouais, c'est un peu triste tout ça, mais
+
+323
+00:12:49,540 --> 00:12:51,880
+c'est bullish, c'est juste que ce ne sera pas la DeFi
+
+324
+00:12:51,880 --> 00:12:52,440
+qu'on a connue.
+
+325
+00:12:54,340 --> 00:12:55,060
+C'est un peu peut-être,
+
+326
+00:12:55,480 --> 00:12:57,000
+ce sera toujours rock'n'roll, je ne dis pas,
+
+327
+00:12:57,420 --> 00:12:59,180
+toujours des shitcoins, des airdrops et tout, mais
+
+328
+00:12:59,180 --> 00:13:01,460
+je pense, c'est très difficile comment ça va être,
+
+329
+00:13:01,540 --> 00:13:03,080
+parce que personne n'arrive à savoir le futur.
+
+330
+00:13:03,600 --> 00:13:04,920
+Personne ne m'a prédit qu'on allait voir
+
+331
+00:13:04,920 --> 00:13:07,060
+des punji penguins NFT
+
+332
+00:13:07,060 --> 00:13:09,260
+ou des éthers rock invisibles qui se vendaient
+
+333
+00:13:09,260 --> 00:13:11,600
+230 000 dollars. Personne ne m'avait dit ça
+
+334
+00:13:11,600 --> 00:13:12,300
+en 2022.
+
+335
+00:13:13,360 --> 00:13:15,380
+Je ne sais pas comment va être la DeFi, elle va changer, en fait.
+
+336
+00:13:15,460 --> 00:13:16,580
+Elle va se métamorphoser,
+
+337
+00:13:17,360 --> 00:13:19,560
+ça va être bullish, mais je ne sais pas du tout comment il faut se placer.
+
+338
+00:13:19,820 --> 00:13:21,300
+Alors, oui, j'ai des narratives
+
+339
+00:13:21,300 --> 00:13:22,220
+comment se placer, mais
+
+340
+00:13:22,220 --> 00:13:24,420
+dans l'ensemble, je suis bullish.
+
+341
+00:13:24,820 --> 00:13:25,660
+Dogecoin va monter,
+
+342
+00:13:26,460 --> 00:13:27,260
+tu vois,
+
+343
+00:13:28,020 --> 00:13:29,600
+Solana peut remonter,
+
+344
+00:13:30,100 --> 00:13:32,040
+les optimisms, les arbitrums,
+
+345
+00:13:32,040 --> 00:13:33,100
+ça peut remonter, oui.
+
+346
+00:13:35,420 --> 00:13:36,020
+En fait,
+
+347
+00:13:36,140 --> 00:13:37,960
+la question qui est
+
+348
+00:13:37,960 --> 00:13:39,960
+revenue régulièrement ces derniers jours,
+
+349
+00:13:40,180 --> 00:13:41,320
+c'est, en gros,
+
+350
+00:13:42,360 --> 00:13:43,500
+c'est souvent lié, en fait,
+
+351
+00:13:43,780 --> 00:13:45,620
+au cadre réglementaire.
+
+352
+00:13:46,160 --> 00:13:47,380
+C'est genre, finalement,
+
+353
+00:13:48,280 --> 00:13:49,760
+qu'est-ce qui va percer en fonction de
+
+354
+00:13:49,760 --> 00:13:51,320
+qu'est-ce qui est régulé ?
+
+355
+00:13:51,320 --> 00:13:52,140
+Et donc, l'idée,
+
+356
+00:13:53,760 --> 00:13:55,320
+en tout cas, j'ai l'impression qu'il y a un avis
+
+357
+00:13:55,320 --> 00:13:57,120
+qui se dessine un peu dans la
+
+358
+00:13:57,120 --> 00:13:58,560
+communauté, c'est genre les
+
+359
+00:13:58,560 --> 00:14:01,300
+CEX, donc les sexes, vont être
+
+360
+00:14:01,300 --> 00:14:03,000
+régulés, donc c'est eux qui vont
+
+361
+00:14:03,000 --> 00:14:05,160
+accueillir tous les nouveaux
+
+362
+00:14:05,160 --> 00:14:06,200
+entrants et
+
+363
+00:14:06,200 --> 00:14:09,180
+tout ce qui est DEX, ça va
+
+364
+00:14:09,180 --> 00:14:10,640
+être pour
+
+365
+00:14:10,640 --> 00:14:12,480
+les marginaux.
+
+366
+00:14:13,240 --> 00:14:15,200
+Est-ce que tu penses que... Est-ce que tu
+
+367
+00:14:15,200 --> 00:14:16,640
+partages cette idée-là ou est-ce que
+
+368
+00:14:16,640 --> 00:14:18,680
+tu penses que tu as une autre
+
+369
+00:14:18,680 --> 00:14:22,060
+idée de l'adoption ?
+
+370
+00:14:22,060 --> 00:14:23,680
+Je reviens sur un point
+
+371
+00:14:23,680 --> 00:14:25,660
+qu'on avait mentionné avec Julien Boutelou il y a de ça
+
+372
+00:14:25,660 --> 00:14:27,040
+trois semaines dans ton émission.
+
+373
+00:14:27,120 --> 00:14:29,440
+On en avait parlé avec lui
+
+374
+00:14:29,440 --> 00:14:31,680
+et voilà, je préfère
+
+375
+00:14:31,680 --> 00:14:33,540
+me répéter plutôt que me contredire,
+
+376
+00:14:34,220 --> 00:14:35,060
+mais c'est que
+
+377
+00:14:35,060 --> 00:14:37,600
+la DFI va quand même changer, ça va pas être pour les
+
+378
+00:14:37,600 --> 00:14:39,340
+marginaux. Encore une fois, il y a des pools
+
+379
+00:14:39,340 --> 00:14:41,500
+KYC, moi je dois KYC maintenant
+
+380
+00:14:41,500 --> 00:14:43,640
+pour déposer dans des pools de cœur
+
+381
+00:14:43,640 --> 00:14:45,420
+et ensuite mettre les LP sur convex et sur
+
+382
+00:14:45,420 --> 00:14:47,100
+concentrator. Genre c'est fou ça,
+
+383
+00:14:47,580 --> 00:14:49,240
+vous vous rendez compte ?
+
+384
+00:14:49,240 --> 00:14:51,500
+Ça va où ?
+
+385
+00:14:51,500 --> 00:14:52,940
+Ils vont où les papiers ?
+
+386
+00:14:52,940 --> 00:14:55,120
+Comment ça se passe ?
+
+387
+00:14:55,120 --> 00:14:57,080
+C'est qu'en fait, c'est ce
+
+388
+00:14:57,120 --> 00:14:59,100
+qu'on appelle les permissioned pools
+
+389
+00:14:59,100 --> 00:15:00,900
+où en gros, si tu veux
+
+390
+00:15:00,900 --> 00:15:03,200
+alors tu peux swapper et tout, mais si tu veux
+
+391
+00:15:03,200 --> 00:15:05,020
+déposer en tant qu'equity provider,
+
+392
+00:15:05,760 --> 00:15:07,260
+tu peux pas parce qu'il faut
+
+393
+00:15:07,260 --> 00:15:08,460
+whitelister ton
+
+394
+00:15:08,460 --> 00:15:10,960
+adresse. Et là, pour
+
+395
+00:15:10,960 --> 00:15:13,140
+whitelister ton adresse, là, il faut rentrer en contact
+
+396
+00:15:13,140 --> 00:15:15,140
+avec les sociétés émettrices de
+
+397
+00:15:15,140 --> 00:15:17,120
+tokens qui eux-mêmes ont un partenariat avec des
+
+398
+00:15:17,120 --> 00:15:18,940
+sociétés financières qui sont très réglementées.
+
+399
+00:15:19,560 --> 00:15:21,180
+Et là, une fois que tu montres pas de blanche.
+
+400
+00:15:22,540 --> 00:15:23,260
+Ok, d'accord.
+
+401
+00:15:24,560 --> 00:15:25,220
+Moi, je m'en fous,
+
+402
+00:15:25,220 --> 00:15:25,980
+je suis mercenaire.
+
+403
+00:15:27,120 --> 00:15:28,540
+Devé capital, on va là où il y a du yield.
+
+404
+00:15:29,280 --> 00:15:31,060
+S'il faut faire un pas administratif maintenant
+
+405
+00:15:31,060 --> 00:15:32,720
+et montrer, bon,
+
+406
+00:15:33,060 --> 00:15:35,100
+c'est super chiant, mais si on tire du
+
+407
+00:15:35,100 --> 00:15:37,160
+18% et que c'est méga sa fou,
+
+408
+00:15:37,780 --> 00:15:38,480
+ben on le fait maintenant.
+
+409
+00:15:38,900 --> 00:15:40,140
+Ça change, on s'adapte.
+
+410
+00:15:41,860 --> 00:15:42,180
+Ah ouais.
+
+411
+00:15:42,680 --> 00:15:45,140
+Mais du coup, alors c'est ça, il y a du DEX, pas DEX
+
+412
+00:15:45,140 --> 00:15:47,080
+et il y a du DEX, il y a du DEX DEX.
+
+413
+00:15:48,640 --> 00:15:50,900
+Ouais, ça va être du...
+
+414
+00:15:50,900 --> 00:15:52,240
+Mais je sais pas, peut-être ça c'est
+
+415
+00:15:52,240 --> 00:15:55,080
+non entané aussi, tu vois, c'est peut-être
+
+416
+00:15:55,080 --> 00:15:56,700
+temporaire, ce truc hybride chelou.
+
+417
+00:15:57,120 --> 00:15:59,140
+Peut-être que Mika2 va arriver et vous dire
+
+418
+00:15:59,140 --> 00:16:00,500
+écoutez, vous arrêtez les conneries maintenant.
+
+419
+00:16:01,140 --> 00:16:02,060
+Si vous utilisez Uniswap,
+
+420
+00:16:03,060 --> 00:16:05,040
+t'es illégal, à moins que t'aies KWC
+
+421
+00:16:05,040 --> 00:16:06,380
+ton wallet.
+
+422
+00:16:07,420 --> 00:16:08,700
+Je sais pas, on peut aussi avoir cette version,
+
+423
+00:16:08,980 --> 00:16:10,460
+c'est un peu plus triste.
+
+424
+00:16:12,200 --> 00:16:13,160
+Je pense 2024,
+
+425
+00:16:13,360 --> 00:16:14,180
+on va avoir une
+
+426
+00:16:14,180 --> 00:16:17,000
+conclusion sur comment on va aborder
+
+427
+00:16:17,000 --> 00:16:19,180
+la défi, mais on va quand même rester dans une
+
+428
+00:16:19,180 --> 00:16:19,720
+zone grise
+
+429
+00:16:19,720 --> 00:16:22,900
+très rigolote, parce que c'est excitant quand même,
+
+430
+00:16:23,220 --> 00:16:24,980
+la défi. On va rester dans une zone grise
+
+431
+00:16:24,980 --> 00:16:26,900
+pendant encore quelques années, mais bon, voilà.
+
+432
+00:16:27,120 --> 00:16:29,340
+Je trouve que c'est passionnant,
+
+433
+00:16:29,440 --> 00:16:31,280
+parce que justement, c'est ça, on a tendance
+
+434
+00:16:31,280 --> 00:16:33,120
+à penser en termes
+
+435
+00:16:33,860 --> 00:16:35,080
+un peu avec
+
+436
+00:16:35,080 --> 00:16:37,360
+une polarisation, genre il y a d'un côté
+
+437
+00:16:37,360 --> 00:16:38,920
+le décentralisé
+
+438
+00:16:38,920 --> 00:16:40,980
+et de l'autre côté le centralisé. En fait,
+
+439
+00:16:41,460 --> 00:16:43,200
+c'est beaucoup plus complexe et
+
+440
+00:16:43,200 --> 00:16:45,180
+riche que ça, en fait. Et chacun
+
+441
+00:16:45,180 --> 00:16:47,240
+essaye de voir comment il peut
+
+442
+00:16:47,240 --> 00:16:49,160
+faire pour que ça fonctionne
+
+443
+00:16:49,160 --> 00:16:51,000
+sur le maximum de plans
+
+444
+00:16:51,000 --> 00:16:53,180
+possibles, et on voit ce genre de truc
+
+445
+00:16:53,180 --> 00:16:54,960
+hybride. Il y a genre comme
+
+446
+00:16:54,960 --> 00:16:55,680
+des Y,
+
+447
+00:16:55,920 --> 00:16:56,800
+des Y,
+
+448
+00:16:57,120 --> 00:16:58,840
+des X, qui... Alors eux,
+
+449
+00:16:58,980 --> 00:17:00,920
+t'as pas besoin de te KYC,
+
+450
+00:17:01,300 --> 00:17:03,220
+mais genre si tu te
+
+451
+00:17:03,220 --> 00:17:05,000
+connectes avec la mauvaise adresse, tu te fais jeter.
+
+452
+00:17:06,280 --> 00:17:06,660
+Donc,
+
+453
+00:17:07,260 --> 00:17:09,720
+j'imagine qu'il y a des...
+
+454
+00:17:09,720 --> 00:17:11,540
+Comment dire ?
+
+455
+00:17:11,540 --> 00:17:13,520
+Ils font ça pour respecter
+
+456
+00:17:13,520 --> 00:17:15,060
+un certain nombre, pour se protéger,
+
+457
+00:17:15,160 --> 00:17:17,180
+quelque part, mais c'est
+
+458
+00:17:17,180 --> 00:17:17,740
+quand même...
+
+459
+00:17:17,740 --> 00:17:21,180
+C'est light, en vrai. C'est un peu énervant
+
+460
+00:17:21,180 --> 00:17:22,340
+parce que tu te dis, c'est bon,
+
+461
+00:17:22,480 --> 00:17:25,240
+si ça tient qu'à un VPN, ça veut rien dire votre histoire.
+
+462
+00:17:25,560 --> 00:17:27,100
+Mais en même temps, si ça permet de...
+
+463
+00:17:27,120 --> 00:17:29,120
+de contourner
+
+464
+00:17:30,200 --> 00:17:31,500
+certains trucs et de faire que c'est
+
+465
+00:17:31,500 --> 00:17:33,520
+accessible à plus de gens, pourquoi pas ?
+
+466
+00:17:33,520 --> 00:17:33,880
+Je sais pas.
+
+467
+00:17:34,340 --> 00:17:35,780
+Tu vois, ils jouent sur une fine line,
+
+468
+00:17:35,880 --> 00:17:36,500
+les Y, des X.
+
+469
+00:17:37,240 --> 00:17:39,300
+Les gars, en plus, c'est des...
+
+470
+00:17:39,300 --> 00:17:41,020
+J'ai l'honneur de dire que j'étais sur
+
+471
+00:17:41,020 --> 00:17:43,700
+panel avec les gars de Y, des X en Angleterre
+
+472
+00:17:43,700 --> 00:17:45,280
+il y a deux semaines, et je les ai
+
+473
+00:17:45,280 --> 00:17:47,120
+alpagués pendant le
+
+474
+00:17:47,680 --> 00:17:48,680
+panel
+
+475
+00:17:48,680 --> 00:17:51,320
+pour leur dire, mais écoutez, mais vous, je comprends pas.
+
+476
+00:17:53,100 --> 00:17:53,780
+Vous êtes
+
+477
+00:17:53,780 --> 00:17:55,920
+enregistrés aux Etats-Unis.
+
+478
+00:17:56,460 --> 00:17:57,100
+Votre DAO,
+
+479
+00:17:57,120 --> 00:17:59,440
+donc votre fondation, est dans
+
+480
+00:17:59,440 --> 00:17:59,920
+les BVI.
+
+481
+00:18:00,740 --> 00:18:02,120
+Vous me permettez de trader,
+
+482
+00:18:02,820 --> 00:18:04,920
+perdre de l'argent, gagner de l'argent
+
+483
+00:18:04,920 --> 00:18:06,820
+en x20 sans le kawaii-shi.
+
+484
+00:18:07,280 --> 00:18:09,400
+Et vous me remboursez 45% de mes frais
+
+485
+00:18:09,400 --> 00:18:11,280
+dans un token que je peux
+
+486
+00:18:11,280 --> 00:18:12,960
+dumper dans une poule pour de l'USDC.
+
+487
+00:18:13,940 --> 00:18:15,000
+Mais c'est incroyable.
+
+488
+00:18:15,460 --> 00:18:16,180
+Incroyable, les mecs.
+
+489
+00:18:16,300 --> 00:18:19,420
+Mais comment vous avez réussi, quoi ? Vous êtes des magiciens, quoi.
+
+490
+00:18:20,420 --> 00:18:22,180
+Ils sont basés aux Etats-Unis ?
+
+491
+00:18:22,180 --> 00:18:22,980
+Ah oui, oui, oui.
+
+492
+00:18:23,140 --> 00:18:23,840
+C'est un revivre.
+
+493
+00:18:24,100 --> 00:18:26,020
+Oui, oui. Et après, la fondation,
+
+494
+00:18:26,100 --> 00:18:27,100
+bien évidemment, est BVI,
+
+495
+00:18:27,120 --> 00:18:29,320
+ou Caïman, mais tu sais, c'est quand même les lois américaines
+
+496
+00:18:29,320 --> 00:18:30,640
+qui registrent,
+
+497
+00:18:31,160 --> 00:18:32,660
+qui contrôlent BVI et Caïman.
+
+498
+00:18:33,960 --> 00:18:35,120
+Et voilà, j'ai été...
+
+499
+00:18:36,800 --> 00:18:37,480
+Et eux,
+
+500
+00:18:37,520 --> 00:18:38,900
+ce qu'ils m'ont répondu, donc, ils ont dit,
+
+501
+00:18:39,460 --> 00:18:40,140
+sur le panel, ils ont dit,
+
+502
+00:18:40,700 --> 00:18:42,820
+alors déjà, nous refusons l'accès
+
+503
+00:18:42,820 --> 00:18:45,100
+des Américains, donc nous sommes bien
+
+504
+00:18:45,100 --> 00:18:46,940
+en adéquation avec... Mais voilà,
+
+505
+00:18:47,080 --> 00:18:49,080
+mais c'est comme tu dis, c'est un secret de positionnel.
+
+506
+00:18:49,600 --> 00:18:51,040
+Prends-moi pour un con, je sais pas ce que c'est
+
+507
+00:18:51,040 --> 00:18:51,520
+qu'un VPN.
+
+508
+00:18:52,180 --> 00:18:54,620
+C'est ridicule, quoi.
+
+509
+00:18:54,620 --> 00:18:56,620
+Et si tu veux me dire que cette...
+
+510
+00:18:57,120 --> 00:18:59,200
+cette moquerie
+
+511
+00:18:59,200 --> 00:19:00,760
+va durer 107 ans, non,
+
+512
+00:19:00,920 --> 00:19:02,540
+j'y crois pas. C'est ça que je me dis,
+
+513
+00:19:02,920 --> 00:19:04,760
+tu vois, en fait. C'est ça la crainte, en fait.
+
+514
+00:19:04,960 --> 00:19:07,060
+C'est que, genre, à un moment donné, il va leur arriver
+
+515
+00:19:07,060 --> 00:19:08,560
+un truc. C'est sûr.
+
+516
+00:19:08,760 --> 00:19:10,880
+Ils sont juste... En fait, ils gagnent pas assez, je pense.
+
+517
+00:19:11,900 --> 00:19:13,100
+Je pense que ça va être comme
+
+518
+00:19:13,100 --> 00:19:15,320
+la endgame de FTX
+
+519
+00:19:15,320 --> 00:19:16,560
+ou de Bilance. C'est que
+
+520
+00:19:16,560 --> 00:19:19,020
+tu peux rien faire contre la DOJ et la SEC.
+
+521
+00:19:19,520 --> 00:19:20,420
+Ils sont immortels.
+
+522
+00:19:20,960 --> 00:19:22,880
+Même si dans 50 ans, ils te prennent, ils vont te prendre.
+
+523
+00:19:22,880 --> 00:19:24,740
+Ils te laissent grandir. Et une fois que t'arrives
+
+524
+00:19:24,740 --> 00:19:26,880
+à des sommes, à quelques petites dizaines de milliards,
+
+525
+00:19:27,120 --> 00:19:29,100
+avec une internation...
+
+526
+00:19:29,100 --> 00:19:31,860
+avec une expansion mondiale,
+
+527
+00:19:32,420 --> 00:19:32,840
+bon, bah là,
+
+528
+00:19:33,020 --> 00:19:34,960
+là, là, la DOJ va
+
+529
+00:19:34,960 --> 00:19:36,380
+te défoncer.
+
+530
+00:19:36,980 --> 00:19:39,020
+Ils l'ont fait sur Areva, ils l'ont fait sur
+
+531
+00:19:39,020 --> 00:19:41,360
+la BNP, ils l'ont fait sur FTX,
+
+532
+00:19:41,580 --> 00:19:42,940
+ils l'ont fait sur Binance.
+
+533
+00:19:43,240 --> 00:19:45,360
+Les gagnants, à la fin, qui a gagné les 40 milliards,
+
+534
+00:19:45,520 --> 00:19:47,060
+toutes les liquidations de Binance sur
+
+535
+00:19:47,060 --> 00:19:49,300
+les 5 dernières années ? Qui a gagné toutes les liquidations
+
+536
+00:19:49,300 --> 00:19:51,160
+de FTX sur les 5 dernières années ?
+
+537
+00:19:51,160 --> 00:19:53,020
+C'est la DOJ, d'accord ?
+
+538
+00:19:53,020 --> 00:19:54,560
+C'est eux. C'est eux, les gagnants.
+
+539
+00:19:54,560 --> 00:19:57,080
+Donc, de toute façon, DYDX et toutes les sociétés
+
+540
+00:19:57,120 --> 00:19:58,620
+qui veulent se la jouer un peu, maintenant,
+
+541
+00:19:58,760 --> 00:20:00,060
+on est multimilliardaires,
+
+542
+00:20:00,800 --> 00:20:02,860
+quand je regarde l'histoire, la DOJ, c'est eux
+
+543
+00:20:02,860 --> 00:20:05,100
+qui gagnent. Donc, c'est le département
+
+544
+00:20:05,100 --> 00:20:06,820
+de justice américaine. C'est ça,
+
+545
+00:20:06,860 --> 00:20:09,180
+la DOJ. Donc, DYDX,
+
+546
+00:20:09,500 --> 00:20:10,720
+là, ils pèsent même pas 10 milliards,
+
+547
+00:20:11,420 --> 00:20:12,860
+ils s'en foutent, la DOJ, mais ils l'ont
+
+548
+00:20:12,860 --> 00:20:14,780
+déjà sous les girons. Et une fois que ça
+
+549
+00:20:14,780 --> 00:20:16,480
+commence à monter à 300 milliards,
+
+550
+00:20:16,640 --> 00:20:18,220
+mais t'inquiète, la DOJ va s'occuper de toi.
+
+551
+00:20:19,180 --> 00:20:20,800
+Et puis, l'extraterritorialité,
+
+552
+00:20:22,140 --> 00:20:23,300
+c'est pas une blague,
+
+553
+00:20:23,300 --> 00:20:25,060
+je sais pas si tu te souviens de Mega Upload,
+
+554
+00:20:25,420 --> 00:20:26,600
+où c'est pareil, Mega Upload,
+
+555
+00:20:27,120 --> 00:20:29,660
+Kim Dotcom, qui était le créateur
+
+556
+00:20:29,660 --> 00:20:31,640
+de ce truc-là, il agissait en toute
+
+557
+00:20:31,640 --> 00:20:33,580
+impunité pendant super longtemps, et quand
+
+558
+00:20:33,580 --> 00:20:35,580
+il a commencé à peser suffisamment
+
+559
+00:20:35,580 --> 00:20:38,380
+gros... Ils t'ont envoyé
+
+560
+00:20:38,380 --> 00:20:41,520
+des hélicoptères à sa
+
+561
+00:20:41,520 --> 00:20:43,560
+baraque alors que le mec était à l'autre bout du monde, s'il te plaît.
+
+562
+00:20:44,980 --> 00:20:45,460
+Non, mais
+
+563
+00:20:45,460 --> 00:20:47,580
+tu peux rien faire. Une fois que t'es assez
+
+564
+00:20:47,580 --> 00:20:48,520
+gros, ils vont te prendre.
+
+565
+00:20:50,580 --> 00:20:51,440
+Donc, DYDX,
+
+566
+00:20:51,440 --> 00:20:53,160
+je pense, ils sont en mode
+
+567
+00:20:53,160 --> 00:20:54,820
+t'es dans le tombaque à sable et
+
+568
+00:20:54,820 --> 00:20:57,040
+dès que tu deviens trop gros, t'inquiète,
+
+569
+00:20:57,120 --> 00:20:57,960
+on va te cueillir.
+
+570
+00:21:00,360 --> 00:21:01,060
+Mais en tout cas,
+
+571
+00:21:01,800 --> 00:21:04,640
+ça laisse quand même, tout ce qu'on a vu,
+
+572
+00:21:04,900 --> 00:21:06,640
+comme tu disais tout à l'heure, ça laisse quand même de bons
+
+573
+00:21:06,640 --> 00:21:08,920
+espoirs pour les esprits
+
+574
+00:21:08,920 --> 00:21:10,340
+ingénieux pour créer des systèmes
+
+575
+00:21:10,340 --> 00:21:12,880
+qui sont justement, éventuellement,
+
+576
+00:21:13,040 --> 00:21:14,660
+à l'abri de ce genre de
+
+577
+00:21:15,300 --> 00:21:16,420
+de, comment dire,
+
+578
+00:21:16,740 --> 00:21:18,660
+de mésaventure. Est-ce que tu connais
+
+579
+00:21:18,660 --> 00:21:20,920
+est-ce qu'il y a des
+
+580
+00:21:20,920 --> 00:21:22,800
+projets en ce moment qui essayent justement
+
+581
+00:21:22,800 --> 00:21:24,360
+de faire ça, d'être en mode
+
+582
+00:21:24,360 --> 00:21:26,460
+genre 100%
+
+583
+00:21:27,120 --> 00:21:28,240
+décentralisé ?
+
+584
+00:21:28,240 --> 00:21:31,420
+Oui, oui, ça, je respecte
+
+585
+00:21:31,420 --> 00:21:33,320
+énormément. Il faut que j'avoue,
+
+586
+00:21:33,500 --> 00:21:34,140
+il y a Liquity,
+
+587
+00:21:34,340 --> 00:21:36,980
+qui est 100% décentralisé.
+
+588
+00:21:37,120 --> 00:21:39,140
+Ça va être très compliqué, la déologie, d'arrêter
+
+589
+00:21:39,140 --> 00:21:40,100
+le LUSD.
+
+590
+00:21:42,500 --> 00:21:43,140
+Uniswap, je dois
+
+591
+00:21:43,140 --> 00:21:45,200
+l'avouer, en fait, est décentralisé.
+
+592
+00:21:45,940 --> 00:21:46,560
+Parce que même si
+
+593
+00:21:46,560 --> 00:21:49,700
+on ne pourra pas
+
+594
+00:21:49,700 --> 00:21:50,300
+arrêter Uniswap.
+
+595
+00:21:50,920 --> 00:21:52,960
+Et après, il y a MorphoBlue,
+
+596
+00:21:53,280 --> 00:21:55,000
+là, en test net, qui va sortir bientôt.
+
+597
+00:21:55,700 --> 00:21:57,000
+Là, c'est trois protocoles
+
+598
+00:21:57,120 --> 00:21:59,120
+que je viens de citer qui ont
+
+599
+00:21:59,120 --> 00:22:00,980
+un cœur de décentralisation complète.
+
+600
+00:22:01,300 --> 00:22:02,880
+Et ce n'est pas beaucoup, trois, sur
+
+601
+00:22:02,880 --> 00:22:05,300
+les 800 protocoles
+
+602
+00:22:05,300 --> 00:22:05,960
+qu'on pourrait citer.
+
+603
+00:22:06,740 --> 00:22:09,020
+Et alors, il y en a, très peu,
+
+604
+00:22:09,140 --> 00:22:10,280
+mais il y en a. Et ensuite, il y a les forks,
+
+605
+00:22:11,160 --> 00:22:13,320
+par exemple Prisma, qui va forker
+
+606
+00:22:13,320 --> 00:22:15,060
+Liquity parce qu'ils comprennent
+
+607
+00:22:15,060 --> 00:22:16,760
+que le système est 100% décentralisé.
+
+608
+00:22:17,280 --> 00:22:18,900
+Donc, immutable,
+
+609
+00:22:19,460 --> 00:22:20,840
+sensor chip résistante,
+
+610
+00:22:21,060 --> 00:22:23,320
+et tout ça. Ça, j'avoue, ce serait bien
+
+611
+00:22:23,320 --> 00:22:25,140
+aussi, j'avoue, de voir de plus en plus.
+
+612
+00:22:25,140 --> 00:22:26,300
+Mais c'est tellement dur à faire.
+
+613
+00:22:27,120 --> 00:22:29,860
+La vérification formelle,
+
+614
+00:22:30,460 --> 00:22:31,380
+11 millions de dollars
+
+615
+00:22:31,380 --> 00:22:33,820
+dans de l'audit sur les
+
+616
+00:22:33,820 --> 00:22:35,720
+trois prochaines années. C'est pas
+
+617
+00:22:35,720 --> 00:22:37,340
+un gars qui fait ça dans un garage.
+
+618
+00:22:37,680 --> 00:22:39,000
+Si tu veux faire du vrai on-chain,
+
+619
+00:22:39,220 --> 00:22:41,080
+c'est dur, c'est long, ça coûte cher.
+
+620
+00:22:42,700 --> 00:22:43,860
+Alors qu'un faux
+
+621
+00:22:43,860 --> 00:22:45,420
+truc DAO centralisé,
+
+622
+00:22:46,040 --> 00:22:47,300
+tu le fais en deux semaines.
+
+623
+00:22:49,020 --> 00:22:49,500
+Par contre,
+
+624
+00:22:50,320 --> 00:22:51,800
+pour le coup, pour tout ce qui
+
+625
+00:22:51,800 --> 00:22:53,320
+est audit, ça, ça va peut-être
+
+626
+00:22:53,320 --> 00:22:55,620
+changer avec l'intelligence
+
+627
+00:22:55,620 --> 00:22:56,180
+artificielle.
+
+628
+00:22:57,120 --> 00:22:58,940
+Des avenues intéressantes qui vont
+
+629
+00:22:58,940 --> 00:23:01,260
+faire bénéficier, qui vont faire
+
+630
+00:23:01,260 --> 00:23:02,760
+permettre d'économiser.
+
+631
+00:23:03,780 --> 00:23:04,340
+C'est vrai.
+
+632
+00:23:06,140 --> 00:23:06,700
+Ouais, ouais.
+
+633
+00:23:07,200 --> 00:23:08,320
+J'ai hâte de voir.
+
+634
+00:23:09,280 --> 00:23:10,360
+Honnêtement, quand on a vu
+
+635
+00:23:10,360 --> 00:23:13,120
+le résultat des grosses
+
+636
+00:23:13,120 --> 00:23:13,560
+firmes d'audit.
+
+637
+00:23:14,440 --> 00:23:15,440
+Non, j'avais pas pensé que t'avais raison.
+
+638
+00:23:16,140 --> 00:23:18,600
+Je m'y connais mal, même si tous les trucs d'IA, je le suis
+
+639
+00:23:18,600 --> 00:23:19,460
+notamment sur ta chaîne.
+
+640
+00:23:22,020 --> 00:23:22,900
+Effectivement, si on arrive
+
+641
+00:23:22,900 --> 00:23:24,600
+à un point de non-retour où l'IA
+
+642
+00:23:24,600 --> 00:23:26,460
+arrive à développer très rapidement
+
+643
+00:23:26,460 --> 00:23:28,840
+des solutions décentralisées, une fois qu'on les déploie
+
+644
+00:23:28,840 --> 00:23:30,440
+sur des blockchains publics,
+
+645
+00:23:30,740 --> 00:23:32,880
+quasiment aucun acteur a accès à changer
+
+646
+00:23:32,880 --> 00:23:34,800
+quoi que ce soit. J'avoue que l'IA pourrait
+
+647
+00:23:34,800 --> 00:23:37,080
+effectivement accélérer les vérifications
+
+648
+00:23:37,080 --> 00:23:39,240
+formelles, les thèses d'audit,
+
+649
+00:23:40,040 --> 00:23:41,120
+effectivement.
+
+650
+00:23:41,840 --> 00:23:42,620
+Sénétration test.
+
+651
+00:23:42,740 --> 00:23:44,960
+Ouais, c'est vrai. On pourrait aller dans ce monde-là, vers ce monde-là.
+
+652
+00:23:46,720 --> 00:23:46,940
+Ouais.
+
+653
+00:23:48,700 --> 00:23:50,500
+Et je vois qu'il y a d'autres marmottes.
+
+654
+00:23:50,700 --> 00:23:52,220
+J'ai essayé de lui donner
+
+655
+00:23:52,220 --> 00:23:54,220
+la parole.
+
+656
+00:23:55,140 --> 00:23:56,300
+Mais peut-être qu'il peut pas.
+
+657
+00:23:56,300 --> 00:23:56,420
+Ça va.
+
+658
+00:23:56,460 --> 00:23:58,280
+C'est vrai que tout le monde ne peut pas parler
+
+659
+00:23:58,280 --> 00:23:59,480
+à haute voix, forcément,
+
+660
+00:24:00,600 --> 00:24:02,220
+à 10h30.
+
+661
+00:24:02,480 --> 00:24:03,800
+Bon, bonjour quand même, Doc Marmotte.
+
+662
+00:24:05,620 --> 00:24:06,520
+Riku, est-ce que...
+
+663
+00:24:06,520 --> 00:24:08,140
+Tout le monde, en fait, si vous avez
+
+664
+00:24:08,140 --> 00:24:09,060
+des questions à poser,
+
+665
+00:24:10,280 --> 00:24:12,360
+n'hésitez pas, demandez-moi
+
+666
+00:24:12,360 --> 00:24:13,360
+le rôle de speaker, comme d'hab.
+
+667
+00:24:14,440 --> 00:24:16,280
+Est-ce que, Riku, tu
+
+668
+00:24:16,280 --> 00:24:17,880
+veux réagir ? Ah, salut, Quarl.
+
+669
+00:24:18,080 --> 00:24:19,660
+By the way, salut, ça fait un texte polido.
+
+670
+00:24:21,400 --> 00:24:22,220
+C'était bonjour à tout le monde.
+
+671
+00:24:22,420 --> 00:24:23,740
+C'est difficile de
+
+672
+00:24:23,740 --> 00:24:26,240
+d'en rajouter,
+
+673
+00:24:26,460 --> 00:24:28,300
+parce que, bon, moi, j'ai pas les compétences
+
+674
+00:24:28,300 --> 00:24:29,740
+non plus. Je connais pas tout.
+
+675
+00:24:31,120 --> 00:24:31,520
+Donc, voilà.
+
+676
+00:24:32,340 --> 00:24:34,080
+Après, il y a des choses très pertinentes
+
+677
+00:24:34,080 --> 00:24:34,860
+qui ont été dites.
+
+678
+00:24:36,660 --> 00:24:38,260
+Et, bah, non.
+
+679
+00:24:38,420 --> 00:24:39,960
+Après, non, j'ai pas grand-chose
+
+680
+00:24:39,960 --> 00:24:42,080
+d'autre à rajouter. Après, moi,
+
+681
+00:24:42,160 --> 00:24:44,300
+j'ai mon expérience de petit
+
+682
+00:24:44,300 --> 00:24:46,180
+investisseur depuis deux ans.
+
+683
+00:24:46,380 --> 00:24:48,260
+Donc, moi, j'ai plongé en plein beer market.
+
+684
+00:24:50,380 --> 00:24:50,740
+Voilà.
+
+685
+00:24:50,920 --> 00:24:51,420
+Je me suis
+
+686
+00:24:51,420 --> 00:24:54,260
+ramassé, j'ai rayé le...
+
+687
+00:24:54,860 --> 00:24:56,260
+Je sais pas comment expliquer, mais en tout cas,
+
+688
+00:24:56,460 --> 00:24:57,720
+je me suis ramassé les dents, quoi.
+
+689
+00:24:59,060 --> 00:25:00,560
+Voilà, je suis déficitaire, mais bon,
+
+690
+00:25:00,620 --> 00:25:02,360
+y a pas de soucis, puisque je me suis accroché
+
+691
+00:25:02,360 --> 00:25:03,960
+jusqu'à aujourd'hui. Et puis, effectivement,
+
+692
+00:25:04,140 --> 00:25:06,460
+je crois que
+
+693
+00:25:06,460 --> 00:25:07,940
+ça va rebondir l'année prochaine,
+
+694
+00:25:07,980 --> 00:25:09,700
+de tous les
+
+695
+00:25:09,700 --> 00:25:12,200
+signaux, de tout ce qu'on
+
+696
+00:25:12,200 --> 00:25:14,520
+peut percevoir au niveau
+
+697
+00:25:14,520 --> 00:25:16,360
+macroéconomique.
+
+698
+00:25:16,500 --> 00:25:18,080
+Aujourd'hui, y avait la réunion de la Fed
+
+699
+00:25:18,080 --> 00:25:19,760
+avec Jerome Powell, voilà.
+
+700
+00:25:20,960 --> 00:25:22,280
+Les ETF, bah,
+
+701
+00:25:22,600 --> 00:25:24,420
+oui, parce que Bitcoin,
+
+702
+00:25:24,420 --> 00:25:26,420
+c'est l'épine dorsale du
+
+703
+00:25:26,420 --> 00:25:27,780
+marché crypto, donc forcément,
+
+704
+00:25:28,420 --> 00:25:30,240
+si les ETF
+
+705
+00:25:30,240 --> 00:25:32,220
+prennent, bah, ça sera tout
+
+706
+00:25:32,220 --> 00:25:34,700
+bénef. Après, y a les pros et anti-ETF,
+
+707
+00:25:34,780 --> 00:25:36,660
+comme y a les pros et anti-ordinals.
+
+708
+00:25:37,340 --> 00:25:38,600
+Voilà, parce que les ETF,
+
+709
+00:25:38,920 --> 00:25:40,300
+pour certains, bah, c'est
+
+710
+00:25:40,300 --> 00:25:42,340
+un peu dévoyer le
+
+711
+00:25:42,340 --> 00:25:44,420
+but premier de Bitcoin, et que c'est
+
+712
+00:25:44,420 --> 00:25:46,460
+la grande
+
+713
+00:25:46,460 --> 00:25:48,140
+finance qui, voilà, qui sent
+
+714
+00:25:48,140 --> 00:25:49,000
+Bitcoin.
+
+715
+00:25:50,100 --> 00:25:51,980
+Alors, pour d'autres, c'est une opportunité
+
+716
+00:25:51,980 --> 00:25:53,300
+qui pourrait faire envoler les prix.
+
+717
+00:25:54,940 --> 00:25:55,300
+Voilà.
+
+718
+00:25:56,420 --> 00:25:57,900
+Bon, moi,
+
+719
+00:25:59,080 --> 00:26:00,780
+j'attends de voir l'année prochaine.
+
+720
+00:26:01,380 --> 00:26:02,620
+Je pense que c'est,
+
+721
+00:26:02,700 --> 00:26:04,200
+ça va bien, ça va être,
+
+722
+00:26:05,000 --> 00:26:06,540
+c'est positif, je pense, quand même.
+
+723
+00:26:06,540 --> 00:26:07,300
+Voilà, donc,
+
+724
+00:26:08,020 --> 00:26:09,680
+est-ce que ça va être
+
+725
+00:26:09,680 --> 00:26:12,540
+mi-2024,
+
+726
+00:26:13,600 --> 00:26:13,760
+ou
+
+727
+00:26:13,760 --> 00:26:16,280
+un peu après,
+
+728
+00:26:16,560 --> 00:26:18,400
+bon, après,
+
+729
+00:26:18,500 --> 00:26:20,080
+y a le halving, voilà.
+
+730
+00:26:21,380 --> 00:26:22,920
+Et puis, y en a
+
+731
+00:26:22,920 --> 00:26:24,480
+d'autres qui se projettent un peu plus loin
+
+732
+00:26:24,480 --> 00:26:26,400
+pour vraiment une explosion en 2025,
+
+733
+00:26:26,420 --> 00:26:28,720
+voilà, de ce que je lis
+
+734
+00:26:28,720 --> 00:26:30,140
+un peu à droite à gauche, voilà.
+
+735
+00:26:30,360 --> 00:26:31,620
+Je lis pas tout, mais...
+
+736
+00:26:31,620 --> 00:26:34,420
+On a le droit de balancer des
+
+737
+00:26:35,220 --> 00:26:36,220
+faux...
+
+738
+00:26:36,220 --> 00:26:38,400
+des concerts d'investissement, faut pas en donner,
+
+739
+00:26:38,480 --> 00:26:39,340
+je crois, c'est ça ?
+
+740
+00:26:39,340 --> 00:26:41,060
+Ah non, mais tu fais ce que tu veux, tu peux.
+
+741
+00:26:41,780 --> 00:26:42,720
+C'est un gâche que toi.
+
+742
+00:26:43,380 --> 00:26:45,860
+On est donné comme ça, au moins, tout le monde est au courant.
+
+743
+00:26:47,940 --> 00:26:48,700
+Oui, il ne faut que
+
+744
+00:26:48,700 --> 00:26:50,420
+relayer de l'information, n'est-ce pas ?
+
+745
+00:26:51,720 --> 00:26:52,420
+Non, mais
+
+746
+00:26:52,420 --> 00:26:54,420
+c'est un avis personnel, et je...
+
+747
+00:26:54,420 --> 00:26:56,260
+Voilà, faut pas le faire,
+
+748
+00:26:56,260 --> 00:26:58,360
+attention aux risques d'investissement, mais je trouve
+
+749
+00:26:58,360 --> 00:27:00,500
+que, ceci dit, néanmoins,
+
+750
+00:27:01,040 --> 00:27:02,440
+acheter de l'Ethereum et avoir
+
+751
+00:27:02,440 --> 00:27:04,300
+une vision de 3 ans et yilder
+
+752
+00:27:04,300 --> 00:27:06,280
+dessus à entre 8
+
+753
+00:27:06,280 --> 00:27:08,340
+et 15%, c'est un
+
+754
+00:27:08,340 --> 00:27:10,200
+trade relativement sympa.
+
+755
+00:27:11,320 --> 00:27:12,140
+Tu, en gros,
+
+756
+00:27:12,200 --> 00:27:14,060
+t'es long Ethereum et tu yildes en Ethereum,
+
+757
+00:27:14,220 --> 00:27:15,980
+sur ton Ethereum, tu fermes le truc,
+
+758
+00:27:16,180 --> 00:27:17,780
+tu le réouvres dans 3 ans, je
+
+759
+00:27:17,780 --> 00:27:19,760
+pense que la probabilité que t'aies plus
+
+760
+00:27:19,760 --> 00:27:22,480
+ajusté de l'inflation est énorme.
+
+761
+00:27:24,620 --> 00:27:24,980
+Attendez,
+
+762
+00:27:25,080 --> 00:27:26,240
+Ethereum, c'est déflationné,
+
+763
+00:27:26,260 --> 00:27:27,780
+c'est déflationniste, vous le savez,
+
+764
+00:27:27,920 --> 00:27:29,700
+ça devient déflationniste, faut le savoir,
+
+765
+00:27:29,920 --> 00:27:30,640
+avec le POS.
+
+766
+00:27:31,440 --> 00:27:33,720
+Si toutes les histoires de L2,
+
+767
+00:27:33,820 --> 00:27:36,300
+Ethereum, continuent à être le bébé de la DeFi
+
+768
+00:27:36,300 --> 00:27:38,060
+et des NFT, ou des 15 nouveaux trucs secrets,
+
+769
+00:27:38,540 --> 00:27:39,500
+il va tomber en déflationniste.
+
+770
+00:27:39,860 --> 00:27:41,620
+L'ETF narrative n'est pas encore là.
+
+771
+00:27:43,240 --> 00:27:44,100
+Une fois qu'on a fait
+
+772
+00:27:44,100 --> 00:27:46,120
+l'ETF Bitcoin, on fait quoi ? On fait un ETF
+
+773
+00:27:46,120 --> 00:27:48,000
+Doge ? Bien sûr que non. Le deuxième
+
+774
+00:27:48,000 --> 00:27:49,760
+et le seul, ce sera Ethereum.
+
+775
+00:27:50,480 --> 00:27:52,120
+Donc là, il y a un eau de vent à prendre en poupe.
+
+776
+00:27:52,800 --> 00:27:53,120
+Ensuite,
+
+777
+00:27:54,040 --> 00:27:55,020
+on se rend pas compte,
+
+778
+00:27:55,100 --> 00:27:56,240
+mais la roadmap de Vitalik Beto,
+
+779
+00:27:56,260 --> 00:27:58,220
+sur Ethereum, il n'en est qu'au début,
+
+780
+00:27:58,320 --> 00:27:58,520
+le mec.
+
+781
+00:28:00,120 --> 00:28:02,000
+Pas lui, parce que maintenant, c'est
+
+782
+00:28:02,000 --> 00:28:04,140
+all core team, lui, il est plus
+
+783
+00:28:04,140 --> 00:28:05,680
+en advisory et en recherche.
+
+784
+00:28:07,780 --> 00:28:08,280
+Il y a
+
+785
+00:28:08,280 --> 00:28:09,480
+tout à venir sur Ethereum.
+
+786
+00:28:09,880 --> 00:28:12,260
+Si la narrative des L2, du splurge
+
+787
+00:28:12,260 --> 00:28:14,400
+fait sens, donc en fait, une rapidité
+
+788
+00:28:14,400 --> 00:28:15,480
+d'Ethereum en mode
+
+789
+00:28:15,480 --> 00:28:17,820
+Layer 1 Ethereum sécurisé,
+
+790
+00:28:17,980 --> 00:28:20,620
+et tous les Layer 2 seront pour la rapidité.
+
+791
+00:28:20,840 --> 00:28:22,380
+Mais au bout d'un moment, il y aura une réconciliation
+
+792
+00:28:22,380 --> 00:28:24,080
+des blocs sur la Layer 1.
+
+793
+00:28:24,360 --> 00:28:26,160
+Donc, certes, Ethereum est lent,
+
+794
+00:28:26,260 --> 00:28:27,780
+mais c'est pas grave,
+
+795
+00:28:28,160 --> 00:28:29,420
+parce qu'en gros, toutes les 12 secondes,
+
+796
+00:28:29,560 --> 00:28:32,080
+ou un truc comme ça, on va sécuriser la donnée.
+
+797
+00:28:33,240 --> 00:28:34,260
+Et qu'est-ce qui se passe
+
+798
+00:28:34,260 --> 00:28:36,520
+pendant ces 12 secondes ? Ce sera les L2 qui le géreront.
+
+799
+00:28:36,560 --> 00:28:37,780
+Mais toutes les 12 secondes, hop,
+
+800
+00:28:38,260 --> 00:28:40,240
+les L2 se réconcilient avec Ethereum.
+
+801
+00:28:40,700 --> 00:28:42,140
+Mais ça, c'est une puissance
+
+802
+00:28:42,140 --> 00:28:44,060
+phénoménale. Moi, je vois Ethereum
+
+803
+00:28:44,060 --> 00:28:46,120
+à 10 000, je vois Ethereum à
+
+804
+00:28:46,120 --> 00:28:48,340
+15 000, je vois Ethereum
+
+805
+00:28:48,340 --> 00:28:50,340
+à 18 000.
+
+806
+00:28:51,680 --> 00:28:52,340
+C'est juste
+
+807
+00:28:52,340 --> 00:28:54,060
+via des hauts et des bas, et yielder
+
+808
+00:28:54,060 --> 00:28:56,160
+en Ethereum avec cette narrative, je suis au
+
+809
+00:28:56,160 --> 00:28:58,040
+je... j'ai pas de
+
+810
+00:28:58,040 --> 00:29:00,220
+shitcoin, on a que des Ethereum,
+
+811
+00:29:01,120 --> 00:29:01,860
+et on ferme dessus.
+
+812
+00:29:03,220 --> 00:29:04,440
+Ouais, t'es méga optimiste.
+
+813
+00:29:04,500 --> 00:29:06,080
+Je suis assez optimiste aussi pour Ethereum,
+
+814
+00:29:06,500 --> 00:29:08,060
+même si...
+
+815
+00:29:09,200 --> 00:29:10,520
+bah, t'sais, genre...
+
+816
+00:29:10,520 --> 00:29:12,080
+Non, je pense... Non, je suis
+
+817
+00:29:12,080 --> 00:29:13,860
+assez optimiste, globalement. Par contre,
+
+818
+00:29:14,100 --> 00:29:16,100
+18 000, ça me paraît un peu
+
+819
+00:29:16,100 --> 00:29:17,820
+intense, mais genre... Si on parle de
+
+820
+00:29:17,820 --> 00:29:19,980
+2025 ? Ah ouais, peut-être.
+
+821
+00:29:20,220 --> 00:29:22,060
+Il faudrait que Bitcoin soit 100K, quoi.
+
+822
+00:29:22,060 --> 00:29:23,520
+Genre 100, 150K, à ce moment-là.
+
+823
+00:29:23,560 --> 00:29:26,120
+Alors, moi, je fais partie de groupe, je dis pas que j'en suis,
+
+824
+00:29:26,160 --> 00:29:27,920
+mais je suis avec des Ethereum maximalistes.
+
+825
+00:29:28,300 --> 00:29:29,920
+Nous, on a un truc qui s'appelle le flipening.
+
+826
+00:29:30,480 --> 00:29:31,920
+C'est le moment
+
+827
+00:29:31,920 --> 00:29:34,180
+où Ethereum va flip Bitcoin.
+
+828
+00:29:35,680 --> 00:29:35,920
+Ouais,
+
+829
+00:29:36,360 --> 00:29:38,360
+mais pourquoi ? En fait, je connais
+
+830
+00:29:38,360 --> 00:29:39,860
+ce truc-là, mais j'ai jamais compris
+
+831
+00:29:39,860 --> 00:29:42,160
+pourquoi... J'ai jamais compris la...
+
+832
+00:29:42,840 --> 00:29:43,960
+À part le troll,
+
+833
+00:29:44,420 --> 00:29:46,360
+j'ai jamais compris la raison
+
+834
+00:29:46,360 --> 00:29:48,200
+fondamentale qui ferait que...
+
+835
+00:29:48,200 --> 00:29:50,020
+Bah, si on continue de build... Si, si, le
+
+836
+00:29:50,020 --> 00:29:52,260
+network effect d'Ethereum continue
+
+837
+00:29:52,260 --> 00:29:54,280
+de monter en puissance de cette manière,
+
+838
+00:29:54,280 --> 00:29:55,880
+et que, je sais pas, il y a un monde où l'IA,
+
+839
+00:29:56,160 --> 00:29:57,760
+en fait, fait toutes ses settlements
+
+840
+00:29:57,760 --> 00:30:00,340
+on-chain sur la blockchain publique
+
+841
+00:30:00,340 --> 00:30:01,780
+Ethereum, parce que pour lui,
+
+842
+00:30:02,180 --> 00:30:03,900
+c'est la plus décentralisée, la plus sécure,
+
+843
+00:30:04,280 --> 00:30:06,040
+et que, malheureusement, sur Bitcoin, on peut pas.
+
+844
+00:30:07,320 --> 00:30:08,400
+Bon, euh...
+
+845
+00:30:09,400 --> 00:30:10,320
+Enfin, je sais pas,
+
+846
+00:30:10,360 --> 00:30:11,620
+c'est une belle narrative pour Ethereum.
+
+847
+00:30:13,420 --> 00:30:13,740
+Ouais.
+
+848
+00:30:14,820 --> 00:30:16,180
+Peut-être. Mais peut-être qu'il va se passer
+
+849
+00:30:16,180 --> 00:30:18,460
+des choses sur Bitcoin. Peut-être que...
+
+850
+00:30:18,460 --> 00:30:19,900
+Non, je sais pas. Mais ouais, ouais, ouais, ouais.
+
+851
+00:30:19,940 --> 00:30:21,660
+Non, effectivement. Effectivement.
+
+852
+00:30:23,660 --> 00:30:24,020
+Euh...
+
+853
+00:30:24,020 --> 00:30:24,880
+Qu'est-ce que je voulais dire ?
+
+854
+00:30:24,880 --> 00:30:26,020
+C'est un fait simple, hein. C'est pas le meilleur
+
+855
+00:30:26,020 --> 00:30:28,100
+trade, mais si on veut pas trop se prendre la tête,
+
+856
+00:30:28,300 --> 00:30:29,340
+à pas perdre trop,
+
+857
+00:30:30,020 --> 00:30:31,800
+là, il est relativement OK, vers 2000.
+
+858
+00:30:32,620 --> 00:30:34,540
+Voilà, c'est pas un trade stupide, quoi.
+
+859
+00:30:36,040 --> 00:30:36,380
+Il y a
+
+860
+00:30:36,380 --> 00:30:37,980
+Inilo Tempore qui dit
+
+861
+00:30:37,980 --> 00:30:40,620
+Doc Marmotte, tu peux intervenir,
+
+862
+00:30:40,700 --> 00:30:42,100
+s'il te plaît. Et il y a
+
+863
+00:30:42,100 --> 00:30:44,040
+Xuser qui dit LOL Flippening,
+
+864
+00:30:44,400 --> 00:30:45,240
+on l'attend toujours.
+
+865
+00:30:46,180 --> 00:30:46,980
+Oui, c'est vrai que...
+
+866
+00:30:46,980 --> 00:30:47,140
+Oui.
+
+867
+00:30:50,320 --> 00:30:52,160
+Mais voilà, il y a 15 000 sur
+
+868
+00:30:52,160 --> 00:30:54,020
+Ethereum, 2025, 2026,
+
+869
+00:30:54,620 --> 00:30:55,720
+je serais pas surpris.
+
+870
+00:30:56,020 --> 00:30:56,820
+Ouais.
+
+871
+00:30:58,820 --> 00:30:59,220
+Ouais.
+
+872
+00:30:59,800 --> 00:31:01,720
+Ça revient souvent, cette date, comme disait Riku,
+
+873
+00:31:01,840 --> 00:31:03,980
+tout à l'heure, même parmi les gens qui sont
+
+874
+00:31:03,980 --> 00:31:05,920
+ici, que ce soit les membres
+
+875
+00:31:05,920 --> 00:31:08,060
+de la Core Community ou les invités,
+
+876
+00:31:08,180 --> 00:31:10,020
+c'est vrai que j'ai l'impression que la date
+
+877
+00:31:10,020 --> 00:31:11,740
+de 2025 revient souvent.
+
+878
+00:31:12,160 --> 00:31:13,980
+Je sais pas pourquoi. Je sais pas
+
+879
+00:31:13,980 --> 00:31:15,920
+si c'est un délire avec le cycle, les cycles
+
+880
+00:31:15,920 --> 00:31:17,780
+de 3 ou 4 ans, blablabla.
+
+881
+00:31:18,320 --> 00:31:19,960
+Mais vous êtes à fond
+
+882
+00:31:19,960 --> 00:31:21,520
+sur cette date-là, enfin, sur cette année-là.
+
+883
+00:31:22,160 --> 00:31:24,000
+J'espère que vous avez raison. En tout cas, il reste
+
+884
+00:31:24,000 --> 00:31:25,800
+2024, entre-temps. Je sais pas.
+
+885
+00:31:26,020 --> 00:31:28,100
+Ça me fait un peu flipper, parce que genre...
+
+886
+00:31:28,100 --> 00:31:29,880
+Moi, ce qui me fait flipper avec cette histoire
+
+887
+00:31:29,880 --> 00:31:31,840
+d'ETF, c'est que historiquement, je crois que ça
+
+888
+00:31:31,840 --> 00:31:33,560
+dompe sur les ETF. Donc,
+
+889
+00:31:33,860 --> 00:31:35,100
+c'est un peu...
+
+890
+00:31:35,100 --> 00:31:36,500
+Je sais pas.
+
+891
+00:31:37,400 --> 00:31:39,780
+Après, j'ai vu les graphes où tu vois le gold ETF,
+
+892
+00:31:40,460 --> 00:31:41,920
+les années qui ont suivi
+
+893
+00:31:41,920 --> 00:31:43,600
+l'ETF sur l'or,
+
+894
+00:31:44,480 --> 00:31:45,140
+c'était bullish.
+
+895
+00:31:45,800 --> 00:31:47,680
+Mais bon, il y a d'autres
+
+896
+00:31:47,680 --> 00:31:48,960
+variables qui expliquaient.
+
+897
+00:31:52,200 --> 00:31:53,820
+Cypher Talks, ça va ?
+
+898
+00:31:53,820 --> 00:31:55,860
+Hello, hello à tous. J'espère que vous m'entendez
+
+899
+00:31:55,860 --> 00:31:57,780
+bien. Ça va, tu vas bien, Richard ?
+
+900
+00:31:58,620 --> 00:31:59,660
+Ouais. Cool.
+
+901
+00:32:00,520 --> 00:32:00,820
+Salut.
+
+902
+00:32:01,360 --> 00:32:03,620
+Salut, salut. Ouais, j'ai suivi un petit peu la discussion
+
+903
+00:32:03,620 --> 00:32:05,760
+et je voulais juste rebondir sur
+
+904
+00:32:05,760 --> 00:32:07,640
+un truc. Alors moi, je l'ai pas suivi.
+
+905
+00:32:07,720 --> 00:32:08,680
+Je suis pas du tout expert
+
+906
+00:32:08,680 --> 00:32:11,660
+dans la partie ETF.
+
+907
+00:32:12,700 --> 00:32:13,840
+Mais du coup, j'entendais
+
+908
+00:32:13,840 --> 00:32:14,660
+juste avant que
+
+909
+00:32:14,660 --> 00:32:17,680
+très probablement, effectivement, il y aura un ETF
+
+910
+00:32:17,680 --> 00:32:19,320
+Bitcoin et ETF Ethereum, mais
+
+911
+00:32:19,320 --> 00:32:21,480
+dans ma vision,
+
+912
+00:32:21,920 --> 00:32:23,600
+je pense pas que ça va s'arrêter là, en fait.
+
+913
+00:32:24,160 --> 00:32:25,840
+Après, je peux me tromper. Après, aujourd'hui,
+
+914
+00:32:25,860 --> 00:32:26,520
+je suis à l'instant T.
+
+915
+00:32:28,240 --> 00:32:29,720
+Évidemment, en termes de valorisation,
+
+916
+00:32:30,040 --> 00:32:30,160
+c'est
+
+917
+00:32:30,160 --> 00:32:33,700
+les deux plus gros, mais
+
+918
+00:32:33,700 --> 00:32:35,700
+je pense, effectivement, alors
+
+919
+00:32:35,700 --> 00:32:37,720
+je sais pas dans combien de temps, mais
+
+920
+00:32:37,720 --> 00:32:39,300
+je pense qu'il y aura d'autres
+
+921
+00:32:39,300 --> 00:32:40,500
+et sur d'autres
+
+922
+00:32:40,500 --> 00:32:42,900
+projets.
+
+923
+00:32:45,860 --> 00:32:47,780
+Oui, ça va prendre du temps, parce que t'as vu
+
+924
+00:32:47,780 --> 00:32:50,140
+le temps qu'il faut juste pour un...
+
+925
+00:32:50,140 --> 00:32:51,720
+Je pense que t'as raison et on pourrait même
+
+926
+00:32:51,720 --> 00:32:53,560
+savoir quand est-ce que le troisième viendra,
+
+927
+00:32:53,560 --> 00:32:55,420
+en fonction du temps qui va passer entre
+
+928
+00:32:55,420 --> 00:32:57,020
+Bitcoin et Ethereum.
+
+929
+00:32:57,020 --> 00:32:59,120
+Mais je pense que
+
+930
+00:32:59,120 --> 00:33:00,800
+il va y avoir quand même beaucoup de temps
+
+931
+00:33:00,800 --> 00:33:02,560
+avant que le troisième n'apparaisse.
+
+932
+00:33:02,560 --> 00:33:04,420
+Et je me permets de te demander,
+
+933
+00:33:04,420 --> 00:33:06,420
+tu verrais quel coin en troisième?
+
+934
+00:33:06,420 --> 00:33:08,820
+Ah non, mais en fait, je peux pas fabuler parce que
+
+935
+00:33:08,820 --> 00:33:10,820
+je pense que la réalité aujourd'hui,
+
+936
+00:33:13,180 --> 00:33:15,020
+c'est quasiment improbable de le dire,
+
+937
+00:33:15,020 --> 00:33:17,380
+si ce n'est si on veut soutenir tel ou tel projet.
+
+938
+00:33:17,380 --> 00:33:19,380
+Donc moi, je serais un peu biaisé sur
+
+939
+00:33:20,780 --> 00:33:22,880
+sur le projet que je pourrais
+
+940
+00:33:22,880 --> 00:33:24,300
+que je pourrais mettre en avant.
+
+941
+00:33:24,300 --> 00:33:26,700
+Non, je pense que
+
+942
+00:33:26,700 --> 00:33:29,060
+le prochain cycle va
+
+943
+00:33:29,060 --> 00:33:31,140
+rebattre un petit peu le jeu de cartes
+
+944
+00:33:31,140 --> 00:33:33,800
+dans dans tout l'écosystème
+
+945
+00:33:33,800 --> 00:33:34,800
+blockchain.
+
+946
+00:33:35,700 --> 00:33:37,060
+Mais j'attends de voir puisque du coup,
+
+947
+00:33:37,060 --> 00:33:39,800
+on est toujours étonné de ce qui arrive
+
+948
+00:33:39,800 --> 00:33:41,960
+et personne n'arrive aujourd'hui à prédire
+
+949
+00:33:41,960 --> 00:33:42,960
+quoi que ce soit de toute façon.
+
+950
+00:33:44,760 --> 00:33:47,760
+Moi, pour les ETF, les prochains,
+
+951
+00:33:47,760 --> 00:33:49,960
+est ce que je pense comme cipher
+
+952
+00:33:49,960 --> 00:33:52,960
+qu'effectivement, il y aura certainement,
+
+953
+00:33:52,960 --> 00:33:54,140
+même si personne ne peut le faire, mais c'est pas ça.
+
+954
+00:33:54,140 --> 00:33:56,140
+Je pense qu'il y aura des ETF composés
+
+955
+00:33:56,140 --> 00:33:58,140
+comme pour les matières premières
+
+956
+00:33:58,140 --> 00:34:00,140
+ou pour les actions bourse,
+
+957
+00:34:00,140 --> 00:34:02,140
+c'est à dire que plutôt que d'avoir des paniers,
+
+958
+00:34:02,140 --> 00:34:04,140
+des paniers, voilà, je suis d'accord avec toi,
+
+959
+00:34:04,140 --> 00:34:06,140
+des fonds indiciels avec le top 10,
+
+960
+00:34:06,140 --> 00:34:08,140
+c'est très possible.
+
+961
+00:34:08,140 --> 00:34:10,140
+Voilà.
+
+962
+00:34:10,140 --> 00:34:12,140
+Mais d'ailleurs, il y a certaines banques,
+
+963
+00:34:12,140 --> 00:34:14,140
+je crois, qui proposent aux clients
+
+964
+00:34:14,140 --> 00:34:16,140
+que les fonds indiciels,
+
+965
+00:34:16,140 --> 00:34:18,140
+qu'ils aient des fonds de l'économie
+
+966
+00:34:18,140 --> 00:34:20,140
+qui sont très importants pour les banques.
+
+967
+00:34:20,140 --> 00:34:22,140
+Et je pense qu'il y a des banques qui ont
+
+968
+00:34:22,140 --> 00:34:24,140
+des fonds de l'économie, mais qui sont très importants.
+
+969
+00:34:24,140 --> 00:34:26,140
+Tout à fait.
+
+970
+00:34:26,140 --> 00:34:28,140
+Mais après, c'est plus aux différents
+
+971
+00:34:28,140 --> 00:34:30,140
+distributions, ce ne sera pas un ETF.
+
+972
+00:34:30,140 --> 00:34:32,140
+On va parler plus de trucs un peu chiants
+
+973
+00:34:32,140 --> 00:34:36,140
+type ETP, ETN et les unités de fonds.
+
+974
+00:34:36,140 --> 00:34:40,140
+Donc, c'est l'ETF, vraiment la différence
+
+975
+00:34:40,140 --> 00:34:44,140
+avec ce produit, c'est que toutes les grandes banques,
+
+976
+00:34:44,140 --> 00:34:47,140
+toutes les institutions, tous les fonds de pension
+
+977
+00:34:47,140 --> 00:34:50,140
+peuvent accéder à ce produit de manière,
+
+978
+00:34:50,140 --> 00:34:52,140
+on va dire, c'est vraiment la Rolls Royce
+
+979
+00:34:52,140 --> 00:34:54,140
+de distribution d'un produit.
+
+980
+00:34:54,140 --> 00:34:56,140
+Là, effectivement, il y a des fonds actuellement,
+
+981
+00:34:56,140 --> 00:34:58,140
+si tu achètes des parts de fonds,
+
+982
+00:34:58,140 --> 00:35:00,140
+tu peux répliquer le top 10
+
+983
+00:35:00,140 --> 00:35:04,140
+des actifs sous-jacents,
+
+984
+00:35:04,140 --> 00:35:06,140
+mais ce n'est pas du tout aussi flexible
+
+985
+00:35:06,140 --> 00:35:09,140
+de manière régulatoire et financière
+
+986
+00:35:09,140 --> 00:35:11,140
+pour que les grandes institutions
+
+987
+00:35:11,140 --> 00:35:13,140
+puissent les acheter.
+
+988
+00:35:13,140 --> 00:35:15,140
+Ensuite, il y a un phénomène de papier
+
+989
+00:35:15,140 --> 00:35:18,140
+où souvent, en fait, ces fonds indiciels,
+
+990
+00:35:18,140 --> 00:35:20,140
+malheureusement, à l'heure actuelle,
+
+991
+00:35:20,140 --> 00:35:22,140
+ils n'achètent pas vraiment le spot.
+
+992
+00:35:22,140 --> 00:35:24,140
+Vous savez, ils n'achètent pas le token.
+
+993
+00:35:24,140 --> 00:35:26,140
+C'est du papier.
+
+994
+00:35:26,140 --> 00:35:28,140
+Donc, du PERP sur des CEX,
+
+995
+00:35:28,140 --> 00:35:30,140
+il va répliquer.
+
+996
+00:35:30,140 --> 00:35:32,140
+Ce n'est pas un véritable achat sur le marché.
+
+997
+00:35:32,140 --> 00:35:34,140
+Vous savez, c'est comme l'ETF de l'or,
+
+998
+00:35:34,140 --> 00:35:36,140
+il y a un peu de faux.
+
+999
+00:35:36,140 --> 00:35:38,140
+Et ce que j'aime beaucoup avec l'ETF Bitcoin,
+
+1000
+00:35:38,140 --> 00:35:46,140
+c'est que là, BlackRock achète du Bitcoin sous-jacent.
+
+1001
+00:35:46,140 --> 00:35:48,140
+Et ça, c'est très important.
+
+1002
+00:35:48,140 --> 00:35:50,140
+C'est là où ça soutient vraiment le cours.
+
+1003
+00:35:50,140 --> 00:35:52,140
+Donc, effectivement, il y en a à l'heure actuelle
+
+1004
+00:35:52,140 --> 00:35:55,140
+des fonds indiciels composés de différents actifs,
+
+1005
+00:35:55,140 --> 00:35:59,140
+mais ce n'est pas la même structure financière qu'un ETF.
+
+1006
+00:35:59,140 --> 00:36:01,140
+Merci.
+
+1007
+00:36:01,140 --> 00:36:05,140
+J'ai une question.
+
+1008
+00:36:05,140 --> 00:36:08,140
+C'est marrant parce que je viens de réaliser,
+
+1009
+00:36:08,140 --> 00:36:09,140
+en pensant à cette question,
+
+1010
+00:36:09,140 --> 00:36:10,140
+que je ne la pose jamais,
+
+1011
+00:36:10,140 --> 00:36:12,140
+alors qu'elle est quand même super intéressante.
+
+1012
+00:36:12,140 --> 00:36:17,140
+Et en plus, objectivement,
+
+1013
+00:36:17,140 --> 00:36:19,140
+et en plus, même pour les gens qui écoutent.
+
+1014
+00:36:19,140 --> 00:36:21,140
+C'est quoi pour vous,
+
+1015
+00:36:21,140 --> 00:36:26,140
+un portefeuille idéal genre à avoir maintenant ?
+
+1016
+00:36:26,140 --> 00:36:28,140
+Un portfolio crypto genre ?
+
+1017
+00:36:28,140 --> 00:36:30,140
+Ah, c'est une très très bonne question.
+
+1018
+00:36:30,140 --> 00:36:34,140
+Je veux bien commencer effectivement sur cette question.
+
+1019
+00:36:34,140 --> 00:36:37,140
+La réalité, le meilleur des conseils aujourd'hui,
+
+1020
+00:36:37,140 --> 00:36:40,140
+c'est d'avoir du Bitcoin, évidemment.
+
+1021
+00:36:40,140 --> 00:36:42,140
+Celui qui n'a pas de Bitcoin,
+
+1022
+00:36:42,140 --> 00:36:45,140
+je pense qu'il devrait réétudier certaines choses,
+
+1023
+00:36:45,140 --> 00:36:48,140
+sauf s'il a d'autres objectifs.
+
+1024
+00:36:48,140 --> 00:36:50,140
+Mais effectivement, Bitcoin,
+
+1025
+00:36:50,140 --> 00:36:52,140
+ensuite de l'Ether, c'est évident.
+
+1026
+00:36:52,140 --> 00:36:56,140
+Et ensuite, c'est au choix en fait.
+
+1027
+00:36:56,140 --> 00:36:58,140
+Il y a une partie sur la DeFi,
+
+1028
+00:36:58,140 --> 00:37:00,140
+il y a une partie sur les NFT.
+
+1029
+00:37:00,140 --> 00:37:03,140
+Tu en as une autre potentiellement sur les Layer 2 aujourd'hui.
+
+1030
+00:37:03,140 --> 00:37:08,140
+Mais je ne pourrais pas donner d'autres cryptos forcément, de mon côté.
+
+1031
+00:37:08,140 --> 00:37:10,140
+Mais ce serait quoi le pourcentage ?
+
+1032
+00:37:10,140 --> 00:37:19,140
+Franchement, en fait, tu peux avoir un délire comme 10% même que de Bitcoin
+
+1033
+00:37:19,140 --> 00:37:21,140
+dans ton wallet.
+
+1034
+00:37:21,140 --> 00:37:22,140
+Alors, ça peut paraître faible.
+
+1035
+00:37:22,140 --> 00:37:25,140
+Après, ça dépend de ton investissement, etc.
+
+1036
+00:37:25,140 --> 00:37:27,140
+Mais à minima 10%.
+
+1037
+00:37:27,140 --> 00:37:30,140
+Et si tu veux être tranquille et beaucoup plus tranquille,
+
+1038
+00:37:30,140 --> 00:37:33,140
+tu montes au-dessus de 50% en Bitcoin.
+
+1039
+00:37:33,140 --> 00:37:36,140
+Une autre partie sur Ethereum.
+
+1040
+00:37:36,140 --> 00:37:39,140
+Alors sur Ethereum, tu peux mettre un quart.
+
+1041
+00:37:39,140 --> 00:37:42,140
+Et puis ensuite, si tu veux effectivement t'amuser,
+
+1042
+00:37:42,140 --> 00:37:44,140
+tu peux aller sur les autres cryptos.
+
+1043
+00:37:44,140 --> 00:37:46,140
+Mais par contre, il faut toujours avoir en tête,
+
+1044
+00:37:46,140 --> 00:37:47,140
+en tout cas, moi, c'est comme ça que…
+
+1045
+00:37:47,140 --> 00:37:48,140
+Et du cash ?
+
+1046
+00:37:48,140 --> 00:37:50,140
+Tu ne mets pas un peu de cash quand même ?
+
+1047
+00:37:50,140 --> 00:37:51,140
+Comment ?
+
+1048
+00:37:51,140 --> 00:37:54,140
+Ta portion du SDC, par exemple.
+
+1049
+00:37:54,140 --> 00:37:56,140
+Ah bah ça, c'est sur la partie DeFi du coup.
+
+1050
+00:37:56,140 --> 00:37:57,140
+C'est sur la partie DeFi.
+
+1051
+00:37:57,140 --> 00:37:59,140
+Donc si tu veux jouer sur la partie DeFi,
+
+1052
+00:37:59,140 --> 00:38:02,140
+pour moi, tu dois avoir un certain pourcentage de ton wallet
+
+1053
+00:38:02,140 --> 00:38:03,140
+qui va partir dans la DeFi.
+
+1054
+00:38:03,140 --> 00:38:05,140
+Mais toujours, en tout cas, moi,
+
+1055
+00:38:05,140 --> 00:38:09,140
+en tout cas dans ma vision et dans mon esprit,
+
+1056
+00:38:09,140 --> 00:38:12,140
+c'est comme ça, moi, à l'époque que je suis rentré dans l'écosystème,
+
+1057
+00:38:12,140 --> 00:38:14,140
+c'est d'investir ce que tu es prêt à perdre.
+
+1058
+00:38:14,140 --> 00:38:17,140
+Parce qu'en fait, j'entends trop de personnes parfois, malheureusement,
+
+1059
+00:38:17,140 --> 00:38:19,140
+perdre des sommes importantes
+
+1060
+00:38:19,140 --> 00:38:24,140
+et ça les met dans une complexité financière
+
+1061
+00:38:24,140 --> 00:38:26,140
+qui est abusée et qui est absurde.
+
+1062
+00:38:26,140 --> 00:38:27,140
+Donc…
+
+1063
+00:38:27,140 --> 00:38:29,140
+Ça, on est d'accord.
+
+1064
+00:38:29,140 --> 00:38:30,140
+Voilà.
+
+1065
+00:38:30,140 --> 00:38:34,140
+Et donc, pour toi, la répartition de ton portefeuille au jour d'aujourd'hui,
+
+1066
+00:38:34,140 --> 00:38:39,140
+pour répondre, si j'ai bien suivi, c'est entre 10 et 50 % de Bitcoin,
+
+1067
+00:38:39,140 --> 00:38:41,140
+environ 25 % d'Ethereum,
+
+1068
+00:38:41,140 --> 00:38:44,140
+à peu près un quart de shitcoin, pardonnez-moi du terme,
+
+1069
+00:38:44,140 --> 00:38:47,140
+inclus NFT, on va dire top 40, peu importe.
+
+1070
+00:38:47,140 --> 00:38:49,140
+Après, ce n'est pas forcément…
+
+1071
+00:38:49,140 --> 00:38:52,140
+Alors attention, ce n'est pas forcément que tu vas dans les shitcoins,
+
+1072
+00:38:52,140 --> 00:38:54,140
+mais tu peux aussi, par exemple, comme je disais tout à l'heure,
+
+1073
+00:38:54,140 --> 00:38:56,140
+celui qui est en attrait pour la DeFi,
+
+1074
+00:38:56,140 --> 00:39:00,140
+il peut aller dans la DeFi et s'amuser dans la DeFi
+
+1075
+00:39:00,140 --> 00:39:03,140
+sans forcément trader du shitcoin, en fait.
+
+1076
+00:39:03,140 --> 00:39:05,140
+Mais attention, shitcoin, il n'y a pas…
+
+1077
+00:39:05,140 --> 00:39:07,140
+Excusez-moi du terme, on va dire altcoin.
+
+1078
+00:39:07,140 --> 00:39:11,140
+Mais franchement, là, ceux qui ont acheté un gros paquet d'altcoins
+
+1079
+00:39:11,140 --> 00:39:16,140
+qui a une bonne narrative et qui a survécu au crash 2023,
+
+1080
+00:39:16,140 --> 00:39:18,140
+vous les avez achetés sur les deux derniers mois,
+
+1081
+00:39:18,140 --> 00:39:21,140
+mais si vous arrivez à y hilder dessus en plus,
+
+1082
+00:39:21,140 --> 00:39:23,140
+enfin, c'est un très bon trade, c'est excellent.
+
+1083
+00:39:23,140 --> 00:39:26,140
+Et vous ferez mieux que l'Ethereum si on a un bull l'année prochaine.
+
+1084
+00:39:26,140 --> 00:39:29,140
+Je suis complètement d'accord, mais après, il faut avoir la vision,
+
+1085
+00:39:29,140 --> 00:39:33,140
+très probablement, de rester attentif sur ce qui se passe
+
+1086
+00:39:33,140 --> 00:39:35,140
+dans l'écosystème crypto, évidemment.
+
+1087
+00:39:37,140 --> 00:39:41,140
+Après, là où nous, on en vient, c'est ce qu'on fait chez MEV Capital beaucoup,
+
+1088
+00:39:41,140 --> 00:39:45,140
+c'est qu'on a du Bitcoin, il y a de l'Ethereum,
+
+1089
+00:39:45,140 --> 00:39:51,140
+il y a quelques altcoins, et il y a de l'USDC, et de l'USDT, et du DAI, tout ça.
+
+1090
+00:39:51,140 --> 00:39:55,140
+Mais en fait, tout ça pour nous peut aller dans la défi.
+
+1091
+00:39:55,140 --> 00:40:00,140
+Tu peux avoir ton WBTC, donc ton WBTC, ton TBTC sur la défi,
+
+1092
+00:40:00,140 --> 00:40:04,140
+donc tu hildes sur ton Bitcoin, tu peux avoir tes Ethereum sur la défi,
+
+1093
+00:40:04,140 --> 00:40:08,140
+donc tu hildes, et tu peux avoir tes altcoins et tes USDT sur la défi.
+
+1094
+00:40:08,140 --> 00:40:11,140
+Oui, je suis d'accord avec toi, je veux juste apporter une petite précision,
+
+1095
+00:40:11,140 --> 00:40:13,140
+bon, tout le monde le sait, mais…
+
+1096
+00:40:13,140 --> 00:40:14,140
+Euh…
+
+1097
+00:40:14,140 --> 00:40:16,140
+Tu ne vas pas tout mettre dans la défi, quoi.
+
+1098
+00:40:16,140 --> 00:40:18,140
+Parce que si tu mets tout dans la défi, très probablement,
+
+1099
+00:40:18,140 --> 00:40:20,140
+là, tu augmentes ton risque de manière conséquente.
+
+1100
+00:40:20,140 --> 00:40:28,140
+Tu n'es jamais à l'abri d'avoir un problème de sécurité sur telle ou telle d'apps.
+
+1101
+00:40:28,140 --> 00:40:30,140
+Enfin, il faut être prudent.
+
+1102
+00:40:30,140 --> 00:40:33,140
+Oui, il faut être prudent, c'est un métier.
+
+1103
+00:40:33,140 --> 00:40:37,140
+Il y aurait toujours une partie, je pense, qu'il faut quand même garder dans un col de toilette.
+
+1104
+00:40:37,140 --> 00:40:39,140
+Tu ne touches pas, tu ne bourses pas.
+
+1105
+00:40:39,140 --> 00:40:41,140
+Je suis d'accord.
+
+1106
+00:40:41,140 --> 00:40:42,140
+Oui.
+
+1107
+00:40:42,140 --> 00:40:43,140
+Merci.
+
+1108
+00:40:44,140 --> 00:40:46,140
+Et toi, c'est quoi ton bague, alors ?
+
+1109
+00:40:46,140 --> 00:40:51,140
+Moi, c'est une horreur.
+
+1110
+00:40:51,140 --> 00:40:53,140
+Je suis broke, alors je n'ai aucun bague.
+
+1111
+00:40:53,140 --> 00:40:55,140
+C'est une catastrophe.
+
+1112
+00:40:55,140 --> 00:40:58,140
+Mais sinon, si je devais donner un conseil,
+
+1113
+00:40:58,140 --> 00:41:06,140
+c'est BTC 50%, Ethereum 25%, et le reste…
+
+1114
+00:41:06,140 --> 00:41:10,140
+Mais ouvre les dons, en fait, Chad, je ne sais pas, ils sont où ?
+
+1115
+00:41:10,140 --> 00:41:12,140
+Oui, mais je voulais le faire, mais à chaque fois,
+
+1116
+00:41:12,140 --> 00:41:15,140
+je ne me sens pas encore comme assez, je ne sais pas, légitime.
+
+1117
+00:41:15,140 --> 00:41:17,140
+Il n'y a pas besoin de se sentir assez légitime.
+
+1118
+00:41:17,140 --> 00:41:22,140
+En fait, tu passes tous tes soirs à faire des spaces, tu as le droit de… Enfin, voilà.
+
+1119
+00:41:22,140 --> 00:41:24,140
+Oui, c'est vrai, c'est vrai.
+
+1120
+00:41:24,140 --> 00:41:26,140
+Mais je ne sais pas, mais tu as raison, peut-être.
+
+1121
+00:41:26,140 --> 00:41:34,140
+Je suis un peu timide de ce côté-là, mais je vais le faire à un moment donné, je pense.
+
+1122
+00:41:34,140 --> 00:41:36,140
+Ça va partir du truc.
+
+1123
+00:41:36,140 --> 00:41:40,140
+Après, heureusement, tu as des personnes comme Mev Capital qui sont là.
+
+1124
+00:41:40,140 --> 00:41:42,140
+D'ailleurs, j'allais…
+
+1125
+00:41:42,140 --> 00:41:46,140
+En plus, le pire, c'est que j'allais enchaîner là-dessus,
+
+1126
+00:41:46,140 --> 00:41:53,140
+parce qu'il a mentionné, donc Laurent, qu'il a mentionné Mev Capital plusieurs fois,
+
+1127
+00:41:53,140 --> 00:41:57,140
+et Mev Capital, sponsor Radio Chad, et ils m'aident énormément.
+
+1128
+00:41:57,140 --> 00:41:59,140
+Honnêtement, grosse, grosse aide.
+
+1129
+00:41:59,140 --> 00:42:02,140
+Et en plus, je suis super content d'être aidé par eux,
+
+1130
+00:42:02,140 --> 00:42:05,140
+parce qu'ils ont quand même une bonne réputation dans l'écosystème.
+
+1131
+00:42:05,140 --> 00:42:09,140
+Et Dieu sait que c'est important de nos jours.
+
+1132
+00:42:10,140 --> 00:42:12,140
+Donc, c'est ça.
+
+1133
+00:42:12,140 --> 00:42:14,140
+Oui, c'est ça.
+
+1134
+00:42:14,140 --> 00:42:16,140
+Donc, c'est super cool.
+
+1135
+00:42:16,140 --> 00:42:19,140
+Et oui, vous avez quand même une bonne réputation.
+
+1136
+00:42:19,140 --> 00:42:21,140
+Inch'Allah.
+
+1137
+00:42:21,140 --> 00:42:23,140
+C'est vrai.
+
+1138
+00:42:23,140 --> 00:42:26,140
+Que ce soit les OGs ou les gens moins OGs,
+
+1139
+00:42:26,140 --> 00:42:31,140
+j'ai vu qu'il n'y avait que des bonnes critiques de Mev Capital.
+
+1140
+00:42:31,140 --> 00:42:36,140
+Et en plus de ça, vous avez sorti un truc.
+
+1141
+00:42:36,140 --> 00:42:39,140
+Je crois que ce n'est pas encore sorti, mais c'est en bêta test, un truc comme ça.
+
+1142
+00:42:39,140 --> 00:42:41,140
+C'est en forme.
+
+1143
+00:42:41,140 --> 00:42:43,140
+Tu veux en parler ou pas ?
+
+1144
+00:42:43,140 --> 00:42:46,140
+Ce n'est pas obligé, si c'est en bêta.
+
+1145
+00:42:46,140 --> 00:42:49,140
+Je suis content de faire un détour très rapidement.
+
+1146
+00:42:49,140 --> 00:42:54,140
+Mev Capital, ça fait depuis quelques années qu'on, full time,
+
+1147
+00:42:54,140 --> 00:43:02,140
+on permet à des institutions ou à des portefeuilles de faire du yield
+
+1148
+00:43:02,140 --> 00:43:05,140
+en fonction de leurs actifs sur des multisig.
+
+1149
+00:43:05,140 --> 00:43:07,140
+Donc, c'est eux qui ont la self-custody.
+
+1150
+00:43:07,140 --> 00:43:10,140
+Et après, pour les utilisateurs,
+
+1151
+00:43:10,140 --> 00:43:21,140
+Mev Capital a investi dans l'équipe Amphor.io.
+
+1152
+00:43:21,140 --> 00:43:29,140
+Et effectivement, Amphor fait du yield farming sur Bitcoin,
+
+1153
+00:43:29,140 --> 00:43:35,140
+sur Ethereum, sur USDC, pour essayer de promouvoir l'accessibilité de yield
+
+1154
+00:43:35,140 --> 00:43:40,140
+à n'importe qui, pas forcément aux grosses baleines, comme on dit.
+
+1155
+00:43:40,140 --> 00:43:45,140
+On connaît bien l'équipe parce qu'il y a beaucoup d'histoires de rug pool.
+
+1156
+00:43:45,140 --> 00:43:49,140
+Donc, il faut bien gratter qui est derrière, comment les multisig fonctionnent,
+
+1157
+00:43:49,140 --> 00:43:51,140
+où sont les risques.
+
+1158
+00:43:51,140 --> 00:43:57,140
+Donc, effectivement, Amphor.io, ça a été lancé il y a deux mois.
+
+1159
+00:43:57,140 --> 00:43:59,140
+C'est toujours en bêta.
+
+1160
+00:43:59,140 --> 00:44:02,140
+Et là, c'est du bêta test.
+
+1161
+00:44:02,140 --> 00:44:04,140
+Et l'année prochaine, il y aura effectivement un token.
+
+1162
+00:44:04,140 --> 00:44:10,140
+En airdrop, pour tous ceux qui ont aidé à contribuer, la communauté, etc.
+
+1163
+00:44:10,140 --> 00:44:13,140
+L'idée, c'est ça.
+
+1164
+00:44:13,140 --> 00:44:17,140
+C'est-à-dire que je mets les fonds dans ce que je dis.
+
+1165
+00:44:17,140 --> 00:44:19,140
+Je crois à une nouvelle vague de la DeFi.
+
+1166
+00:44:19,140 --> 00:44:21,140
+DeFi a été testée et la DeFi n'est pas morte.
+
+1167
+00:44:21,140 --> 00:44:24,140
+Il y a eu énormément de scams, mais il ne faut pas tout jeter.
+
+1168
+00:44:24,140 --> 00:44:28,140
+Et je pense que sur 2024, il peut y avoir un renouveau de la DeFi.
+
+1169
+00:44:28,140 --> 00:44:31,140
+Voilà, c'est un pari.
+
+1170
+00:44:31,140 --> 00:44:33,140
+C'est une évidence. Je préfère quand même rassurer.
+
+1171
+00:44:33,140 --> 00:44:34,140
+Enfin, c'est quasi...
+
+1172
+00:44:34,140 --> 00:44:35,140
+C'est aussi une évidence.
+
+1173
+00:44:35,140 --> 00:44:39,140
+Je ne vois pas comment les choses pourraient aller complètement à l'inverse.
+
+1174
+00:44:39,140 --> 00:44:42,140
+On sait très bien que ce qu'on a pu connaître auparavant,
+
+1175
+00:44:42,140 --> 00:44:44,140
+dans les prochaines années,
+
+1176
+00:44:44,140 --> 00:44:47,140
+ça va être complètement une autre histoire et un autre paysage.
+
+1177
+00:44:49,140 --> 00:44:51,140
+Absolument.
+
+1178
+00:44:51,140 --> 00:44:53,140
+Voilà, donc on pense à Enfort.io.
+
+1179
+00:44:53,140 --> 00:44:58,140
+C'est une des applications qui a un futur positif sur le yield farming.
+
+1180
+00:44:58,140 --> 00:45:00,140
+Après, c'est une activité. C'est vrai.
+
+1181
+00:45:00,140 --> 00:45:03,140
+Ce n'est pas du NFT. Ce n'est pas du pump and dump de shitcoin
+
+1182
+00:45:03,140 --> 00:45:06,140
+où on peut faire beaucoup d'argent, x10, x40.
+
+1183
+00:45:06,140 --> 00:45:09,140
+C'est vraiment du yield farming très direct où là, on ne farme pas du shitcoin,
+
+1184
+00:45:09,140 --> 00:45:13,140
+mais on farme de l'USDC et de l'Ethereum et du WBTC.
+
+1185
+00:45:13,140 --> 00:45:18,140
+On ne farme pas des altcoins avec des noms bizarres.
+
+1186
+00:45:18,140 --> 00:45:24,140
+D'ailleurs, en parlant de USDC, il y a eu toutes sortes de choses qui sont passées récemment
+
+1187
+00:45:24,140 --> 00:45:27,140
+avec, par exemple, alors que je ne dis pas de conneries,
+
+1188
+00:45:27,140 --> 00:45:29,140
+je crois que c'est le DAI qui s'est fait virer de crypto.
+
+1189
+00:45:29,140 --> 00:45:30,140
+Oui, c'est ça.
+
+1190
+00:45:30,140 --> 00:45:31,140
+C'est ça.
+
+1191
+00:45:31,140 --> 00:45:35,140
+Ils ont fait virer de crypto.com et Binance, un truc de ce genre.
+
+1192
+00:45:35,140 --> 00:45:37,140
+Je ne sais plus. Je sais que DAI, il s'est passé des choses.
+
+1193
+00:45:37,140 --> 00:45:41,140
+Ils se sont fait virer de quelques DEX, SEX, pardon.
+
+1194
+00:45:41,140 --> 00:45:54,140
+Et USDT, l'USDT s'est encore utilisé, mais on ne sait pas s'ils vont passer sous la loupe des institutions américaines.
+
+1195
+00:45:54,140 --> 00:45:57,140
+Mais c'est vrai que de plus en plus, on voit…
+
+1196
+00:45:57,140 --> 00:46:00,140
+Par exemple, crypto.com, ça n'accepte pas l'USDT.
+
+1197
+00:46:00,140 --> 00:46:02,140
+Si je ne dis pas de conneries.
+
+1198
+00:46:02,140 --> 00:46:05,140
+Ils ne prennent que l'USDC.
+
+1199
+00:46:05,140 --> 00:46:08,140
+Et l'USDC, c'est affilié à Coinbase.
+
+1200
+00:46:08,140 --> 00:46:09,140
+Comment ça se fait ?
+
+1201
+00:46:09,140 --> 00:46:15,140
+J'ai l'impression que tout le monde, enfin la plupart des gens que je connais, les stables, ils sont en…
+
+1202
+00:46:15,140 --> 00:46:17,140
+Ils ont leur stable en USDC.
+
+1203
+00:46:17,140 --> 00:46:18,140
+Comment ça se fait ?
+
+1204
+00:46:22,140 --> 00:46:23,140
+Alors, non.
+
+1205
+00:46:23,140 --> 00:46:25,140
+Alors, déjà, excuse-moi si c'est la question.
+
+1206
+00:46:25,140 --> 00:46:27,140
+Déjà, je vais faire l'évoquat du diable.
+
+1207
+00:46:27,140 --> 00:46:28,140
+Non.
+
+1208
+00:46:28,140 --> 00:46:29,140
+Car si on regarde les données on-chain…
+
+1209
+00:46:29,140 --> 00:46:30,140
+Oui.
+
+1210
+00:46:30,140 --> 00:46:34,140
+Désolé, il y a plus de Tether qu'il y a d'USDC.
+
+1211
+00:46:34,140 --> 00:46:35,140
+Voilà.
+
+1212
+00:46:35,140 --> 00:46:36,140
+Bon, ça, c'est les données on-chain.
+
+1213
+00:46:36,140 --> 00:46:37,140
+Voilà.
+
+1214
+00:46:37,140 --> 00:46:38,140
+Donc déjà, désolé.
+
+1215
+00:46:38,140 --> 00:46:41,140
+Si on prend Tron et Ethereum, Tether est loin devant.
+
+1216
+00:46:41,140 --> 00:46:43,140
+En TVL et en volume.
+
+1217
+00:46:43,140 --> 00:46:44,140
+Voilà.
+
+1218
+00:46:44,140 --> 00:46:46,140
+Ensuite, juste derrière, effectivement, il y a l'USDC.
+
+1219
+00:46:46,140 --> 00:46:47,140
+Pourquoi ?
+
+1220
+00:46:47,140 --> 00:46:52,140
+Comme tu l'as dit toi-même, c'est Coinbase, c'est Circle, c'est américain.
+
+1221
+00:46:52,140 --> 00:46:56,140
+C'est hyper centralisé.
+
+1222
+00:46:56,140 --> 00:46:59,140
+Je ne suis pas très fan, mais le truc, c'est que bon, tout le monde se sert de ça.
+
+1223
+00:46:59,140 --> 00:47:01,140
+C'est difficile de yilder 100.
+
+1224
+00:47:01,140 --> 00:47:04,900
+C'est vraiment dommage que sur leurs 40 milliards, je ne sais plus, un truc comme ça, entre 37
+
+1225
+00:47:04,900 --> 00:47:11,940
+et 40 milliards, peut-être plus, en fait, eux, ils yildent un peu à 4 %. Ils sont
+
+1226
+00:47:11,940 --> 00:47:13,380
+quand même beaucoup d'argent.
+
+1227
+00:47:13,380 --> 00:47:16,640
+Ils centralisent les gains sur l'USDC.
+
+1228
+00:47:16,640 --> 00:47:24,140
+Par contre, s'il y a un problème, ils décentralisent le risque en faisant un dépeg.
+
+1229
+00:47:24,140 --> 00:47:28,140
+Et moi, ces modèles USDT et USDC, je pense que ce n'est pas l'avenir.
+
+1230
+00:47:28,140 --> 00:47:33,740
+Parce que le yield de 4 % devrait être redistribué aux holders des stablecoins parce que les
+
+1231
+00:47:33,740 --> 00:47:36,140
+holders des stablecoins portent le risque de dépeg.
+
+1232
+00:47:36,140 --> 00:47:45,140
+Donc, ce n'est pas juste, c'est dégueulasse que Tether, iFinex et Circle Coinbase privatisent
+
+1233
+00:47:45,140 --> 00:47:48,140
+le gain, mais mutualisent le risque.
+
+1234
+00:47:48,140 --> 00:47:50,140
+Donc là, il y a une place à prendre.
+
+1235
+00:47:50,140 --> 00:47:56,140
+Clairement, il faut un stablecoin décentralisé où le gain est redonné au fond.
+
+1236
+00:47:56,140 --> 00:47:57,140
+C'est ça.
+
+1237
+00:47:57,140 --> 00:47:59,140
+Au holder, ça fait sens.
+
+1238
+00:47:59,140 --> 00:48:01,140
+Et on sait le faire techniquement.
+
+1239
+00:48:01,140 --> 00:48:03,140
+Il y a déjà beaucoup de projets qui le font.
+
+1240
+00:48:03,140 --> 00:48:11,140
+Juste une petite question parce que ça me vient à l'esprit, mais les stablecoins
+
+1241
+00:48:11,140 --> 00:48:15,140
+algorithmiques, il y en a toujours un, enfin, il y en a plusieurs, mais tu as l'USDD qui
+
+1242
+00:48:15,140 --> 00:48:16,140
+tient encore et qui tient encore.
+
+1243
+00:48:16,140 --> 00:48:19,140
+J'aurais été curieux d'avoir ton avis, ton retour là-dessus.
+
+1244
+00:48:19,140 --> 00:48:22,140
+Merde, attends, c'est Justinson, non, l'USDD ?
+
+1245
+00:48:22,140 --> 00:48:24,140
+Oui, il me semble bien.
+
+1246
+00:48:24,140 --> 00:48:25,140
+Non, je ne touche pas à ça.
+
+1247
+00:48:25,140 --> 00:48:26,140
+Non, mais ouais.
+
+1248
+00:48:26,140 --> 00:48:31,140
+Non, mais ouais, mais il n'a pas à comprendre comment ça se fait que le bordel arrive à tenir encore.
+
+1249
+00:48:31,140 --> 00:48:41,140
+Parce que Justinson est un milliardaire, d'accord, que la TVL de l'USDD, s'il veut te la dépeg ou te la repeg en un clic, il te le fait.
+
+1250
+00:48:41,140 --> 00:48:45,140
+Déjà, il fait des choses très, très louches avec d'autres projets comme, je crois, c'est BitTorrent.
+
+1251
+00:48:45,140 --> 00:48:47,140
+On peut écrire un livre sur lui.
+
+1252
+00:48:47,140 --> 00:48:51,140
+Tout ce qui touche à Justinson, enfin, je ne sais pas, c'est en gros, voilà, tu dépends.
+
+1253
+00:48:51,140 --> 00:48:53,140
+En fait, ton USDD, c'est ça.
+
+1254
+00:48:53,140 --> 00:48:55,140
+C'est est-ce que tu fais confiance à Justin ou pas ?
+
+1255
+00:48:55,140 --> 00:48:58,140
+Si oui, USDD, tu y vas dedans.
+
+1256
+00:48:58,140 --> 00:49:01,140
+Si tu ne lui fais pas confiance, tu ne vas pas dedans.
+
+1257
+00:49:01,140 --> 00:49:04,140
+Parce que c'est lui qui fait la pluie et le beau temps sur l'USDD.
+
+1258
+00:49:04,140 --> 00:49:08,140
+On a déjà eu un dépeg sur l'USDD pendant trois semaines, il y a un an et demi.
+
+1259
+00:49:08,140 --> 00:49:11,140
+Tu peux regarder, 08, il me semble.
+
+1260
+00:49:11,140 --> 00:49:14,140
+Je pensais que c'était la fin, tu vois, la vérité, je pensais que c'était la fin et je vois…
+
+1261
+00:49:14,140 --> 00:49:20,140
+Ouais, mais il y a tellement des trucs beaucoup plus intéressants à garder que les stablecoins centralisés d'un…
+
+1262
+00:49:20,140 --> 00:49:24,140
+Non, non, mais je veux dire, je veux dire, étonné de voir effectivement un petit peu comme toi,
+
+1263
+00:49:24,140 --> 00:49:28,140
+Non, je ne touche pas à ça, je ne touche pas à l'USDD.
+
+1264
+00:49:28,140 --> 00:49:31,140
+Ah non, mais moi non plus, je ne touche pas, il ne faut pas toucher à ça.
+
+1265
+00:49:31,140 --> 00:49:36,140
+Mais voilà, les modèles, effectivement, les modèles, si vous voulez, on peut en parler deux minutes,
+
+1266
+00:49:36,140 --> 00:49:38,140
+faire un tout petit équerre si ça intéresse des gens.
+
+1267
+00:49:38,140 --> 00:49:46,140
+Il nous faut un stablecoin décentralisé dont les revenus de la réserve soient redistribués aux holders.
+
+1268
+00:49:46,140 --> 00:49:48,140
+C'est clair, non ?
+
+1269
+00:49:48,140 --> 00:49:49,140
+Ça n'existe pas ça ?
+
+1270
+00:49:49,140 --> 00:49:51,140
+Alors voilà, ça, c'est ce qu'il faut faire.
+
+1271
+00:49:51,140 --> 00:49:53,140
+À l'heure actuelle, il y en a, mais il n'y en a pas beaucoup.
+
+1272
+00:49:53,140 --> 00:49:58,140
+Ce que je vois, il y a LUSD, LiquidityUSD, qui est pas mal…
+
+1273
+00:49:58,140 --> 00:50:01,140
+Il y a MKUSD, je dois l'avouer.
+
+1274
+00:50:01,140 --> 00:50:04,140
+C'est nouveau, le truc, c'est que c'est nouveau, ces trucs-là, c'est des petites caps.
+
+1275
+00:50:04,140 --> 00:50:07,140
+Je ne dis pas que c'est la révolution et que c'est ça qui va gagner,
+
+1276
+00:50:07,140 --> 00:50:14,140
+je dis juste que ce sont des expérimentations qu'il faut regarder et qu'il faut copier pour faire le prochain stablecoin.
+
+1277
+00:50:14,140 --> 00:50:20,140
+Tu as parlé d'un stablecoin qui est décentralisé, mais quand même redistribué.
+
+1278
+00:50:20,140 --> 00:50:22,140
+Alors, il y a bien quelqu'un, un administrateur, qui décide…
+
+1279
+00:50:22,140 --> 00:50:28,140
+Un administrateur qui décide à un moment ou à un autre sur quels critères on redistribue un participant et pas un autre.
+
+1280
+00:50:28,140 --> 00:50:34,140
+Donc, ça veut dire que si quelqu'un décide de la redistribution, ça ne peut pas être forcément si décentralisé que ça.
+
+1281
+00:50:34,140 --> 00:50:38,140
+Au déploiement. Au déploiement, nous lançons le code sur la blockchain.
+
+1282
+00:50:38,140 --> 00:50:40,140
+Une fois qu'il est lancé, plus personne n'y a accès.
+
+1283
+00:50:40,140 --> 00:50:45,140
+Et là, les ingénieurs peuvent lire le code et dire voilà ce qui se passe.
+
+1284
+00:50:45,140 --> 00:50:48,140
+Vous mettez votre USDC.
+
+1285
+00:50:48,140 --> 00:50:50,140
+Une partie va vers…
+
+1286
+00:50:50,140 --> 00:50:52,140
+Par exemple, 3.000.
+
+1287
+00:50:52,140 --> 00:50:55,140
+Un SDAI ou du stablecoin, un money market type AV.
+
+1288
+00:50:55,140 --> 00:50:57,140
+Ça, je n'en sais rien, mais tout on-chain.
+
+1289
+00:50:57,140 --> 00:51:02,140
+Donc, en fait, c'est vraiment un code qui va tourner ad vitam aeternam et il ne fera plus jamais autre chose.
+
+1290
+00:51:02,140 --> 00:51:07,140
+Ensuite, ce qu'on peut faire si jamais tu vas me dire, ben oui, mais la vie évolue, peut-être qu'il faut changer des trucs.
+
+1291
+00:51:07,140 --> 00:51:15,140
+Là, il y a une DAO qui se met en place et on vote en fonction de ceux qui ont les plus grosses parts dans le stablecoin.
+
+1292
+00:51:15,140 --> 00:51:20,140
+Et tous ces changements, on va dire qu'il n'y aurait qu'une dizaine de paramètres qu'on pourrait changer dans le temps.
+
+1293
+00:51:20,140 --> 00:51:22,140
+En fonction des votes de chacun.
+
+1294
+00:51:22,140 --> 00:51:23,140
+Et ça prendrait du temps.
+
+1295
+00:51:23,140 --> 00:51:26,140
+Genre une fois que c'est voté, ça prend 48 heures, par exemple, avant d'être activé.
+
+1296
+00:51:26,140 --> 00:51:30,140
+Mais tous les trucs importants en mode on a le droit qu'à un seul owner.
+
+1297
+00:51:30,140 --> 00:51:32,140
+Ça, non, c'est hors de question.
+
+1298
+00:51:32,140 --> 00:51:34,140
+Ça ne pourra jamais voter ça.
+
+1299
+00:51:34,140 --> 00:51:36,140
+Voilà, pour répondre à ta…
+
+1300
+00:51:36,140 --> 00:51:37,140
+Mais ça existe, ça.
+
+1301
+00:51:37,140 --> 00:51:39,140
+Il y a des modèles comme ça.
+
+1302
+00:51:39,140 --> 00:51:42,140
+Mais effectivement, très peu exploité ou très peu connu.
+
+1303
+00:51:42,140 --> 00:51:43,140
+Absolument.
+
+1304
+00:51:43,140 --> 00:51:44,140
+Et ça, c'est à cause de quoi ?
+
+1305
+00:51:44,140 --> 00:51:45,140
+C'est à cause de l'effet de réseau ?
+
+1306
+00:51:45,140 --> 00:51:46,140
+Oui, c'est ça.
+
+1307
+00:51:46,140 --> 00:51:47,140
+C'est à cause de quoi ?
+
+1308
+00:51:47,140 --> 00:51:48,140
+C'est à cause de l'effet de réseau.
+
+1309
+00:51:48,140 --> 00:51:49,140
+C'est à cause de quoi ?
+
+1310
+00:51:49,140 --> 00:51:51,140
+C'est à cause de l'effet de réseau.
+
+1311
+00:51:51,140 --> 00:51:53,140
+Non, mais il y a un pouvoir aussi.
+
+1312
+00:51:53,140 --> 00:51:55,140
+Il ne faut pas oublier USDT et USDC.
+
+1313
+00:51:55,140 --> 00:51:58,140
+La réalité, c'est qu'ils ont un pouvoir phénoménal aujourd'hui.
+
+1314
+00:51:58,140 --> 00:52:01,140
+Sur ce mot-là…
+
+1315
+00:52:01,140 --> 00:52:07,140
+Qu'est-ce qui empêche les nouveaux arrivants, enfin les nouveaux projets ou, par exemple…
+
+1316
+00:52:07,140 --> 00:52:12,140
+Ou même les gros projets qui ont envie de s'extraire d'un certain nombre peut-être de régulations,
+
+1317
+00:52:12,140 --> 00:52:16,140
+je n'en sais rien, d'adopter des trucs qui sont un petit peu plus décentralisés, quoi.
+
+1318
+00:52:16,140 --> 00:52:18,140
+Non.
+
+1319
+00:52:18,140 --> 00:52:19,140
+Non.
+
+1320
+00:52:19,140 --> 00:52:22,140
+Il y a une voie à prendre là-dessus.
+
+1321
+00:52:22,140 --> 00:52:24,140
+Il y a des projets, on pourra en parler un jour.

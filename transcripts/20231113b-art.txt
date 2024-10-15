@@ -1,0 +1,6503 @@
+1
+00:00:30,000 --> 00:00:35,040
+♪
+
+2
+00:00:35,040 --> 00:00:37,260
+♪
+
+3
+00:00:37,260 --> 00:00:40,280
+♪
+
+4
+00:00:40,280 --> 00:00:43,280
+♪
+
+5
+00:00:43,280 --> 00:00:46,280
+♪
+
+6
+00:00:46,280 --> 00:00:49,280
+♪
+
+7
+00:00:49,280 --> 00:00:52,280
+♪
+
+8
+00:00:52,280 --> 00:00:55,280
+♪
+
+9
+00:00:55,280 --> 00:00:58,280
+♪
+
+10
+00:00:58,280 --> 00:01:01,280
+♪
+
+11
+00:01:01,280 --> 00:01:04,280
+♪
+
+12
+00:01:04,280 --> 00:01:07,280
+♪
+
+13
+00:01:07,280 --> 00:01:10,280
+♪
+
+14
+00:01:10,280 --> 00:01:13,280
+♪
+
+15
+00:01:13,280 --> 00:01:16,280
+♪
+
+16
+00:01:16,280 --> 00:01:19,280
+♪
+
+17
+00:01:19,280 --> 00:01:22,280
+♪
+
+18
+00:01:22,280 --> 00:01:25,280
+♪
+
+19
+00:01:25,280 --> 00:01:28,280
+♪
+
+20
+00:01:28,280 --> 00:01:31,280
+♪
+
+21
+00:01:31,280 --> 00:01:34,280
+♪
+
+22
+00:01:34,280 --> 00:01:37,280
+♪
+
+23
+00:01:37,280 --> 00:01:40,280
+♪
+
+24
+00:01:40,280 --> 00:01:43,280
+♪
+
+25
+00:01:43,280 --> 00:01:46,280
+♪
+
+26
+00:01:46,280 --> 00:01:49,280
+♪
+
+27
+00:01:49,280 --> 00:01:52,280
+♪
+
+28
+00:01:52,280 --> 00:01:55,280
+♪
+
+29
+00:01:55,280 --> 00:01:58,280
+♪
+
+30
+00:01:58,280 --> 00:02:01,280
+♪
+
+31
+00:02:01,280 --> 00:02:04,280
+♪
+
+32
+00:02:04,280 --> 00:02:07,280
+♪
+
+33
+00:02:07,280 --> 00:02:10,280
+♪
+
+34
+00:02:10,280 --> 00:02:13,280
+♪
+
+35
+00:02:13,280 --> 00:02:16,280
+♪
+
+36
+00:02:16,280 --> 00:02:19,280
+♪
+
+37
+00:02:19,280 --> 00:02:22,280
+♪
+
+38
+00:02:22,280 --> 00:02:25,280
+♪
+
+39
+00:02:25,280 --> 00:02:28,280
+♪
+
+40
+00:02:28,280 --> 00:02:31,280
+♪
+
+41
+00:02:31,280 --> 00:02:34,280
+♪
+
+42
+00:02:34,280 --> 00:02:37,280
+♪
+
+43
+00:02:37,280 --> 00:02:40,280
+♪
+
+44
+00:02:40,280 --> 00:02:43,280
+♪
+
+45
+00:02:43,280 --> 00:02:46,280
+♪
+
+46
+00:02:46,280 --> 00:02:49,280
+♪
+
+47
+00:02:49,280 --> 00:02:52,280
+♪
+
+48
+00:02:52,280 --> 00:02:55,280
+♪
+
+49
+00:02:55,280 --> 00:02:58,280
+Bienvenue sur Radio Shad, on est le...
+
+50
+00:02:58,280 --> 00:03:01,280
+On est le lundi.
+
+51
+00:03:01,280 --> 00:03:04,280
+Tout simplement. C'est aussi simple que ça.
+
+52
+00:03:04,280 --> 00:03:07,280
+On est le lundi 13 novembre 2023.
+
+53
+00:03:07,280 --> 00:03:10,280
+Et puis ce soir, c'est une soirée, soirée art.
+
+54
+00:03:10,280 --> 00:03:13,280
+Comme tous les lundis, tous les lundis c'est soirée art.
+
+55
+00:03:13,280 --> 00:03:16,280
+C'est un peu plus crypto que d'habitude.
+
+56
+00:03:16,280 --> 00:03:19,280
+Parce que d'habitude on fait crypto NFT, enfin pardon, art NFT.
+
+57
+00:03:19,280 --> 00:03:22,280
+Et là on va parler un petit peu plus...
+
+58
+00:03:22,280 --> 00:03:25,280
+En fait on va parler d'un thème qu'on a déjà apporté dans le passé.
+
+59
+00:03:25,280 --> 00:03:28,280
+Qui était le terme de l'immersion.
+
+60
+00:03:28,280 --> 00:03:31,280
+Mais cette fois-ci on va un peu moins...
+
+61
+00:03:31,280 --> 00:03:34,280
+On va carrément s'éloigner des cryptos.
+
+62
+00:03:34,280 --> 00:03:37,280
+Et puis vraiment se concentrer sur le thème de l'immersion.
+
+63
+00:03:37,280 --> 00:03:40,280
+Et notamment la réalité augmentée.
+
+64
+00:03:40,280 --> 00:03:43,280
+Et la réalité virtuelle.
+
+65
+00:03:43,280 --> 00:03:46,280
+Et pour ce faire, j'ai invité trois personnes.
+
+66
+00:03:46,280 --> 00:03:49,280
+Kato qui va probablement arriver d'une minute à l'autre.
+
+67
+00:03:49,280 --> 00:03:52,280
+Xavier et Denis.
+
+68
+00:03:52,280 --> 00:03:55,280
+Alors il y a déjà Xavier qui est monté.
+
+69
+00:03:55,280 --> 00:03:58,280
+Salut Xavier, ça va?
+
+70
+00:04:01,280 --> 00:04:04,280
+Allo, allo, salut, salut.
+
+71
+00:04:04,280 --> 00:04:07,280
+Je t'entends? Ouais, super.
+
+72
+00:04:07,280 --> 00:04:10,280
+Tout va bien, merci.
+
+73
+00:04:10,280 --> 00:04:13,280
+Très heureux de te recevoir.
+
+74
+00:04:13,280 --> 00:04:16,280
+Les gens vont arriver petit à petit.
+
+75
+00:04:16,280 --> 00:04:19,280
+C'est lundi, on est bien tranquille.
+
+76
+00:04:19,280 --> 00:04:22,280
+Et puis il y a Kato qui vient d'arriver.
+
+77
+00:04:22,280 --> 00:04:25,280
+Kato, je t'envoie une invitation pour parler.
+
+78
+00:04:25,280 --> 00:04:28,280
+Et Denis, je t'en envoie une.
+
+79
+00:04:28,280 --> 00:04:31,280
+Je t'en revois une encore.
+
+80
+00:04:31,280 --> 00:04:34,280
+Je ne sais pas si Denis c'est ton premier space.
+
+81
+00:04:34,280 --> 00:04:37,280
+Il suffit d'accepter ma demande d'invitation parlée.
+
+82
+00:04:37,280 --> 00:04:40,280
+Et puis ensuite, il y a le truc.
+
+83
+00:04:40,280 --> 00:04:43,280
+Je précise, parce que ça arrive souvent.
+
+84
+00:04:43,280 --> 00:04:46,280
+J'ai encore eu des nouveaux de Twitter Space y'a pas longtemps.
+
+85
+00:04:46,280 --> 00:04:49,280
+Notamment Laurent Alexandre qui a fait du bruit.
+
+86
+00:04:54,280 --> 00:04:57,280
+On avait fait une émission, j'ai digres récemment dans les archives.
+
+87
+00:04:57,280 --> 00:05:00,280
+Parce qu'on a fait pas mal d'émissions sur le thème de l'immersion.
+
+88
+00:05:00,280 --> 00:05:03,280
+Et il y en a une qui date du 2 octobre qu'on avait fait avec Orion 3000.
+
+89
+00:05:03,280 --> 00:05:06,280
+Je ne sais pas si vous connaissez.
+
+90
+00:05:06,280 --> 00:05:09,280
+C'est un collectif d'artistes qui, notamment dans ce collectif-là,
+
+91
+00:05:09,280 --> 00:05:12,280
+il y a Pierre Pause qui est en fait le chroniqueur,
+
+92
+00:05:12,280 --> 00:05:15,280
+je devrais dire le co-animateur de l'émission le lundi.
+
+93
+00:05:15,280 --> 00:05:18,280
+Il n'est pas là ce soir parce qu'il a un vernissage.
+
+94
+00:05:18,280 --> 00:05:21,280
+Donc il ne pourra pas venir.
+
+95
+00:05:21,280 --> 00:05:24,280
+Mais voilà, normalement, il est là à peu près tous les lundis.
+
+96
+00:05:24,280 --> 00:05:27,280
+Puis j'anime l'émission avec lui.
+
+97
+00:05:27,280 --> 00:05:30,280
+Et puis on a des discussions ensemble sur toutes sortes de thèmes.
+
+98
+00:05:30,280 --> 00:05:33,280
+Mais c'est vrai que l'immersion, c'est un thème qui est revenu souvent.
+
+99
+00:05:33,280 --> 00:05:36,280
+Et puis ce soir-là, on avait parlé avec Orion 3000
+
+100
+00:05:36,280 --> 00:05:39,280
+d'une exposition qu'ils avaient fait au jardin des Tuileries.
+
+101
+00:05:39,280 --> 00:05:42,280
+Si je ne dis pas de conneries.
+
+102
+00:05:42,280 --> 00:05:45,280
+Et qui consistait à faire faire un parcours aux gens.
+
+103
+00:05:45,280 --> 00:05:48,280
+Et évidemment, il n'y avait pas d'œuvre dans la vraie vie.
+
+104
+00:05:48,280 --> 00:05:51,280
+Mais avec leur téléphone, ils pouvaient consulter,
+
+105
+00:05:51,280 --> 00:05:54,280
+enfin, vous regarder, vous faire des recherches.
+
+106
+00:05:54,280 --> 00:05:57,280
+Ils pouvaient observer les œuvres qui étaient éparpillées sur le chemin.
+
+107
+00:05:57,280 --> 00:06:00,280
+Dans un monde parallèle.
+
+108
+00:06:00,280 --> 00:06:03,280
+Le monde de la réalité augmentée.
+
+109
+00:06:03,280 --> 00:06:06,280
+Et donc du coup, on va en reparler.
+
+110
+00:06:06,280 --> 00:06:09,280
+D'abord, je vais aussi dire bonjour Denis, bonjour Kato.
+
+111
+00:06:09,280 --> 00:06:12,280
+Comment allez-vous?
+
+112
+00:06:12,280 --> 00:06:15,280
+Est-ce que vous m'entendez?
+
+113
+00:06:15,280 --> 00:06:18,280
+Bonsoir.
+
+114
+00:06:18,280 --> 00:06:21,280
+Bonjour.
+
+115
+00:06:21,280 --> 00:06:24,280
+Bonsoir.
+
+116
+00:06:24,280 --> 00:06:27,280
+Vous m'entendez?
+
+117
+00:06:27,280 --> 00:06:30,280
+Oui, je t'entends bien Kato.
+
+118
+00:06:30,280 --> 00:06:33,280
+Ok, bonsoir tout le monde.
+
+119
+00:06:33,280 --> 00:06:36,280
+Ça va?
+
+120
+00:06:36,280 --> 00:06:39,280
+Oui, ça va très bien et vous?
+
+121
+00:06:39,280 --> 00:06:42,280
+Moi ça va très bien. Je suis très content de te recevoir.
+
+122
+00:06:42,280 --> 00:06:45,280
+Ça fait tellement longtemps que j'ai envie que tu sois là.
+
+123
+00:06:45,280 --> 00:06:48,280
+Je suis tellement fan de ton compte.
+
+124
+00:06:48,280 --> 00:06:51,280
+Ça joue un peu pas mal, je t'avouerais.
+
+125
+00:06:51,280 --> 00:06:54,280
+Si ton compte s'appelait Cafardo et que ce n'était que des images de cafards,
+
+126
+00:06:54,280 --> 00:06:57,280
+je pense que je serais un petit peu moins fan.
+
+127
+00:06:57,280 --> 00:07:00,280
+Mais quand même, j'aime bien le contenu.
+
+128
+00:07:00,280 --> 00:07:03,280
+C'est cool, merci beaucoup Tchad.
+
+129
+00:07:03,280 --> 00:07:06,280
+J'ai bien fait.
+
+130
+00:07:06,280 --> 00:07:09,280
+Quand j'ai créé ce compte, j'ai voulu chercher un truc qui serait un peu viral à l'époque.
+
+131
+00:07:09,280 --> 00:07:12,280
+Et du coup, j'ai hésité entre CryptoTitties et CryptoCat.
+
+132
+00:07:12,280 --> 00:07:15,280
+Et je me suis dit que les quatre ça me plaît.
+
+133
+00:07:15,280 --> 00:07:18,280
+Je suis vraiment amoureux des chats, donc je suis parti là-dessus.
+
+134
+00:07:18,280 --> 00:07:21,280
+C'est dommage, t'aurais dû faire les deux.
+
+135
+00:07:21,280 --> 00:07:24,280
+Et puis comparer lequel marche plus fort.
+
+136
+00:07:24,280 --> 00:07:27,280
+On va pas les deux en même temps, deux séparément.
+
+137
+00:07:27,280 --> 00:07:30,280
+C'est un concept, franchement il faudrait essayer ça.
+
+138
+00:07:30,280 --> 00:07:33,280
+J'en ai peut-être dégagé.
+
+139
+00:07:33,280 --> 00:07:36,280
+Non, je rigole.
+
+140
+00:07:36,280 --> 00:07:39,280
+Les chats ça marche bien sur Internet.
+
+141
+00:07:39,280 --> 00:07:42,280
+Des seins de chat, tu devrais essayer.
+
+142
+00:07:42,280 --> 00:07:45,280
+Ouais, CatTitties, c'est un beau concept.
+
+143
+00:07:45,280 --> 00:07:48,280
+Et Denis, comment ça va?
+
+144
+00:07:48,280 --> 00:07:51,280
+Bonsoir, merci.
+
+145
+00:07:51,280 --> 00:07:54,280
+Bonsoir Cat, bonsoir Xavier, bonsoir tout le monde.
+
+146
+00:07:54,280 --> 00:07:57,280
+Salut.
+
+147
+00:07:57,280 --> 00:08:00,280
+J'ai enfin compris comment ça marchait, les Space, c'est formidable.
+
+148
+00:08:00,280 --> 00:08:03,280
+Oui, c'est ça, ça arrive souvent.
+
+149
+00:08:03,280 --> 00:08:06,280
+Que des gens participent au Space, que ce soit la première fois.
+
+150
+00:08:06,280 --> 00:08:09,280
+C'est même arrivé à tout le monde au moins une fois.
+
+151
+00:08:09,280 --> 00:08:12,280
+Ça me rassure.
+
+152
+00:08:12,280 --> 00:08:15,280
+Bienvenue, je suis très content de vous avoir tous les trois.
+
+153
+00:08:15,280 --> 00:08:18,280
+C'est pas souvent qu'on fait des émissions avec plusieurs personnes.
+
+154
+00:08:18,280 --> 00:08:21,280
+Je vais essayer de ne pas m'emmêler les pinceaux.
+
+155
+00:08:21,280 --> 00:08:24,280
+En gros, je ne vous connaissais pas, c'est Cato qui m'a dit que...
+
+156
+00:08:24,280 --> 00:08:27,280
+Il m'a proposé Xavier, puis Xavier m'a proposé Denis.
+
+157
+00:08:27,280 --> 00:08:30,280
+J'ai fait, allez-y, venez tous, c'est cool.
+
+158
+00:08:30,280 --> 00:08:33,280
+J'ai regardé un peu ce que vous faisiez.
+
+159
+00:08:33,280 --> 00:08:36,280
+Et j'ai trouvé que vous aviez des choses à faire.
+
+160
+00:08:36,280 --> 00:08:39,280
+J'ai vu notamment que, Xavier, toi, comme ça, tu vas aux champignons
+
+161
+00:08:39,280 --> 00:08:42,280
+et de temps en temps, tu tombes sur des vaisseaux.
+
+162
+00:08:42,280 --> 00:08:45,280
+En effet, c'était une petite intervention, on va dire, extra urbaine, plutôt en forêt.
+
+163
+00:08:45,280 --> 00:08:48,280
+Je m'amuse de temps en temps à poser ces sculptures plutôt brutalistes.
+
+164
+00:08:48,280 --> 00:08:51,280
+Dans un cas, c'est un peu comme un petit peu de l'art.
+
+165
+00:08:51,280 --> 00:08:54,280
+C'est un peu comme un petit peu de l'art.
+
+166
+00:08:54,280 --> 00:08:57,280
+C'est un peu comme un petit peu de l'art.
+
+167
+00:08:57,280 --> 00:09:00,280
+C'est un peu comme un petit peu de l'art.
+
+168
+00:09:00,280 --> 00:09:03,280
+C'est un peu comme un petit peu de l'art.
+
+169
+00:09:03,280 --> 00:09:06,280
+C'est un peu comme un petit peu de l'art.
+
+170
+00:09:06,280 --> 00:09:09,280
+C'est un peu comme un petit peu de l'art.
+
+171
+00:09:09,280 --> 00:09:12,280
+C'est un peu comme un petit peu de l'art.
+
+172
+00:09:12,280 --> 00:09:15,280
+C'est une manière un peu de s'amuser tout simplement à placer de l'art
+
+173
+00:09:15,280 --> 00:09:18,280
+où en fait, il n'a pas lieu d'être.
+
+174
+00:09:18,280 --> 00:09:21,280
+Et j'ai vu que, notamment, vous avez travaillé ensemble, toi et Kato, en mars.
+
+175
+00:09:21,280 --> 00:09:24,280
+Et j'ai vu que, notamment, vous avez travaillé ensemble, toi et Kato, en mars.
+
+176
+00:09:24,280 --> 00:09:27,280
+Vous avez fait une exposition.
+
+177
+00:09:27,280 --> 00:09:30,280
+Je ne sais pas si vous avez fait d'autres trucs parce que je n'ai pas de digues jusqu'à la fin des temps.
+
+178
+00:09:30,280 --> 00:09:33,280
+J'ai fait un truc en mars qui s'appelait Reality Revolution.
+
+179
+00:09:33,280 --> 00:09:36,280
+Une exposition.
+
+180
+00:09:36,280 --> 00:09:39,280
+Et est-ce que vous avez parlé?
+
+181
+00:09:39,280 --> 00:09:42,280
+C'était quoi?
+
+182
+00:09:42,280 --> 00:09:45,280
+Alors, ça fait un moment qu'on travaille ensemble avec le CAT et puis qu'on développe aussi toutes ces nouvelles technologies.
+
+183
+00:09:45,280 --> 00:09:48,280
+Alors, ça fait un moment qu'on travaille ensemble avec le CAT et puis qu'on développe aussi toutes ces nouvelles technologies.
+
+184
+00:09:48,280 --> 00:09:51,280
+Avec un galeriste avec qui on travaille, la galerie Spirstra,
+
+185
+00:09:51,280 --> 00:09:54,280
+on a voulu un petit peu, parce que tout le monde bidouille et tout le monde s'essaie.
+
+186
+00:09:54,280 --> 00:09:57,280
+on a voulu un petit peu, parce que tout le monde bidouille et tout le monde s'essaie.
+
+187
+00:09:57,280 --> 00:10:00,280
+C'est un projet qui n'est pas très ancien finalement.
+
+188
+00:10:00,280 --> 00:10:03,280
+C'est un projet qui n'est pas très ancien finalement.
+
+189
+00:10:03,280 --> 00:10:06,280
+Ça fait déjà une petite année, un peu plus d'une année,
+
+190
+00:10:06,280 --> 00:10:09,280
+qu'on avait ce projet d'exposition
+
+191
+00:10:09,280 --> 00:10:12,280
+qu'on essayait de développer avec l'intelligence artificielle et d'autres technologies.
+
+192
+00:10:12,280 --> 00:10:15,280
+qu'on essayait de développer avec l'intelligence artificielle et d'autres technologies.
+
+193
+00:10:15,280 --> 00:10:18,280
+Et puis du coup, on l'a sorti en mars de cette année.
+
+194
+00:10:18,280 --> 00:10:21,280
+Mais il faut savoir que ça faisait déjà pas mal de mois qu'on travaillait.
+
+195
+00:10:21,280 --> 00:10:24,280
+Donc, du coup, on a voulu quand même ancrer, cataloguer
+
+196
+00:10:24,280 --> 00:10:27,280
+Donc, on a voulu quand même ancrer, cataloguer
+
+197
+00:10:27,280 --> 00:10:30,280
+une exposition de ce type, en tout cas en Suisse romande.
+
+198
+00:10:30,280 --> 00:10:33,280
+Et donc, voilà, ça a pris du temps.
+
+199
+00:10:33,280 --> 00:10:36,280
+Et donc, voilà, ça a pris du temps.
+
+200
+00:10:36,280 --> 00:10:39,280
+Il a fallu faire des impressions, faire des œuvres d'art, faire une communication.
+
+201
+00:10:39,280 --> 00:10:42,280
+Et puis l'idée, c'était un petit peu de poser un peu une pierre
+
+202
+00:10:42,280 --> 00:10:45,280
+un peu au milieu du village, comme ça.
+
+203
+00:10:45,280 --> 00:10:48,280
+Et puis construire à partir de là.
+
+204
+00:10:48,280 --> 00:10:51,280
+Mais c'est vrai que ça fait un petit moment qu'on est déjà dans ce projet de nouvelles technologies.
+
+205
+00:10:51,280 --> 00:10:54,280
+Mais ça consiste en quoi?
+
+206
+00:10:54,280 --> 00:10:57,280
+Ça ressemble à quoi?
+
+207
+00:10:57,280 --> 00:11:00,280
+C'est des images de chats?
+
+208
+00:11:00,280 --> 00:11:03,280
+Parce que moi, j'ai vu aucune œuvre.
+
+209
+00:11:03,280 --> 00:11:06,280
+J'ai juste vu la fiche exposition, mais je ne sais même pas de quoi il s'agit.
+
+210
+00:11:06,280 --> 00:11:09,280
+Je te laisse un peu expliquer le thème de l'expo.
+
+211
+00:11:09,280 --> 00:11:12,280
+Ouais, ouais, si tu veux.
+
+212
+00:11:12,280 --> 00:11:15,280
+En fait, c'est « Reality Revolution ».
+
+213
+00:11:15,280 --> 00:11:18,280
+On l'a appelé comme ça parce qu'on voulait faire le tour des réalités
+
+214
+00:11:18,280 --> 00:11:21,280
+avec notre univers.
+
+215
+00:11:21,280 --> 00:11:24,280
+Xavier, c'est vrai que c'est un univers plus science-fiction, vaisseaux spatiaux et tout.
+
+216
+00:11:24,280 --> 00:11:27,280
+Et toi, tu présenteras peut-être mieux ce que de ton travail, Xavier.
+
+217
+00:11:27,280 --> 00:11:30,280
+Je sais que pour moi, c'est marrant le destin des fois.
+
+218
+00:11:30,280 --> 00:11:33,280
+En fait, moi, j'avais déjà un peu l'obsession de faire un truc,
+
+219
+00:11:33,280 --> 00:11:36,280
+de créer des choses
+
+220
+00:11:36,280 --> 00:11:39,280
+qui passent vraiment par l'étape digitale, réelle.
+
+221
+00:11:39,280 --> 00:11:42,280
+Et puis, j'avais commencé à faire des mondes en VR.
+
+222
+00:11:42,280 --> 00:11:45,280
+Après, j'ai voulu faire des avatars en VR.
+
+223
+00:11:45,280 --> 00:11:48,280
+Après, j'ai réussi à les mettre en AR.
+
+224
+00:11:48,280 --> 00:11:51,280
+Il ne manquait plus que la partie physique.
+
+225
+00:11:51,280 --> 00:11:54,280
+C'était un peu un challenge que je m'étais donné.
+
+226
+00:11:54,280 --> 00:11:57,280
+Et en même temps, il y a eu cette occasion de le faire.
+
+227
+00:11:57,280 --> 00:12:00,280
+En plus, avec Xavier, on se partage des tips depuis toujours.
+
+228
+00:12:00,280 --> 00:12:03,280
+Du coup, c'était cool.
+
+229
+00:12:03,280 --> 00:12:06,280
+Ça m'a surmotivé à le faire.
+
+230
+00:12:06,280 --> 00:12:09,280
+J'avais déjà un peu cette idée de faire le tour des réalités.
+
+231
+00:12:09,280 --> 00:12:12,280
+Et puis là, je me suis dit avec l'expo, ça te met une deadline.
+
+232
+00:12:12,280 --> 00:12:15,280
+Tu te dis, il faut que j'arrive à le faire.
+
+233
+00:12:15,280 --> 00:12:18,280
+Du coup, c'est cool.
+
+234
+00:12:18,280 --> 00:12:21,280
+C'est venu comme ça pour moi.
+
+235
+00:12:21,280 --> 00:12:24,280
+On a présenté concrètement des sculptures et des dibbons.
+
+236
+00:12:24,280 --> 00:12:27,280
+Ce sont des prints en aluminium.
+
+237
+00:12:27,280 --> 00:12:30,280
+Des sculptures en béton et métal.
+
+238
+00:12:30,280 --> 00:12:33,280
+Et moi, j'ai présenté des dibbons de chats, des portraits de chats
+
+239
+00:12:33,280 --> 00:12:36,280
+que j'ai design... Je m'excuse, je monte les escaliers en même temps.
+
+240
+00:12:36,280 --> 00:12:39,280
+C'est cool.
+
+241
+00:12:39,280 --> 00:12:42,280
+Que j'ai fait avec des IA.
+
+242
+00:12:42,280 --> 00:12:45,280
+Et puis aussi des sculptures en résine translucide.
+
+243
+00:12:45,280 --> 00:12:48,280
+Ce sont des pièces physiques.
+
+244
+00:12:48,280 --> 00:12:51,280
+Et ce sont des pièces qui sont passées par plusieurs étapes dans divers états.
+
+245
+00:12:54,280 --> 00:12:57,280
+L'idée de cette exposition, c'était de présenter différentes réalités.
+
+246
+00:12:57,280 --> 00:13:00,280
+Une révolution 360 de plusieurs réalités.
+
+247
+00:13:00,280 --> 00:13:03,280
+C'est-à-dire qu'il y avait du concret, c'est-à-dire réalité physique.
+
+248
+00:13:03,280 --> 00:13:06,280
+Il y avait de l'AR et du VR.
+
+249
+00:13:06,280 --> 00:13:09,280
+Et puis, avec certaines œuvres, il y avait le côté immersif.
+
+250
+00:13:09,280 --> 00:13:12,280
+C'était un petit peu l'idée d'ancrer une expo d'un nouveau genre.
+
+251
+00:13:12,280 --> 00:13:15,280
+En tout cas, dans un domaine un peu contemporain.
+
+252
+00:13:15,280 --> 00:13:18,280
+En tout cas, en Suisse romande.
+
+253
+00:13:18,280 --> 00:13:21,280
+C'est marrant que de plus en plus, je reçois des gens qui viennent de Suisse
+
+254
+00:13:21,280 --> 00:13:24,280
+ou à côté des environs de Suisse.
+
+255
+00:13:24,280 --> 00:13:27,280
+Je ne sais pas ce qui se passe, mais ça a l'air d'être ultra...
+
+256
+00:13:27,280 --> 00:13:30,280
+Vous êtes ultra productif dans cette région.
+
+257
+00:13:30,280 --> 00:13:33,280
+Oui, c'est vrai.
+
+258
+00:13:33,280 --> 00:13:36,280
+J'ai remarqué.
+
+259
+00:13:36,280 --> 00:13:39,280
+Oui, peut-être.
+
+260
+00:13:39,280 --> 00:13:42,280
+On a fait une émission hier avec les gars de Beyondly.
+
+261
+00:13:42,280 --> 00:13:45,280
+Ils ont fait une conférence à Annecy, qui est pas très loin.
+
+262
+00:13:45,280 --> 00:13:48,280
+D'ailleurs, j'en profite pour dire bienvenue à ceux qui sont là.
+
+263
+00:13:48,280 --> 00:13:51,280
+Salut, Quarle, salut Pangouda.
+
+264
+00:13:51,280 --> 00:13:54,280
+Comment se tient-il ça?
+
+265
+00:13:54,280 --> 00:13:57,280
+Si vous voulez poser des questions ou dire des choses,
+
+266
+00:13:57,280 --> 00:14:00,280
+n'hésitez pas à me demander le rôle de speaker.
+
+267
+00:14:00,280 --> 00:14:03,280
+Comme d'hab, je vous le donne.
+
+268
+00:14:03,280 --> 00:14:06,280
+C'est ça, en fait.
+
+269
+00:14:06,280 --> 00:14:09,280
+Alors, du coup...
+
+270
+00:14:09,280 --> 00:14:12,280
+Ah oui, c'est ça.
+
+271
+00:14:12,280 --> 00:14:15,280
+Denis, j'ai regardé un petit peu ce que tu faisais.
+
+272
+00:14:15,280 --> 00:14:18,280
+J'ai pas l'impression que tu sois dans...
+
+273
+00:14:18,280 --> 00:14:21,280
+Peut-être que j'ai mal regardé.
+
+274
+00:14:21,280 --> 00:14:24,280
+J'ai pas l'impression que tu sois dans la réalité augmentée ou dans la réalité virtuelle.
+
+275
+00:14:24,280 --> 00:14:27,280
+Est-ce que j'ai juste...
+
+276
+00:14:28,280 --> 00:14:31,280
+J'ai pas l'impression que tu sois dans les micros non plus.
+
+277
+00:14:31,280 --> 00:14:34,280
+Ou alors, est-ce que c'est moi qui entends pas?
+
+278
+00:14:34,280 --> 00:14:37,280
+Ouais, alors moi, je l'entends pas non plus.
+
+279
+00:14:37,280 --> 00:14:40,280
+Ah, ok.
+
+280
+00:14:40,280 --> 00:14:43,280
+Bon.
+
+281
+00:14:43,280 --> 00:14:46,280
+Ouais, parce que j'ai...
+
+282
+00:14:46,280 --> 00:14:49,280
+Ah ouais, c'est bizarre.
+
+283
+00:14:49,280 --> 00:14:52,280
+Est-ce qu'il y a des gens qui entendent Denis?
+
+284
+00:14:52,280 --> 00:14:55,280
+Mais si on est deux à pas l'entendre...
+
+285
+00:14:56,280 --> 00:14:59,280
+Bon.
+
+286
+00:14:59,280 --> 00:15:02,280
+Ah, il s'est déconnecté.
+
+287
+00:15:02,280 --> 00:15:05,280
+On va continuer à faire de la pub pour notre expo alors pendant ce temps.
+
+288
+00:15:05,280 --> 00:15:08,280
+Mais non, moi, je voulais juste dire qu'on s'est éclaté.
+
+289
+00:15:08,280 --> 00:15:11,280
+Avec Xavier, on s'est vraiment éclaté à faire des pièces cool
+
+290
+00:15:11,280 --> 00:15:14,280
+où il y a soit un effet en réalité augmentée,
+
+291
+00:15:14,280 --> 00:15:17,280
+soit c'est des choses qui ont été construites en VR
+
+292
+00:15:17,280 --> 00:15:20,280
+ou alors que tu peux aller voir en VR.
+
+293
+00:15:20,280 --> 00:15:23,280
+Mais dans toutes nos pièces qu'on a présentées, on a voulu créer cet effet-là.
+
+294
+00:15:24,280 --> 00:15:27,280
+Et on a eu des bons retours et tout.
+
+295
+00:15:27,280 --> 00:15:30,280
+Donc maintenant, je suis assez confiant pour dire que c'est une expo qui est vraiment cool.
+
+296
+00:15:30,280 --> 00:15:33,280
+Et les pièces, vous pouvez encore les voir à la galerie si vous voulez.
+
+297
+00:15:33,280 --> 00:15:36,280
+Ah, c'est encore d'actualité?
+
+298
+00:15:36,280 --> 00:15:39,280
+Non, alors, c'est pas tout à fait d'actualité.
+
+299
+00:15:39,280 --> 00:15:42,280
+C'est vrai qu'on a un espace surspatial où on peut aller visiter les pièces,
+
+300
+00:15:42,280 --> 00:15:45,280
+une galerie virtuelle qui a été faite pour l'occasion.
+
+301
+00:15:45,280 --> 00:15:48,280
+Les pièces certaines sont chez des collectionneurs,
+
+302
+00:15:48,280 --> 00:15:51,280
+d'autres sont encore chez le galeriste.
+
+303
+00:15:52,280 --> 00:15:55,280
+C'est-à-dire qu'on a une relation avec la galerie,
+
+304
+00:15:55,280 --> 00:15:58,280
+on n'est pas obligé de récupérer tout de suite les pièces.
+
+305
+00:15:58,280 --> 00:16:01,280
+C'est-à-dire que là, typiquement, ce vendredi-là,
+
+306
+00:16:01,280 --> 00:16:04,280
+ils réorganisent une exposition collective avec d'autres artistes de la galerie.
+
+307
+00:16:04,280 --> 00:16:07,280
+Et notamment, il y aura certaines de nos pièces d'expos précédentes
+
+308
+00:16:07,280 --> 00:16:10,280
+ou pour le cadre de la dernière expo en cours qu'on a faite.
+
+309
+00:16:10,280 --> 00:16:13,280
+Donc voilà, la galerie s'amuse aussi à ressortir un peu des travaux plus ou moins récents.
+
+310
+00:16:13,280 --> 00:16:16,280
+Et ça le donne toujours un peu de plaisir.
+
+311
+00:16:16,280 --> 00:16:19,280
+Et on a aussi des expositions.
+
+312
+00:16:19,280 --> 00:16:22,280
+Et ça donne toujours des actualités.
+
+313
+00:16:22,280 --> 00:16:25,280
+Donc oui, les pièces sont toujours disponibles en galerie,
+
+314
+00:16:25,280 --> 00:16:28,280
+dans le stock, pour celles qui n'ont pas été acquises par les collectionneurs.
+
+315
+00:16:28,280 --> 00:16:31,280
+OK.
+
+316
+00:16:31,280 --> 00:16:34,280
+Et la galerie qui vous expose, c'est une galerie qui fait...
+
+317
+00:16:34,280 --> 00:16:37,280
+C'est quoi?
+
+318
+00:16:37,280 --> 00:16:40,280
+C'est déjà une galerie qui fait dans le genre de...
+
+319
+00:16:40,280 --> 00:16:43,280
+Je n'ai pas de référence.
+
+320
+00:16:43,280 --> 00:16:46,280
+La seule référence que j'ai dans ce style-là,
+
+321
+00:16:46,280 --> 00:16:49,280
+c'est une galerie qui s'appelle Le Centre de la Fille à Morel.
+
+322
+00:16:49,280 --> 00:16:52,280
+Oui, alors c'est plutôt post-graffiti contemporain.
+
+323
+00:16:52,280 --> 00:16:55,280
+OK.
+
+324
+00:16:55,280 --> 00:16:58,280
+Pour ne pas dire street art, mais c'est une galerie
+
+325
+00:16:58,280 --> 00:17:01,280
+qui expose essentiellement des pionniers du graffiti
+
+326
+00:17:01,280 --> 00:17:04,280
+qui chacun ont, on va dire, évolué
+
+327
+00:17:04,280 --> 00:17:07,280
+ou peut-être développé un travail d'atelier
+
+328
+00:17:07,280 --> 00:17:10,280
+un peu plus personnel.
+
+329
+00:17:10,280 --> 00:17:13,280
+Donc toujours avec des veines un peu artistiques
+
+330
+00:17:14,280 --> 00:17:17,280
+du graffiti ou du street art.
+
+331
+00:17:17,280 --> 00:17:20,280
+Et puis surtout le médium qui est l'aérosol.
+
+332
+00:17:20,280 --> 00:17:23,280
+Et donc, il y a pas mal d'artistes comme ça.
+
+333
+00:17:23,280 --> 00:17:26,280
+Il y en a des... Moi qui viens du graffiti aussi.
+
+334
+00:17:26,280 --> 00:17:29,280
+Mais vraiment pas de la première volée,
+
+335
+00:17:29,280 --> 00:17:32,280
+mais de la deux, troisième.
+
+336
+00:17:32,280 --> 00:17:35,280
+Donc je suis passé par là aussi.
+
+337
+00:17:35,280 --> 00:17:38,280
+Puis après, je me suis plutôt exprimé en sculpture.
+
+338
+00:17:38,280 --> 00:17:41,280
+Le 4, toi aussi, tu avais touché un petit peu le graph.
+
+339
+00:17:41,280 --> 00:17:44,280
+Et puis il y a aussi d'autres artistes, d'autres photographes
+
+340
+00:17:44,280 --> 00:17:47,280
+plus contemporains.
+
+341
+00:17:47,280 --> 00:17:50,280
+Donc ça touche plutôt...
+
+342
+00:17:50,280 --> 00:17:53,280
+On va dire qu'il y a une veine un petit peu urbaine quand même.
+
+343
+00:17:53,280 --> 00:17:56,280
+OK.
+
+344
+00:17:56,280 --> 00:17:59,280
+Il y a Denis qui est de retour parmi nous.
+
+345
+00:17:59,280 --> 00:18:02,280
+Est-ce que Denis tu...
+
+346
+00:18:02,280 --> 00:18:05,280
+Alors je ne sais pas si on m'entend là. Oui, là on t'entend.
+
+347
+00:18:05,280 --> 00:18:08,280
+Fantastique. J'ai essayé de switcher sur le PC, mais ça n'a pas été une réussite.
+
+348
+00:18:08,280 --> 00:18:11,280
+Alors très bonne expo de Le 4 et Xavier, effectivement,
+
+349
+00:18:11,280 --> 00:18:14,280
+que j'ai eu l'occasion de voir
+
+350
+00:18:14,280 --> 00:18:17,280
+puisque je passais à Genève à ce moment-là.
+
+351
+00:18:17,280 --> 00:18:20,280
+Et excellente expo.
+
+352
+00:18:20,280 --> 00:18:23,280
+Et c'est bien parce que ça renouvelle un peu les codes de l'exposition,
+
+353
+00:18:23,280 --> 00:18:26,280
+de l'expérience, de ce que c'est que voir une œuvre d'art.
+
+354
+00:18:26,280 --> 00:18:29,280
+Alors là, c'est dans le contexte d'une galerie,
+
+355
+00:18:29,280 --> 00:18:32,280
+donc ça reste assez standard.
+
+356
+00:18:32,280 --> 00:18:35,280
+Mais le fait qu'il y ait une extension
+
+357
+00:18:35,280 --> 00:18:38,280
+en réalité augmentée, puis une partie en VR, etc.,
+
+358
+00:18:38,280 --> 00:18:41,280
+ça a redéfini un peu les codes de l'exposition.
+
+359
+00:18:41,280 --> 00:18:44,280
+On trouve ça de plus en plus, c'est un sujet.
+
+360
+00:18:44,280 --> 00:18:47,280
+Mais en tous les cas, c'était assez réussi.
+
+361
+00:18:47,280 --> 00:18:50,280
+Oui, c'est sûr.
+
+362
+00:18:50,280 --> 00:18:53,280
+Nous, quand on en a parlé aux galeristes, justement,
+
+363
+00:18:53,280 --> 00:18:56,280
+il nous a soutenus dès le départ. Après, ça a pris un peu de temps.
+
+364
+00:18:56,280 --> 00:18:59,280
+Forcément, il y avait déjà d'autres expositions programmées.
+
+365
+00:18:59,280 --> 00:19:02,280
+Mais en effet, l'idée, c'était un petit peu d'ancrer
+
+366
+00:19:02,280 --> 00:19:05,280
+et de positionner cet événement comme une première exposition.
+
+367
+00:19:05,280 --> 00:19:08,280
+Denis, j'ai demandé de venir quand je t'en ai parlé,
+
+368
+00:19:08,280 --> 00:19:11,280
+justement, Chad, parce que Denis développe aussi
+
+369
+00:19:11,280 --> 00:19:14,280
+un peu moins la réalité augmentée, mais beaucoup la réalité virtuelle.
+
+370
+00:19:14,280 --> 00:19:17,280
+Pas mal de 3D. Donc, je pensais que c'était intéressant
+
+371
+00:19:17,280 --> 00:19:20,280
+qu'il vienne ce soir nous donner son point de vue à ce sujet.
+
+372
+00:19:20,280 --> 00:19:23,280
+C'est vrai qu'on est quatre, et Denis, plus une femme avec une petite fille,
+
+373
+00:19:23,280 --> 00:19:26,280
+en train de développer d'autres projets.
+
+374
+00:19:26,280 --> 00:19:29,280
+Et puis, on essaie un peu de se soutenir.
+
+375
+00:19:30,280 --> 00:19:33,280
+Et puis, si il y a une petite interview, c'est sympa de la faire ensemble.
+
+376
+00:19:33,280 --> 00:19:36,280
+Oui, complètement.
+
+377
+00:19:36,280 --> 00:19:39,280
+Ce n'était pas péjoratif quand je disais,
+
+378
+00:19:39,280 --> 00:19:42,280
+mais tu n'as pas l'air de faire de la 3D.
+
+379
+00:19:42,280 --> 00:19:45,280
+En fait, j'ai fait beaucoup de 3D,
+
+380
+00:19:45,280 --> 00:19:48,280
+beaucoup de choses immersives jusqu'à présent.
+
+381
+00:19:48,280 --> 00:19:51,280
+La réalité augmentée, je suis en train de rentrer dedans petit à petit.
+
+382
+00:19:51,280 --> 00:19:54,280
+Je cherche encore un peu les choses qui sont plus compliquées.
+
+383
+00:19:54,280 --> 00:19:57,280
+Je suis en train de faire des choses plus compliquées.
+
+384
+00:19:57,280 --> 00:20:00,280
+Je cherche encore un peu les axes.
+
+385
+00:20:04,280 --> 00:20:07,280
+Ah, chez moi, ça a coupé.
+
+386
+00:20:10,280 --> 00:20:13,280
+Je vous mets le lien de l'expo sur Twitter,
+
+387
+00:20:13,280 --> 00:20:16,280
+comme ça, si vous voulez. Parce que depuis un PC ou n'importe où,
+
+388
+00:20:16,280 --> 00:20:19,280
+vous pouvez visiter un petit bout. Comme ça, vous verrez les pièces qu'on a faites.
+
+389
+00:20:19,280 --> 00:20:22,280
+Alors, on n'a pas tout expliqué dans la version
+
+390
+00:20:22,280 --> 00:20:25,280
+où j'ai envoyé le lien.
+
+391
+00:20:26,280 --> 00:20:30,280
+Il n'y a pas tout, mais vous voyez quand même un peu les pièces de Xavier et d'Emman.
+
+392
+00:20:30,280 --> 00:20:33,280
+Vous pouvez vous balader dans une sorte de petite galerie.
+
+393
+00:20:35,280 --> 00:20:38,280
+Il y a Denis qui est de retour.
+
+394
+00:20:38,280 --> 00:20:41,280
+Oui, c'est la veille et tout ça. C'est catastrophique ce soir.
+
+395
+00:20:43,280 --> 00:20:48,280
+Donc, oui, beaucoup de 3D, des expériences en immersion.
+
+396
+00:20:48,280 --> 00:20:54,280
+Notamment, j'ai réalisé une pièce dans un Métaverse
+
+397
+00:20:54,280 --> 00:20:57,280
+que tout le monde connaît bien, The Sandbox.
+
+398
+00:20:57,280 --> 00:21:02,280
+Une œuvre immersive, une installation artistique dans le Métaverse.
+
+399
+00:21:02,280 --> 00:21:07,280
+C'était une des premières de ce type-là, ou la première peut-être.
+
+400
+00:21:07,280 --> 00:21:10,280
+Auparavant, j'ai fait une expo aussi qui mélangeait.
+
+401
+00:21:10,280 --> 00:21:14,280
+Une expo qui avait lieu dans une galerie, la Galerie Schwab à Paris.
+
+402
+00:21:14,280 --> 00:21:17,280
+Et en même temps, dans le Métaverse,
+
+403
+00:21:19,280 --> 00:21:21,280
+avec un vernissage en simultané.
+
+404
+00:21:21,280 --> 00:21:23,280
+Ces sujets m'intéressent depuis longtemps.
+
+405
+00:21:23,280 --> 00:21:25,280
+Je fais beaucoup de 3D.
+
+406
+00:21:25,280 --> 00:21:29,280
+En vérité, en ce moment, quasiment tout ce que je fais vient de la 3D.
+
+407
+00:21:31,280 --> 00:21:37,280
+Et puis, avec une partie générative, une partie un peu plus visuelle.
+
+408
+00:21:37,280 --> 00:21:38,280
+Moi, je viens de la peinture au départ.
+
+409
+00:21:38,280 --> 00:21:42,280
+J'ai une formation classique, j'ai fait les beaux-arts, des choses comme ça.
+
+410
+00:21:42,280 --> 00:21:49,280
+Et je m'intéresse beaucoup à ce qu'on peut apporter de nouveau
+
+411
+00:21:49,280 --> 00:21:53,280
+avec effectivement tous ces nouveaux environnements immersifs.
+
+412
+00:21:53,280 --> 00:22:02,280
+La 3D, la réalité augmentée, l'informatique spatiale, comme le définit Apple.
+
+413
+00:22:02,280 --> 00:22:08,280
+En fait, l'idée d'avoir des œuvres virtuelles dans un monde réel,
+
+414
+00:22:08,280 --> 00:22:12,280
+ça, je pense que c'est un gros sujet du 21e siècle.
+
+415
+00:22:12,280 --> 00:22:13,280
+Et je pense que c'est un gros tournant.
+
+416
+00:22:13,280 --> 00:22:17,280
+C'est-à-dire qu'on a résolu avec la partie blockchain
+
+417
+00:22:17,280 --> 00:22:20,280
+la façon dont on pouvait authentifier des œuvres numériques.
+
+418
+00:22:20,280 --> 00:22:25,280
+Mais là, on est en train de voir la façon dont on peut faire exister
+
+419
+00:22:25,280 --> 00:22:27,280
+des œuvres numériques dans le monde réel.
+
+420
+00:22:27,280 --> 00:22:30,280
+Et c'est vraiment ce qui est en train de changer en ce moment.
+
+421
+00:22:30,280 --> 00:22:33,280
+Je trouve ça assez passionnant comme sujet.
+
+422
+00:22:34,280 --> 00:22:35,280
+Oui, carrément.
+
+423
+00:22:37,280 --> 00:22:40,280
+D'ailleurs, c'est marrant parce qu'on parle d'immersion.
+
+424
+00:22:40,280 --> 00:22:43,280
+Mais justement, on avait fait une émission sur ce terme-là à un moment donné.
+
+425
+00:22:43,280 --> 00:22:46,280
+Et il y a un truc qui m'a frappé ces dernières années.
+
+426
+00:22:46,280 --> 00:22:51,280
+C'est qu'en fait, ça ne se limite pas qu'à la réalité augmentée
+
+427
+00:22:51,280 --> 00:22:53,280
+et la réalité virtuelle, l'immersion.
+
+428
+00:22:53,280 --> 00:22:55,280
+Je ne sais pas si vous avez remarqué, mais de plus en plus,
+
+429
+00:22:55,280 --> 00:22:59,280
+on voit des espaces qui sont aménagés pour l'immersion.
+
+430
+00:22:59,280 --> 00:23:04,280
+Par exemple, que ce soit des espèces de…
+
+431
+00:23:04,280 --> 00:23:06,280
+Qu'on appelle ça là?
+
+432
+00:23:06,280 --> 00:23:09,280
+Des dômes, des géodes ou des machins, des trucs…
+
+433
+00:23:09,280 --> 00:23:11,280
+Ou alors des pièces même rectangulaires,
+
+434
+00:23:11,280 --> 00:23:14,280
+mais qui sont avec des projecteurs de partout, ou des LED, etc.
+
+435
+00:23:14,280 --> 00:23:18,280
+Il y a vraiment une tendance vers l'immersion.
+
+436
+00:23:18,280 --> 00:23:20,280
+Ah oui, comme le mapping.
+
+437
+00:23:20,280 --> 00:23:22,280
+Oui, par exemple aussi.
+
+438
+00:23:23,280 --> 00:23:26,280
+En fait, il y a des nouveaux supports de création.
+
+439
+00:23:26,280 --> 00:23:27,280
+C'est vraiment ce qui est en train de se passer.
+
+440
+00:23:27,280 --> 00:23:29,280
+C'est-à-dire que l'art numérique est en train de sortir un petit peu
+
+441
+00:23:29,280 --> 00:23:32,280
+des ordinateurs et des téléphones pour aller dans l'espace public,
+
+442
+00:23:32,280 --> 00:23:34,280
+pour aller dans des lieux d'exposition.
+
+443
+00:23:34,280 --> 00:23:38,280
+On voit même le MoMA, ils ont acheté une œuvre de Réfi Canadol,
+
+444
+00:23:38,280 --> 00:23:40,280
+qui est la superstar de l'art numérique en ce moment.
+
+445
+00:23:41,280 --> 00:23:44,280
+C'est une acquisition, c'est un achat permanent.
+
+446
+00:23:44,280 --> 00:23:47,280
+Après avoir… L'œuvre a été exposée pendant des mois,
+
+447
+00:23:49,280 --> 00:23:52,280
+et le MoMA, le Musée d'art moderne de New York, a fini par l'acheter.
+
+448
+00:23:53,280 --> 00:23:56,280
+C'est intéressant de voir que l'art numérique est en train de sortir
+
+449
+00:23:56,280 --> 00:24:00,280
+de l'ordinateur et des téléphones pour aller dans l'espace public.
+
+450
+00:24:00,280 --> 00:24:03,280
+Et effectivement, il y a ces lieux immersifs, il y a des sphères,
+
+451
+00:24:03,280 --> 00:24:05,280
+il y a des tas de supports.
+
+452
+00:24:05,280 --> 00:24:08,280
+En fait, on vit aussi une époque où il y a une multiplication d'écrans
+
+453
+00:24:08,280 --> 00:24:10,280
+et de supports digitaux partout.
+
+454
+00:24:10,280 --> 00:24:13,280
+Mais par-delà les supports digitaux, il y a aussi le fait d'avoir
+
+455
+00:24:13,280 --> 00:24:16,280
+cette idée de la réalité mixte, c'est-à-dire d'avoir des éléments virtuels
+
+456
+00:24:16,280 --> 00:24:18,280
+dans notre monde réel et d'avoir un échange entre les deux.
+
+457
+00:24:19,280 --> 00:24:21,280
+Et là, on est vraiment en train de vivre un tournant,
+
+458
+00:24:21,280 --> 00:24:24,280
+c'est-à-dire qu'il y a un vrai saut technologique.
+
+459
+00:24:26,280 --> 00:24:29,280
+Je ne vais pas perdre la connexion cette fois-ci.
+
+460
+00:24:30,280 --> 00:24:33,280
+L'arrivée… Ce que nous raconte Apple avec son nouveau masque,
+
+461
+00:24:33,280 --> 00:24:37,280
+c'est quand même les premiers pas dans un autre monde
+
+462
+00:24:37,280 --> 00:24:40,280
+ou dans une autre façon d'envisager l'informatique.
+
+463
+00:24:40,280 --> 00:24:44,280
+Et donc, l'art qu'on développe, qui est lié au digital,
+
+464
+00:24:45,280 --> 00:24:47,280
+sort enfin de sa coquille, en quelque sorte.
+
+465
+00:24:48,280 --> 00:24:49,280
+C'est assez étonnant.
+
+466
+00:24:50,280 --> 00:24:56,280
+Je me répète, mais on a vu avec la NFT l'émergence de toute une activité
+
+467
+00:24:56,280 --> 00:24:58,280
+économique, toujours.
+
+468
+00:24:58,280 --> 00:25:02,280
+La façon dont on valorise des pièces digitales, on sait très bien.
+
+469
+00:25:03,280 --> 00:25:06,280
+Il y a eu tout ce qu'on sait en bon et en mauvais.
+
+470
+00:25:06,280 --> 00:25:09,280
+Mais là, ce qu'on est en train de voir, c'est un nouveau tournant
+
+471
+00:25:09,280 --> 00:25:15,280
+avec cette idée que des pièces digitales viennent occuper
+
+472
+00:25:15,280 --> 00:25:16,280
+notre espace physique.
+
+473
+00:25:18,280 --> 00:25:20,280
+C'est le Space Invader nouvelle génération.
+
+474
+00:25:22,280 --> 00:25:25,280
+La grande idée de Space Invader, l'artiste, c'était d'occuper l'espace,
+
+475
+00:25:25,280 --> 00:25:26,280
+d'envahir l'espace.
+
+476
+00:25:26,280 --> 00:25:28,280
+C'est vraiment ce que ça veut dire au sens propre.
+
+477
+00:25:29,280 --> 00:25:33,280
+Et là, les artistes numériques, du numérique, vont pouvoir occuper
+
+478
+00:25:33,280 --> 00:25:34,280
+l'espace réel.
+
+479
+00:25:34,280 --> 00:25:36,280
+Et ça, c'est vraiment nouveau.
+
+480
+00:25:37,280 --> 00:25:40,280
+C'est marrant que tu me dises ça, parce que quand j'avais soumis,
+
+481
+00:25:40,280 --> 00:25:42,280
+à un moment donné, on a fait une émission avec Artemort.
+
+482
+00:25:43,280 --> 00:25:45,280
+Je voulais lui proposer aussi le thème de l'immersion.
+
+483
+00:25:46,280 --> 00:25:49,280
+Et je lui avais dit justement, on a toutes sortes d'expériences
+
+484
+00:25:49,280 --> 00:25:51,280
+différentes et j'ai l'impression vraiment qu'on rentre dans une ère
+
+485
+00:25:51,280 --> 00:25:52,280
+de l'expérience.
+
+486
+00:25:52,280 --> 00:25:54,280
+Mais c'était un peu vague pour moi.
+
+487
+00:25:55,280 --> 00:26:00,280
+Je disais, dans cette époque où on est tous à distance, etc.
+
+488
+00:26:00,280 --> 00:26:03,280
+Et puis, justement, il m'a fait la même réflexion que toi.
+
+489
+00:26:03,280 --> 00:26:08,280
+Il m'a dit, ce ne serait pas plutôt la révolution des supports?
+
+490
+00:26:08,280 --> 00:26:09,280
+C'est intéressant.
+
+491
+00:26:10,280 --> 00:26:11,280
+Donc, du coup, on a parlé des supports.
+
+492
+00:26:12,280 --> 00:26:15,280
+Effectivement, l'invasion de l'espace public, etc.
+
+493
+00:26:17,280 --> 00:26:22,280
+C'est ça, le Covid a déclenché une activité débordante.
+
+494
+00:26:22,280 --> 00:26:26,280
+Mais c'était chacun chez soi, devant son PC, devant son téléphone,
+
+495
+00:26:26,280 --> 00:26:27,280
+devant son Mac.
+
+496
+00:26:28,280 --> 00:26:29,280
+Et ça a été une petite révolution.
+
+497
+00:26:29,280 --> 00:26:31,280
+On a appris à travailler chez soi, etc.
+
+498
+00:26:32,280 --> 00:26:37,280
+Mais là, l'informatique spatiale, la réalité mixte, la réalité augmentée,
+
+499
+00:26:37,280 --> 00:26:42,280
+quel que soit le nom que ça porte, en tous cas, c'est une nouvelle révolution
+
+500
+00:26:42,280 --> 00:26:46,280
+où on va vivre des expériences digitales en dehors de chez soi.
+
+501
+00:26:47,280 --> 00:26:51,280
+Et oui, il y a quelque chose qui est en train de se passer d'excitant.
+
+502
+00:26:52,280 --> 00:26:55,280
+Et j'espère qu'il n'y aura pas une nouvelle catastrophe.
+
+503
+00:26:56,280 --> 00:27:00,280
+L'époque est suffisamment chargée, je trouve, en mesure de faire
+
+504
+00:27:00,280 --> 00:27:01,280
+des mauvaises nouvelles.
+
+505
+00:27:01,280 --> 00:27:05,280
+Mais le fait de pouvoir sortir, de vivre des expériences,
+
+506
+00:27:05,280 --> 00:27:10,280
+de vivre des immersions, de partager, d'échanger des informations,
+
+507
+00:27:10,280 --> 00:27:11,280
+des œuvres, etc.
+
+508
+00:27:11,280 --> 00:27:14,280
+Ou d'installer des œuvres dans l'espace public, des œuvres numériques
+
+509
+00:27:14,280 --> 00:27:16,280
+dans l'espace public, c'est quand même assez excitant.
+
+510
+00:27:18,280 --> 00:27:19,280
+Oui, c'est sûr.
+
+511
+00:27:19,280 --> 00:27:22,280
+Moi, je confirme ça, comme Cat.
+
+512
+00:27:22,280 --> 00:27:24,280
+Moi, je viens du graffiti.
+
+513
+00:27:24,280 --> 00:27:29,280
+Donc, d'office, j'ai toujours un peu, je me suis toujours un peu approprié
+
+514
+00:27:29,280 --> 00:27:32,280
+l'espace urbain.
+
+515
+00:27:32,280 --> 00:27:39,280
+Et d'autant plus que maintenant, on peut se réapproprier cet espace,
+
+516
+00:27:39,280 --> 00:27:41,280
+mais en travaillant en amont.
+
+517
+00:27:41,280 --> 00:27:44,280
+C'est-à-dire qu'on peut leur appliquer des textures,
+
+518
+00:27:44,280 --> 00:27:48,280
+on peut mettre un slogan, on peut positionner, géolocaliser.
+
+519
+00:27:49,280 --> 00:27:52,280
+Moi, je pense que ça va donner une nouvelle génération,
+
+520
+00:27:52,280 --> 00:27:55,280
+une nouvelle dimension, peut-être pas au graffiti,
+
+521
+00:27:55,280 --> 00:27:57,280
+mais en tout cas à l'art.
+
+522
+00:27:57,280 --> 00:28:00,280
+Autant qu'on le voit en musée ou en galerie,
+
+523
+00:28:00,280 --> 00:28:03,280
+c'est vrai que c'est prendre un espace,
+
+524
+00:28:03,280 --> 00:28:06,280
+c'est prendre la planète entière même, totalement.
+
+525
+00:28:06,280 --> 00:28:08,280
+Vous-même, vous n'êtes pas...
+
+526
+00:28:08,280 --> 00:28:12,280
+Je prends la parole pour ne pas oublier ce que je voulais dire,
+
+527
+00:28:12,280 --> 00:28:14,280
+parce que vous avez dit des trucs super intéressants.
+
+528
+00:28:14,280 --> 00:28:18,280
+Et je partage votre avis et je voulais même l'appuyer sur certains points.
+
+529
+00:28:18,280 --> 00:28:21,280
+Mais déjà, la VR et la R, moi, j'en suis convaincu.
+
+530
+00:28:21,280 --> 00:28:23,280
+Je ne fais plus partie des gens à convaincre,
+
+531
+00:28:23,280 --> 00:28:25,280
+parce que je sais que ça marche super bien.
+
+532
+00:28:25,280 --> 00:28:27,280
+J'expérimente avec la citadelle.
+
+533
+00:28:27,280 --> 00:28:32,280
+J'ai pu donner des cours en VR, ça marche comme si c'était en présentiel.
+
+534
+00:28:32,280 --> 00:28:34,280
+Donc, tout ça, j'y crois.
+
+535
+00:28:34,280 --> 00:28:36,280
+Je voulais rajouter, si vous dites où en vrai,
+
+536
+00:28:36,280 --> 00:28:38,280
+parce que vous avez parlé de plein de trucs,
+
+537
+00:28:38,280 --> 00:28:40,280
+et ça m'a fait penser à plein de trucs.
+
+538
+00:28:40,280 --> 00:28:42,280
+Par exemple, on parlait d'immersion,
+
+539
+00:28:42,280 --> 00:28:44,280
+mais là, en ce moment, il y a une petite révolution aussi,
+
+540
+00:28:44,280 --> 00:28:45,280
+c'est les scans.
+
+541
+00:28:45,280 --> 00:28:47,280
+Les scans 3D, on en fait depuis longtemps,
+
+542
+00:28:47,280 --> 00:28:50,280
+mais maintenant, on en fait vraiment depuis n'importe quel téléphone,
+
+543
+00:28:50,280 --> 00:28:53,280
+super facilement, n'importe quel téléphone récent.
+
+544
+00:28:53,280 --> 00:28:57,280
+Mais tu vois, ça, ça permet aussi de figer des moments en 3D,
+
+545
+00:28:57,280 --> 00:28:59,280
+et bientôt, on va le faire en 4D.
+
+546
+00:28:59,280 --> 00:29:01,280
+Du coup, moi, je suis persuadé, comme vous,
+
+547
+00:29:01,280 --> 00:29:03,280
+que les supports vont évoluer rapidement,
+
+548
+00:29:03,280 --> 00:29:06,280
+et je suis persuadé qu'on va passer à des trucs immersifs.
+
+549
+00:29:06,280 --> 00:29:09,280
+Donc, même les films, tout ça, à terme, ça sera différent.
+
+550
+00:29:09,280 --> 00:29:12,280
+Donc, je pense qu'on pourra revivre des souvenirs,
+
+551
+00:29:12,280 --> 00:29:15,280
+qu'on ait des scans, qu'on ait des capturés à un moment,
+
+552
+00:29:15,280 --> 00:29:18,280
+puis tu les vivras en VR complètement immergés si tu as envie,
+
+553
+00:29:18,280 --> 00:29:20,280
+ou alors sur un petit nuage dans ta cuisine,
+
+554
+00:29:20,280 --> 00:29:21,280
+pendant que tu cuisines.
+
+555
+00:29:21,280 --> 00:29:22,280
+C'est sûr, c'est sûr.
+
+556
+00:29:22,280 --> 00:29:24,280
+La nouvelle génération...
+
+557
+00:29:24,280 --> 00:29:26,280
+Excuse-moi, Akash, je te rejoins juste.
+
+558
+00:29:26,280 --> 00:29:29,280
+Mais la nouvelle génération des sites web vont être...
+
+559
+00:29:29,280 --> 00:29:31,280
+En fait, tu ne vas pas consulter un site web,
+
+560
+00:29:31,280 --> 00:29:33,280
+tu seras à l'intérieur du site web.
+
+561
+00:29:33,280 --> 00:29:34,280
+Oui, oui, certainement.
+
+562
+00:29:34,280 --> 00:29:36,280
+Et je voulais juste rajouter un dernier truc,
+
+563
+00:29:36,280 --> 00:29:39,280
+c'est qu'il y a des idées qu'il ne faut pas opposer,
+
+564
+00:29:39,280 --> 00:29:41,280
+et je trouve qu'il ne faut pas opposer l'immersion
+
+565
+00:29:41,280 --> 00:29:43,280
+qui est stimulée de la technologie.
+
+566
+00:29:43,280 --> 00:29:46,280
+Donc, par exemple, quand tu as un casque VR,
+
+567
+00:29:46,280 --> 00:29:49,280
+tu as des lentilles qui te projettent des images.
+
+568
+00:29:49,280 --> 00:29:50,280
+Quand tu es au cinéma,
+
+569
+00:29:50,280 --> 00:29:53,280
+peu importe l'outil technologique utilisé,
+
+570
+00:29:53,280 --> 00:29:55,280
+ça va te permettre plus de stimuli.
+
+571
+00:29:55,280 --> 00:29:57,280
+Un livre, ça va te permettre...
+
+572
+00:29:57,280 --> 00:29:59,280
+Pour ça, je dis l'immersion,
+
+573
+00:29:59,280 --> 00:30:01,280
+c'est un terme qui peut être mal compris,
+
+574
+00:30:01,280 --> 00:30:02,280
+parce que quand tu lis un livre,
+
+575
+00:30:02,280 --> 00:30:04,280
+tu es immergé, un super livre.
+
+576
+00:30:04,280 --> 00:30:06,280
+Et pourtant, visuellement,
+
+577
+00:30:06,280 --> 00:30:09,280
+tu n'as que des caractères qui sont imprimés sur un bout de papier,
+
+578
+00:30:09,280 --> 00:30:11,280
+donc tu n'as pas énormément de moyens qui sont déployés
+
+579
+00:30:11,280 --> 00:30:13,280
+pour immerger ton cerveau.
+
+580
+00:30:13,280 --> 00:30:15,280
+Mais ton cerveau fait le reste.
+
+581
+00:30:15,280 --> 00:30:17,280
+Si l'histoire est bonne, tu es complètement immergé.
+
+582
+00:30:17,280 --> 00:30:19,280
+Et quand tu regardes un film,
+
+583
+00:30:19,280 --> 00:30:20,280
+tu as un peu de stimuli en plus,
+
+584
+00:30:20,280 --> 00:30:21,280
+parce que tu as du son,
+
+585
+00:30:21,280 --> 00:30:22,280
+tu as des images qui bougent et tout.
+
+586
+00:30:22,280 --> 00:30:23,280
+Mais c'est pareil,
+
+587
+00:30:23,280 --> 00:30:25,280
+si il y a un super film comme Shining ou Seven,
+
+588
+00:30:25,280 --> 00:30:26,280
+je n'en sais rien,
+
+589
+00:30:26,280 --> 00:30:28,280
+tu es dedans et tu oublies que tu es dans ton salon
+
+590
+00:30:28,280 --> 00:30:30,280
+parce que l'histoire est vachement prenante.
+
+591
+00:30:30,280 --> 00:30:35,280
+Du coup, il ne faut pas opposer les concepts d'immersion technologique
+
+592
+00:30:35,280 --> 00:30:37,280
+et ce que peut faire le cerveau,
+
+593
+00:30:37,280 --> 00:30:38,280
+parce que ce sont des choses qui s'additionnent.
+
+594
+00:30:38,280 --> 00:30:40,280
+C'est-à-dire qu'un super réalisateur,
+
+595
+00:30:40,280 --> 00:30:42,280
+il fera peut-être des trucs encore plus fous en 4D,
+
+596
+00:30:42,280 --> 00:30:44,280
+il pourra encore plus développer son univers.
+
+597
+00:30:44,280 --> 00:30:46,280
+Donc, moi, je pense que ce sont des trucs
+
+598
+00:30:46,280 --> 00:30:48,280
+qui se multiplient et pas des trucs qui s'opposent.
+
+599
+00:30:48,280 --> 00:30:51,280
+Et du coup, ça va être fou l'avenir.
+
+600
+00:30:52,280 --> 00:30:54,280
+Totalement fou, oui.
+
+601
+00:30:54,280 --> 00:30:57,280
+J'ai envie de rebondir sur l'histoire du site web,
+
+602
+00:30:57,280 --> 00:30:59,280
+parce que c'est une conversation qu'on a eue d'ailleurs il y a longtemps,
+
+603
+00:30:59,280 --> 00:31:00,280
+je pense un an,
+
+604
+00:31:00,280 --> 00:31:01,280
+quand on parlait de Métaverse.
+
+605
+00:31:01,280 --> 00:31:03,280
+Et ça faisait partie des choses
+
+606
+00:31:03,280 --> 00:31:05,280
+qu'on se disait « ouais, il y aura peut-être ça et tout ».
+
+607
+00:31:05,280 --> 00:31:07,280
+Et en fait, ça, j'ai changé d'avis sur ce truc-là.
+
+608
+00:31:07,280 --> 00:31:10,280
+Je pense qu'il n'y aura pas ça.
+
+609
+00:31:10,280 --> 00:31:13,280
+Je ne pense pas qu'il y aura des sites web dans le Métaverse.
+
+610
+00:31:13,280 --> 00:31:16,280
+Je pense même que le concept de site web est en train de disparaître.
+
+611
+00:31:16,280 --> 00:31:20,280
+Oui, justement, de manière explicite, j'ai dit site web,
+
+612
+00:31:20,280 --> 00:31:22,280
+mais ça sera simplement une adresse.
+
+613
+00:31:22,280 --> 00:31:25,280
+Et puis, tu iras chez quelqu'un ou tu iras chez Denis, chez toi,
+
+614
+00:31:25,280 --> 00:31:28,280
+dans ta radio, tu pourras retrouver tous les podcasts.
+
+615
+00:31:28,280 --> 00:31:30,280
+Je ne sais pas, je pense que ça sera agencé autrement.
+
+616
+00:31:30,280 --> 00:31:35,280
+Mais tu iras en fait chercher ton information
+
+617
+00:31:35,280 --> 00:31:39,280
+et tu seras immergé et tu pourras aller voir,
+
+618
+00:31:39,280 --> 00:31:41,280
+visiter les archives, être sur place,
+
+619
+00:31:42,280 --> 00:31:46,280
+visiter les expos.
+
+620
+00:31:46,280 --> 00:31:48,280
+Dans quel genre d'espace?
+
+621
+00:31:48,280 --> 00:31:50,280
+Dans des espaces.
+
+622
+00:31:50,280 --> 00:31:53,280
+C'est la définition même de ce qu'on appelle l'informatique spatiale.
+
+623
+00:31:53,280 --> 00:31:55,280
+C'est créer des espaces avec des contenus.
+
+624
+00:31:55,280 --> 00:31:58,280
+Et c'est, encore une fois, c'est le coup de génie
+
+625
+00:31:58,280 --> 00:32:00,280
+de la façon de présenter les choses.
+
+626
+00:32:00,280 --> 00:32:02,280
+Le Métaverse, c'est compliqué.
+
+627
+00:32:02,280 --> 00:32:06,280
+Le Métaverse, en fait, Facebook a cassé le reste du Métaverse,
+
+628
+00:32:06,280 --> 00:32:08,280
+d'une part en s'emparant du mot,
+
+629
+00:32:08,280 --> 00:32:12,280
+et d'autre part en proposant un contenu assez pauvre,
+
+630
+00:32:12,280 --> 00:32:14,280
+au départ, qui a fait triper personne
+
+631
+00:32:14,280 --> 00:32:15,280
+et tout le monde a rigolé en disant,
+
+632
+00:32:15,280 --> 00:32:17,280
+bon, ce n'est pas pour moi, allez, au revoir.
+
+633
+00:32:17,280 --> 00:32:20,280
+Et donc le Métaverse, c'est compliqué de parler de Métaverse aujourd'hui.
+
+634
+00:32:20,280 --> 00:32:22,280
+On pourrait presque parler d'extraverse,
+
+635
+00:32:22,280 --> 00:32:24,280
+c'est quelque chose d'extérieur.
+
+636
+00:32:24,280 --> 00:32:28,280
+Mais le côté spatial de l'informatique, ça, c'est intéressant.
+
+637
+00:32:28,280 --> 00:32:30,280
+C'est-à-dire que d'un seul coup, effectivement,
+
+638
+00:32:30,280 --> 00:32:31,280
+c'est ce que dit Xavier,
+
+639
+00:32:31,280 --> 00:32:33,280
+on pourra se retrouver dans un espace en commun
+
+640
+00:32:33,280 --> 00:32:36,280
+et échanger, partager des expériences,
+
+641
+00:32:36,280 --> 00:32:40,280
+voir des œuvres en commun, les discuter, faire des rooms, etc.
+
+642
+00:32:40,280 --> 00:32:42,280
+Et c'est vraiment le changement.
+
+643
+00:32:42,280 --> 00:32:46,280
+Est-ce que le prochain site web sera un espace virtuel?
+
+644
+00:32:46,280 --> 00:32:48,280
+Moi, je pense quand même.
+
+645
+00:32:48,280 --> 00:32:49,280
+Je pense.
+
+646
+00:32:49,280 --> 00:32:53,280
+Et ça ne s'appellera plus un Métaverse.
+
+647
+00:32:53,280 --> 00:32:54,280
+Ça, c'est sûr.
+
+648
+00:32:54,280 --> 00:32:55,280
+Voilà, voilà.
+
+649
+00:32:55,280 --> 00:32:58,280
+Ça ne s'appellera non plus plus, comme dit Chad, justement, site web.
+
+650
+00:32:58,280 --> 00:32:59,280
+Ça aura un autre nom.
+
+651
+00:32:59,280 --> 00:33:01,280
+Mais l'idée est là, en fait.
+
+652
+00:33:01,280 --> 00:33:03,280
+Ça aura sûrement un autre nom.
+
+653
+00:33:04,280 --> 00:33:09,280
+Probablement qu'on va avoir des expériences immersives
+
+654
+00:33:09,280 --> 00:33:11,280
+dont on n'a pas idée pour le moment.
+
+655
+00:33:11,280 --> 00:33:16,280
+Parce que là, le concept du Métaverse, il est un petit peu en berne.
+
+656
+00:33:16,280 --> 00:33:18,280
+Parce que bon, avec tout ce qui est passé,
+
+657
+00:33:18,280 --> 00:33:21,280
+en fait, avec l'intelligence artificielle qui est en train de révolutionner
+
+658
+00:33:21,280 --> 00:33:25,280
+notre rapport à l'information, au savoir,
+
+659
+00:33:25,280 --> 00:33:28,280
+là, on est à fond là-dessus.
+
+660
+00:33:28,280 --> 00:33:31,280
+Donc, je suppose qu'à un moment donné, le Métaverse va revenir à la charge.
+
+661
+00:33:31,280 --> 00:33:35,280
+Mais je pense qu'on ne fera pas comme on s'imaginait il n'y a pas si longtemps.
+
+662
+00:33:35,280 --> 00:33:38,280
+On se disait, on fera de la course dans le Métaverse et tout.
+
+663
+00:33:38,280 --> 00:33:41,280
+Je ne pense pas qu'il va y avoir un peu ça,
+
+664
+00:33:41,280 --> 00:33:45,280
+mais d'une manière qui n'a rien à voir avec la réalité.
+
+665
+00:33:45,280 --> 00:33:51,280
+Je pense qu'on va avoir un rapport justement à l'espace et à l'expérience virtuelle
+
+666
+00:33:51,280 --> 00:33:54,280
+qui sera vraiment différent de ce qu'on imaginait il n'y a même pas cinq ans.
+
+667
+00:33:54,280 --> 00:33:57,280
+Mais c'est difficile à dire quoi, par exemple.
+
+668
+00:33:58,280 --> 00:34:01,280
+On voit que les technos changent la donne.
+
+669
+00:34:01,280 --> 00:34:04,280
+Pour revenir un peu à la question artistique, il y a une très bonne exposition en ce moment
+
+670
+00:34:04,280 --> 00:34:09,280
+au Petit Palais sur les gravures, sur de la gravure avec des œuvres de Durer,
+
+671
+00:34:09,280 --> 00:34:12,280
+de Goya, etc., de Rembrandt même, des œuvres gravées.
+
+672
+00:34:12,280 --> 00:34:17,280
+Donc, des trucs qui datent de la fin de la Renaissance, début du XVIe, etc.
+
+673
+00:34:17,280 --> 00:34:18,280
+Et il y a un peu plus tard.
+
+674
+00:34:18,280 --> 00:34:21,280
+Et ça montre, on voit avec la gravure ce qui a changé,
+
+675
+00:34:21,280 --> 00:34:25,280
+c'est-à-dire qu'on a une techno qui a évolué, les eaux fortes, etc.
+
+676
+00:34:25,280 --> 00:34:28,280
+et qui a permis la diffusion large d'œuvres.
+
+677
+00:34:28,280 --> 00:34:31,280
+Auparavant, on avait des œuvres qui étaient peintes, c'était des pièces uniques.
+
+678
+00:34:31,280 --> 00:34:33,280
+Pour les voir, c'était assez compliqué.
+
+679
+00:34:33,280 --> 00:34:36,280
+Elles étaient chez des collectionneurs ou dans des lieux qui n'étaient pas forcément publics.
+
+680
+00:34:36,280 --> 00:34:40,280
+Alors que la gravure permet la diffusion, on fait des multiples et ça change la donne.
+
+681
+00:34:40,280 --> 00:34:44,280
+Une techno change la donne et change le statut de l'art et change la façon dont on regarde de l'art.
+
+682
+00:34:44,280 --> 00:34:46,280
+Là, on est exactement dans le même contexte.
+
+683
+00:34:46,280 --> 00:34:51,280
+C'est-à-dire qu'on a des nouvelles technos qui arrivent, dont on voit le potentiel,
+
+684
+00:34:51,280 --> 00:34:53,280
+même si on arrive difficilement à le définir aujourd'hui.
+
+685
+00:34:53,280 --> 00:34:55,280
+Je suis d'accord, on ne peut pas prédire ce qui va se passer dans cinq ans,
+
+686
+00:34:55,280 --> 00:35:02,280
+mais on voit un potentiel considérable, avec un « new deal » complètement,
+
+687
+00:35:02,280 --> 00:35:05,280
+une nouvelle façon de produire de l'art, de montrer de l'art, de partager de l'art,
+
+688
+00:35:05,280 --> 00:35:07,280
+et même de le vendre et de l'acheter.
+
+689
+00:35:07,280 --> 00:35:08,280
+Et même de le posséder.
+
+690
+00:35:08,280 --> 00:35:12,280
+On pourra très bien avoir des petites œuvres virtuelles qu'on va mettre sur sa cheminée.
+
+691
+00:35:12,280 --> 00:35:16,280
+On ne les verra pas si on n'a pas de « device » pour les voir, mais on sait qu'elles sont là.
+
+692
+00:35:16,280 --> 00:35:20,280
+Et le jour où on sort le téléphone ou l'iPad, on les voit.
+
+693
+00:35:20,280 --> 00:35:21,280
+Et ça change tout.
+
+694
+00:35:21,280 --> 00:35:23,280
+En fait, une techno change aussi.
+
+695
+00:35:23,280 --> 00:35:26,280
+La techno ne fait pas l'art, évidemment, bien sûr que non,
+
+696
+00:35:26,280 --> 00:35:28,280
+mais elle change la donne.
+
+697
+00:35:28,280 --> 00:35:30,280
+Et là, c'est ce qui est en train de se passer.
+
+698
+00:35:31,280 --> 00:35:35,280
+Justement, comment vous voyez l'intégration de l'IA dans tout ça?
+
+699
+00:35:36,280 --> 00:35:38,280
+J'ai un peu du mal avec l'IA.
+
+700
+00:35:38,280 --> 00:35:41,280
+Je considère que l'IA, c'est du traitement de bases de données colossales.
+
+701
+00:35:41,280 --> 00:35:45,280
+On voit beaucoup de traitements.
+
+702
+00:35:45,280 --> 00:35:48,280
+On ne voit pas encore énormément d'intelligence.
+
+703
+00:35:48,280 --> 00:35:53,280
+On voit des applications dans l'imagerie, dans la production d'images.
+
+704
+00:35:56,280 --> 00:36:00,280
+Moi, j'ai un peu de doute sur l'emballement autour de l'IA.
+
+705
+00:36:00,280 --> 00:36:03,280
+Je pense que la bulle de l'IA n'est pas loin d'exploser.
+
+706
+00:36:04,280 --> 00:36:06,280
+Ah ouais? Tu es pessimiste?
+
+707
+00:36:07,280 --> 00:36:11,280
+Pas pessimiste, mais maintenant, on met l'IA dans tout.
+
+708
+00:36:11,280 --> 00:36:14,280
+Je m'étonne de ne pas trouver des yaourts à l'IA au supermarché.
+
+709
+00:36:15,280 --> 00:36:18,280
+On balance de l'IA partout.
+
+710
+00:36:18,280 --> 00:36:23,280
+Donc non, on est au début d'un processus qui est complexe, qui est long,
+
+711
+00:36:23,280 --> 00:36:29,280
+de traitement d'énormes volumes de données, d'apprentissage.
+
+712
+00:36:32,280 --> 00:36:34,280
+On est encore au début de ça.
+
+713
+00:36:35,280 --> 00:36:37,280
+Ça fait ses preuves dans le domaine médical.
+
+714
+00:36:37,280 --> 00:36:40,280
+Ça permet d'écrire des mails facilement, des fois.
+
+715
+00:36:40,280 --> 00:36:44,280
+Ça permet de rigoler en entendant des pièges aux différents moteurs en place.
+
+716
+00:36:44,280 --> 00:36:50,280
+Mais les applications, aujourd'hui, finalement, je ne suis pas...
+
+717
+00:36:50,280 --> 00:36:53,280
+Et notamment dans l'art, il y a des expérimentations.
+
+718
+00:36:53,280 --> 00:36:55,280
+Évidemment, bien sûr que c'est un sujet d'expérimentation,
+
+719
+00:36:55,280 --> 00:36:58,280
+parce que ça relève de la pensée, du processus de création,
+
+720
+00:36:58,280 --> 00:36:59,280
+du processus de conception et tout ça.
+
+721
+00:36:59,280 --> 00:37:00,280
+Donc c'est intéressant.
+
+722
+00:37:00,280 --> 00:37:02,280
+Il y a énormément d'artistes qui s'intéressent à tout ça.
+
+723
+00:37:02,280 --> 00:37:06,280
+Moi, aujourd'hui, j'ai un peu de recul avec l'IA.
+
+724
+00:37:07,280 --> 00:37:09,280
+Et vous autres?
+
+725
+00:37:09,280 --> 00:37:11,280
+Il y a d'autres personnes qui n'ont pas parlé.
+
+726
+00:37:11,280 --> 00:37:12,280
+J'ai mal à...
+
+727
+00:37:12,280 --> 00:37:14,280
+Moi, je suis un peu plus...
+
+728
+00:37:14,280 --> 00:37:15,280
+plus...
+
+729
+00:37:15,280 --> 00:37:16,280
+Ouais, bullish.
+
+730
+00:37:19,280 --> 00:37:23,280
+Plus enthousiaste, dans le sens où je pense que ce que dit Denis est vrai,
+
+731
+00:37:23,280 --> 00:37:28,280
+par rapport au fait que c'est juste de la puissance de calcul supplémentaire.
+
+732
+00:37:28,280 --> 00:37:32,280
+Mais quand même, ça permet encore aussi des nouveaux trucs pour l'IA.
+
+733
+00:37:32,280 --> 00:37:35,280
+Et du coup, moi, j'essaie de m'en servir pour plein de trucs.
+
+734
+00:37:35,280 --> 00:37:39,280
+Mais vraiment, perso, boulot, création, tout, je m'en sers pour tout.
+
+735
+00:37:39,280 --> 00:37:43,280
+Et quand je dis « je m'en sers », c'est ouais, c'est chat GPT,
+
+736
+00:37:43,280 --> 00:37:49,280
+c'est des trucs d'image, texte ou image, texte ou 2D, texte ou 3D,
+
+737
+00:37:49,280 --> 00:37:51,280
+image tout vidéo, texte tout vidéo.
+
+738
+00:37:51,280 --> 00:37:53,280
+Tu vois, on peut faire plein de trucs de nos jours.
+
+739
+00:37:53,280 --> 00:37:55,280
+On n'est pas loin de pouvoir réaliser des petits films sympas.
+
+740
+00:37:55,280 --> 00:37:57,280
+Il y a des gens qui le font déjà très, très bien.
+
+741
+00:37:57,280 --> 00:37:59,280
+Et puis voilà, donc moi, tout ce qui permet aux gens de s'exprimer,
+
+742
+00:37:59,280 --> 00:38:02,280
+je suis quand même vachement pour.
+
+743
+00:38:02,280 --> 00:38:05,280
+C'est sûr que c'est un nouveau moyen d'expression.
+
+744
+00:38:05,280 --> 00:38:09,280
+Personnellement, moi, j'utilise essentiellement dans l'imagerie
+
+745
+00:38:09,280 --> 00:38:14,280
+où je crée mes propres textures, je crée avec ma propre base de données.
+
+746
+00:38:14,280 --> 00:38:17,280
+Justement, je vais chercher un peu plus loin.
+
+747
+00:38:17,280 --> 00:38:20,280
+Je fais certains mélanges qui parfois me prendra un peu plus de temps.
+
+748
+00:38:20,280 --> 00:38:24,280
+Et je trouve que c'est vraiment un moyen d'expression.
+
+749
+00:38:24,280 --> 00:38:26,280
+Qui parfois me prendra un peu plus de temps.
+
+750
+00:38:26,280 --> 00:38:29,280
+Et c'est vrai que je m'y perds facilement aussi.
+
+751
+00:38:29,280 --> 00:38:34,280
+Mais je considère ça comme un nouveau médium,
+
+752
+00:38:34,280 --> 00:38:39,280
+un peu comme une nouvelle corde en fait, pour aller creuser.
+
+753
+00:38:39,280 --> 00:38:44,280
+Enfin voilà, après, on va dire des fois sur un malentendu,
+
+754
+00:38:44,280 --> 00:38:49,280
+on ressort une idée, on peut vite la peaufiner, l'approfondir.
+
+755
+00:38:49,280 --> 00:38:51,280
+Et puis on garde ça pour le lendemain.
+
+756
+00:38:51,280 --> 00:38:53,280
+Et puis voilà, c'est un gain de temps.
+
+757
+00:38:53,280 --> 00:38:58,280
+Après, rien n'empêche que sans créativité, on n'arrive à pas grand chose.
+
+758
+00:38:58,280 --> 00:39:02,280
+Mais moi, je pense que c'est... je m'amuse aussi.
+
+759
+00:39:02,280 --> 00:39:07,280
+Je ne focalise pas uniquement sur ça, mais ça m'amuse bien en tout cas.
+
+760
+00:39:07,280 --> 00:39:13,280
+Alors, pour revenir sur la VR et la réalité augmentée,
+
+761
+00:39:13,280 --> 00:39:17,280
+il y a eu à un moment donné, il y a quelques années,
+
+762
+00:39:17,280 --> 00:39:21,280
+il y a eu une espèce de... en fait, la réalité virtuelle est arrivée en premier.
+
+763
+00:39:21,280 --> 00:39:24,280
+Et donc, il y avait toutes sortes de casques, etc.
+
+764
+00:39:24,280 --> 00:39:30,280
+Et puis, en sous-marin un petit peu,
+
+765
+00:39:30,280 --> 00:39:34,280
+pour la réalité augmentée, il n'y avait pas grand chose.
+
+766
+00:39:34,280 --> 00:39:38,280
+Il y avait notamment Microsoft qui développait le HoloLens.
+
+767
+00:39:38,280 --> 00:39:42,280
+Donc la première version, j'ai eu l'occasion de tester la première version,
+
+768
+00:39:42,280 --> 00:39:44,280
+c'était incroyable, mais pourtant, c'était tout petit.
+
+769
+00:39:44,280 --> 00:39:46,280
+C'était un petit carré devant les yeux.
+
+770
+00:39:46,280 --> 00:39:49,280
+Et puis après, ça s'est étendu avec la deuxième version.
+
+771
+00:39:49,280 --> 00:39:52,280
+Je ne sais pas trop où ils en sont, mais bon, apparemment,
+
+772
+00:39:52,280 --> 00:39:55,280
+de ce qu'a montré, je crois que c'est Apple récemment,
+
+773
+00:39:55,280 --> 00:40:00,280
+le prochain casque qui sera sur tout le champ de vision, ça a l'air.
+
+774
+00:40:00,280 --> 00:40:04,280
+Donc, on s'en va vers des choses qui sont carrément folles.
+
+775
+00:40:04,280 --> 00:40:11,280
+Je me suis demandé du coup, est-ce que la réalité virtuelle va survivre à ça?
+
+776
+00:40:11,280 --> 00:40:14,280
+Parce que ça ne va pas être un casque de réalité augmentée
+
+777
+00:40:14,280 --> 00:40:16,280
+qui va juste, pour faire de la réalité virtuelle,
+
+778
+00:40:16,280 --> 00:40:19,280
+bloquer la vue devant soi.
+
+779
+00:40:19,280 --> 00:40:23,280
+Ça y est, je vais dériffer moi, tu as entendu cette question d'or.
+
+780
+00:40:23,280 --> 00:40:26,280
+Mais encore une fois, je te dis, les trucs, il ne faut pas toujours les opposer.
+
+781
+00:40:26,280 --> 00:40:31,280
+Les deux, tu vois, le casque Quest 2 ou 3, il fait les deux.
+
+782
+00:40:31,280 --> 00:40:35,280
+Donc, tu peux choisir d'être dans un environnement totalement immersif.
+
+783
+00:40:35,280 --> 00:40:37,280
+Par exemple, pour le gaming, c'est super cool.
+
+784
+00:40:37,280 --> 00:40:43,280
+Moi, je joue en VR, je fais du FPS, je ne ferai plus jamais de FPS sur une…
+
+785
+00:40:44,280 --> 00:40:48,280
+Ce espace a été téléchargé par Spacesdown.com. Visitez pour télécharger votre espace aujourd'hui.
+
+786
+00:40:48,280 --> 00:40:49,280
+Sur un PC?
+
+787
+00:40:49,280 --> 00:40:53,280
+Oui, sur un PC, parce que je suis dedans, j'aime bien, ça s'y prête.
+
+788
+00:40:53,280 --> 00:40:56,280
+Et puis quand tu fais ça, tu as envie d'être à fond dans le truc.
+
+789
+00:40:56,280 --> 00:40:59,280
+Et puis, par exemple, quand je ne sais pas, quand je vais dessiner ou sculpter,
+
+790
+00:40:59,280 --> 00:41:03,280
+je vais le faire en réalité mixte, parce que j'ai envie de continuer à avoir l'environnement autour de moi,
+
+791
+00:41:03,280 --> 00:41:06,280
+j'ai envie de continuer à surveiller mes enfants, peu importe.
+
+792
+00:41:06,280 --> 00:41:08,280
+Mais le device permet les deux.
+
+793
+00:41:08,280 --> 00:41:12,280
+Je pense que moi, la principale barrière pour l'instant, c'est que les devices sont encore gros.
+
+794
+00:41:12,280 --> 00:41:13,280
+Il faut un gros casque et tout.
+
+795
+00:41:13,280 --> 00:41:18,280
+On n'a pas encore des lunettes toutes fines qui permettent de générer assez de puissance pour faire tout ça.
+
+796
+00:41:18,280 --> 00:41:21,280
+Mais ça va arriver, tu vois.
+
+797
+00:41:21,280 --> 00:41:23,280
+Mais du coup, oui, moi, je ne pose pas ces deux trucs-là.
+
+798
+00:41:23,280 --> 00:41:25,280
+La VR, c'est pour être complètement immergé.
+
+799
+00:41:25,280 --> 00:41:28,280
+Et c'est ce que tu as envie quand tu fais un jeu vidéo, par exemple.
+
+800
+00:41:28,280 --> 00:41:29,280
+C'est ça.
+
+801
+00:41:29,280 --> 00:41:32,280
+Et effectivement, c'est une histoire de device.
+
+802
+00:41:32,280 --> 00:41:36,280
+C'est-à-dire qu'avant, on avait des casques de réalité virtuelle.
+
+803
+00:41:36,280 --> 00:41:40,280
+Et puis les casques, effectivement, HoloLens, sur la réalité étendue.
+
+804
+00:41:41,280 --> 00:41:44,280
+Et aujourd'hui, les casques font les deux.
+
+805
+00:41:44,280 --> 00:41:46,280
+Donc, la barrière n'existe même plus.
+
+806
+00:41:46,280 --> 00:41:47,280
+Elle a sauté, en vérité.
+
+807
+00:41:50,280 --> 00:41:54,280
+Oui, mais c'est vrai que ça a été un frein parce que j'ai entendu pas mal de personnes qui disaient
+
+808
+00:41:54,280 --> 00:41:58,280
+« Ouais, avec ton casque, tu es tout seul chez toi, tu ne vois personne, etc. »
+
+809
+00:41:58,280 --> 00:42:03,280
+Même si c'était super social, finalement, avec les métaverses dans lesquelles on se donnait rendez-vous,
+
+810
+00:42:03,280 --> 00:42:04,280
+comme à la Citadelle, par exemple.
+
+811
+00:42:05,280 --> 00:42:11,280
+Mais le fait de pouvoir voir l'extérieur et d'être en réalité mixte, en réalité augmentée,
+
+812
+00:42:11,280 --> 00:42:13,280
+ça change tout.
+
+813
+00:42:13,280 --> 00:42:16,280
+Comme tu disais, Kat, tu peux surveiller tes gamins, cuisiner en même temps,
+
+814
+00:42:16,280 --> 00:42:19,280
+puis en même temps, tu peux zigouiller un gars si tu es en train de jouer.
+
+815
+00:42:22,280 --> 00:42:25,280
+Mais bon, voilà, ça reste un casque, tu es relié avec un câble,
+
+816
+00:42:25,280 --> 00:42:29,280
+ou en tout cas, tu es, on va dire, contraint par la batterie.
+
+817
+00:42:29,280 --> 00:42:31,280
+Enfin, voilà, ce n'est pas encore.
+
+818
+00:42:31,280 --> 00:42:33,280
+Mais bon, c'est les prémices.
+
+819
+00:42:33,280 --> 00:42:37,280
+Enfin, c'est déjà bien avancé et bien accessible pour pas mal de personnes quand même.
+
+820
+00:42:38,280 --> 00:42:39,280
+Puis, il faut refaire l'historique.
+
+821
+00:42:39,280 --> 00:42:42,280
+Oculus, le premier casque VR, un peu comme ça, nouvelle génération,
+
+822
+00:42:42,280 --> 00:42:45,280
+ce n'était pas le premier casque VR, mais c'est le premier casque VR
+
+823
+00:42:45,280 --> 00:42:49,280
+avec les écrans de téléphone devant les yeux, avec des lentilles devant.
+
+824
+00:42:50,280 --> 00:42:53,280
+C'était 2010, je crois, ou 2011, vers là.
+
+825
+00:42:53,280 --> 00:42:57,280
+Donc, en 12-13 ans, là, on a l'Apple Vision qui sort.
+
+826
+00:42:57,280 --> 00:42:59,280
+Le bon est colossal.
+
+827
+00:42:59,280 --> 00:43:02,280
+C'est toujours la vieille voie d'humour qu'on peut ressortir,
+
+828
+00:43:02,280 --> 00:43:07,280
+mais on peut imaginer que la prochaine itération des casques de chez Apple,
+
+829
+00:43:07,280 --> 00:43:10,280
+après le premier, Apple Vision Pro, la deuxième itération,
+
+830
+00:43:10,280 --> 00:43:13,280
+puis les nouvelles itérations chez Oculus, et puis Samsung,
+
+831
+00:43:13,280 --> 00:43:17,280
+je sais qu'ils travaillent aussi dessus comme des dingues
+
+832
+00:43:17,280 --> 00:43:19,280
+pour essayer de se mettre au niveau d'Apple.
+
+833
+00:43:19,280 --> 00:43:22,280
+On va encore faire un bond en avant considérable.
+
+834
+00:43:22,280 --> 00:43:24,280
+En fait, on rentre dans une ère des écrans,
+
+835
+00:43:24,280 --> 00:43:27,280
+et qui ne sont pas des écrans d'ordinateur et des écrans de téléphone.
+
+836
+00:43:27,280 --> 00:43:29,280
+On rentre dans une ère de nouveaux écrans.
+
+837
+00:43:29,280 --> 00:43:32,280
+On a dit tout à l'heure des écrans extérieurs, des espaces immersifs,
+
+838
+00:43:32,280 --> 00:43:35,280
+et puis des écrans qu'on va se mettre devant les yeux
+
+839
+00:43:35,280 --> 00:43:39,280
+pour visualiser du virtuel dans du réel ou alors du virtuel tout court.
+
+840
+00:43:39,280 --> 00:43:42,280
+Mais ça va très vite.
+
+841
+00:43:42,280 --> 00:43:45,280
+Oculus, 2011, 2010, 2011.
+
+842
+00:43:46,280 --> 00:43:49,280
+J'aime bien ce petit...
+
+843
+00:43:49,280 --> 00:43:51,280
+Cette petite description que tu viens de faire.
+
+844
+00:43:51,280 --> 00:43:53,280
+L'ère des écrans.
+
+845
+00:43:53,280 --> 00:43:54,280
+Mais oui, tu as raison.
+
+846
+00:43:54,280 --> 00:43:55,280
+Tu as probablement raison.
+
+847
+00:43:55,280 --> 00:43:56,280
+C'est vrai.
+
+848
+00:43:56,280 --> 00:43:58,280
+J'ai une autre...
+
+849
+00:43:58,280 --> 00:43:59,280
+En fait, c'est ça.
+
+850
+00:43:59,280 --> 00:44:03,280
+Dans le déroulement de la technologie d'ailleurs,
+
+851
+00:44:03,280 --> 00:44:04,280
+vu que...
+
+852
+00:44:04,280 --> 00:44:05,280
+En fait, tout à l'heure, j'ai...
+
+853
+00:44:05,280 --> 00:44:06,280
+Comment dire?
+
+854
+00:44:06,280 --> 00:44:07,280
+Je vais y arriver.
+
+855
+00:44:07,280 --> 00:44:09,280
+Tout à l'heure, j'ai parlé d'une exposition
+
+856
+00:44:09,280 --> 00:44:11,280
+qui avait lieu au jardin des Tuileries.
+
+857
+00:44:11,280 --> 00:44:14,280
+C'était un chemin, un parcours.
+
+858
+00:44:14,280 --> 00:44:18,280
+Et sur le parcours, il y avait des œuvres qu'on pouvait consulter
+
+859
+00:44:18,280 --> 00:44:20,280
+avec l'aide d'un téléphone.
+
+860
+00:44:20,280 --> 00:44:22,280
+Donc, c'était de la réalité augmentée.
+
+861
+00:44:22,280 --> 00:44:25,280
+Et moi, je me suis dit, OK, c'est cool.
+
+862
+00:44:25,280 --> 00:44:28,280
+Mais moi, ça me fait chier.
+
+863
+00:44:28,280 --> 00:44:29,280
+J'aime bien.
+
+864
+00:44:29,280 --> 00:44:30,280
+J'aime beaucoup la technologie.
+
+865
+00:44:30,280 --> 00:44:36,280
+Mais le truc de voir, de regarder au travers d'un rectangle
+
+866
+00:44:36,280 --> 00:44:39,280
+qui est l'iPad ou le téléphone, etc.
+
+867
+00:44:39,280 --> 00:44:41,280
+En plus, ça ne mobilise pas que ton regard
+
+868
+00:44:41,280 --> 00:44:43,280
+qui est figé sur l'écran.
+
+869
+00:44:43,280 --> 00:44:45,280
+Ça mobilise tout ton corps.
+
+870
+00:44:45,280 --> 00:44:47,280
+C'est très étrange comme expérience.
+
+871
+00:44:47,280 --> 00:44:50,280
+Mais bon, c'est les prémices de ce truc-là.
+
+872
+00:44:50,280 --> 00:44:52,280
+L'expérience n'est pas de la part.
+
+873
+00:44:52,280 --> 00:44:53,280
+D'accord.
+
+874
+00:44:53,280 --> 00:44:56,280
+Pour l'instant, c'est qu'à travers un terminal,
+
+875
+00:44:56,280 --> 00:44:59,280
+comme le téléphone et l'iPad.
+
+876
+00:44:59,280 --> 00:45:01,280
+On est aux prémices de ça.
+
+877
+00:45:01,280 --> 00:45:04,280
+Mais comme tu dis, c'est un peu ennuyant.
+
+878
+00:45:04,280 --> 00:45:06,280
+Elle était comment, cette exposition?
+
+879
+00:45:06,280 --> 00:45:09,280
+C'était des QR codes au sol que tu devais scanner
+
+880
+00:45:09,280 --> 00:45:12,280
+et au fur et à mesure, tu faisais apparaître les œuvres, c'est ça?
+
+881
+00:45:12,280 --> 00:45:13,280
+Non.
+
+882
+00:45:13,280 --> 00:45:15,280
+Alors, le détail technique, je ne sais pas
+
+883
+00:45:15,280 --> 00:45:17,280
+parce que ce n'était pas mon exposition à moi.
+
+884
+00:45:17,280 --> 00:45:18,280
+Je n'y suis pas allé.
+
+885
+00:45:18,280 --> 00:45:19,280
+On me l'a raconté.
+
+886
+00:45:19,280 --> 00:45:22,280
+C'était Oréon 3000 qui a organisé ça.
+
+887
+00:45:22,280 --> 00:45:24,280
+Ça avait l'air super cool.
+
+888
+00:45:24,280 --> 00:45:26,280
+Je ne critique pas la qualité du truc ou pas,
+
+889
+00:45:26,280 --> 00:45:27,280
+mais c'est juste le concept.
+
+890
+00:45:27,280 --> 00:45:29,280
+Ce n'est pas la première fois
+
+891
+00:45:29,280 --> 00:45:34,280
+que je fais face à ce genre de truc-là.
+
+892
+00:45:34,280 --> 00:45:37,280
+Par exemple, il y avait un autre projet
+
+893
+00:45:37,280 --> 00:45:39,280
+qui est super cool aussi.
+
+894
+00:45:39,280 --> 00:45:44,280
+C'est le gars qui a The Face, la Mona Lisa.
+
+895
+00:45:44,280 --> 00:45:46,280
+C'est un truc qui est en virtuel.
+
+896
+00:45:46,280 --> 00:45:52,280
+Il suffit d'aller avec l'application devant la vraie Mona Lisa
+
+897
+00:45:52,280 --> 00:45:54,280
+et tu mets le téléphone devant
+
+898
+00:45:54,280 --> 00:45:59,280
+et il y a quelque chose qui apparaît à la place de son visage.
+
+899
+00:45:59,280 --> 00:46:03,280
+Il y a plein de concepts comme ça qui existent,
+
+900
+00:46:03,280 --> 00:46:06,280
+mais il faut toujours le truc entre toi et…
+
+901
+00:46:06,280 --> 00:46:09,280
+Le point terminal, c'est sûr.
+
+902
+00:46:09,280 --> 00:46:11,280
+Ça, j'imagine que ça va être réglé le jour
+
+903
+00:46:11,280 --> 00:46:13,280
+où on aura tous des lunettes pas trop invasives
+
+904
+00:46:13,280 --> 00:46:15,280
+qui feront aussi de la réalité augmentée, etc.
+
+905
+00:46:15,280 --> 00:46:19,280
+Mais pour le moment, ce n'est pas…
+
+906
+00:46:19,280 --> 00:46:23,280
+L'expérience d'une œuvre en réalité augmentée
+
+907
+00:46:23,280 --> 00:46:24,280
+à travers un téléphone,
+
+908
+00:46:24,280 --> 00:46:27,280
+elle n'est pas top encore.
+
+909
+00:46:27,280 --> 00:46:29,280
+Ça, c'est clair.
+
+910
+00:46:29,280 --> 00:46:31,280
+On n'est qu'au tout début de ça.
+
+911
+00:46:31,280 --> 00:46:32,280
+Ça expérimente de tous les côtés.
+
+912
+00:46:32,280 --> 00:46:34,280
+Moi, c'est un de mes freins aussi.
+
+913
+00:46:34,280 --> 00:46:36,280
+J'ai vu pas mal d'expos de ce type-là.
+
+914
+00:46:36,280 --> 00:46:38,280
+C'est rarement réussi parce que finalement,
+
+915
+00:46:38,280 --> 00:46:40,280
+on voit qu'un morceau de l'œuvre,
+
+916
+00:46:40,280 --> 00:46:42,280
+c'est difficile à suivre, etc.
+
+917
+00:46:42,280 --> 00:46:47,280
+Et il faut trouver de nouvelles approches.
+
+918
+00:46:47,280 --> 00:46:49,280
+C'est pour ça que moi, je crois beaucoup
+
+919
+00:46:49,280 --> 00:46:51,280
+à cette nouvelle génération de casques qui sort, oui,
+
+920
+00:46:51,280 --> 00:46:53,280
+effectivement, et qu'il faut préparer ce terrain-là
+
+921
+00:46:53,280 --> 00:46:56,280
+avec cette idée-là de pouvoir vivre une expérience complète
+
+922
+00:46:56,280 --> 00:46:58,280
+avec une vision 360,
+
+923
+00:46:58,280 --> 00:46:59,280
+pas à travers une toute petite fenêtre,
+
+924
+00:46:59,280 --> 00:47:02,280
+à travers un timbre poste.
+
+925
+00:47:02,280 --> 00:47:04,280
+Regarder une œuvre à travers un timbre poste,
+
+926
+00:47:04,280 --> 00:47:05,280
+c'est difficile.
+
+927
+00:47:05,280 --> 00:47:07,280
+Mais avoir une vraie expérience d'immersion
+
+928
+00:47:07,280 --> 00:47:12,280
+ou de traverser une œuvre qui existe dans le monde réel,
+
+929
+00:47:12,280 --> 00:47:14,280
+je pense qu'on y arrivera.
+
+930
+00:47:14,280 --> 00:47:16,280
+C'est une histoire de 12, 24, 36 mois.
+
+931
+00:47:16,280 --> 00:47:18,280
+C'est vraiment très, très, très, très proche.
+
+932
+00:47:18,280 --> 00:47:21,280
+Aujourd'hui, effectivement, c'est un peu frustrant.
+
+933
+00:47:21,280 --> 00:47:23,280
+Moi, je suis pas frustré.
+
+934
+00:47:23,280 --> 00:47:24,280
+Je veux juste dire que pour moi,
+
+935
+00:47:24,280 --> 00:47:27,280
+il y a plein de trucs qu'on évoque ou qu'on fait.
+
+936
+00:47:27,280 --> 00:47:28,280
+Les expos que vous avez citées,
+
+937
+00:47:28,280 --> 00:47:30,280
+elles se font et c'est cool.
+
+938
+00:47:30,280 --> 00:47:31,280
+C'est quand même des trucs qu'on faisait pas
+
+939
+00:47:31,280 --> 00:47:33,280
+il y a quelques années et qu'on fait aujourd'hui
+
+940
+00:47:33,280 --> 00:47:35,280
+qui sont vachement cools.
+
+941
+00:47:35,280 --> 00:47:39,280
+Moi, les meet-ups en VR, j'en organise depuis 2020.
+
+942
+00:47:39,280 --> 00:47:40,280
+On les fait.
+
+943
+00:47:40,280 --> 00:47:41,280
+Ça fait un par semaine.
+
+944
+00:47:41,280 --> 00:47:44,280
+Ça fait plus de 150.
+
+945
+00:47:44,280 --> 00:47:45,280
+On les fait.
+
+946
+00:47:45,280 --> 00:47:46,280
+On est là.
+
+947
+00:47:46,280 --> 00:47:47,280
+On a l'impression.
+
+948
+00:47:47,280 --> 00:47:49,280
+Tu vois, j'ai réussi à faire des cours en VR,
+
+949
+00:47:49,280 --> 00:47:51,280
+mais c'est pas jeu-jeu.
+
+950
+00:47:51,280 --> 00:47:53,280
+C'est tout ce qui se fait en général.
+
+951
+00:47:53,280 --> 00:47:55,280
+Par exemple, là, META, ils vont...
+
+952
+00:47:55,280 --> 00:47:57,280
+Je suis pas fan, bien sûr, de META et tout,
+
+953
+00:47:57,280 --> 00:47:59,280
+mais malheureusement, c'est eux qui produisent le hardware.
+
+954
+00:47:59,280 --> 00:48:04,280
+Ils veulent streamer les matchs de la NBA en 360 en VR.
+
+955
+00:48:04,280 --> 00:48:06,280
+Quand tu vas regarder ton match de la NBA,
+
+956
+00:48:06,280 --> 00:48:07,280
+tu vas être dans le match.
+
+957
+00:48:07,280 --> 00:48:11,280
+Et du coup, moi, j'essaie de voir...
+
+958
+00:48:11,280 --> 00:48:12,280
+De toute façon, toutes les technologies,
+
+959
+00:48:12,280 --> 00:48:14,280
+pour moi, t'es obligé de prendre le positif.
+
+960
+00:48:14,280 --> 00:48:15,280
+Parce que si tu prends le négatif,
+
+961
+00:48:15,280 --> 00:48:18,280
+ils vont nous connaître dix fois mieux.
+
+962
+00:48:18,280 --> 00:48:19,280
+Ça va être des grosses corporations
+
+963
+00:48:19,280 --> 00:48:21,280
+qui vont espionner notre vie privée.
+
+964
+00:48:21,280 --> 00:48:22,280
+Et si, et ça, et j'en passe.
+
+965
+00:48:22,280 --> 00:48:24,280
+Et c'est totalement vrai.
+
+966
+00:48:24,280 --> 00:48:27,280
+Donc, du coup, t'es obligé soit de ne pas utiliser les outils,
+
+967
+00:48:27,280 --> 00:48:30,280
+soit d'être un cyber-hacker de la mort
+
+968
+00:48:30,280 --> 00:48:34,280
+pour les utiliser sans donner tes données.
+
+969
+00:48:34,280 --> 00:48:37,280
+Ou alors, tu les utilises et t'essaies de voir le positif.
+
+970
+00:48:37,280 --> 00:48:38,280
+Et malheureusement, moi,
+
+971
+00:48:38,280 --> 00:48:40,280
+j'ai pas le choix que de faire que la troisième solution.
+
+972
+00:48:40,280 --> 00:48:42,280
+Du coup, j'utilise les trucs,
+
+973
+00:48:42,280 --> 00:48:43,280
+mais j'essaie de voir le positif.
+
+974
+00:48:43,280 --> 00:48:45,280
+Et franchement, il y a plein de trucs...
+
+975
+00:48:45,280 --> 00:48:47,280
+Voilà, la VR apporte plein de choses.
+
+976
+00:48:47,280 --> 00:48:50,280
+La réalité augmentée apporte plein de choses aussi.
+
+977
+00:48:50,280 --> 00:48:51,280
+Et c'est vrai que les devices,
+
+978
+00:48:51,280 --> 00:48:53,280
+j'aimerais bien qu'ils progressent un peu plus vite.
+
+979
+00:48:53,280 --> 00:48:55,280
+C'est vrai que j'ai un peu cette frustration-là aussi, c'est vrai.
+
+980
+00:48:55,280 --> 00:48:56,280
+J'aimerais que ça aille un peu plus vite,
+
+981
+00:48:56,280 --> 00:48:58,280
+que les trucs soient de plus en plus petits et plus légers,
+
+982
+00:48:58,280 --> 00:49:02,280
+et que ça coûte pas 3 500 balles comme le prochain casque d'Apple,
+
+983
+00:49:02,280 --> 00:49:04,280
+que ça se démocratise un peu plus.
+
+984
+00:49:04,280 --> 00:49:05,280
+Mais on y viendra, quoi.
+
+985
+00:49:05,280 --> 00:49:07,280
+Et voilà, moi, je trouve en tout cas,
+
+986
+00:49:07,280 --> 00:49:09,280
+on peut déjà vivre des trucs assez fous.
+
+987
+00:49:09,280 --> 00:49:11,280
+Un casque Quest 3, ça vaut 500 balles.
+
+988
+00:49:11,280 --> 00:49:13,280
+Un Quest 2, aujourd'hui, ça vaut 300 balles.
+
+989
+00:49:13,280 --> 00:49:17,280
+Tu peux vraiment déjà aller dans des lieux peuplés
+
+990
+00:49:17,280 --> 00:49:19,280
+où tu vas rencontrer des gens.
+
+991
+00:49:19,280 --> 00:49:20,280
+Tu peux aller en VR.
+
+992
+00:49:20,280 --> 00:49:21,280
+Tu peux aller jouer.
+
+993
+00:49:21,280 --> 00:49:23,280
+Tu peux faire des trucs,
+
+994
+00:49:23,280 --> 00:49:26,280
+essayer de construire en réalité augmentée.
+
+995
+00:49:26,280 --> 00:49:27,280
+Tu peux créer.
+
+996
+00:49:27,280 --> 00:49:28,280
+Tu peux apprendre plein de trucs.
+
+997
+00:49:28,280 --> 00:49:29,280
+Tu peux apprendre le piano.
+
+998
+00:49:29,280 --> 00:49:31,280
+Il y a des applications en réalité mixte maintenant
+
+999
+00:49:31,280 --> 00:49:33,280
+où si tu as un piano chez toi,
+
+1000
+00:49:33,280 --> 00:49:35,280
+ça va juste te superposer des images.
+
+1001
+00:49:35,280 --> 00:49:36,280
+Tu verras toujours ta maison,
+
+1002
+00:49:36,280 --> 00:49:38,280
+mais tu verras les touches des cendres, machin.
+
+1003
+00:49:38,280 --> 00:49:40,280
+Tu peux apprendre le piano comme ça.
+
+1004
+00:49:40,280 --> 00:49:42,280
+Et j'imagine beaucoup plus de choses.
+
+1005
+00:49:42,280 --> 00:49:46,280
+J'imagine que ça va révolutionner pas mal aussi l'éducation, tout ça.
+
+1006
+00:49:46,280 --> 00:49:49,280
+Mais voilà, ça pour dire que tu peux déjà franchement bien t'amuser
+
+1007
+00:49:49,280 --> 00:49:51,280
+et tester des trucs assez fous.
+
+1008
+00:49:51,280 --> 00:49:53,280
+Et ça a évolué assez vite quand même.
+
+1009
+00:49:53,280 --> 00:49:54,280
+Et le cas, tu sais de quoi il parle?
+
+1010
+00:49:54,280 --> 00:49:55,280
+Parce qu'effectivement, je confirme,
+
+1011
+00:49:55,280 --> 00:49:58,280
+tu étais un pionnier des rencontres VR sur VRChat notamment
+
+1012
+00:49:58,280 --> 00:50:00,280
+et entre autres et d'autres supports
+
+1013
+00:50:00,280 --> 00:50:07,280
+autour de début 2020 avec Xavier, etc.
+
+1014
+00:50:07,280 --> 00:50:10,280
+Et vous étiez dans les premiers à avoir des rooms,
+
+1015
+00:50:10,280 --> 00:50:13,280
+des échanges, des rencontres et tout ça.
+
+1016
+00:50:13,280 --> 00:50:16,280
+Et c'est vrai que la VR, ça marche, ça, bien sûr.
+
+1017
+00:50:16,280 --> 00:50:19,280
+Mais à quel point ça marche surtout?
+
+1018
+00:50:19,280 --> 00:50:23,280
+Je vais apporter encore de la contradiction.
+
+1019
+00:50:24,280 --> 00:50:25,280
+Je le fais exprès un petit peu
+
+1020
+00:50:25,280 --> 00:50:28,280
+parce que je suis quand même un techno enthousiaste de ouf.
+
+1021
+00:50:28,280 --> 00:50:31,280
+Mais aussi, j'essaie de voir un peu,
+
+1022
+00:50:31,280 --> 00:50:34,280
+de comprendre pourquoi ça ne prend pas aussi vite
+
+1023
+00:50:34,280 --> 00:50:37,280
+que ce que je pensais que ça allait faire.
+
+1024
+00:50:37,280 --> 00:50:39,280
+Mais aussi parce qu'il y a quand même des défauts.
+
+1025
+00:50:39,280 --> 00:50:41,280
+C'est vrai que des fois, tu parles avec des gens
+
+1026
+00:50:41,280 --> 00:50:43,280
+qui ne sont pas techno enthousiastes du tout
+
+1027
+00:50:43,280 --> 00:50:44,280
+et qui te disent des choses,
+
+1028
+00:50:44,280 --> 00:50:46,280
+les raisons pour lesquelles ils n'aiment pas ça.
+
+1029
+00:50:46,280 --> 00:50:49,280
+Et puis, en fait, tu dis, c'est pas con.
+
+1030
+00:50:49,280 --> 00:50:52,280
+Et en gros, par exemple, l'histoire de l'immersion.
+
+1031
+00:50:52,280 --> 00:50:54,280
+J'ai eu un casque VR pendant longtemps.
+
+1032
+00:50:54,280 --> 00:50:56,280
+J'ai essayé plein de trucs et tout ça.
+
+1033
+00:50:56,280 --> 00:50:57,280
+Et c'est cool, en fait.
+
+1034
+00:50:57,280 --> 00:50:59,280
+Tu as une espèce d'effet waouh.
+
+1035
+00:50:59,280 --> 00:51:02,280
+Mais en même temps, je n'y retournais pas tant que ça.
+
+1036
+00:51:02,280 --> 00:51:06,280
+Parce que, évidemment, il y a tout le côté invasif du casque et tout.
+
+1037
+00:51:06,280 --> 00:51:09,280
+Mais en fait, pour vivre une expérience,
+
+1038
+00:51:09,280 --> 00:51:13,280
+par exemple, visiter, je ne sais pas, voir des œuvres,
+
+1039
+00:51:13,280 --> 00:51:17,280
+voir des œuvres dans un monde virtuel.
+
+1040
+00:51:17,280 --> 00:51:20,280
+En fait, comment dire?
+
+1041
+00:51:20,280 --> 00:51:22,280
+Quand tu voulais faire un truc,
+
+1042
+00:51:22,280 --> 00:51:24,280
+une activité de ce type-là, culturelle,
+
+1043
+00:51:24,280 --> 00:51:28,280
+où tu cherches de l'immersion,
+
+1044
+00:51:28,280 --> 00:51:31,280
+en fait, tu aimes bien aussi sortir de chez toi.
+
+1045
+00:51:31,280 --> 00:51:34,280
+Genre sortir de chez toi, aller dans un lieu,
+
+1046
+00:51:34,280 --> 00:51:38,280
+juste rencontrer des gens éventuellement sur ton passage.
+
+1047
+00:51:38,280 --> 00:51:43,280
+Il y a un côté expérience de ton corps, en fait,
+
+1048
+00:51:43,280 --> 00:51:46,280
+qui bouge, de tes sens, etc.
+
+1049
+00:51:46,280 --> 00:51:48,280
+Peut-être même des odeurs de je ne sais pas trop quoi et tout.
+
+1050
+00:51:48,280 --> 00:51:50,280
+Que tu n'as pas du tout, du tout, du tout,
+
+1051
+00:51:50,280 --> 00:51:53,280
+quand tu es juste chez toi, tu mets un casque et puis tu vas voir des trucs.
+
+1052
+00:51:53,280 --> 00:51:57,280
+Et je ne sais pas, du coup, en pensant à tout ça,
+
+1053
+00:51:57,280 --> 00:52:00,280
+je me suis vraiment posé la question de ces technologies-là,
+
+1054
+00:52:00,280 --> 00:52:02,280
+de ce que ça allait apporter.
+
+1055
+00:52:02,280 --> 00:52:05,280
+Alors que justement, dans tout ce qui a été développé récemment,
+
+1056
+00:52:05,280 --> 00:52:07,280
+justement, les espaces immersifs,
+
+1057
+00:52:07,280 --> 00:52:12,280
+c'est-à-dire avec tous les murs qui sont avec des projections, des machins et tout.
+
+1058
+00:52:12,280 --> 00:52:14,280
+Je me suis dit, ah, ce n'est pas bête, c'est une autre direction.
+
+1059
+00:52:14,280 --> 00:52:17,280
+C'est aussi l'immersif et tout, mais il y a un côté genre Tiva, etc.
+
+1060
+00:52:17,280 --> 00:52:19,280
+Je ne sais pas ce que vous pensez par rapport à ça.
+
+1061
+00:52:19,280 --> 00:52:23,280
+Je réponds là-dessus parce que moi, j'ai eu un peu l'effet aussi,
+
+1062
+00:52:23,280 --> 00:52:27,280
+où le casque VR, au tout début, je jouais au ping-pong tous les soirs.
+
+1063
+00:52:27,280 --> 00:52:29,280
+J'adorais ça.
+
+1064
+00:52:29,280 --> 00:52:31,280
+Et tu vois, tu te dis, tu as l'effet waouh.
+
+1065
+00:52:31,280 --> 00:52:33,280
+Et après, ça passe un peu.
+
+1066
+00:52:33,280 --> 00:52:36,280
+Et aujourd'hui, moi, je me sers de mon casque VR un petit peu tous les jours,
+
+1067
+00:52:36,280 --> 00:52:37,280
+mais je n'y passe pas ma vie.
+
+1068
+00:52:37,280 --> 00:52:39,280
+Mais je connais des gens qui passent leur vie en VR.
+
+1069
+00:52:39,280 --> 00:52:42,280
+Donc après, ça dépend de chacun.
+
+1070
+00:52:42,280 --> 00:52:45,280
+Mais je pense, encore une fois, il ne faut pas opposer les choses.
+
+1071
+00:52:45,280 --> 00:52:48,280
+C'est-à-dire que rien ne t'empêche d'aller dehors et heureusement de continuer
+
+1072
+00:52:48,280 --> 00:52:50,280
+à vivre de vraies expériences.
+
+1073
+00:52:50,280 --> 00:52:54,280
+Mais je pense que le monde digital apporte d'autres avantages,
+
+1074
+00:52:54,280 --> 00:52:55,280
+des fois qui sont insoupçonnés.
+
+1075
+00:52:55,280 --> 00:52:59,280
+Moi, quand j'ai commencé à organiser des meet-ups Bitcoin en VR,
+
+1076
+00:52:59,280 --> 00:53:01,280
+je ne me suis pas… Je l'ai fait au début parce que c'était le COVID
+
+1077
+00:53:01,280 --> 00:53:03,280
+et que je faisais déjà des meet-ups réels.
+
+1078
+00:53:03,280 --> 00:53:06,280
+Et je me suis dit, c'est cool, on va essayer de faire un truc en ligne
+
+1079
+00:53:06,280 --> 00:53:08,280
+pour remplacer.
+
+1080
+00:53:08,280 --> 00:53:10,280
+Et c'est vrai qu'en VR, on avait l'impression d'être ensemble
+
+1081
+00:53:10,280 --> 00:53:13,280
+alors qu'on venait de plusieurs continents et tout.
+
+1082
+00:53:13,280 --> 00:53:16,280
+Mais par exemple, je ne soupçonnais pas que c'était un avantage
+
+1083
+00:53:16,280 --> 00:53:18,280
+parce que tu ne te doxes pas.
+
+1084
+00:53:18,280 --> 00:53:21,280
+Tu vois, les bitcoiners, souvent dans les vraies conférences,
+
+1085
+00:53:21,280 --> 00:53:23,280
+soit ils n'y vont pas, soit ils n'ont pas envie de se doxer
+
+1086
+00:53:23,280 --> 00:53:26,280
+ou de montrer à quoi ils ressemblent.
+
+1087
+00:53:26,280 --> 00:53:30,280
+Là, on est dans des mondes digitaux où tu peux préserver ton identité.
+
+1088
+00:53:30,280 --> 00:53:34,280
+Alors peut-être pas du fournisseur, mais en tout cas des autres utilisateurs.
+
+1089
+00:53:34,280 --> 00:53:37,280
+Et ça, c'est un des avantages, par exemple, du monde digital.
+
+1090
+00:53:37,280 --> 00:53:40,280
+Je pense qu'il y a plusieurs usages différents.
+
+1091
+00:53:41,280 --> 00:53:44,280
+Et voilà, ça dépend des utilités.
+
+1092
+00:53:44,280 --> 00:53:46,280
+Je ne cherche pas la même chose.
+
+1093
+00:53:46,280 --> 00:53:50,280
+Si il fait beau, c'est clair que je préfère sortir et faire une sortie en famille.
+
+1094
+00:53:50,280 --> 00:53:52,280
+Mais du coup, je ne cherche pas du tout la même chose
+
+1095
+00:53:52,280 --> 00:53:56,280
+que lorsque j'essaie de me mettre dans mon monde pour jouer à un jeu vidéo.
+
+1096
+00:53:57,280 --> 00:53:58,280
+Oui, c'est sûr.
+
+1097
+00:53:58,280 --> 00:54:01,280
+L'idée, ce n'est pas d'y être 24 heures sur 24.
+
+1098
+00:54:01,280 --> 00:54:04,280
+C'est de choisir ton expérience.
+
+1099
+00:54:04,280 --> 00:54:09,280
+Tu dis que dimanche, c'est musée, jeudi soir, c'est un vernissage.
+
+1100
+00:54:09,280 --> 00:54:15,280
+Et puis, entre deux, le vendredi ou typiquement le samedi soir, rendez-vous à la Citadelle.
+
+1101
+00:54:15,280 --> 00:54:18,280
+Et puis, tu passes deux heures en VR.
+
+1102
+00:54:18,280 --> 00:54:23,280
+Et puis, voilà, tu as juste été émergé, tu as rencontré d'autres personnes.
+
+1103
+00:54:23,280 --> 00:54:27,280
+Mais ce n'est pas forcément qu'il faut imposer d'y être constamment.
+
+1104
+00:54:27,280 --> 00:54:29,280
+Après, ça sera peut-être avec autre chose.
+
+1105
+00:54:29,280 --> 00:54:31,280
+En tout cas, le Tv, aujourd'hui, ne te permet pas ça.
+
+1106
+00:54:31,280 --> 00:54:34,280
+C'est vrai que tu utilises un petit moment, deux heures, trois heures maxi.
+
+1107
+00:54:34,280 --> 00:54:36,280
+Et après, tu passes à autre chose.
+
+1108
+00:54:36,280 --> 00:54:38,280
+Je pense qu'il faut le considérer de cette manière.
+
+1109
+00:54:40,280 --> 00:54:42,280
+Ça dépend vraiment des gens et des usages.
+
+1110
+00:54:42,280 --> 00:54:43,280
+Je pense qu'on ne se rend pas compte.
+
+1111
+00:54:43,280 --> 00:54:46,280
+Mais il y a aussi des gens qui ont des mobilités réduites, par exemple,
+
+1112
+00:54:46,280 --> 00:54:49,280
+qui peuvent peut-être s'évader un peu ou en tout cas aller rencontrer des gens
+
+1113
+00:54:49,280 --> 00:54:52,280
+et avoir un peu plus l'impression d'être avec eux
+
+1114
+00:54:52,280 --> 00:54:55,280
+que s'ils le faisaient à travers un FaceTime, sur un téléphone.
+
+1115
+00:54:55,280 --> 00:54:59,280
+Je pense que ça dépend vraiment des cas d'usage que tu cherches.
+
+1116
+00:55:01,280 --> 00:55:03,280
+Oui, complètement.
+
+1117
+00:55:03,280 --> 00:55:05,280
+Oui, du coup, c'est ça.
+
+1118
+00:55:09,280 --> 00:55:11,280
+Dans les œuvres que vous avez faites,
+
+1119
+00:55:11,280 --> 00:55:13,280
+quand vous faites vos œuvres,
+
+1120
+00:55:13,280 --> 00:55:17,280
+est-ce que vous pensez à un type d'expérience en particulier?
+
+1121
+00:55:17,280 --> 00:55:21,280
+Ou alors vous vous dites, OK, je vais faire un truc en 3D
+
+1122
+00:55:21,280 --> 00:55:26,280
+et on va voir de quelle manière on va y accéder après.
+
+1123
+00:55:26,280 --> 00:55:30,280
+Ou d'abord, vous essayez de penser l'expérience
+
+1124
+00:55:30,280 --> 00:55:32,280
+et ensuite, vous attaquez le sujet.
+
+1125
+00:55:32,280 --> 00:55:35,280
+Je ne sais pas si c'est clair ce que j'ai dit, mais genre...
+
+1126
+00:55:35,280 --> 00:55:36,280
+Si, si, si.
+
+1127
+00:55:36,280 --> 00:55:42,280
+Moi, je pense avec ce nouveau medium,
+
+1128
+00:55:42,280 --> 00:55:44,280
+cette nouvelle dimension,
+
+1129
+00:55:44,280 --> 00:55:48,280
+tu repenses en tout cas moi, je repense mes sculptures.
+
+1130
+00:55:48,280 --> 00:55:51,280
+C'est-à-dire qu'une fois que je les réalise,
+
+1131
+00:55:51,280 --> 00:55:54,280
+ou en béton ou en bois, peu importe,
+
+1132
+00:55:54,280 --> 00:55:56,280
+ou je les re...
+
+1133
+00:55:56,280 --> 00:55:58,280
+Alors, je n'ai jamais scanné.
+
+1134
+00:55:58,280 --> 00:56:00,280
+Alors oui, j'ai essayé des scans,
+
+1135
+00:56:00,280 --> 00:56:02,280
+mais je ne suis pas super convaincu.
+
+1136
+00:56:02,280 --> 00:56:04,280
+Donc souvent, je les reconstruis en 3D
+
+1137
+00:56:04,280 --> 00:56:06,280
+et ensuite, je les projette.
+
+1138
+00:56:06,280 --> 00:56:09,280
+Donc voilà, il existe la sculpture de manière physique,
+
+1139
+00:56:09,280 --> 00:56:11,280
+une petite pièce de 60 cm.
+
+1140
+00:56:11,280 --> 00:56:14,280
+Et ensuite, je la projette en réalité augmentée.
+
+1141
+00:56:14,280 --> 00:56:17,280
+Et là, je peux donner une dimension monumentale,
+
+1142
+00:56:17,280 --> 00:56:19,280
+c'est-à-dire elle peut faire 12 m.
+
+1143
+00:56:19,280 --> 00:56:21,280
+Une fois qu'elle fait 12 m,
+
+1144
+00:56:21,280 --> 00:56:23,280
+justement, je me dis, OK, ce serait sympa
+
+1145
+00:56:23,280 --> 00:56:25,280
+de lui placer une petite porte.
+
+1146
+00:56:25,280 --> 00:56:27,280
+Et en fait, à travers cette porte,
+
+1147
+00:56:27,280 --> 00:56:29,280
+tu peux rentrer à l'intérieur de la sculpture.
+
+1148
+00:56:29,280 --> 00:56:31,280
+C'est ce que je pensais.
+
+1149
+00:56:31,280 --> 00:56:32,280
+Oui, voilà.
+
+1150
+00:56:32,280 --> 00:56:34,280
+Du coup, j'amène un côté immersif de la sculpture.
+
+1151
+00:56:34,280 --> 00:56:36,280
+Donc le collectionneur a une vraie pièce.
+
+1152
+00:56:36,280 --> 00:56:38,280
+Il a aussi un QR code ou un lien
+
+1153
+00:56:38,280 --> 00:56:40,280
+qu'il peut projeter en réalité augmentée
+
+1154
+00:56:40,280 --> 00:56:41,280
+dans son jardin.
+
+1155
+00:56:41,280 --> 00:56:43,280
+Il peut rentrer dans la pièce.
+
+1156
+00:56:43,280 --> 00:56:45,280
+Tous les murs sont tapissés,
+
+1157
+00:56:45,280 --> 00:56:47,280
+parfois avec des vraies œuvres d'art,
+
+1158
+00:56:47,280 --> 00:56:48,280
+parfois avec de l'AI.
+
+1159
+00:56:48,280 --> 00:56:50,280
+Après, je m'amuse au fur et à mesure,
+
+1160
+00:56:50,280 --> 00:56:52,280
+mais c'est comme donner une autre dimension
+
+1161
+00:56:52,280 --> 00:56:54,280
+à l'œuvre, en fait.
+
+1162
+00:56:54,280 --> 00:56:56,280
+Et je trouve ce qui était...
+
+1163
+00:56:56,280 --> 00:56:58,280
+à laquelle je n'avais pas pensé
+
+1164
+00:56:58,280 --> 00:57:00,280
+il y a à peine trois ans.
+
+1165
+00:57:00,280 --> 00:57:01,280
+Oui, c'est ça.
+
+1166
+00:57:01,280 --> 00:57:03,280
+Je pensais totalement à ça,
+
+1167
+00:57:03,280 --> 00:57:05,280
+l'histoire d'être dans l'œuvre.
+
+1168
+00:57:05,280 --> 00:57:07,280
+Parce que j'ai été, à un moment donné,
+
+1169
+00:57:07,280 --> 00:57:08,280
+au Centre Phi,
+
+1170
+00:57:08,280 --> 00:57:10,280
+et il y avait toutes sortes d'expériences VR.
+
+1171
+00:57:10,280 --> 00:57:11,280
+Et en fait, tu naviguais,
+
+1172
+00:57:11,280 --> 00:57:12,280
+tu te faisais un parcours
+
+1173
+00:57:12,280 --> 00:57:14,280
+et tu essayais toutes sortes d'expériences.
+
+1174
+00:57:14,280 --> 00:57:16,280
+Et puis, il y en avait une où tu avais le truc.
+
+1175
+00:57:16,280 --> 00:57:18,280
+Tu le vois à côté de toi,
+
+1176
+00:57:18,280 --> 00:57:19,280
+tu tournes la tête et tout.
+
+1177
+00:57:19,280 --> 00:57:21,280
+Et en fait, tu t'aperçois que tu peux bouger,
+
+1178
+00:57:21,280 --> 00:57:22,280
+tu peux être dedans.
+
+1179
+00:57:22,280 --> 00:57:24,280
+Et tu es comme, ah, OK, d'accord.
+
+1180
+00:57:24,280 --> 00:57:26,280
+Mais du coup, il y avait quand même cette idée de...
+
+1181
+00:57:26,280 --> 00:57:28,280
+C'est pour ça que c'est complexe
+
+1182
+00:57:28,280 --> 00:57:30,280
+comme truc,
+
+1183
+00:57:30,280 --> 00:57:32,280
+comme objet à appréhender,
+
+1184
+00:57:32,280 --> 00:57:33,280
+comme technologie.
+
+1185
+00:57:33,280 --> 00:57:36,280
+En tout cas, ce rapport avec la technologie,
+
+1186
+00:57:36,280 --> 00:57:38,280
+parce que je ne sais pas si je l'aurais fait chez moi.
+
+1187
+00:57:38,280 --> 00:57:40,280
+Je ne sais pas si j'aurais fait l'effort de me dire
+
+1188
+00:57:40,280 --> 00:57:42,280
+je vais me chercher une expérience d'une œuvre
+
+1189
+00:57:42,280 --> 00:57:43,280
+où je peux être dedans, etc.
+
+1190
+00:57:43,280 --> 00:57:45,280
+Ou alors, en plus, même si je fais ça,
+
+1191
+00:57:45,280 --> 00:57:47,280
+il faut l'installer, le machin, et tout.
+
+1192
+00:57:47,280 --> 00:57:49,280
+Alors que là, en fait, il a fallu que je me déplace
+
+1193
+00:57:49,280 --> 00:57:51,280
+dans un endroit où ils ont fait une curation
+
+1194
+00:57:51,280 --> 00:57:53,280
+et puis avec un parcours, machin,
+
+1195
+00:57:53,280 --> 00:57:55,280
+avec différents types d'expériences et tout.
+
+1196
+00:57:55,280 --> 00:57:57,280
+Du coup, c'est le début.
+
+1197
+00:57:57,280 --> 00:57:58,280
+Parce que c'est le début.
+
+1198
+00:57:58,280 --> 00:58:00,280
+On est en train, on va dire,
+
+1199
+00:58:00,280 --> 00:58:03,280
+de présenter toute cette nouvelle technologie.
+
+1200
+00:58:03,280 --> 00:58:07,280
+Donc, on est vraiment au départ, je pense.
+
+1201
+00:58:07,280 --> 00:58:11,280
+Il y a aussi une narration à élaborer
+
+1202
+00:58:11,280 --> 00:58:14,280
+autour de tout ça et des interactions à concevoir.
+
+1203
+00:58:14,280 --> 00:58:16,280
+C'est-à-dire que l'arrière est augmenté.
+
+1204
+00:58:16,280 --> 00:58:19,280
+Tout le monde se souvient des Pokémon,
+
+1205
+00:58:19,280 --> 00:58:21,280
+d'aller chasser les Pokémon.
+
+1206
+00:58:21,280 --> 00:58:23,280
+Moi, je me rappelle très bien au parc de Bercy
+
+1207
+00:58:23,280 --> 00:58:25,280
+quand j'ai vu les premières personnes couvrir partout
+
+1208
+00:58:25,280 --> 00:58:27,280
+avec leur téléphone à la main.
+
+1209
+00:58:27,280 --> 00:58:29,280
+C'était quand même hyper intriguant.
+
+1210
+00:58:29,280 --> 00:58:30,280
+Mais il y avait une histoire,
+
+1211
+00:58:30,280 --> 00:58:32,280
+il y avait un narratif autour de tout ça
+
+1212
+00:58:32,280 --> 00:58:35,280
+qui motivait à vivre cette expérience-là
+
+1213
+00:58:35,280 --> 00:58:37,280
+avec beaucoup de fun et beaucoup de gaming,
+
+1214
+00:58:37,280 --> 00:58:38,280
+évidemment, au passage.
+
+1215
+00:58:38,280 --> 00:58:40,280
+Mais dans l'art, c'est pareil.
+
+1216
+00:58:40,280 --> 00:58:44,280
+On a un nouvel espace à expérimenter,
+
+1217
+00:58:44,280 --> 00:58:48,280
+mais il faut concevoir des scénarios là-dedans.
+
+1218
+00:58:48,280 --> 00:58:49,280
+Il faut concevoir une interaction,
+
+1219
+00:58:49,280 --> 00:58:52,280
+il faut concevoir un contenu.
+
+1220
+00:58:52,280 --> 00:58:57,280
+Faire l'expérience de visiter le Louvre en réalité virtuelle,
+
+1221
+00:58:57,280 --> 00:58:59,280
+il vaut mieux aller au Louvre, franchement.
+
+1222
+00:58:59,280 --> 00:59:01,280
+C'est certain, c'est ce que tu dis.
+
+1223
+00:59:01,280 --> 00:59:04,280
+Mais avoir une expérience qui a été conçue
+
+1224
+00:59:04,280 --> 00:59:08,280
+comme une œuvre qui a été pensée, imaginée,
+
+1225
+00:59:08,280 --> 00:59:10,280
+avec quelles interactions,
+
+1226
+00:59:10,280 --> 00:59:12,280
+quelle histoire, quelle interaction,
+
+1227
+00:59:12,280 --> 00:59:14,280
+quel scénario,
+
+1228
+00:59:14,280 --> 00:59:18,280
+là, on ouvre un nouveau champ.
+
+1229
+00:59:18,280 --> 00:59:20,280
+C'est plus juste, on est plus contemplatif comme ça d'une œuvre,
+
+1230
+00:59:20,280 --> 00:59:22,280
+mais on interagit avec elle.
+
+1231
+00:59:22,280 --> 00:59:23,280
+C'était déjà le cas.
+
+1232
+00:59:23,280 --> 00:59:25,280
+Il y avait des installations,
+
+1233
+00:59:25,280 --> 00:59:27,280
+les œuvres comme installation,
+
+1234
+00:59:27,280 --> 00:59:28,280
+comme les colonnes du Buraine,
+
+1235
+00:59:28,280 --> 00:59:31,280
+comme les sautos, les pénétrables de sautos, etc.
+
+1236
+00:59:31,280 --> 00:59:32,280
+Ce sont des œuvres, on les expérimente.
+
+1237
+00:59:32,280 --> 00:59:35,280
+On circule à l'intérieur pour en faire l'expérience.
+
+1238
+00:59:35,280 --> 00:59:37,280
+C'est une nouvelle façon d'occuper l'espace, etc.
+
+1239
+00:59:37,280 --> 00:59:38,280
+Là, c'est pareil.
+
+1240
+00:59:38,280 --> 00:59:41,280
+On est dans un nouvel espace digital
+
+1241
+00:59:41,280 --> 00:59:44,280
+et on va devoir concevoir un nouveau type d'œuvre
+
+1242
+00:59:44,280 --> 00:59:46,280
+pour ce nouveau espace, pour ces nouveaux espaces-là.
+
+1243
+00:59:46,280 --> 00:59:48,280
+C'est bien tout l'enjeu.
+
+1244
+00:59:48,280 --> 00:59:51,280
+Oui, je suis entièrement d'accord avec ce que vient de dire Denis.
+
+1245
+00:59:51,280 --> 00:59:53,280
+On parlait d'immersion plus tôt aussi.
+
+1246
+00:59:53,280 --> 00:59:54,280
+On en a parlé.
+
+1247
+00:59:54,280 --> 00:59:58,280
+Tu as les moyens techniques pour mettre en place une scène
+
+1248
+00:59:58,280 --> 01:00:03,280
+ou stimuler quelque chose chez l'observateur ou le spectateur,
+
+1249
+01:00:03,280 --> 01:00:06,280
+mais après, tu as toute la narration qui va autour,
+
+1250
+01:00:06,280 --> 01:00:08,280
+qui doit s'ajouter et tout.
+
+1251
+01:00:08,280 --> 01:00:11,280
+Je voulais juste revenir sur la question que tu avais posée avant
+
+1252
+01:00:11,280 --> 01:00:15,280
+sur quelle technique et comment on en vient à concevoir nos œuvres.
+
+1253
+01:00:15,280 --> 01:00:17,280
+Moi, je voulais dire que ce qui est cool
+
+1254
+01:00:17,280 --> 01:00:19,280
+quand tu as plein de petits nouveaux outils comme ça,
+
+1255
+01:00:19,280 --> 01:00:22,280
+c'est que moi, je ne suis pas développeur,
+
+1256
+01:00:22,280 --> 01:00:23,280
+donc je ne peux pas les développer.
+
+1257
+01:00:23,280 --> 01:00:28,280
+Je ne peux pas créer des nouveaux outils IA, VR, XR, ni les améliorer.
+
+1258
+01:00:28,280 --> 01:00:30,280
+Par contre, ce que je peux essayer de faire,
+
+1259
+01:00:30,280 --> 01:00:32,280
+c'est de tout tester et de tout combiner.
+
+1260
+01:00:32,280 --> 01:00:37,280
+Je pense qu'on est encore tous, tous les gens qui s'y intéressent,
+
+1261
+01:00:37,280 --> 01:00:39,280
+en train d'essayer des nouvelles combinaisons.
+
+1262
+01:00:39,280 --> 01:00:42,280
+Parce que moi, des fois, je génère des trucs en 2D,
+
+1263
+01:00:42,280 --> 01:00:44,280
+puis je les transforme en 3D,
+
+1264
+01:00:44,280 --> 01:00:47,280
+puis après, je les repasse sur une vidéo,
+
+1265
+01:00:47,280 --> 01:00:49,280
+et puis en utilisant plusieurs outils.
+
+1266
+01:00:49,280 --> 01:00:52,280
+Et ces combinaisons-là, elles sont parfois inédites.
+
+1267
+01:00:52,280 --> 01:00:55,280
+Je n'aurai pas la prétention de dire que je trouve des combinaisons inédites
+
+1268
+01:00:55,280 --> 01:00:59,280
+tous les jours, mais en tout cas, on tout contribue tous à avancer
+
+1269
+01:00:59,280 --> 01:01:02,280
+et à créer des choses qui n'ont pas été vues avant.
+
+1270
+01:01:02,280 --> 01:01:04,280
+Donc, voilà, ça, c'est cool.
+
+1271
+01:01:04,280 --> 01:01:07,280
+Il y a un autre axe de réflexion,
+
+1272
+01:01:07,280 --> 01:01:10,280
+un truc sur lequel j'avais déjà pensé dans le passé.
+
+1273
+01:01:10,280 --> 01:01:14,280
+Je n'ai pas vraiment d'idées de plus.
+
+1274
+01:01:14,280 --> 01:01:17,280
+Je n'ai pas travaillé dessus, si vous voulez.
+
+1275
+01:01:17,280 --> 01:01:21,280
+Mais je m'étais dit, il y a aussi un truc...
+
+1276
+01:01:21,280 --> 01:01:25,280
+En fait, quand, par exemple, tout à l'heure,
+
+1277
+01:01:25,280 --> 01:01:29,280
+vous avez mentionné par rapport à l'architecture
+
+1278
+01:01:29,280 --> 01:01:32,280
+qui est importée dans les mondes virtuels, etc.
+
+1279
+01:01:32,280 --> 01:01:35,280
+Par exemple, si tu vas dans la vraie vie,
+
+1280
+01:01:35,280 --> 01:01:38,280
+visiter un temple grec, par exemple,
+
+1281
+01:01:38,280 --> 01:01:41,280
+donc, tu as l'expérience du temple grec.
+
+1282
+01:01:41,280 --> 01:01:45,280
+Et si on arrive à reconstruire ce temple à l'identique,
+
+1283
+01:01:45,280 --> 01:01:48,280
+avec des détails très, très fins, dans le monde virtuel,
+
+1284
+01:01:48,280 --> 01:01:51,280
+et que tu peux visiter ce temple de la même manière
+
+1285
+01:01:51,280 --> 01:01:54,280
+que tu l'aurais fait dans la vraie vie,
+
+1286
+01:01:54,280 --> 01:01:56,280
+ça ne vaut pas la même chose, en fait.
+
+1287
+01:01:56,280 --> 01:02:00,280
+Pas seulement parce que tu peux aussi toucher avec tes doigts, etc.
+
+1288
+01:02:00,280 --> 01:02:03,280
+Il y a aussi l'idée de...
+
+1289
+01:02:03,280 --> 01:02:06,280
+Je ne sais pas comment expliquer ça, d'histoire.
+
+1290
+01:02:06,280 --> 01:02:09,280
+C'est-à-dire que dans le monde virtuel,
+
+1291
+01:02:09,280 --> 01:02:12,280
+il n'y a pas d'axe du temps.
+
+1292
+01:02:12,280 --> 01:02:14,280
+Le truc est là pour toujours,
+
+1293
+01:02:14,280 --> 01:02:16,280
+c'est comme si il était là depuis toujours.
+
+1294
+01:02:16,280 --> 01:02:18,280
+Il n'y a pas vraiment un moment donné
+
+1295
+01:02:18,280 --> 01:02:21,280
+où tu peux dire, j'y étais avant ça et après ça.
+
+1296
+01:02:21,280 --> 01:02:23,280
+Tu vois ce que je veux dire?
+
+1297
+01:02:23,280 --> 01:02:26,280
+Il y a un petit côté dans l'expérience virtuelle
+
+1298
+01:02:26,280 --> 01:02:30,280
+qui sera quelque part toujours inférieur à l'expérience
+
+1299
+01:02:30,280 --> 01:02:34,280
+dans la vraie vie à cause de cet axe du temps.
+
+1300
+01:02:35,280 --> 01:02:38,280
+Je ne sais pas, faites-en ce que vous voulez.
+
+1301
+01:02:38,280 --> 01:02:40,280
+C'est super intéressant.
+
+1302
+01:02:40,280 --> 01:02:42,280
+C'est vraiment ça.
+
+1303
+01:02:42,280 --> 01:02:45,280
+C'est vrai, les choses ne se dégradent pas normalement
+
+1304
+01:02:45,280 --> 01:02:47,280
+dans le monde digital.
+
+1305
+01:02:47,280 --> 01:02:50,280
+C'est super intéressant ce que tu dis.
+
+1306
+01:02:50,280 --> 01:02:52,280
+Je pense aussi comme toi,
+
+1307
+01:02:52,280 --> 01:02:54,280
+que le cerveau fait bien la différence
+
+1308
+01:02:54,280 --> 01:02:56,280
+entre le réel et le virtuel.
+
+1309
+01:02:56,280 --> 01:02:58,280
+Je passe un peu de temps en VR,
+
+1310
+01:02:58,280 --> 01:03:00,280
+je ne rêve pas de VR.
+
+1311
+01:03:00,280 --> 01:03:04,280
+J'ai des souvenirs de trucs qu'on a fait cool en VR,
+
+1312
+01:03:04,280 --> 01:03:08,280
+mais mon cerveau n'arrive pas à reconstituer les images
+
+1313
+01:03:08,280 --> 01:03:10,280
+comme un souvenir réel.
+
+1314
+01:03:10,280 --> 01:03:13,280
+Je pense que le cerveau fait très bien la différence
+
+1315
+01:03:13,280 --> 01:03:15,280
+entre ces choses-là pour l'instant.
+
+1316
+01:03:15,280 --> 01:03:18,280
+Mais après, oui, je pense que très vite,
+
+1317
+01:03:18,280 --> 01:03:20,280
+les choses vont rentrer dans le quotidien
+
+1318
+01:03:20,280 --> 01:03:23,280
+quand le hardware sera peut-être un peu plus démocratisé.
+
+1319
+01:03:23,280 --> 01:03:26,280
+Du coup, on va tellement interagir avec des trucs,
+
+1320
+01:03:26,280 --> 01:03:28,280
+ça va devenir...
+
+1321
+01:03:28,280 --> 01:03:30,280
+Comme dans la présentation d'Apple,
+
+1322
+01:03:30,280 --> 01:03:32,280
+où ils font un call où il y a deux avatars,
+
+1323
+01:03:32,280 --> 01:03:34,280
+ou la présentation de Meta, pardon.
+
+1324
+01:03:34,280 --> 01:03:37,280
+Mais c'est vrai que quand tu fais un appel VR
+
+1325
+01:03:37,280 --> 01:03:39,280
+et que tu fais rentrer un pote dans le salon,
+
+1326
+01:03:39,280 --> 01:03:41,280
+c'est assez impressionnant, c'est cool.
+
+1327
+01:03:41,280 --> 01:03:44,280
+Et puis ça, je pense que ça deviendra très vite la norme.
+
+1328
+01:03:44,280 --> 01:03:47,280
+Et puis il y a quand même une histoire du digital.
+
+1329
+01:03:47,280 --> 01:03:49,280
+Il y a déjà des musées, par exemple,
+
+1330
+01:03:49,280 --> 01:03:52,280
+des interfaces, des ordinateurs passés.
+
+1331
+01:03:52,280 --> 01:03:54,280
+Je n'ai pas l'URL sous la main,
+
+1332
+01:03:54,280 --> 01:03:56,280
+mais c'est facile à trouver.
+
+1333
+01:03:56,280 --> 01:04:02,280
+Vous pouvez retrouver les interfaces de l'OS 7 d'Apple
+
+1334
+01:04:02,280 --> 01:04:04,280
+ou alors des premières versions de Windows, etc.
+
+1335
+01:04:04,280 --> 01:04:06,280
+C'est rigolo et ça vous replonge dans une histoire.
+
+1336
+01:04:06,280 --> 01:04:08,280
+Il y a quand même une mémoire digitale.
+
+1337
+01:04:08,280 --> 01:04:11,280
+Et de la même façon qu'on va voir des vieux films
+
+1338
+01:04:11,280 --> 01:04:13,280
+ou des vieilles séquences de l'INA
+
+1339
+01:04:13,280 --> 01:04:17,280
+avec des émissions qui ont eu lieu il y a dix ans,
+
+1340
+01:04:17,280 --> 01:04:19,280
+qu'on a bien aimé, etc.
+
+1341
+01:04:19,280 --> 01:04:21,280
+Il y a une mémoire quand même du digital.
+
+1342
+01:04:21,280 --> 01:04:23,280
+Et je pense qu'il y aura une mémoire et une conservation.
+
+1343
+01:04:23,280 --> 01:04:25,280
+Et d'ailleurs, la conservation des œuvres,
+
+1344
+01:04:25,280 --> 01:04:27,280
+c'est un gros sujet des œuvres digitales.
+
+1345
+01:04:27,280 --> 01:04:29,280
+Il y a RISOM qui s'en occupe,
+
+1346
+01:04:29,280 --> 01:04:32,280
+il y a plusieurs organismes qui sont spécialisés là-dedans
+
+1347
+01:04:32,280 --> 01:04:34,280
+dans la conservation des œuvres digitales.
+
+1348
+01:04:34,280 --> 01:04:35,280
+Et c'est un gros sujet.
+
+1349
+01:04:35,280 --> 01:04:37,280
+Mais je pense qu'au contraire, il y aura une mémoire.
+
+1350
+01:04:37,280 --> 01:04:39,280
+Ce ne sera pas la même émotion que dans le monde physique.
+
+1351
+01:04:39,280 --> 01:04:42,280
+On n'est pas dans les mêmes registres du tout d'émotions.
+
+1352
+01:04:42,280 --> 01:04:44,280
+De la même façon, on n'a pas la même émotion
+
+1353
+01:04:44,280 --> 01:04:46,280
+en lisant un livre ou en regardant un film.
+
+1354
+01:04:46,280 --> 01:04:48,280
+On est dans deux univers mentaux différents.
+
+1355
+01:04:48,280 --> 01:04:50,280
+Et là, c'est un peu la même chose.
+
+1356
+01:04:50,280 --> 01:04:52,280
+On n'aura pas les mêmes ressentis face à une œuvre digitale
+
+1357
+01:04:52,280 --> 01:04:56,280
+que ceux qu'on peut avoir face à une expérience physique.
+
+1358
+01:04:56,280 --> 01:05:00,280
+Mais il y a quand même cette idée de la conservation de la mémoire,
+
+1359
+01:05:00,280 --> 01:05:03,280
+de musées d'œuvres digitales, etc.
+
+1360
+01:05:03,280 --> 01:05:05,280
+Ça certainement.
+
+1361
+01:05:05,280 --> 01:05:07,280
+Oui, effectivement.
+
+1362
+01:05:07,280 --> 01:05:09,280
+Tu n'as pas tort.
+
+1363
+01:05:09,280 --> 01:05:12,280
+Et oui, il y avait une question que je voulais vous poser.
+
+1364
+01:05:12,280 --> 01:05:18,280
+C'est quoi votre rapport avec la musique ou le son dans vos œuvres?
+
+1365
+01:05:19,280 --> 01:05:23,280
+Est-ce que c'est quelque chose que vous pensez pour l'immersion?
+
+1366
+01:05:23,280 --> 01:05:29,280
+Est-ce que c'est quelque chose qui vous préoccupe ou ça ne vous intéresse pas du tout?
+
+1367
+01:05:29,280 --> 01:05:31,280
+C'est un gros sujet.
+
+1368
+01:05:31,280 --> 01:05:35,280
+Moi, clairement, j'ai une faiblesse de ce côté-là.
+
+1369
+01:05:35,280 --> 01:05:36,280
+C'est un gros sujet.
+
+1370
+01:05:36,280 --> 01:05:40,280
+Je pense que le son est clé dans l'expérience en général.
+
+1371
+01:05:40,280 --> 01:05:43,280
+Dès lors qu'on a une œuvre qui n'est pas statique.
+
+1372
+01:05:43,280 --> 01:05:46,280
+Une œuvre statique, ça se regarde différemment.
+
+1373
+01:05:46,280 --> 01:05:53,280
+Mais une œuvre en mouvement, il faut l'habiller avec quelque chose de sonore.
+
+1374
+01:05:53,280 --> 01:05:57,280
+Et moi, ce n'est pas mon univers, la création sonore.
+
+1375
+01:05:57,280 --> 01:06:00,280
+Donc, c'est effectivement un gros sujet et c'est très important.
+
+1376
+01:06:00,280 --> 01:06:06,280
+Et je sais que dans le design, la conception de jeux vidéo ou d'expériences en réalité virtuelle,
+
+1377
+01:06:06,280 --> 01:06:07,280
+moi, j'en ai fait beaucoup.
+
+1378
+01:06:07,280 --> 01:06:13,280
+Le design sonore, c'est un élément extrêmement important pour donner de la vie
+
+1379
+01:06:13,280 --> 01:06:17,280
+et apporter de l'émotion à une interaction.
+
+1380
+01:06:17,280 --> 01:06:21,280
+Le fait de cliquer sur un bouton, d'ouvrir un tiroir, etc.
+
+1381
+01:06:21,280 --> 01:06:22,280
+Ou de rentrer dans une pièce.
+
+1382
+01:06:22,280 --> 01:06:25,280
+Et donc, c'est très important.
+
+1383
+01:06:25,280 --> 01:06:29,280
+Moi, c'est une faiblesse, effectivement, parce que ce n'est pas mon univers premier.
+
+1384
+01:06:29,280 --> 01:06:32,280
+C'est celui de tout ce qui est visuel.
+
+1385
+01:06:34,280 --> 01:06:35,280
+C'est sûr, c'est sûr.
+
+1386
+01:06:35,280 --> 01:06:37,280
+Je confirme que c'est primordial.
+
+1387
+01:06:37,280 --> 01:06:40,280
+Là, je reviens à la semaine dernière.
+
+1388
+01:06:40,280 --> 01:06:46,280
+Je vis à Genève et je suis allé voir différentes représentations, dont une notamment.
+
+1389
+01:06:46,280 --> 01:06:53,280
+C'était lors du Geneva International Film Festival, où en fait, il y avait une présentation d'un film.
+
+1390
+01:06:53,280 --> 01:06:59,280
+Je ne me souviens plus du cinéaste chinois qui a fait une collaboration avec Jean-Michel Jarre.
+
+1391
+01:06:59,280 --> 01:07:06,280
+Qui lui s'occupait, justement, c'était une œuvre de réalité virtuelle qui dure 40 minutes,
+
+1392
+01:07:07,280 --> 01:07:10,280
+qui s'appelle The Eye and I.
+
+1393
+01:07:10,280 --> 01:07:18,280
+On rentre quatre personnes dans une salle et on vit, on va dire, la projection immersive pendant 40 minutes.
+
+1394
+01:07:18,280 --> 01:07:21,280
+Et tout est orchestré musicalement par Jean-Michel Jarre.
+
+1395
+01:07:21,280 --> 01:07:30,280
+Et lui croit énormément à cette immersion par la musique, mais encore avec une autre dimension.
+
+1396
+01:07:30,280 --> 01:07:38,280
+C'est vrai que comme il y a ces nouveaux casques maintenant qui font, on va dire, un son binaural.
+
+1397
+01:07:38,280 --> 01:07:40,280
+Je crois que c'est ça que ça s'appelle.
+
+1398
+01:07:40,280 --> 01:07:41,280
+Je crois que c'est ça, oui.
+
+1399
+01:07:41,280 --> 01:07:45,280
+C'est le truc où ça te place des sons dans l'espace comme ça.
+
+1400
+01:07:45,280 --> 01:07:48,280
+Oui, c'est un genre de 5.1 ou un 8.1.
+
+1401
+01:07:48,280 --> 01:07:50,280
+Je ne sais pas, c'est vraiment un 360.
+
+1402
+01:07:50,280 --> 01:07:54,280
+Et justement, ça donnait un petit peu moins bien avec le casque Oculus,
+
+1403
+01:07:54,280 --> 01:07:59,280
+parce qu'on n'avait pas forcément des bits ou des écouteurs vraiment qui cachaient les oreilles.
+
+1404
+01:07:59,280 --> 01:08:01,280
+Mais l'effet était vraiment là.
+
+1405
+01:08:01,280 --> 01:08:04,280
+D'ailleurs, je suis allé voir un petit...
+
+1406
+01:08:04,280 --> 01:08:07,280
+Il a fait une masterclass ensuite et il disait qu'il était un peu déçu.
+
+1407
+01:08:07,280 --> 01:08:09,280
+Enfin, voilà, il a expérimenté là.
+
+1408
+01:08:09,280 --> 01:08:14,280
+Il était un peu déçu de ne pas avoir des casques pour qu'on apprécie plus, on va dire,
+
+1409
+01:08:14,280 --> 01:08:18,280
+toute la musique qu'il a composée pour cette oeuvre.
+
+1410
+01:08:18,280 --> 01:08:20,280
+Mais oui, ça fait partie intégrante.
+
+1411
+01:08:20,280 --> 01:08:27,280
+Moi, dans les sculptures que je fais, toutes les mises en scène AR, je ne pense vraiment pas à musique.
+
+1412
+01:08:27,280 --> 01:08:31,280
+Et en fait, il devrait y avoir un petit bruit, un petit bruit d'oiseau.
+
+1413
+01:08:31,280 --> 01:08:36,280
+Enfin, voilà, ça, c'est encore une étape qu'il faut que je développe.
+
+1414
+01:08:36,280 --> 01:08:39,280
+Mais ce n'est déjà pas évident d'amener les gens.
+
+1415
+01:08:39,280 --> 01:08:42,280
+D'où en fait le thème de ce space.
+
+1416
+01:08:42,280 --> 01:08:51,280
+Mais comment amener le spectateur, le collectionneur à collectionner de l'AR et à le vivre?
+
+1417
+01:08:51,280 --> 01:08:57,280
+Si ce n'est pas à travers un casque ou à travers un terminal, un format, finalement, carte de crédit.
+
+1418
+01:08:57,280 --> 01:09:00,280
+Il n'y a pas trop l'effet bâou.
+
+1419
+01:09:00,280 --> 01:09:02,280
+Alors oui, c'est un effet, c'est une nouvelle technologie.
+
+1420
+01:09:02,280 --> 01:09:04,280
+Ah ouais, sympa, OK, on peut rentrer dedans.
+
+1421
+01:09:04,280 --> 01:09:07,280
+Mais voilà, ça s'arrête un peu là.
+
+1422
+01:09:07,280 --> 01:09:09,280
+Donc, c'est un petit peu le thème de discussion.
+
+1423
+01:09:09,280 --> 01:09:12,280
+J'imagine qu'on essaie un peu de chercher.
+
+1424
+01:09:12,280 --> 01:09:16,280
+Moi, je voulais juste dire que, oui, bien sûr, le son, c'est important.
+
+1425
+01:09:16,280 --> 01:09:19,280
+Et surtout quand tu crées des trucs vraiment complètement immersifs.
+
+1426
+01:09:19,280 --> 01:09:25,280
+Pour avoir créé des petits mondes virtuels, c'est vrai que dès que tu mets du son, ça change tout.
+
+1427
+01:09:25,280 --> 01:09:31,280
+Tu passes de l'environnement complètement froid à un truc plus chaleureux et plus immersif.
+
+1428
+01:09:31,280 --> 01:09:38,280
+Et je voulais dire que les IA, les nouveaux modèles d'IA qui sont dispo facilitent pas mal la tâche.
+
+1429
+01:09:38,280 --> 01:09:44,280
+Parce que moi, dans la Bitcoin Cyber City, par exemple, j'ai utilisé un modèle de Google qui s'appelle Bark.
+
+1430
+01:09:44,280 --> 01:09:47,280
+Où tu peux rentrer du texte et créer des voix.
+
+1431
+01:09:47,280 --> 01:09:50,280
+Et puis, elle lise ces voix-là pour créer de la voix.
+
+1432
+01:09:50,280 --> 01:09:54,280
+Et c'est un petit personnage qui t'accueille quand tu arrives dans la ville, qui dit « Welcome ».
+
+1433
+01:09:54,280 --> 01:09:56,280
+J'ai utilisé une IA pour faire ça.
+
+1434
+01:09:56,280 --> 01:10:03,280
+Et puis, tu peux aussi assez facilement créer des musiques ou des musiques d'ambiance avec MusicGen de nos jours et d'autres IA.
+
+1435
+01:10:03,280 --> 01:10:06,280
+Je crois qu'il y a AudioGradio, un truc comme ça.
+
+1436
+01:10:06,280 --> 01:10:12,280
+Il y a pas mal de modèles qui permettent de créer des musiques.
+
+1437
+01:10:12,280 --> 01:10:14,280
+Du coup, il faut s'en servir.
+
+1438
+01:10:17,280 --> 01:10:19,280
+Ça m'intéresse carrément ton histoire de Bark.
+
+1439
+01:10:21,280 --> 01:10:23,280
+Je suis en train de regarder.
+
+1440
+01:10:23,280 --> 01:10:25,280
+Je vois qu'il y a sur HuginFace.
+
+1441
+01:10:26,280 --> 01:10:28,280
+Je vais regarder ça.
+
+1442
+01:10:28,280 --> 01:10:29,280
+Ça m'intéresse.
+
+1443
+01:10:31,280 --> 01:10:33,280
+Il y a des commentaires.
+
+1444
+01:10:33,280 --> 01:10:34,280
+Je vais les lire.
+
+1445
+01:10:34,280 --> 01:10:36,280
+Il y en a que je les appelle complètement.
+
+1446
+01:10:37,280 --> 01:10:46,280
+Il y a 23 minutes, il y a PetitColibri qui disait qu'il y avait aussi une visite virtuelle de l'exposition Turner avec des commentaires pour différents tableaux, différents intervenants.
+
+1447
+01:10:46,280 --> 01:10:55,280
+Je crois que c'était au moment où je parlais de la visite des Tuileries, je crois.
+
+1448
+01:10:55,280 --> 01:11:00,280
+Ou alors, le Versus VR, Versus R.
+
+1449
+01:11:00,280 --> 01:11:02,280
+C'est par là.
+
+1450
+01:11:03,280 --> 01:11:09,280
+Et puis, il y a Cryptochienne qui dit, Buren, un des artistes les plus surcotés de l'histoire humaine.
+
+1451
+01:11:11,280 --> 01:11:13,280
+Il y a une question aussi.
+
+1452
+01:11:13,280 --> 01:11:18,280
+Il y a Waxcomics qui a posté en parlant d'ambiance audio.
+
+1453
+01:11:18,280 --> 01:11:20,280
+Non, ça, je ne vais pas le jouer.
+
+1454
+01:11:21,280 --> 01:11:28,280
+Et puis, Murtag, le cryptomancien, qui dit, je ne sais pas si vous connaissez le principe des salles e-sport, EVA.
+
+1455
+01:11:29,280 --> 01:11:33,280
+C'est très prenant et je pense que c'est le futur du e-sport dans un sens.
+
+1456
+01:11:33,280 --> 01:11:35,280
+Je ne sais pas ce que c'est. Est-ce que vous connaissiez?
+
+1457
+01:11:37,280 --> 01:11:38,280
+Non, moi, je ne connais pas.
+
+1458
+01:11:39,280 --> 01:11:41,280
+EVA, non, je ne connais pas particulièrement.
+
+1459
+01:11:41,280 --> 01:11:46,280
+Mais je suis convaincu que le futur du e-sport est en VR, moi, parce que ça, c'est sûr.
+
+1460
+01:11:47,280 --> 01:11:58,280
+Est-ce que peut-être qu'il fait référence au truc où tu es dans une grande salle, tu as un casque de VR et en fait, tu fais un FPS avec ton casque,
+
+1461
+01:11:58,280 --> 01:12:03,280
+mais en même temps, tu n'es pas cloîtré dans une pièce, dans un carré.
+
+1462
+01:12:03,280 --> 01:12:04,280
+Oui, c'est ça, tu as raison.
+
+1463
+01:12:06,280 --> 01:12:11,280
+Mais moi, je suis convaincu que le VR, c'est le futur de l'e-sport.
+
+1464
+01:12:11,280 --> 01:12:17,280
+Je joue pas mal en VR, je fais quelques heures par semaine en ce moment de FPS.
+
+1465
+01:12:17,280 --> 01:12:18,280
+Et puis, ce n'est pas pareil.
+
+1466
+01:12:18,280 --> 01:12:25,280
+Quand tu fais les mouvements, quand tu es complètement immergé, ce n'est pas du tout le même exercice que d'être sur ton canapé avec une manette.
+
+1467
+01:12:25,280 --> 01:12:28,280
+Déjà, tu bouges un peu plus, tu transpires un peu plus.
+
+1468
+01:12:28,280 --> 01:12:32,280
+Et puis surtout, ton cerveau, au bout d'un moment, est complètement immergé.
+
+1469
+01:12:32,280 --> 01:12:37,280
+Tu as vraiment tous tes sens qui sont concentrés sur ce que tu fais.
+
+1470
+01:12:38,280 --> 01:12:41,280
+Je pense que j'en suis sûr.
+
+1471
+01:12:41,280 --> 01:12:46,280
+Je pense que d'ailleurs, ça va être cool à regarder parce que, sur la mesure qu'il y aura des jeux en réalité virtuelle ou mixte,
+
+1472
+01:12:46,280 --> 01:12:49,280
+on peut avoir des trucs assez cool à regarder aussi.
+
+1473
+01:12:49,280 --> 01:12:51,280
+Sinon, il y a la drogue.
+
+1474
+01:12:51,280 --> 01:12:53,280
+Ça coûte beaucoup moins cher.
+
+1475
+01:12:55,280 --> 01:12:56,280
+C'est une immersion totale, oui.
+
+1476
+01:12:58,280 --> 01:13:02,280
+Alors, il y a Bitloading qui dit « Good night, les chads ».
+
+1477
+01:13:02,280 --> 01:13:05,280
+Il y a le projet Wonderland, il y a quelques temps.
+
+1478
+01:13:05,280 --> 01:13:10,280
+Aujourd'hui, il y a l'humanité AI PIN, le smartphone sans écran.
+
+1479
+01:13:12,280 --> 01:13:14,280
+Je ne connais aucun de ces produits.
+
+1480
+01:13:14,280 --> 01:13:18,280
+J'ai vu passer. Je ne suis pas hyper renseigné, mais c'est un produit qui vient de sortir.
+
+1481
+01:13:18,280 --> 01:13:20,280
+C'est un espèce de petit pin, ce que tu mets.
+
+1482
+01:13:22,280 --> 01:13:24,280
+C'est un assistant AI.
+
+1483
+01:13:24,280 --> 01:13:28,280
+Je pense que ça doit avoir un GPT intégré plus un BARC.
+
+1484
+01:13:28,280 --> 01:13:30,280
+On en revient à combiner les nouveaux outils.
+
+1485
+01:13:31,280 --> 01:13:34,280
+Du coup, tu dois avoir une espèce de vocale pour t'aider.
+
+1486
+01:13:34,280 --> 01:13:36,280
+Il faut que je regarde, il ne faut pas que je dise des conneries.
+
+1487
+01:13:36,280 --> 01:13:38,280
+En tout cas, j'ai vu passer ça rapidement.
+
+1488
+01:13:38,280 --> 01:13:40,280
+Il y a des articles qui sortent en ce moment là-dessus.
+
+1489
+01:13:40,280 --> 01:13:41,280
+Ça a l'air intéressant.
+
+1490
+01:13:41,280 --> 01:13:43,280
+C'est un assistant AI, je crois.
+
+1491
+01:13:49,280 --> 01:13:51,280
+Je vais digre là-dessus.
+
+1492
+01:13:51,280 --> 01:13:52,280
+Ça m'a l'air intéressant.
+
+1493
+01:13:54,280 --> 01:13:58,280
+Si vous avez d'ailleurs dans l'audience des questions, des choses à dire,
+
+1494
+01:13:58,280 --> 01:14:00,280
+n'hésitez pas, parce que c'est un peu le last call.
+
+1495
+01:14:00,280 --> 01:14:02,280
+Ça fait un peu plus d'une heure qu'on est ensemble.
+
+1496
+01:14:04,280 --> 01:14:08,280
+J'ai épuisé mon puits de questions.
+
+1497
+01:14:08,280 --> 01:14:14,280
+Je suis parti, je vous ai lancé plein de trucs dans différents thèmes que je voulais aborder.
+
+1498
+01:14:14,280 --> 01:14:17,280
+J'arrive un peu au bout des trucs.
+
+1499
+01:14:17,280 --> 01:14:20,280
+Mais effectivement, vous avez dit des trucs super intéressants.
+
+1500
+01:14:23,280 --> 01:14:25,280
+Je ne sais pas comment faire la synthèse de tout ce qu'on a dit.
+
+1501
+01:14:28,280 --> 01:14:30,280
+J'aimerais peut-être poser une question.
+
+1502
+01:14:30,280 --> 01:14:33,280
+C'est quoi vos projets futurs?
+
+1503
+01:14:33,280 --> 01:14:35,280
+Vous en allez vers où?
+
+1504
+01:14:35,280 --> 01:14:38,280
+Quel type de techno? Quel type d'art?
+
+1505
+01:14:38,280 --> 01:14:41,280
+Est-ce que d'ailleurs, j'imagine qu'il y a des liens.
+
+1506
+01:14:41,280 --> 01:14:45,280
+Ça qui est cool, c'est que les techno évoluent.
+
+1507
+01:14:45,280 --> 01:14:50,280
+Et l'art est souvent lié à la techno qu'on utilise.
+
+1508
+01:14:50,280 --> 01:14:56,280
+J'imagine qu'il y a quand même des synergies qui se font à ce niveau-là.
+
+1509
+01:14:56,280 --> 01:14:58,280
+C'est quoi vos projets futurs?
+
+1510
+01:14:59,280 --> 01:15:01,280
+Je pense que c'est intéressant de travailler ensemble.
+
+1511
+01:15:01,280 --> 01:15:10,280
+De travailler en équipe, d'intégrer des musiciens, des concepteurs, des développeurs, des artistes.
+
+1512
+01:15:10,280 --> 01:15:18,280
+Je pense qu'on a intérêt à collaborer pour élaborer des choses de plus en plus intéressantes.
+
+1513
+01:15:18,280 --> 01:15:20,280
+Je tends un peu vers l'art.
+
+1514
+01:15:20,280 --> 01:15:25,280
+À jouer plus collectif, dans tous les sens du terme.
+
+1515
+01:15:27,280 --> 01:15:29,280
+C'est sûr.
+
+1516
+01:15:30,280 --> 01:15:33,280
+C'est une question que je me pose pas mal en ce moment.
+
+1517
+01:15:33,280 --> 01:15:38,280
+Je rejoins Denis, parce que c'est vrai que c'est cool d'échanger avec d'autres passionnés.
+
+1518
+01:15:38,280 --> 01:15:41,280
+Ça nourrit.
+
+1519
+01:15:41,280 --> 01:15:44,280
+Ça t'en veux toujours plus, des interactions comme ça.
+
+1520
+01:15:44,280 --> 01:15:47,280
+Mais moi, c'est de la question que je me pose en ce moment.
+
+1521
+01:15:47,280 --> 01:15:49,280
+C'est quel média choisir?
+
+1522
+01:15:49,280 --> 01:15:51,280
+Parce qu'en fait, je n'ai pas envie de choisir.
+
+1523
+01:15:51,280 --> 01:15:53,280
+Je trouve génial de pouvoir faire de la musique.
+
+1524
+01:15:53,280 --> 01:15:55,280
+Je trouve génial de pouvoir faire de la vidéo.
+
+1525
+01:15:55,280 --> 01:15:59,280
+Je trouve génial de pouvoir faire de la 3D, de la VR.
+
+1526
+01:15:59,280 --> 01:16:03,280
+Je réfléchis tout le temps à ça.
+
+1527
+01:16:03,280 --> 01:16:09,280
+C'est un peu comme un truc un peu difforme que j'essaie de former dans mon cerveau.
+
+1528
+01:16:09,280 --> 01:16:12,280
+Je me dis, qu'est-ce qu'on peut prendre pour combiner tout ça?
+
+1529
+01:16:12,280 --> 01:16:14,280
+J'ai envie de faire des trucs qui combinent tout ça
+
+1530
+01:16:14,280 --> 01:16:17,280
+et qui tirent avantage de plusieurs de ces médias.
+
+1531
+01:16:17,280 --> 01:16:19,280
+Mais j'ai du mal à choisir.
+
+1532
+01:16:19,280 --> 01:16:21,280
+En plus, ça m'intéresse tellement.
+
+1533
+01:16:21,280 --> 01:16:22,280
+De toute façon, je n'arrive pas à choisir.
+
+1534
+01:16:22,280 --> 01:16:23,280
+J'ai envie de tester des trucs.
+
+1535
+01:16:23,280 --> 01:16:26,280
+Je n'ai jamais tokenisé ni vendu une pièce audio, par exemple.
+
+1536
+01:16:26,280 --> 01:16:30,280
+Mais je continue à générer des musiques, à essayer d'en faire.
+
+1537
+01:16:30,280 --> 01:16:31,280
+Parce que ça me plaît aussi.
+
+1538
+01:16:31,280 --> 01:16:34,280
+J'ai du mal à m'interdire l'exploration.
+
+1539
+01:16:34,280 --> 01:16:36,280
+Je ne sais pas trop vers quoi je vais aller.
+
+1540
+01:16:36,280 --> 01:16:39,280
+J'ai envie de faire encore de l'AR, ça c'est sûr.
+
+1541
+01:16:39,280 --> 01:16:45,280
+Je sais quand même que j'ai envie de continuer l'AR et forcément la 3D.
+
+1542
+01:16:45,280 --> 01:16:48,280
+Mais je ne m'interdis rien d'autre.
+
+1543
+01:16:49,280 --> 01:16:53,280
+Ça va être un truc de fou de ce point de vue-là.
+
+1544
+01:16:53,280 --> 01:16:57,280
+J'ai souvent mentionné ma propre expérience en tant que musicien
+
+1545
+01:16:57,280 --> 01:16:59,280
+où je faisais de la musique sur ordi
+
+1546
+01:16:59,280 --> 01:17:03,280
+et j'avais accès à toutes les possibilités qui existent littéralement.
+
+1547
+01:17:03,280 --> 01:17:06,280
+Parce que tu as tous les softwares qui te permettent de faire ce que tu veux.
+
+1548
+01:17:06,280 --> 01:17:09,280
+Et au bout d'un moment, ça m'a rendu...
+
+1549
+01:17:09,280 --> 01:17:13,280
+Comme j'aime tout, je fais quoi comme musique?
+
+1550
+01:17:13,280 --> 01:17:15,280
+C'est vraiment trop bizarre.
+
+1551
+01:17:15,280 --> 01:17:18,280
+Et ça m'a un petit peu bloqué.
+
+1552
+01:17:18,280 --> 01:17:22,280
+Et quand je suis retourné sur du matériel,
+
+1553
+01:17:22,280 --> 01:17:25,280
+je me suis dit que je ne vais faire que de la musique sur du matériel physique.
+
+1554
+01:17:25,280 --> 01:17:27,280
+Et du coup, ça limite les possibilités.
+
+1555
+01:17:27,280 --> 01:17:30,280
+Et du coup, je suis devenu beaucoup plus productif.
+
+1556
+01:17:30,280 --> 01:17:35,280
+Le fait que j'ai moins d'options, ça m'a fait retrouver ma créativité.
+
+1557
+01:17:35,280 --> 01:17:40,280
+Et j'imagine que c'est le même struggle en ce moment pour les artistes visuels.
+
+1558
+01:17:40,280 --> 01:17:42,280
+Il y a trop d'outils de partout.
+
+1559
+01:17:42,280 --> 01:17:44,280
+C'est un truc de fou.
+
+1560
+01:17:44,280 --> 01:17:48,280
+C'est vraiment compliqué pour faire des choix.
+
+1561
+01:17:48,280 --> 01:17:50,280
+C'est sûr, trop de pistes.
+
+1562
+01:17:50,280 --> 01:17:53,280
+Et on peut rapidement s'y perdre.
+
+1563
+01:17:53,280 --> 01:17:58,280
+En tout cas, bon courage à vous pour la suite des événements.
+
+1564
+01:17:58,280 --> 01:18:03,280
+Si jamais vous cherchez un musicien pour faire des petites choses, je suis là éventuellement.
+
+1565
+01:18:03,280 --> 01:18:05,280
+C'est ça.
+
+1566
+01:18:05,280 --> 01:18:07,280
+Et puis c'est ça.
+
+1567
+01:18:07,280 --> 01:18:10,280
+Je dis non, mais oui.
+
+1568
+01:18:10,280 --> 01:18:13,280
+Moi, je suis chaud pour des collabs.
+
+1569
+01:18:14,280 --> 01:18:20,280
+Et surtout, dans l'audience, si jamais vous êtes sensible à l'appel qui vient d'être passé,
+
+1570
+01:18:20,280 --> 01:18:24,280
+n'hésitez pas à contacter les artistes qui viennent de s'exprimer.
+
+1571
+01:18:24,280 --> 01:18:28,280
+En tout cas, c'était super intéressant comme entretien.
+
+1572
+01:18:28,280 --> 01:18:29,280
+C'était vraiment cool.
+
+1573
+01:18:29,280 --> 01:18:31,280
+Il faudrait qu'on s'en fasse plus souvent.
+
+1574
+01:18:31,280 --> 01:18:34,280
+Et je vous souhaite bon courage pour la suite des événements.
+
+1575
+01:18:34,280 --> 01:18:40,280
+Si on veut consulter, puisque tout à l'heure, vous avez dit que l'exposition que vous faites,
+
+1576
+01:18:40,280 --> 01:18:47,280
+l'exposition qui s'appelle Reality Revolution, elle est encore accessible, c'est ça?
+
+1577
+01:18:47,280 --> 01:18:51,280
+Oui, je crois que tu as envoyé le lien, Cat.
+
+1578
+01:18:51,280 --> 01:18:52,280
+Oui, c'est vrai.
+
+1579
+01:18:52,280 --> 01:18:53,280
+Oui, exactement.
+
+1580
+01:18:53,280 --> 01:19:00,280
+Oui, on a un petit vernissage ce week-end avec Xavier sur une autre expo,
+
+1581
+01:19:00,280 --> 01:19:03,280
+dans laquelle on va représenter des pièces.
+
+1582
+01:19:03,280 --> 01:19:08,280
+Et l'expo qu'on a faite en mars, elle a duré presque deux mois, mais elle est passée maintenant.
+
+1583
+01:19:08,280 --> 01:19:12,280
+Et il y a toujours des pièces qui sont dispo à la galerie.
+
+1584
+01:19:12,280 --> 01:19:15,280
+Si vous passez, vous pouvez demander à les voir.
+
+1585
+01:19:15,280 --> 01:19:17,280
+Je voulais te remercier aussi, Cat.
+
+1586
+01:19:17,280 --> 01:19:18,280
+C'était super cool.
+
+1587
+01:19:18,280 --> 01:19:21,280
+C'était cool de chatter avec Xavier et Denis.
+
+1588
+01:19:21,280 --> 01:19:26,280
+On a abordé plein de sujets qui sont intéressants.
+
+1589
+01:19:26,280 --> 01:19:31,280
+On regarde tous ça, on l'expérimente plus ou moins.
+
+1590
+01:19:31,280 --> 01:19:37,280
+Et je trouve que c'est cool qu'on fasse tous partie plus ou moins de toutes ces nouvelles choses qui se passent.
+
+1591
+01:19:38,280 --> 01:19:40,280
+Oui, c'est passionnant.
+
+1592
+01:19:40,280 --> 01:19:45,280
+On vit une époque complètement hyper passionnante.
+
+1593
+01:19:45,280 --> 01:19:47,280
+Et ça va même un petit peu trop vite.
+
+1594
+01:19:47,280 --> 01:19:51,280
+C'est juste fou.
+
+1595
+01:19:51,280 --> 01:19:54,280
+Parce que là, juste l'IA, c'est pas possible.
+
+1596
+01:19:54,280 --> 01:19:57,280
+D'ailleurs, en parlant de ça, c'est parfait.
+
+1597
+01:19:57,280 --> 01:19:59,280
+Pour magnifiquement réaliser.
+
+1598
+01:19:59,280 --> 01:20:03,280
+Demain, c'est l'émission spéciale IA.
+
+1599
+01:20:04,280 --> 01:20:07,280
+D'habitude, je suis accompagné par Sefou et Gui.
+
+1600
+01:20:07,280 --> 01:20:09,280
+Demain, je ne sais pas qui sera là parmi les deux.
+
+1601
+01:20:09,280 --> 01:20:10,280
+Par contre, moi, je serai là.
+
+1602
+01:20:10,280 --> 01:20:13,280
+Et de toute façon, j'ai un milliard de trucs à vous montrer.
+
+1603
+01:20:13,280 --> 01:20:18,280
+Des trucs, non seulement des choses dont je veux parler, mais aussi des choses que j'aurais expérimenté.
+
+1604
+01:20:18,280 --> 01:20:23,280
+Donc, si vous êtes intéressé par le sujet, venez.
+
+1605
+01:20:23,280 --> 01:20:25,280
+22h, comme tous les soirs.
+
+1606
+01:20:25,280 --> 01:20:28,280
+Je vous souhaite une très bonne soirée à tous.
+
+1607
+01:20:28,280 --> 01:20:29,280
+Merci encore, Cato.
+
+1608
+01:20:29,280 --> 01:20:30,280
+Merci, Denis.
+
+1609
+01:20:30,280 --> 01:20:31,280
+Merci, Xavier.
+
+1610
+01:20:32,280 --> 01:20:33,280
+Merci, Chan.
+
+1611
+01:20:33,280 --> 01:20:34,280
+Merci à tous.
+
+1612
+01:20:34,280 --> 01:20:35,280
+Bye bye.
+
+1613
+01:20:35,280 --> 01:20:36,280
+Ciao.
+
+1614
+01:20:36,280 --> 01:20:37,280
+Merci beaucoup.
+
+1615
+01:20:37,280 --> 01:20:38,280
+Ciao.
+
+1616
+01:20:38,280 --> 01:20:39,280
+Et puis, merci à ceux qui sont venus écouter.
+
+1617
+01:20:39,280 --> 01:20:40,280
+On se dit rendez-vous demain.
+
+1618
+01:20:40,280 --> 01:20:41,280
+Voilà.
+
+1619
+01:20:41,280 --> 01:20:42,280
+Salut, salut.
+
+1620
+01:20:42,280 --> 01:20:43,280
+Bravo.
+
+1621
+01:20:43,280 --> 01:20:44,280
+Merci.
+
+1622
+01:20:44,280 --> 01:20:45,280
+Ciao.
+
+1623
+01:20:45,280 --> 01:20:46,280
+Ciao.
+
+1624
+01:20:46,280 --> 01:20:47,280
+Ciao.
+
+1625
+01:20:47,280 --> 01:20:48,280
+Ciao.
+
+1626
+01:22:01,280 --> 01:22:03,280
+Ciao.
