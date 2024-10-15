@@ -9,7 +9,7 @@ from openai import OpenAI
 from typing import List
 
 # Initialize the OpenAI client
-openai_api_key = os.environ.get('OPENAI_API_KEY')
+openai_api_key = st.secrets["openai"]["api_key"]
 client = OpenAI(api_key=openai_api_key)
 
 def chunk_transcriptions(transcriptions, chunk_size=1000, overlap=100):
